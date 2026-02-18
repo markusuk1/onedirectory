@@ -28,6 +28,12 @@ export default function Header() {
               Find Operators
             </Link>
             <Link
+              href="/guides"
+              className="text-sm text-text-light hover:text-primary transition-colors"
+            >
+              Guides
+            </Link>
+            <Link
               href="/about"
               className="text-sm text-text-light hover:text-primary transition-colors"
             >
