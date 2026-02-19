@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/api/",
     },
-    sitemap: "https://minibushirenortheast.co.uk/sitemap.xml",
+    sitemap: "https://hirenortheast.co.uk/sitemap.xml",
   };
 }

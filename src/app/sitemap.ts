@@ -1,7 +1,8 @@
 import type { MetadataRoute } from "next";
 import { getAllBusinesses, getLocations } from "@/lib/data";
+import { getAllGuideSlugs } from "@/lib/guides";
 
-const BASE_URL = "https://minibushirenortheast.co.uk";
+const BASE_URL = "https://hirenortheast.co.uk";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const businesses = getAllBusinesses();
@@ -37,6 +38,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.6,
+    })),
+    {
+      url: `${BASE_URL}/guides`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    },
+    ...getAllGuideSlugs().map((slug) => ({
+      url: `${BASE_URL}/guides/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     })),
   ];
 }
