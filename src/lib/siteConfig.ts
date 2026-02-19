@@ -103,7 +103,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     name: "Minibus Hire Yorkshire",
     shortName: "Yorkshire",
     logoPrefix: "YK",
-    domain: "hireyorkshire.co.uk",
+    domain: "hire-yorkshire.co.uk",
     region: "Yorkshire",
     description:
       "Compare minibus and coach hire companies across Yorkshire. Get free quotes from trusted operators in Leeds, Sheffield, York, Hull, Bradford and more.",
