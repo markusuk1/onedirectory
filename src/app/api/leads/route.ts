@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import pool, { initDb } from "@/lib/db";
+import { getSiteId } from "@/lib/siteConfig";
 
 export async function POST(request: NextRequest) {
   try {
@@ -10,10 +11,11 @@ export async function POST(request: NextRequest) {
     const userAgent = request.headers.get("user-agent") || "";
 
     await pool.query(
-      `INSERT INTO leads (type, business_slug, business_name, name, email, phone, date, passengers, pickup, destination, journey_type, message, ip, user_agent)
-       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14)`,
+      `INSERT INTO leads (type, site, business_slug, business_name, name, email, phone, date, passengers, pickup, destination, journey_type, message, ip, user_agent)
+       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
       [
         body.type || "quote_request",
+        getSiteId(),
         body.businessSlug || null,
         body.businessName || null,
         body.name || null,

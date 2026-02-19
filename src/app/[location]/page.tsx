@@ -7,6 +7,7 @@ import {
   getLocationBySlugWithCount,
 } from "@/lib/data";
 import { getAllLocationSlugs } from "@/lib/locations";
+import { getSiteConfig } from "@/lib/siteConfig";
 import BusinessCard from "@/components/business/BusinessCard";
 
 export async function generateStaticParams() {
@@ -88,7 +89,7 @@ export default async function LocationPage({
               <p className="text-text-light">
                 No operators found in this location yet.
               </p>
-              <Link href="/quote" className="text-primary hover:underline mt-2 inline-block">
+              <Link href="/get-quotes" className="text-primary hover:underline mt-2 inline-block">
                 Request a quote and we&apos;ll find operators for you
               </Link>
             </div>
@@ -100,7 +101,7 @@ export default async function LocationPage({
       <section className="bg-surface py-8 md:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-xl font-bold text-text mb-6">
-            Other Locations in the North East
+            Other Locations in the {getSiteConfig().shortName}
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {allLocations
@@ -134,10 +135,10 @@ export default async function LocationPage({
             Get free quotes from local operators
           </p>
           <Link
-            href="/quote"
+            href="/get-quotes"
             className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold px-6 py-3 rounded-lg transition-colors"
           >
-            Get a Free Quote
+            Get Quotes For Me
           </Link>
         </div>
       </section>

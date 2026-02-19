@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import pool, { initDb } from "@/lib/db";
+import { getSiteId } from "@/lib/siteConfig";
 
 export async function POST(request: NextRequest) {
   try {
@@ -10,9 +11,9 @@ export async function POST(request: NextRequest) {
     const userAgent = request.headers.get("user-agent") || "";
 
     await pool.query(
-      `INSERT INTO leads (type, business_slug, ip, user_agent)
-       VALUES ($1, $2, $3, $4)`,
-      [body.type || "phone_reveal", body.businessSlug || null, ip, userAgent]
+      `INSERT INTO leads (type, site, business_slug, ip, user_agent)
+       VALUES ($1, $2, $3, $4, $5)`,
+      [body.type || "phone_reveal", getSiteId(), body.businessSlug || null, ip, userAgent]
     );
 
     return NextResponse.json({ success: true });

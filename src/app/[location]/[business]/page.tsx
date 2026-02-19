@@ -11,6 +11,7 @@ import StarRating from "@/components/business/StarRating";
 import ClickToReveal from "@/components/business/ClickToReveal";
 import OpeningHours from "@/components/business/OpeningHours";
 import BusinessCard from "@/components/business/BusinessCard";
+import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
 export async function generateStaticParams() {
   return getAllBusinesses().map((b) => ({
@@ -220,12 +221,15 @@ export default async function BusinessPage({
                 )}
 
                 <Link
-                  href="/quote"
+                  href="/get-quotes"
                   className="flex items-center justify-center gap-2 bg-accent hover:bg-accent-dark text-white font-semibold py-3 px-6 rounded-lg transition-colors w-full"
                 >
-                  Get a Free Quote
+                  Get Quotes For Me
                 </Link>
               </div>
+
+              {/* Managed Quote CTA */}
+              <ManagedQuoteCTA compact />
 
               {/* Location info */}
               <div className="bg-surface border border-border rounded-xl p-5">

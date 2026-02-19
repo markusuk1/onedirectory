@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import QuoteForm from "@/components/quote/QuoteForm";
+import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
+import { getSiteConfig } from "@/lib/siteConfig";
+
+const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: "Get a Free Minibus Hire Quote",
-  description:
-    "Request free, no-obligation quotes from trusted minibus and coach hire operators across the North East of England.",
+  description: `Request free, no-obligation quotes from trusted minibus and coach hire operators across the ${site.region}.`,
 };
 
 export default function QuotePage() {
@@ -30,6 +33,13 @@ export default function QuotePage() {
 
         <div className="bg-white border border-border rounded-xl p-6 md:p-8">
           <QuoteForm />
+        </div>
+
+        <div className="mt-8">
+          <p className="text-center text-text-light text-sm mb-4">
+            Or save time and let us do the work...
+          </p>
+          <ManagedQuoteCTA />
         </div>
       </div>
     </>

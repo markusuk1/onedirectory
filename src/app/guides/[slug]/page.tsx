@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/guides";
 import { getLocationBySlug } from "@/lib/locations";
+import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
 export async function generateStaticParams() {
   return getAllGuideSlugs().map((slug) => ({ slug }));
@@ -60,20 +61,8 @@ export default async function GuidePage({
         </p>
 
         {/* CTA */}
-        <div className="bg-primary/5 border border-primary/20 rounded-xl p-6 mb-10">
-          <p className="text-text font-semibold mb-2">
-            Need a quick quote?
-          </p>
-          <p className="text-text-light text-sm mb-4">
-            Compare {guide.title.toLowerCase()} companies across the North
-            East. Free, no-obligation quotes.
-          </p>
-          <Link
-            href="/quote"
-            className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold px-6 py-3 rounded-lg transition-colors"
-          >
-            Get a Free Quote
-          </Link>
+        <div className="mb-10">
+          <ManagedQuoteCTA compact />
         </div>
 
         {/* Main content sections */}
@@ -140,28 +129,8 @@ export default async function GuidePage({
         )}
 
         {/* Bottom CTA */}
-        <div className="mt-12 bg-primary rounded-xl p-8 text-center text-white">
-          <h2 className="text-xl md:text-2xl font-bold mb-3">
-            Ready to Book?
-          </h2>
-          <p className="text-white/80 mb-5">
-            Compare operators and get free quotes from verified companies
-            across the North East.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Link
-              href="/quote"
-              className="bg-accent hover:bg-accent-dark text-white font-semibold px-6 py-3 rounded-lg transition-colors"
-            >
-              Get a Free Quote
-            </Link>
-            <Link
-              href="/newcastle"
-              className="bg-white/10 hover:bg-white/20 text-white font-semibold px-6 py-3 rounded-lg transition-colors"
-            >
-              Browse Operators
-            </Link>
-          </div>
+        <div className="mt-12">
+          <ManagedQuoteCTA />
         </div>
       </article>
 

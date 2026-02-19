@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { GUIDES } from "@/lib/guides";
+import { getSiteConfig } from "@/lib/siteConfig";
+
+const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: "Hire Guides | Tips, Prices & Advice",
-  description:
-    "Expert guides on minibus and coach hire in the North East. Party buses, self-drive hire, airport transfers, wedding transport and more.",
+  description: `Expert guides on minibus and coach hire in the ${site.shortName}. Party buses, self-drive hire, airport transfers, wedding transport and more.`,
 };
 
 export default function GuidesPage() {
@@ -26,8 +28,8 @@ export default function GuidesPage() {
           Minibus &amp; Coach Hire Guides
         </h1>
         <p className="text-text-light mb-8">
-          Everything you need to know about hiring minibuses and coaches in the
-          North East. Prices, tips, and expert advice.
+          Everything you need to know about hiring minibuses and coaches in the{" "}
+          {site.shortName}. Prices, tips, and expert advice.
         </p>
 
         <div className="grid gap-4">

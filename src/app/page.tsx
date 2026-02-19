@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { getLocations, getFeaturedBusinesses } from "@/lib/data";
+import { getSiteConfig } from "@/lib/siteConfig";
 import BusinessCard from "@/components/business/BusinessCard";
+import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
 export default function HomePage() {
   const locations = getLocations();
@@ -9,6 +11,7 @@ export default function HomePage() {
     (sum, loc) => sum + loc.businessCount,
     0
   );
+  const site = getSiteConfig();
 
   return (
     <>
@@ -18,7 +21,7 @@ export default function HomePage() {
           <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
             Find Minibus & Coach Hire
             <br />
-            in North East England
+            in {site.region}
           </h1>
           <p className="text-lg md:text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Compare {totalBusinesses}+ trusted operators across{" "}
@@ -26,10 +29,10 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/quote"
+              href="/get-quotes"
               className="bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
             >
-              Get a Free Quote
+              Get Quotes For Me
             </Link>
             <Link
               href="/search"
@@ -72,7 +75,7 @@ export default function HomePage() {
             Top Rated Operators
           </h2>
           <p className="text-text-light mb-8">
-            Highest rated minibus and coach hire companies in the North East
+            Highest rated minibus and coach hire companies in the {site.shortName}
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {featured.map((business) => (
@@ -128,7 +131,7 @@ export default function HomePage() {
               { title: "Coach Hire", desc: "Full-size coaches for larger groups. Ideal for school trips, tours and long-distance travel." },
               { title: "Party Bus", desc: "Party buses with sound systems and lighting for hen dos, stag dos and birthday celebrations." },
               { title: "Self-Drive Hire", desc: "Hire a minibus and drive it yourself. Flexible and cost-effective for groups up to 16." },
-              { title: "Airport Transfers", desc: "Reliable minibus transfers to and from Newcastle, Durham Tees Valley and other airports." },
+              { title: "Airport Transfers", desc: site.servicesAirportDesc },
               { title: "Corporate Travel", desc: "Executive minibus and coach hire for business meetings, conferences and corporate events." },
             ].map((service) => (
               <div key={service.title} className="bg-white border border-border rounded-xl p-6">
@@ -145,22 +148,19 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h2 className="text-2xl font-bold text-text mb-4">
-              Minibus & Coach Hire Across the North East
+              Minibus & Coach Hire Across the {site.shortName}
             </h2>
             <div className="text-text-light text-sm leading-relaxed space-y-3">
               <p>
-                Whether you need a minibus for a night out in Newcastle, a coach
-                for a school trip from Durham, or a party bus in Sunderland, our
-                directory connects you with the best local operators across the
-                North East of England.
+                Whether you need a minibus for a night out, a coach for a school
+                trip, or a party bus for a celebration, our directory connects you
+                with the best local operators across the {site.region}.
               </p>
               <p>
                 We list over {totalBusinesses} minibus and coach hire companies
-                covering Newcastle upon Tyne, Sunderland, Durham,
-                Middlesbrough, Gateshead, Darlington, Hartlepool,
-                Northumberland and more. Each listing includes verified contact
-                details, Google ratings and opening hours so you can make an
-                informed choice.
+                covering {site.locationsList}. Each listing includes verified
+                contact details, Google ratings and opening hours so you can make
+                an informed choice.
               </p>
               <p>
                 Get free, no-obligation quotes from multiple operators by using
@@ -172,21 +172,10 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* CTA */}
-      <section className="bg-primary py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-            Ready to book your minibus?
-          </h2>
-          <p className="text-blue-100 mb-6 max-w-xl mx-auto">
-            Get free quotes from trusted operators in your area. No obligation, no hassle.
-          </p>
-          <Link
-            href="/quote"
-            className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
-          >
-            Get a Free Quote
-          </Link>
+      {/* Managed Quote CTA */}
+      <section className="py-12 md:py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <ManagedQuoteCTA />
         </div>
       </section>
     </>

@@ -1,10 +1,13 @@
-import businessesRaw from "@/data/businesses_final.json";
+import neBusinessesRaw from "@/data/businesses_final.json";
+import nwBusinessesRaw from "@/data/northwest_businesses.json";
 import type { Business, BusinessRaw, Location } from "@/types";
 import { slugify } from "./slugify";
-import { LOCATION_CONFIG, getLocationFromFoundIn } from "./locations";
+import { getLocationConfig, getLocationFromFoundIn } from "./locations";
+import { getSiteId } from "./siteConfig";
 
 function transformBusiness(raw: BusinessRaw): Business {
   const locationSlug = getLocationFromFoundIn(raw.found_in_location);
+  const config = getLocationConfig();
   return {
     name: raw.name,
     slug: slugify(raw.name),
@@ -23,16 +26,21 @@ function transformBusiness(raw: BusinessRaw): Business {
     lat: raw.lat,
     lng: raw.lng,
     locationSlug,
-    locationName:
-      LOCATION_CONFIG[locationSlug]?.name || raw.found_in_location,
+    locationName: config[locationSlug]?.name || raw.found_in_location,
   };
 }
 
 let _businesses: Business[] | null = null;
 
+function getRawBusinesses(): BusinessRaw[] {
+  return getSiteId() === "northwest"
+    ? (nwBusinessesRaw as BusinessRaw[])
+    : (neBusinessesRaw as BusinessRaw[]);
+}
+
 export function getAllBusinesses(): Business[] {
   if (!_businesses) {
-    _businesses = (businessesRaw as BusinessRaw[]).map(transformBusiness);
+    _businesses = getRawBusinesses().map(transformBusiness);
   }
   return _businesses;
 }
@@ -65,25 +73,27 @@ export function getFeaturedBusinesses(limit = 6): Business[] {
 
 export function getLocations(): Location[] {
   const businesses = getAllBusinesses();
-  return Object.entries(LOCATION_CONFIG).map(([slug, config]) => ({
+  const config = getLocationConfig();
+  return Object.entries(config).map(([slug, loc]) => ({
     slug,
-    name: config.name,
-    description: config.description,
-    lat: config.lat,
-    lng: config.lng,
+    name: loc.name,
+    description: loc.description,
+    lat: loc.lat,
+    lng: loc.lng,
     businessCount: businesses.filter((b) => b.locationSlug === slug).length,
   }));
 }
 
 export function getLocationBySlugWithCount(slug: string): Location | null {
-  const config = LOCATION_CONFIG[slug];
-  if (!config) return null;
+  const config = getLocationConfig();
+  const loc = config[slug];
+  if (!loc) return null;
   return {
     slug,
-    name: config.name,
-    description: config.description,
-    lat: config.lat,
-    lng: config.lng,
+    name: loc.name,
+    description: loc.description,
+    lat: loc.lat,
+    lng: loc.lng,
     businessCount: getBusinessesByLocation(slug).length,
   };
 }

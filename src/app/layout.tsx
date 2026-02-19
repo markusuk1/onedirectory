@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import { getSiteConfig } from "@/lib/siteConfig";
+import { getAllBusinesses } from "@/lib/data";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -9,13 +11,15 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
+const site = getSiteConfig();
+const totalBusinesses = getAllBusinesses().length;
+
 export const metadata: Metadata = {
   title: {
-    default: "Minibus Hire North East | Compare 183+ Companies",
-    template: "%s | Minibus Hire North East",
+    default: `${site.name} | Compare ${totalBusinesses}+ Companies`,
+    template: `%s | ${site.name}`,
   },
-  description:
-    "Compare minibus and coach hire companies across the North East of England. Get free quotes from 183+ trusted operators in Newcastle, Sunderland, Durham, Middlesbrough and more.",
+  description: site.description,
 };
 
 export default function RootLayout({

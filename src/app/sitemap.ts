@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { getAllBusinesses, getLocations } from "@/lib/data";
 import { getAllGuideSlugs } from "@/lib/guides";
+import { getSiteConfig } from "@/lib/siteConfig";
 
-const BASE_URL = "https://hirenortheast.co.uk";
+const BASE_URL = `https://${getSiteConfig().domain}`;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const businesses = getAllBusinesses();
@@ -20,6 +21,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/get-quotes`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.9,
     },
     {
       url: `${BASE_URL}/about`,
