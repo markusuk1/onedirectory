@@ -2728,6 +2728,373 @@ const LN_GUIDES: Guide[] = [
   },
 ];
 
+const SE_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-brighton",
+    title: "Party Bus Hire Brighton",
+    metaTitle: "Party Bus Hire Brighton | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in Brighton. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more.",
+    h1: "Party Bus Hire in Brighton & the South East",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in Brighton? A party bus is one of the most exciting ways to travel with your group through one of the UK's best cities for nightlife. We list the top party bus operators across Brighton and the wider South East so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them ideal for large groups heading out in Brighton city centre, along the seafront, or through the famous Lanes and North Laine areas.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in Brighton?",
+        content:
+          "Party bus hire prices in Brighton typically start from around £150-£300 for a 2-3 hour tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £350-£550+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more. Most operators offer packages that include pick-up and drop-off at agreed locations around Brighton and Hove.",
+      },
+      {
+        heading: "Popular Party Bus Routes in Brighton",
+        content:
+          "The most popular party bus routes in Brighton include pick-ups from residential areas and hotels followed by a cruise along the seafront past Brighton Pier and the i360 tower. Many groups use a party bus to kick off a night out in the Lanes, along West Street, or in the Kemp Town area. Other popular routes include trips through Hove and along the coast to Worthing, or longer routes combining Brighton with a stop in Eastbourne or Lewes.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in Brighton are most commonly booked for hen parties and hen dos (Brighton is one of the UK's top hen do destinations), stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, and Pride weekend celebrations. Booking early is recommended as the best vehicles get booked up quickly, particularly during summer months, Pride, and the Christmas party season.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in Brighton, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can fit on a party bus?",
+        answer:
+          "Most party buses in Brighton accommodate between 16 and 50 passengers. The most common sizes are 16-seater and 24-seater party buses. For larger groups, some operators offer full-size coach conversions that seat up to 50 people.",
+      },
+      {
+        question: "Can you bring your own drinks on a party bus?",
+        answer:
+          "This depends on the operator. Many Brighton party bus companies allow you to bring your own non-glass drinks (cans and plastic bottles). Some offer packages that include drinks. Always check with the operator before booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus in Brighton?",
+        answer:
+          "We recommend booking at least 4-6 weeks in advance for weekend bookings. During peak season (Brighton Pride in August, summer weekends, December), booking 2-3 months ahead is advisable to secure your preferred vehicle.",
+      },
+      {
+        question: "Are party buses available in other South East cities?",
+        answer:
+          "Yes. Party bus operators in our directory also cover Southampton, Portsmouth, Maidstone, Oxford and other South East locations. Many Brighton-based operators will pick up from across the region.",
+      },
+    ],
+    relatedLocations: [
+      "brighton",
+      "southampton",
+      "portsmouth",
+      "maidstone",
+      "oxford",
+    ],
+    keywords: [
+      "party bus brighton",
+      "party bus hire brighton",
+      "party bus hire south east",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-south-east",
+    title: "Self-Drive Minibus Hire South East",
+    metaTitle:
+      "Self-Drive Minibus Hire South East | No Driver Needed (2026)",
+    metaDescription:
+      "Hire a self-drive minibus in the South East. Compare 9-17 seater minibuses you can drive yourself across Brighton, Southampton, Portsmouth, Oxford and more.",
+    h1: "Self-Drive Minibus Hire in the South East",
+    intro:
+      "Need a minibus but want to drive it yourself? Self-drive minibus hire is a cost-effective option for groups who have a confident driver with a standard UK driving licence. We list self-drive minibus operators across the South East including Brighton, Southampton, Portsmouth, Oxford, Maidstone and beyond.",
+    sections: [
+      {
+        heading: "What Licence Do You Need?",
+        content:
+          "You can drive a minibus on a standard Category B car licence if the vehicle has no more than 8 passenger seats (plus the driver) and a Maximum Authorised Mass (MAM) of no more than 3,500kg. For larger minibuses with 9-16 passenger seats, you may need a D1 licence category. If you passed your driving test before 1 January 1997, you should already have the D1 category on your licence. Drivers who passed after this date will need to check their licence or consider a smaller vehicle. Always confirm licence requirements with the hire company before booking.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost?",
+        content:
+          "Self-drive minibus hire in the South East is significantly cheaper than hiring with a driver, though prices tend to be slightly higher than other UK regions due to demand. A 9-seater minibus typically costs £90-£170 per day, while larger 12-15 seater vehicles range from £130-£220 per day. Weekend rates and weekly hire often offer better value. Most operators require a security deposit (usually £200-£500) and you will need to arrange your own insurance or pay for the operator's cover. Fuel is not usually included.",
+      },
+      {
+        heading: "Popular Self-Drive Minibus Sizes",
+        content:
+          "The most popular self-drive minibuses in the South East are 9-seater minibuses which are the largest you can drive on a standard car licence and are ideal for family trips to the coast, airport runs to Gatwick, and small group outings. 12-seater minibuses are popular for sports teams and medium groups but require a D1 licence. 15-17 seater minibuses are the largest self-drive option and are perfect for larger groups heading to events, festivals, or longer trips across the region.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus, confirm you have the correct driving licence category, check the insurance cover and excess amount, ask about mileage limits as some operators include unlimited mileage while others charge per mile, check the fuel policy (most are full-to-full), inspect the vehicle for any existing damage before driving away, and confirm pick-up and return times to avoid late fees.",
+      },
+      {
+        heading: "Self-Drive vs Driven Minibus Hire",
+        content:
+          "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across the South East where you might want to explore the South Downs, the Kent coast or the New Forest at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy towns like Brighton or Oxford. For nights out, hiring with a driver is the obvious choice.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus on a normal licence?",
+        answer:
+          "No. A standard Category B car licence only covers vehicles with up to 8 passenger seats. For a 16-seater, you need a D1 licence. If you passed your test before January 1997, check your licence as you may already have this category.",
+      },
+      {
+        question: "What age do you need to be to hire a self-drive minibus?",
+        answer:
+          "Most operators require the driver to be at least 25 years old and to have held a full UK driving licence for at least 2 years. Some may accept drivers aged 21-24 with a surcharge.",
+      },
+      {
+        question: "Is insurance included in self-drive hire?",
+        answer:
+          "Basic insurance is usually included but with a high excess (£500-£1,000). Many operators offer additional cover to reduce the excess. You can also arrange your own hire vehicle insurance separately.",
+      },
+      {
+        question:
+          "Where can I pick up a self-drive minibus in the South East?",
+        answer:
+          "Self-drive minibus operators are based across the South East including Brighton, Southampton, Portsmouth, Oxford, Maidstone, Guildford and Reading. Some offer delivery and collection of the vehicle to your address.",
+      },
+    ],
+    relatedLocations: [
+      "brighton",
+      "southampton",
+      "portsmouth",
+      "oxford",
+      "maidstone",
+    ],
+    keywords: [
+      "self drive minibus hire south east",
+      "self drive minibus hire brighton",
+      "self drive minibus hire southampton",
+    ],
+  },
+  {
+    slug: "airport-transfers-south-east",
+    title: "Airport Transfers South East",
+    metaTitle:
+      "Airport Transfers South East | Gatwick, Southampton & Heathrow Minibus (2026)",
+    metaDescription:
+      "Book airport transfer minibuses and coaches in the South East. Group transport to Gatwick, Southampton and Heathrow airports from Brighton, Portsmouth, Oxford and beyond.",
+    h1: "Airport Transfers & Minibus Hire for South East Airports",
+    intro:
+      "Travelling to or from Gatwick, Southampton or Heathrow airport with a group? A minibus or coach transfer is the most convenient and cost-effective option. We list operators across the South East who specialise in airport transfers, from executive cars to 50-seater coaches. Compare prices and book your group airport transport.",
+    sections: [
+      {
+        heading: "Why Book a Group Airport Transfer?",
+        content:
+          "When travelling with family, friends or colleagues, a group airport transfer makes much more sense than multiple taxis or trying to arrange lifts. A single minibus can carry your entire group plus luggage, arriving together and avoiding the stress of coordinating multiple vehicles. It is also significantly cheaper per person than individual taxis, especially from destinations further afield like Oxford, Portsmouth or Maidstone.",
+      },
+      {
+        heading: "Typical Airport Transfer Prices",
+        content:
+          "Airport transfer prices from key South East locations are approximately: Brighton to Gatwick from £60-£90, Southampton to Southampton Airport from £30-£50, Portsmouth to Gatwick from £100-£140, Oxford to Heathrow from £100-£150, Maidstone to Gatwick from £70-£100, and Brighton to Heathrow from £130-£180. These prices are for a standard minibus carrying 8-16 passengers. Larger coaches for bigger groups cost more but the per-person price drops significantly.",
+      },
+      {
+        heading: "South East Airports Covered",
+        content:
+          "The South East is well served by several major airports. London Gatwick is the busiest in the region, located between Brighton and London with excellent motorway access via the M23. Southampton Airport serves Hampshire and the central south coast. London Heathrow, while technically in West London, is a popular choice for groups travelling from Oxford, Reading and Surrey. Some operators also cover London City Airport and London Stansted for groups in Kent and Essex borders.",
+      },
+      {
+        heading: "What to Expect from Your Transfer",
+        content:
+          "A professional airport transfer service will track your flight and adjust pickup time if your flight is early or delayed. The driver will meet you in the arrivals hall or at an agreed pickup point. Vehicles will have space for all your luggage. For early morning flights, operators typically offer pickups from 3am onwards. For return transfers, the driver will drop you at the departure terminal entrance. Most operators accept online booking and payment in advance.",
+      },
+      {
+        heading: "Group Sizes and Vehicle Options",
+        content:
+          "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions, particularly popular for Heathrow and Gatwick transfers.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book an airport transfer?",
+        answer:
+          "We recommend booking at least 1-2 weeks in advance. For peak travel periods (school holidays, Christmas, summer), book 3-4 weeks ahead. Most operators accept bookings up to 48 hours before travel.",
+      },
+      {
+        question: "What happens if my flight is delayed?",
+        answer:
+          "Most professional operators monitor flight arrivals and will adjust your pickup time accordingly at no extra charge. Always provide your flight number when booking so the operator can track it.",
+      },
+      {
+        question: "Can I book a return airport transfer?",
+        answer:
+          "Yes. Most operators offer discounted rates when you book both outbound and return transfers together. This is the most convenient option as you have transport arranged for both ends of your trip.",
+      },
+      {
+        question: "Which airport is easiest to reach from Brighton?",
+        answer:
+          "London Gatwick is the closest major airport to Brighton, just 30-40 minutes by minibus via the A23/M23. Southampton Airport is around 90 minutes to the west. Heathrow is approximately 90 minutes to the north depending on traffic.",
+      },
+    ],
+    relatedLocations: [
+      "brighton",
+      "southampton",
+      "portsmouth",
+      "oxford",
+      "maidstone",
+    ],
+    keywords: [
+      "airport transfer south east",
+      "minibus hire gatwick airport",
+      "airport transfer brighton",
+      "southampton airport minibus",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-south-east",
+    title: "16 Seater Minibus Hire South East",
+    metaTitle:
+      "16 Seater Minibus Hire South East | Brighton, Southampton & More (2026)",
+    metaDescription:
+      "Find 16 seater minibus hire across the South East. Compare prices and operators in Brighton, Southampton, Portsmouth, Oxford, Maidstone and surrounding areas.",
+    h1: "16 Seater Minibus Hire in the South East",
+    intro:
+      "A 16-seater minibus is the most popular size for group travel in the South East. Whether you need transport for a wedding party, sports team, corporate event or day trip to the coast, a 16-seater offers the perfect balance of capacity and comfort. Compare 16-seater minibus operators across Brighton, Southampton, Portsmouth, Oxford, Maidstone and the wider region.",
+    sections: [
+      {
+        heading: "Why Choose a 16-Seater Minibus?",
+        content:
+          "A 16-seater minibus is the most versatile group transport option. It is large enough to carry a decent-sized group in comfort but small enough to navigate narrow lanes in historic towns like Oxford, Brighton's seafront roads, or the rural villages of Kent and the South Downs. They are typically Mercedes Sprinters or Ford Transit minibuses with high roofs, air conditioning, and luggage space. Many also come with USB charging points and reclining seats for longer journeys.",
+      },
+      {
+        heading: "How Much Does 16-Seater Minibus Hire Cost?",
+        content:
+          "In the South East, 16-seater minibus hire with a driver typically costs between £180 and £400 depending on the journey. A local transfer within Brighton, Southampton or Oxford starts from around £100-£180. A full day hire (8-10 hours) usually costs £280-£450. Airport transfers to Gatwick are typically £100-£200 depending on distance, while Heathrow transfers cost £150-£250. Prices include a professional driver, insurance and VAT.",
+      },
+      {
+        heading: "Common Uses for 16-Seater Minibuses",
+        content:
+          "The most common bookings for 16-seater minibuses in the South East include wedding guest transport between ceremony and reception venues, airport transfers to Gatwick, Southampton and Heathrow, sports team transport to fixtures across the region, corporate events and conference shuttle services, school trips and educational visits, nights out in Brighton, Southampton or Oxford, and day trips to destinations like the South Downs, Canterbury Cathedral, or the New Forest.",
+      },
+      {
+        heading: "What to Look For in an Operator",
+        content:
+          "When booking a 16-seater minibus, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time, tolls or congestion charges. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features. Professional operators will have full PSV licensing, comprehensive insurance, and DBS-checked drivers.",
+      },
+      {
+        heading: "Popular Routes for 16-Seater Minibuses",
+        content:
+          "The South East offers a huge variety of destinations well suited to 16-seater minibus travel. Popular routes include Brighton to Gatwick Airport, Oxford to the Cotswolds, Southampton to the New Forest, Maidstone to Canterbury, and Portsmouth to the Isle of Wight ferry terminal. For corporate clients, routes between South East towns and London conference venues are in high demand. Sports teams regularly book for fixtures across the Home Counties.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus myself?",
+        answer:
+          "Only if you hold a D1 licence category. A standard car licence only covers vehicles with up to 8 passenger seats. If you passed your test before 1 January 1997, you may already have D1 on your licence.",
+      },
+      {
+        question: "How much luggage can a 16-seater carry?",
+        answer:
+          "Most 16-seater minibuses have a rear luggage area that can hold around 10-12 medium suitcases. For airport transfers with a full group, ask the operator about luggage capacity as you may need a vehicle with a trailer or separate luggage van.",
+      },
+      {
+        question: "Are 16-seater minibuses wheelchair accessible?",
+        answer:
+          "Not all 16-seaters are wheelchair accessible. If you need a wheelchair-accessible vehicle, mention this when booking. Some operators have adapted vehicles with ramps or lifts, though the passenger capacity may be reduced.",
+      },
+      {
+        question: "What is the difference between a minibus and a coach?",
+        answer:
+          "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+    ],
+    relatedLocations: [
+      "brighton",
+      "southampton",
+      "portsmouth",
+      "oxford",
+      "maidstone",
+    ],
+    keywords: [
+      "16 seater minibus hire south east",
+      "16 seater minibus hire brighton",
+      "16 seater minibus hire southampton",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-south-east",
+    title: "Wedding Coach Hire South East",
+    metaTitle:
+      "Wedding Coach & Minibus Hire South East | Guest Transport (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire in the South East. Transport your guests between ceremony, reception and hotels across Brighton, Southampton, Oxford, Kent and more.",
+    h1: "Wedding Coach & Minibus Hire in the South East",
+    intro:
+      "Your wedding day transport needs to be reliable, comfortable and stress-free. Whether you need a luxury coach for 50 guests or a minibus shuttle between your ceremony and reception venue, we list wedding transport specialists across the South East. Compare operators, check reviews, and get quotes for your big day.",
+    sections: [
+      {
+        heading: "Why Hire Wedding Transport?",
+        content:
+          "Arranging group transport for your wedding guests takes the stress out of the day for everyone. No one needs to worry about parking, designated drivers or finding the venue. A coach or minibus can shuttle guests between the ceremony, reception and hotels, keeping your day running on time. It is especially important for South East weddings at rural venues in the South Downs, the Kent countryside, or the Hampshire estates where public transport is limited and country lanes can be tricky to navigate.",
+      },
+      {
+        heading: "Wedding Transport Options",
+        content:
+          "The most popular wedding transport options in the South East are: luxury coaches seating 30-50 guests, ideal for transporting the majority of your wedding party in style. Standard minibuses seating 16-24 guests are great for smaller weddings or as a shuttle between nearby venues. Executive minibuses with leather seats and tinted windows add a premium feel. Vintage buses are available from some operators for couples wanting a unique, retro look. Many couples book multiple vehicles to cover different routes and pickup points.",
+      },
+      {
+        heading: "Planning Your Wedding Transport",
+        content:
+          "Start by working out how many guests need transport and where they are coming from. Common arrangements include morning transport from guest hotels to the ceremony venue, an afternoon shuttle from the ceremony to the reception (if at different venues), and an evening return service from the reception to hotels or key drop-off points. Share the transport schedule with guests on your wedding website or with the invitations so everyone knows pickup times and locations.",
+      },
+      {
+        heading: "Popular Wedding Venues and Routes",
+        content:
+          "The South East has stunning wedding venues from grand country houses to coastal locations. Popular routes for wedding coaches include: Brighton seafront hotels to South Downs barn venues and vineyards, Oxford city centre hotels to Cotswolds manor houses, Southampton hotels to New Forest lodges, Maidstone to Kent castle venues such as Leeds Castle and Hever Castle, and Portsmouth to countryside estates across Hampshire. An experienced local operator will know these routes and can advise on timing and logistics.",
+      },
+      {
+        heading: "How Much Does Wedding Transport Cost?",
+        content:
+          "Wedding coach hire in the South East typically costs £350-£650 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £220-£400. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £150-£350 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book wedding transport?",
+        answer:
+          "Book as early as possible, ideally 6-12 months before your wedding date. The South East is one of the most popular regions for weddings, so popular dates (Saturdays in summer) get booked up very quickly. Once you have your venue confirmed, transport should be one of the next things you arrange.",
+      },
+      {
+        question: "Can the coach be decorated for a wedding?",
+        answer:
+          "Many operators will add ribbons, bows and 'Just Married' signs at no extra cost. Some offer more elaborate decorations. Discuss your requirements when booking and they will do their best to accommodate.",
+      },
+      {
+        question: "What if our ceremony and reception are at the same venue?",
+        answer:
+          "You may still want transport for guests from their hotels to the venue and back in the evening. A shuttle service at the end of the night ensures guests get home safely and means everyone can enjoy themselves without worrying about driving.",
+      },
+      {
+        question: "Can we make multiple stops?",
+        answer:
+          "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+    ],
+    relatedLocations: [
+      "brighton",
+      "southampton",
+      "portsmouth",
+      "oxford",
+      "maidstone",
+    ],
+    keywords: [
+      "wedding coach hire south east",
+      "wedding minibus hire brighton",
+      "wedding transport oxford",
+      "wedding coach hire kent",
+    ],
+  },
+];
+
 function getGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
@@ -2736,6 +3103,7 @@ function getGuides(): Guide[] {
   if (id === "yorkshire") return YK_GUIDES;
   if (id === "east") return EA_GUIDES;
   if (id === "london") return LN_GUIDES;
+  if (id === "southeast") return SE_GUIDES;
   return NE_GUIDES;
 }
 

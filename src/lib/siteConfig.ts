@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east" | "london";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east" | "london" | "southeast";
 
 export interface SiteConfig {
   id: SiteId;
@@ -155,6 +155,25 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Heathrow, Gatwick, Stansted, Luton and London City airports.",
   },
+  southeast: {
+    id: "southeast",
+    name: "Minibus Hire South East",
+    shortName: "South East",
+    logoPrefix: "SE",
+    domain: "hiresoutheast.co.uk",
+    region: "South East England",
+    description:
+      "Compare minibus and coach hire companies across South East England. Get free quotes from trusted operators in Brighton, Southampton, Portsmouth, Oxford, Maidstone and more.",
+    footerDescription:
+      "The South East's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire South East - the largest directory of minibus and coach hire companies in South East England.",
+    locationsList:
+      "Brighton, Southampton, Portsmouth, Rochester, Slough, High Wycombe, Winchester, Maidstone, Basingstoke, Milton Keynes, Oxford, Horsham, Eastbourne, Dartford, Newbury, Guildford, Canterbury, Reading, Crawley, Worthing, Tunbridge Wells, Chichester, Aylesbury and Windsor",
+    airportName: "London Gatwick Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Gatwick, Southampton, Heathrow and other airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
@@ -165,6 +184,7 @@ export function getSiteId(): SiteId {
   if (site === "yorkshire") return "yorkshire";
   if (site === "east") return "east";
   if (site === "london") return "london";
+  if (site === "southeast") return "southeast";
   return "northeast";
 }
 

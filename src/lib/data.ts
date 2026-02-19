@@ -5,6 +5,7 @@ import mlBusinessesRaw from "@/data/midlands_businesses.json";
 import ykBusinessesRaw from "@/data/yorkshire_businesses.json";
 import eaBusinessesRaw from "@/data/east_businesses.json";
 import lnBusinessesRaw from "@/data/london_businesses.json";
+import seBusinessesRaw from "@/data/southeast_businesses.json";
 import type { Business, BusinessRaw, Location } from "@/types";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
@@ -45,6 +46,7 @@ function getRawBusinesses(): BusinessRaw[] {
   if (id === "yorkshire") return ykBusinessesRaw as BusinessRaw[];
   if (id === "east") return eaBusinessesRaw as BusinessRaw[];
   if (id === "london") return lnBusinessesRaw as BusinessRaw[];
+  if (id === "southeast") return seBusinessesRaw as BusinessRaw[];
   return neBusinessesRaw as BusinessRaw[];
 }
 
