@@ -1,5 +1,7 @@
 import neBusinessesRaw from "@/data/businesses_final.json";
 import nwBusinessesRaw from "@/data/northwest_businesses.json";
+import scBusinessesRaw from "@/data/scotland_businesses.json";
+import mlBusinessesRaw from "@/data/midlands_businesses.json";
 import type { Business, BusinessRaw, Location } from "@/types";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
@@ -33,9 +35,11 @@ function transformBusiness(raw: BusinessRaw): Business {
 let _businesses: Business[] | null = null;
 
 function getRawBusinesses(): BusinessRaw[] {
-  return getSiteId() === "northwest"
-    ? (nwBusinessesRaw as BusinessRaw[])
-    : (neBusinessesRaw as BusinessRaw[]);
+  const id = getSiteId();
+  if (id === "northwest") return nwBusinessesRaw as BusinessRaw[];
+  if (id === "scotland") return scBusinessesRaw as BusinessRaw[];
+  if (id === "midlands") return mlBusinessesRaw as BusinessRaw[];
+  return neBusinessesRaw as BusinessRaw[];
 }
 
 export function getAllBusinesses(): Business[] {

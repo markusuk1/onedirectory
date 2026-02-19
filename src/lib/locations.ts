@@ -285,6 +285,341 @@ const NW_LOCATIONS: LocationConfig = {
   },
 };
 
+const SC_LOCATIONS: LocationConfig = {
+  glasgow: {
+    name: "Glasgow",
+    lat: 55.8642,
+    lng: -4.2518,
+    description:
+      "Compare minibus and coach hire companies in Glasgow. Find the best prices for minibus hire, party buses, airport transfers and coach hire across Greater Glasgow.",
+  },
+  edinburgh: {
+    name: "Edinburgh",
+    lat: 55.9533,
+    lng: -3.1883,
+    description:
+      "Find trusted minibus and coach hire companies in Edinburgh. Compare prices for minibus hire, party buses, coach hire and group transport across the capital.",
+  },
+  aberdeen: {
+    name: "Aberdeen",
+    lat: 57.1497,
+    lng: -2.0943,
+    description:
+      "Browse minibus and coach hire operators in Aberdeen. Compare prices and reviews for group transport, airport transfers and coach hire across Aberdeenshire.",
+  },
+  dundee: {
+    name: "Dundee",
+    lat: 56.462,
+    lng: -2.9707,
+    description:
+      "Compare minibus and coach hire in Dundee. Find the best operators for minibus hire, party buses and coach hire across Dundee and Angus.",
+  },
+  inverness: {
+    name: "Inverness",
+    lat: 57.4778,
+    lng: -4.2247,
+    description:
+      "Find minibus and coach hire companies in Inverness. Compare prices for group transport, Highland tours and coach hire across the Highlands.",
+  },
+  stirling: {
+    name: "Stirling",
+    lat: 56.1165,
+    lng: -3.9369,
+    description:
+      "Browse minibus and coach hire in Stirling. Compare operators for group transport, minibus hire and coach hire across Stirling and Central Scotland.",
+  },
+  perth: {
+    name: "Perth",
+    lat: 56.395,
+    lng: -3.4308,
+    description:
+      "Compare minibus and coach hire in Perth. Find operators for group transport, coach hire and minibus hire across Perth and Perthshire.",
+  },
+  paisley: {
+    name: "Paisley",
+    lat: 55.8456,
+    lng: -4.4239,
+    description:
+      "Find minibus and coach hire in Paisley. Compare prices for group transport, airport transfers and coach hire across Paisley and Renfrewshire.",
+  },
+  "east-kilbride": {
+    name: "East Kilbride",
+    lat: 55.7644,
+    lng: -4.1769,
+    description:
+      "Browse minibus and coach hire in East Kilbride. Compare operators for group transport, minibus hire and coach hire across East Kilbride and South Lanarkshire.",
+  },
+  livingston: {
+    name: "Livingston",
+    lat: 55.9024,
+    lng: -3.5159,
+    description:
+      "Compare minibus and coach hire in Livingston. Find operators for group transport and coach hire across Livingston and West Lothian.",
+  },
+  cumbernauld: {
+    name: "Cumbernauld",
+    lat: 55.9465,
+    lng: -3.994,
+    description:
+      "Find minibus and coach hire in Cumbernauld. Compare prices for group transport, minibus hire and coach hire across Cumbernauld and North Lanarkshire.",
+  },
+  kirkcaldy: {
+    name: "Kirkcaldy",
+    lat: 56.1132,
+    lng: -3.1595,
+    description:
+      "Browse minibus and coach hire in Kirkcaldy. Compare operators for group transport and coach hire across Kirkcaldy and the Kingdom of Fife.",
+  },
+  dunfermline: {
+    name: "Dunfermline",
+    lat: 56.0719,
+    lng: -3.4393,
+    description:
+      "Compare minibus and coach hire in Dunfermline. Find operators for group transport and coach hire across Dunfermline and West Fife.",
+  },
+  ayr: {
+    name: "Ayr",
+    lat: 55.4588,
+    lng: -4.6292,
+    description:
+      "Find minibus and coach hire in Ayr. Compare prices for group transport, race day transport and coach hire across Ayr and Ayrshire.",
+  },
+  kilmarnock: {
+    name: "Kilmarnock",
+    lat: 55.6113,
+    lng: -4.4955,
+    description:
+      "Browse minibus and coach hire in Kilmarnock. Compare operators for group transport and coach hire across Kilmarnock and East Ayrshire.",
+  },
+  falkirk: {
+    name: "Falkirk",
+    lat: 56.0019,
+    lng: -3.7839,
+    description:
+      "Compare minibus and coach hire in Falkirk. Find operators for group transport and coach hire across Falkirk and the Forth Valley.",
+  },
+  motherwell: {
+    name: "Motherwell",
+    lat: 55.7894,
+    lng: -3.9915,
+    description:
+      "Find minibus and coach hire in Motherwell. Compare prices for group transport and coach hire across Motherwell and North Lanarkshire.",
+  },
+  hamilton: {
+    name: "Hamilton",
+    lat: 55.7731,
+    lng: -4.038,
+    description:
+      "Browse minibus and coach hire in Hamilton. Compare operators for group transport, minibus hire and coach hire across Hamilton and South Lanarkshire.",
+  },
+  greenock: {
+    name: "Greenock",
+    lat: 55.9496,
+    lng: -4.7645,
+    description:
+      "Compare minibus and coach hire in Greenock. Find operators for group transport and coach hire across Greenock and Inverclyde.",
+  },
+  dumfries: {
+    name: "Dumfries",
+    lat: 55.07,
+    lng: -3.6129,
+    description:
+      "Find minibus and coach hire in Dumfries. Compare prices for group transport, coach hire and minibus hire across Dumfries and Galloway.",
+  },
+  "fort-william": {
+    name: "Fort William",
+    lat: 56.8198,
+    lng: -5.1052,
+    description:
+      "Browse minibus and coach hire in Fort William. Compare operators for group transport, Highland tours and coach hire across Lochaber and the West Highlands.",
+  },
+  oban: {
+    name: "Oban",
+    lat: 56.4125,
+    lng: -5.4724,
+    description:
+      "Compare minibus and coach hire in Oban. Find operators for group transport, island connections and coach hire across Oban and Argyll.",
+  },
+};
+
+const ML_LOCATIONS: LocationConfig = {
+  birmingham: {
+    name: "Birmingham",
+    lat: 52.4862,
+    lng: -1.8904,
+    description:
+      "Compare minibus and coach hire companies in Birmingham. Find the best prices for minibus hire, party buses, airport transfers and coach hire across the West Midlands.",
+  },
+  nottingham: {
+    name: "Nottingham",
+    lat: 52.9548,
+    lng: -1.1581,
+    description:
+      "Find trusted minibus and coach hire companies in Nottingham. Compare prices for minibus hire, party buses, coach hire and group transport across Nottinghamshire.",
+  },
+  leicester: {
+    name: "Leicester",
+    lat: 52.6369,
+    lng: -1.1398,
+    description:
+      "Browse minibus and coach hire operators in Leicester. Compare prices and reviews for group transport, minibus hire and coach hire across Leicestershire.",
+  },
+  coventry: {
+    name: "Coventry",
+    lat: 52.4068,
+    lng: -1.5197,
+    description:
+      "Compare minibus and coach hire in Coventry. Find the best operators for minibus hire, party buses and coach hire across Coventry and Warwickshire.",
+  },
+  derby: {
+    name: "Derby",
+    lat: 52.9225,
+    lng: -1.4746,
+    description:
+      "Find minibus and coach hire companies in Derby. Compare prices for group transport, coach hire and minibus hire across Derby and Derbyshire.",
+  },
+  wolverhampton: {
+    name: "Wolverhampton",
+    lat: 52.587,
+    lng: -2.1288,
+    description:
+      "Browse minibus and coach hire in Wolverhampton. Compare operators for group transport, minibus hire and coach hire across Wolverhampton and the Black Country.",
+  },
+  "stoke-on-trent": {
+    name: "Stoke-on-Trent",
+    lat: 53.0027,
+    lng: -2.1794,
+    description:
+      "Compare minibus and coach hire in Stoke-on-Trent. Find operators for group transport and coach hire across the Potteries and North Staffordshire.",
+  },
+  walsall: {
+    name: "Walsall",
+    lat: 52.586,
+    lng: -1.9829,
+    description:
+      "Find minibus and coach hire in Walsall. Compare prices for group transport, minibus hire and coach hire across Walsall and the surrounding area.",
+  },
+  dudley: {
+    name: "Dudley",
+    lat: 52.5085,
+    lng: -2.0895,
+    description:
+      "Browse minibus and coach hire in Dudley. Compare operators for group transport, minibus hire and coach hire across Dudley and the Black Country.",
+  },
+  solihull: {
+    name: "Solihull",
+    lat: 52.412,
+    lng: -1.7782,
+    description:
+      "Compare minibus and coach hire in Solihull. Find operators for group transport, airport transfers and coach hire across Solihull and South Birmingham.",
+  },
+  telford: {
+    name: "Telford",
+    lat: 52.679,
+    lng: -2.4497,
+    description:
+      "Find minibus and coach hire in Telford. Compare prices for group transport and coach hire across Telford and Shropshire.",
+  },
+  shrewsbury: {
+    name: "Shrewsbury",
+    lat: 52.7074,
+    lng: -2.7539,
+    description:
+      "Browse minibus and coach hire in Shrewsbury. Compare operators for group transport and coach hire across Shrewsbury and rural Shropshire.",
+  },
+  worcester: {
+    name: "Worcester",
+    lat: 52.1936,
+    lng: -2.2216,
+    description:
+      "Compare minibus and coach hire in Worcester. Find operators for group transport and coach hire across Worcester and Worcestershire.",
+  },
+  hereford: {
+    name: "Hereford",
+    lat: 52.0565,
+    lng: -2.716,
+    description:
+      "Find minibus and coach hire in Hereford. Compare prices for group transport, coach hire and minibus hire across Hereford and Herefordshire.",
+  },
+  stafford: {
+    name: "Stafford",
+    lat: 52.8072,
+    lng: -2.1172,
+    description:
+      "Browse minibus and coach hire in Stafford. Compare operators for group transport, minibus hire and coach hire across Stafford and Staffordshire.",
+  },
+  "burton-upon-trent": {
+    name: "Burton upon Trent",
+    lat: 52.8023,
+    lng: -1.6298,
+    description:
+      "Compare minibus and coach hire in Burton upon Trent. Find operators for group transport and coach hire across Burton and East Staffordshire.",
+  },
+  tamworth: {
+    name: "Tamworth",
+    lat: 52.6339,
+    lng: -1.695,
+    description:
+      "Find minibus and coach hire in Tamworth. Compare prices for group transport and coach hire across Tamworth and South East Staffordshire.",
+  },
+  nuneaton: {
+    name: "Nuneaton",
+    lat: 52.523,
+    lng: -1.4684,
+    description:
+      "Browse minibus and coach hire in Nuneaton. Compare operators for group transport, minibus hire and coach hire across Nuneaton and North Warwickshire.",
+  },
+  rugby: {
+    name: "Rugby",
+    lat: 52.371,
+    lng: -1.2615,
+    description:
+      "Compare minibus and coach hire in Rugby. Find operators for group transport and coach hire across Rugby and eastern Warwickshire.",
+  },
+  northampton: {
+    name: "Northampton",
+    lat: 52.2405,
+    lng: -0.9027,
+    description:
+      "Find minibus and coach hire in Northampton. Compare prices for group transport, coach hire and minibus hire across Northampton and Northamptonshire.",
+  },
+  lincoln: {
+    name: "Lincoln",
+    lat: 53.2307,
+    lng: -0.5406,
+    description:
+      "Browse minibus and coach hire in Lincoln. Compare operators for group transport and coach hire across Lincoln and Lincolnshire.",
+  },
+  loughborough: {
+    name: "Loughborough",
+    lat: 52.7721,
+    lng: -1.2064,
+    description:
+      "Compare minibus and coach hire in Loughborough. Find operators for group transport, university events and coach hire across North Leicestershire.",
+  },
+  mansfield: {
+    name: "Mansfield",
+    lat: 53.1397,
+    lng: -1.1989,
+    description:
+      "Find minibus and coach hire in Mansfield. Compare prices for group transport and coach hire across Mansfield and North Nottinghamshire.",
+  },
+  chesterfield: {
+    name: "Chesterfield",
+    lat: 53.235,
+    lng: -1.421,
+    description:
+      "Browse minibus and coach hire in Chesterfield. Compare operators for group transport, Peak District trips and coach hire across North Derbyshire.",
+  },
+  kettering: {
+    name: "Kettering",
+    lat: 52.3939,
+    lng: -0.7256,
+    description:
+      "Compare minibus and coach hire in Kettering. Find operators for group transport and coach hire across Kettering and North Northamptonshire.",
+  },
+};
+
 const NE_LOCATION_MAP: Record<string, string> = {
   "Newcastle upon Tyne": "newcastle",
   Sunderland: "sunderland",
@@ -330,15 +665,76 @@ const NW_LOCATION_MAP: Record<string, string> = {
   Chorley: "chorley",
 };
 
+const SC_LOCATION_MAP: Record<string, string> = {
+  Glasgow: "glasgow",
+  Edinburgh: "edinburgh",
+  Aberdeen: "aberdeen",
+  Dundee: "dundee",
+  Inverness: "inverness",
+  Stirling: "stirling",
+  Perth: "perth",
+  Paisley: "paisley",
+  "East Kilbride": "east-kilbride",
+  Livingston: "livingston",
+  Cumbernauld: "cumbernauld",
+  Kirkcaldy: "kirkcaldy",
+  Dunfermline: "dunfermline",
+  Ayr: "ayr",
+  Kilmarnock: "kilmarnock",
+  Falkirk: "falkirk",
+  Motherwell: "motherwell",
+  Hamilton: "hamilton",
+  Greenock: "greenock",
+  Dumfries: "dumfries",
+  "Fort William": "fort-william",
+  Oban: "oban",
+};
+
+const ML_LOCATION_MAP: Record<string, string> = {
+  Birmingham: "birmingham",
+  Nottingham: "nottingham",
+  Leicester: "leicester",
+  Coventry: "coventry",
+  Derby: "derby",
+  Wolverhampton: "wolverhampton",
+  "Stoke-on-Trent": "stoke-on-trent",
+  Walsall: "walsall",
+  Dudley: "dudley",
+  Solihull: "solihull",
+  Telford: "telford",
+  Shrewsbury: "shrewsbury",
+  Worcester: "worcester",
+  Hereford: "hereford",
+  Stafford: "stafford",
+  "Burton upon Trent": "burton-upon-trent",
+  Tamworth: "tamworth",
+  Nuneaton: "nuneaton",
+  Rugby: "rugby",
+  Northampton: "northampton",
+  Lincoln: "lincoln",
+  Loughborough: "loughborough",
+  Mansfield: "mansfield",
+  Chesterfield: "chesterfield",
+  Kettering: "kettering",
+};
+
 export function getLocationConfig(): LocationConfig {
-  return getSiteId() === "northwest" ? NW_LOCATIONS : NE_LOCATIONS;
+  const id = getSiteId();
+  if (id === "northwest") return NW_LOCATIONS;
+  if (id === "scotland") return SC_LOCATIONS;
+  if (id === "midlands") return ML_LOCATIONS;
+  return NE_LOCATIONS;
 }
 
 export const LOCATION_CONFIG = getLocationConfig();
 
 export function getLocationFromFoundIn(foundIn: string): string {
-  const mapping =
-    getSiteId() === "northwest" ? NW_LOCATION_MAP : NE_LOCATION_MAP;
+  const id = getSiteId();
+  let mapping: Record<string, string>;
+  if (id === "northwest") mapping = NW_LOCATION_MAP;
+  else if (id === "scotland") mapping = SC_LOCATION_MAP;
+  else if (id === "midlands") mapping = ML_LOCATION_MAP;
+  else mapping = NE_LOCATION_MAP;
   return mapping[foundIn] || Object.values(mapping)[0];
 }
 

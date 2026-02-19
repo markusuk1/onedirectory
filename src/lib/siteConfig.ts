@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands";
 
 export interface SiteConfig {
   id: SiteId;
@@ -60,11 +60,51 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Manchester, Liverpool John Lennon and other airports.",
   },
+  scotland: {
+    id: "scotland",
+    name: "Minibus Hire Scotland",
+    shortName: "Scotland",
+    logoPrefix: "SC",
+    domain: "wehirescotland.co.uk",
+    region: "Scotland",
+    description:
+      "Compare minibus and coach hire companies across Scotland. Get free quotes from trusted operators in Glasgow, Edinburgh, Aberdeen, Dundee, Inverness and more.",
+    footerDescription:
+      "Scotland's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire Scotland - the largest directory of minibus and coach hire companies in Scotland.",
+    locationsList:
+      "Glasgow, Edinburgh, Aberdeen, Dundee, Inverness, Stirling, Perth, Paisley, East Kilbride, Livingston, Cumbernauld, Kirkcaldy, Dunfermline, Ayr, Kilmarnock, Falkirk, Motherwell, Hamilton, Greenock, Dumfries, Fort William and Oban",
+    airportName: "Glasgow Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Glasgow, Edinburgh, Aberdeen and other Scottish airports.",
+  },
+  midlands: {
+    id: "midlands",
+    name: "Minibus Hire Midlands",
+    shortName: "Midlands",
+    logoPrefix: "ML",
+    domain: "hiremidlands.co.uk",
+    region: "the Midlands",
+    description:
+      "Compare minibus and coach hire companies across the Midlands. Get free quotes from trusted operators in Birmingham, Nottingham, Leicester, Coventry, Derby and more.",
+    footerDescription:
+      "The Midlands' largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire Midlands - the largest directory of minibus and coach hire companies in the Midlands.",
+    locationsList:
+      "Birmingham, Nottingham, Leicester, Coventry, Derby, Wolverhampton, Stoke-on-Trent, Walsall, Dudley, Solihull, Telford, Shrewsbury, Worcester, Hereford, Stafford, Northampton, Lincoln, Chesterfield, Mansfield, Loughborough, Nuneaton, Rugby, Redditch, Kidderminster, Burton upon Trent, Tamworth, Kettering, Corby and Wellingborough",
+    airportName: "Birmingham Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Birmingham, East Midlands and other airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
   const site = process.env.NEXT_PUBLIC_SITE || "northeast";
   if (site === "northwest") return "northwest";
+  if (site === "scotland") return "scotland";
+  if (site === "midlands") return "midlands";
   return "northeast";
 }
 
