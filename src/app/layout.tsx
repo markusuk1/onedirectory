@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
-import Script from "next/script";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { getSiteConfig } from "@/lib/siteConfig";
@@ -31,11 +30,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Script
+        <meta name="google-adsense-account" content="ca-pub-8691296183242940" />
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8691296183242940"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
       </head>
       <body className={`${geistSans.variable} antialiased bg-white`}>
