@@ -54,7 +54,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/search"
+                  href="/#browse"
                   className="text-slate-400 hover:text-white text-sm transition-colors"
                 >
                   Find Operators

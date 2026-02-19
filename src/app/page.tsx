@@ -35,7 +35,7 @@ export default function HomePage() {
               Get Quotes For Me
             </Link>
             <Link
-              href="/search"
+              href="/#browse"
               className="bg-white/10 hover:bg-white/20 text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors border border-white/20"
             >
               Browse Operators
@@ -86,7 +86,7 @@ export default function HomePage() {
       </section>
 
       {/* Locations grid */}
-      <section className="bg-surface py-12 md:py-16">
+      <section id="browse" className="bg-surface py-12 md:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-bold text-text mb-2">
             Browse by Location

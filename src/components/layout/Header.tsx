@@ -27,7 +27,7 @@ export default function Header() {
               Home
             </Link>
             <Link
-              href="/search"
+              href="/#browse"
               className="text-sm text-text-light hover:text-primary transition-colors"
             >
               Find Operators
