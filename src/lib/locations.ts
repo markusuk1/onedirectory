@@ -833,6 +833,191 @@ const YK_LOCATIONS: LocationConfig = {
   },
 };
 
+const EA_LOCATIONS: LocationConfig = {
+  norwich: {
+    name: "Norwich",
+    lat: 52.6286,
+    lng: 1.2974,
+    description:
+      "Compare minibus and coach hire companies in Norwich. Find the best prices for minibus hire, party buses, airport transfers and coach hire across Norwich and Norfolk.",
+  },
+  cambridge: {
+    name: "Cambridge",
+    lat: 52.2044,
+    lng: 0.1235,
+    description:
+      "Find trusted minibus and coach hire companies in Cambridge. Compare prices for minibus hire, party buses, coach hire and group transport across Cambridgeshire.",
+  },
+  ipswich: {
+    name: "Ipswich",
+    lat: 52.0567,
+    lng: 1.1482,
+    description:
+      "Browse minibus and coach hire operators in Ipswich. Compare prices and reviews for group transport, airport transfers and coach hire across Ipswich and Suffolk.",
+  },
+  peterborough: {
+    name: "Peterborough",
+    lat: 52.5729,
+    lng: -0.2416,
+    description:
+      "Compare minibus and coach hire in Peterborough. Find the best operators for minibus hire, self-drive options, party buses and coach hire across Peterborough and the Fens.",
+  },
+  colchester: {
+    name: "Colchester",
+    lat: 51.8948,
+    lng: 0.9024,
+    description:
+      "Find minibus and coach hire companies in Colchester. Compare prices for group transport, coach hire and minibus hire across Colchester and North Essex.",
+  },
+  chelmsford: {
+    name: "Chelmsford",
+    lat: 51.7356,
+    lng: 0.4685,
+    description:
+      "Browse minibus and coach hire in Chelmsford. Compare operators for group transport, minibus hire and coach hire across Chelmsford and Central Essex.",
+  },
+  "southend-on-sea": {
+    name: "Southend-on-Sea",
+    lat: 51.5406,
+    lng: 0.7077,
+    description:
+      "Compare minibus and coach hire in Southend-on-Sea. Find operators for group transport, party buses and coach hire across Southend and the Essex coast.",
+  },
+  luton: {
+    name: "Luton",
+    lat: 51.8787,
+    lng: -0.42,
+    description:
+      "Find minibus and coach hire in Luton. Compare prices for airport transfers, group transport and coach hire across Luton and South Bedfordshire.",
+  },
+  bedford: {
+    name: "Bedford",
+    lat: 52.1356,
+    lng: -0.4685,
+    description:
+      "Browse minibus and coach hire companies in Bedford. Compare prices for group transport, minibus hire and coach hire across Bedford and Bedfordshire.",
+  },
+  basildon: {
+    name: "Basildon",
+    lat: 51.5761,
+    lng: 0.4886,
+    description:
+      "Compare minibus and coach hire in Basildon. Find operators for group transport, party buses and coach hire across Basildon and South Essex.",
+  },
+  stevenage: {
+    name: "Stevenage",
+    lat: 51.9022,
+    lng: -0.2028,
+    description:
+      "Find minibus and coach hire in Stevenage. Compare prices for group transport and coach hire across Stevenage and North Hertfordshire.",
+  },
+  harlow: {
+    name: "Harlow",
+    lat: 51.7727,
+    lng: 0.1072,
+    description:
+      "Browse minibus and coach hire in Harlow. Compare operators for group transport, Stansted airport transfers and coach hire across Harlow and West Essex.",
+  },
+  "great-yarmouth": {
+    name: "Great Yarmouth",
+    lat: 52.6069,
+    lng: 1.7298,
+    description:
+      "Compare minibus and coach hire in Great Yarmouth. Find operators for group transport, coastal trips and coach hire across Great Yarmouth and the Norfolk Broads.",
+  },
+  "kings-lynn": {
+    name: "Kings Lynn",
+    lat: 52.7543,
+    lng: 0.3956,
+    description:
+      "Find minibus and coach hire in Kings Lynn. Compare prices for group transport and coach hire across Kings Lynn and West Norfolk.",
+  },
+  "bury-st-edmunds": {
+    name: "Bury St Edmunds",
+    lat: 52.2474,
+    lng: 0.7183,
+    description:
+      "Browse minibus and coach hire in Bury St Edmunds. Compare operators for group transport and coach hire across Bury St Edmunds and West Suffolk.",
+  },
+  lowestoft: {
+    name: "Lowestoft",
+    lat: 52.4776,
+    lng: 1.7503,
+    description:
+      "Compare minibus and coach hire in Lowestoft. Find operators for group transport and coach hire across Lowestoft and the Suffolk coast.",
+  },
+  watford: {
+    name: "Watford",
+    lat: 51.6565,
+    lng: -0.3903,
+    description:
+      "Find minibus and coach hire in Watford. Compare prices for group transport, airport transfers and coach hire across Watford and South West Hertfordshire.",
+  },
+  "st-albans": {
+    name: "St Albans",
+    lat: 51.755,
+    lng: -0.336,
+    description:
+      "Browse minibus and coach hire in St Albans. Compare operators for group transport, Luton airport transfers and coach hire across St Albans and Hertfordshire.",
+  },
+  hertford: {
+    name: "Hertford",
+    lat: 51.7961,
+    lng: -0.0785,
+    description:
+      "Compare minibus and coach hire in Hertford. Find operators for group transport and coach hire across Hertford and East Hertfordshire.",
+  },
+  huntingdon: {
+    name: "Huntingdon",
+    lat: 52.331,
+    lng: -0.1869,
+    description:
+      "Find minibus and coach hire in Huntingdon. Compare prices for group transport and coach hire across Huntingdon and the surrounding area.",
+  },
+  braintree: {
+    name: "Braintree",
+    lat: 51.8786,
+    lng: 0.5535,
+    description:
+      "Browse minibus and coach hire in Braintree. Compare operators for group transport and coach hire across Braintree and North Essex.",
+  },
+  "clacton-on-sea": {
+    name: "Clacton-on-Sea",
+    lat: 51.7898,
+    lng: 1.1565,
+    description:
+      "Compare minibus and coach hire in Clacton-on-Sea. Find operators for group transport and coach hire across the Tendring coast.",
+  },
+  newmarket: {
+    name: "Newmarket",
+    lat: 52.246,
+    lng: 0.4054,
+    description:
+      "Find minibus and coach hire in Newmarket. Compare prices for group transport, race day hire and coach hire across Newmarket and West Suffolk.",
+  },
+  thetford: {
+    name: "Thetford",
+    lat: 52.413,
+    lng: 0.7401,
+    description:
+      "Browse minibus and coach hire in Thetford. Compare operators for group transport and coach hire across Thetford and the Breckland area.",
+  },
+  "welwyn-garden-city": {
+    name: "Welwyn Garden City",
+    lat: 51.801,
+    lng: -0.1989,
+    description:
+      "Compare minibus and coach hire in Welwyn Garden City. Find operators for group transport and coach hire across Welwyn, Hatfield and Central Hertfordshire.",
+  },
+  "st-neots": {
+    name: "St Neots",
+    lat: 52.229,
+    lng: -0.27,
+    description:
+      "Find minibus and coach hire in St Neots. Compare prices for group transport and coach hire across St Neots and South Cambridgeshire.",
+  },
+};
+
 const NE_LOCATION_MAP: Record<string, string> = {
   "Newcastle upon Tyne": "newcastle",
   Sunderland: "sunderland",
@@ -964,12 +1149,42 @@ const YK_LOCATION_MAP: Record<string, string> = {
   Todmorden: "todmorden",
 };
 
+const EA_LOCATION_MAP: Record<string, string> = {
+  Norwich: "norwich",
+  Cambridge: "cambridge",
+  Ipswich: "ipswich",
+  Peterborough: "peterborough",
+  Colchester: "colchester",
+  Chelmsford: "chelmsford",
+  "Southend-on-Sea": "southend-on-sea",
+  Luton: "luton",
+  Bedford: "bedford",
+  Basildon: "basildon",
+  Stevenage: "stevenage",
+  Harlow: "harlow",
+  "Great Yarmouth": "great-yarmouth",
+  "Kings Lynn": "kings-lynn",
+  "Bury St Edmunds": "bury-st-edmunds",
+  Lowestoft: "lowestoft",
+  Watford: "watford",
+  "St Albans": "st-albans",
+  Hertford: "hertford",
+  Huntingdon: "huntingdon",
+  Braintree: "braintree",
+  "Clacton-on-Sea": "clacton-on-sea",
+  Newmarket: "newmarket",
+  Thetford: "thetford",
+  "Welwyn Garden City": "welwyn-garden-city",
+  "St Neots": "st-neots",
+};
+
 export function getLocationConfig(): LocationConfig {
   const id = getSiteId();
   if (id === "northwest") return NW_LOCATIONS;
   if (id === "scotland") return SC_LOCATIONS;
   if (id === "midlands") return ML_LOCATIONS;
   if (id === "yorkshire") return YK_LOCATIONS;
+  if (id === "east") return EA_LOCATIONS;
   return NE_LOCATIONS;
 }
 
@@ -982,6 +1197,7 @@ export function getLocationFromFoundIn(foundIn: string): string {
   else if (id === "scotland") mapping = SC_LOCATION_MAP;
   else if (id === "midlands") mapping = ML_LOCATION_MAP;
   else if (id === "yorkshire") mapping = YK_LOCATION_MAP;
+  else if (id === "east") mapping = EA_LOCATION_MAP;
   else mapping = NE_LOCATION_MAP;
   return mapping[foundIn] || Object.values(mapping)[0];
 }

@@ -1854,12 +1854,378 @@ const YK_GUIDES: Guide[] = [
   },
 ];
 
+const EA_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-norwich",
+    title: "Party Bus Hire Norwich",
+    metaTitle: "Party Bus Hire Norwich | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in Norwich. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more.",
+    h1: "Party Bus Hire in Norwich & East of England",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in Norwich? A party bus is one of the most popular ways to travel in style with your group across Norfolk's capital city. We list the top party bus operators across Norwich and the wider East of England so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them perfect for large groups heading out in Norwich city centre, Prince of Wales Road, Tombland or the Cathedral Quarter.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in Norwich?",
+        content:
+          "Party bus hire prices in Norwich typically start from around £150-£250 for a 2-3 hour city centre tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £300-£500+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more. Most operators offer packages that include pick-up and drop-off at agreed locations around Norwich and Norfolk.",
+      },
+      {
+        heading: "Popular Party Bus Routes in Norwich",
+        content:
+          "The most popular party bus routes in Norwich include pick-ups from residential areas across Norfolk followed by a tour through the city centre. Many groups use a party bus as transport to start a night out on Prince of Wales Road, Riverside, or the Lanes. Other popular routes include trips to and from Great Yarmouth for seaside celebrations, Ipswich for combined nights out, or longer trips to Cambridge for special occasions.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in Norwich are most commonly booked for hen parties and hen dos, stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, race day transport to Fakenham or Great Yarmouth Racecourse, and match day travel to Carrow Road. Whatever the occasion, booking early is recommended as the best vehicles get booked up quickly, particularly during summer months and the Christmas party season.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in Norwich, check that the operator holds a valid PSV licence and that vehicles are regularly inspected. Read customer reviews, ask about the on-board facilities (sound system, lighting, seating layout), and confirm what is included in the price. Some operators include a driver and fuel in the quote while others may add extras. Always book well in advance for weekend dates and the festive season.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can a party bus hold?",
+        answer:
+          "Most party buses in Norwich carry between 16 and 50 passengers. The most common sizes are 16-seater, 24-seater and 33-seater party buses. For very large groups, some operators offer 50+ seater coaches with party features.",
+      },
+      {
+        question: "Can we bring our own drinks on a party bus?",
+        answer:
+          "Policies vary between operators. Many party bus companies in Norwich allow you to bring your own drinks (no glass bottles usually). Some operators provide a complimentary bar setup or allow you to pre-order drinks. Always confirm the alcohol policy when booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus?",
+        answer:
+          "For popular dates (Friday and Saturday nights, bank holidays, December), book at least 4-6 weeks in advance. For peak season like the Christmas party period, 2-3 months ahead is recommended. Midweek bookings can sometimes be arranged with shorter notice.",
+      },
+    ],
+    relatedLocations: [
+      "norwich",
+      "great-yarmouth",
+      "cambridge",
+      "ipswich",
+      "lowestoft",
+      "kings-lynn",
+    ],
+    keywords: [
+      "party bus hire norwich",
+      "party bus norwich",
+      "party bus hire norfolk",
+      "party bus cambridge",
+      "party bus hire east of england",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-east-of-england",
+    title: "Self-Drive Minibus Hire East of England",
+    metaTitle:
+      "Self-Drive Minibus Hire East of England | Compare Prices (2026)",
+    metaDescription:
+      "Compare self-drive minibus hire across the East of England. Find the best rates for 9-17 seater minibuses you can drive yourself in Norwich, Cambridge, Ipswich and more.",
+    h1: "Self-Drive Minibus Hire in East of England",
+    intro:
+      "Need a minibus you can drive yourself? Self-drive minibus hire is a cost-effective option for groups travelling together across the East of England. Whether it is a family holiday, sports team trip or group of friends heading to the coast, we list operators offering self-drive minibuses across Norfolk, Suffolk, Cambridgeshire, Essex and Hertfordshire.",
+    sections: [
+      {
+        heading: "What Is Self-Drive Minibus Hire?",
+        content:
+          "Self-drive minibus hire means you rent a minibus and drive it yourself, similar to hiring a car but with more seats. Most self-drive minibuses seat 9 to 17 passengers. You collect the vehicle from the operator, use it for your trip, and return it when finished. This is typically cheaper than hiring a minibus with a driver because you are not paying for the driver's time.",
+      },
+      {
+        heading: "Who Can Drive a Self-Drive Minibus?",
+        content:
+          "In the UK, you can drive a minibus with up to 16 passenger seats on a standard Category B car licence, provided you meet certain conditions. You must be aged 21 or over, have held your licence for at least 2 years, and the vehicle must not be used for hire or reward. For vehicles over 3,500kg MAM or with more than 16 seats, a Category D1 licence is required. Some hire companies have their own age and licence requirements, so always check when booking.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost?",
+        content:
+          "Self-drive minibus hire in the East of England typically starts from £80-£120 per day for a 9-seater and £120-£200 per day for a 15-17 seater. Weekend rates may be higher, and most operators offer discounts for multi-day hire. A security deposit is usually required, and you should check whether insurance, VAT and mileage are included in the quote. Some operators offer unlimited mileage while others charge per mile above a set limit.",
+      },
+      {
+        heading: "Popular Self-Drive Destinations",
+        content:
+          "The East of England is well suited to self-drive minibus trips. Popular destinations include the Norfolk Broads for group holidays, the Suffolk coast including Aldeburgh, Southwold and Felixstowe, Cambridge for day trips and university visits, Colchester Zoo and adventure parks, the North Norfolk coast from Cromer to Wells-next-the-Sea, and Stansted or Luton airports for group airport runs.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus, confirm the vehicle size suits your group (allow for luggage space), check the insurance cover provided and whether you need additional cover, understand the fuel policy (full-to-full is standard), ask about breakdown cover, and inspect the vehicle for existing damage before driving away. Most operators in the East of England will walk you through the vehicle and provide a damage report to sign.",
+      },
+    ],
+    faq: [
+      {
+        question: "Do I need a special licence to drive a minibus?",
+        answer:
+          "For minibuses up to 16 passenger seats and under 3,500kg, a standard Category B car licence is usually sufficient if you are over 21 and have held your licence for 2+ years. For larger minibuses, a D1 licence is required. Each hire company may have additional requirements.",
+      },
+      {
+        question: "Can I take a self-drive minibus outside the East of England?",
+        answer:
+          "Most operators allow travel throughout the UK. Some have mileage limits or restrictions on taking vehicles to certain areas. Very few allow vehicles to be taken abroad. Always check with the operator before booking.",
+      },
+      {
+        question: "What happens if I break down?",
+        answer:
+          "Reputable self-drive hire companies include breakdown cover with the hire. If you break down, call the operator's 24-hour helpline. They will arrange recovery or a replacement vehicle. Always carry the operator's contact details with you.",
+      },
+    ],
+    relatedLocations: [
+      "norwich",
+      "cambridge",
+      "ipswich",
+      "colchester",
+      "peterborough",
+      "chelmsford",
+      "luton",
+    ],
+    keywords: [
+      "self drive minibus hire east of england",
+      "self drive minibus hire norwich",
+      "self drive minibus hire cambridge",
+      "self drive minibus hire essex",
+      "self drive minibus hire norfolk",
+    ],
+  },
+  {
+    slug: "airport-transfers-east-of-england",
+    title: "Airport Transfers East of England",
+    metaTitle:
+      "Airport Transfer Minibus Hire East of England | Stansted & Luton (2026)",
+    metaDescription:
+      "Book minibus airport transfers across the East of England. Compare prices for group transfers to Stansted, Luton, Heathrow and other airports from Norwich, Cambridge, Ipswich and more.",
+    h1: "Airport Transfer Minibus Hire in East of England",
+    intro:
+      "The East of England is home to two of the UK's busiest airports, London Stansted and London Luton, making airport transfers one of the most popular reasons to hire a minibus in the region. Whether your group is flying from Stansted, Luton, or heading to Heathrow or Gatwick, we list minibus operators who specialise in reliable airport transfers across Norfolk, Suffolk, Cambridgeshire, Essex, Hertfordshire and Bedfordshire.",
+    sections: [
+      {
+        heading: "Why Choose a Minibus Airport Transfer?",
+        content:
+          "For groups of 6 or more, a minibus airport transfer is usually cheaper per person than individual taxis and far more convenient than public transport. Everyone travels together, luggage is handled in one vehicle, and you can be collected door-to-door. It is especially practical for early morning or late night flights when public transport options are limited across the East of England.",
+      },
+      {
+        heading: "Stansted Airport Transfers",
+        content:
+          "London Stansted Airport is the region's main hub, handling over 28 million passengers a year. Popular minibus transfer routes include Cambridge to Stansted (30-40 minutes), Colchester to Stansted (40-50 minutes), Norwich to Stansted (90 minutes), Ipswich to Stansted (60-70 minutes), and Chelmsford to Stansted (30 minutes). Many operators offer meet and greet services in the terminal or pick-up from the designated coach park.",
+      },
+      {
+        heading: "Luton Airport Transfers",
+        content:
+          "London Luton Airport serves over 18 million passengers and is conveniently located for Bedfordshire, Hertfordshire and Cambridgeshire. Common minibus routes include Luton town to the airport (10-15 minutes), Bedford to Luton (30 minutes), St Albans to Luton (20-25 minutes), Stevenage to Luton (25-30 minutes), and Cambridge to Luton (50-60 minutes). Transfers to Luton are especially popular for budget airline travellers.",
+      },
+      {
+        heading: "Heathrow and Gatwick Transfers",
+        content:
+          "While further afield, many East of England minibus operators also offer transfers to Heathrow and Gatwick airports. Routes from Hertfordshire and Bedfordshire to Heathrow take around 45-90 minutes depending on traffic. Transfers from Essex to Gatwick typically take 60-90 minutes via the M25. These longer transfers are particularly cost-effective for groups as the per-person savings compared to taxis are significant.",
+      },
+      {
+        heading: "How Much Do Airport Transfers Cost?",
+        content:
+          "Minibus airport transfer prices in the East of England depend on distance, group size and time of travel. As a guide, a 9-seater from Cambridge to Stansted costs around £60-£90, while Norwich to Stansted in a 16-seater costs £180-£260. Luton transfers are generally cheaper given its central location within the region. Early morning and late night transfers may attract a small surcharge. Always get a fixed quote before booking to avoid surprises.",
+      },
+    ],
+    faq: [
+      {
+        question: "How early should the minibus arrive before our flight?",
+        answer:
+          "Most operators will arrive 15-20 minutes before the agreed pick-up time. For airport transfers, allow at least 3 hours before an international flight and 2 hours before a domestic flight, plus travel time from your pick-up location. Your operator can advise on timing based on the route.",
+      },
+      {
+        question: "Can the driver wait if our flight is delayed?",
+        answer:
+          "Most operators monitor flight arrivals and will adjust pick-up time for delayed flights at no extra charge. For significant delays, they will keep in contact with you. Always provide your flight number when booking a return airport transfer so the operator can track your flight.",
+      },
+      {
+        question: "Is there space for luggage?",
+        answer:
+          "Yes, minibuses have dedicated luggage space. A standard 16-seater can usually accommodate 16 suitcases plus hand luggage. If your group has oversized items such as golf bags or ski equipment, mention this when booking so the operator can ensure the right vehicle is allocated.",
+      },
+    ],
+    relatedLocations: [
+      "luton",
+      "harlow",
+      "chelmsford",
+      "cambridge",
+      "norwich",
+      "colchester",
+      "stevenage",
+      "st-albans",
+    ],
+    keywords: [
+      "airport transfer minibus east of england",
+      "stansted airport minibus",
+      "luton airport minibus hire",
+      "cambridge to stansted minibus",
+      "norwich airport transfer",
+      "minibus hire stansted airport",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-east-of-england",
+    title: "16-Seater Minibus Hire East of England",
+    metaTitle:
+      "16-Seater Minibus Hire East of England | Compare Prices (2026)",
+    metaDescription:
+      "Compare 16-seater minibus hire across the East of England. Find the best rates with drivers in Norwich, Cambridge, Ipswich, Colchester and more.",
+    h1: "16-Seater Minibus Hire in East of England",
+    intro:
+      "A 16-seater minibus is the most popular size for group travel in the East of England. Big enough for sports teams, wedding parties, corporate groups and family celebrations, but small enough to navigate country lanes and village car parks, the 16-seater hits the sweet spot for most group transport needs. Compare operators offering 16-seater minibus hire with drivers across the region.",
+    sections: [
+      {
+        heading: "Why Choose a 16-Seater?",
+        content:
+          "The 16-seater minibus is the workhorse of group transport. It seats enough people for most group activities without being as expensive as a full coach. It fits into standard car parks, can handle narrow rural roads across Norfolk and Suffolk, and is more economical to run than larger vehicles. For groups between 10 and 16, it is almost always the best value option.",
+      },
+      {
+        heading: "What Is Included?",
+        content:
+          "Most 16-seater minibus hire in the East of England comes with a professional driver, fuel, insurance and VAT included in the price. Vehicles are typically modern, air-conditioned, and fitted with seat belts, USB charging points and overhead luggage racks. Some operators offer executive 16-seaters with leather seats and extra legroom for a premium service.",
+      },
+      {
+        heading: "How Much Does 16-Seater Minibus Hire Cost?",
+        content:
+          "Prices for 16-seater minibus hire with a driver in the East of England typically range from £200-£350 for a half-day (4-5 hours) and £300-£550 for a full day. Airport transfer rates depend on distance, with Stansted transfers starting from around £120-£200. Long-distance hire for events or away days will cost more. Prices vary between operators, so comparing quotes from multiple companies is always recommended.",
+      },
+      {
+        heading: "Popular Uses for 16-Seater Hire",
+        content:
+          "The most common bookings for 16-seater minibuses in the East of England include airport transfers to and from Stansted and Luton, sports team travel for away matches, wedding guest transport between venues across Norfolk, Suffolk and Cambridgeshire, corporate events and team building days, school trips and educational visits, and nights out in Norwich, Cambridge or Ipswich city centres.",
+      },
+      {
+        heading: "Booking Tips",
+        content:
+          "Book as early as possible for weekend dates and summer months. Get quotes from at least three operators and check what is included. Confirm pick-up times, drop-off locations and any waiting time charges. Ask whether the driver will stay with the vehicle or go away and return. For day-long hire, check if driver rest breaks are factored in. Finally, always confirm the operator has the correct licences and insurance.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can a 16-seater carry luggage as well as passengers?",
+        answer:
+          "Yes, most 16-seaters have a rear luggage area, but space is limited with a full load of passengers. If everyone has large suitcases, you may need to book a slightly larger vehicle or a luggage trailer. Discuss your luggage requirements when booking.",
+      },
+      {
+        question: "Is a 16-seater minibus wheelchair accessible?",
+        answer:
+          "Standard 16-seater minibuses are not wheelchair accessible. If you need wheelchair access, ask the operator about their accessible vehicles. Many companies in the East of England have adapted minibuses with ramps or lifts, but these need to be booked specifically.",
+      },
+      {
+        question: "Can I hire a 16-seater for multiple days?",
+        answer:
+          "Yes, multi-day hire is available from most operators. You will usually get a discounted daily rate for bookings of 2 or more days. The driver may stay locally or return each day depending on the arrangement. Discuss your itinerary with the operator to get the best rate.",
+      },
+    ],
+    relatedLocations: [
+      "norwich",
+      "cambridge",
+      "ipswich",
+      "colchester",
+      "peterborough",
+      "chelmsford",
+      "luton",
+      "bedford",
+    ],
+    keywords: [
+      "16 seater minibus hire east of england",
+      "16 seater minibus hire norwich",
+      "16 seater minibus hire cambridge",
+      "16 seater minibus hire essex",
+      "minibus hire 16 seater norfolk",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-east-of-england",
+    title: "Wedding Coach Hire East of England",
+    metaTitle:
+      "Wedding Coach & Minibus Hire East of England | Guest Transport (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire in the East of England. Transport your guests between ceremony, reception and hotels across Norfolk, Suffolk, Cambridgeshire and more.",
+    h1: "Wedding Coach & Minibus Hire in East of England",
+    intro:
+      "Your wedding day transport needs to be reliable, comfortable and stress-free. Whether you need a luxury coach for 50 guests or a minibus shuttle between your ceremony and reception venue, we list wedding transport specialists across the East of England. Compare operators, check reviews, and get quotes for your big day.",
+    sections: [
+      {
+        heading: "Why Hire Wedding Transport?",
+        content:
+          "Arranging group transport for your wedding guests takes the stress out of the day for everyone. No one needs to worry about parking, designated drivers or finding the venue. A coach or minibus can shuttle guests between the ceremony, reception and hotels, keeping your day running on time. It is especially important for East of England weddings at rural venues in the Norfolk countryside, the Suffolk coast, the Cambridgeshire Fens or the Hertfordshire hills where public transport is limited.",
+      },
+      {
+        heading: "Wedding Transport Options",
+        content:
+          "The most popular wedding transport options in the East of England are: luxury coaches seating 30-50 guests, standard minibuses seating 16-24 guests, executive minibuses with leather seats and tinted windows, and vintage buses for couples wanting a unique retro look. Many couples book multiple vehicles to cover different routes and pickup points across the region.",
+      },
+      {
+        heading: "Planning Your Wedding Transport",
+        content:
+          "Start by working out how many guests need transport and where they are coming from. Common arrangements include morning transport from guest hotels to the ceremony venue, an afternoon shuttle from the ceremony to the reception (if at different venues), and an evening return service from the reception to hotels or key drop-off points. The East of England road network connects the major towns well via the A11, A14, A12 and M11.",
+      },
+      {
+        heading: "Popular Wedding Venues and Routes",
+        content:
+          "The East of England has a wonderful selection of wedding venues from stately homes and barns to coastal venues and country estates. Popular routes include Norwich hotels to Norfolk countryside venues, Cambridge colleges and hotels to rural Cambridgeshire settings, Ipswich and Bury St Edmunds hotels to Suffolk barn conversions, and Chelmsford to Essex countryside estates. An experienced local operator will know these routes and can advise on timing and logistics.",
+      },
+      {
+        heading: "How Much Does Wedding Transport Cost?",
+        content:
+          "Wedding coach hire in the East of England typically costs £300-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£350. Evening return services cost from £150-£300 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
+      },
+    ],
+    faq: [
+      {
+        question: "How far in advance should I book wedding transport?",
+        answer:
+          "Book as early as possible, ideally 6-12 months before your wedding date. Popular dates (Saturdays in summer) get booked up quickly, and the East of England has a very busy wedding season. Once you have your venue confirmed, transport should be one of the next things you arrange.",
+      },
+      {
+        question: "Can the coach be decorated for a wedding?",
+        answer:
+          "Many operators will add ribbons, bows and 'Just Married' signs at no extra cost. Some offer more elaborate decorations including floral garlands and personalised signage. Discuss your requirements when booking.",
+      },
+      {
+        question: "What if our ceremony and reception are at the same venue?",
+        answer:
+          "You may still want transport for guests from their hotels to the venue and back in the evening. A shuttle service at the end of the night ensures guests get home safely and means everyone can enjoy themselves without worrying about driving on unfamiliar rural roads.",
+      },
+      {
+        question: "Can we make multiple stops?",
+        answer:
+          "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city such as Norwich, Cambridge, Ipswich or Colchester. Discuss your route with the operator to get an accurate quote.",
+      },
+    ],
+    relatedLocations: [
+      "norwich",
+      "cambridge",
+      "ipswich",
+      "colchester",
+      "bury-st-edmunds",
+      "chelmsford",
+      "peterborough",
+      "kings-lynn",
+    ],
+    keywords: [
+      "wedding coach hire east of england",
+      "wedding coach hire norwich",
+      "wedding minibus hire norfolk",
+      "wedding transport cambridge",
+      "wedding bus hire suffolk",
+    ],
+  },
+];
+
 function getGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
   if (id === "scotland") return SC_GUIDES;
   if (id === "midlands") return ML_GUIDES;
   if (id === "yorkshire") return YK_GUIDES;
+  if (id === "east") return EA_GUIDES;
   return NE_GUIDES;
 }
 

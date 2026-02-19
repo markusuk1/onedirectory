@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east";
 
 export interface SiteConfig {
   id: SiteId;
@@ -117,6 +117,25 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Leeds Bradford, Manchester and other airports.",
   },
+  east: {
+    id: "east",
+    name: "Minibus Hire East of England",
+    shortName: "East of England",
+    logoPrefix: "EE",
+    domain: "hireeast.co.uk",
+    region: "East of England",
+    description:
+      "Compare minibus and coach hire companies across the East of England. Get free quotes from trusted operators in Norwich, Cambridge, Ipswich, Peterborough, Colchester and more.",
+    footerDescription:
+      "The East of England's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire East of England - the largest directory of minibus and coach hire companies in East of England.",
+    locationsList:
+      "Norwich, Cambridge, Ipswich, Peterborough, Colchester, Chelmsford, Southend-on-Sea, Luton, Bedford, Basildon, Stevenage, Harlow, Great Yarmouth, Kings Lynn, Bury St Edmunds, Lowestoft, Watford, St Albans, Hertford, Huntingdon, Braintree, Clacton-on-Sea, Newmarket, Thetford and Welwyn Garden City",
+    airportName: "London Stansted Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Stansted, Luton and other airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
@@ -125,6 +144,7 @@ export function getSiteId(): SiteId {
   if (site === "scotland") return "scotland";
   if (site === "midlands") return "midlands";
   if (site === "yorkshire") return "yorkshire";
+  if (site === "east") return "east";
   return "northeast";
 }
 
