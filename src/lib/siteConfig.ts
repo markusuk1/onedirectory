@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest" | "scotland" | "midlands";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire";
 
 export interface SiteConfig {
   id: SiteId;
@@ -98,6 +98,25 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Birmingham, East Midlands and other airports.",
   },
+  yorkshire: {
+    id: "yorkshire",
+    name: "Minibus Hire Yorkshire",
+    shortName: "Yorkshire",
+    logoPrefix: "YK",
+    domain: "hireyorkshire.co.uk",
+    region: "Yorkshire",
+    description:
+      "Compare minibus and coach hire companies across Yorkshire. Get free quotes from trusted operators in Leeds, Sheffield, York, Hull, Bradford and more.",
+    footerDescription:
+      "Yorkshire's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire Yorkshire - the largest directory of minibus and coach hire companies in Yorkshire.",
+    locationsList:
+      "Leeds, Sheffield, York, Hull, Bradford, Doncaster, Huddersfield, Harrogate, Wakefield, Rotherham, Barnsley, Halifax, Scarborough, Selby, Skipton, Bridlington, Beverley, Dewsbury, Keighley, Pontefract, Whitby, Northallerton, Ripon, Goole, Castleford, Wetherby, Batley, Driffield, Pocklington and Todmorden",
+    airportName: "Leeds Bradford Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Leeds Bradford, Manchester and other airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
@@ -105,6 +124,7 @@ export function getSiteId(): SiteId {
   if (site === "northwest") return "northwest";
   if (site === "scotland") return "scotland";
   if (site === "midlands") return "midlands";
+  if (site === "yorkshire") return "yorkshire";
   return "northeast";
 }
 

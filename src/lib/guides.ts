@@ -1480,11 +1480,386 @@ const ML_GUIDES: Guide[] = [
   },
 ];
 
+const YK_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-leeds",
+    title: "Party Bus Hire Leeds",
+    metaTitle: "Party Bus Hire Leeds | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in Leeds. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more.",
+    h1: "Party Bus Hire in Leeds & Yorkshire",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in Leeds? A party bus is one of the most popular ways to travel in style with your group across Yorkshire's biggest city. We list the top party bus operators across Leeds and the wider Yorkshire region so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them perfect for large groups heading out in Leeds city centre, Call Lane, the Headrow or the Northern Quarter.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in Leeds?",
+        content:
+          "Party bus hire prices in Leeds typically start from around £150-£250 for a 2-3 hour city centre tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £300-£500+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more.",
+      },
+      {
+        heading: "Popular Party Bus Routes in Leeds",
+        content:
+          "The most popular party bus routes in Leeds include pick-ups from residential areas across West Yorkshire followed by a tour through the city centre. Many groups use a party bus as transport to start a night out on Call Lane, around the Headrow or Greek Street. Other popular routes include trips through Headingley, tours around Chapel Allerton and Roundhay, or longer runs combining Leeds with stops in York, Harrogate or Bradford.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in Leeds are most commonly booked for hen parties and hen dos, stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, race day transport to York Racecourse or Wetherby Racecourse, and match day travel to Elland Road or Headingley Stadium. Whatever the occasion, booking early is recommended as the best vehicles get booked up quickly.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in Leeds, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can fit on a party bus?",
+        answer:
+          "Most party buses in Leeds accommodate between 16 and 50 passengers. The most common sizes are 16-seater and 24-seater party buses. For larger groups, some operators offer full-size coach conversions that seat up to 50 people.",
+      },
+      {
+        question: "Can you bring your own drinks on a party bus?",
+        answer:
+          "This depends on the operator. Many Leeds party bus companies allow you to bring your own non-glass drinks (cans and plastic bottles). Some offer packages that include drinks. Always check with the operator before booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus?",
+        answer:
+          "We recommend booking at least 4-6 weeks in advance for weekend bookings. During peak season (December, summer weekends), booking 2-3 months ahead is advisable to secure your preferred vehicle and date.",
+      },
+      {
+        question: "Are party buses available in other Yorkshire cities?",
+        answer:
+          "Yes. Party bus operators in our directory also cover Sheffield, York, Hull, Bradford, Huddersfield, Wakefield, Harrogate and other Yorkshire locations. Many Leeds-based operators will pick up from across the region.",
+      },
+    ],
+    relatedLocations: [
+      "leeds",
+      "bradford",
+      "wakefield",
+      "huddersfield",
+      "harrogate",
+      "york",
+      "sheffield",
+    ],
+    keywords: [
+      "party bus leeds",
+      "party bus hire leeds",
+      "party bus hire yorkshire",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-yorkshire",
+    title: "Self-Drive Minibus Hire Yorkshire",
+    metaTitle:
+      "Self-Drive Minibus Hire Yorkshire | No Driver Needed (2026)",
+    metaDescription:
+      "Hire a self-drive minibus in Yorkshire. Compare 9-17 seater minibuses you can drive yourself across Leeds, Sheffield, York, Hull, Bradford and more.",
+    h1: "Self-Drive Minibus Hire in Yorkshire",
+    intro:
+      "Need a minibus but want to drive it yourself? Self-drive minibus hire is a cost-effective option for groups who have a confident driver with a standard UK driving licence. We list self-drive minibus operators across Yorkshire including Leeds, Sheffield, York, Hull, Bradford, Harrogate and beyond.",
+    sections: [
+      {
+        heading: "What Licence Do You Need?",
+        content:
+          "You can drive a minibus on a standard Category B car licence if the vehicle has no more than 8 passenger seats (plus the driver) and a Maximum Authorised Mass (MAM) of no more than 3,500kg. For larger minibuses with 9-16 passenger seats, you may need a D1 licence category. If you passed your driving test before 1 January 1997, you should already have the D1 category on your licence. Drivers who passed after this date will need to check their licence or consider a smaller vehicle.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost?",
+        content:
+          "Self-drive minibus hire in Yorkshire is significantly cheaper than hiring with a driver. A 9-seater minibus typically costs £80-£150 per day, while larger 12-15 seater vehicles range from £120-£200 per day. Weekend rates and weekly hire often offer better value, with weekly rates starting from around £380 for a 9-seater. Most operators require a security deposit (usually £250-£500) and you will need to arrange your own insurance or pay for the operator's cover.",
+      },
+      {
+        heading: "Where Can I Hire a Self-Drive Minibus in Yorkshire?",
+        content:
+          "Self-drive minibus hire is available across Yorkshire. The largest number of operators are based in Leeds, Sheffield and Bradford, but you will also find self-drive options in York, Hull, Doncaster, Huddersfield, Harrogate and Wakefield. Many operators will deliver the vehicle to your address or a convenient pick-up point for an additional fee.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus in Yorkshire, confirm the mileage allowance (some operators include unlimited mileage while others charge per mile after a set limit), check the fuel policy (most operate on a full-to-full basis), understand the insurance excess and what is covered, ask about breakdown cover, and inspect the vehicle for any existing damage before driving away. Taking photos of the vehicle at collection is always a good idea.",
+      },
+      {
+        heading: "Popular Uses for Self-Drive Minibus Hire",
+        content:
+          "Self-drive minibuses in Yorkshire are commonly hired for family days out to the Yorkshire Dales, Peak District or coast, group trips to York or Whitby, sports team transport, wedding guest transfers, festival and event transport, airport runs to Leeds Bradford Airport or Manchester Airport, and weekend getaways. The flexibility of driving yourself means you can plan your own itinerary and make stops wherever you like.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 12-seater minibus on a car licence?",
+        answer:
+          "It depends on when you passed your driving test. If you passed before 1 January 1997, your licence likely includes the D1 category which allows you to drive minibuses with up to 16 passenger seats. If you passed after this date, you can only drive vehicles with up to 8 passenger seats on a standard car licence.",
+      },
+      {
+        question: "What age do I need to be to hire a self-drive minibus?",
+        answer:
+          "Most Yorkshire minibus hire companies require the driver to be at least 25 years old with a minimum of 2 years driving experience. Some operators may accept drivers from age 21 with higher deposits or insurance excesses.",
+      },
+      {
+        question: "Is fuel included in self-drive minibus hire?",
+        answer:
+          "No, fuel is almost never included. Most operators use a full-to-full fuel policy, meaning you collect the vehicle with a full tank and return it full. You are responsible for fuel costs during your hire period.",
+      },
+      {
+        question: "Can I take a self-drive minibus outside Yorkshire?",
+        answer:
+          "Yes, most operators allow travel anywhere within the UK. However, taking the vehicle abroad typically requires special permission and additional insurance. Always check with the operator before booking if you plan to travel outside Yorkshire.",
+      },
+    ],
+    relatedLocations: [
+      "leeds",
+      "sheffield",
+      "bradford",
+      "york",
+      "hull",
+      "huddersfield",
+      "doncaster",
+    ],
+    keywords: [
+      "self drive minibus hire yorkshire",
+      "self drive minibus hire leeds",
+      "self drive minibus yorkshire",
+      "self drive minibus hire west yorkshire",
+      "self drive minibus hire south yorkshire",
+    ],
+  },
+  {
+    slug: "airport-transfers-yorkshire",
+    title: "Airport Transfer Minibus Hire Yorkshire",
+    metaTitle:
+      "Airport Transfer Minibus Hire Yorkshire | Leeds Bradford & Manchester (2026)",
+    metaDescription:
+      "Book airport transfer minibus hire across Yorkshire. Group transfers to Leeds Bradford Airport, Manchester Airport, Doncaster Sheffield and more.",
+    h1: "Airport Transfer Minibus Hire in Yorkshire",
+    intro:
+      "Travelling as a group to or from the airport? Booking a minibus for your airport transfer is often cheaper, more convenient and less stressful than multiple taxis or trying to coordinate cars. We list minibus and coach operators across Yorkshire who specialise in airport transfers to Leeds Bradford, Manchester, Doncaster Sheffield and other airports.",
+    sections: [
+      {
+        heading: "Which Airports Serve Yorkshire?",
+        content:
+          "The main airports serving Yorkshire are Leeds Bradford Airport (the closest for most of West and North Yorkshire), Manchester Airport (a major international hub with excellent motorway links via the M62), and Doncaster Sheffield Airport. For travellers in East Yorkshire and Hull, Humberside Airport is also an option. Manchester Airport is particularly popular for long-haul flights, while Leeds Bradford handles a wide range of European and domestic destinations.",
+      },
+      {
+        heading: "How Much Does an Airport Transfer Minibus Cost?",
+        content:
+          "Airport transfer prices from Yorkshire vary depending on the pick-up location, airport, group size and time of travel. A 8-seater minibus from Leeds to Leeds Bradford Airport typically costs £40-£70, while a transfer from Leeds to Manchester Airport ranges from £120-£200 for a standard minibus. Larger 16-seater vehicles cost more, but when split between the group the per-person cost is often less than a standard taxi. Early morning and late night transfers may carry a small surcharge.",
+      },
+      {
+        heading: "Why Choose a Minibus for Airport Transfers?",
+        content:
+          "A minibus airport transfer offers several advantages over taxis or public transport. The whole group travels together with all luggage in one vehicle, the cost per person is typically lower than individual taxis, you get a door-to-door service with a professional driver, and there is no worry about parking charges or leaving a car at the airport for the duration of your trip. Most operators will track your flight and adjust pick-up times if your arrival is delayed.",
+      },
+      {
+        heading: "Popular Airport Transfer Routes",
+        content:
+          "The most popular airport transfer routes in Yorkshire include Leeds to Leeds Bradford Airport, Sheffield to Manchester Airport, York to Leeds Bradford Airport, Bradford to Leeds Bradford Airport, Harrogate to Leeds Bradford Airport, Hull to Humberside Airport, and Doncaster to Doncaster Sheffield Airport. Many operators also provide transfers to more distant airports including Newcastle, East Midlands and London airports for larger groups.",
+      },
+      {
+        heading: "Booking Your Airport Transfer",
+        content:
+          "We recommend booking your airport transfer minibus at least one week in advance, and earlier during peak holiday periods. When booking, provide your flight details so the operator can monitor arrivals, confirm the number of passengers and how much luggage you have, agree a meeting point (most operators will meet you in arrivals or at a designated pick-up point), and confirm whether the quoted price includes waiting time in case of flight delays.",
+      },
+    ],
+    faq: [
+      {
+        question: "How far in advance should I book an airport transfer?",
+        answer:
+          "We recommend booking at least 1-2 weeks ahead, especially for early morning departures or during school holiday periods. Last-minute bookings may be possible but availability is not guaranteed.",
+      },
+      {
+        question: "What happens if my flight is delayed?",
+        answer:
+          "Most airport transfer operators in Yorkshire monitor flight arrivals and will adjust your pick-up time if your flight is delayed. It is worth confirming this when booking and providing your flight number.",
+      },
+      {
+        question: "Can a minibus fit all our luggage?",
+        answer:
+          "Standard minibuses have a luggage area, but space varies by vehicle. When booking, let the operator know exactly how many suitcases, carry-ons and any oversized items you have so they can provide an appropriately sized vehicle.",
+      },
+      {
+        question: "Is it cheaper than a taxi to the airport?",
+        answer:
+          "For groups of 4 or more, a minibus transfer is almost always cheaper per person than individual taxis. For example, a minibus from Leeds to Manchester Airport split between 8 passengers can work out at £15-£25 per person.",
+      },
+    ],
+    relatedLocations: [
+      "leeds",
+      "sheffield",
+      "york",
+      "bradford",
+      "harrogate",
+      "hull",
+      "doncaster",
+    ],
+    keywords: [
+      "airport transfer minibus yorkshire",
+      "minibus hire leeds bradford airport",
+      "airport minibus hire leeds",
+      "airport transfer minibus sheffield",
+      "manchester airport minibus yorkshire",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-yorkshire",
+    title: "16 Seater Minibus Hire Yorkshire",
+    metaTitle:
+      "16 Seater Minibus Hire Yorkshire | Prices & Companies (2026)",
+    metaDescription:
+      "Compare 16 seater minibus hire across Yorkshire. Find prices, availability and top-rated operators in Leeds, Sheffield, York, Hull and more.",
+    h1: "16 Seater Minibus Hire in Yorkshire",
+    intro:
+      "A 16-seater minibus is the ideal size for medium-sized groups who need comfortable transport with plenty of room for luggage. Whether you need transport for a day trip, weekend away, wedding, corporate event or sports team fixture, we list 16-seater minibus operators across Yorkshire so you can compare prices and availability.",
+    sections: [
+      {
+        heading: "How Much Does 16 Seater Minibus Hire Cost?",
+        content:
+          "The cost of hiring a 16-seater minibus in Yorkshire depends on whether you hire with a driver or self-drive, the distance and duration, and the specific operator. With a driver, expect to pay around £180-£350 for a full day hire within Yorkshire. Self-drive 16-seater minibuses typically cost £130-£220 per day. Longer journeys or multi-day hires are usually better value per day. Most operators offer free, no-obligation quotes.",
+      },
+      {
+        heading: "With Driver or Self-Drive?",
+        content:
+          "Most 16-seater minibus hire in Yorkshire comes with a professional driver included. This is the most convenient option as you can relax and enjoy the journey without worrying about navigation, parking or driving restrictions. Self-drive 16-seater minibuses are available but you will need a D1 category on your driving licence (standard for anyone who passed their test before January 1997). If your driver passed their test after this date, consider a smaller vehicle or hire with a driver.",
+      },
+      {
+        heading: "Popular Uses for 16 Seater Minibuses",
+        content:
+          "16-seater minibuses in Yorkshire are popular for wedding guest transport between venues, corporate events and team building days, sports team fixtures and tournaments, school and college trips, day trips to the Yorkshire Dales, North York Moors or coast, airport transfers for larger groups, and stag and hen party transport. The 16-seater size strikes a good balance between capacity and manoeuvrability, fitting comfortably in most car parks and roads.",
+      },
+      {
+        heading: "Where to Hire a 16 Seater Minibus in Yorkshire",
+        content:
+          "16-seater minibus operators can be found across Yorkshire, with the largest concentration in Leeds, Sheffield, Bradford, York and Hull. Many operators are happy to travel to any pick-up point in the region, so even if you are based in a smaller town such as Skipton, Whitby, Harrogate or Scarborough, you should have no trouble finding an operator willing to cover your area.",
+      },
+    ],
+    faq: [
+      {
+        question: "Do I need a special licence to drive a 16-seater minibus?",
+        answer:
+          "Yes. To drive a 16-seater minibus you need a D1 category on your driving licence. If you passed your driving test before 1 January 1997, this is likely already included. Otherwise, you will need to take an additional test or hire a minibus with a driver.",
+      },
+      {
+        question: "How much luggage space does a 16-seater have?",
+        answer:
+          "Most 16-seater minibuses have a separate luggage compartment or dedicated space at the rear. For trips with a lot of luggage (such as airport transfers), let the operator know in advance so they can provide a vehicle with adequate storage.",
+      },
+      {
+        question: "Can I hire a 16-seater for a one-way trip?",
+        answer:
+          "Yes, many operators offer one-way hires, for example from Leeds to Manchester Airport or Sheffield to London. One-way trips may cost slightly more than return journeys. Get a quote specifying your exact route for accurate pricing.",
+      },
+      {
+        question: "Are 16-seater minibuses wheelchair accessible?",
+        answer:
+          "Some operators offer wheelchair-accessible 16-seater minibuses with ramp or lift access. If you need an accessible vehicle, mention this when requesting quotes so the operator can confirm availability.",
+      },
+    ],
+    relatedLocations: [
+      "leeds",
+      "sheffield",
+      "york",
+      "hull",
+      "bradford",
+      "doncaster",
+      "wakefield",
+    ],
+    keywords: [
+      "16 seater minibus hire yorkshire",
+      "16 seater minibus hire leeds",
+      "16 seater minibus hire sheffield",
+      "16 seater minibus hire york",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-yorkshire",
+    title: "Wedding Coach Hire Yorkshire",
+    metaTitle:
+      "Wedding Coach Hire Yorkshire | Transport Your Guests in Style (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire across Yorkshire. Compare prices for guest transport between venues in Leeds, York, Sheffield, Harrogate and more.",
+    h1: "Wedding Coach & Minibus Hire in Yorkshire",
+    intro:
+      "Planning your wedding in Yorkshire? Getting your guests safely between the ceremony, reception and hotel is one of the most important logistics to get right. We list coach and minibus operators across Yorkshire who specialise in wedding transport, so you can compare prices and find the perfect vehicle for your big day.",
+    sections: [
+      {
+        heading: "Why Hire a Coach or Minibus for Your Wedding?",
+        content:
+          "Hiring a coach or minibus for your wedding guests ensures everyone arrives at the right place at the right time without the stress of coordinating multiple cars. It means guests can enjoy a drink without worrying about driving, elderly or less mobile guests have comfortable door-to-door transport, you avoid car parking issues at venues with limited spaces, and the whole group can travel and celebrate together. Many Yorkshire wedding venues, particularly those in the countryside and the Dales, have limited parking so arranged transport is often essential.",
+      },
+      {
+        heading: "How Much Does Wedding Coach Hire Cost in Yorkshire?",
+        content:
+          "Wedding coach and minibus hire in Yorkshire typically costs between £200 and £600 depending on the vehicle size, distance between venues, and duration. A 16-seater minibus for a short transfer between ceremony and reception venue usually costs £150-£250. A 33-53 seat coach for a longer journey or full day hire ranges from £350-£600+. Most operators offer wedding-specific packages that include ribbons or decorations, and some offer vintage or luxury vehicles at premium rates.",
+      },
+      {
+        heading: "Popular Yorkshire Wedding Venues & Routes",
+        content:
+          "Yorkshire is one of England's most popular wedding destinations with stunning venues across the region. Popular wedding transport routes include transfers between York city centre churches and country house venues in the Vale of York, Leeds city centre hotels to venues in the Yorkshire Dales, Harrogate hotels to stately home venues across North Yorkshire, Sheffield venues to Peak District country houses, and coastal venues around Whitby and Scarborough. Whatever your route, our listed operators know Yorkshire's roads inside out.",
+      },
+      {
+        heading: "What to Look for in a Wedding Transport Company",
+        content:
+          "When choosing wedding transport in Yorkshire, look for operators who have specific wedding experience and can provide references or reviews from previous wedding clients, offer a trial run or venue visit before the day, have backup vehicles available in case of breakdowns, can decorate the vehicle to match your colour scheme, provide a smartly dressed driver, and offer flexible timing to accommodate the unpredictable nature of wedding day schedules.",
+      },
+      {
+        heading: "Booking Tips for Wedding Transport",
+        content:
+          "Wedding coaches and minibuses in Yorkshire get booked up quickly, especially during peak wedding season (May to September). We recommend booking your wedding transport 6-12 months in advance to secure your preferred vehicle and date. Get at least three quotes, confirm all details in writing, and check the cancellation policy carefully. A good operator will visit your venues in advance to plan the best routes and drop-off points.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many guests can a wedding coach hold?",
+        answer:
+          "Standard coaches seat 49-53 passengers. For smaller weddings, minibuses seating 8-16 passengers are a popular choice. Some operators offer a combination of vehicles to transport all guests regardless of the size of your wedding.",
+      },
+      {
+        question: "Can the coach be decorated for a wedding?",
+        answer:
+          "Many Yorkshire operators offer wedding decorations as part of their package, including ribbons, bows and flowers on the exterior. Some premium operators also offer interior decorations. Discuss your requirements when getting a quote.",
+      },
+      {
+        question: "What if the wedding runs late?",
+        answer:
+          "Most wedding transport operators build in some flexibility for timing. However, significant delays may incur additional charges. Discuss overtime rates when booking and keep your driver informed of any schedule changes on the day.",
+      },
+      {
+        question: "Do you offer vintage wedding buses?",
+        answer:
+          "Some operators in our Yorkshire directory offer vintage or heritage buses for weddings, which are popular for photos and add a unique touch to your day. These tend to book up very quickly so enquire early.",
+      },
+    ],
+    relatedLocations: [
+      "york",
+      "leeds",
+      "harrogate",
+      "sheffield",
+      "hull",
+      "skipton",
+      "scarborough",
+    ],
+    keywords: [
+      "wedding coach hire yorkshire",
+      "wedding minibus hire yorkshire",
+      "wedding bus hire york",
+      "wedding coach hire leeds",
+      "wedding transport yorkshire",
+    ],
+  },
+];
+
 function getGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
   if (id === "scotland") return SC_GUIDES;
   if (id === "midlands") return ML_GUIDES;
+  if (id === "yorkshire") return YK_GUIDES;
   return NE_GUIDES;
 }
 

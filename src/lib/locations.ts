@@ -620,6 +620,219 @@ const ML_LOCATIONS: LocationConfig = {
   },
 };
 
+const YK_LOCATIONS: LocationConfig = {
+  leeds: {
+    name: "Leeds",
+    lat: 53.8008,
+    lng: -1.5491,
+    description:
+      "Compare minibus and coach hire companies in Leeds. Find the best prices for minibus hire, party buses, airport transfers and coach hire across Leeds and West Yorkshire.",
+  },
+  sheffield: {
+    name: "Sheffield",
+    lat: 53.3811,
+    lng: -1.4701,
+    description:
+      "Find trusted minibus and coach hire companies in Sheffield. Compare prices for minibus hire, party buses, coach hire and group transport across Sheffield and South Yorkshire.",
+  },
+  york: {
+    name: "York",
+    lat: 53.9591,
+    lng: -1.0815,
+    description:
+      "Browse minibus and coach hire operators in York. Compare prices and reviews for group transport, race day hire, city tours and coach hire across York and North Yorkshire.",
+  },
+  hull: {
+    name: "Hull",
+    lat: 53.7457,
+    lng: -0.3367,
+    description:
+      "Compare minibus and coach hire in Hull. Find the best operators for minibus hire, party buses and coach hire across Hull and East Yorkshire.",
+  },
+  bradford: {
+    name: "Bradford",
+    lat: 53.796,
+    lng: -1.7594,
+    description:
+      "Find minibus and coach hire companies in Bradford. Compare prices for group transport, coach hire and minibus hire across Bradford and the surrounding area.",
+  },
+  doncaster: {
+    name: "Doncaster",
+    lat: 53.5228,
+    lng: -1.1285,
+    description:
+      "Browse minibus and coach hire in Doncaster. Compare operators for group transport, race day hire, minibus hire and coach hire across Doncaster and South Yorkshire.",
+  },
+  huddersfield: {
+    name: "Huddersfield",
+    lat: 53.6458,
+    lng: -1.785,
+    description:
+      "Compare minibus and coach hire in Huddersfield. Find operators for group transport, match day hire and coach hire across Huddersfield and Kirklees.",
+  },
+  harrogate: {
+    name: "Harrogate",
+    lat: 53.9921,
+    lng: -1.5418,
+    description:
+      "Find minibus and coach hire in Harrogate. Compare prices for group transport, event hire and coach hire across Harrogate, Knaresborough and the surrounding area.",
+  },
+  wakefield: {
+    name: "Wakefield",
+    lat: 53.683,
+    lng: -1.4991,
+    description:
+      "Browse minibus and coach hire in Wakefield. Compare operators for group transport, minibus hire and coach hire across the Wakefield district.",
+  },
+  rotherham: {
+    name: "Rotherham",
+    lat: 53.4326,
+    lng: -1.3568,
+    description:
+      "Compare minibus and coach hire in Rotherham. Find operators for group transport and coach hire across Rotherham and South Yorkshire.",
+  },
+  barnsley: {
+    name: "Barnsley",
+    lat: 53.5529,
+    lng: -1.4793,
+    description:
+      "Find minibus and coach hire in Barnsley. Compare prices for group transport, minibus hire and coach hire across Barnsley and the surrounding area.",
+  },
+  halifax: {
+    name: "Halifax",
+    lat: 53.7248,
+    lng: -1.8658,
+    description:
+      "Browse minibus and coach hire in Halifax. Compare operators for group transport and coach hire across Halifax and Calderdale.",
+  },
+  scarborough: {
+    name: "Scarborough",
+    lat: 54.2793,
+    lng: -0.4049,
+    description:
+      "Compare minibus and coach hire in Scarborough. Find operators for group transport, coastal trips and coach hire across Scarborough and the Yorkshire Coast.",
+  },
+  selby: {
+    name: "Selby",
+    lat: 53.782,
+    lng: -1.0701,
+    description:
+      "Find minibus and coach hire in Selby. Compare prices for group transport and coach hire across Selby and the surrounding area.",
+  },
+  skipton: {
+    name: "Skipton",
+    lat: 53.9609,
+    lng: -2.0174,
+    description:
+      "Browse minibus and coach hire in Skipton. Compare operators for group transport, Yorkshire Dales trips and coach hire across Skipton and Craven.",
+  },
+  bridlington: {
+    name: "Bridlington",
+    lat: 54.0841,
+    lng: -0.1917,
+    description:
+      "Compare minibus and coach hire in Bridlington. Find operators for group transport and coach hire across Bridlington and the East Yorkshire coast.",
+  },
+  beverley: {
+    name: "Beverley",
+    lat: 53.8428,
+    lng: -0.4284,
+    description:
+      "Find minibus and coach hire in Beverley. Compare prices for group transport, race day hire and coach hire across Beverley and East Yorkshire.",
+  },
+  dewsbury: {
+    name: "Dewsbury",
+    lat: 53.6908,
+    lng: -1.6317,
+    description:
+      "Browse minibus and coach hire in Dewsbury. Compare operators for group transport and coach hire across Dewsbury and North Kirklees.",
+  },
+  keighley: {
+    name: "Keighley",
+    lat: 53.8679,
+    lng: -1.9114,
+    description:
+      "Compare minibus and coach hire in Keighley. Find operators for group transport and coach hire across Keighley and the Aire Valley.",
+  },
+  pontefract: {
+    name: "Pontefract",
+    lat: 53.6918,
+    lng: -1.3118,
+    description:
+      "Find minibus and coach hire in Pontefract. Compare prices for group transport, race day hire and coach hire across Pontefract and the Five Towns.",
+  },
+  whitby: {
+    name: "Whitby",
+    lat: 54.4858,
+    lng: -0.6206,
+    description:
+      "Browse minibus and coach hire in Whitby. Compare operators for group transport, coastal trips and coach hire across Whitby and the North Yorkshire Moors.",
+  },
+  northallerton: {
+    name: "Northallerton",
+    lat: 54.3379,
+    lng: -1.4285,
+    description:
+      "Compare minibus and coach hire in Northallerton. Find operators for group transport and coach hire across Northallerton and Hambleton.",
+  },
+  ripon: {
+    name: "Ripon",
+    lat: 54.1381,
+    lng: -1.5245,
+    description:
+      "Find minibus and coach hire in Ripon. Compare prices for group transport and coach hire across Ripon and the Harrogate district.",
+  },
+  goole: {
+    name: "Goole",
+    lat: 53.7046,
+    lng: -0.8687,
+    description:
+      "Browse minibus and coach hire in Goole. Compare operators for group transport and coach hire across Goole and the East Riding.",
+  },
+  castleford: {
+    name: "Castleford",
+    lat: 53.7252,
+    lng: -1.356,
+    description:
+      "Compare minibus and coach hire in Castleford. Find operators for group transport and coach hire across Castleford and the Wakefield district.",
+  },
+  wetherby: {
+    name: "Wetherby",
+    lat: 53.9271,
+    lng: -1.3863,
+    description:
+      "Find minibus and coach hire in Wetherby. Compare prices for group transport, race day hire and coach hire across Wetherby and North Leeds.",
+  },
+  batley: {
+    name: "Batley",
+    lat: 53.7152,
+    lng: -1.6352,
+    description:
+      "Browse minibus and coach hire in Batley. Compare operators for group transport and coach hire across Batley and the Spen Valley.",
+  },
+  driffield: {
+    name: "Driffield",
+    lat: 54.0018,
+    lng: -0.4394,
+    description:
+      "Compare minibus and coach hire in Driffield. Find operators for group transport and coach hire across Driffield and the Yorkshire Wolds.",
+  },
+  pocklington: {
+    name: "Pocklington",
+    lat: 53.9307,
+    lng: -0.778,
+    description:
+      "Find minibus and coach hire in Pocklington. Compare prices for group transport and coach hire across Pocklington and the East Riding.",
+  },
+  todmorden: {
+    name: "Todmorden",
+    lat: 53.7143,
+    lng: -2.0973,
+    description:
+      "Browse minibus and coach hire in Todmorden. Compare operators for group transport and coach hire across Todmorden and the Upper Calder Valley.",
+  },
+};
+
 const NE_LOCATION_MAP: Record<string, string> = {
   "Newcastle upon Tyne": "newcastle",
   Sunderland: "sunderland",
@@ -718,11 +931,45 @@ const ML_LOCATION_MAP: Record<string, string> = {
   Kettering: "kettering",
 };
 
+const YK_LOCATION_MAP: Record<string, string> = {
+  Leeds: "leeds",
+  Sheffield: "sheffield",
+  York: "york",
+  Hull: "hull",
+  Bradford: "bradford",
+  Doncaster: "doncaster",
+  Huddersfield: "huddersfield",
+  Harrogate: "harrogate",
+  Wakefield: "wakefield",
+  Rotherham: "rotherham",
+  Barnsley: "barnsley",
+  Halifax: "halifax",
+  Scarborough: "scarborough",
+  Selby: "selby",
+  Skipton: "skipton",
+  Bridlington: "bridlington",
+  Beverley: "beverley",
+  Dewsbury: "dewsbury",
+  Keighley: "keighley",
+  Pontefract: "pontefract",
+  Whitby: "whitby",
+  Northallerton: "northallerton",
+  Ripon: "ripon",
+  Goole: "goole",
+  Castleford: "castleford",
+  Wetherby: "wetherby",
+  Batley: "batley",
+  Driffield: "driffield",
+  Pocklington: "pocklington",
+  Todmorden: "todmorden",
+};
+
 export function getLocationConfig(): LocationConfig {
   const id = getSiteId();
   if (id === "northwest") return NW_LOCATIONS;
   if (id === "scotland") return SC_LOCATIONS;
   if (id === "midlands") return ML_LOCATIONS;
+  if (id === "yorkshire") return YK_LOCATIONS;
   return NE_LOCATIONS;
 }
 
@@ -734,6 +981,7 @@ export function getLocationFromFoundIn(foundIn: string): string {
   if (id === "northwest") mapping = NW_LOCATION_MAP;
   else if (id === "scotland") mapping = SC_LOCATION_MAP;
   else if (id === "midlands") mapping = ML_LOCATION_MAP;
+  else if (id === "yorkshire") mapping = YK_LOCATION_MAP;
   else mapping = NE_LOCATION_MAP;
   return mapping[foundIn] || Object.values(mapping)[0];
 }
