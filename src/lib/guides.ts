@@ -2219,6 +2219,515 @@ const EA_GUIDES: Guide[] = [
   },
 ];
 
+const LN_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-london",
+    title: "Party Bus Hire London",
+    metaTitle:
+      "Party Bus Hire London | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in London. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more across the capital.",
+    h1: "Party Bus Hire in London",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in London? A party bus is one of the most exciting ways to travel in style with your group across the capital. From the West End to Shoreditch, we list the top party bus operators across London so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them perfect for large groups heading out in central London, Soho, Shoreditch, or along the South Bank.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in London?",
+        content:
+          "Party bus hire prices in London typically start from around £250-£400 for a 2-3 hour tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £500-£800+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more. London prices are generally higher than other UK cities due to congestion charges and higher operating costs. Most operators offer packages that include pick-up and drop-off at agreed locations across Greater London.",
+      },
+      {
+        heading: "Popular Party Bus Routes in London",
+        content:
+          "The most popular party bus routes in London include tours through the West End passing iconic landmarks such as Big Ben, the Houses of Parliament, Trafalgar Square and Buckingham Palace. Many groups use a party bus as transport to start a night out in Soho, Shoreditch, Camden, or Clapham. Other popular routes include circuits around the South Bank and London Eye area, trips through Mayfair and Knightsbridge, or longer tours combining multiple nightlife areas across the capital.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in London are most commonly booked for hen parties and hen dos, stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, race day transport to Ascot or Epsom, and match day travel to Wembley Stadium or Twickenham. Whatever the occasion, booking early is recommended as the best vehicles get booked up quickly, particularly during summer months and the Christmas party season.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in London, check that the operator holds a valid PSV licence and that vehicles are regularly inspected. Read customer reviews on Google and Trustpilot, ask about the on-board facilities (sound system, lighting, seating layout), and confirm what is included in the price. Some operators include a driver and fuel in the quote while others may add extras. Check whether the Congestion Charge and ULEZ fees are included. Always book well in advance for weekend dates and the festive season.",
+      },
+      {
+        heading: "London Party Bus Regulations",
+        content:
+          "London has specific regulations around party buses and large vehicles in the city centre. The Ultra Low Emission Zone (ULEZ) covers all of Greater London and vehicles must meet emission standards or pay a daily charge. The Congestion Charge applies in central London on weekdays. Reputable operators factor these costs into their quotes. Some boroughs also have restrictions on late-night noise, so your operator should be familiar with local rules to ensure a smooth experience.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can fit on a party bus?",
+        answer:
+          "Most party buses in London accommodate between 16 and 50 passengers. The most common sizes are 16-seater, 24-seater and 36-seater party buses. For larger groups, some operators offer full-size coach conversions that seat up to 50 or more people.",
+      },
+      {
+        question: "Can you bring your own drinks on a party bus?",
+        answer:
+          "This depends on the operator. Many London party bus companies allow you to bring your own non-glass drinks (cans and plastic bottles). Some offer packages that include drinks or a complimentary bar setup. Always check with the operator before booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus in London?",
+        answer:
+          "We recommend booking at least 6-8 weeks in advance for weekend bookings. London is one of the busiest markets for party buses in the UK. During peak season (December, summer weekends), booking 2-3 months ahead is advisable to get your preferred vehicle.",
+      },
+      {
+        question: "Where can a party bus pick us up in London?",
+        answer:
+          "Most operators can pick up from hotels, residential addresses and agreed meeting points across Greater London. Central London pick-ups may be restricted to certain locations due to parking and traffic regulations. Your operator will confirm the best pick-up point for your group.",
+      },
+      {
+        question: "Are party buses affected by the Congestion Charge?",
+        answer:
+          "Yes, party buses entering the Congestion Charge zone in central London are subject to the charge on weekdays. Most reputable operators include this cost in their quote, but it is worth confirming when you book. The ULEZ charge may also apply if the vehicle does not meet emission standards.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "camden",
+      "islington",
+      "hackney",
+      "chelsea",
+      "greenwich",
+      "wimbledon",
+      "richmond",
+    ],
+    keywords: [
+      "party bus hire london",
+      "party bus london",
+      "party bus hire central london",
+      "party bus west end",
+      "party bus hire shoreditch",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-london",
+    title: "Self-Drive Minibus Hire London",
+    metaTitle:
+      "Self-Drive Minibus Hire London | Compare Prices (2026)",
+    metaDescription:
+      "Compare self-drive minibus hire across London. Find the best rates for 9-17 seater minibuses you can drive yourself in and around the capital.",
+    h1: "Self-Drive Minibus Hire in London",
+    intro:
+      "Need a minibus you can drive yourself in London? Self-drive minibus hire is a cost-effective option for groups travelling together across the capital and beyond. Whether it is a family trip, sports team away day, or a group of friends heading out of London for the weekend, we list operators offering self-drive minibuses across Greater London and the surrounding areas.",
+    sections: [
+      {
+        heading: "What Is Self-Drive Minibus Hire?",
+        content:
+          "Self-drive minibus hire means you rent a minibus and drive it yourself, similar to hiring a car but with more seats. Most self-drive minibuses seat 9 to 17 passengers. You collect the vehicle from the operator, use it for your trip, and return it when finished. This is typically cheaper than hiring a minibus with a driver because you are not paying for the driver's time.",
+      },
+      {
+        heading: "Who Can Drive a Self-Drive Minibus?",
+        content:
+          "In the UK, you can drive a minibus with up to 16 passenger seats on a standard Category B car licence, provided you meet certain conditions. You must be aged 21 or over, have held your licence for at least 2 years, and the vehicle must not be used for hire or reward. For vehicles over 3,500kg MAM or with more than 16 seats, a Category D1 licence is required. Some hire companies have their own age and licence requirements, so always check when booking.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost in London?",
+        content:
+          "Self-drive minibus hire in London typically starts from £100-£150 per day for a 9-seater and £150-£250 per day for a 15-17 seater. London prices are higher than the national average due to higher operating costs and demand. Weekend rates may be higher, and most operators offer discounts for multi-day hire. A security deposit is usually required, and you should check whether insurance, VAT and mileage are included in the quote. Be aware of the ULEZ charge if driving within Greater London and the Congestion Charge for central London.",
+      },
+      {
+        heading: "Driving a Minibus in London",
+        content:
+          "Driving a minibus in London requires extra care and attention. Be aware of bus lanes (many operate 24 hours), the Congestion Charge zone in central London, the ULEZ which covers all of Greater London, low emission zones, height and width restrictions on certain roads and car parks, and the Dartford Crossing charge if heading east. Many self-drive hirers find it easier to pick up from operators based in outer London boroughs such as Croydon, Bromley, Enfield or Hounslow and use the vehicle for trips outside the capital.",
+      },
+      {
+        heading: "Popular Self-Drive Destinations from London",
+        content:
+          "London is perfectly positioned for self-drive minibus trips. Popular destinations include the Kent coast (Margate, Whitstable, Broadstairs), Brighton and the Sussex coast, the Cotswolds for weekend breaks, Windsor and Legoland for family days out, Oxford and Cambridge for day trips, and Thorpe Park, Chessington and other theme parks. Many groups also use self-drive minibuses for airport runs to Heathrow, Gatwick, Stansted and Luton.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus in London, confirm the vehicle size suits your group and allow for luggage space. Check the insurance cover provided and whether you need additional cover. Understand the fuel policy (full-to-full is standard), ask about breakdown cover, and inspect the vehicle for existing damage before driving away. Check whether ULEZ and Congestion Charge costs are included or your responsibility. Most London operators will walk you through the vehicle and provide a damage report to sign.",
+      },
+    ],
+    faq: [
+      {
+        question: "Do I need a special licence to drive a minibus?",
+        answer:
+          "For minibuses up to 16 passenger seats and under 3,500kg, a standard Category B car licence is usually sufficient if you are over 21 and have held your licence for 2+ years. For larger minibuses, a D1 licence is required. Each hire company may have additional requirements.",
+      },
+      {
+        question: "Will I have to pay the Congestion Charge?",
+        answer:
+          "If you drive the minibus into the central London Congestion Charge zone during charging hours (weekdays 7am-6pm), you will need to pay the charge. Some operators include this in the hire cost, while others leave it as your responsibility. Always clarify this when booking.",
+      },
+      {
+        question: "Can I take the minibus outside London?",
+        answer:
+          "Yes, most operators allow travel throughout the UK. Some have mileage limits or restrictions on taking vehicles to certain areas. Very few allow vehicles to be taken abroad. Always check with the operator before booking.",
+      },
+      {
+        question: "What happens if I break down?",
+        answer:
+          "Reputable self-drive hire companies include breakdown cover with the hire. If you break down, call the operator's 24-hour helpline. They will arrange recovery or a replacement vehicle. Always carry the operator's contact details with you.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "greenwich",
+      "wimbledon",
+      "richmond",
+      "chelsea",
+      "islington",
+      "camden",
+      "hackney",
+    ],
+    keywords: [
+      "self drive minibus hire london",
+      "self drive minibus hire central london",
+      "minibus rental london",
+      "self drive minibus london",
+      "9 seater hire london",
+    ],
+  },
+  {
+    slug: "airport-transfers-london",
+    title: "Airport Transfers London",
+    metaTitle:
+      "Airport Transfer Minibus Hire London | Heathrow, Gatwick & More (2026)",
+    metaDescription:
+      "Book minibus airport transfers across London. Compare prices for group transfers to Heathrow, Gatwick, Stansted, Luton and London City airports.",
+    h1: "Airport Transfer Minibus Hire in London",
+    intro:
+      "London is served by six major airports, making airport transfers one of the most popular reasons to hire a minibus in the capital. Whether your group is flying from Heathrow, Gatwick, Stansted, Luton or London City, we list minibus operators who specialise in reliable airport transfers across Greater London and the Home Counties.",
+    sections: [
+      {
+        heading: "Why Choose a Minibus Airport Transfer?",
+        content:
+          "For groups of 6 or more, a minibus airport transfer is usually cheaper per person than individual taxis or Ubers and far more convenient than navigating the Tube or rail with luggage. Everyone travels together, luggage is handled in one vehicle, and you can be collected door-to-door. It is especially practical for early morning or late night flights when public transport options are reduced or stopped.",
+      },
+      {
+        heading: "Heathrow Airport Transfers",
+        content:
+          "London Heathrow is the UK's busiest airport, handling over 80 million passengers a year across its four terminals. Minibus transfers from central London to Heathrow take around 45-75 minutes depending on traffic and your starting point. Popular pickup areas include Westminster, Kensington, the City of London, and Paddington. Operators familiar with Heathrow know the best routes to avoid congestion on the M4 and A4, and can arrange meet and greet at the terminal or pickup from the designated coach area.",
+      },
+      {
+        heading: "Gatwick Airport Transfers",
+        content:
+          "Gatwick Airport is London's second busiest airport, located approximately 30 miles south of central London. Minibus transfers from central London typically take 60-90 minutes via the M23 and A23. South London areas such as Croydon, Bromley and Greenwich have shorter transfer times of 30-50 minutes. Gatwick has two terminals (North and South) connected by a shuttle train, so confirm which terminal your group needs when booking.",
+      },
+      {
+        heading: "Stansted and Luton Airport Transfers",
+        content:
+          "London Stansted and London Luton airports are located north of the capital and are popular with budget airlines. Stansted is around 40 miles from central London (60-90 minutes by minibus via the M11), while Luton is approximately 35 miles away (50-80 minutes via the M1). Transfers from north London areas such as Islington, Camden and Enfield are quicker. Both airports have dedicated drop-off and pickup areas for minibuses and coaches.",
+      },
+      {
+        heading: "London City Airport Transfers",
+        content:
+          "London City Airport in the Royal Docks is the closest airport to central London, just 6 miles from the City of London and Canary Wharf. Minibus transfers from most central London locations take only 20-40 minutes. It primarily serves business travellers and short-haul European routes. The compact size of the airport makes it quick and easy for group transfers, though road access can be affected by events at the nearby ExCeL London exhibition centre.",
+      },
+      {
+        heading: "How Much Do Airport Transfers Cost?",
+        content:
+          "Minibus airport transfer prices in London depend on distance, group size, time of travel and the specific airport. As a guide, a 9-seater from central London to Heathrow costs around £80-£120, a 16-seater from central London to Gatwick costs £150-£250, and Stansted or Luton transfers in a 16-seater cost £180-£300. London City Airport transfers are typically the cheapest given its proximity. Early morning and late night transfers may attract a surcharge of 10-20 percent. Always get a fixed quote before booking to avoid surprises.",
+      },
+    ],
+    faq: [
+      {
+        question: "How early should the minibus arrive before our flight?",
+        answer:
+          "Most operators will arrive 15-20 minutes before the agreed pick-up time. For airport transfers, allow at least 3 hours before an international flight and 2 hours before a domestic flight, plus travel time from your pick-up location. London traffic can be unpredictable, so factor in extra time during rush hours.",
+      },
+      {
+        question: "Can the driver wait if our flight is delayed?",
+        answer:
+          "Most operators monitor flight arrivals and will adjust pick-up time for delayed flights at no extra charge. For significant delays, they will keep in contact with you. Always provide your flight number when booking a return airport transfer so the operator can track your flight.",
+      },
+      {
+        question: "Is there space for luggage?",
+        answer:
+          "Yes, minibuses have dedicated luggage space. A standard 16-seater can usually accommodate 16 suitcases plus hand luggage. If your group has oversized items such as golf bags or ski equipment, mention this when booking so the operator can ensure the right vehicle is allocated.",
+      },
+      {
+        question: "Which London airport is cheapest to transfer to by minibus?",
+        answer:
+          "London City Airport is typically the cheapest transfer due to its proximity to central London. Heathrow transfers are generally cheaper than Gatwick for groups starting in west or central London. Stansted and Luton transfers tend to be the most expensive from central London due to the longer distances involved.",
+      },
+      {
+        question: "Are airport parking charges included in the transfer price?",
+        answer:
+          "Drop-off transfers do not usually involve parking charges as the driver drops you at the terminal. For collection transfers, drivers may need to wait in a short-stay car park briefly. Most operators factor this into their quote, but confirm when booking. Some airports charge for vehicles waiting in pick-up zones.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "greenwich",
+      "chelsea",
+      "islington",
+      "camden",
+      "hackney",
+      "wimbledon",
+      "richmond",
+    ],
+    keywords: [
+      "airport transfer minibus london",
+      "heathrow minibus hire",
+      "gatwick airport minibus",
+      "stansted airport transfer london",
+      "london city airport minibus",
+      "luton airport minibus hire",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-london",
+    title: "Wedding Coach Hire London",
+    metaTitle:
+      "Wedding Coach & Minibus Hire London | Guest Transport (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire in London. Transport your guests between ceremony, reception and hotels across the capital and surrounding areas.",
+    h1: "Wedding Coach & Minibus Hire in London",
+    intro:
+      "Your wedding day transport needs to be reliable, comfortable and stress-free. Whether you need a luxury coach for 50 guests or a minibus shuttle between your ceremony and reception venue, we list wedding transport specialists across London. Compare operators, check reviews, and get quotes for your big day.",
+    sections: [
+      {
+        heading: "Why Hire Wedding Transport in London?",
+        content:
+          "Arranging group transport for your wedding guests takes the stress out of the day for everyone. No one needs to worry about finding parking in central London, navigating one-way systems, or dealing with the Congestion Charge. A coach or minibus can shuttle guests between the ceremony, reception and hotels, keeping your day running on time. It is especially important for London weddings where venues may be spread across different boroughs and parking is limited and expensive.",
+      },
+      {
+        heading: "Wedding Transport Options",
+        content:
+          "The most popular wedding transport options in London are: luxury coaches seating 30-50 guests with leather seats and air conditioning, standard minibuses seating 16-24 guests, executive minibuses with tinted windows and premium interiors, and vintage Routemaster buses for a quintessentially London experience. Many couples book multiple vehicles to cover different routes and pickup points across the capital.",
+      },
+      {
+        heading: "Planning Your Wedding Transport",
+        content:
+          "Start by working out how many guests need transport and where they are coming from. Common arrangements include morning transport from guest hotels to the ceremony venue, an afternoon shuttle from the ceremony to the reception (if at different venues), and an evening return service from the reception to hotels or key drop-off points. London traffic can be significant, so allow extra time in your schedule. An experienced London operator will know the best routes and can advise on realistic timings.",
+      },
+      {
+        heading: "Popular Wedding Venues and Routes",
+        content:
+          "London has an extraordinary selection of wedding venues from historic halls and luxury hotels to riverside terraces and rooftop gardens. Popular routes include hotels in Mayfair and Kensington to ceremony venues in Westminster or the City, South Bank venues to reception locations in Greenwich or Dulwich, Shoreditch and East London warehouse venues, and transfers to country house venues in Surrey, Hertfordshire and Essex just outside the capital. Iconic backdrops such as Tower Bridge, the Thames and the Royal Parks make the journey itself a memorable part of the day.",
+      },
+      {
+        heading: "How Much Does Wedding Transport Cost in London?",
+        content:
+          "Wedding coach hire in London typically costs £400-£800 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £250-£450. Evening return services cost from £200-£400 depending on distance and the number of drop-off points. Vintage Routemaster buses are a popular London option and typically cost £500-£900 for a half-day. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
+      },
+    ],
+    faq: [
+      {
+        question: "How far in advance should I book wedding transport in London?",
+        answer:
+          "Book as early as possible, ideally 6-12 months before your wedding date. Popular dates (Saturdays in summer) get booked up quickly, and London is one of the busiest wedding markets in the UK. Once you have your venue confirmed, transport should be one of the next things you arrange.",
+      },
+      {
+        question: "Can we hire a vintage Routemaster bus for our wedding?",
+        answer:
+          "Yes, vintage red Routemaster buses are a very popular wedding transport option in London. They are a unique and photogenic choice that guests love. Several operators in our directory specialise in vintage bus hire for weddings. Book early as these vehicles are in high demand.",
+      },
+      {
+        question: "What if our ceremony and reception are at the same venue?",
+        answer:
+          "You may still want transport for guests from their hotels to the venue and back in the evening. A shuttle service at the end of the night ensures guests get home safely and means everyone can enjoy themselves without worrying about driving in London or finding a taxi at midnight.",
+      },
+      {
+        question: "Can we make multiple hotel pickup stops?",
+        answer:
+          "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-4 hotel drop-offs in central London areas such as Westminster, Kensington, Bloomsbury or the South Bank. Discuss your route with the operator to get an accurate quote.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "greenwich",
+      "chelsea",
+      "richmond",
+      "wimbledon",
+      "islington",
+      "camden",
+      "hackney",
+    ],
+    keywords: [
+      "wedding coach hire london",
+      "wedding minibus hire london",
+      "wedding bus hire central london",
+      "wedding transport london",
+      "vintage wedding bus london",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-london",
+    title: "16-Seater Minibus Hire London",
+    metaTitle:
+      "16-Seater Minibus Hire London | Compare Prices (2026)",
+    metaDescription:
+      "Compare 16-seater minibus hire across London. Find the best rates with drivers in central London, Westminster, Kensington, Greenwich and more.",
+    h1: "16-Seater Minibus Hire in London",
+    intro:
+      "A 16-seater minibus is the most popular size for group travel in London. Big enough for sports teams, wedding parties, corporate groups and family celebrations, but compact enough to navigate London's busy streets and fit into most car parks, the 16-seater is the go-to choice for group transport in the capital. Compare operators offering 16-seater minibus hire with drivers across London.",
+    sections: [
+      {
+        heading: "Why Choose a 16-Seater in London?",
+        content:
+          "The 16-seater minibus is the workhorse of group transport. It seats enough people for most group activities without being as expensive or unwieldy as a full coach. Crucially for London, it is small enough to navigate narrow streets, fit under height restrictions, and use standard car parks that larger coaches cannot access. For groups between 10 and 16, it is almost always the best value option in the capital.",
+      },
+      {
+        heading: "What Is Included?",
+        content:
+          "Most 16-seater minibus hire in London comes with a professional driver, fuel, insurance and VAT included in the price. Vehicles are typically modern, air-conditioned, and fitted with seat belts, USB charging points and overhead luggage racks. Some operators offer executive 16-seaters with leather seats and extra legroom for a premium service. Congestion Charge and ULEZ fees should also be included in quotes from reputable operators.",
+      },
+      {
+        heading: "How Much Does 16-Seater Minibus Hire Cost in London?",
+        content:
+          "Prices for 16-seater minibus hire with a driver in London typically range from £250-£450 for a half-day (4-5 hours) and £400-£700 for a full day. Airport transfer rates depend on the airport, with Heathrow transfers starting from around £120-£200 and Gatwick from £150-£250. London prices reflect higher operating costs including the Congestion Charge, ULEZ compliance, parking fees and driver costs. Comparing quotes from multiple companies is always recommended.",
+      },
+      {
+        heading: "Popular Uses for 16-Seater Hire in London",
+        content:
+          "The most common bookings for 16-seater minibuses in London include airport transfers to and from all London airports, sightseeing tours taking in landmarks such as the Tower of London, Buckingham Palace and the London Eye, sports team travel for away matches, wedding guest transport between venues, corporate events and team building days in the city, theatre trips to the West End, and nights out in Soho, Shoreditch or Clapham.",
+      },
+      {
+        heading: "Booking Tips for London",
+        content:
+          "Book as early as possible for weekend dates and summer months. London is the busiest market for minibus hire in the UK. Get quotes from at least three operators and check what is included, particularly regarding Congestion Charge and ULEZ costs. Confirm pick-up times, drop-off locations and any waiting time charges. Ask whether the driver will stay with the vehicle or go away and return. For day-long hire, check if driver rest breaks are factored in. Finally, always confirm the operator has the correct licences and insurance.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can a 16-seater carry luggage as well as passengers?",
+        answer:
+          "Yes, most 16-seaters have a rear luggage area, but space is limited with a full load of passengers. If everyone has large suitcases (common for airport transfers), you may need to book a slightly larger vehicle or a luggage trailer. Discuss your luggage requirements when booking.",
+      },
+      {
+        question: "Is a 16-seater minibus wheelchair accessible?",
+        answer:
+          "Standard 16-seater minibuses are not wheelchair accessible. If you need wheelchair access, ask the operator about their accessible vehicles. Many companies in London have adapted minibuses with ramps or lifts, but these need to be booked specifically.",
+      },
+      {
+        question: "Can I hire a 16-seater for multiple days?",
+        answer:
+          "Yes, multi-day hire is available from most operators. You will usually get a discounted daily rate for bookings of 2 or more days. The driver may stay locally or return each day depending on the arrangement. Discuss your itinerary with the operator to get the best rate.",
+      },
+      {
+        question: "Are there size restrictions for minibuses in central London?",
+        answer:
+          "A 16-seater minibus can access most of central London without issues. Some streets, car parks and residential areas have height or width restrictions that prevent larger coaches but a 16-seater will usually fit. Your driver should be familiar with London's road network and any restrictions on your route.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "greenwich",
+      "wimbledon",
+      "chelsea",
+      "islington",
+      "camden",
+      "hackney",
+      "richmond",
+    ],
+    keywords: [
+      "16 seater minibus hire london",
+      "16 seater minibus hire central london",
+      "16 seater minibus hire westminster",
+      "minibus hire 16 seater london",
+      "16 seater minibus with driver london",
+    ],
+  },
+  {
+    slug: "corporate-minibus-hire-london",
+    title: "Corporate Minibus Hire London",
+    metaTitle:
+      "Corporate Minibus & Coach Hire London | Business Transport (2026)",
+    metaDescription:
+      "Find corporate minibus and coach hire in London. Professional group transport for conferences, team events, client hospitality and business travel across the capital.",
+    h1: "Corporate Minibus & Coach Hire in London",
+    intro:
+      "London is the UK's business capital, hosting thousands of conferences, corporate events, team away days and client hospitality occasions every year. Professional minibus and coach hire ensures your team or clients travel comfortably and arrive on time. We list corporate transport specialists across London so you can compare operators, check reviews, and book the right vehicle for your business needs.",
+    sections: [
+      {
+        heading: "Why Choose Corporate Minibus Hire?",
+        content:
+          "Corporate minibus hire provides a professional, reliable and cost-effective way to transport staff and clients around London. It eliminates the hassle of coordinating individual taxis, removes parking headaches, and ensures your group arrives together and on schedule. For businesses hosting events at venues across the capital, from the ExCeL London to Olympia, the QEII Centre to the O2, professional group transport makes logistics seamless.",
+      },
+      {
+        heading: "Corporate Transport Options",
+        content:
+          "London corporate transport operators offer a range of vehicles to suit different needs: executive minibuses seating 8-16 passengers with leather interiors, USB charging and Wi-Fi, standard coaches seating 24-53 passengers for larger groups, luxury VIP vehicles for client hospitality and board-level travel, and shuttle services running regular routes between offices, stations and event venues. Many operators also provide branded vehicles and uniformed drivers for a fully professional image.",
+      },
+      {
+        heading: "Popular Corporate Uses in London",
+        content:
+          "The most common corporate bookings in London include conference and exhibition transfers to ExCeL, Olympia and the Business Design Centre, team building day transport to venues in and around London, inter-office shuttles between London sites, client entertainment transport to restaurants and hospitality events, Christmas party and summer event transport, training day and workshop transfers, and airport pickups for visiting international clients or staff arriving at Heathrow, Gatwick or City Airport.",
+      },
+      {
+        heading: "Planning Corporate Transport in London",
+        content:
+          "Effective corporate transport planning starts with understanding your group size, schedule and locations. For conferences and exhibitions, consider arrival and departure times, any mid-event transfers, and the number of pickup points. For ongoing requirements such as daily shuttles, discuss regular booking arrangements and dedicated account management. London traffic patterns should be factored into all timings, with extra allowance during morning and evening rush hours and around major events in the city.",
+      },
+      {
+        heading: "How Much Does Corporate Minibus Hire Cost?",
+        content:
+          "Corporate minibus hire in London varies depending on vehicle type, duration and service level. An executive 16-seater for a half-day typically costs £300-£500, while a full-size coach for a conference transfer costs £400-£800. Regular shuttle services can be arranged on a contract basis with discounted rates. Most corporate operators offer account facilities with monthly invoicing, purchase order references, and VAT invoices as standard. Get itemised quotes that include Congestion Charge, ULEZ, parking and driver costs so there are no surprises on the invoice.",
+      },
+      {
+        heading: "Choosing a Corporate Transport Provider",
+        content:
+          "When selecting a corporate minibus hire company in London, look for operators with experience in business transport. Key factors include their fleet condition and age (modern, well-maintained vehicles reflect well on your company), driver standards and presentation, reliability track record, ability to handle last-minute changes, insurance levels suitable for corporate clients, and account management capabilities. Ask for references from other corporate clients and check their reviews on Google and Trustpilot.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can you provide Wi-Fi on the minibus?",
+        answer:
+          "Many executive and corporate minibuses in London come equipped with on-board Wi-Fi, USB charging points and power sockets. This allows passengers to work or stay connected during the journey. Confirm Wi-Fi availability when booking if this is important for your group.",
+      },
+      {
+        question: "Do you offer account facilities for regular corporate bookings?",
+        answer:
+          "Yes, most corporate transport operators in London offer business account facilities. This typically includes monthly invoicing, purchase order referencing, a dedicated account manager, priority booking, and agreed rates for regular routes. Set up a corporate account if you anticipate regular bookings.",
+      },
+      {
+        question: "Can you handle last-minute changes to our booking?",
+        answer:
+          "Experienced corporate operators are used to handling schedule changes, additional passengers, and route amendments at short notice. Discuss your likely requirements upfront so the operator can plan for flexibility. Most companies have backup vehicles and drivers available for London bookings.",
+      },
+      {
+        question: "What if we need transport for a large conference?",
+        answer:
+          "For large conferences with 100+ delegates, operators can provide multiple coaches running shuttle services between hotels, stations and the venue. A transport coordinator can be assigned to manage logistics on the day. Popular London conference venues such as ExCeL, Olympia and the QEII Centre have dedicated coach parking areas. Discuss your event requirements well in advance to secure sufficient vehicles.",
+      },
+    ],
+    relatedLocations: [
+      "central-london",
+      "westminster",
+      "kensington",
+      "chelsea",
+      "islington",
+      "camden",
+      "hackney",
+      "greenwich",
+      "wimbledon",
+      "richmond",
+    ],
+    keywords: [
+      "corporate minibus hire london",
+      "corporate coach hire london",
+      "business minibus hire london",
+      "conference transport london",
+      "corporate shuttle london",
+      "executive minibus hire london",
+    ],
+  },
+];
+
 function getGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
@@ -2226,6 +2735,7 @@ function getGuides(): Guide[] {
   if (id === "midlands") return ML_GUIDES;
   if (id === "yorkshire") return YK_GUIDES;
   if (id === "east") return EA_GUIDES;
+  if (id === "london") return LN_GUIDES;
   return NE_GUIDES;
 }
 

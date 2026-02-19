@@ -1018,6 +1018,443 @@ const EA_LOCATIONS: LocationConfig = {
   },
 };
 
+const LN_LOCATIONS: LocationConfig = {
+  "central-london": {
+    name: "Central London",
+    lat: 51.5074,
+    lng: -0.1278,
+    description:
+      "Compare minibus and coach hire companies in Central London. Find the best prices for minibus hire, party buses, airport transfers and coach hire across Central London and the West End.",
+  },
+  westminster: {
+    name: "Westminster",
+    lat: 51.4975,
+    lng: -0.1357,
+    description:
+      "Find trusted minibus and coach hire companies in Westminster. Compare prices for minibus hire, party buses, coach hire and group transport across Westminster and surrounding areas.",
+  },
+  wimbledon: {
+    name: "Wimbledon",
+    lat: 51.4214,
+    lng: -0.2064,
+    description:
+      "Browse minibus and coach hire operators in Wimbledon. Compare prices and reviews for group transport, event hire and coach hire across Wimbledon and South West London.",
+  },
+  "city-of-london": {
+    name: "City of London",
+    lat: 51.5155,
+    lng: -0.0922,
+    description:
+      "Compare minibus and coach hire in the City of London. Find the best operators for minibus hire, corporate transport and coach hire across the Square Mile.",
+  },
+  kensington: {
+    name: "Kensington",
+    lat: 51.4988,
+    lng: -0.1749,
+    description:
+      "Find minibus and coach hire companies in Kensington. Compare prices for group transport, event hire and coach hire across Kensington and West London.",
+  },
+  barnet: {
+    name: "Barnet",
+    lat: 51.6532,
+    lng: -0.1997,
+    description:
+      "Browse minibus and coach hire in Barnet. Compare operators for group transport, minibus hire and coach hire across Barnet and North London.",
+  },
+  dagenham: {
+    name: "Dagenham",
+    lat: 51.5444,
+    lng: 0.1548,
+    description:
+      "Compare minibus and coach hire in Dagenham. Find operators for group transport, minibus hire and coach hire across Dagenham and East London.",
+  },
+  brixton: {
+    name: "Brixton",
+    lat: 51.4613,
+    lng: -0.1156,
+    description:
+      "Find minibus and coach hire in Brixton. Compare prices for group transport, party buses and coach hire across Brixton and South London.",
+  },
+  twickenham: {
+    name: "Twickenham",
+    lat: 51.449,
+    lng: -0.3377,
+    description:
+      "Browse minibus and coach hire in Twickenham. Compare operators for group transport, match day hire and coach hire across Twickenham and South West London.",
+  },
+  greenwich: {
+    name: "Greenwich",
+    lat: 51.4769,
+    lng: -0.0005,
+    description:
+      "Compare minibus and coach hire in Greenwich. Find operators for group transport, sightseeing tours and coach hire across Greenwich and South East London.",
+  },
+  hayes: {
+    name: "Hayes",
+    lat: 51.5127,
+    lng: -0.4213,
+    description:
+      "Find minibus and coach hire in Hayes. Compare prices for group transport, Heathrow airport transfers and coach hire across Hayes and West London.",
+  },
+  lewisham: {
+    name: "Lewisham",
+    lat: 51.4415,
+    lng: -0.0117,
+    description:
+      "Browse minibus and coach hire in Lewisham. Compare operators for group transport, minibus hire and coach hire across Lewisham and South East London.",
+  },
+  islington: {
+    name: "Islington",
+    lat: 51.5362,
+    lng: -0.1033,
+    description:
+      "Compare minibus and coach hire in Islington. Find operators for group transport, party buses and coach hire across Islington and North London.",
+  },
+  acton: {
+    name: "Acton",
+    lat: 51.5095,
+    lng: -0.2716,
+    description:
+      "Find minibus and coach hire in Acton. Compare prices for group transport and coach hire across Acton and West London.",
+  },
+  bromley: {
+    name: "Bromley",
+    lat: 51.4039,
+    lng: 0.0198,
+    description:
+      "Browse minibus and coach hire in Bromley. Compare operators for group transport, minibus hire and coach hire across Bromley and South East London.",
+  },
+  docklands: {
+    name: "Docklands",
+    lat: 51.4953,
+    lng: -0.0235,
+    description:
+      "Compare minibus and coach hire in Docklands. Find operators for group transport, corporate hire and coach hire across London Docklands and East London.",
+  },
+  stansted: {
+    name: "Stansted",
+    lat: 51.885,
+    lng: 0.235,
+    description:
+      "Find minibus and coach hire near Stansted Airport. Compare prices for airport transfers, group transport and coach hire across Stansted and the surrounding area.",
+  },
+  chelsea: {
+    name: "Chelsea",
+    lat: 51.4875,
+    lng: -0.1687,
+    description:
+      "Browse minibus and coach hire in Chelsea. Compare operators for group transport, event hire and coach hire across Chelsea and South West London.",
+  },
+  putney: {
+    name: "Putney",
+    lat: 51.4585,
+    lng: -0.2163,
+    description:
+      "Compare minibus and coach hire in Putney. Find operators for group transport and coach hire across Putney and South West London.",
+  },
+  mitcham: {
+    name: "Mitcham",
+    lat: 51.4009,
+    lng: -0.1539,
+    description:
+      "Find minibus and coach hire in Mitcham. Compare prices for group transport, minibus hire and coach hire across Mitcham and South London.",
+  },
+  sutton: {
+    name: "Sutton",
+    lat: 51.3618,
+    lng: -0.1945,
+    description:
+      "Browse minibus and coach hire in Sutton. Compare operators for group transport and coach hire across Sutton and the surrounding area.",
+  },
+  orpington: {
+    name: "Orpington",
+    lat: 51.3742,
+    lng: 0.0987,
+    description:
+      "Compare minibus and coach hire in Orpington. Find operators for group transport and coach hire across Orpington and the London Borough of Bromley.",
+  },
+  romford: {
+    name: "Romford",
+    lat: 51.5768,
+    lng: 0.1801,
+    description:
+      "Find minibus and coach hire in Romford. Compare prices for group transport, minibus hire and coach hire across Romford and East London.",
+  },
+  richmond: {
+    name: "Richmond",
+    lat: 51.4613,
+    lng: -0.3037,
+    description:
+      "Browse minibus and coach hire in Richmond. Compare operators for group transport, event hire and coach hire across Richmond upon Thames and South West London.",
+  },
+  wembley: {
+    name: "Wembley",
+    lat: 51.5523,
+    lng: -0.2965,
+    description:
+      "Compare minibus and coach hire in Wembley. Find operators for group transport, match day hire and coach hire across Wembley and North West London.",
+  },
+  hampstead: {
+    name: "Hampstead",
+    lat: 51.556,
+    lng: -0.1781,
+    description:
+      "Find minibus and coach hire in Hampstead. Compare prices for group transport and coach hire across Hampstead and North London.",
+  },
+  highgate: {
+    name: "Highgate",
+    lat: 51.5716,
+    lng: -0.1448,
+    description:
+      "Browse minibus and coach hire in Highgate. Compare operators for group transport and coach hire across Highgate and North London.",
+  },
+  "muswell-hill": {
+    name: "Muswell Hill",
+    lat: 51.5893,
+    lng: -0.1441,
+    description:
+      "Compare minibus and coach hire in Muswell Hill. Find operators for group transport and coach hire across Muswell Hill and North London.",
+  },
+  stratford: {
+    name: "Stratford",
+    lat: 51.5423,
+    lng: -0.0003,
+    description:
+      "Find minibus and coach hire in Stratford. Compare prices for group transport, Olympic Park events and coach hire across Stratford and East London.",
+  },
+  barking: {
+    name: "Barking",
+    lat: 51.5397,
+    lng: 0.0808,
+    description:
+      "Browse minibus and coach hire in Barking. Compare operators for group transport, minibus hire and coach hire across Barking and East London.",
+  },
+  "canary-wharf": {
+    name: "Canary Wharf",
+    lat: 51.5054,
+    lng: -0.0235,
+    description:
+      "Compare minibus and coach hire in Canary Wharf. Find operators for corporate transport, group hire and coach hire across Canary Wharf and the Docklands.",
+  },
+  hounslow: {
+    name: "Hounslow",
+    lat: 51.4668,
+    lng: -0.3613,
+    description:
+      "Find minibus and coach hire in Hounslow. Compare prices for group transport, Heathrow airport transfers and coach hire across Hounslow and West London.",
+  },
+  uxbridge: {
+    name: "Uxbridge",
+    lat: 51.5468,
+    lng: -0.4777,
+    description:
+      "Browse minibus and coach hire in Uxbridge. Compare operators for group transport, minibus hire and coach hire across Uxbridge and the London Borough of Hillingdon.",
+  },
+  enfield: {
+    name: "Enfield",
+    lat: 51.6522,
+    lng: -0.0808,
+    description:
+      "Compare minibus and coach hire in Enfield. Find operators for group transport and coach hire across Enfield and North London.",
+  },
+  "wood-green": {
+    name: "Wood Green",
+    lat: 51.5975,
+    lng: -0.1097,
+    description:
+      "Find minibus and coach hire in Wood Green. Compare prices for group transport and coach hire across Wood Green and the London Borough of Haringey.",
+  },
+  tooting: {
+    name: "Tooting",
+    lat: 51.4274,
+    lng: -0.168,
+    description:
+      "Browse minibus and coach hire in Tooting. Compare operators for group transport and coach hire across Tooting and South London.",
+  },
+  battersea: {
+    name: "Battersea",
+    lat: 51.4756,
+    lng: -0.1459,
+    description:
+      "Compare minibus and coach hire in Battersea. Find operators for group transport, event hire and coach hire across Battersea and South West London.",
+  },
+  hackney: {
+    name: "Hackney",
+    lat: 51.5449,
+    lng: -0.0553,
+    description:
+      "Find minibus and coach hire in Hackney. Compare prices for group transport, party buses and coach hire across Hackney and East London.",
+  },
+  walthamstow: {
+    name: "Walthamstow",
+    lat: 51.5842,
+    lng: -0.0198,
+    description:
+      "Browse minibus and coach hire in Walthamstow. Compare operators for group transport and coach hire across Walthamstow and North East London.",
+  },
+  fulham: {
+    name: "Fulham",
+    lat: 51.4737,
+    lng: -0.2021,
+    description:
+      "Compare minibus and coach hire in Fulham. Find operators for group transport, match day hire and coach hire across Fulham and South West London.",
+  },
+  ealing: {
+    name: "Ealing",
+    lat: 51.5133,
+    lng: -0.3045,
+    description:
+      "Find minibus and coach hire in Ealing. Compare prices for group transport, minibus hire and coach hire across Ealing and West London.",
+  },
+  gatwick: {
+    name: "Gatwick",
+    lat: 51.1537,
+    lng: -0.1821,
+    description:
+      "Browse minibus and coach hire near Gatwick Airport. Compare operators for airport transfers, group transport and coach hire across the Gatwick area.",
+  },
+  "london-city-airport": {
+    name: "London City Airport",
+    lat: 51.5048,
+    lng: 0.0495,
+    description:
+      "Compare minibus and coach hire near London City Airport. Find operators for airport transfers, corporate transport and coach hire across East London.",
+  },
+  camden: {
+    name: "Camden",
+    lat: 51.5416,
+    lng: -0.1426,
+    description:
+      "Find minibus and coach hire in Camden. Compare prices for group transport, party buses and coach hire across Camden and North London.",
+  },
+  hornsey: {
+    name: "Hornsey",
+    lat: 51.5868,
+    lng: -0.118,
+    description:
+      "Browse minibus and coach hire in Hornsey. Compare operators for group transport and coach hire across Hornsey and the London Borough of Haringey.",
+  },
+  edmonton: {
+    name: "Edmonton",
+    lat: 51.6154,
+    lng: -0.0605,
+    description:
+      "Compare minibus and coach hire in Edmonton. Find operators for group transport and coach hire across Edmonton and North London.",
+  },
+  leyton: {
+    name: "Leyton",
+    lat: 51.5566,
+    lng: -0.0134,
+    description:
+      "Find minibus and coach hire in Leyton. Compare prices for group transport and coach hire across Leyton and East London.",
+  },
+  "east-ham": {
+    name: "East Ham",
+    lat: 51.5323,
+    lng: 0.0554,
+    description:
+      "Browse minibus and coach hire in East Ham. Compare operators for group transport and coach hire across East Ham and the London Borough of Newham.",
+  },
+  ilford: {
+    name: "Ilford",
+    lat: 51.5588,
+    lng: 0.0737,
+    description:
+      "Compare minibus and coach hire in Ilford. Find operators for group transport, minibus hire and coach hire across Ilford and the London Borough of Redbridge.",
+  },
+  "shepherds-bush": {
+    name: "Shepherds Bush",
+    lat: 51.5042,
+    lng: -0.2265,
+    description:
+      "Find minibus and coach hire in Shepherds Bush. Compare prices for group transport, event hire and coach hire across Shepherds Bush and West London.",
+  },
+  brentford: {
+    name: "Brentford",
+    lat: 51.4871,
+    lng: -0.3088,
+    description:
+      "Browse minibus and coach hire in Brentford. Compare operators for group transport, match day hire and coach hire across Brentford and West London.",
+  },
+  kingston: {
+    name: "Kingston",
+    lat: 51.4123,
+    lng: -0.3007,
+    description:
+      "Compare minibus and coach hire in Kingston upon Thames. Find operators for group transport and coach hire across Kingston and South West London.",
+  },
+  clapham: {
+    name: "Clapham",
+    lat: 51.4618,
+    lng: -0.1384,
+    description:
+      "Find minibus and coach hire in Clapham. Compare prices for group transport, party buses and coach hire across Clapham and South London.",
+  },
+  dulwich: {
+    name: "Dulwich",
+    lat: 51.4452,
+    lng: -0.0861,
+    description:
+      "Browse minibus and coach hire in Dulwich. Compare operators for group transport and coach hire across Dulwich and South East London.",
+  },
+  streatham: {
+    name: "Streatham",
+    lat: 51.4279,
+    lng: -0.1233,
+    description:
+      "Compare minibus and coach hire in Streatham. Find operators for group transport and coach hire across Streatham and South London.",
+  },
+  chingford: {
+    name: "Chingford",
+    lat: 51.6234,
+    lng: -0.0098,
+    description:
+      "Find minibus and coach hire in Chingford. Compare prices for group transport and coach hire across Chingford and North East London.",
+  },
+  woodford: {
+    name: "Woodford",
+    lat: 51.5908,
+    lng: 0.0341,
+    description:
+      "Browse minibus and coach hire in Woodford. Compare operators for group transport and coach hire across Woodford and the London Borough of Redbridge.",
+  },
+  wanstead: {
+    name: "Wanstead",
+    lat: 51.5758,
+    lng: 0.0286,
+    description:
+      "Compare minibus and coach hire in Wanstead. Find operators for group transport and coach hire across Wanstead and East London.",
+  },
+  hammersmith: {
+    name: "Hammersmith",
+    lat: 51.4927,
+    lng: -0.2248,
+    description:
+      "Find minibus and coach hire in Hammersmith. Compare prices for group transport, event hire and coach hire across Hammersmith and West London.",
+  },
+  surbiton: {
+    name: "Surbiton",
+    lat: 51.3942,
+    lng: -0.3065,
+    description:
+      "Browse minibus and coach hire in Surbiton. Compare operators for group transport and coach hire across Surbiton and South West London.",
+  },
+  feltham: {
+    name: "Feltham",
+    lat: 51.4496,
+    lng: -0.4092,
+    description:
+      "Compare minibus and coach hire in Feltham. Find operators for group transport, Heathrow airport transfers and coach hire across Feltham and West London.",
+  },
+  ruislip: {
+    name: "Ruislip",
+    lat: 51.5766,
+    lng: -0.4263,
+    description:
+      "Find minibus and coach hire in Ruislip. Compare prices for group transport and coach hire across Ruislip and the London Borough of Hillingdon.",
+  },
+};
+
 const NE_LOCATION_MAP: Record<string, string> = {
   "Newcastle upon Tyne": "newcastle",
   Sunderland: "sunderland",
@@ -1178,6 +1615,71 @@ const EA_LOCATION_MAP: Record<string, string> = {
   "St Neots": "st-neots",
 };
 
+const LN_LOCATION_MAP: Record<string, string> = {
+  "Central London": "central-london",
+  Westminster: "westminster",
+  Wimbledon: "wimbledon",
+  "City of London": "city-of-london",
+  Kensington: "kensington",
+  Barnet: "barnet",
+  Dagenham: "dagenham",
+  Brixton: "brixton",
+  Twickenham: "twickenham",
+  Greenwich: "greenwich",
+  Hayes: "hayes",
+  Lewisham: "lewisham",
+  Islington: "islington",
+  Acton: "acton",
+  Bromley: "bromley",
+  Docklands: "docklands",
+  Stansted: "stansted",
+  Chelsea: "chelsea",
+  Putney: "putney",
+  Mitcham: "mitcham",
+  Sutton: "sutton",
+  Orpington: "orpington",
+  Romford: "romford",
+  Richmond: "richmond",
+  Wembley: "wembley",
+  Hampstead: "hampstead",
+  Highgate: "highgate",
+  "Muswell Hill": "muswell-hill",
+  Stratford: "stratford",
+  Barking: "barking",
+  "Canary Wharf": "canary-wharf",
+  Hounslow: "hounslow",
+  Uxbridge: "uxbridge",
+  Enfield: "enfield",
+  "Wood Green": "wood-green",
+  Tooting: "tooting",
+  Battersea: "battersea",
+  Hackney: "hackney",
+  Walthamstow: "walthamstow",
+  Fulham: "fulham",
+  Ealing: "ealing",
+  Gatwick: "gatwick",
+  "London City Airport": "london-city-airport",
+  Camden: "camden",
+  Hornsey: "hornsey",
+  Edmonton: "edmonton",
+  Leyton: "leyton",
+  "East Ham": "east-ham",
+  Ilford: "ilford",
+  "Shepherds Bush": "shepherds-bush",
+  Brentford: "brentford",
+  Kingston: "kingston",
+  Clapham: "clapham",
+  Dulwich: "dulwich",
+  Streatham: "streatham",
+  Chingford: "chingford",
+  Woodford: "woodford",
+  Wanstead: "wanstead",
+  Hammersmith: "hammersmith",
+  Surbiton: "surbiton",
+  Feltham: "feltham",
+  Ruislip: "ruislip",
+};
+
 export function getLocationConfig(): LocationConfig {
   const id = getSiteId();
   if (id === "northwest") return NW_LOCATIONS;
@@ -1185,6 +1687,7 @@ export function getLocationConfig(): LocationConfig {
   if (id === "midlands") return ML_LOCATIONS;
   if (id === "yorkshire") return YK_LOCATIONS;
   if (id === "east") return EA_LOCATIONS;
+  if (id === "london") return LN_LOCATIONS;
   return NE_LOCATIONS;
 }
 
@@ -1198,6 +1701,7 @@ export function getLocationFromFoundIn(foundIn: string): string {
   else if (id === "midlands") mapping = ML_LOCATION_MAP;
   else if (id === "yorkshire") mapping = YK_LOCATION_MAP;
   else if (id === "east") mapping = EA_LOCATION_MAP;
+  else if (id === "london") mapping = LN_LOCATION_MAP;
   else mapping = NE_LOCATION_MAP;
   return mapping[foundIn] || Object.values(mapping)[0];
 }

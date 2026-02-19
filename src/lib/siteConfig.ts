@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east" | "london";
 
 export interface SiteConfig {
   id: SiteId;
@@ -136,6 +136,25 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Stansted, Luton and other airports.",
   },
+  london: {
+    id: "london",
+    name: "Minibus Hire London",
+    shortName: "London",
+    logoPrefix: "LN",
+    domain: "wehirelondon.co.uk",
+    region: "London",
+    description:
+      "Compare minibus and coach hire companies across London. Get free quotes from trusted operators in Central London, Westminster, Wimbledon, Kensington, Greenwich and more.",
+    footerDescription:
+      "London's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire London - the largest directory of minibus and coach hire companies in London.",
+    locationsList:
+      "Central London, Westminster, Wimbledon, City of London, Kensington, Barnet, Dagenham, Brixton, Twickenham, Greenwich, Hayes, Lewisham, Islington, Acton, Bromley, Docklands, Chelsea, Putney, Mitcham, Sutton, Orpington, Romford, Richmond, Wembley, Hampstead, Highgate, Stratford, Barking, Canary Wharf, Hounslow, Uxbridge, Enfield, Hackney, Ealing and Camden",
+    airportName: "London Heathrow Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Heathrow, Gatwick, Stansted, Luton and London City airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
@@ -145,6 +164,7 @@ export function getSiteId(): SiteId {
   if (site === "midlands") return "midlands";
   if (site === "yorkshire") return "yorkshire";
   if (site === "east") return "east";
+  if (site === "london") return "london";
   return "northeast";
 }
 
