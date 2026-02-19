@@ -1,39 +1,5 @@
 [
   {
-    "name": "Off Beat Bikes",
-    "address": "117 High St, Fort William PH33 6DG, UK",
-    "phone": "01397 704008",
-    "international_phone": "+44 1397 704008",
-    "website": "https://www.offbeatbikes.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=12880609471967424375",
-    "rating": 5,
-    "total_reviews": 212,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Closed; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
-    "types": "bicycle_store, establishment, point_of_interest, store",
-    "lat": 56.8166983,
-    "lng": -5.113356899999999,
-    "found_in_location": "Fort William",
-    "found_with_query": "party bus hire Fort William"
-  },
-  {
-    "name": "Highland Auto Campers Ltd",
-    "address": "Brooklea, Oakleigh Rd, North Kessock, Inverness IV1 3XW, UK",
-    "phone": "01463 264050",
-    "international_phone": "+44 1463 264050",
-    "website": "http://www.highlandautocampers.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=876277155039339600",
-    "rating": 5,
-    "total_reviews": 195,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 57.502655,
-    "lng": -4.2541199,
-    "found_in_location": "Inverness",
-    "found_with_query": "party bus hire Inverness"
-  },
-  {
     "name": "Gladi8tor Transfers & Travel",
     "address": "Stirling Gate, Linwood, Paisley PA3 3PQ, UK",
     "phone": "0141 673 4433",
@@ -374,23 +340,6 @@
     "found_with_query": "airport transfer minibus Edinburgh"
   },
   {
-    "name": "Miles Away Campers LTD",
-    "address": "34 Brodick Dr, East Kilbride, Glasgow G74 4QU, UK",
-    "phone": "07508 755565",
-    "international_phone": "+44 7508 755565",
-    "website": "http://www.milesawaycampers.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=6413889691077050828",
-    "rating": 5,
-    "total_reviews": 26,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-    "types": "establishment, point_of_interest",
-    "lat": 55.77210820000001,
-    "lng": -4.1925536,
-    "found_in_location": "East Kilbride",
-    "found_with_query": "16 seater minibus hire East Kilbride"
-  },
-  {
     "name": "Not OnlyVans",
     "address": "1c Simpson Pkwy, Kirkton Campus, Livingston Village, Livingston EH54 7BH, UK",
     "phone": "",
@@ -627,23 +576,6 @@
     "lng": -3.8318088,
     "found_in_location": "Falkirk",
     "found_with_query": "airport transfer minibus Falkirk"
-  },
-  {
-    "name": "Hamilton & Son ltd",
-    "address": "Graham St, Wishaw ML2 8BZ, UK",
-    "phone": "07360 059297",
-    "international_phone": "+44 7360 059297",
-    "website": "",
-    "google_maps_url": "https://maps.google.com/?cid=7869639513399376414",
-    "rating": 5,
-    "total_reviews": 9,
-    "business_status": "CLOSED_TEMPORARILY",
-    "opening_hours": "",
-    "types": "establishment, point_of_interest, store",
-    "lat": 55.7725526,
-    "lng": -3.9155226,
-    "found_in_location": "Hamilton",
-    "found_with_query": "self drive minibus hire Hamilton"
   },
   {
     "name": "E-Lane Travel dependable cheap minibus hire",
@@ -950,23 +882,6 @@
     "lng": -4.4307447,
     "found_in_location": "Inverness",
     "found_with_query": "coach hire Inverness"
-  },
-  {
-    "name": "Star coachworx",
-    "address": "Star garage, Park Ave, Cowdenbeath KY4 8LJ, UK",
-    "phone": "01383 610187",
-    "international_phone": "+44 1383 610187",
-    "website": "",
-    "google_maps_url": "https://maps.google.com/?cid=13842202219572358172",
-    "rating": 5,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
-    "types": "car_repair, establishment, point_of_interest",
-    "lat": 56.10568110000001,
-    "lng": -3.3462888,
-    "found_in_location": "Dunfermline",
-    "found_with_query": "party bus hire Dunfermline"
   },
   {
     "name": "Clicktransfers",
@@ -1853,23 +1768,6 @@
     "found_with_query": "party bus hire Stirling"
   },
   {
-    "name": "ASP Commercials Used Vans and 4 x 4 Pickups",
-    "address": "Ruthvenfield Way, Perth PH1 3UF, UK",
-    "phone": "01738 636999",
-    "international_phone": "+44 1738 636999",
-    "website": "https://www.asp.scot/stock/",
-    "google_maps_url": "https://maps.google.com/?cid=14490124041134382027",
-    "rating": 5,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 56.4155623,
-    "lng": -3.4777462,
-    "found_in_location": "Perth",
-    "found_with_query": "self drive minibus hire Perth"
-  },
-  {
     "name": "James Hilson Minicoach Hire",
     "address": "1 Barton Terrace, Fauldhouse, Bathgate EH47 9LG, UK",
     "phone": "07803 725342",
@@ -2142,40 +2040,6 @@
     "found_with_query": "party bus hire Fort William"
   },
   {
-    "name": "Nevis Cycles Ltd",
-    "address": "4 Lochy Rd., Inverlochy, Fort William PH33 6NG, UK",
-    "phone": "01397 705555",
-    "international_phone": "+44 1397 705555",
-    "website": "https://www.neviscycles.com/",
-    "google_maps_url": "https://maps.google.com/?cid=2995181291276994709",
-    "rating": 4.9,
-    "total_reviews": 422,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: Closed",
-    "types": "bicycle_store, establishment, point_of_interest, store",
-    "lat": 56.8260553,
-    "lng": -5.0947879,
-    "found_in_location": "Fort William",
-    "found_with_query": "self drive minibus hire Fort William"
-  },
-  {
-    "name": "Sea Kayak Oban",
-    "address": "6-8 Argyll St, Oban PA34 5SG, UK",
-    "phone": "01631 565310",
-    "international_phone": "+44 1631 565310",
-    "website": "http://www.seakayakoban.com/",
-    "google_maps_url": "https://maps.google.com/?cid=4241317629456200367",
-    "rating": 4.9,
-    "total_reviews": 312,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Closed; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store, travel_agency",
-    "lat": 56.4142085,
-    "lng": -5.4713514,
-    "found_in_location": "Oban",
-    "found_with_query": "party bus hire Oban"
-  },
-  {
     "name": "RockstarPartyBus",
     "address": "30 High St, Newarthill, Motherwell ML1 5JU, UK",
     "phone": "07517 443730",
@@ -2295,23 +2159,6 @@
     "found_with_query": "minibus hire Cumbernauld"
   },
   {
-    "name": "Rockhopper Sea Kayaking",
-    "address": "Unit 17, Annat Point Industrial Estate, Annat Point Industrial Estate, Corpach, Fort William PH33 7NA, UK",
-    "phone": "07739 837344",
-    "international_phone": "+44 7739 837344",
-    "website": "http://www.rockhopperscotland.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=1129786056730498210",
-    "rating": 4.9,
-    "total_reviews": 69,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "establishment, point_of_interest, travel_agency",
-    "lat": 56.8442945,
-    "lng": -5.1521406,
-    "found_in_location": "Fort William",
-    "found_with_query": "self drive minibus hire Fort William"
-  },
-  {
     "name": "Usb Events",
     "address": "5 Valeview, Stenhousemuir, Larbert FK5 3JE, UK",
     "phone": "07972 304197",
@@ -2378,23 +2225,6 @@
     "lng": -3.4814301,
     "found_in_location": "Perth",
     "found_with_query": "minibus hire Perth"
-  },
-  {
-    "name": "Howden Insurance Brokers - Hamilton",
-    "address": "10A Gateside St, Hamilton ML3 7JG, UK",
-    "phone": "01698 891547",
-    "international_phone": "+44 1698 891547",
-    "website": "https://www.howdeninsurance.co.uk/hamilton?int=11110&utm_source=GMBlisting&utm_medium=organic&utm_campaign=website",
-    "google_maps_url": "https://maps.google.com/?cid=7347772656421503829",
-    "rating": 4.9,
-    "total_reviews": 35,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
-    "types": "establishment, health, insurance_agency, point_of_interest",
-    "lat": 55.7720401,
-    "lng": -4.0378558,
-    "found_in_location": "Hamilton",
-    "found_with_query": "self drive minibus hire Hamilton"
   },
   {
     "name": "Class 1 Travel - Airport Transfer to Stirling & Falkirk",
@@ -2890,23 +2720,6 @@
     "found_with_query": "self drive minibus hire Stirling"
   },
   {
-    "name": "LCM Vans Ltd",
-    "address": "Unit 3 Ruthvenfield Ave, Perth PH1 3WB, UK",
-    "phone": "01738 629777",
-    "international_phone": "+44 1738 629777",
-    "website": "http://www.lcmvans.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=9222135313487258810",
-    "rating": 4.7,
-    "total_reviews": 121,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 56.4164961,
-    "lng": -3.4819021,
-    "found_in_location": "Perth",
-    "found_with_query": "self drive minibus hire Perth"
-  },
-  {
     "name": "Invergordon Bus Tours",
     "address": "49 High St, Invergordon IV18 0DG, UK",
     "phone": "07789 836520",
@@ -2990,23 +2803,6 @@
     "lng": -4.683641199999999,
     "found_in_location": "Ayr",
     "found_with_query": "minibus hire Ayr"
-  },
-  {
-    "name": "The Kelpies Falkirk Tours",
-    "address": "40 Dunvegan Pl, Polmont, Falkirk FK2 0NX, UK",
-    "phone": "07305 294773",
-    "international_phone": "+44 7305 294773",
-    "website": "https://kelpies.space/",
-    "google_maps_url": "https://maps.google.com/?cid=8012160325316121459",
-    "rating": 4.7,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 12:00\u2009\u2013\u20095:00\u202fPM",
-    "types": "establishment, point_of_interest, store",
-    "lat": 55.9866482,
-    "lng": -3.6975521,
-    "found_in_location": "Falkirk",
-    "found_with_query": "airport transfer minibus Falkirk"
   },
   {
     "name": "Lambs Coaches",
@@ -3109,23 +2905,6 @@
     "lng": -3.4985306,
     "found_in_location": "Livingston",
     "found_with_query": "minibus hire Livingston"
-  },
-  {
-    "name": "The Care Shop (Dumfries)",
-    "address": "25, 31 Loreburn St, Dumfries DG1 1HN, UK",
-    "phone": "01387 251255",
-    "international_phone": "+44 1387 251255",
-    "website": "http://www.thecareshopdumfries.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=16370142447074096653",
-    "rating": 4.6,
-    "total_reviews": 48,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 55.0695257,
-    "lng": -3.6092711,
-    "found_in_location": "Dumfries",
-    "found_with_query": "self drive minibus hire Dumfries"
   },
   {
     "name": "LeadRyde",
@@ -3279,23 +3058,6 @@
     "lng": -4.1687927,
     "found_in_location": "Glasgow",
     "found_with_query": "minibus hire Glasgow"
-  },
-  {
-    "name": "MV Van Centre",
-    "address": "1 Muir Rd, Livingston EH54 5DR, UK",
-    "phone": "01506 440042",
-    "international_phone": "+44 1506 440042",
-    "website": "http://www.mvtruckrental.com/",
-    "google_maps_url": "https://maps.google.com/?cid=17905884382480410381",
-    "rating": 4.6,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
-    "types": "establishment, point_of_interest",
-    "lat": 55.911096,
-    "lng": -3.4980092,
-    "found_in_location": "Livingston",
-    "found_with_query": "self drive minibus hire Livingston"
   },
   {
     "name": "Rainbow Prestige",
@@ -3519,23 +3281,6 @@
     "found_with_query": "coach hire Inverness"
   },
   {
-    "name": "Hunters Executive Coaches Ltd",
-    "address": "Business Park, Dumyat St, Alloa, Tullibody, Alloa FK10 2PB, UK",
-    "phone": "01259 215560",
-    "international_phone": "+44 1259 215560",
-    "website": "https://www.hunters-coaches.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=14276213844994776352",
-    "rating": 4.5,
-    "total_reviews": 46,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
-    "types": "establishment, point_of_interest",
-    "lat": 56.1321497,
-    "lng": -3.848695299999999,
-    "found_in_location": "Stirling",
-    "found_with_query": "minibus hire Stirling"
-  },
-  {
     "name": "McNicoll Vehicle Hire",
     "address": "47 W Main St, Blackburn, Bathgate EH47 7LT, UK",
     "phone": "01501 730563",
@@ -3704,23 +3449,6 @@
     "lng": -3.9296323,
     "found_in_location": "Stirling",
     "found_with_query": "coach hire Stirling"
-  },
-  {
-    "name": "Happy Highland Campers",
-    "address": "8 Canal Rd, Inverness IV3 8NF, UK",
-    "phone": "07796 675639",
-    "international_phone": "+44 7796 675639",
-    "website": "",
-    "google_maps_url": "https://maps.google.com/?cid=3252256959685494239",
-    "rating": 4.5,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "establishment, point_of_interest",
-    "lat": 57.4794831,
-    "lng": -4.2503382,
-    "found_in_location": "Inverness",
-    "found_with_query": "party bus hire Inverness"
   },
   {
     "name": "ASB Executive",
@@ -3893,23 +3621,6 @@
     "found_with_query": "minibus hire Ayr"
   },
   {
-    "name": "Fleetbid",
-    "address": "120 Carlisle Rd, Airdrie ML6 8RA, UK",
-    "phone": "01236 749889",
-    "international_phone": "+44 1236 749889",
-    "website": "https://www.fleetbid.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=8076480252080826695",
-    "rating": 4.4,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 55.8569665,
-    "lng": -3.964121,
-    "found_in_location": "Motherwell",
-    "found_with_query": "self drive minibus hire Motherwell"
-  },
-  {
     "name": "Temporal Travel",
     "address": "Unit 11, Larkfield Industrial Estate, Greenock PA16 0EQ, UK",
     "phone": "01475 600323",
@@ -3978,23 +3689,6 @@
     "found_with_query": "party bus hire Glasgow"
   },
   {
-    "name": "Nevisport",
-    "address": "Airds Crossing, High St, Fort William PH33 6EU, UK",
-    "phone": "01397 780011",
-    "international_phone": "+44 1397 780011",
-    "website": "https://www.nevisport.com/stores/fort-william/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb",
-    "google_maps_url": "https://maps.google.com/?cid=3864656376352909857",
-    "rating": 4.3,
-    "total_reviews": 406,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
-    "types": "clothing_store, establishment, point_of_interest, shoe_store, store",
-    "lat": 56.819919,
-    "lng": -5.107275899999999,
-    "found_in_location": "Fort William",
-    "found_with_query": "self drive minibus hire Fort William"
-  },
-  {
     "name": "Hamilton Palace Sports Grounds",
     "address": "QXH9+28, 1 Palace Grounds Rd, Hamilton ML3 6EF, UK",
     "phone": "01698 424101",
@@ -4027,23 +3721,6 @@
     "lng": -4.2525984,
     "found_in_location": "Glasgow",
     "found_with_query": "party bus hire Glasgow"
-  },
-  {
-    "name": "Arnold Clark Coachbuilders",
-    "address": "1 Peel Park Pl, East Kilbride, Glasgow G74 5LW, UK",
-    "phone": "01355 204290",
-    "international_phone": "+44 1355 204290",
-    "website": "https://www.arnoldclark.com/coachbuilders/?utm_source=gmb&utm_medium=organic&utm_campaign=website&utm_content=east-kilbride-coachbuilders",
-    "google_maps_url": "https://maps.google.com/?cid=9247643920323638639",
-    "rating": 4.3,
-    "total_reviews": 84,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
-    "types": "car_dealer, car_repair, establishment, point_of_interest, store",
-    "lat": 55.7665824,
-    "lng": -4.2189159,
-    "found_in_location": "East Kilbride",
-    "found_with_query": "16 seater minibus hire East Kilbride"
   },
   {
     "name": "Eclipse Breaks Ltd",
@@ -4352,23 +4029,6 @@
     "found_with_query": "airport transfer minibus Glasgow"
   },
   {
-    "name": "Barrhead Travel",
-    "address": "1, Duloch Park, Turnstone Rd, Dunfermline KY11 8JZ, UK",
-    "phone": "01383 843750",
-    "international_phone": "+44 1383 843750",
-    "website": "https://www.barrheadtravel.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=18064028521484715665",
-    "rating": 4.2,
-    "total_reviews": 57,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-    "types": "establishment, finance, point_of_interest, travel_agency",
-    "lat": 56.06165,
-    "lng": -3.4064303,
-    "found_in_location": "Dunfermline",
-    "found_with_query": "self drive minibus hire Dunfermline"
-  },
-  {
     "name": "City Circle UK Ltd",
     "address": "Unit 2 and 6, Telford Square Business Park, Livingston EH54 5PQ, UK",
     "phone": "0131 333 2700",
@@ -4607,23 +4267,6 @@
     "found_with_query": "minibus hire Cumbernauld"
   },
   {
-    "name": "Van Sales Scotland Simon Horne",
-    "address": "Ruthvenfield Rd, Perth PH1 3XA, UK",
-    "phone": "01738 447733",
-    "international_phone": "+44 1738 447733",
-    "website": "http://www.vansalesscotland.co.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=4339086967571143263",
-    "rating": 4.1,
-    "total_reviews": 35,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 56.4191851,
-    "lng": -3.4752953,
-    "found_in_location": "Perth",
-    "found_with_query": "self drive minibus hire Perth"
-  },
-  {
     "name": "Coach Drop off / Pick up Point",
     "address": "9-1 Ardross St, Inverness IV3 5NN, UK",
     "phone": "",
@@ -4741,23 +4384,6 @@
     "lng": -4.297584,
     "found_in_location": "Ayr",
     "found_with_query": "minibus hire Ayr"
-  },
-  {
-    "name": "Ben Nevis Highland Centre",
-    "address": "Belford Rd, Fort William PH33 6PF, UK",
-    "phone": "01397 704073",
-    "international_phone": "+44 1397 704073",
-    "website": "",
-    "google_maps_url": "https://maps.google.com/?cid=6420368880682743132",
-    "rating": 4,
-    "total_reviews": 794,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-    "types": "clothing_store, establishment, point_of_interest, store",
-    "lat": 56.8213067,
-    "lng": -5.0945538,
-    "found_in_location": "Fort William",
-    "found_with_query": "self drive minibus hire Fort William"
   },
   {
     "name": "West Coast Tours",
@@ -5710,23 +5336,6 @@
     "lng": -3.573039,
     "found_in_location": "Livingston",
     "found_with_query": "minibus hire Livingston"
-  },
-  {
-    "name": "Just Vans And Trucks Ltd",
-    "address": "Unit 38 Annan Rd, Dumfries DG1 3AD, UK",
-    "phone": "01387 403440",
-    "international_phone": "+44 1387 403440",
-    "website": "https://www.justvansandtrucks.uk/",
-    "google_maps_url": "https://maps.google.com/?cid=4938532268911228730",
-    "rating": 3.4,
-    "total_reviews": 40,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
-    "types": "establishment, point_of_interest, store",
-    "lat": 55.0699445,
-    "lng": -3.5975503,
-    "found_in_location": "Dumfries",
-    "found_with_query": "self drive minibus hire Dumfries"
   },
   {
     "name": "Abbey Coaches",
@@ -6779,23 +6388,6 @@
     "types": "establishment, point_of_interest",
     "lat": 56.5062563,
     "lng": -2.9834262,
-    "found_in_location": "Dundee",
-    "found_with_query": "minibus hire Dundee"
-  },
-  {
-    "name": "Firstchoice Executive Coaches Ltd",
-    "address": "5A Finlow Terrace, Dundee DD4 9NA, UK",
-    "phone": "01382 901122",
-    "international_phone": "+44 1382 901122",
-    "website": "",
-    "google_maps_url": "https://maps.google.com/?cid=15077086944687543670",
-    "rating": "",
-    "total_reviews": "",
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Tuesday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Wednesday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Thursday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Friday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Saturday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Sunday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-    "types": "establishment, point_of_interest",
-    "lat": 56.4893479,
-    "lng": -2.9316065,
     "found_in_location": "Dundee",
     "found_with_query": "minibus hire Dundee"
   },
