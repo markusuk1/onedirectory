@@ -30,7 +30,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "hirenortheast.co.uk",
     region: "North East England",
     description:
-      "Compare minibus and coach hire companies across the North East of England. Get free quotes from trusted operators in Newcastle, Sunderland, Durham, Middlesbrough and more.",
+      "Compare minibus and coach hire companies across North East England. Get free quotes from trusted operators in Newcastle, Sunderland, Durham and more.",
     footerDescription:
       "The North East's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
@@ -49,7 +49,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "hirenorthwest.co.uk",
     region: "North West England",
     description:
-      "Compare minibus and coach hire companies across the North West of England. Get free quotes from trusted operators in Manchester, Liverpool, Preston, Bolton and more.",
+      "Compare minibus and coach hire companies across North West England. Get free quotes from trusted operators in Manchester, Liverpool, Preston and more.",
     footerDescription:
       "The North West's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
@@ -87,7 +87,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "hiremidlands.co.uk",
     region: "the Midlands",
     description:
-      "Compare minibus and coach hire companies across the Midlands. Get free quotes from trusted operators in Birmingham, Nottingham, Leicester, Coventry, Derby and more.",
+      "Compare minibus and coach hire companies across the Midlands. Get free quotes from trusted operators in Birmingham, Nottingham, Leicester, Coventry and more.",
     footerDescription:
       "The Midlands' largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
@@ -125,7 +125,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "hireeast.co.uk",
     region: "East of England",
     description:
-      "Compare minibus and coach hire companies across the East of England. Get free quotes from trusted operators in Norwich, Cambridge, Ipswich, Peterborough, Colchester and more.",
+      "Compare minibus and coach hire companies across East of England. Get free quotes from trusted operators in Norwich, Cambridge, Ipswich, Peterborough and more.",
     footerDescription:
       "The East of England's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
@@ -144,7 +144,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "wehirelondon.co.uk",
     region: "London",
     description:
-      "Compare minibus and coach hire companies across London. Get free quotes from trusted operators in Central London, Westminster, Wimbledon, Kensington, Greenwich and more.",
+      "Compare minibus and coach hire companies across London. Get free quotes from trusted operators in Central London, Westminster, Kensington, Greenwich and more.",
     footerDescription:
       "London's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
@@ -163,7 +163,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     domain: "hiresoutheast.co.uk",
     region: "South East England",
     description:
-      "Compare minibus and coach hire companies across South East England. Get free quotes from trusted operators in Brighton, Southampton, Portsmouth, Oxford, Maidstone and more.",
+      "Compare minibus and coach hire companies across South East England. Get free quotes from operators in Brighton, Southampton, Portsmouth, Oxford and more.",
     footerDescription:
       "The South East's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
     aboutDescription:
