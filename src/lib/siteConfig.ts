@@ -191,3 +191,9 @@ export function getSiteId(): SiteId {
 export function getSiteConfig(): SiteConfig {
   return SITE_CONFIGS[getSiteId()];
 }
+
+export const ALL_REGIONS = Object.values(SITE_CONFIGS).map(({ id, shortName, domain }) => ({
+  id,
+  shortName,
+  domain,
+}));

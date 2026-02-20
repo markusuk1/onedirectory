@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getLocations } from "@/lib/data";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, ALL_REGIONS } from "@/lib/siteConfig";
 
 export default function Footer() {
   const locations = getLocations();
@@ -9,7 +9,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="font-bold text-lg mb-4">{site.name}</h3>
             <p className="text-slate-400 text-sm leading-relaxed">
@@ -68,6 +68,22 @@ export default function Footer() {
                   About Us
                 </Link>
               </li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="font-bold text-lg mb-4">Other Regions</h3>
+            <ul className="space-y-2">
+              {ALL_REGIONS.filter((r) => r.id !== site.id).map((region) => (
+                <li key={region.id}>
+                  <a
+                    href={`https://${region.domain}`}
+                    className="text-slate-400 hover:text-white text-sm transition-colors"
+                  >
+                    {region.shortName}
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
         </div>
