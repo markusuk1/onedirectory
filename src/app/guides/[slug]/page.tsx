@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/guides";
 import { getLocationBySlug } from "@/lib/locations";
+import { getSiteConfig } from "@/lib/siteConfig";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
 export async function generateStaticParams() {
@@ -134,22 +135,48 @@ export default async function GuidePage({
         </div>
       </article>
 
-      {/* Schema.org FAQ structured data */}
+      {/* Schema.org structured data */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            mainEntity: guide.faq.map((item) => ({
-              "@type": "Question",
-              name: item.question,
-              acceptedAnswer: {
-                "@type": "Answer",
-                text: item.answer,
-              },
-            })),
-          }),
+          __html: JSON.stringify([
+            {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: guide.faq.map((item) => ({
+                "@type": "Question",
+                name: item.question,
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: item.answer,
+                },
+              })),
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              itemListElement: [
+                {
+                  "@type": "ListItem",
+                  position: 1,
+                  name: "Home",
+                  item: `https://${getSiteConfig().domain}`,
+                },
+                {
+                  "@type": "ListItem",
+                  position: 2,
+                  name: "Guides",
+                  item: `https://${getSiteConfig().domain}/guides`,
+                },
+                {
+                  "@type": "ListItem",
+                  position: 3,
+                  name: guide.title,
+                  item: `https://${getSiteConfig().domain}/guides/${slug}`,
+                },
+              ],
+            },
+          ]),
         }}
       />
     </>

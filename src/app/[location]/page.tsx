@@ -39,9 +39,51 @@ export default async function LocationPage({
 
   const businesses = getBusinessesByLocation(locationSlug);
   const allLocations = getLocations().filter((l) => l.slug !== locationSlug);
+  const site = getSiteConfig();
+
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: `Minibus & Coach Hire in ${location.name}`,
+      description: location.description,
+      url: `https://${site.domain}/${locationSlug}`,
+      about: {
+        "@type": "Place",
+        name: location.name,
+        geo: {
+          "@type": "GeoCoordinates",
+          latitude: location.lat,
+          longitude: location.lng,
+        },
+      },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: `https://${site.domain}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: location.name,
+          item: `https://${site.domain}/${locationSlug}`,
+        },
+      ],
+    },
+  ];
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
       {/* Breadcrumb */}
       <nav className="bg-surface border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-sm text-text-light">
@@ -101,7 +143,7 @@ export default async function LocationPage({
       <section className="bg-surface py-8 md:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-xl font-bold text-text mb-6">
-            Other Locations in the {getSiteConfig().shortName}
+            Other Locations in the {site.shortName}
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {allLocations

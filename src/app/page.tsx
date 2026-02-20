@@ -13,8 +13,29 @@ export default function HomePage() {
   );
   const site = getSiteConfig();
 
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: site.name,
+      url: `https://${site.domain}`,
+      description: site.description,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: site.name,
+      url: `https://${site.domain}`,
+      description: site.footerDescription,
+    },
+  ];
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
       {/* Hero */}
       <section className="bg-gradient-to-br from-primary to-primary-dark text-white py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

@@ -12,6 +12,7 @@ import ClickToReveal from "@/components/business/ClickToReveal";
 import OpeningHours from "@/components/business/OpeningHours";
 import BusinessCard from "@/components/business/BusinessCard";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
+import { getSiteConfig } from "@/lib/siteConfig";
 
 export async function generateStaticParams() {
   return getAllBusinesses().map((b) => ({
@@ -50,27 +51,58 @@ export default async function BusinessPage({
     .sort((a, b) => (b.rating || 0) - (a.rating || 0))
     .slice(0, 3);
 
+  const site = getSiteConfig();
+
   // Schema.org JSON-LD
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    name: business.name,
-    address: business.address,
-    telephone: business.internationalPhone || business.phone,
-    url: business.website,
-    geo: {
-      "@type": "GeoCoordinates",
-      latitude: business.lat,
-      longitude: business.lng,
-    },
-    ...(business.rating && {
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: business.rating,
-        reviewCount: business.totalReviews,
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      name: business.name,
+      address: business.address,
+      telephone: business.internationalPhone || business.phone,
+      url: business.website,
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: business.lat,
+        longitude: business.lng,
       },
-    }),
-  };
+      ...(business.rating && {
+        aggregateRating: {
+          "@type": "AggregateRating",
+          ratingValue: business.rating,
+          reviewCount: business.totalReviews,
+        },
+      }),
+      ...(business.openingHours.length > 0 && {
+        openingHours: business.openingHours,
+      }),
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: `https://${site.domain}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: business.locationName,
+          item: `https://${site.domain}/${locationSlug}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: business.name,
+          item: `https://${site.domain}/${locationSlug}/${business.slug}`,
+        },
+      ],
+    },
+  ];
 
   return (
     <>
