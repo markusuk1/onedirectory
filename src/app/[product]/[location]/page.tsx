@@ -169,7 +169,7 @@ export default async function ProductLocationPage({
                 No operators found in this location yet.
               </p>
               <Link
-                href="/get-quotes"
+                href={`/get-quotes?product=${product}`}
                 className="text-primary hover:underline mt-2 inline-block"
               >
                 Request a quote and we&apos;ll find operators for you
@@ -217,7 +217,7 @@ export default async function ProductLocationPage({
             Get free quotes from local operators
           </p>
           <Link
-            href="/get-quotes"
+            href={`/get-quotes?product=${product}`}
             className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold px-6 py-3 rounded-lg transition-colors"
           >
             Get Quotes For Me

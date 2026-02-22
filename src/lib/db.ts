@@ -28,8 +28,14 @@ export async function initDb() {
       created_at TIMESTAMPTZ DEFAULT NOW()
     );
   `);
-  // Add site column if table already exists without it
+  // Add columns if table already exists without them
   await pool.query(`
     ALTER TABLE leads ADD COLUMN IF NOT EXISTS site VARCHAR(50) NOT NULL DEFAULT 'northeast';
+  `);
+  await pool.query(`
+    ALTER TABLE leads ADD COLUMN IF NOT EXISTS product VARCHAR(50);
+  `);
+  await pool.query(`
+    ALTER TABLE leads ADD COLUMN IF NOT EXISTS details JSONB;
   `);
 }

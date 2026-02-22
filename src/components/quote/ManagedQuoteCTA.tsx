@@ -1,10 +1,14 @@
 import Link from "next/link";
+import type { ProductId } from "@/lib/productConfig";
 
 interface ManagedQuoteCTAProps {
   compact?: boolean;
+  productId?: ProductId;
 }
 
-export default function ManagedQuoteCTA({ compact = false }: ManagedQuoteCTAProps) {
+export default function ManagedQuoteCTA({ compact = false, productId }: ManagedQuoteCTAProps) {
+  const href = productId ? `/get-quotes?product=${productId}` : "/get-quotes";
+
   if (compact) {
     return (
       <div className="bg-gradient-to-br from-primary to-primary-dark rounded-xl p-5 text-white">
@@ -35,7 +39,7 @@ export default function ManagedQuoteCTA({ compact = false }: ManagedQuoteCTAProp
           </li>
         </ul>
         <Link
-          href="/get-quotes"
+          href={href}
           className="block text-center bg-accent hover:bg-accent-dark text-white font-semibold py-2.5 px-5 rounded-lg transition-colors text-sm w-full"
         >
           Get Quotes For Me
@@ -66,8 +70,8 @@ export default function ManagedQuoteCTA({ compact = false }: ManagedQuoteCTAProp
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
               </svg>
             </div>
-            <h3 className="font-semibold mb-1">1. Tell us your trip</h3>
-            <p className="text-blue-100 text-sm">Fill in one simple form with your journey details</p>
+            <h3 className="font-semibold mb-1">1. Tell us what you need</h3>
+            <p className="text-blue-100 text-sm">Fill in one simple form with your details</p>
           </div>
           <div className="flex flex-col items-center">
             <div className="w-12 h-12 bg-white/15 rounded-full flex items-center justify-center mb-3">
@@ -90,7 +94,7 @@ export default function ManagedQuoteCTA({ compact = false }: ManagedQuoteCTAProp
         </div>
 
         <Link
-          href="/get-quotes"
+          href={href}
           className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
         >
           Get Quotes For Me

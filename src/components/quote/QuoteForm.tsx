@@ -1,8 +1,13 @@
 "use client";
 
 import { useState } from "react";
+import type { ProductId } from "@/lib/productConfig";
 
-export default function QuoteForm() {
+interface QuoteFormProps {
+  productId?: ProductId;
+}
+
+export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps) {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
 
@@ -11,23 +16,51 @@ export default function QuoteForm() {
     setSubmitting(true);
 
     const form = e.currentTarget;
-    const data = {
+    const getValue = (name: string) =>
+      (form.elements.namedItem(name) as HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement)?.value || "";
+
+    const base = {
       type: "quote_request",
-      name: (form.elements.namedItem("name") as HTMLInputElement).value,
-      email: (form.elements.namedItem("email") as HTMLInputElement).value,
-      phone: (form.elements.namedItem("phone") as HTMLInputElement).value,
-      date: (form.elements.namedItem("date") as HTMLInputElement).value,
-      passengers: parseInt(
-        (form.elements.namedItem("passengers") as HTMLInputElement).value
-      ),
-      pickup: (form.elements.namedItem("pickup") as HTMLInputElement).value,
-      destination: (form.elements.namedItem("destination") as HTMLInputElement)
-        .value,
-      journeyType: (form.elements.namedItem("journeyType") as HTMLSelectElement)
-        .value,
-      message: (form.elements.namedItem("message") as HTMLTextAreaElement)
-        .value,
+      product: productId,
+      name: getValue("name"),
+      email: getValue("email"),
+      phone: getValue("phone"),
+      message: getValue("message"),
     };
+
+    let data;
+    if (productId === "skip-hire") {
+      data = {
+        ...base,
+        details: {
+          skipSize: getValue("skipSize"),
+          wasteType: getValue("wasteType"),
+          address: getValue("address"),
+          duration: getValue("duration"),
+          placement: getValue("placement"),
+        },
+      };
+    } else if (productId === "van-hire") {
+      data = {
+        ...base,
+        details: {
+          vanSize: getValue("vanSize"),
+          driveType: getValue("driveType"),
+          startDate: getValue("startDate"),
+          endDate: getValue("endDate"),
+          collectionLocation: getValue("collectionLocation"),
+        },
+      };
+    } else {
+      data = {
+        ...base,
+        date: getValue("date"),
+        passengers: parseInt(getValue("passengers")) || null,
+        pickup: getValue("pickup"),
+        destination: getValue("destination"),
+        journeyType: getValue("journeyType"),
+      };
+    }
 
     try {
       await fetch("/api/leads", {
@@ -44,6 +77,8 @@ export default function QuoteForm() {
   }
 
   if (submitted) {
+    const productLabel =
+      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : "hire";
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -63,7 +98,7 @@ export default function QuoteForm() {
           Quote Request Sent!
         </h3>
         <p className="text-green-700">
-          We&apos;ll be in touch shortly with quotes from local operators.
+          We&apos;ll be in touch shortly with {productLabel} quotes from local operators.
         </p>
       </div>
     );
@@ -73,124 +108,245 @@ export default function QuoteForm() {
   tomorrow.setDate(tomorrow.getDate() + 1);
   const minDate = tomorrow.toISOString().split("T")[0];
 
+  const inputClass =
+    "w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent";
+
   return (
     <form onSubmit={handleSubmit} className="space-y-5">
+      {/* Common: Name + Email */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <div>
           <label htmlFor="name" className="block text-sm font-medium text-text mb-1">
             Full Name *
           </label>
-          <input
-            type="text"
-            id="name"
-            name="name"
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
+          <input type="text" id="name" name="name" required className={inputClass} />
         </div>
         <div>
           <label htmlFor="email" className="block text-sm font-medium text-text mb-1">
             Email Address *
           </label>
-          <input
-            type="email"
-            id="email"
-            name="email"
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
+          <input type="email" id="email" name="email" required className={inputClass} />
         </div>
       </div>
 
+      {/* Common: Phone */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <div>
           <label htmlFor="phone" className="block text-sm font-medium text-text mb-1">
             Phone Number *
           </label>
-          <input
-            type="tel"
-            id="phone"
-            name="phone"
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
+          <input type="tel" id="phone" name="phone" required className={inputClass} />
         </div>
-        <div>
-          <label htmlFor="date" className="block text-sm font-medium text-text mb-1">
-            Journey Date *
-          </label>
-          <input
-            type="date"
-            id="date"
-            name="date"
-            min={minDate}
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
-        </div>
+
+        {/* Product-specific second field in this row */}
+        {productId === "skip-hire" && (
+          <div>
+            <label htmlFor="skipSize" className="block text-sm font-medium text-text mb-1">
+              Skip Size *
+            </label>
+            <select id="skipSize" name="skipSize" required className={inputClass}>
+              <option value="">Select size...</option>
+              <option value="mini">Mini Skip (2-3 yards)</option>
+              <option value="midi">Midi Skip (4-5 yards)</option>
+              <option value="builders">Builders Skip (6-8 yards)</option>
+              <option value="large">Large Skip (12-16 yards)</option>
+              <option value="roro">Roll-On Roll-Off (20-40 yards)</option>
+              <option value="not-sure">Not sure — need advice</option>
+            </select>
+          </div>
+        )}
+        {productId === "van-hire" && (
+          <div>
+            <label htmlFor="vanSize" className="block text-sm font-medium text-text mb-1">
+              Van Type *
+            </label>
+            <select id="vanSize" name="vanSize" required className={inputClass}>
+              <option value="">Select type...</option>
+              <option value="swb">Short Wheelbase Van</option>
+              <option value="lwb">Long Wheelbase Van</option>
+              <option value="luton">Luton Van</option>
+              <option value="tipper">Tipper Van</option>
+              <option value="refrigerated">Refrigerated Van</option>
+              <option value="pickup">Pickup Truck</option>
+              <option value="not-sure">Not sure — need advice</option>
+            </select>
+          </div>
+        )}
+        {productId === "minibus-hire" && (
+          <div>
+            <label htmlFor="passengers" className="block text-sm font-medium text-text mb-1">
+              Number of Passengers *
+            </label>
+            <input
+              type="number"
+              id="passengers"
+              name="passengers"
+              min="1"
+              max="72"
+              required
+              className={inputClass}
+            />
+          </div>
+        )}
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        <div>
-          <label htmlFor="passengers" className="block text-sm font-medium text-text mb-1">
-            Number of Passengers *
-          </label>
-          <input
-            type="number"
-            id="passengers"
-            name="passengers"
-            min="1"
-            max="72"
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
-        </div>
-        <div>
-          <label htmlFor="journeyType" className="block text-sm font-medium text-text mb-1">
-            Journey Type *
-          </label>
-          <select
-            id="journeyType"
-            name="journeyType"
-            required
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          >
-            <option value="one-way">One Way</option>
-            <option value="return">Return</option>
-            <option value="multi-stop">Multi-Stop</option>
-          </select>
-        </div>
-      </div>
+      {/* Product-specific fields */}
+      {productId === "skip-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="wasteType" className="block text-sm font-medium text-text mb-1">
+                Waste Type *
+              </label>
+              <select id="wasteType" name="wasteType" required className={inputClass}>
+                <option value="">Select type...</option>
+                <option value="general">General / Mixed Waste</option>
+                <option value="garden">Garden Waste</option>
+                <option value="soil-rubble">Soil & Rubble</option>
+                <option value="construction">Construction / Demolition</option>
+                <option value="household">Household Clearance</option>
+                <option value="commercial">Commercial Waste</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="duration" className="block text-sm font-medium text-text mb-1">
+                How Long Do You Need It? *
+              </label>
+              <select id="duration" name="duration" required className={inputClass}>
+                <option value="">Select duration...</option>
+                <option value="1-3-days">1-3 days</option>
+                <option value="1-week">1 week</option>
+                <option value="2-weeks">2 weeks</option>
+                <option value="1-month">1 month</option>
+                <option value="ongoing">Ongoing / not sure</option>
+              </select>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="address" className="block text-sm font-medium text-text mb-1">
+                Delivery Address / Postcode *
+              </label>
+              <input
+                type="text"
+                id="address"
+                name="address"
+                required
+                placeholder="e.g. NE1 4ST or 12 High Street, Newcastle"
+                className={inputClass}
+              />
+            </div>
+            <div>
+              <label htmlFor="placement" className="block text-sm font-medium text-text mb-1">
+                Where Will the Skip Go? *
+              </label>
+              <select id="placement" name="placement" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="driveway">Private driveway / land</option>
+                <option value="road">Public road (permit needed)</option>
+                <option value="not-sure">Not sure</option>
+              </select>
+            </div>
+          </div>
+        </>
+      )}
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        <div>
-          <label htmlFor="pickup" className="block text-sm font-medium text-text mb-1">
-            Pickup Location *
-          </label>
-          <input
-            type="text"
-            id="pickup"
-            name="pickup"
-            required
-            placeholder="e.g. Newcastle city centre"
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
-        </div>
-        <div>
-          <label htmlFor="destination" className="block text-sm font-medium text-text mb-1">
-            Destination *
-          </label>
-          <input
-            type="text"
-            id="destination"
-            name="destination"
-            required
-            placeholder="e.g. Newcastle Airport"
-            className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
-          />
-        </div>
-      </div>
+      {productId === "van-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="driveType" className="block text-sm font-medium text-text mb-1">
+                Self-Drive or With Driver? *
+              </label>
+              <select id="driveType" name="driveType" required className={inputClass}>
+                <option value="self-drive">Self-Drive</option>
+                <option value="with-driver">With Driver</option>
+                <option value="either">Either / No Preference</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="collectionLocation" className="block text-sm font-medium text-text mb-1">
+                Collection / Delivery Location *
+              </label>
+              <input
+                type="text"
+                id="collectionLocation"
+                name="collectionLocation"
+                required
+                placeholder="e.g. Manchester city centre"
+                className={inputClass}
+              />
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="startDate" className="block text-sm font-medium text-text mb-1">
+                Start Date *
+              </label>
+              <input type="date" id="startDate" name="startDate" min={minDate} required className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="endDate" className="block text-sm font-medium text-text mb-1">
+                End Date *
+              </label>
+              <input type="date" id="endDate" name="endDate" min={minDate} required className={inputClass} />
+            </div>
+          </div>
+        </>
+      )}
 
+      {productId === "minibus-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="date" className="block text-sm font-medium text-text mb-1">
+                Journey Date *
+              </label>
+              <input type="date" id="date" name="date" min={minDate} required className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="journeyType" className="block text-sm font-medium text-text mb-1">
+                Journey Type *
+              </label>
+              <select id="journeyType" name="journeyType" required className={inputClass}>
+                <option value="one-way">One Way</option>
+                <option value="return">Return</option>
+                <option value="multi-stop">Multi-Stop</option>
+              </select>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="pickup" className="block text-sm font-medium text-text mb-1">
+                Pickup Location *
+              </label>
+              <input
+                type="text"
+                id="pickup"
+                name="pickup"
+                required
+                placeholder="e.g. Newcastle city centre"
+                className={inputClass}
+              />
+            </div>
+            <div>
+              <label htmlFor="destination" className="block text-sm font-medium text-text mb-1">
+                Destination *
+              </label>
+              <input
+                type="text"
+                id="destination"
+                name="destination"
+                required
+                placeholder="e.g. Newcastle Airport"
+                className={inputClass}
+              />
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Common: Message */}
       <div>
         <label htmlFor="message" className="block text-sm font-medium text-text mb-1">
           Additional Details
@@ -199,8 +355,14 @@ export default function QuoteForm() {
           id="message"
           name="message"
           rows={3}
-          placeholder="Any special requirements, luggage, accessibility needs..."
-          className="w-full border border-border rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+          placeholder={
+            productId === "skip-hire"
+              ? "Any access issues, heavy items, specific requirements..."
+              : productId === "van-hire"
+                ? "What you're moving, any special requirements..."
+                : "Any special requirements, luggage, accessibility needs..."
+          }
+          className={inputClass}
         />
       </div>
 

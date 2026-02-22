@@ -87,7 +87,7 @@ export default async function ProductHomePage({
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/get-quotes"
+              href={`/get-quotes?product=${product}`}
               className="bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
             >
               Get Quotes For Me
@@ -221,7 +221,7 @@ export default async function ProductHomePage({
       {/* Managed Quote CTA */}
       <section className="py-12 md:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <ManagedQuoteCTA />
+          <ManagedQuoteCTA productId={productId} />
         </div>
       </section>
     </>

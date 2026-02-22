@@ -1,17 +1,28 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import ManagedQuoteForm from "@/components/quote/ManagedQuoteForm";
 import { getSiteConfig } from "@/lib/siteConfig";
+import { isValidProductSlug } from "@/lib/productConfig";
+import type { ProductId } from "@/lib/productConfig";
+import GetQuotesClient from "./GetQuotesClient";
 
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: "Get Multiple Hire Quotes | We Do the Work For You",
   description:
-    "Tell us your trip details and we'll contact operators on your behalf. Receive multiple hire quotes by email — free, no obligation.",
+    "Tell us your requirements and we'll contact operators on your behalf. Receive multiple quotes by email — free, no obligation.",
 };
 
-export default function GetQuotesPage() {
+export default async function GetQuotesPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ product?: string }>;
+}) {
+  const { product } = await searchParams;
+  const productId: ProductId = product && isValidProductSlug(product)
+    ? product
+    : "minibus-hire";
+
   return (
     <>
       <nav className="bg-surface border-b border-border">
@@ -31,7 +42,7 @@ export default function GetQuotesPage() {
             Let Us Find You the Best Price
           </h1>
           <p className="text-text-light text-lg max-w-2xl mx-auto">
-            Tell us about your trip and we&apos;ll contact multiple operators on
+            Tell us what you need and we&apos;ll contact multiple operators on
             your behalf. You&apos;ll receive quotes straight to your inbox.
           </p>
         </div>
@@ -42,7 +53,7 @@ export default function GetQuotesPage() {
             <div className="w-10 h-10 bg-primary/10 text-primary rounded-full flex items-center justify-center mx-auto mb-2 font-bold">
               1
             </div>
-            <p className="text-sm font-medium text-text">Tell us your trip</p>
+            <p className="text-sm font-medium text-text">Tell us what you need</p>
           </div>
           <div className="text-center">
             <div className="w-10 h-10 bg-primary/10 text-primary rounded-full flex items-center justify-center mx-auto mb-2 font-bold">
@@ -59,7 +70,7 @@ export default function GetQuotesPage() {
         </div>
 
         <div className="bg-white border border-border rounded-xl p-6 md:p-8">
-          <ManagedQuoteForm />
+          <GetQuotesClient defaultProductId={productId} />
         </div>
 
         {/* Why use us */}

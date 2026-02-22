@@ -344,7 +344,7 @@ export default async function ProductBusinessPage({
               </div>
 
               {/* Managed Quote CTA */}
-              <ManagedQuoteCTA compact />
+              <ManagedQuoteCTA compact productId={productId} />
 
               {/* Location info */}
               <div className="bg-surface border border-border rounded-xl p-5">
