@@ -91,7 +91,7 @@ export default async function GuidePage({
                 loc ? (
                   <Link
                     key={loc.slug}
-                    href={`/${loc.slug}`}
+                    href={`/minibus-hire/${loc.slug}`}
                     className="bg-white border border-border rounded-lg px-4 py-3 hover:border-primary hover:shadow-sm transition-all text-text font-medium text-sm"
                   >
                     {loc.name}

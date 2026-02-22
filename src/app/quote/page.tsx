@@ -7,8 +7,8 @@ import { getSiteConfig } from "@/lib/siteConfig";
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
-  title: "Get a Free Minibus Hire Quote",
-  description: `Request free, no-obligation quotes from trusted minibus and coach hire operators across the ${site.region}.`,
+  title: "Get a Free Hire Quote",
+  description: `Request free, no-obligation quotes from trusted hire operators across the ${site.region}.`,
 };
 
 export default function QuotePage() {
@@ -24,7 +24,7 @@ export default function QuotePage() {
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <h1 className="text-2xl md:text-3xl font-bold text-text mb-2">
-          Get a Free Minibus Hire Quote
+          Get a Free Hire Quote
         </h1>
         <p className="text-text-light mb-8">
           Fill in your journey details below and we&apos;ll connect you with

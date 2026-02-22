@@ -2,10 +2,16 @@ import Link from "next/link";
 import type { Business } from "@/types";
 import StarRating from "./StarRating";
 
-export default function BusinessCard({ business }: { business: Business }) {
+export default function BusinessCard({
+  business,
+  productSlug = "minibus-hire",
+}: {
+  business: Business;
+  productSlug?: string;
+}) {
   return (
     <Link
-      href={`/${business.locationSlug}/${business.slug}`}
+      href={`/${productSlug}/${business.locationSlug}/${business.slug}`}
       className="block bg-white border border-border rounded-xl p-5 hover:shadow-lg hover:border-primary-light transition-all duration-200"
     >
       <div className="flex justify-between items-start mb-3">

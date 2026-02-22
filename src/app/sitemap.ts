@@ -2,14 +2,13 @@ import type { MetadataRoute } from "next";
 import { getAllBusinesses, getLocations } from "@/lib/data";
 import { getAllGuideSlugs } from "@/lib/guides";
 import { getSiteConfig } from "@/lib/siteConfig";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
+import type { ProductId } from "@/lib/productConfig";
 
 const BASE_URL = `https://${getSiteConfig().domain}`;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const businesses = getAllBusinesses();
-  const locations = getLocations();
-
-  return [
+  const entries: MetadataRoute.Sitemap = [
     {
       url: BASE_URL,
       lastModified: new Date(),
@@ -34,29 +33,54 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.3,
     },
-    ...locations.map((loc) => ({
-      url: `${BASE_URL}/${loc.slug}`,
+  ];
+
+  for (const product of ALL_PRODUCTS) {
+    const productId = product.id as ProductId;
+    const locations = getLocations(productId);
+    const businesses = getAllBusinesses(productId);
+
+    entries.push({
+      url: `${BASE_URL}/${product.slug}`,
       lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: 0.8,
-    })),
-    ...businesses.map((b) => ({
-      url: `${BASE_URL}/${b.locationSlug}/${b.slug}`,
-      lastModified: new Date(),
-      changeFrequency: "monthly" as const,
-      priority: 0.6,
-    })),
-    {
-      url: `${BASE_URL}/guides`,
-      lastModified: new Date(),
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-    },
-    ...getAllGuideSlugs().map((slug) => ({
+      changeFrequency: "weekly",
+      priority: 0.9,
+    });
+
+    for (const loc of locations) {
+      entries.push({
+        url: `${BASE_URL}/${product.slug}/${loc.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "weekly",
+        priority: 0.8,
+      });
+    }
+
+    for (const b of businesses) {
+      entries.push({
+        url: `${BASE_URL}/${product.slug}/${b.locationSlug}/${b.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.6,
+      });
+    }
+  }
+
+  entries.push({
+    url: `${BASE_URL}/guides`,
+    lastModified: new Date(),
+    changeFrequency: "weekly",
+    priority: 0.7,
+  });
+
+  for (const slug of getAllGuideSlugs()) {
+    entries.push({
       url: `${BASE_URL}/guides/${slug}`,
       lastModified: new Date(),
-      changeFrequency: "monthly" as const,
+      changeFrequency: "monthly",
       priority: 0.7,
-    })),
-  ];
+    });
+  }
+
+  return entries;
 }

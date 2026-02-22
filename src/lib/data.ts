@@ -6,7 +6,18 @@ import ykBusinessesRaw from "@/data/yorkshire_businesses.json";
 import eaBusinessesRaw from "@/data/east_businesses.json";
 import lnBusinessesRaw from "@/data/london_businesses.json";
 import seBusinessesRaw from "@/data/southeast_businesses.json";
+
+import vhNeBusinessesRaw from "@/data/vanhire_northeast_businesses.json";
+import vhNwBusinessesRaw from "@/data/vanhire_northwest_businesses.json";
+import vhScBusinessesRaw from "@/data/vanhire_scotland_businesses.json";
+import vhMlBusinessesRaw from "@/data/vanhire_midlands_businesses.json";
+import vhYkBusinessesRaw from "@/data/vanhire_yorkshire_businesses.json";
+import vhEaBusinessesRaw from "@/data/vanhire_east_businesses.json";
+import vhLnBusinessesRaw from "@/data/vanhire_london_businesses.json";
+import vhSeBusinessesRaw from "@/data/vanhire_southeast_businesses.json";
+
 import type { Business, BusinessRaw, Location } from "@/types";
+import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
 import { getSiteId } from "./siteConfig";
@@ -36,10 +47,22 @@ function transformBusiness(raw: BusinessRaw): Business {
   };
 }
 
-let _businesses: Business[] | null = null;
+const _businessCache = new Map<string, Business[]>();
 
-function getRawBusinesses(): BusinessRaw[] {
+function getRawBusinesses(
+  productId: ProductId = "minibus-hire"
+): BusinessRaw[] {
   const id = getSiteId();
+  if (productId === "van-hire") {
+    if (id === "northwest") return vhNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return vhScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return vhMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return vhYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return vhEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return vhLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return vhSeBusinessesRaw as BusinessRaw[];
+    return vhNeBusinessesRaw as BusinessRaw[];
+  }
   if (id === "northwest") return nwBusinessesRaw as BusinessRaw[];
   if (id === "scotland") return scBusinessesRaw as BusinessRaw[];
   if (id === "midlands") return mlBusinessesRaw as BusinessRaw[];
@@ -50,30 +73,45 @@ function getRawBusinesses(): BusinessRaw[] {
   return neBusinessesRaw as BusinessRaw[];
 }
 
-export function getAllBusinesses(): Business[] {
-  if (!_businesses) {
-    _businesses = getRawBusinesses().map(transformBusiness);
+export function getAllBusinesses(
+  productId: ProductId = "minibus-hire"
+): Business[] {
+  const key = `${productId}:${getSiteId()}`;
+  if (!_businessCache.has(key)) {
+    _businessCache.set(
+      key,
+      getRawBusinesses(productId).map(transformBusiness)
+    );
   }
-  return _businesses;
+  return _businessCache.get(key)!;
 }
 
-export function getBusinessesByLocation(locationSlug: string): Business[] {
-  return getAllBusinesses().filter((b) => b.locationSlug === locationSlug);
+export function getBusinessesByLocation(
+  locationSlug: string,
+  productId: ProductId = "minibus-hire"
+): Business[] {
+  return getAllBusinesses(productId).filter(
+    (b) => b.locationSlug === locationSlug
+  );
 }
 
 export function getBusinessBySlug(
   locationSlug: string,
-  businessSlug: string
+  businessSlug: string,
+  productId: ProductId = "minibus-hire"
 ): Business | null {
   return (
-    getAllBusinesses().find(
+    getAllBusinesses(productId).find(
       (b) => b.locationSlug === locationSlug && b.slug === businessSlug
     ) || null
   );
 }
 
-export function getFeaturedBusinesses(limit = 6): Business[] {
-  return [...getAllBusinesses()]
+export function getFeaturedBusinesses(
+  limit = 6,
+  productId: ProductId = "minibus-hire"
+): Business[] {
+  return [...getAllBusinesses(productId)]
     .filter((b) => b.rating && b.totalReviews > 0)
     .sort((a, b) => {
       const ratingDiff = (b.rating || 0) - (a.rating || 0);
@@ -83,20 +121,27 @@ export function getFeaturedBusinesses(limit = 6): Business[] {
     .slice(0, limit);
 }
 
-export function getLocations(): Location[] {
-  const businesses = getAllBusinesses();
+export function getLocations(
+  productId: ProductId = "minibus-hire"
+): Location[] {
+  const businesses = getAllBusinesses(productId);
   const config = getLocationConfig();
-  return Object.entries(config).map(([slug, loc]) => ({
-    slug,
-    name: loc.name,
-    description: loc.description,
-    lat: loc.lat,
-    lng: loc.lng,
-    businessCount: businesses.filter((b) => b.locationSlug === slug).length,
-  }));
+  return Object.entries(config)
+    .map(([slug, loc]) => ({
+      slug,
+      name: loc.name,
+      description: loc.description,
+      lat: loc.lat,
+      lng: loc.lng,
+      businessCount: businesses.filter((b) => b.locationSlug === slug).length,
+    }))
+    .filter((loc) => loc.businessCount > 0);
 }
 
-export function getLocationBySlugWithCount(slug: string): Location | null {
+export function getLocationBySlugWithCount(
+  slug: string,
+  productId: ProductId = "minibus-hire"
+): Location | null {
   const config = getLocationConfig();
   const loc = config[slug];
   if (!loc) return null;
@@ -106,6 +151,6 @@ export function getLocationBySlugWithCount(slug: string): Location | null {
     description: loc.description,
     lat: loc.lat,
     lng: loc.lng,
-    businessCount: getBusinessesByLocation(slug).length,
+    businessCount: getBusinessesByLocation(slug, productId).length,
   };
 }

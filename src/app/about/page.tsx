@@ -2,9 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getSiteConfig } from "@/lib/siteConfig";
 import { getAllBusinesses, getLocations } from "@/lib/data";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
+import type { ProductId } from "@/lib/productConfig";
 
 const site = getSiteConfig();
-const totalBusinesses = getAllBusinesses().length;
+const totalBusinesses = ALL_PRODUCTS.reduce(
+  (sum, p) => sum + getAllBusinesses(p.id as ProductId).length,
+  0
+);
 const totalLocations = getLocations().length;
 
 export const metadata: Metadata = {
@@ -25,18 +30,18 @@ export default function AboutPage() {
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <h1 className="text-2xl md:text-3xl font-bold text-text mb-6">
-          About {site.name}
+          About {site.genericName}
         </h1>
 
         <div className="space-y-4 text-text-light leading-relaxed">
           <p>
             We are the {site.shortName}&apos;s most comprehensive directory of
-            minibus and coach hire companies. Our mission is to make it easy for
-            you to find trusted, reliable operators in your area.
+            hire companies. Our mission is to make it easy for you to find
+            trusted, reliable operators in your area.
           </p>
           <p>
-            Whether you need a minibus for a night out, a coach for a school
-            trip, a party bus for a celebration, or an airport transfer, we list
+            Whether you need a minibus for a night out, a van for moving house,
+            a coach for a school trip, or a party bus for a celebration, we list
             over {totalBusinesses} verified companies across {totalLocations}{" "}
             locations in the {site.region}.
           </p>
@@ -55,9 +60,9 @@ export default function AboutPage() {
             For Operators
           </h2>
           <p>
-            If you run a minibus or coach hire company in the {site.shortName}{" "}
-            and would like to update your listing or discuss premium placement,
-            please get in touch.
+            If you run a hire company in the {site.shortName} and would like to
+            update your listing or discuss premium placement, please get in
+            touch.
           </p>
         </div>
       </div>

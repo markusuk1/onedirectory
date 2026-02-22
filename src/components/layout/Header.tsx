@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getSiteConfig, ALL_REGIONS } from "@/lib/siteConfig";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
 
 export default function Header() {
   const site = getSiteConfig();
@@ -15,7 +16,7 @@ export default function Header() {
               </span>
             </div>
             <span className="font-bold text-lg text-text hidden sm:block">
-              {site.name}
+              {site.genericName}
             </span>
           </Link>
 
@@ -26,12 +27,15 @@ export default function Header() {
             >
               Home
             </Link>
-            <Link
-              href="/#browse"
-              className="text-sm text-text-light hover:text-primary transition-colors"
-            >
-              Find Operators
-            </Link>
+            {ALL_PRODUCTS.map((product) => (
+              <Link
+                key={product.id}
+                href={`/${product.slug}`}
+                className="text-sm text-text-light hover:text-primary transition-colors"
+              >
+                {product.shortName}
+              </Link>
+            ))}
             <Link
               href="/guides"
               className="text-sm text-text-light hover:text-primary transition-colors"
@@ -47,8 +51,18 @@ export default function Header() {
             <div className="relative group">
               <button className="text-sm text-text-light hover:text-primary transition-colors flex items-center gap-1">
                 {site.shortName}
-                <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                <svg
+                  className="w-3.5 h-3.5"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
                 </svg>
               </button>
               <div className="absolute right-0 top-full mt-1 bg-white border border-border rounded-lg shadow-lg py-1 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">

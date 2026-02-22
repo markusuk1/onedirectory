@@ -6,9 +6,9 @@ import { getSiteConfig } from "@/lib/siteConfig";
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
-  title: "Get Multiple Minibus Hire Quotes | We Do the Work For You",
+  title: "Get Multiple Hire Quotes | We Do the Work For You",
   description:
-    "Tell us your trip details and we'll contact operators on your behalf. Receive multiple minibus hire quotes by email — free, no obligation.",
+    "Tell us your trip details and we'll contact operators on your behalf. Receive multiple hire quotes by email — free, no obligation.",
 };
 
 export default function GetQuotesPage() {

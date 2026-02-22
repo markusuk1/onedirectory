@@ -9,6 +9,7 @@ export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "york
 export interface SiteConfig {
   id: SiteId;
   name: string;
+  genericName: string;
   shortName: string;
   logoPrefix: string;
   domain: string;
@@ -25,6 +26,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   northeast: {
     id: "northeast",
     name: "Minibus Hire North East",
+    genericName: "Hire North East",
     shortName: "North East",
     logoPrefix: "NE",
     domain: "hirenortheast.co.uk",
@@ -44,6 +46,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   northwest: {
     id: "northwest",
     name: "Minibus Hire North West",
+    genericName: "Hire North West",
     shortName: "North West",
     logoPrefix: "NW",
     domain: "hirenorthwest.co.uk",
@@ -63,6 +66,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   scotland: {
     id: "scotland",
     name: "Minibus Hire Scotland",
+    genericName: "We Hire Scotland",
     shortName: "Scotland",
     logoPrefix: "SC",
     domain: "wehirescotland.co.uk",
@@ -82,6 +86,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   midlands: {
     id: "midlands",
     name: "Minibus Hire Midlands",
+    genericName: "Hire Midlands",
     shortName: "Midlands",
     logoPrefix: "ML",
     domain: "hiremidlands.co.uk",
@@ -101,6 +106,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   yorkshire: {
     id: "yorkshire",
     name: "Minibus Hire Yorkshire",
+    genericName: "Hire Yorkshire",
     shortName: "Yorkshire",
     logoPrefix: "YK",
     domain: "hire-yorkshire.co.uk",
@@ -120,6 +126,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   east: {
     id: "east",
     name: "Minibus Hire East of England",
+    genericName: "Hire East",
     shortName: "East of England",
     logoPrefix: "EE",
     domain: "hireeast.co.uk",
@@ -139,6 +146,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   london: {
     id: "london",
     name: "Minibus Hire London",
+    genericName: "We Hire London",
     shortName: "London",
     logoPrefix: "LN",
     domain: "wehirelondon.co.uk",
@@ -158,6 +166,7 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
   southeast: {
     id: "southeast",
     name: "Minibus Hire South East",
+    genericName: "Hire South East",
     shortName: "South East",
     logoPrefix: "SE",
     domain: "hiresoutheast.co.uk",

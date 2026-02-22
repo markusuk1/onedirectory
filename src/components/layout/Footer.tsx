@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getLocations } from "@/lib/data";
 import { getSiteConfig, ALL_REGIONS } from "@/lib/siteConfig";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
 
 export default function Footer() {
   const locations = getLocations();
@@ -11,30 +12,27 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="font-bold text-lg mb-4">{site.name}</h3>
+            <h3 className="font-bold text-lg mb-4">{site.genericName}</h3>
             <p className="text-slate-400 text-sm leading-relaxed">
               {site.footerDescription}
             </p>
           </div>
 
           <div>
-            <h3 className="font-bold text-lg mb-4">Locations</h3>
-            <ul className="grid grid-cols-2 gap-1">
-              {locations.map((loc) => (
-                <li key={loc.slug}>
+            <h3 className="font-bold text-lg mb-4">Browse</h3>
+            <ul className="space-y-2">
+              {ALL_PRODUCTS.map((product) => (
+                <li key={product.id}>
                   <Link
-                    href={`/${loc.slug}`}
+                    href={`/${product.slug}`}
                     className="text-slate-400 hover:text-white text-sm transition-colors"
                   >
-                    {loc.name}
+                    {product.name}
                   </Link>
                 </li>
               ))}
             </ul>
-          </div>
-
-          <div>
-            <h3 className="font-bold text-lg mb-4">Quick Links</h3>
+            <h3 className="font-bold text-lg mb-4 mt-6">Quick Links</h3>
             <ul className="space-y-2">
               <li>
                 <Link
@@ -54,20 +52,28 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/#browse"
-                  className="text-slate-400 hover:text-white text-sm transition-colors"
-                >
-                  Find Operators
-                </Link>
-              </li>
-              <li>
-                <Link
                   href="/about"
                   className="text-slate-400 hover:text-white text-sm transition-colors"
                 >
                   About Us
                 </Link>
               </li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="font-bold text-lg mb-4">Locations</h3>
+            <ul className="grid grid-cols-2 gap-1">
+              {locations.map((loc) => (
+                <li key={loc.slug}>
+                  <Link
+                    href={`/minibus-hire/${loc.slug}`}
+                    className="text-slate-400 hover:text-white text-sm transition-colors"
+                  >
+                    {loc.name}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
 
@@ -90,7 +96,8 @@ export default function Footer() {
 
         <div className="border-t border-slate-800 mt-8 pt-8 text-center">
           <p className="text-slate-500 text-sm">
-            &copy; {new Date().getFullYear()} {site.name}. All rights reserved.
+            &copy; {new Date().getFullYear()} {site.genericName}. All rights
+            reserved.
           </p>
         </div>
       </div>

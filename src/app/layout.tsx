@@ -4,6 +4,8 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { getSiteConfig } from "@/lib/siteConfig";
 import { getAllBusinesses } from "@/lib/data";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
+import type { ProductId } from "@/lib/productConfig";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -12,12 +14,15 @@ const geistSans = Geist({
 });
 
 const site = getSiteConfig();
-const totalBusinesses = getAllBusinesses().length;
+const totalBusinesses = ALL_PRODUCTS.reduce(
+  (sum, p) => sum + getAllBusinesses(p.id as ProductId).length,
+  0
+);
 
 export const metadata: Metadata = {
   title: {
-    default: `${site.name} | Compare ${totalBusinesses}+ Companies`,
-    template: `%s | ${site.name}`,
+    default: `${site.genericName} | Compare ${totalBusinesses}+ Companies`,
+    template: `%s | ${site.genericName}`,
   },
   description: site.description,
 };
