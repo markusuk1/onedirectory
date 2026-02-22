@@ -16,6 +16,15 @@ import vhEaBusinessesRaw from "@/data/vanhire_east_businesses.json";
 import vhLnBusinessesRaw from "@/data/vanhire_london_businesses.json";
 import vhSeBusinessesRaw from "@/data/vanhire_southeast_businesses.json";
 
+import shNeBusinessesRaw from "@/data/skiphire_northeast_businesses.json";
+import shNwBusinessesRaw from "@/data/skiphire_northwest_businesses.json";
+import shScBusinessesRaw from "@/data/skiphire_scotland_businesses.json";
+import shMlBusinessesRaw from "@/data/skiphire_midlands_businesses.json";
+import shYkBusinessesRaw from "@/data/skiphire_yorkshire_businesses.json";
+import shEaBusinessesRaw from "@/data/skiphire_east_businesses.json";
+import shLnBusinessesRaw from "@/data/skiphire_london_businesses.json";
+import shSeBusinessesRaw from "@/data/skiphire_southeast_businesses.json";
+
 import type { Business, BusinessRaw, Location } from "@/types";
 import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
@@ -53,6 +62,16 @@ function getRawBusinesses(
   productId: ProductId = "minibus-hire"
 ): BusinessRaw[] {
   const id = getSiteId();
+  if (productId === "skip-hire") {
+    if (id === "northwest") return shNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return shScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return shMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return shYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return shEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return shLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return shSeBusinessesRaw as BusinessRaw[];
+    return shNeBusinessesRaw as BusinessRaw[];
+  }
   if (productId === "van-hire") {
     if (id === "northwest") return vhNwBusinessesRaw as BusinessRaw[];
     if (id === "scotland") return vhScBusinessesRaw as BusinessRaw[];

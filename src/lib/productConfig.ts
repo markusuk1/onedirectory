@@ -1,4 +1,4 @@
-export type ProductId = "minibus-hire" | "van-hire";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire";
 
 export interface ProductConfig {
   id: ProductId;
@@ -118,6 +118,57 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Highest rated van hire companies in the ${shortName}`,
     browseSubtitle: "Find van hire companies near you",
     servicesSubtitle: "Whatever your van hire needs, we can help",
+  },
+  "skip-hire": {
+    id: "skip-hire",
+    slug: "skip-hire",
+    name: "Skip Hire",
+    shortName: "Skip Hire",
+    icon: "🗑️",
+    heroTitle: (region) => `Find Skip Hire in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ skip hire companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare skip hire companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local operators.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides skip hire in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        title: "Mini Skip Hire",
+        desc: "2-3 yard mini skips ideal for small garden clearances and bathroom refits.",
+      },
+      {
+        title: "Midi Skip Hire",
+        desc: "4-5 yard midi skips for medium projects like kitchen renovations.",
+      },
+      {
+        title: "Builders Skip Hire",
+        desc: "6-8 yard builders skips, the most popular size for home and trade projects.",
+      },
+      {
+        title: "Large Skip Hire",
+        desc: "12-16 yard large skips for major renovations and commercial clearances.",
+      },
+      {
+        title: "Roll-On Roll-Off",
+        desc: "20-40 yard RoRo skips for large-scale construction and demolition waste.",
+      },
+      {
+        title: "Grab Hire",
+        desc: "Grab lorries for fast removal of soil, rubble and green waste without a skip.",
+      },
+    ],
+    seoHeading: (shortName) => `Skip Hire Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you need a mini skip for a garden clearout, a builders skip for a renovation, or a grab lorry for bulk waste removal, our directory connects you with the best local skip hire companies across the ${region}.`,
+      `We list over ${count} skip hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple operators by using our quote request form. Simply tell us your requirements and we'll connect you with suitable companies in your area.`,
+    ],
+    ctaText: (loc) => `Need a skip in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated skip hire companies in the ${shortName}`,
+    browseSubtitle: "Find skip hire companies near you",
+    servicesSubtitle: "Whatever your waste disposal needs, we can help",
   },
 };
 

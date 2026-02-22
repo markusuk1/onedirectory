@@ -9,6 +9,7 @@ const STATIC_ROUTES = new Set([
   "api",
   "minibus-hire",
   "van-hire",
+  "skip-hire",
   "_next",
   "favicon.ico",
   "robots.txt",
