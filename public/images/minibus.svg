@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" fill="none">
+  <!-- Ground shadow -->
+  <ellipse cx="210" cy="195" rx="170" ry="10" fill="#e2e8f0" opacity="0.6"/>
+
+  <!-- Main body silhouette -->
+  <path d="
+    M30 180
+    L30 65
+    Q30 52 43 52
+    L310 52
+    Q330 52 340 62
+    L365 100
+    Q372 110 372 120
+    L372 145
+    Q372 155 365 160
+    L362 165
+    L362 180
+    Z
+  " fill="#1e40af"/>
+
+  <!-- Wheel arches cut out (body color over wheels) -->
+  <!-- Rear wheel arch -->
+  <path d="M70 180 Q70 155 95 155 Q120 155 120 180 Z" fill="#1e40af"/>
+  <!-- Front wheel arch -->
+  <path d="M290 180 Q290 155 315 155 Q340 155 340 180 Z" fill="#1e40af"/>
+
+  <!-- Bumper -->
+  <rect x="28 " y="178" width="336" height="8" rx="3" fill="#334155"/>
+
+  <!-- Wheels -->
+  <circle cx="95" cy="183" r="24" fill="#334155"/>
+  <circle cx="95" cy="183" r="15" fill="#64748b"/>
+  <circle cx="95" cy="183" r="6" fill="#334155"/>
+  <circle cx="95" cy="183" r="2.5" fill="#94a3b8"/>
+
+  <circle cx="315" cy="183" r="24" fill="#334155"/>
+  <circle cx="315" cy="183" r="15" fill="#64748b"/>
+  <circle cx="315" cy="183" r="6" fill="#334155"/>
+  <circle cx="315" cy="183" r="2.5" fill="#94a3b8"/>
+
+  <!-- Side windows (3 passenger windows) -->
+  <rect x="48" y="62" width="70" height="50" rx="4" fill="#dbeafe"/>
+  <rect x="124" y="62" width="70" height="50" rx="4" fill="#dbeafe"/>
+  <rect x="200" y="62" width="55" height="50" rx="4" fill="#dbeafe"/>
+
+  <!-- Window reflections -->
+  <rect x="53" y="66" width="8" height="40" rx="3" fill="white" opacity="0.4"/>
+  <rect x="129" y="66" width="8" height="40" rx="3" fill="white" opacity="0.4"/>
+  <rect x="205" y="66" width="8" height="40" rx="3" fill="white" opacity="0.4"/>
+
+  <!-- Windscreen -->
+  <path d="M265 62 L265 112 L360 112 L360 104 L340 66 Q335 58 325 56 L275 56 Q268 56 265 62 Z" fill="#dbeafe"/>
+  <path d="M350 68 L354 68 L360 108 L355 108 Z" fill="white" opacity="0.35"/>
+
+  <!-- Orange accent stripe -->
+  <rect x="30" y="130" width="332" height="6" rx="2" fill="#f59e0b"/>
+
+  <!-- Headlight -->
+  <rect x="364" y="115" width="8" height="14" rx="3" fill="#fbbf24"/>
+
+  <!-- Rear light -->
+  <rect x="30" y="100" width="6" height="14" rx="2" fill="#ef4444"/>
+  <rect x="30" y="118" width="6" height="8" rx="2" fill="#fbbf24"/>
+
+  <!-- Door handle -->
+  <rect x="195" y="138" width="12" height="4" rx="2" fill="#f59e0b"/>
+
+  <!-- Front bumper detail -->
+  <path d="M362 165 L370 165 L370 175 L362 175 Z" fill="#334155" rx="2"/>
+</svg>

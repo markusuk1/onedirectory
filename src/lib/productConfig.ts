@@ -6,6 +6,8 @@ export interface ProductConfig {
   name: string;
   shortName: string;
   icon: string;
+  image: string;
+  imageAlt: string;
   heroTitle: (region: string) => string;
   heroSubtitle: (count: number, locCount: number) => string;
   locationDescriptionTemplate: (locationName: string) => string;
@@ -30,6 +32,8 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Minibus & Coach Hire",
     shortName: "Minibus Hire",
     icon: "🚐",
+    image: "/images/minibus.svg",
+    imageAlt: "Minibus hire illustration",
     heroTitle: (region) => `Find Minibus & Coach Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
       `Compare ${count}+ trusted operators across ${locCount} locations. Get free quotes in minutes.`,
@@ -74,6 +78,8 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Van Hire",
     shortName: "Van Hire",
     icon: "🚚",
+    image: "/images/van.svg",
+    imageAlt: "Van hire illustration",
     heroTitle: (region) => `Find Van Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
       `Compare ${count}+ van hire companies across ${locCount} locations. Get free quotes in minutes.`,
@@ -125,6 +131,8 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Skip Hire",
     shortName: "Skip Hire",
     icon: "🗑️",
+    image: "/images/skip.svg",
+    imageAlt: "Skip hire illustration",
     heroTitle: (region) => `Find Skip Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
       `Compare ${count}+ skip hire companies across ${locCount} locations. Get free quotes in minutes.`,

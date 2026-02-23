@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/guides";
 import { getLocationBySlug } from "@/lib/locations";
 import { getSiteConfig } from "@/lib/siteConfig";
+import { ALL_PRODUCTS } from "@/lib/productConfig";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
 export async function generateStaticParams() {
@@ -54,9 +55,32 @@ export default async function GuidePage({
       </nav>
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
-        <h1 className="text-2xl md:text-4xl font-bold text-text mb-4">
-          {guide.h1}
-        </h1>
+        {(() => {
+          const GUIDE_KEYWORDS: Record<string, string[]> = {
+            "skip-hire": ["skip"],
+            "van-hire": ["van", "luton", "tipper"],
+            "minibus-hire": ["minibus", "coach", "party-bus", "airport-transfer", "seater", "wedding-coach", "corporate"],
+          };
+          const matchedProduct = ALL_PRODUCTS.find((p) =>
+            GUIDE_KEYWORDS[p.id]?.some((kw) => slug.includes(kw))
+          ) || ALL_PRODUCTS.find((p) => p.id === "minibus-hire");
+          return matchedProduct ? (
+            <div className="flex items-start gap-5 mb-4">
+              <img
+                src={matchedProduct.image}
+                alt={matchedProduct.imageAlt}
+                className="hidden sm:block w-20 h-auto flex-shrink-0"
+              />
+              <h1 className="text-2xl md:text-4xl font-bold text-text">
+                {guide.h1}
+              </h1>
+            </div>
+          ) : (
+            <h1 className="text-2xl md:text-4xl font-bold text-text mb-4">
+              {guide.h1}
+            </h1>
+          );
+        })()}
         <p className="text-lg text-text-light leading-relaxed mb-8">
           {guide.intro}
         </p>

@@ -11,6 +11,7 @@ const STATIC_ROUTES = new Set([
   "van-hire",
   "skip-hire",
   "_next",
+  "images",
   "favicon.ico",
   "robots.txt",
   "sitemap.xml",
@@ -37,6 +38,6 @@ export const config = {
      * - _next/image (image optimization)
      * - favicon.ico
      */
-    "/((?!_next/static|_next/image|favicon.ico).*)",
+    "/((?!_next/static|_next/image|images/|favicon.ico).*)",
   ],
 };

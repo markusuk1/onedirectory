@@ -78,27 +78,34 @@ export default async function ProductHomePage({
       />
       {/* Hero */}
       <section className="bg-gradient-to-br from-primary to-primary-dark text-white py-16 md:py-24">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            {productConfig.heroTitle(site.region)}
-          </h1>
-          <p className="text-lg md:text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            {productConfig.heroSubtitle(totalBusinesses, locations.length)}
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href={`/get-quotes?product=${product}`}
-              className="bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
-            >
-              Get Quotes For Me
-            </Link>
-            <Link
-              href={`/${product}#browse`}
-              className="bg-white/10 hover:bg-white/20 text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors border border-white/20"
-            >
-              Browse Operators
-            </Link>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center md:justify-between gap-8">
+          <div className="text-center md:text-left">
+            <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
+              {productConfig.heroTitle(site.region)}
+            </h1>
+            <p className="text-lg md:text-xl text-blue-100 mb-8 max-w-2xl">
+              {productConfig.heroSubtitle(totalBusinesses, locations.length)}
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
+              <Link
+                href={`/get-quotes?product=${product}`}
+                className="bg-accent hover:bg-accent-dark text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors"
+              >
+                Get Quotes For Me
+              </Link>
+              <Link
+                href={`/${product}#browse`}
+                className="bg-white/10 hover:bg-white/20 text-white font-semibold px-8 py-3.5 rounded-lg text-lg transition-colors border border-white/20"
+              >
+                Browse Operators
+              </Link>
+            </div>
           </div>
+          <img
+            src={productConfig.image}
+            alt={productConfig.imageAlt}
+            className="hidden md:block w-64 lg:w-80 opacity-90"
+          />
         </div>
       </section>
 

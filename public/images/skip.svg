@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" fill="none">
+  <!-- Ground shadow -->
+  <ellipse cx="200" cy="228" rx="130" ry="8" fill="#e2e8f0" opacity="0.6"/>
+
+  <!-- Skip body - hexagonal silhouette: narrow bottom, widest at corner tabs, rim slightly narrower -->
+  <path d="M140 225 L45 85 L75 40 L325 40 L355 85 L260 225 Z" fill="#f59e0b"/>
+
+  <!-- Darker left edge -->
+  <path d="M140 225 L45 85 L55 85 L148 225 Z" fill="#d97706"/>
+  <!-- Darker right edge -->
+  <path d="M260 225 L355 85 L345 85 L252 225 Z" fill="#d97706"/>
+
+  <!-- Top corner tabs - darker shade to show the angled corner pieces -->
+  <path d="M45 85 L75 40 L85 40 L58 80 Z" fill="#d97706"/>
+  <path d="M355 85 L325 40 L315 40 L342 80 Z" fill="#d97706"/>
+
+  <!-- Top rim inner channel/lip -->
+  <path d="M85 48 L315 48 L305 65 L95 65 Z" fill="#b45309" opacity="0.35"/>
+
+  <!-- Rim top face highlight -->
+  <rect x="80" y="38" width="240" height="10" rx="2" fill="#e8a317"/>
+
+  <!-- Horizontal reinforcing ridges on body -->
+  <line x1="90" y1="105" x2="310" y2="105" stroke="#d97706" stroke-width="2"/>
+  <line x1="105" y1="140" x2="295" y2="140" stroke="#d97706" stroke-width="2"/>
+  <line x1="120" y1="175" x2="280" y2="175" stroke="#d97706" stroke-width="2"/>
+  <line x1="132" y1="200" x2="268" y2="200" stroke="#d97706" stroke-width="2"/>
+
+  <!-- Bottom base -->
+  <rect x="136" y="223" width="128" height="6" rx="2" fill="#334155"/>
+
+  <!-- Outline for crisp definition -->
+  <path d="M140 225 L45 85 L75 40 L325 40 L355 85 L260 225 Z" stroke="#b45309" stroke-width="2" fill="none"/>
+</svg>

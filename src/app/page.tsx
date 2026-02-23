@@ -76,7 +76,11 @@ export default function HomePage() {
                 href={`/${product.slug}`}
                 className="bg-white border border-border rounded-xl p-8 hover:shadow-lg hover:border-primary-light transition-all duration-200 group text-center"
               >
-                <span className="text-4xl mb-4 block">{product.icon}</span>
+                <img
+                  src={product.image}
+                  alt={product.imageAlt}
+                  className="h-20 mx-auto mb-4"
+                />
                 <h3 className="font-bold text-xl text-text group-hover:text-primary transition-colors mb-2">
                   {product.name}
                 </h3>
