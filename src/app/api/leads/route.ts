@@ -80,8 +80,11 @@ export async function POST(request: NextRequest) {
         `;
       }
 
+      const fromAddress = "Hire UK Quotes <quotes@hirenortheast.co.uk>";
+
+      // Admin notification
       await resend.emails.send({
-        from: `${site.name} <notifications@${site.domain}>`,
+        from: fromAddress,
         to: NOTIFY_EMAIL,
         subject: `New ${productLabel} Quote — ${site.shortName}${body.businessName ? ` — ${body.businessName}` : ""}`,
         html: `
@@ -98,6 +101,28 @@ export async function POST(request: NextRequest) {
           </table>
         `,
       }).catch((err) => console.error("Email notification failed:", err));
+
+      // Customer auto-confirmation
+      if (body.email) {
+        await resend.emails.send({
+          from: fromAddress,
+          to: body.email,
+          subject: `We've received your ${productLabel.toLowerCase()} quote request`,
+          html: `
+            <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto">
+              <h2 style="margin:0 0 16px;color:#1a1a1a">Thanks for your quote request${body.name ? `, ${body.name}` : ""}!</h2>
+              <p style="margin:0 0 12px;color:#444;line-height:1.5">We've received your <strong>${productLabel.toLowerCase()}</strong> request and will be in touch within 24 hours with quotes from local operators.</p>
+              <h3 style="margin:16px 0 8px;color:#1a1a1a">Your request details:</h3>
+              <table style="border-collapse:collapse;width:100%;max-width:500px">
+                ${detailRows}
+                ${body.message ? `<tr><td style="padding:4px 8px;font-weight:600">Message</td><td style="padding:4px 8px">${body.message}</td></tr>` : ""}
+              </table>
+              <p style="margin:16px 0 0;color:#666;font-size:14px">If you need to get in touch, just reply to this email.</p>
+              <p style="margin:8px 0 0;color:#666;font-size:14px">— ${site.name}</p>
+            </div>
+          `,
+        }).catch((err) => console.error("Customer confirmation email failed:", err));
+      }
     }
 
     return NextResponse.json({ success: true });
