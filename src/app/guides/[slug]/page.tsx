@@ -142,6 +142,28 @@ export default async function GuidePage({
           __html: JSON.stringify([
             {
               "@context": "https://schema.org",
+              "@type": "Article",
+              headline: guide.h1,
+              description: guide.metaDescription,
+              author: {
+                "@type": "Organization",
+                name: getSiteConfig().genericName,
+                url: `https://${getSiteConfig().domain}`,
+              },
+              publisher: {
+                "@type": "Organization",
+                name: getSiteConfig().genericName,
+                url: `https://${getSiteConfig().domain}`,
+              },
+              mainEntityOfPage: {
+                "@type": "WebPage",
+                "@id": `https://${getSiteConfig().domain}/guides/${slug}`,
+              },
+              articleSection: guide.sections.map((s) => s.heading),
+              keywords: guide.keywords.join(", "),
+            },
+            {
+              "@context": "https://schema.org",
               "@type": "FAQPage",
               mainEntity: guide.faq.map((item) => ({
                 "@type": "Question",
