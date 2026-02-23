@@ -20,6 +20,10 @@ const totalBusinesses = ALL_PRODUCTS.reduce(
 );
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`https://${site.domain}`),
+  alternates: {
+    canonical: "./",
+  },
   title: {
     default: `${site.genericName} | Compare ${totalBusinesses}+ Companies`,
     template: `%s | ${site.genericName}`,
