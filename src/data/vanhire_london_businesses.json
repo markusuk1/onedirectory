@@ -9,12 +9,17 @@
     "rating": 5,
     "total_reviews": 120,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: 9:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 9:00\u2009\u2013\u200910:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.5714451,
     "lng": -0.0098972,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@1stcityvanhire.co.uk",
+    "emails": [
+      "info@1stcityvanhire.co.uk"
+    ],
+    "description": "Need the best van rental London or Essex? Hire small or automatic vans at great rates with 1st City Van Hire. Reliable, affordable, and easy to book!"
   },
   {
     "name": "Bell a Move Ltd",
@@ -26,12 +31,17 @@
     "rating": 5,
     "total_reviews": 89,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.3889235,
     "lng": -0.1288276,
     "found_in_location": "Croydon",
-    "found_with_query": "van rental Croydon"
+    "found_with_query": "van rental Croydon",
+    "email": "info@bellamove.com",
+    "emails": [
+      "info@bellamove.com"
+    ],
+    "description": "Balham RemovalsBeckenham RemovalsBrixton RemovalsBromley RemovalsCaterham RemovalsChelsea RemovalsClapham RemovalsCroydon RemovalsCrystal Palace RemovalsGreenwich RemovalsKensington RemovalsKingston RemovalsLambeth RemovalsLewisham RemovalsNorbury RemovalsSouth Norwood RemovalsSouthwark..."
   },
   {
     "name": "Pro Tour Vans - London Splitter Van Hire HQ",
@@ -43,12 +53,17 @@
     "rating": 5,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 10:00 PM; Tuesday: 8:00 AM – 10:00 PM; Wednesday: 8:00 AM – 10:00 PM; Thursday: 8:00 AM – 10:00 PM; Friday: 8:00 AM – 10:00 PM; Saturday: 8:00 AM – 9:00 PM; Sunday: 8:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5137283,
     "lng": -0.1415283,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@protourvans.com",
+    "emails": [
+      "info@protourvans.com"
+    ],
+    "description": "Pro Tour Vans offers professional splitter van hire across the UK. Chauffeur-driven luxury Sprinter vans for bands, film crews, events, and corporate travel. Book your premium UK transport today."
   },
   {
     "name": "ELY Car & Van Hire Tottenham Hale",
@@ -60,7 +75,7 @@
     "rating": 5,
     "total_reviews": 78,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.590697,
     "lng": -0.05937869999999999,
@@ -77,12 +92,17 @@
     "rating": 5,
     "total_reviews": 64,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.6817003,
     "lng": -0.0030617,
     "found_in_location": "Enfield",
-    "found_with_query": "van rental Enfield"
+    "found_with_query": "van rental Enfield",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "Riverside Van Hire West London Ltd",
@@ -94,12 +114,13 @@
     "rating": 5,
     "total_reviews": 58,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 6:00 PM; Tuesday: 10:00 AM – 6:00 PM; Wednesday: 10:00 AM – 6:00 PM; Thursday: 10:00 AM – 6:00 PM; Friday: 10:00 AM – 6:00 PM; Saturday: 10:00 AM – 5:00 PM; Sunday: 10:00 – 10:10 AM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u2009\u2013\u200910:10\u202fAM",
     "types": "car_rental, establishment, point_of_interest, store",
     "lat": 51.4502797,
     "lng": -0.4253192,
     "found_in_location": "Central London",
-    "found_with_query": "transit van hire Central London"
+    "found_with_query": "transit van hire Central London",
+    "description": "Feltham Riverside Van Hire - Unlimited mileage - Van Rentals - Ford Van Hire - Mercedes Van Hire - Van Hire in Hounslow - Van Hire near Twickenham"
   },
   {
     "name": "Drive Van Hire",
@@ -111,12 +132,13 @@
     "rating": 5,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.596839,
     "lng": -1.7930207,
     "found_in_location": "Sutton",
-    "found_with_query": "van hire Sutton"
+    "found_with_query": "van hire Sutton",
+    "description": "Affordable van hire in Sutton Coldfield & Birmingham. Choose from a range of clean, reliable vans with flexible hire options. Book online today with Drive Van Hire."
   },
   {
     "name": "W4Y Ltd",
@@ -128,12 +150,13 @@
     "rating": 5,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 11:00 PM; Tuesday: 7:00 AM – 11:00 PM; Wednesday: 7:00 AM – 11:00 PM; Thursday: 7:00 AM – 11:00 PM; Friday: 7:00 AM – 11:00 PM; Saturday: 7:00 AM – 11:00 PM; Sunday: 7:00 AM – 11:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.51801589999999,
     "lng": -0.2653859,
     "found_in_location": "Acton",
-    "found_with_query": "van rental Acton"
+    "found_with_query": "van rental Acton",
+    "description": "Looking for trusted delivery, removal, or handyman services? W4Y Ltd. offers professional, timely, and affordable solutions tailored to your needs."
   },
   {
     "name": "Vital Vehicle Hire",
@@ -145,12 +168,13 @@
     "rating": 5,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:30 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4788722,
     "lng": 0.413476,
     "found_in_location": "Dagenham",
-    "found_with_query": "transit van hire Dagenham"
+    "found_with_query": "transit van hire Dagenham",
+    "description": "Vital Vehicle Hire, van truck and car rental service covering london and essex"
   },
   {
     "name": "London Van Hire",
@@ -162,12 +186,17 @@
     "rating": 5,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5414571,
     "lng": -0.359451,
     "found_in_location": "Hayes",
-    "found_with_query": "cheap van hire Hayes"
+    "found_with_query": "cheap van hire Hayes",
+    "email": "info@londonvanhire.com",
+    "emails": [
+      "info@londonvanhire.com"
+    ],
+    "description": "Your trusted partner for premium van rentals in London \u2713 Diverse Fleet \u2713 Easy Booking \u2713 Exceptional Service."
   },
   {
     "name": "Kamper Hire - Airport meet & greet",
@@ -179,12 +208,17 @@
     "rating": 5,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.47470879999999,
     "lng": -0.3939274,
     "found_in_location": "Heathrow",
-    "found_with_query": "van hire Heathrow"
+    "found_with_query": "van hire Heathrow",
+    "email": "info@kamperhire.co.uk",
+    "emails": [
+      "info@kamperhire.co.uk"
+    ],
+    "description": "If you are travelling to the UK for a Camper Van Holiday we can help you organise a great trip. With Airport transfers and Meet & Greet on offer email today!"
   },
   {
     "name": "1 Man and His Van",
@@ -218,7 +252,12 @@
     "lat": 51.5440613,
     "lng": -0.4783219,
     "found_in_location": "Westminster",
-    "found_with_query": "transit van hire Westminster"
+    "found_with_query": "transit van hire Westminster",
+    "email": "info@protourvans.com",
+    "emails": [
+      "info@protourvans.com"
+    ],
+    "description": "Pro Tour Vans offers professional splitter van hire across the UK. Chauffeur-driven luxury Sprinter vans for bands, film crews, events, and corporate travel. Book your premium UK transport today."
   },
   {
     "name": "Enterprise Logistics Yard",
@@ -230,12 +269,18 @@
     "rating": 5,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6886206,
     "lng": -0.0257385,
     "found_in_location": "Enfield",
-    "found_with_query": "van rental Enfield"
+    "found_with_query": "van rental Enfield",
+    "email": "info@enterpriseyard.co.uk",
+    "emails": [
+      "info@enterpriseyard.co.uk",
+      "your.address@email.com"
+    ],
+    "description": "Facility with best practices24 hours CCTVStrong, Secure and User-friendlyLocated outside the ULEZ"
   },
   {
     "name": "Rent Your Ride ltd",
@@ -247,12 +292,19 @@
     "rating": 5,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6065627,
     "lng": -0.11792,
     "found_in_location": "Muswell Hill",
-    "found_with_query": "van hire Muswell Hill"
+    "found_with_query": "van hire Muswell Hill",
+    "email": "ceo@motors.com",
+    "emails": [
+      "ceo@motors.com",
+      "info@rentalyourride.com",
+      "s.odegard@motors.com"
+    ],
+    "description": "Rent Your Ride- PCO CAR in Palmers Green. We offer pco Cars to rent with very competitive prices and used cars for sale"
   },
   {
     "name": "MAKYS Logistics & Events Ltd",
@@ -264,12 +316,19 @@
     "rating": 5,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:30 AM – 6:30 PM; Tuesday: 6:30 AM – 6:30 PM; Wednesday: 6:30 AM – 6:30 PM; Thursday: 6:30 AM – 6:30 PM; Friday: 6:30 AM – 6:30 PM; Saturday: 6:30 AM – 6:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 6:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.452588,
     "lng": -0.0663028,
     "found_in_location": "Dulwich",
-    "found_with_query": "van hire Dulwich"
+    "found_with_query": "van hire Dulwich",
+    "email": "info@makys.co.uk",
+    "emails": [
+      "info@makys.co.uk",
+      "xyzinfo123@gmail.com",
+      "yourname@company.com"
+    ],
+    "description": "MINIBUS HIRE COMPANY Your Reliable Partner in Group Travel MAKYS Logistics & Events Ltd. is a family\u2011run, fully licensed operator providing 16-passenger"
   },
   {
     "name": "Wapping Car & Van Hire - Short Term, Long Term, Flexible (Book Online)",
@@ -298,12 +357,17 @@
     "rating": 5,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 6:00 PM; Sunday: 8:30 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5278609,
     "lng": -0.2655988,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@gorentalsltd.com",
+    "emails": [
+      "info@gorentalsltd.com"
+    ],
+    "description": "Pick your location where you want the car to arrive. At Go Rentals we have a great range of vehicles you can rent for all your transportion needs."
   },
   {
     "name": "Vans For Bands Ltd - Splitter Van Hire in London",
@@ -315,12 +379,18 @@
     "rating": 5,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 6:00 PM; Tuesday: 10:00 AM – 6:00 PM; Wednesday: 10:00 AM – 6:00 PM; Thursday: 10:00 AM – 6:00 PM; Friday: 10:00 AM – 6:00 PM; Saturday: 10:00 AM – 5:00 PM; Sunday: 10:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.48952449999999,
     "lng": -0.0549836,
     "found_in_location": "Central London",
-    "found_with_query": "van rental Central London"
+    "found_with_query": "van rental Central London",
+    "email": "buses@vansforbands.co.uk",
+    "emails": [
+      "buses@vansforbands.co.uk",
+      "splitters@vansforbands.co.uk"
+    ],
+    "description": "Transporting over10,000artists and live music touring professionals every year"
   },
   {
     "name": "GDL Rental Ltd.",
@@ -332,7 +402,7 @@
     "rating": 5,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 10:00 PM; Tuesday: 7:00 AM – 10:00 PM; Wednesday: 7:00 AM – 10:00 PM; Thursday: 7:00 AM – 10:00 PM; Friday: 7:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5622941,
     "lng": -0.2278166,
@@ -349,12 +419,13 @@
     "rating": 5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 2:00 PM; Sunday: 9:30 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 9:30\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.3836175,
     "lng": 0.108698,
     "found_in_location": "Orpington",
-    "found_with_query": "van hire Orpington"
+    "found_with_query": "van hire Orpington",
+    "description": "Based in Orpington, we provide any type of van for daily, weekly or monthly hire. All our vehicles have full breakdown cover for peace of mind"
   },
   {
     "name": "Valley Rentals",
@@ -366,12 +437,27 @@
     "rating": 5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 5:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5060981,
     "lng": -0.2595013,
     "found_in_location": "Acton",
-    "found_with_query": "van hire Acton"
+    "found_with_query": "van hire Acton",
+    "email": "0fd2930120484402ac9adfb9e05cacd5@o37417.ingest.sentry.io",
+    "emails": [
+      "0fd2930120484402ac9adfb9e05cacd5@o37417.ingest.sentry.io",
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "max@valley.film",
+      "rentals@valley.film"
+    ],
+    "description": "Valley Films offers a comprehensive range of rental equipment for productions and crew members. We pride ourselves on great personal connection, fast and effective communication and great care the equipment."
   },
   {
     "name": "DriveSimple",
@@ -383,12 +469,18 @@
     "rating": 5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, finance, point_of_interest",
     "lat": 51.4685041,
     "lng": -0.2094555,
     "found_in_location": "Camden",
-    "found_with_query": "cheap van hire Camden"
+    "found_with_query": "cheap van hire Camden",
+    "email": "team@drivesimple.co.uk",
+    "emails": [
+      "team@drivesimple.co.uk",
+      "team@wedrivesimple.com"
+    ],
+    "description": "No deposit, low commitment van subscriptions. Lease new and used diesel and electric vans in stock now. Simple online booking, delivery within 7 Days!"
   },
   {
     "name": "Means Hire",
@@ -405,7 +497,12 @@
     "lat": 51.5806191,
     "lng": -0.3483553,
     "found_in_location": "Wembley",
-    "found_with_query": "van hire Wembley"
+    "found_with_query": "van hire Wembley",
+    "email": "hello@meanshire.co.uk",
+    "emails": [
+      "hello@meanshire.co.uk"
+    ],
+    "description": "Flexible van hire, rental, leasing and purchase. Discover models we offer based on your needs - Jetter vans, Transporter Vans, Shuttle Vans & more. Get a quote today."
   },
   {
     "name": "Phantom Auto Club",
@@ -422,7 +519,16 @@
     "lat": 51.5286725,
     "lng": -0.1445028,
     "found_in_location": "Chelsea",
-    "found_with_query": "self drive van hire Chelsea"
+    "found_with_query": "self drive van hire Chelsea",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@phantomautoclub.co.uk"
+    ],
+    "description": "Phantom Auto Club offers luxury chauffeur services in London. Executive cars and professional drivers for business, airport transfers, and special occasions."
   },
   {
     "name": "Heritage Car and Van Hire",
@@ -451,12 +557,17 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.41560339999999,
     "lng": -0.2518678,
     "found_in_location": "Wimbledon",
-    "found_with_query": "cheap van hire Wimbledon"
+    "found_with_query": "cheap van hire Wimbledon",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "Tears Van Hire",
@@ -468,12 +579,13 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.772572,
     "lng": 0.1766654,
     "found_in_location": "Sutton",
-    "found_with_query": "van hire Sutton"
+    "found_with_query": "van hire Sutton",
+    "description": "Value van hire in Lincs, Boston, Holbeach, Kings Lynn, Spalding, Wisbech and Pinchbech. Personal, business and long term Hire/Rental/Leasing"
   },
   {
     "name": "Clovevally Logistics",
@@ -485,7 +597,7 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 9:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5885177,
     "lng": -0.0333529,
@@ -524,7 +636,12 @@
     "lat": 51.4949446,
     "lng": -0.1866944,
     "found_in_location": "Westminster",
-    "found_with_query": "van hire Westminster"
+    "found_with_query": "van hire Westminster",
+    "email": "move@vanhirelondon.co.uk",
+    "emails": [
+      "move@vanhirelondon.co.uk"
+    ],
+    "description": "Van Hire London providing a man and van for removals london with a man with a van also for student moves and business moves and an alternative to self drive hire"
   },
   {
     "name": "Dub Dub and Away",
@@ -536,12 +653,13 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 12:00 PM; Tuesday: 10:00 AM – 12:00 PM; Wednesday: 10:00 AM – 12:00 PM; Thursday: 10:00 AM – 12:00 PM; Friday: 10:00 AM – 12:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4570725,
     "lng": -0.0682781,
     "found_in_location": "Dulwich",
-    "found_with_query": "van hire Dulwich"
+    "found_with_query": "van hire Dulwich",
+    "description": "Classic and modern VW campervan hire in South East London. Perfect for short breaks or VW Camper holidays."
   },
   {
     "name": "South East Van & Man",
@@ -553,7 +671,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 8:00 PM; Tuesday: 8:30 AM – 8:00 PM; Wednesday: 8:30 AM – 8:00 PM; Thursday: 8:30 AM – 8:00 PM; Friday: 8:30 AM – 8:00 PM; Saturday: 8:30 AM – 8:00 PM; Sunday: 8:30 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.4552741,
     "lng": -0.0746807,
@@ -570,7 +688,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 6:00 PM; Tuesday: 10:00 AM – 6:00 PM; Wednesday: 10:00 AM – 6:00 PM; Thursday: 10:00 AM – 6:00 PM; Friday: 10:00 AM – 6:00 PM; Saturday: 10:00 AM – 6:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.41790659999999,
     "lng": -0.1276765,
@@ -587,7 +705,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:30 AM – 9:00 PM; Tuesday: 6:30 AM – 9:00 PM; Wednesday: 6:30 AM – 9:00 PM; Thursday: 6:30 AM – 9:00 PM; Friday: 6:30 AM – 9:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: 8:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.3218987,
     "lng": -0.2037034,
@@ -604,7 +722,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 7:00 PM; Tuesday: 9:00 AM – 7:00 PM; Wednesday: 9:00 AM – 7:00 PM; Thursday: 9:00 AM – 7:00 PM; Friday: 9:00 AM – 7:00 PM; Saturday: 9:00 AM – 7:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4458401,
     "lng": 0.2123038,
@@ -621,12 +739,13 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 12:00 AM; Tuesday: 7:00 AM – 12:00 AM; Wednesday: 7:00 AM – 12:00 AM; Thursday: 7:00 AM – 12:00 AM; Friday: 7:00 AM – 12:00 AM; Saturday: 7:00 AM – 12:00 AM; Sunday: 7:00 AM – 12:00 AM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.5554406,
     "lng": -0.1379327,
     "found_in_location": "Camden",
-    "found_with_query": "transit van hire Camden"
+    "found_with_query": "transit van hire Camden",
+    "description": "Everyone can afford to book our top-quality and attractively priced man and van services in Kentish Town, NW5. Call us before the offer expires."
   },
   {
     "name": "Cheap Van Hire Golders Green",
@@ -638,7 +757,7 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.57964279999999,
     "lng": -0.1983545,
@@ -660,7 +779,13 @@
     "lat": 51.5767959,
     "lng": -0.00283,
     "found_in_location": "Hackney",
-    "found_with_query": "van rental Hackney"
+    "found_with_query": "van rental Hackney",
+    "email": "alinchihaia88@yahoo.com",
+    "emails": [
+      "alinchihaia88@yahoo.com",
+      "sebremoval@yahoo.com"
+    ],
+    "description": "Expert removal services for smooth and hassle-free relocations."
   },
   {
     "name": "Eagles Van Hire - Used Vans Available for Sale",
@@ -672,12 +797,19 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 5:00 PM; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 11:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5586796,
     "lng": 0.0147542,
     "found_in_location": "Stratford",
-    "found_with_query": "van hire Stratford"
+    "found_with_query": "van hire Stratford",
+    "email": "%20contact@eaglesvanhire.co.uk",
+    "emails": [
+      "%20contact@eaglesvanhire.co.uk",
+      "contact@eaglesvanhire.co.uk",
+      "eaglesvanhire@gmail.com"
+    ],
+    "description": "Low-cost van hire/rental in London for moving, transport & deliveries. Wide range of vans available. Book with Eagles Van Hire today"
   },
   {
     "name": "Thurrock Car & Van Rental",
@@ -689,12 +821,17 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:30 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:30\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5685485,
     "lng": 0.1555489,
     "found_in_location": "Romford",
-    "found_with_query": "van hire Romford"
+    "found_with_query": "van hire Romford",
+    "email": "info@scenicgetaway.co.uk",
+    "emails": [
+      "info@scenicgetaway.co.uk"
+    ],
+    "description": "Looking for a reliable van hire in Romford? Get same-day rental options for cars, vans, and minibuses from a high-quality fleet. Call today!"
   },
   {
     "name": "The Yellow Van Company",
@@ -706,12 +843,13 @@
     "rating": 4.9,
     "total_reviews": 3082,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 3:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Sunday: Closed",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.3989075,
     "lng": -0.1790713,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "description": "The Yellow Van Company - London's most trusted removals company with over 8000+ 5 star reviews."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Heathrow Airport",
@@ -723,12 +861,17 @@
     "rating": 4.9,
     "total_reviews": 864,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 5:30 PM; Sunday: 8:00 AM – 5:30 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.4821154,
     "lng": -0.4398518,
     "found_in_location": "Ealing",
-    "found_with_query": "van hire Ealing"
+    "found_with_query": "van hire Ealing",
+    "email": "rental.reservations@arnoldclark.com",
+    "emails": [
+      "rental.reservations@arnoldclark.com"
+    ],
+    "description": "Hassle-free car and van hire in over 30 cities and airports throughout Scotland and England. Check our website for exclusive offers and more services."
   },
   {
     "name": "PBC Corporate - Travel & Transfers",
@@ -745,7 +888,12 @@
     "lat": 51.5708518,
     "lng": 0.1331174,
     "found_in_location": "Dagenham",
-    "found_with_query": "transit van hire Dagenham"
+    "found_with_query": "transit van hire Dagenham",
+    "email": "info@pbccorporate.co.uk",
+    "emails": [
+      "info@pbccorporate.co.uk"
+    ],
+    "description": "Taxi Transfers To & From any part of the United Kingdom. We provide airport transfer service 24 hours, 7 days a week."
   },
   {
     "name": "Bexley Van Hire",
@@ -757,12 +905,13 @@
     "rating": 4.9,
     "total_reviews": 288,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: 8:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 8:00\u2009\u2013\u200910:00\u202fAM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.4454788,
     "lng": 0.1546095,
     "found_in_location": "Lewisham",
-    "found_with_query": "transit van hire Lewisham"
+    "found_with_query": "transit van hire Lewisham",
+    "description": "Free parking available for all customers Call Now to Hire 01322 555 755 We are a van & mini bus hire company with an excellent reputation for providing reliable vehicles at competitive prices. Based in Bexley, South East London, we can provide any type of van or mini bus, for daily, weekly or..."
   },
   {
     "name": "Reward Van Hire",
@@ -774,12 +923,17 @@
     "rating": 4.9,
     "total_reviews": 249,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5492235,
     "lng": -0.1368717,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@rewardvanhire.co.uk",
+    "emails": [
+      "info@rewardvanhire.co.uk"
+    ],
+    "description": "Top self-drive van hire and minibus hire deals in north London. Fast van hire service, quick paperwork. No Hidden Charges. 5 Star Reviews. Book a van now!"
   },
   {
     "name": "Sky Van Hire",
@@ -791,12 +945,13 @@
     "rating": 4.9,
     "total_reviews": 218,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: 8:00 – 9:00 AM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 8:00\u2009\u2013\u20099:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.59778739999999,
     "lng": 0.098692,
     "found_in_location": "City of London",
-    "found_with_query": "self drive van hire City of London"
+    "found_with_query": "self drive van hire City of London",
+    "description": "Cheap and reliable van hire services from \u00a345 per day! Offered throughout the Essex area, including Romford and Ilford. Whether you\u2019re travelling locally or further afield, our reliable van hire service is second to none. Call us today."
   },
   {
     "name": "Bouncy Castles of North London",
@@ -808,12 +963,17 @@
     "rating": 4.9,
     "total_reviews": 188,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 8:00 PM; Tuesday: 9:00 AM – 8:00 PM; Wednesday: 9:00 AM – 8:00 PM; Thursday: 9:00 AM – 8:00 PM; Friday: 9:00 AM – 8:00 PM; Saturday: 9:00 AM – 8:00 PM; Sunday: 9:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.547776,
     "lng": -0.125259,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "email": "hire@bouncycastles.org.uk",
+    "emails": [
+      "hire@bouncycastles.org.uk"
+    ],
+    "description": "Bouncy castle hire in North London seven days a week. We offer inflatable sumo suits, obstacle courses, penalty shootout disco and more throughout North London."
   },
   {
     "name": "Supervan Self Drive",
@@ -825,12 +985,17 @@
     "rating": 4.9,
     "total_reviews": 169,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6920325,
     "lng": 0.2758384,
     "found_in_location": "Wood Green",
-    "found_with_query": "self drive van hire Wood Green"
+    "found_with_query": "self drive van hire Wood Green",
+    "email": "customerservices@supervanltd.co.uk",
+    "emails": [
+      "customerservices@supervanltd.co.uk"
+    ],
+    "description": "\"Faultless! Competitively priced, clean/new vans. Friendly guys. And they have auto vans :)\""
   },
   {
     "name": "Budgeted Man&Van",
@@ -847,7 +1012,14 @@
     "lat": 51.47496539999999,
     "lng": -0.3901733000000001,
     "found_in_location": "Ealing",
-    "found_with_query": "cheap van hire Ealing"
+    "found_with_query": "cheap van hire Ealing",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "budgetedmanandvan@gmail.com"
+    ],
+    "description": "Save your money when you move your items with Budgeted Man&Van. Offering affordable moving plans on home removals, office removals and parcel deliveries."
   },
   {
     "name": "BCC Van Hire",
@@ -859,12 +1031,17 @@
     "rating": 4.9,
     "total_reviews": 124,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 4:00 PM; Tuesday: 7:30 AM – 4:00 PM; Wednesday: 7:30 AM – 4:00 PM; Thursday: 7:30 AM – 4:00 PM; Friday: 7:30 AM – 4:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: 8:30 – 9:00 AM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: 8:30\u2009\u2013\u20099:00\u202fAM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5538159,
     "lng": -0.2519725,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@bcchire.com",
+    "emails": [
+      "info@bcchire.com"
+    ],
+    "description": "BCC Van Hire provide commercial vehicle hire for Wembley, Acton & West London. Prices include insurance & breakdown as standard. Contact us today."
   },
   {
     "name": "KB HIRE LTD",
@@ -881,7 +1058,21 @@
     "lat": 51.51776109999999,
     "lng": -0.0638287,
     "found_in_location": "Canary Wharf",
-    "found_with_query": "van rental Canary Wharf"
+    "found_with_query": "van rental Canary Wharf",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "623783ae73305b01e3b94a4c47cbdfab@o4508980227604480.ingest.de.sentry.io",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "kbhireltd@gmail.com"
+    ]
   },
   {
     "name": "Drivestyle",
@@ -893,12 +1084,13 @@
     "rating": 4.9,
     "total_reviews": 116,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: 10:30 AM – 2:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 10:30\u202fAM\u2009\u2013\u20092:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.87843909999999,
     "lng": -0.5093088,
     "found_in_location": "Luton",
-    "found_with_query": "van hire Luton"
+    "found_with_query": "van hire Luton",
+    "description": "Drivestyle Truck & Van Ltd is a commercial Dealer located in Milton Keynes, Buckinghamshire. Check out our stock online here now"
   },
   {
     "name": "Currie Motors Car & Van Hire Isleworth",
@@ -910,12 +1102,17 @@
     "rating": 4.9,
     "total_reviews": 74,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.4668618,
     "lng": -0.3347862,
     "found_in_location": "Brentford",
-    "found_with_query": "van rental Brentford"
+    "found_with_query": "van rental Brentford",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "Chelseas Rentals",
@@ -927,12 +1124,13 @@
     "rating": 4.9,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "clothing_store, establishment, point_of_interest, store",
     "lat": 51.51463460000001,
     "lng": -0.1821934,
     "found_in_location": "Chelsea",
-    "found_with_query": "cheap van hire Chelsea"
+    "found_with_query": "cheap van hire Chelsea",
+    "description": "Baby and Mobility rentals delivered to London hotels and airbnb rentals. Travel light and have high quality strollers, car seats, wheelchairs waiting for you"
   },
   {
     "name": "Fenton Frost Ltd",
@@ -944,12 +1142,17 @@
     "rating": 4.9,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.270302,
     "lng": -0.2123811,
     "found_in_location": "Sutton",
-    "found_with_query": "van hire Sutton"
+    "found_with_query": "van hire Sutton",
+    "email": "info@fentonfrost.co.uk",
+    "emails": [
+      "info@fentonfrost.co.uk"
+    ],
+    "description": "We provide unsign-written refrigerated vans in Caddy Maxi Short Wheel Base, Medium Wheel Base & Long Wheel Base for refrigerated van hire"
   },
   {
     "name": "Just Drive It Van Hire",
@@ -961,12 +1164,17 @@
     "rating": 4.9,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5065129,
     "lng": -0.4394143,
     "found_in_location": "City of London",
-    "found_with_query": "self drive van hire City of London"
+    "found_with_query": "self drive van hire City of London",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    ],
+    "description": "Opening Hours:\u200b24 HOUR EMERGENCY BREAKDOWN\u200bMONDAY - FRIDAY: 9:00 AM - 5:00 PM"
   },
   {
     "name": "Vans For Bands - Splitter Van Hire at Heathrow",
@@ -978,12 +1186,18 @@
     "rating": 4.9,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 5:30 PM; Tuesday: 9:30 AM – 5:30 PM; Wednesday: 9:30 AM – 5:30 PM; Thursday: 9:30 AM – 5:30 PM; Friday: 9:30 AM – 5:30 PM; Saturday: 10:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4598503,
     "lng": -0.4401933,
     "found_in_location": "Feltham",
-    "found_with_query": "van rental Feltham"
+    "found_with_query": "van rental Feltham",
+    "email": "buses@vansforbands.co.uk",
+    "emails": [
+      "buses@vansforbands.co.uk",
+      "splitters@vansforbands.co.uk"
+    ],
+    "description": "Transporting over10,000artists and live music touring professionals every year"
   },
   {
     "name": "Express Car Service",
@@ -1000,7 +1214,12 @@
     "lat": 51.5664065,
     "lng": -0.1212914,
     "found_in_location": "Islington",
-    "found_with_query": "transit van hire Islington"
+    "found_with_query": "transit van hire Islington",
+    "email": "info@expresscarservice.co.uk",
+    "emails": [
+      "info@expresscarservice.co.uk"
+    ],
+    "description": "London Minicab Service in North London areas 24 hours a day, 7 days a week. We cover to and from all major Airports, Restaurants, Theaters, Stations, Clubs and Bars. Express Car Service Express Car Service -"
   },
   {
     "name": "G&M Direct Hire - PCO car for rent",
@@ -1012,12 +1231,18 @@
     "rating": 4.8,
     "total_reviews": 905,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 5:00 PM; Tuesday: 9:30 AM – 5:00 PM; Wednesday: 9:30 AM – 5:00 PM; Thursday: 9:30 AM – 5:00 PM; Friday: 9:30 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5266598,
     "lng": -0.2730644,
     "found_in_location": "Acton",
-    "found_with_query": "van hire Acton"
+    "found_with_query": "van hire Acton",
+    "email": "info@gmdirecthire.co.uk",
+    "emails": [
+      "info@gmdirecthire.co.uk",
+      "info@gmdirecthire.uk"
+    ],
+    "description": "Electric, Hybrid, and Plugin Hybrid cars for hire in the UK. Choose G&M Direct for PCO car rentals."
   },
   {
     "name": "London Muslim Centre",
@@ -1029,12 +1254,17 @@
     "rating": 4.8,
     "total_reviews": 646,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 10:00 PM; Tuesday: 9:00 AM – 10:00 PM; Wednesday: 9:00 AM – 10:00 PM; Thursday: 9:00 AM – 10:00 PM; Friday: 9:00 AM – 10:00 PM; Saturday: 9:30 AM – 10:00 PM; Sunday: 9:30 AM – 10:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "establishment, mosque, place_of_worship, point_of_interest",
     "lat": 51.51751059999999,
     "lng": -0.0658803,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "email": "info@eastlondonmosque.org.uk",
+    "emails": [
+      "info@eastlondonmosque.org.uk"
+    ],
+    "description": "The East London Mosque & London Muslim Centre is London's oldest Mosque established in 1910."
   },
   {
     "name": "Number One Car & Van Hire",
@@ -1046,12 +1276,17 @@
     "rating": 4.8,
     "total_reviews": 456,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 4:30 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.3785961,
     "lng": -0.1541589,
     "found_in_location": "Central London",
-    "found_with_query": "transit van hire Central London"
+    "found_with_query": "transit van hire Central London",
+    "email": "info@numberonecarhire.co.uk",
+    "emails": [
+      "info@numberonecarhire.co.uk"
+    ],
+    "description": "Car & Van Hire at competitive rates."
   },
   {
     "name": "H&H Self Drive Van Hire",
@@ -1063,12 +1298,17 @@
     "rating": 4.8,
     "total_reviews": 378,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.547508,
     "lng": -0.134922,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "vans@hhvanhire.co.uk",
+    "emails": [
+      "vans@hhvanhire.co.uk"
+    ],
+    "description": "Rent a high-quality van from a reputable local company today. H&H Van Hire have spent over 20 years in the industry delivering impeccable service."
   },
   {
     "name": "Wheels Van Hire",
@@ -1080,12 +1320,18 @@
     "rating": 4.8,
     "total_reviews": 157,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.65270229999999,
     "lng": -0.198127,
     "found_in_location": "Highgate",
-    "found_with_query": "van rental Highgate"
+    "found_with_query": "van rental Highgate",
+    "email": "info@wheelsvanhire.co.uk",
+    "emails": [
+      "info@wheelsvanhire.co.uk",
+      "team@latofonts.com"
+    ],
+    "description": "Van hire in Barnet, North London. Vans, Lutons and Transits. Great value van rentals."
   },
   {
     "name": "Comfort Cars Ltd",
@@ -1102,7 +1348,8 @@
     "lat": 51.554178,
     "lng": 0.0931791,
     "found_in_location": "Ilford",
-    "found_with_query": "van rental Ilford"
+    "found_with_query": "van rental Ilford",
+    "description": "Comfort Cars Ltd - A taxi business in the heart of Essex, offering a range of vehicles to suit your needs, specializes in delivering the highest quality service transportation for all London Airports"
   },
   {
     "name": "Success Van Hire",
@@ -1114,12 +1361,17 @@
     "rating": 4.8,
     "total_reviews": 105,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 9:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5675488,
     "lng": -0.2369702,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@successvanhire.com",
+    "emails": [
+      "info@successvanhire.com"
+    ],
+    "description": "Affordable and reliable van rental in London. Wide selection of vans, competitive prices, and exceptional service."
   },
   {
     "name": "Boleyn Car & Van Hire Ltd",
@@ -1131,12 +1383,17 @@
     "rating": 4.8,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: 8:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 8:00\u2009\u2013\u200910:00\u202fAM",
     "types": "car_rental, establishment, finance, food, point_of_interest",
     "lat": 51.5658559,
     "lng": -0.0359946,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@vanboleyn.com",
+    "emails": [
+      "info@vanboleyn.com"
+    ],
+    "description": "local van hire, van hire Leyton, van hire Hackney, van hire clapton, van hire Stoke newington, van hire stamford hill, van hire Hackney, Hackney Wick. van hire Walthamstow, van hire Waltham forest, van hire stratford, islington, van hire East London, Local van hire, Local Car Hire."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Milton Keynes",
@@ -1148,12 +1405,13 @@
     "rating": 4.8,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.037388,
     "lng": -0.6908426999999999,
     "found_in_location": "Kingston",
-    "found_with_query": "transit van hire Kingston"
+    "found_with_query": "transit van hire Kingston",
+    "description": "Get an instant quote for car and van hire in Milton Keynes with competitive, all-inclusive car hire prices. Book online today for quality, hassle-free rental."
   },
   {
     "name": "Stansted Express Cars",
@@ -1170,7 +1428,12 @@
     "lat": 51.8796693,
     "lng": 0.2490028,
     "found_in_location": "Stansted",
-    "found_with_query": "transit van hire Stansted"
+    "found_with_query": "transit van hire Stansted",
+    "email": "info@stanstedec.co.uk",
+    "emails": [
+      "info@stanstedec.co.uk"
+    ],
+    "description": "We specialise in UK Airport transfers includingHeathrow Airport,Gatwick Airport,Stansted Airport&Luton Airport,Manchester Airport, Liverpool Airport. We also cover other popular destinations including Southampton, Portsmouth, Harwich andDover sea ports."
   },
   {
     "name": "Birley Travel",
@@ -1182,12 +1445,17 @@
     "rating": 4.8,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5051259,
     "lng": -0.0237911,
     "found_in_location": "Canary Wharf",
-    "found_with_query": "transit van hire Canary Wharf"
+    "found_with_query": "transit van hire Canary Wharf",
+    "email": "info@birleytravel.co.uk",
+    "emails": [
+      "info@birleytravel.co.uk"
+    ],
+    "description": "Birley Travel is London's leading executive and luxury coach and minibus operator providing private hire services for groups and corporate services. Covering London and surrounding areas, we provide prestigious travel solutions for groups looking for luxury transportation for all occasions with..."
   },
   {
     "name": "Hunt's Vehicle Servicing & Van Hire",
@@ -1199,12 +1467,17 @@
     "rating": 4.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest",
     "lat": 51.4122221,
     "lng": -0.1860316,
     "found_in_location": "Chelsea",
-    "found_with_query": "luton van hire Chelsea"
+    "found_with_query": "luton van hire Chelsea",
+    "email": "enquiries@huntsmotsandvanhire.co.uk",
+    "emails": [
+      "enquiries@huntsmotsandvanhire.co.uk"
+    ],
+    "description": "Hunts Vehicle Services is a leading provider of MOTs and car services in Wimbledon. For local van hire or garage services, call us today."
   },
   {
     "name": "Home Shifter-Van For Stuff Shifting",
@@ -1238,7 +1511,12 @@
     "lat": 51.5015191,
     "lng": -0.0204088,
     "found_in_location": "Canary Wharf",
-    "found_with_query": "van rental Canary Wharf"
+    "found_with_query": "van rental Canary Wharf",
+    "email": "info@carrotcars.co.uk",
+    "emails": [
+      "info@carrotcars.co.uk"
+    ],
+    "description": "Carrot Cars offers premium London airport transfers. Download the app or call our 24/7 team to book your London airport transfer today."
   },
   {
     "name": "Pace Van Hire New Cross",
@@ -1250,12 +1528,20 @@
     "rating": 4.7,
     "total_reviews": 578,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 8:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "car_repair, establishment, point_of_interest, store",
     "lat": 51.4777168,
     "lng": -0.0529198,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "croydon@pacevanhire.com",
+    "emails": [
+      "croydon@pacevanhire.com",
+      "eltham@pacevanhire.com",
+      "info@pacevanhire.com",
+      "newcross@pacevanhire.com"
+    ],
+    "description": "Reliable and affordable van hire in South London. No deposit, no hidden fees. Choose from a wide range of vans and book online with Pace Van Hire."
   },
   {
     "name": "Fiveways Group Brixton",
@@ -1272,7 +1558,8 @@
     "lat": 51.4706784,
     "lng": -0.1085014,
     "found_in_location": "Brixton",
-    "found_with_query": "van hire Brixton"
+    "found_with_query": "van hire Brixton",
+    "description": "Cheap inicabs Quotes & Book Online Cheap private hire in brixton minicabs, cars, minicab dulwich heathrow airport transfer dulwich minicab to airport camberwell airport minicabs Clapham minicab. Minicabs in brixton, dulwich, camberwell and clapham minicabs"
   },
   {
     "name": "Pace Van Hire",
@@ -1284,12 +1571,20 @@
     "rating": 4.7,
     "total_reviews": 365,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 8:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "car_dealer, car_repair, establishment, point_of_interest, store",
     "lat": 51.3713332,
     "lng": -0.1111284,
     "found_in_location": "Central London",
-    "found_with_query": "self drive van hire Central London"
+    "found_with_query": "self drive van hire Central London",
+    "email": "croydon@pacevanhire.com",
+    "emails": [
+      "croydon@pacevanhire.com",
+      "eltham@pacevanhire.com",
+      "info@pacevanhire.com",
+      "newcross@pacevanhire.com"
+    ],
+    "description": "Find affordable self-drive van hire in Croydon with no hidden fees. Choose from various vans and book online today with Pace Van Hire."
   },
   {
     "name": "Gatwick Car & Van Rental",
@@ -1301,12 +1596,17 @@
     "rating": 4.7,
     "total_reviews": 309,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.1284179,
     "lng": -0.1693877,
     "found_in_location": "Gatwick",
-    "found_with_query": "van hire Gatwick"
+    "found_with_query": "van hire Gatwick",
+    "email": "info@gatwickcarandvanrental.com",
+    "emails": [
+      "info@gatwickcarandvanrental.com"
+    ],
+    "description": "Gatwick Car & Van Rental is the first choice for low cost, same-day booking, van & car hire in Gatwick, Crawley and the surrounding areas."
   },
   {
     "name": "Whitgift Hire Croydon",
@@ -1318,12 +1618,17 @@
     "rating": 4.7,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.37966979999999,
     "lng": -0.09265920000000001,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "email": "hire@whitgifthire.co.uk",
+    "emails": [
+      "hire@whitgifthire.co.uk"
+    ],
+    "description": "Whitgift Hire is a long-established vehicle hire company based in Croydon and Horsham. Our van rental rates include insurance and VAT. We guarantee no upsell or add-ons. We also offer the option to return the vehicle to us outside of normal office hours \u2013 even when we are not open on a Sunday..."
   },
   {
     "name": "Currie Motors Car & Van Hire Twickenham",
@@ -1335,12 +1640,17 @@
     "rating": 4.7,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.454472,
     "lng": -0.3371848,
     "found_in_location": "Richmond",
-    "found_with_query": "van hire Richmond"
+    "found_with_query": "van hire Richmond",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Sydenham",
@@ -1352,12 +1662,13 @@
     "rating": 4.7,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.4263139,
     "lng": -0.0482115,
     "found_in_location": "Croydon",
-    "found_with_query": "van rental Croydon"
+    "found_with_query": "van rental Croydon",
+    "description": "Rent a vehicle in London today from our brand-new Arnold Clark Car & Van Rental branch in Sydenham. Enjoy a wide selection of vehicles to choose from, to suit y"
   },
   {
     "name": "Pro-Van Hire Ltd",
@@ -1369,12 +1680,17 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6223496,
     "lng": -0.1768142,
     "found_in_location": "Westminster",
-    "found_with_query": "transit van hire Westminster"
+    "found_with_query": "transit van hire Westminster",
+    "email": "info@pro-vanhire.co.uk",
+    "emails": [
+      "info@pro-vanhire.co.uk"
+    ],
+    "description": "Pro-Van Hire London delivers to and collects vans from your front door, removing the hassle of travel to collect and return vans. Simply book on-line."
   },
   {
     "name": "IFS Cloud Greenwich Peninsula",
@@ -1403,12 +1719,20 @@
     "rating": 4.6,
     "total_reviews": 967,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 8:30 PM; Tuesday: 10:00 AM – 8:30 PM; Wednesday: 10:00 AM – 8:30 PM; Thursday: 10:00 AM – 8:30 PM; Friday: 9:00 AM – 8:30 PM; Saturday: 9:30 AM – 8:30 PM; Sunday: 9:30 AM – 8:30 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20098:30\u202fPM; Sunday: 9:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5183982,
     "lng": -0.174541,
     "found_in_location": "Chelsea",
-    "found_with_query": "self drive van hire Chelsea"
+    "found_with_query": "self drive van hire Chelsea",
+    "email": "ahoy@goboat.co.uk",
+    "emails": [
+      "ahoy@goboat.co.uk",
+      "marketing@goboat.co.uk",
+      "u003eahoy@goboat.co.uk",
+      "u003emarketing@goboat.co.uk"
+    ],
+    "description": "Explore London's canals with friends and family. Be your own captain and enjoy the city from the water. Accommodates 8 people."
   },
   {
     "name": "GoBoat Canary Wharf",
@@ -1420,12 +1744,20 @@
     "rating": 4.6,
     "total_reviews": 261,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 12:00 – 8:30 PM; Tuesday: Closed; Wednesday: 12:00 – 8:30 PM; Thursday: 12:00 – 8:30 PM; Friday: 12:00 – 8:30 PM; Saturday: 12:00 – 8:30 PM; Sunday: 12:00 – 8:30 PM",
+    "opening_hours": "Monday: 12:00\u2009\u2013\u20098:30\u202fPM; Tuesday: Closed; Wednesday: 12:00\u2009\u2013\u20098:30\u202fPM; Thursday: 12:00\u2009\u2013\u20098:30\u202fPM; Friday: 12:00\u2009\u2013\u20098:30\u202fPM; Saturday: 12:00\u2009\u2013\u20098:30\u202fPM; Sunday: 12:00\u2009\u2013\u20098:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5034432,
     "lng": -0.0144058,
     "found_in_location": "Canary Wharf",
-    "found_with_query": "cheap van hire Canary Wharf"
+    "found_with_query": "cheap van hire Canary Wharf",
+    "email": "ahoy@goboat.co.uk",
+    "emails": [
+      "ahoy@goboat.co.uk",
+      "marketing@goboat.co.uk",
+      "u003eahoy@goboat.co.uk",
+      "u003emarketing@goboat.co.uk"
+    ],
+    "description": "Explore The Docklands by boat. Be your own captain and enjoy the city from the water. Accommodates 8 people."
   },
   {
     "name": "S & J Self Drive Hire",
@@ -1437,12 +1769,21 @@
     "rating": 4.6,
     "total_reviews": 205,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: 9:00 – 9:30 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: 9:00\u2009\u2013\u20099:30\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.5158306,
     "lng": 0.3060318,
     "found_in_location": "Dagenham",
-    "found_with_query": "self drive van hire Dagenham"
+    "found_with_query": "self drive van hire Dagenham",
+    "email": "dean@sjgroup.biz",
+    "emails": [
+      "dean@sjgroup.biz",
+      "garry@sjgroup.biz",
+      "info@sandjselfdrive.co.uk",
+      "info@sjgroup.biz",
+      "scott@sjgroup.biz"
+    ],
+    "description": "Van and vehicle hire in Essex, Ockendon, Romford and Basildon."
   },
   {
     "name": "Big Sky Studios",
@@ -1459,7 +1800,12 @@
     "lat": 51.5445889,
     "lng": -0.1229236,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "email": "production@bigskylondon.com",
+    "emails": [
+      "production@bigskylondon.com"
+    ],
+    "description": "Central London\u2019s largest full-service photographic & production studios"
   },
   {
     "name": "1st City Van Hire",
@@ -1471,12 +1817,17 @@
     "rating": 4.6,
     "total_reviews": 148,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: 9:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 9:00\u2009\u2013\u200910:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.5926497,
     "lng": 0.0362423,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@1stcityvanhire.co.uk",
+    "emails": [
+      "info@1stcityvanhire.co.uk"
+    ],
+    "description": "Need the best van rental London or Essex? Hire small or automatic vans at great rates with 1st City Van Hire. Reliable, affordable, and easy to book!"
   },
   {
     "name": "Smart Car & Van Rental - Orpington Van Hire",
@@ -1488,12 +1839,13 @@
     "rating": 4.6,
     "total_reviews": 90,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest, real_estate_agency, travel_agency",
     "lat": 51.3836175,
     "lng": 0.108698,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "description": "Based in Orpington, we can provide any type of car or van, for daily, weekly or monthly hire. All our vehicles have full breakdown cover for peace of mind. European cover is also available.We are open 7 days a week (Sundays 09.30- 13.00), so please pop in to see our range of vehicles and discuss..."
   },
   {
     "name": "CTM Hire Ltd",
@@ -1505,12 +1857,17 @@
     "rating": 4.6,
     "total_reviews": 67,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: 8:00 – 9:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: 8:00\u2009\u2013\u20099:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.5229983,
     "lng": 0.1799051,
     "found_in_location": "Westminster",
-    "found_with_query": "transit van hire Westminster"
+    "found_with_query": "transit van hire Westminster",
+    "email": "info@ctmvanrentals.co.uk",
+    "emails": [
+      "info@ctmvanrentals.co.uk"
+    ],
+    "description": "We are your local truck and van hire Essex specialists. To hire a truck or van today, contact us on 01708 522 334."
   },
   {
     "name": "Fast Van Hire",
@@ -1522,12 +1879,17 @@
     "rating": 4.6,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6639884,
     "lng": 0.3247786,
     "found_in_location": "Romford",
-    "found_with_query": "luton van hire Romford"
+    "found_with_query": "luton van hire Romford",
+    "email": "info@fastvanhire.co.uk",
+    "emails": [
+      "info@fastvanhire.co.uk"
+    ],
+    "description": "If you need a van hire in Brentwood, we have you covered. Speak with our reliable Brentwood team to ensure you get the right van for the job."
   },
   {
     "name": "One World Rental - Global IT Rental",
@@ -1544,7 +1906,24 @@
     "lat": 51.5948278,
     "lng": 0.0365234,
     "found_in_location": "Woodford",
-    "found_with_query": "van rental Woodford"
+    "found_with_query": "van rental Woodford",
+    "email": "asia@oneworldrental.com",
+    "emails": [
+      "asia@oneworldrental.com",
+      "australia@oneworldrental.co.uk",
+      "canada@oneworldrental.com",
+      "dubai@oneworldrental.com",
+      "europe@oneworldrental.com",
+      "hire@oneworldrental.com",
+      "melbourne@oneworldrental.com",
+      "sales.uae@oneworldrental.com",
+      "sales@oneworldrental.com",
+      "scotland@oneworldrental.com",
+      "singapore@oneworldrental.com",
+      "sydney@oneworldrental.com",
+      "usa@oneworldrental.com"
+    ],
+    "description": "Discover IT hire & event technology rental solutions at One World Rental. Flexible options tailored to your event\u2019s success. Contact us today."
   },
   {
     "name": "Currie Motors Car & Van Hire Barnet",
@@ -1556,12 +1935,17 @@
     "rating": 4.6,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.6307148,
     "lng": -0.1745689,
     "found_in_location": "Highgate",
-    "found_with_query": "van rental Highgate"
+    "found_with_query": "van rental Highgate",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "BluHire",
@@ -1573,7 +1957,7 @@
     "rating": 4.6,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.460214,
     "lng": -0.2135625,
@@ -1595,7 +1979,8 @@
     "lat": 51.53068649999999,
     "lng": -0.1233551,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "description": "King\u2019s Cross Station is a major London railway terminus, built in 1851. The station has now been extensively restored."
   },
   {
     "name": "Jafvans Car & Van Rental",
@@ -1607,12 +1992,20 @@
     "rating": 4.5,
     "total_reviews": 241,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 7:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5602618,
     "lng": -0.3589105,
     "found_in_location": "Westminster",
-    "found_with_query": "transit van hire Westminster"
+    "found_with_query": "transit van hire Westminster",
+    "email": "claims@jafvans.co.uk",
+    "emails": [
+      "claims@jafvans.co.uk",
+      "harrow@jafvans.co.uk",
+      "pinner@jafvans.co.uk",
+      "ruislip@jafvans.co.uk"
+    ],
+    "description": "Family run car & van rental company serving the West London area since 1959! Offers a wide range of cars and vans for self-drive hire at very reasonable prices."
   },
   {
     "name": "VANS Store London Camden",
@@ -1624,7 +2017,7 @@
     "rating": 4.5,
     "total_reviews": 180,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 6:00 PM; Tuesday: 10:00 AM – 6:00 PM; Wednesday: 10:00 AM – 6:00 PM; Thursday: 10:00 AM – 6:00 PM; Friday: 10:00 AM – 6:00 PM; Saturday: 10:00 AM – 6:00 PM; Sunday: 12:00 – 6:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 12:00\u2009\u2013\u20096:00\u202fPM",
     "types": "clothing_store, establishment, point_of_interest, store",
     "lat": 51.5391834,
     "lng": -0.1431853,
@@ -1641,12 +2034,13 @@
     "rating": 4.5,
     "total_reviews": 179,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 3:00 PM; Tuesday: 8:00 AM – 3:00 PM; Wednesday: 8:00 AM – 3:00 PM; Thursday: 8:00 AM – 3:00 PM; Friday: 8:00 AM – 3:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.494667,
     "lng": -0.2661248,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "description": "Car & Van Hire from our home in Chiswick, London. ZOOCars is your best option when it comes to vehicle hire. We specialise in a number of areas including refrigerated van hire, long term van hire and car hire."
   },
   {
     "name": "Kendall Cars - New Malden",
@@ -1658,12 +2052,17 @@
     "rating": 4.5,
     "total_reviews": 133,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.399938,
     "lng": -0.26392,
     "found_in_location": "Wimbledon",
-    "found_with_query": "self drive van hire Wimbledon"
+    "found_with_query": "self drive van hire Wimbledon",
+    "email": "info@kendallcars.com",
+    "emails": [
+      "info@kendallcars.com"
+    ],
+    "description": "Low cost quality Car Hire, Van and Minibus Rental for London, South East England, Heathrow Airport and Gatwick Airport."
   },
   {
     "name": "Edmonton Van Hire",
@@ -1675,12 +2074,18 @@
     "rating": 4.5,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6512092,
     "lng": -0.0719519,
     "found_in_location": "City of London",
-    "found_with_query": "self drive van hire City of London"
+    "found_with_query": "self drive van hire City of London",
+    "email": "info@edmontonvanhire.co.uk",
+    "emails": [
+      "info@edmontonvanhire.co.uk",
+      "info@vanhireenfield.co.uk"
+    ],
+    "description": "We make van hire in Enfield, quick, easy, and affordable. With a responsive team and a range of vans to choose from, you can get the vehicle you need in no time."
   },
   {
     "name": "CVS Van Hire",
@@ -1692,12 +2097,17 @@
     "rating": 4.5,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest, store",
     "lat": 51.6433421,
     "lng": -0.0597628,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "email": "info@cvsvanhire.co.uk",
+    "emails": [
+      "info@cvsvanhire.co.uk"
+    ],
+    "description": "If you\u2019ve been looking for a van hire company in London, you\u2019ve found the solution. We offer excellent van hire with brilliant benefits, at fair prices."
   },
   {
     "name": "Vaaroom Romford Depot",
@@ -1709,12 +2119,17 @@
     "rating": 4.5,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.61831280000001,
     "lng": 0.2153325,
     "found_in_location": "Romford",
-    "found_with_query": "van hire Romford"
+    "found_with_query": "van hire Romford",
+    "email": "customerservice@vaaroom.com",
+    "emails": [
+      "customerservice@vaaroom.com"
+    ],
+    "description": "Trustpilot Need help or looking to make a last-minute booking? Email our team, and we\u2019ll be happy to assist you."
   },
   {
     "name": "Apex Car & Van Rental",
@@ -1726,7 +2141,7 @@
     "rating": 4.5,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.621144,
     "lng": -0.2540456,
@@ -1743,7 +2158,7 @@
     "rating": 4.5,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.620867,
     "lng": -0.2551984,
@@ -1765,7 +2180,12 @@
     "lat": 51.4824408,
     "lng": -0.4836594,
     "found_in_location": "Heathrow",
-    "found_with_query": "van rental Heathrow"
+    "found_with_query": "van rental Heathrow",
+    "email": "bookings@londonheathrowcars.com",
+    "emails": [
+      "bookings@londonheathrowcars.com"
+    ],
+    "description": "Reliable Heathrow taxi service with fixed prices. Book stress-free Heathrow Airport transfers to and from London and across the UK."
   },
   {
     "name": "Nilco Ltd",
@@ -1777,12 +2197,13 @@
     "rating": 4.4,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.60572570000001,
     "lng": 0.0510858,
     "found_in_location": "Woodford",
-    "found_with_query": "van rental Woodford"
+    "found_with_query": "van rental Woodford",
+    "description": "Shop quality tools, hardware, and building supplies at Andytools. Trusted brands including IKO, Frelan, Makita, Bosch, and Velux."
   },
   {
     "name": "Southgate Car & Van Rental",
@@ -1794,12 +2215,18 @@
     "rating": 4.4,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6470029,
     "lng": -0.13438,
     "found_in_location": "Highgate",
-    "found_with_query": "van hire Highgate"
+    "found_with_query": "van hire Highgate",
+    "email": "chaseville@hotmail.co.uk",
+    "emails": [
+      "chaseville@hotmail.co.uk",
+      "hire@southgaterentals.co.uk"
+    ],
+    "description": "Southgate Car and Van Rentals |020 8882 1500| 89 Bramley Road, Oakwood N14 4EY"
   },
   {
     "name": "UK Car and Van Rental",
@@ -1811,12 +2238,17 @@
     "rating": 4.4,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.4823122,
     "lng": -0.4837668,
     "found_in_location": "Hayes",
-    "found_with_query": "van hire Hayes"
+    "found_with_query": "van hire Hayes",
+    "email": "info@ukcvr.com",
+    "emails": [
+      "info@ukcvr.com"
+    ],
+    "description": "Heading to London Heathrow Airport (LHR) soon? At Heathrow Car & Van Rental, we offer reliable car hire, van hire, and minibus hire."
   },
   {
     "name": "Lightdale Trading Ltd T/A Motovans",
@@ -1828,12 +2260,17 @@
     "rating": 4.3,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 6:30 PM; Tuesday: 9:30 AM – 6:30 PM; Wednesday: 9:30 AM – 6:30 PM; Thursday: 9:30 AM – 6:30 PM; Friday: 9:30 AM – 6:30 PM; Saturday: 9:30 AM – 6:30 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5838748,
     "lng": -0.341056,
     "found_in_location": "Harrow",
-    "found_with_query": "transit van hire Harrow"
+    "found_with_query": "transit van hire Harrow",
+    "email": "sales@motovans.co.uk",
+    "emails": [
+      "sales@motovans.co.uk"
+    ],
+    "description": "Buy a quality used vans from Motovans Visit our showroom based in London, Middlesex where you will find a great choice of used vans or give one of our knowledgeable staff a call today"
   },
   {
     "name": "Popular Van Hire",
@@ -1845,12 +2282,18 @@
     "rating": 4.3,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.40258,
     "lng": -0.05388540000000001,
     "found_in_location": "Westminster",
-    "found_with_query": "transit van hire Westminster"
+    "found_with_query": "transit van hire Westminster",
+    "email": "carservice@mail.com",
+    "emails": [
+      "carservice@mail.com",
+      "info@popularhire.co.uk"
+    ],
+    "description": "Based in Beckenham, Kent, we provide cost effective car and van rental to private and trade customers."
   },
   {
     "name": "Red Hire it - Orpington",
@@ -1862,12 +2305,17 @@
     "rating": 4.3,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.374757,
     "lng": 0.082649,
     "found_in_location": "Orpington",
-    "found_with_query": "self drive van hire Orpington"
+    "found_with_query": "self drive van hire Orpington",
+    "email": "redhireshop@gmail.com",
+    "emails": [
+      "redhireshop@gmail.com"
+    ],
+    "description": "With over 10 years of experience, RED Hire offers reliable tool and machinery rentals, plus a variety of essential supplies for your projects. Whether it's a large job or DIY, our expert team is here to assist. Now expanding online, we bring the same great service to your fingertips. Visit us today!"
   },
   {
     "name": "AHL CAR & VAN HIRE",
@@ -1879,7 +2327,7 @@
     "rating": 4.3,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5610556,
     "lng": 0.2919826,
@@ -1896,7 +2344,7 @@
     "rating": 4.2,
     "total_reviews": 5998,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 4:45 AM – 10:00 PM; Tuesday: 4:45 AM – 10:00 PM; Wednesday: 4:45 AM – 10:00 PM; Thursday: 4:45 AM – 10:00 PM; Friday: 4:45 AM – 10:00 PM; Saturday: 4:45 AM – 1:00 PM; Sunday: 10:30 AM – 10:00 PM",
+    "opening_hours": "Monday: 4:45\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 4:45\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 4:45\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 4:45\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 4:45\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 4:45\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "airport, establishment, point_of_interest",
     "lat": 51.5051411,
     "lng": 0.05206189999999999,
@@ -1913,12 +2361,13 @@
     "rating": 4.2,
     "total_reviews": 1374,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 4:00 – 8:00 PM; Tuesday: 4:00 – 8:00 PM; Wednesday: 4:00 – 8:00 PM; Thursday: 4:00 – 8:00 PM; Friday: 10:00 AM – 8:00 PM; Saturday: 10:00 AM – 8:00 PM; Sunday: 10:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 4:00\u2009\u2013\u20098:00\u202fPM; Tuesday: 4:00\u2009\u2013\u20098:00\u202fPM; Wednesday: 4:00\u2009\u2013\u20098:00\u202fPM; Thursday: 4:00\u2009\u2013\u20098:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.50515069999999,
     "lng": -0.0212579,
     "found_in_location": "Canary Wharf",
-    "found_with_query": "transit van hire Canary Wharf"
+    "found_with_query": "transit van hire Canary Wharf",
+    "description": "Flip Out Canary Wharf is the ultimate indoor play area and birthday party venue for all ages. Epic fun!"
   },
   {
     "name": "Stratford International",
@@ -1935,7 +2384,8 @@
     "lat": 51.54488809999999,
     "lng": -0.0087438,
     "found_in_location": "Stratford",
-    "found_with_query": "van rental Stratford"
+    "found_with_query": "van rental Stratford",
+    "description": "Check National Rail live trains real time status and departure boards for all train stations. Get train times, station and platform details before departure."
   },
   {
     "name": "Manor House",
@@ -1952,7 +2402,8 @@
     "lat": 51.57088599999999,
     "lng": -0.0960443,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "description": "Live arrivals for Manor House Underground Station stop."
   },
   {
     "name": "Caledonian Road",
@@ -1969,7 +2420,8 @@
     "lat": 51.54855149999999,
     "lng": -0.1182525,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "description": "Live arrivals for Caledonian Road Underground Station stop."
   },
   {
     "name": "Go Rentals Van Hire",
@@ -1981,12 +2433,17 @@
     "rating": 4.1,
     "total_reviews": 255,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 1:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5278609,
     "lng": -0.2655988,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@gorentalsltd.com",
+    "emails": [
+      "info@gorentalsltd.com"
+    ],
+    "description": "Go Rentals Van Rental Agency offer all type of Van Rental Services in UK or One way to Europe. Hire us for reasonable rates"
   },
   {
     "name": "Heathrow Trade Sales Ltd",
@@ -1998,7 +2455,7 @@
     "rating": 4.1,
     "total_reviews": 108,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:30 PM; Tuesday: 9:00 AM – 6:30 PM; Wednesday: 9:00 AM – 6:30 PM; Thursday: 9:00 AM – 6:30 PM; Friday: 9:00 AM – 6:30 PM; Saturday: 9:00 AM – 6:30 PM; Sunday: 10:00 AM – 4:30 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.4462595,
     "lng": -0.4590859999999999,
@@ -2020,7 +2477,13 @@
     "lat": 51.6642646,
     "lng": -0.0287921,
     "found_in_location": "Enfield",
-    "found_with_query": "van hire Enfield"
+    "found_with_query": "van hire Enfield",
+    "email": "dpo@fraikin.com",
+    "emails": [
+      "dpo@fraikin.com",
+      "u0022service.communication@fraikin.com"
+    ],
+    "description": "European leader in Vehicle Hire for professionals. On-board telematics, fleet maintenance and servicing with Fraikin."
   },
   {
     "name": "Esso",
@@ -2037,10 +2500,11 @@
     "lat": 51.5454212,
     "lng": -0.1331789,
     "found_in_location": "Camden",
-    "found_with_query": "cheap van hire Camden"
+    "found_with_query": "cheap van hire Camden",
+    "description": "{brand} gas station in {addr1}, {city}, {state}. {amenities}{available}Find the nearest gas station on ExxonMobil official website."
   },
   {
-    "name": "Sam’s Van Hire",
+    "name": "Sam\u2019s Van Hire",
     "address": "car park, 12 Savoy Parade, Enfield EN1 1RT, UK",
     "phone": "020 8366 9555",
     "international_phone": "+44 20 8366 9555",
@@ -2049,12 +2513,18 @@
     "rating": 4,
     "total_reviews": 405,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 6:00 PM; Sunday: 8:30 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6510826,
     "lng": -0.07193419999999999,
     "found_in_location": "City of London",
-    "found_with_query": "self drive van hire City of London"
+    "found_with_query": "self drive van hire City of London",
+    "email": "info@edmontonvanhire.co.uk",
+    "emails": [
+      "info@edmontonvanhire.co.uk",
+      "info@vanhireenfield.co.uk"
+    ],
+    "description": "We make van hire in Enfield, quick, easy, and affordable. With a responsive team and a range of vans to choose from, you can get the vehicle you need in no time."
   },
   {
     "name": "Saxons Car and Van Rental",
@@ -2066,12 +2536,17 @@
     "rating": 4,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 12:00 PM; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.3959826,
     "lng": 0.0376606,
     "found_in_location": "Bromley",
-    "found_with_query": "van hire Bromley"
+    "found_with_query": "van hire Bromley",
+    "email": "bromley@saxonsselfdrive.co.uk",
+    "emails": [
+      "bromley@saxonsselfdrive.co.uk"
+    ],
+    "description": "Bromley location provide and extensive range of cars and vans for hire."
   },
   {
     "name": "Battersea van hire",
@@ -2083,7 +2558,7 @@
     "rating": 4,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 8:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.47443029999999,
     "lng": -0.1462919,
@@ -2105,7 +2580,24 @@
     "lat": 51.4727229,
     "lng": -0.0988231,
     "found_in_location": "Brixton",
-    "found_with_query": "van hire Brixton"
+    "found_with_query": "van hire Brixton",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "dessertclub@fivestarcaterers.co.uk",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "n@puma.uk"
+    ],
+    "description": "The home of award-winning clotted cream soft serve. At Dessert Ice Cream Club, we serve up rich, velvety soft serve made from Cornish clotted cream, topped your way. From sweet classics to over-the-top creations, it\u2019s all about desserts done right. Pop in for a treat that tastes as good as it looks"
   },
   {
     "name": "Car And Van Rental Anerley",
@@ -2117,7 +2609,7 @@
     "rating": 4,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4112607,
     "lng": -0.06558699999999999,
@@ -2139,7 +2631,12 @@
     "lat": 51.4477536,
     "lng": -0.0701495,
     "found_in_location": "Dulwich",
-    "found_with_query": "van hire Dulwich"
+    "found_with_query": "van hire Dulwich",
+    "email": "support@zipcar.com",
+    "emails": [
+      "support@zipcar.com"
+    ],
+    "description": "Zipcar is the world\u2019s leading car sharing alternative to car rental & ownership. Book cars on demand by the hour or day. Join instantly, drive in minutes."
   },
   {
     "name": "Zipcar Gatwick Drop off/Pick up",
@@ -2156,7 +2653,12 @@
     "lat": 51.1596932,
     "lng": -0.1733811,
     "found_in_location": "Gatwick",
-    "found_with_query": "self drive van hire Gatwick"
+    "found_with_query": "self drive van hire Gatwick",
+    "email": "support@zipcar.com",
+    "emails": [
+      "support@zipcar.com"
+    ],
+    "description": "Zipcar is the world\u2019s leading car sharing alternative to car rental & ownership. Book cars on demand by the hour or day. Join instantly, drive in minutes."
   },
   {
     "name": "Rykel Van Hire Ltd",
@@ -2168,7 +2670,7 @@
     "rating": 3.9,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4958605,
     "lng": 0.2339972,
@@ -2185,12 +2687,13 @@
     "rating": 3.9,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 50.8126245,
     "lng": -1.0844747,
     "found_in_location": "Kingston",
-    "found_with_query": "transit van hire Kingston"
+    "found_with_query": "transit van hire Kingston",
+    "description": "At Southern Van Hire we provide a wide range of vans for rental in Southampton, Portsmouth & surrounding areas, all of our vehicles are competitively priced."
   },
   {
     "name": "Heathrow Van Centre",
@@ -2202,12 +2705,20 @@
     "rating": 3.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.467548,
     "lng": -0.425214,
     "found_in_location": "Heathrow",
-    "found_with_query": "van hire Heathrow"
+    "found_with_query": "van hire Heathrow",
+    "email": "parts@heathrowvancentre.com",
+    "emails": [
+      "parts@heathrowvancentre.com",
+      "sales@heathrowvancentre.com",
+      "service@heathrowvancentre.com",
+      "user@domain.com"
+    ],
+    "description": "Serving Heathrow, West London, Reading & Oxford with quality Renault Trucks & MAXUS commercial vehicles, parts and repairs for over 40 years."
   },
   {
     "name": "Zipcar",
@@ -2224,7 +2735,12 @@
     "lat": 51.5382161,
     "lng": -0.1810051,
     "found_in_location": "Hampstead",
-    "found_with_query": "self drive van hire Hampstead"
+    "found_with_query": "self drive van hire Hampstead",
+    "email": "support@zipcar.com",
+    "emails": [
+      "support@zipcar.com"
+    ],
+    "description": "Zipcar is the world\u2019s leading car sharing alternative to car rental & ownership. Book cars on demand by the hour or day. Join instantly, drive in minutes."
   },
   {
     "name": "Cvs Van Sales",
@@ -2236,12 +2752,17 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.605503,
     "lng": -0.071968,
     "found_in_location": "Camden",
-    "found_with_query": "cheap van hire Camden"
+    "found_with_query": "cheap van hire Camden",
+    "email": "info@cvsvanhire.co.uk",
+    "emails": [
+      "info@cvsvanhire.co.uk"
+    ],
+    "description": "If you\u2019ve been looking for a van hire company in London, you\u2019ve found the solution. We offer excellent van hire with brilliant benefits, at fair prices."
   },
   {
     "name": "Currie Motors Car & Van Hire Brentford / Chiswick",
@@ -2253,12 +2774,17 @@
     "rating": 3.6,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.49050099999999,
     "lng": -0.308769,
     "found_in_location": "Ealing",
-    "found_with_query": "van hire Ealing"
+    "found_with_query": "van hire Ealing",
+    "email": "carhire@curriemotors.co.uk",
+    "emails": [
+      "carhire@curriemotors.co.uk"
+    ],
+    "description": "Affordable car & van hire across London, Essex & Hertfordshire. Flexible short and long-term rentals with competitive rates. Book online or call 01992 667681."
   },
   {
     "name": "JJD Vans",
@@ -2270,12 +2796,18 @@
     "rating": 3.5,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 11:00 PM; Tuesday: 6:00 AM – 11:00 PM; Wednesday: 6:00 AM – 11:00 PM; Thursday: 6:00 AM – 11:00 PM; Friday: 6:00 AM – 11:00 PM; Saturday: 8:00 AM – 11:00 PM; Sunday: 10:00 AM – 11:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5272357,
     "lng": -0.08866049999999999,
     "found_in_location": "City of London",
-    "found_with_query": "van hire City of London"
+    "found_with_query": "van hire City of London",
+    "email": "help@jjdvan.com",
+    "emails": [
+      "help@jjdvan.com",
+      "help@jjdvans.com"
+    ],
+    "description": "JJD is easiest and cheapest way to book a man and van in the UK. At your doorstep within 1 hour. Booking is available 24/7"
   },
   {
     "name": "Nationwide Hire UK",
@@ -2287,12 +2819,17 @@
     "rating": 3.3,
     "total_reviews": 1045,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5216834,
     "lng": -0.1436794,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "info@nationwidehireuk.co.uk",
+    "emails": [
+      "info@nationwidehireuk.co.uk"
+    ],
+    "description": "Free car hire delivery and collection nationwide. We deliver our hire vehicles direct to you at any UK mainland destination when you need it and collect it from a different location as required."
   },
   {
     "name": "CitiRental - Car and Van Hire - Regency Parade",
@@ -2304,12 +2841,17 @@
     "rating": 3.3,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5424613,
     "lng": -0.1741082,
     "found_in_location": "Central London",
-    "found_with_query": "transit van hire Central London"
+    "found_with_query": "transit van hire Central London",
+    "email": "info@citirental.co.uk",
+    "emails": [
+      "info@citirental.co.uk"
+    ],
+    "description": "CitiRental provides affordable, stress-free Car Rental & Van Rental Services from our convenient location in Hampstead, North London."
   },
   {
     "name": "Expedia Group - Angel Building",
@@ -2343,7 +2885,13 @@
     "lat": 51.3695811,
     "lng": -0.0999231,
     "found_in_location": "Croydon",
-    "found_with_query": "van rental Croydon"
+    "found_with_query": "van rental Croydon",
+    "email": "email@domain.com",
+    "emails": [
+      "email@domain.com",
+      "royalcarscroydon@gmail.com"
+    ],
+    "description": "Looking for a reliable and affordable taxi service in Croydon? Book now and experience a smooth and comfortable ride with our trusted service."
   },
   {
     "name": "Van Users",
@@ -2355,7 +2903,7 @@
     "rating": 3,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6051965,
     "lng": -0.0540437,
@@ -2372,7 +2920,7 @@
     "rating": 3,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 5:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: Closed",
     "types": "car_dealer, establishment, point_of_interest, store",
     "lat": 51.43177910000001,
     "lng": -0.0594434,
@@ -2406,12 +2954,17 @@
     "rating": 3,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5111557,
     "lng": -0.3897833,
     "found_in_location": "Feltham",
-    "found_with_query": "cheap van hire Feltham"
+    "found_with_query": "cheap van hire Feltham",
+    "email": "contact@southernvanhire.co.uk",
+    "emails": [
+      "contact@southernvanhire.co.uk"
+    ],
+    "description": "We provide a wide range of vans for rental in Southall, Greater London. Our vehicles are well maintained, affordable and delivered to you for free."
   },
   {
     "name": "Van Hire Kings Cross and Islington",
@@ -2423,7 +2976,7 @@
     "rating": 3,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5476636,
     "lng": -0.1181918,
@@ -2445,7 +2998,12 @@
     "lat": 51.4815116,
     "lng": -0.4612321,
     "found_in_location": "Hayes",
-    "found_with_query": "cheap van hire Hayes"
+    "found_with_query": "cheap van hire Hayes",
+    "email": "support@zipcar.com",
+    "emails": [
+      "support@zipcar.com"
+    ],
+    "description": "Zipcar is the world\u2019s leading car sharing alternative to car rental & ownership. Book cars on demand by the hour or day. Join instantly, drive in minutes."
   },
   {
     "name": "Icanhire",
@@ -2474,12 +3032,13 @@
     "rating": 1.8,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 12:30 AM; Tuesday: 6:00 AM – 12:30 AM; Wednesday: 6:00 AM – 12:30 AM; Thursday: 6:00 AM – 12:30 AM; Friday: 6:00 AM – 12:30 AM; Saturday: 6:00 AM – 12:30 AM; Sunday: 6:00 AM – 12:30 AM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Wednesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Thursday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Friday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Saturday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM; Sunday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fAM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.8757288,
     "lng": 0.2467508,
     "found_in_location": "Stansted",
-    "found_with_query": "van hire Stansted"
+    "found_with_query": "van hire Stansted",
+    "description": "Car Hire with Easirent UK - the low cost car rental company. Book direct online for our lowest prices! Official Easirent website."
   },
   {
     "name": "Moving Van Hire Leytonstone",
@@ -2508,7 +3067,7 @@
     "rating": 1,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4727616,
     "lng": -0.1215693,
@@ -2530,7 +3089,13 @@
     "lat": 51.6140172,
     "lng": -0.2486621,
     "found_in_location": "Hampstead",
-    "found_with_query": "van rental Hampstead"
+    "found_with_query": "van rental Hampstead",
+    "email": "contact@etalon-theme.com",
+    "emails": [
+      "contact@etalon-theme.com",
+      "etalon@keydesign-themes.com"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
   {
     "name": "Hourly Van Hire Coulsdon",
@@ -2547,7 +3112,12 @@
     "lat": 51.3207739,
     "lng": -0.1385725,
     "found_in_location": "Croydon",
-    "found_with_query": "van rental Croydon"
+    "found_with_query": "van rental Croydon",
+    "email": "info@hourlyvanhire.com",
+    "emails": [
+      "info@hourlyvanhire.com"
+    ],
+    "description": "Car rental is one of our specialties. Save big with our pre-negotiated rates, advanced booking discounts, and low overage fees. Get everything you need to go far at a price that won\u2019t break your trip. Whether you are looking for an economy, luxury or minivans, we have it all. One-day car rentals..."
   },
   {
     "name": "Car & Van Hire Mitcham",
@@ -2576,12 +3146,13 @@
     "rating": 1,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4451838,
     "lng": -0.004335299999999999,
     "found_in_location": "Greenwich",
-    "found_with_query": "cheap van hire Greenwich"
+    "found_with_query": "cheap van hire Greenwich",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "Cheap Van Hire Banstead",
@@ -2661,12 +3232,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.524238,
     "lng": -0.1066112,
     "found_in_location": "Central London",
-    "found_with_query": "van hire Central London"
+    "found_with_query": "van hire Central London",
+    "email": "res@van-hire.london",
+    "emails": [
+      "res@van-hire.london"
+    ],
+    "description": "View ourVans here.For Reservations call our hire desk on 020 8432 0766."
   },
   {
     "name": "Cheap Van Hire Paddington",
@@ -2695,7 +3271,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 9:00 PM; Tuesday: 9:00 AM – 9:00 PM; Wednesday: 9:00 AM – 9:00 PM; Thursday: 9:00 AM – 9:00 PM; Friday: 9:00 AM – 9:00 PM; Saturday: 9:00 AM – 9:30 PM; Sunday: 9:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20099:30\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5305905,
     "lng": -0.08006869999999999,
@@ -2717,7 +3293,12 @@
     "lat": 51.4926577,
     "lng": -0.0987011,
     "found_in_location": "Central London",
-    "found_with_query": "self drive van hire Central London"
+    "found_with_query": "self drive van hire Central London",
+    "email": "info@driverandvanhire.com",
+    "emails": [
+      "info@driverandvanhire.com"
+    ],
+    "description": "Enter your email address to get latestupdates and offers from us."
   },
   {
     "name": "Luton Van Hire",
@@ -2746,12 +3327,20 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 5:00 PM; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 10:00 AM – 3:00 PM; Sunday: 10:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "car_dealer, establishment, point_of_interest, store",
     "lat": 51.3682174,
     "lng": -0.1156793,
     "found_in_location": "Central London",
-    "found_with_query": "luton van hire Central London"
+    "found_with_query": "luton van hire Central London",
+    "email": "croydon@pacevanhire.com",
+    "emails": [
+      "croydon@pacevanhire.com",
+      "eltham@pacevanhire.com",
+      "info@pacevanhire.com",
+      "newcross@pacevanhire.com"
+    ],
+    "description": "Need cheap and convenient van hire in London or Croydon? Pace Van Hire has you covered. Hiring from us is quick and easy, just like it should be."
   },
   {
     "name": "Car & Van Hire West Brompton",
@@ -2768,7 +3357,8 @@
     "lat": 51.4830942,
     "lng": -0.1819645,
     "found_in_location": "Westminster",
-    "found_with_query": "van rental Westminster"
+    "found_with_query": "van rental Westminster",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "City Airport Car and Van Rental",
@@ -2780,12 +3370,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 6:00 PM; Tuesday: 7:00 AM – 6:00 PM; Wednesday: 7:00 AM – 6:00 PM; Thursday: 7:00 AM – 6:00 PM; Friday: 7:00 AM – 6:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5366834,
     "lng": 0.07017659999999999,
     "found_in_location": "City of London",
-    "found_with_query": "van rental City of London"
+    "found_with_query": "van rental City of London",
+    "email": "info@ukcvr.com",
+    "emails": [
+      "info@ukcvr.com"
+    ],
+    "description": "London City Airport Car & Van Rental specialise in providing reliable car hire services at London City Airport (LCY). Book your rental car today!"
   },
   {
     "name": "Self Drive Van Hire Rotherhithe",
@@ -2814,12 +3409,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5104236,
     "lng": 0.0258569,
     "found_in_location": "City of London",
-    "found_with_query": "luton van hire City of London"
+    "found_with_query": "luton van hire City of London",
+    "email": "info@hourlyvanhire.com",
+    "emails": [
+      "info@hourlyvanhire.com"
+    ],
+    "description": "Car rental is one of our specialties. Save big with our pre-negotiated rates, advanced booking discounts, and low overage fees. Get everything you need to go far at a price that won\u2019t break your trip. Whether you are looking for an economy, luxury or minivans, we have it all. One-day car rentals..."
   },
   {
     "name": "Self Drive Van Hire Wandsworth Town",
@@ -2831,12 +3431,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.459046,
     "lng": -0.1903503,
     "found_in_location": "City of London",
-    "found_with_query": "luton van hire City of London"
+    "found_with_query": "luton van hire City of London",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "Van Hire Near Bermondsey",
@@ -2853,7 +3454,13 @@
     "lat": 51.50450679999999,
     "lng": -0.09019819999999999,
     "found_in_location": "City of London",
-    "found_with_query": "cheap van hire City of London"
+    "found_with_query": "cheap van hire City of London",
+    "email": "contact@etalon-theme.com",
+    "emails": [
+      "contact@etalon-theme.com",
+      "info@vanhirenear.me"
+    ],
+    "description": "Check out Rent A Car Tips for all the necessary information needed to make sure your rentals go as smoothly as possible!"
   },
   {
     "name": "Moving Van Hire Battersea",
@@ -2865,12 +3472,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4630458,
     "lng": -0.1679599,
     "found_in_location": "Chelsea",
-    "found_with_query": "cheap van hire Chelsea"
+    "found_with_query": "cheap van hire Chelsea",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "Hiyacar",
@@ -2887,7 +3495,12 @@
     "lat": 51.5277107,
     "lng": -0.1085571,
     "found_in_location": "Islington",
-    "found_with_query": "van rental Islington"
+    "found_with_query": "van rental Islington",
+    "email": "legal@intercom.io",
+    "emails": [
+      "legal@intercom.io"
+    ],
+    "description": "Discover safe, quality peer-to-peer car rental. Rent a fully insured car from trusted neighbours or list your vehicle to make extra money. Sign up now!"
   },
   {
     "name": "Cheap Van Hire Kilburn",
@@ -2899,7 +3512,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5409948,
     "lng": -0.1966534,
@@ -2916,12 +3529,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 12:00 AM; Tuesday: 7:00 AM – 12:00 AM; Wednesday: 7:00 AM – 12:00 AM; Thursday: 7:00 AM – 12:00 AM; Friday: 7:00 AM – 12:00 AM; Saturday: 7:00 AM – 12:00 AM; Sunday: 7:00 AM – 12:00 AM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.5601236,
     "lng": -0.1204367,
     "found_in_location": "Highgate",
-    "found_with_query": "van hire Highgate"
+    "found_with_query": "van hire Highgate",
+    "description": "The list of the professional relocation services we deliver in Tufnell Park, N7 is endless. Feel free to contact and hire us."
   },
   {
     "name": "Frostie Hire",
@@ -2950,7 +3564,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5841524,
     "lng": -0.07543709999999999,
@@ -2972,7 +3586,12 @@
     "lat": 51.5955811,
     "lng": -0.1106183,
     "found_in_location": "Wood Green",
-    "found_with_query": "self drive van hire Wood Green"
+    "found_with_query": "self drive van hire Wood Green",
+    "email": "info@manandvan-woodgreen.co.uk",
+    "emails": [
+      "info@manandvan-woodgreen.co.uk"
+    ],
+    "description": "Trusted movers in Wood Green offering reliable and affordable man and van services. Book now for a hassle-free move starting at just \u00a355 per hour."
   },
   {
     "name": "ST Vans",
@@ -3018,12 +3637,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 12:00 AM; Tuesday: 7:00 AM – 12:00 AM; Wednesday: 7:00 AM – 12:00 AM; Thursday: 7:00 AM – 12:00 AM; Friday: 7:00 AM – 12:00 AM; Saturday: 7:00 AM – 12:00 AM; Sunday: 7:00 AM – 12:00 AM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.4624387,
     "lng": -0.1133793,
     "found_in_location": "Brixton",
-    "found_with_query": "van hire Brixton"
+    "found_with_query": "van hire Brixton",
+    "description": "We offer professional man with van moving services across Stockwell, SW8 that will turn the moving day into a happy occasion! Call us and book now!"
   },
   {
     "name": "indigo fleet van hire",
@@ -3086,12 +3706,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.3977863,
     "lng": -0.1027669,
     "found_in_location": "Croydon",
-    "found_with_query": "van hire Croydon"
+    "found_with_query": "van hire Croydon",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "Van Hire - No Deposit",
@@ -3142,7 +3763,8 @@
     "lat": 51.4670707,
     "lng": 0.0099969,
     "found_in_location": "Greenwich",
-    "found_with_query": "cheap van hire Greenwich"
+    "found_with_query": "cheap van hire Greenwich",
+    "description": "Sorry for the inconvenience but we\u2019re performing some maintenance at the moment. we\u2019ll be back online shortly!."
   },
   {
     "name": "Car & Van Hire Brockley",
@@ -3171,7 +3793,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: 9:00 AM – 4:30 PM; Sunday: 9:00 AM – 4:30 PM",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4593977,
     "lng": -0.0682753,
@@ -3193,7 +3815,12 @@
     "lat": 51.4331514,
     "lng": -0.09448619999999999,
     "found_in_location": "Dulwich",
-    "found_with_query": "van hire Dulwich"
+    "found_with_query": "van hire Dulwich",
+    "email": "mail@popuppiaggio.com",
+    "emails": [
+      "mail@popuppiaggio.com"
+    ],
+    "description": "Our range of vintage Piaggio vans are all beautifully restored and ready for you to hire for your event.You can choose from our amazing range of ready to go vans which include:POPUP PUB\u2605POPUP INFORMATION VAN\u2605POPUP KITCHEN\u2605POPUP COFFEE VAN\u2605POPUP SMOOTHIE BAR\u2605POPUP SHOP\u2605POPUP PROSECCO/CRAFT BEER VAN"
   },
   {
     "name": "Advance Car & Van Hire",
@@ -3227,7 +3854,12 @@
     "lat": 51.466261,
     "lng": -0.053913,
     "found_in_location": "Dulwich",
-    "found_with_query": "cheap van hire Dulwich"
+    "found_with_query": "cheap van hire Dulwich",
+    "email": "support@zipcar.com",
+    "emails": [
+      "support@zipcar.com"
+    ],
+    "description": "Zipcar is the world\u2019s leading car sharing alternative to car rental & ownership. Book cars on demand by the hour or day. Join instantly, drive in minutes."
   },
   {
     "name": "Refrigerated Van Hire",
@@ -3244,7 +3876,13 @@
     "lat": 51.4602107,
     "lng": -0.2135701,
     "found_in_location": "Putney",
-    "found_with_query": "van hire Putney"
+    "found_with_query": "van hire Putney",
+    "email": "bookings@refrigerated-van-hire.co.uk",
+    "emails": [
+      "bookings@refrigerated-van-hire.co.uk",
+      "hire@refrigerated-van-hire.co.uk"
+    ],
+    "description": "Temperature ranges are from +5 to -18 for frozen goods, such as ice cream or pharmaceuticals."
   },
   {
     "name": "Van Hire Near Barnes",
@@ -3261,7 +3899,13 @@
     "lat": 51.4747275,
     "lng": -0.2410817,
     "found_in_location": "Putney",
-    "found_with_query": "van rental Putney"
+    "found_with_query": "van rental Putney",
+    "email": "contact@etalon-theme.com",
+    "emails": [
+      "contact@etalon-theme.com",
+      "info@vanhirenear.me"
+    ],
+    "description": "Check out Rent A Car Tips for all the necessary information needed to make sure your rentals go as smoothly as possible!"
   },
   {
     "name": "Man Van Hire",
@@ -3290,7 +3934,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:30 PM; Tuesday: 8:30 AM – 6:30 PM; Wednesday: 8:30 AM – 6:30 PM; Thursday: 8:30 AM – 6:30 PM; Friday: 8:30 AM – 6:30 PM; Saturday: 8:30 AM – 6:30 PM; Sunday: 8:30 AM – 6:30 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.3571524,
     "lng": -0.1727455,
@@ -3380,7 +4024,8 @@
     "lat": 51.5342862,
     "lng": -0.0594609,
     "found_in_location": "Hackney",
-    "found_with_query": "van hire Hackney"
+    "found_with_query": "van hire Hackney",
+    "description": "Hackney\u2019s, E5 local movers will speed up your moving process and make it breezy and hassle-free! Call our experts today for a free quote!"
   },
   {
     "name": "SLONE RENTALS",
@@ -3392,12 +4037,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5927873,
     "lng": -0.0421103,
     "found_in_location": "Hackney",
-    "found_with_query": "van rental Hackney"
+    "found_with_query": "van rental Hackney",
+    "email": "accounts@slonerentals.com",
+    "emails": [
+      "accounts@slonerentals.com"
+    ],
+    "description": "Move smarter with Slone Rentals. Affordable self-drive van hire London, modern vans and easy booking. Your local choice for van hire near Blackhorse Lane."
   },
   {
     "name": "Vans 24/7",
@@ -3528,12 +4178,18 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5138078,
     "lng": -0.3369807,
     "found_in_location": "Ealing",
-    "found_with_query": "van hire Ealing"
+    "found_with_query": "van hire Ealing",
+    "email": "contact@etalon-theme.com",
+    "emails": [
+      "contact@etalon-theme.com",
+      "info@vanhirenear.me"
+    ],
+    "description": "Check out Rent A Car Tips for all the necessary information needed to make sure your rentals go as smoothly as possible!"
   },
   {
     "name": "Car & Van Hire Richmond",
@@ -3545,7 +4201,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4728675,
     "lng": -0.286597,
@@ -3567,7 +4223,12 @@
     "lat": 51.5233388,
     "lng": -0.2797399,
     "found_in_location": "Ealing",
-    "found_with_query": "van rental Ealing"
+    "found_with_query": "van rental Ealing",
+    "email": "info@daily-rental.co.uk",
+    "emails": [
+      "info@daily-rental.co.uk"
+    ],
+    "description": "Combining flexibility, quality, and sustainability to deliver a superior rental experience We cater to individuals, small businesses, and large enterprises with a variety of van sizes and customizable rental options. With our commitment to innovation and customer satisfaction, we make..."
   },
   {
     "name": "Van Hire Southall",
@@ -3601,7 +4262,12 @@
     "lat": 51.4794618,
     "lng": -0.3626513,
     "found_in_location": "Ealing",
-    "found_with_query": "van rental Ealing"
+    "found_with_query": "van rental Ealing",
+    "email": "info@hourlyvanhire.com",
+    "emails": [
+      "info@hourlyvanhire.com"
+    ],
+    "description": "Car rental is one of our specialties. Save big with our pre-negotiated rates, advanced booking discounts, and low overage fees. Get everything you need to go far at a price that won\u2019t break your trip. Whether you are looking for an economy, luxury or minivans, we have it all. One-day car rentals..."
   },
   {
     "name": "Late Hire in London",
@@ -3630,7 +4296,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 9:00 PM; Tuesday: 8:00 AM – 9:00 PM; Wednesday: 8:00 AM – 9:00 PM; Thursday: 8:00 AM – 9:00 PM; Friday: 8:00 AM – 9:00 PM; Saturday: 8:00 AM – 9:00 PM; Sunday: 8:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.3679879,
     "lng": -0.4455635,
@@ -3669,7 +4335,12 @@
     "lat": 51.556447,
     "lng": -0.316716,
     "found_in_location": "Wembley",
-    "found_with_query": "van hire Wembley"
+    "found_with_query": "van hire Wembley",
+    "email": "info@hourlyvanhire.com",
+    "emails": [
+      "info@hourlyvanhire.com"
+    ],
+    "description": "Car rental is one of our specialties. Save big with our pre-negotiated rates, advanced booking discounts, and low overage fees. Get everything you need to go far at a price that won\u2019t break your trip. Whether you are looking for an economy, luxury or minivans, we have it all. One-day car rentals..."
   },
   {
     "name": "Stansted Car and Van Rental",
@@ -3681,11 +4352,16 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 8:00 AM – 10:00 PM; Sunday: 8:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.8796903,
     "lng": 0.2489049,
     "found_in_location": "Stansted",
-    "found_with_query": "van hire Stansted"
+    "found_with_query": "van hire Stansted",
+    "email": "info@ukcvr.com",
+    "emails": [
+      "info@ukcvr.com"
+    ],
+    "description": "Stansted Car & Van Rental's vehicle rental services are available throughout London Stansted Airport (STN). Get in touch to find out more."
   }
 ]

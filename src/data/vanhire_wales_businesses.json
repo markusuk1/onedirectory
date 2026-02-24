@@ -9,12 +9,18 @@
     "rating": 5,
     "total_reviews": 179,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 51.5254307,
     "lng": -3.2318688,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "dpo@adobe.com",
+    "emails": [
+      "dpo@adobe.com",
+      "simonfrangos@hotmail.co.uk"
+    ],
+    "description": "Our friendly man and van Cardiff team, ensure your goods are transported safely and securely; managing the whole process from start to finish."
   },
   {
     "name": "Williams a Williams",
@@ -26,16 +32,17 @@
     "rating": 5,
     "total_reviews": 134,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:00 PM; Tuesday: 7:30 AM – 5:00 PM; Wednesday: 7:30 AM – 5:00 PM; Thursday: 7:30 AM – 5:00 PM; Friday: 7:30 AM – 5:00 PM; Saturday: 7:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 7:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.9372787,
     "lng": -4.377202,
     "found_in_location": "Pwllheli",
-    "found_with_query": "self drive van hire Pwllheli"
+    "found_with_query": "self drive van hire Pwllheli",
+    "description": "Williams a Williams offer professional waste management and aggregate services including bins, waste bags, skips, sweepers and drain jetting."
   },
   {
     "name": "Pentre Van Sales",
-    "address": "12 Penrhyn Ave, Rhôs-on-Sea, Rhos on Sea, Colwyn Bay LL28 4RE, UK",
+    "address": "12 Penrhyn Ave, Rh\u00f4s-on-Sea, Rhos on Sea, Colwyn Bay LL28 4RE, UK",
     "phone": "01492 338249",
     "international_phone": "+44 1492 338249",
     "website": "http://www.pentrevansales.co.uk/",
@@ -43,7 +50,7 @@
     "rating": 5,
     "total_reviews": 113,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:30 PM; Tuesday: 9:00 AM – 4:30 PM; Wednesday: 9:00 AM – 4:30 PM; Thursday: 9:00 AM – 4:30 PM; Friday: 9:00 AM – 4:30 PM; Saturday: 9:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 53.3106269,
     "lng": -3.7415235,
@@ -60,7 +67,7 @@
     "rating": 5,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Closed; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 10:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: Closed; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "bicycle_store, establishment, point_of_interest, store",
     "lat": 52.9291609,
     "lng": -4.1336634,
@@ -82,7 +89,13 @@
     "lat": 53.2959008,
     "lng": -3.730956699999999,
     "found_in_location": "Colwyn Bay",
-    "found_with_query": "self drive van hire Colwyn Bay"
+    "found_with_query": "self drive van hire Colwyn Bay",
+    "email": "info@jollyhire.co.uk",
+    "emails": [
+      "info@jollyhire.co.uk",
+      "user@domain.com"
+    ],
+    "description": "Diggers, dumpers & tools hired for reasonable prices, delivered & collected for free within 12 miles of Conwy."
   },
   {
     "name": "Tabby's Travel",
@@ -111,12 +124,13 @@
     "rating": 5,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5330619,
     "lng": -3.2646794,
     "found_in_location": "Newtown",
-    "found_with_query": "self drive van hire Newtown"
+    "found_with_query": "self drive van hire Newtown",
+    "description": "We offer the widest range of plant and tool hire in Mid Wales and are happy to provide delivery and collection services for all our machinery and equipment. We are constantly updating our machines to provide you with the services you require."
   },
   {
     "name": "Why Knott Hire",
@@ -128,12 +142,17 @@
     "rating": 5,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5180503,
     "lng": -3.5588501,
     "found_in_location": "Bridgend",
-    "found_with_query": "van rental Bridgend"
+    "found_with_query": "van rental Bridgend",
+    "email": "info@whyknotthire.co.uk",
+    "emails": [
+      "info@whyknotthire.co.uk"
+    ],
+    "description": "WhyKnott Hire is a premium luxury motorhome hire company based in South Wales, catering to families, friends, and their pets who are looking to embark on exciting adventures."
   },
   {
     "name": "One Way Van Hire",
@@ -145,12 +164,13 @@
     "rating": 5,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.530449,
     "lng": -3.684949,
     "found_in_location": "Bridgend",
-    "found_with_query": "van hire Bridgend"
+    "found_with_query": "van hire Bridgend",
+    "description": "Hiring a van in one country and leaving it in another is still almost impossible if not in most cases impossible."
   },
   {
     "name": "D L Jones (Wales) Ltd",
@@ -162,12 +182,17 @@
     "rating": 5,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.7023712,
     "lng": -3.3241982,
     "found_in_location": "Welshpool",
-    "found_with_query": "transit van hire Welshpool"
+    "found_with_query": "transit van hire Welshpool",
+    "email": "enquiries@dljoneswalesltd.co.uk",
+    "emails": [
+      "enquiries@dljoneswalesltd.co.uk"
+    ],
+    "description": "Mid Wales Luxury Travel & Minibus Hire"
   },
   {
     "name": "Wheelism",
@@ -179,12 +204,13 @@
     "rating": 5,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.64449399999999,
     "lng": -3.9555094,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van rental Dolgellau"
+    "found_with_query": "van rental Dolgellau",
+    "description": "MTB Skills Courses with Wheelism will have you riding faster, smoother, and safer in no time. We cater to all abilities whether you're a beginner or experienced rider."
   },
   {
     "name": "T1 Conversions",
@@ -196,12 +222,29 @@
     "rating": 5,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4976529,
     "lng": -3.5320929,
     "found_in_location": "Bridgend",
-    "found_with_query": "van rental Bridgend"
+    "found_with_query": "van rental Bridgend",
+    "email": "0fd2930120484402ac9adfb9e05cacd5@o37417.ingest.sentry.io",
+    "emails": [
+      "0fd2930120484402ac9adfb9e05cacd5@o37417.ingest.sentry.io",
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@t1conversions.com"
+    ],
+    "description": "What started as Mike Kennedy\u2019s love for campervans back in 2008 has grown into one of South Wales\u2019 most trusted conversion specialists. At our Bridgend workshop, we build bespoke vans designed to last \u2014 shaped by real feedback from travellers, families, and weekend explorers alike."
   },
   {
     "name": "Vw Vacays",
@@ -213,12 +256,17 @@
     "rating": 5,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6406061,
     "lng": -3.9521499,
     "found_in_location": "Swansea",
-    "found_with_query": "van hire Swansea"
+    "found_with_query": "van hire Swansea",
+    "email": "vw_vacays@vwvacays.com",
+    "emails": [
+      "vw_vacays@vwvacays.com"
+    ],
+    "description": "Luxury on wheels. Fully loaded, ready to roll, and built for adventure. No fuss, just freedom - THE OPEN ROAD STARTS HERE"
   },
   {
     "name": "Penrhyn Hire Ltd",
@@ -230,12 +278,13 @@
     "rating": 5,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.8895044,
     "lng": -4.4045649,
     "found_in_location": "Pwllheli",
-    "found_with_query": "self drive van hire Pwllheli"
+    "found_with_query": "self drive van hire Pwllheli",
+    "description": "Penrhyn Tool Hire is an independent company trading from Penrhyndeudraeth and Pwllheli in Gwynedd, North Wales, covering the Porthmadog, Criccieth, Dolgellau, Barmouth, Ffestiniog, Bala, Penrhyndeudraeth, Pwllheli, Harlech and surrounding areas. We offer an extensive range of hire equipment..."
   },
   {
     "name": "Hilltop Classics",
@@ -247,12 +296,17 @@
     "rating": 5,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 9:00 PM; Tuesday: 9:00 AM – 9:00 PM; Wednesday: 9:00 AM – 9:00 PM; Thursday: 9:00 AM – 9:00 PM; Friday: 9:00 AM – 9:00 PM; Saturday: 9:00 AM – 9:00 PM; Sunday: 9:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0663841,
     "lng": -3.1071701,
     "found_in_location": "Corwen",
-    "found_with_query": "van rental Corwen"
+    "found_with_query": "van rental Corwen",
+    "email": "info@hilltopclassics.co.uk",
+    "emails": [
+      "info@hilltopclassics.co.uk"
+    ],
+    "description": "Hilltop Classics provide classic vehicles, including vintage split screen VW campers, chauffeur driven for Weddings across Cheshire, North Wales and The Wirral"
   },
   {
     "name": "A M C Wales",
@@ -286,7 +340,8 @@
     "lat": 52.82298369999999,
     "lng": -4.0676233,
     "found_in_location": "Porthmadog",
-    "found_with_query": "van rental Porthmadog"
+    "found_with_query": "van rental Porthmadog",
+    "description": "Hire a fully-equipped motorhome from Nantcol Waterfalls, Snowdonia. Flexible, scenic getaways for couples & families with insurance included."
   },
   {
     "name": "ABR STAGE CREW LTD / B2 EVENT CREW LTD",
@@ -315,12 +370,17 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 53.058374,
     "lng": -3.078736,
     "found_in_location": "Corwen",
-    "found_with_query": "van rental Corwen"
+    "found_with_query": "van rental Corwen",
+    "email": "enquiries@jordansvans.co.uk",
+    "emails": [
+      "enquiries@jordansvans.co.uk"
+    ],
+    "description": "From the A483 Wrexham By-Pass take junction 4 along the A525 Ruthin Road."
   },
   {
     "name": "Epic Vans",
@@ -332,7 +392,7 @@
     "rating": 5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:30 PM; Tuesday: 9:00 AM – 4:30 PM; Wednesday: 9:00 AM – 4:30 PM; Thursday: 9:00 AM – 4:30 PM; Friday: 9:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4014687,
     "lng": -4.0443374,
@@ -349,7 +409,7 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:30 PM; Tuesday: 7:00 AM – 5:30 PM; Wednesday: 7:00 AM – 5:30 PM; Thursday: 7:00 AM – 5:30 PM; Friday: 7:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5889125,
     "lng": -2.7358356,
@@ -366,7 +426,7 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6488039,
     "lng": -3.2841548,
@@ -383,12 +443,13 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.3138918,
     "lng": -3.4999559,
     "found_in_location": "Rhyl",
-    "found_with_query": "van hire Rhyl"
+    "found_with_query": "van hire Rhyl",
+    "description": "If you have any questions or need assistance with your hire, feel free to contact us directly. We\u2019re happy to help!"
   },
   {
     "name": "Pontypridd Van Hire",
@@ -400,12 +461,18 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.573974,
     "lng": -3.2967609,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "info@pontypriddvanhire.co.uk",
+    "emails": [
+      "info@pontypriddvanhire.co.uk",
+      "info@pontypriddvanhire.com"
+    ],
+    "description": "Get reliable van hire in Pontypridd with our clean, well-maintained fleet. Enjoy flexible service & transparent pricing. Book today!"
   },
   {
     "name": "Zebra Vehicle Solutions",
@@ -417,12 +484,17 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4925058,
     "lng": -3.5508069,
     "found_in_location": "Bridgend",
-    "found_with_query": "van rental Bridgend"
+    "found_with_query": "van rental Bridgend",
+    "email": "info@zebravehicles.co.uk",
+    "emails": [
+      "info@zebravehicles.co.uk"
+    ],
+    "description": "Nationwide Suppliers of Vans and Cars - Zebra Vehicle Solutions"
   },
   {
     "name": "Fleet-Smart Van Hire",
@@ -434,12 +506,17 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 10:00 PM; Tuesday: 7:00 AM – 10:00 PM; Wednesday: 7:00 AM – 10:00 PM; Thursday: 7:00 AM – 10:00 PM; Friday: 7:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.2907161,
     "lng": -3.7642752,
     "found_in_location": "Wrexham",
-    "found_with_query": "self drive van hire Wrexham"
+    "found_with_query": "self drive van hire Wrexham",
+    "email": "info@fleetsmartvanhire.co.uk",
+    "emails": [
+      "info@fleetsmartvanhire.co.uk"
+    ],
+    "description": "Van Hire, discover top-quality vans for an unbeatable driving experience. We also supply cars and wagons too!"
   },
   {
     "name": "Beics Brenin",
@@ -451,12 +528,18 @@
     "rating": 4.9,
     "total_reviews": 564,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.82436089999999,
     "lng": -3.8962085,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "email": "mail@beicsbrenin.co.uk",
+    "emails": [
+      "mail@beicsbrenin.co.uk",
+      "mail@summitcycles.co.uk"
+    ],
+    "description": "Beics Brenin, Cycle Shop and Bike Hire Coed Y Brenin"
   },
   {
     "name": "Miles Hire Ltd",
@@ -468,12 +551,17 @@
     "rating": 4.9,
     "total_reviews": 310,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:00 PM; Tuesday: 7:30 AM – 5:00 PM; Wednesday: 7:30 AM – 5:00 PM; Thursday: 7:30 AM – 5:00 PM; Friday: 7:30 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.62942779999999,
     "lng": -3.9395674,
     "found_in_location": "Swansea",
-    "found_with_query": "van rental Swansea"
+    "found_with_query": "van rental Swansea",
+    "email": "sales@mileshire.co.uk",
+    "emails": [
+      "sales@mileshire.co.uk"
+    ],
+    "description": "Miles Hire offers tool hire and plant hire services throughout Swansea. Order online or call our award-winning Welsh team."
   },
   {
     "name": "Musicbox Studios Ltd",
@@ -485,12 +573,17 @@
     "rating": 4.9,
     "total_reviews": 209,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 12:00 AM; Tuesday: 10:00 AM – 12:00 AM; Wednesday: 10:00 AM – 12:00 AM; Thursday: 10:00 AM – 12:00 AM; Friday: 10:00 AM – 12:00 AM; Saturday: 10:00 AM – 10:00 PM; Sunday: 10:00 AM – 10:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.4598671,
     "lng": -3.198505,
     "found_in_location": "Cardiff",
-    "found_with_query": "van rental Cardiff"
+    "found_with_query": "van rental Cardiff",
+    "email": "musicboxstudios@gmail.com",
+    "emails": [
+      "musicboxstudios@gmail.com"
+    ],
+    "description": "6 air conditioned spaces, great equipment available to hire, backline hire for your event, a pro shop, snack shop, storage facility, band vehicle hire, party PA hire, we are the only place worth coming to. Our prices are competitive with great special offers to choose from."
   },
   {
     "name": "Wern Ddu Quarry",
@@ -502,12 +595,16 @@
     "rating": 4.9,
     "total_reviews": 180,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Closed; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: 9:30 AM – 3:45 PM; Sunday: 10:00 AM – 3:45 PM",
+    "opening_hours": "Monday: Closed; Tuesday: Closed; Wednesday: Closed; Thursday: Closed; Friday: Closed; Saturday: 9:30\u202fAM\u2009\u2013\u20093:45\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20093:45\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0234228,
     "lng": -3.3910862,
     "found_in_location": "Corwen",
-    "found_with_query": "van hire Corwen"
+    "found_with_query": "van hire Corwen",
+    "email": "contact@werndduquarry.co.uk",
+    "emails": [
+      "contact@werndduquarry.co.uk"
+    ]
   },
   {
     "name": "Newport Vehicle Hire",
@@ -519,12 +616,17 @@
     "rating": 4.9,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5750748,
     "lng": -2.9839415,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "info@newportvehiclehire.co.uk",
+    "emails": [
+      "info@newportvehiclehire.co.uk"
+    ],
+    "description": "Reliable van and vehicle hire in Newport. Choose from vans, pickups, and minibuses for short or long-term rental. Book online or call today."
   },
   {
     "name": "Vale Car and Van Rental",
@@ -536,7 +638,7 @@
     "rating": 4.9,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.6413887,
     "lng": -3.9848765,
@@ -553,7 +655,7 @@
     "rating": 4.9,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 53.3278008,
     "lng": -3.4697627,
@@ -570,12 +672,28 @@
     "rating": 4.9,
     "total_reviews": 33,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 8:00 PM; Tuesday: 9:00 AM – 8:00 PM; Wednesday: 9:00 AM – 8:00 PM; Thursday: 9:00 AM – 8:00 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 10:00 AM – 2:00 PM; Sunday: 10:00 AM – 2:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5687392,
     "lng": -3.2863033,
     "found_in_location": "Pontypridd",
-    "found_with_query": "van rental Pontypridd"
+    "found_with_query": "van rental Pontypridd",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "463991d7bca24f02a0baf16f9e6eda73@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@gorillavans.net"
+    ],
+    "description": "Looking for a great deal on a new van for your businees? we offer low rate finance on Hire Purchase - Finance Lease - Contract Hire.. Low Deposit Options Available!"
   },
   {
     "name": "E & J A HONE LTD",
@@ -587,12 +705,13 @@
     "rating": 4.9,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 53.2808952,
     "lng": -3.2643413,
     "found_in_location": "Corwen",
-    "found_with_query": "transit van hire Corwen"
+    "found_with_query": "transit van hire Corwen",
+    "description": "E & J A HONE LTD is a used van dealer in Holywell, North wales stocking a wide range of second hand vans at competitive prices. Visit us today for great quality used vans!"
   },
   {
     "name": "A & M Lloyd Plant Hire Ltd",
@@ -604,12 +723,22 @@
     "rating": 4.9,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.746551,
     "lng": -3.876776,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@a-m-lloyd.co.uk"
+    ],
+    "description": "At A&M Lloyd Plant Hire Ltd you can hire a variety of plant and machinery, tools or gas cylinders with ease. In addition, you'll benefit from the experience and expertise of our service team."
   },
   {
     "name": "Pembridge Vehicle Management",
@@ -621,12 +750,13 @@
     "rating": 4.9,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7292368,
     "lng": -2.9698581,
     "found_in_location": "Pontypool",
-    "found_with_query": "transit van hire Pontypool"
+    "found_with_query": "transit van hire Pontypool",
+    "description": "Wheelchair Accessible Vehicles for sale and for lease or contract hire. Approved Motability Dealer. WAVs available from nil advance.Covering Pontypool, Newport, Monmouth, Swansea, Cwmbran, Cardiff, South Wales. UK delivery available. Call us for more info 01633 485858."
   },
   {
     "name": "Rock Commercials ltd",
@@ -638,7 +768,7 @@
     "rating": 4.9,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5375447,
     "lng": -3.4919842,
@@ -655,7 +785,7 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6556225,
     "lng": -3.0332889,
@@ -672,12 +802,18 @@
     "rating": 4.8,
     "total_reviews": 92,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.3665653,
     "lng": -2.7110326,
     "found_in_location": "Newtown",
-    "found_with_query": "self drive van hire Newtown"
+    "found_with_query": "self drive van hire Newtown",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+    ],
+    "description": "van hire and courier service , ludlow , shropshire"
   },
   {
     "name": "Bridgend Van Centre",
@@ -689,7 +825,7 @@
     "rating": 4.8,
     "total_reviews": 74,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5004285,
     "lng": -3.5541298,
@@ -711,7 +847,8 @@
     "lat": 52.7467492,
     "lng": -3.9495549,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van rental Dolgellau"
+    "found_with_query": "van rental Dolgellau",
+    "description": "The Mawddach Trail - discover the old railway walk and cycle path between Dolgellau and Barmouth along the Mawddach Estuary in Wales."
   },
   {
     "name": "Mold Car And Van Hire",
@@ -723,12 +860,17 @@
     "rating": 4.8,
     "total_reviews": 67,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.192856,
     "lng": -3.18891,
     "found_in_location": "Rhyl",
-    "found_with_query": "van hire Rhyl"
+    "found_with_query": "van hire Rhyl",
+    "email": "info@moldcarhire.com",
+    "emails": [
+      "info@moldcarhire.com"
+    ],
+    "description": "Find the best car, van, minibus and campervans hire deal, and experience first class service at North Wales."
   },
   {
     "name": "Black Cat Van Hire North Wales",
@@ -740,12 +882,18 @@
     "rating": 4.8,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:30 PM; Tuesday: 8:30 AM – 6:30 PM; Wednesday: 8:30 AM – 6:30 PM; Thursday: 8:30 AM – 6:30 PM; Friday: 8:30 AM – 6:30 PM; Saturday: 8:30 AM – 4:30 PM; Sunday: 10:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.2876783,
     "lng": -3.854249199999999,
     "found_in_location": "Llandudno",
-    "found_with_query": "van rental Llandudno"
+    "found_with_query": "van rental Llandudno",
+    "email": "dave@lab6.com",
+    "emails": [
+      "dave@lab6.com",
+      "info@indiantypefoundry.com"
+    ],
+    "description": "Explore our extensive range of reliable vans at Black Cat Vehicle Hire. With over 30 years of experience, we offer excellent service and vehicles to meet your needs. Discover how we can help you today!"
   },
   {
     "name": "Ches Van Hire",
@@ -757,12 +905,18 @@
     "rating": 4.8,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: 8:00 – 9:00 AM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: 8:00\u2009\u2013\u20099:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.4110284,
     "lng": -3.2473917,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "sales@chesvanhire.co.uk",
+    "emails": [
+      "sales@chesvanhire.co.uk",
+      "user@domain.com"
+    ],
+    "description": "Ches Hire Co. offers reliable van hire and leasing services in South Wales. Over 40 years of trusted service, competitive rates, and flexible options."
   },
   {
     "name": "Sealand Van Hire",
@@ -791,12 +945,13 @@
     "rating": 4.8,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6616218,
     "lng": -3.206162,
     "found_in_location": "Newport",
-    "found_with_query": "transit van hire Newport"
+    "found_with_query": "transit van hire Newport",
+    "description": "Situated in Blackwood, Miracle Van Hire offers afforable car, van, truck hire service across Gwent & Southeast Wales. We also do Terraclean Engine Cleaning."
   },
   {
     "name": "Bala Adventure and Watersports Centre",
@@ -808,12 +963,17 @@
     "rating": 4.7,
     "total_reviews": 933,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:00 PM; Tuesday: 10:00 AM – 4:00 PM; Wednesday: 9:00 AM – 4:00 PM; Thursday: 10:00 AM – 4:00 PM; Friday: 9:00 AM – 4:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.90623859999999,
     "lng": -3.6050908,
     "found_in_location": "Bala",
-    "found_with_query": "van hire Bala"
+    "found_with_query": "van hire Bala",
+    "email": "hello@balawatersports.com",
+    "emails": [
+      "hello@balawatersports.com"
+    ],
+    "description": "Offering the adventure and excitement of outdoor pursuits to individuals, families and groups with highly skilled and qualified instructors"
   },
   {
     "name": "Zi Car & Van Hire",
@@ -825,12 +985,17 @@
     "rating": 4.7,
     "total_reviews": 129,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.0404406,
     "lng": -2.9324856,
     "found_in_location": "Wrexham",
-    "found_with_query": "van hire Wrexham"
+    "found_with_query": "van hire Wrexham",
+    "email": "sales@zicarandvanhire.co.uk",
+    "emails": [
+      "sales@zicarandvanhire.co.uk"
+    ],
+    "description": "Zi Car and Van Hire offer friendly & affordable Car and Van Hire Services in the UK. Get the best car rental services in and around Wrexham. Call now!"
   },
   {
     "name": "Aberconwy Car & Van Hire Ltd",
@@ -842,12 +1007,17 @@
     "rating": 4.7,
     "total_reviews": 96,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 – 10:30 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u2009\u2013\u200910:30\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.313417,
     "lng": -3.8331328,
     "found_in_location": "Llandudno",
-    "found_with_query": "van hire Llandudno"
+    "found_with_query": "van hire Llandudno",
+    "email": "book@aberconwycarhire.co.uk",
+    "emails": [
+      "book@aberconwycarhire.co.uk"
+    ],
+    "description": "Car and Van Hire from Llandudno, North Wales. We offer a wide selection of vehicles including automatics, estate cars, light commercials, 9 and 17 seater minibuses."
   },
   {
     "name": "Ethel's Car & Van Hire",
@@ -859,12 +1029,13 @@
     "rating": 4.7,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: 9:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 9:00\u2009\u2013\u200910:00\u202fAM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.8481561,
     "lng": -3.0329063,
     "found_in_location": "Welshpool",
-    "found_with_query": "van hire Welshpool"
+    "found_with_query": "van hire Welshpool",
+    "description": "Ethel's Car and Van Hire is located in Oswestry. We operate an all new fleet of hire vehicles of all sizes at competitive prices with exceptional customer service as standard."
   },
   {
     "name": "Manafon Travel",
@@ -881,7 +1052,13 @@
     "lat": 52.6171188,
     "lng": -3.292985,
     "found_in_location": "Welshpool",
-    "found_with_query": "transit van hire Welshpool"
+    "found_with_query": "transit van hire Welshpool",
+    "email": "tim.evans@manafontravel.co.uk",
+    "emails": [
+      "tim.evans@manafontravel.co.uk",
+      "user@domain.com"
+    ],
+    "description": "Manafon Travel offers reliable, customized ground transportation services including airport transfers, corporate travel, and event logistics in Welshpool and Newtown. Experience seamless journeys."
   },
   {
     "name": "D.H Jones Ltd",
@@ -893,12 +1070,13 @@
     "rating": 4.7,
     "total_reviews": 43,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.9089739,
     "lng": -3.5923286,
     "found_in_location": "Bala",
-    "found_with_query": "van rental Bala"
+    "found_with_query": "van rental Bala",
+    "description": "D H Jones Ltd, Bala - Hire, Sales, Service specialists and dealership of Honda, Stihl, Husqvarna, Forst, Viking products in Bala, North Wales. Honda ATV and UTV."
   },
   {
     "name": "Penrhyn Hire",
@@ -910,12 +1088,13 @@
     "rating": 4.7,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:00 PM; Tuesday: 7:30 AM – 5:00 PM; Wednesday: 7:30 AM – 5:00 PM; Thursday: 7:30 AM – 5:00 PM; Friday: 7:30 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.9332466,
     "lng": -4.0639514,
     "found_in_location": "Porthmadog",
-    "found_with_query": "van rental Porthmadog"
+    "found_with_query": "van rental Porthmadog",
+    "description": "Penrhyn Tool Hire is an independent company trading from Penrhyndeudraeth and Pwllheli in Gwynedd, North Wales, covering the Porthmadog, Criccieth, Dolgellau, Barmouth, Ffestiniog, Bala, Penrhyndeudraeth, Pwllheli, Harlech and surrounding areas. We offer an extensive range of hire equipment..."
   },
   {
     "name": "Parc Service Station",
@@ -927,7 +1106,7 @@
     "rating": 4.7,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 3:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.980205,
     "lng": -3.314323,
@@ -944,12 +1123,13 @@
     "rating": 4.7,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:15 AM – 5:00 PM; Tuesday: 9:15 AM – 5:00 PM; Wednesday: 9:15 AM – 5:00 PM; Thursday: 9:15 AM – 5:00 PM; Friday: 9:15 AM – 5:00 PM; Saturday: 9:15 AM – 5:00 PM; Sunday: 9:15 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:15\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.9117914,
     "lng": -3.5963967,
     "found_in_location": "Bala",
-    "found_with_query": "van rental Bala"
+    "found_with_query": "van rental Bala",
+    "description": "Ebike rental for mid Wales and Snowdonia"
   },
   {
     "name": "Wrexham Car & Van Hire",
@@ -966,7 +1146,13 @@
     "lat": 53.03683400000001,
     "lng": -3.008938,
     "found_in_location": "Wrexham",
-    "found_with_query": "van hire Wrexham"
+    "found_with_query": "van hire Wrexham",
+    "email": "info@wrexhamcarandvanhire.co.uk",
+    "emails": [
+      "info@wrexhamcarandvanhire.co.uk",
+      "info@wrexhamtyres.co.uk"
+    ],
+    "description": "We have an extensive range of vehicles available for rental to meet your specific needs at prices to suit your budget."
   },
   {
     "name": "Gulf",
@@ -978,12 +1164,13 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 7:00 PM; Tuesday: 7:30 AM – 7:00 PM; Wednesday: 7:30 AM – 7:00 PM; Thursday: 7:30 AM – 7:00 PM; Friday: 7:30 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 9:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.9093299,
     "lng": -3.6006742,
     "found_in_location": "Bala",
-    "found_with_query": "van rental Bala"
+    "found_with_query": "van rental Bala",
+    "description": "Find Your Nearest Gulf Station Home"
   },
   {
     "name": "TTS Car & Van Hire",
@@ -995,7 +1182,7 @@
     "rating": 4.7,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.01266709999999,
     "lng": -3.0451984,
@@ -1017,7 +1204,12 @@
     "lat": 51.61503810000001,
     "lng": -2.6724089,
     "found_in_location": "Caldicot",
-    "found_with_query": "van hire Caldicot"
+    "found_with_query": "van hire Caldicot",
+    "email": "sales@endurancevs.com",
+    "emails": [
+      "sales@endurancevs.com"
+    ],
+    "description": "Specialist vehicles for sale & hire, including RCVs, sweepers, skip loaders, hook loaders, gully tankers and tippers."
   },
   {
     "name": "Harbwr Porthmadog",
@@ -1034,7 +1226,13 @@
     "lat": 52.92345040000001,
     "lng": -4.1298074,
     "found_in_location": "Porthmadog",
-    "found_with_query": "cheap van hire Porthmadog"
+    "found_with_query": "cheap van hire Porthmadog",
+    "email": "crew@harbourguides.com",
+    "emails": [
+      "crew@harbourguides.com",
+      "info@harbourguides.com"
+    ],
+    "description": "Porthmadog Harbour information. Porthmadog Marina information. Porthmadog pilot notes and navigation charts. Provided by Harbour Guides."
   },
   {
     "name": "Cwmbran Van Hire",
@@ -1046,12 +1244,17 @@
     "rating": 4.6,
     "total_reviews": 130,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, car_repair, establishment, point_of_interest",
     "lat": 51.6556882,
     "lng": -3.0332793,
     "found_in_location": "Newport",
-    "found_with_query": "van hire Newport"
+    "found_with_query": "van hire Newport",
+    "email": "info@cwmbranselfdrive.co.uk",
+    "emails": [
+      "info@cwmbranselfdrive.co.uk"
+    ],
+    "description": "Self drive van & car hire in Cwmbran From the smallest van to the larger Transit tipper, it\u2019s choice and value all the way with Cwmbran Self Drive. With one of the biggest van hire fleets in South Wales you can be sure that Cwmbran Self Drive will have a rental vehicle to suit you. \u2026"
   },
   {
     "name": "Vantastec Ltd",
@@ -1063,12 +1266,17 @@
     "rating": 4.6,
     "total_reviews": 85,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.6312043,
     "lng": -3.2350022,
     "found_in_location": "Caerphilly",
-    "found_with_query": "transit van hire Caerphilly"
+    "found_with_query": "transit van hire Caerphilly",
+    "email": "sales@vantastec.co.uk",
+    "emails": [
+      "sales@vantastec.co.uk"
+    ],
+    "description": "Buy your next fridge van from the UK's no.1 conversion specialists. Refrigerated vans, temperature control & bespoke vehicle conversions."
   },
   {
     "name": "Pure Vans Ltd",
@@ -1080,12 +1288,31 @@
     "rating": 4.6,
     "total_reviews": 71,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5859612,
     "lng": -2.981139,
     "found_in_location": "Newport",
-    "found_with_query": "transit van hire Newport"
+    "found_with_query": "transit van hire Newport",
+    "email": "%20beth@purevans.com",
+    "emails": [
+      "%20beth@purevans.com",
+      "%20matt.bryant@purevans.com",
+      "chris@purevans.com",
+      "claire@purevans.com",
+      "dave@purevans.com",
+      "enquiries@purevans.com",
+      "jason.shepperd@purevans.com",
+      "jason@purevans.com",
+      "joshua@purevans.com",
+      "martyn@purevans.com",
+      "mary@purevans.com",
+      "matt@purevans.com",
+      "paul@purevans.com",
+      "richard@purevans.com",
+      "web_team@fratelli.agency"
+    ],
+    "description": "Looking for a single van or fleet for your business? We provide the best available deals on a massive range of commercial vehicles. We save you \u00a31,000s off Manufacturers\u2019 List Price. We specialise in the supply of new and pre-registered vans sourced directly from the manufacturers."
   },
   {
     "name": "Rymels Van Sales",
@@ -1114,7 +1341,7 @@
     "rating": 4.6,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest, real_estate_agency, travel_agency",
     "lat": 52.7640555,
     "lng": -4.0987256,
@@ -1131,7 +1358,7 @@
     "rating": 4.6,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.88542469999999,
     "lng": -4.4323027,
@@ -1148,12 +1375,17 @@
     "rating": 4.6,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:30 PM; Tuesday: 9:00 AM – 4:30 PM; Wednesday: 9:00 AM – 4:30 PM; Thursday: 9:00 AM – 4:30 PM; Friday: 9:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.8898501,
     "lng": -4.4049877,
     "found_in_location": "Pwllheli",
-    "found_with_query": "van rental Pwllheli"
+    "found_with_query": "van rental Pwllheli",
+    "email": "tours@caelloi.co.uk",
+    "emails": [
+      "tours@caelloi.co.uk"
+    ],
+    "description": "Opening Hours: 9am to 4.30pm Monday to Friday01758 612 719"
   },
   {
     "name": "Williams Plant Hire Ltd (Welshpool)",
@@ -1165,12 +1397,13 @@
     "rating": 4.6,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.66064900000001,
     "lng": -3.134214,
     "found_in_location": "Welshpool",
-    "found_with_query": "luton van hire Welshpool"
+    "found_with_query": "luton van hire Welshpool",
+    "description": "We offer the widest range of plant and tool hire in Mid Wales and are happy to provide delivery and collection services for all our machinery and equipment. We are constantly updating our machines to provide you with the services you require."
   },
   {
     "name": "Snowdonia Vans",
@@ -1182,7 +1415,7 @@
     "rating": 4.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.83862540000001,
     "lng": -3.0574837,
@@ -1204,7 +1437,14 @@
     "lat": 52.886728,
     "lng": -4.4056195,
     "found_in_location": "Pwllheli",
-    "found_with_query": "cheap van hire Pwllheli"
+    "found_with_query": "cheap van hire Pwllheli",
+    "email": "hafanpwllheli@gwynedd.gov.uk",
+    "emails": [
+      "hafanpwllheli@gwynedd.gov.uk",
+      "hafanpwllheli@gwynedd.llyw.cymru",
+      "nbsphafanpwllheli@gwynedd.llyw.cymru"
+    ],
+    "description": "Hafan Pwllheli has over 400 fully serviced pontoon berths as well as excellent onshore facilities. Access is possible for most yachts at virtually all states of the tide and we can accommodate a wide range of vessels from deep draught sailing yachts to large motor cruisers."
   },
   {
     "name": "Wick Car & Van Rental",
@@ -1216,7 +1456,7 @@
     "rating": 4.5,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.497837,
     "lng": -3.5435729,
@@ -1233,12 +1473,18 @@
     "rating": 4.5,
     "total_reviews": 36,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2088559,
     "lng": -3.1115913,
     "found_in_location": "Rhyl",
-    "found_with_query": "van hire Rhyl"
+    "found_with_query": "van hire Rhyl",
+    "email": "info@arrowvanhire.co.uk",
+    "emails": [
+      "info@arrowvanhire.co.uk",
+      "jane@arrowvanhire.co.uk"
+    ],
+    "description": "We are Arrow Van Hire Ltd and this is our website, thanks for looking."
   },
   {
     "name": "Abersoch Hydro & Pwllheli",
@@ -1250,12 +1496,26 @@
     "rating": 4.5,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:00 PM; Tuesday: 9:00 AM – 4:00 PM; Wednesday: 9:00 AM – 4:00 PM; Thursday: 9:00 AM – 4:00 PM; Friday: 9:00 AM – 4:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.8240205,
     "lng": -4.4987954,
     "found_in_location": "Pwllheli",
-    "found_with_query": "cheap van hire Pwllheli"
+    "found_with_query": "cheap van hire Pwllheli",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@abersochhydro.com"
+    ],
+    "description": "Hydro Abersoch is a fully certified RYA Training Centre and sailing school, run by Andrew and Danielle Johnson. It is based on Abersoch main beach on the beautiful Llyn peninsula in North Wales. Hydro Abersoch offers a wide range of activities to suit everyone from beginners to the more..."
   },
   {
     "name": "Bryn Service Station",
@@ -1284,12 +1544,17 @@
     "rating": 4.4,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 12:00 PM, 1:00 – 5:00 PM; Tuesday: 9:00 AM – 12:00 PM, 1:00 – 5:00 PM; Wednesday: 9:00 AM – 12:00 PM, 1:00 – 5:00 PM; Thursday: 9:00 AM – 12:00 PM, 1:00 – 5:00 PM; Friday: 9:00 AM – 12:00 PM, 1:00 – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2278649,
     "lng": -3.1427363,
     "found_in_location": "Rhyl",
-    "found_with_query": "van hire Rhyl"
+    "found_with_query": "van hire Rhyl",
+    "email": "thelwellvans@hotmail.com",
+    "emails": [
+      "thelwellvans@hotmail.com"
+    ],
+    "description": "Thelwell Vans is a used car dealer based in Flint. We provide services for all of our customers."
   },
   {
     "name": "RSV Rentals",
@@ -1301,12 +1566,16 @@
     "rating": 4.4,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: 8:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.1966702,
     "lng": -2.9902728,
     "found_in_location": "Corwen",
-    "found_with_query": "luton van hire Corwen"
+    "found_with_query": "luton van hire Corwen",
+    "email": "hello@rsvrentals.co.uk",
+    "emails": [
+      "hello@rsvrentals.co.uk"
+    ]
   },
   {
     "name": "M&G Plant and Tool LTD",
@@ -1318,12 +1587,17 @@
     "rating": 4.4,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.63075,
     "lng": -2.6738981,
     "found_in_location": "Chepstow",
-    "found_with_query": "transit van hire Chepstow"
+    "found_with_query": "transit van hire Chepstow",
+    "email": "hiredesk@mgtoolhire.co.uk",
+    "emails": [
+      "hiredesk@mgtoolhire.co.uk"
+    ],
+    "description": "Plant Hire View the range Site Cabins View the range Tools and Equipment View the range Hiab Crane Lorry Hire More Info Powered Access View the range"
   },
   {
     "name": "Tyn Y Simdde",
@@ -1340,7 +1614,8 @@
     "lat": 52.81778560000001,
     "lng": -3.866524,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van rental Dolgellau"
+    "found_with_query": "van rental Dolgellau",
+    "description": "Tyn-y-Simdde is a secluded Welsh holiday cottage near Dolgellau, right in the center of Coed y Brenin Forest Park\u2013 one of the best walking and mountain biking areas in Wales. The cottage is in an elevated position commanding views over the Hermon valley and across to Cader Idris. The cottage is..."
   },
   {
     "name": "Texaco",
@@ -1352,12 +1627,13 @@
     "rating": 4.3,
     "total_reviews": 235,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.9713242,
     "lng": -3.4520168,
     "found_in_location": "Corwen",
-    "found_with_query": "van hire Corwen"
+    "found_with_query": "van hire Corwen",
+    "description": "Enter your location to get details of your nearest Texaco service station."
   },
   {
     "name": "Mallwyd Service Station and caffi carys",
@@ -1369,7 +1645,7 @@
     "rating": 4.3,
     "total_reviews": 199,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 6:00 PM; Tuesday: 6:00 AM – 6:00 PM; Wednesday: 6:00 AM – 6:00 PM; Thursday: 6:00 AM – 6:00 PM; Friday: 6:00 AM – 6:00 PM; Saturday: 6:00 AM – 5:30 PM; Sunday: 6:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 6:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.6991103,
     "lng": -3.683124099999999,
@@ -1386,7 +1662,7 @@
     "rating": 4.3,
     "total_reviews": 180,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.4980369,
     "lng": -3.5431448,
@@ -1403,12 +1679,20 @@
     "rating": 4.3,
     "total_reviews": 33,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, health, point_of_interest, veterinary_care",
     "lat": 52.7451655,
     "lng": -3.8831069,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van rental Dolgellau"
+    "found_with_query": "van rental Dolgellau",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "dolgellau@milfeddyg.com"
+    ],
+    "description": "Mixed Animal Vet Practice in Dolgellau, North Wales"
   },
   {
     "name": "Capels Van Centre",
@@ -1420,12 +1704,13 @@
     "rating": 4.2,
     "total_reviews": 135,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: 10:00 AM – 2:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 51.6674746,
     "lng": -3.2190505,
     "found_in_location": "Usk",
-    "found_with_query": "transit van hire Usk"
+    "found_with_query": "transit van hire Usk",
+    "description": "AIR CON-BLUETOOTH-SWB-1 OWNER2019 | 80,000 miles | 1 owner(s) | Diesel | Manual"
   },
   {
     "name": "Moduron Y Bala",
@@ -1437,7 +1722,7 @@
     "rating": 4.2,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 7:00 PM; Tuesday: 7:30 AM – 7:00 PM; Wednesday: 7:30 AM – 7:00 PM; Thursday: 7:30 AM – 7:00 PM; Friday: 7:30 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 9:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.9093403,
     "lng": -3.6006565,
@@ -1446,7 +1731,7 @@
   },
   {
     "name": "Front Row Van Hire Pontyclun",
-    "address": "Edward’s bussiness parc, Ynysmaerdy, Pontyclun CF72 8QZ, UK",
+    "address": "Edward\u2019s bussiness parc, Ynysmaerdy, Pontyclun CF72 8QZ, UK",
     "phone": "01443 229900",
     "international_phone": "+44 1443 229900",
     "website": "http://frontrowvanhire.co.uk/",
@@ -1454,12 +1739,17 @@
     "rating": 4.2,
     "total_reviews": 32,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5513993,
     "lng": -3.3905743,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "info@frontrowvanhire.co.uk",
+    "emails": [
+      "info@frontrowvanhire.co.uk"
+    ],
+    "description": "Affordable van hire in Pontyclun, Cardiff and Bridgend. Front Row Van Hire offer a wide selection of modern vans at great rates. Find our cheapest prices direct."
   },
   {
     "name": "Esso",
@@ -1471,12 +1761,13 @@
     "rating": 4.1,
     "total_reviews": 270,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:30 AM – 8:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 52.7462005,
     "lng": -3.8611846,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "description": "{brand} gas station in {addr1}, {city}, {state}. {amenities}{available}Find the nearest gas station on ExxonMobil official website."
   },
   {
     "name": "Applegreen Welshpool",
@@ -1493,7 +1784,13 @@
     "lat": 52.6620984,
     "lng": -3.1397006,
     "found_in_location": "Welshpool",
-    "found_with_query": "cheap van hire Welshpool"
+    "found_with_query": "cheap van hire Welshpool",
+    "email": "applegreen@sweartaker.ie",
+    "emails": [
+      "applegreen@sweartaker.ie",
+      "info@applegreen.ie"
+    ],
+    "description": "With a strong presence in the Southeast of the country and a rapidly expanding network of stations across the UK Applegreen is now conveniently closer to motorists than ever before. We\u2019re looking after the needs of locals, commuters, long distance travellers, and tourists alike. Our customers..."
   },
   {
     "name": "Charter Vehicle Hire",
@@ -1505,12 +1802,21 @@
     "rating": 4.1,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5030925,
     "lng": -3.2263192,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "charter.bridgend@cvhl.co.uk",
+    "emails": [
+      "charter.bridgend@cvhl.co.uk",
+      "charter.cardiff@cvhl.co.uk",
+      "charter.pontypridd@cvhl.co.uk",
+      "info@cvhl.co.uk",
+      "name@emaildomain.com"
+    ],
+    "description": "Covering Cardiff, Bridgend & Pontypridd for affordable car and van hire. All our reliable vehicles can be hired for a day, week, month or year. Contact Charter Vehicle Hire or book online today to secure your perfect vehicle hire."
   },
   {
     "name": "Dawsongroup Vans",
@@ -1522,7 +1828,7 @@
     "rating": 4.1,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5769876,
     "lng": -3.2318994,
@@ -1539,12 +1845,17 @@
     "rating": 4.1,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5901151,
     "lng": -2.7390011,
     "found_in_location": "Caldicot",
-    "found_with_query": "van hire Caldicot"
+    "found_with_query": "van hire Caldicot",
+    "email": "k.and.r.vans@gmail.com",
+    "emails": [
+      "k.and.r.vans@gmail.com"
+    ],
+    "description": "Van conversion specialists based in South Wales. Turning your van into a multi purpose vehicle. Get in touch with us today for your free non-obligatory quote, specifically tailored to you!"
   },
   {
     "name": "Dolgellau Cycles",
@@ -1556,12 +1867,17 @@
     "rating": 4,
     "total_reviews": 126,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:30 AM – 5:00 PM; Wednesday: Closed; Thursday: 9:30 AM – 5:00 PM; Friday: 9:30 AM – 5:00 PM; Saturday: 9:30 AM – 5:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: Closed; Thursday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "bicycle_store, establishment, point_of_interest, store",
     "lat": 52.7436626,
     "lng": -3.884606099999999,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "email": "info@dolgellaucycles.co.uk",
+    "emails": [
+      "info@dolgellaucycles.co.uk"
+    ],
+    "description": "We're a Cycle Shop, Cycle Repair and Bike Hire Centre in Dolgellau, North Wales and stockists of Dawes, Cube and Scott bikes"
   },
   {
     "name": "bp",
@@ -1573,12 +1889,13 @@
     "rating": 4,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 6:00 AM – 9:00 PM; Sunday: 6:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, gas_station, point_of_interest",
     "lat": 51.70123,
     "lng": -2.90786,
     "found_in_location": "Usk",
-    "found_with_query": "van rental Usk"
+    "found_with_query": "van rental Usk",
+    "description": "bp location J BROS WOODSIDE GARAGE at Woodside Industrial Estate | Find your nearest bp location"
   },
   {
     "name": "Gulf Caldicot Fuel Express",
@@ -1607,12 +1924,13 @@
     "rating": 4,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2887552,
     "lng": -2.9114494,
     "found_in_location": "Corwen",
-    "found_with_query": "luton van hire Corwen"
+    "found_with_query": "luton van hire Corwen",
+    "description": "PVH offers a flexible competitive van hire and van rental service. From day to weekend and long term rentals, we have a wide range of vans."
   },
   {
     "name": "Spear Hire",
@@ -1624,7 +1942,7 @@
     "rating": 4,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7936413,
     "lng": -3.2396892,
@@ -1641,12 +1959,18 @@
     "rating": 3.9,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, home_goods_store, point_of_interest, store",
     "lat": 51.7958649,
     "lng": -3.9709664,
     "found_in_location": "Swansea",
-    "found_with_query": "van hire Swansea"
+    "found_with_query": "van hire Swansea",
+    "email": "email@domain.com",
+    "emails": [
+      "email@domain.com",
+      "info@abcvehiclehire.co.uk"
+    ],
+    "description": "Vehicles are more than just a mode of transportation\u2014they\u2019re your trusted companion, making travel and moving tasks effortless and comfortable. At ABC Vehicle Hire, we understand this, so we take pride in offering the perfect vehicle to suit your needs at prices you\u2019ll love."
   },
   {
     "name": "MJ Van Hire",
@@ -1658,7 +1982,7 @@
     "rating": 3.9,
     "total_reviews": 73,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:00 PM; Tuesday: 7:30 AM – 5:00 PM; Wednesday: 7:30 AM – 5:00 PM; Thursday: 7:30 AM – 5:00 PM; Friday: 7:30 AM – 5:00 PM; Saturday: 7:00 – 7:30 AM; Sunday: 7:00 – 7:30 AM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 7:00\u2009\u2013\u20097:30\u202fAM; Sunday: 7:00\u2009\u2013\u20097:30\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.7880277,
     "lng": -3.2072423,
@@ -1675,7 +1999,7 @@
     "rating": 3.9,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5752294,
     "lng": -2.9821302,
@@ -1692,12 +2016,17 @@
     "rating": 3.8,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.4535135,
     "lng": -3.1965054,
     "found_in_location": "Cardiff",
-    "found_with_query": "van rental Cardiff"
+    "found_with_query": "van rental Cardiff",
+    "email": "sales@vanzone.co.uk",
+    "emails": [
+      "sales@vanzone.co.uk"
+    ],
+    "description": "<meta name=\"description\" content=\"Vanzone offers new and used vans for sale and lease across the UK. Browse top deals, nationwide delivery, and expert service tailored to your business needs.\" />"
   },
   {
     "name": "Southern Van Hire",
@@ -1709,12 +2038,17 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.31932750000001,
     "lng": -3.4608526,
     "found_in_location": "Rhyl",
-    "found_with_query": "van hire Rhyl"
+    "found_with_query": "van hire Rhyl",
+    "email": "contact@southernvanhire.co.uk",
+    "emails": [
+      "contact@southernvanhire.co.uk"
+    ],
+    "description": "We provide a wide range of vans for rental in Rhyl, Denbighshire. Our vehicles are well maintained, affordable and delivered to you for free."
   },
   {
     "name": "Van Hire Cardiff",
@@ -1726,12 +2060,13 @@
     "rating": 3.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 8:00 PM; Tuesday: 8:30 AM – 8:00 PM; Wednesday: 8:30 AM – 8:00 PM; Thursday: 8:30 AM – 8:00 PM; Friday: 8:30 AM – 8:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 51.5121787,
     "lng": -3.2029593,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "description": "When your car needs repairs, finding a reliable service provider is crucial for ensuring your vehicle remains in peak condition. In Santa Rosa, a city with a vibrant community and diverse driving needs, the importance of choosing the right car repair service cannot be overstated. Quality..."
   },
   {
     "name": "Stermat Car And Van Hire",
@@ -1743,12 +2078,16 @@
     "rating": 3.3,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 5:30 PM; Sunday: 9:00 AM – 5:30 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.210411,
     "lng": -4.1674609,
     "found_in_location": "Wrexham",
-    "found_with_query": "cheap van hire Wrexham"
+    "found_with_query": "cheap van hire Wrexham",
+    "email": "stermatvanhire@aol.com",
+    "emails": [
+      "stermatvanhire@aol.com"
+    ]
   },
   {
     "name": "GoMushroom",
@@ -1760,12 +2099,13 @@
     "rating": 3.3,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.797718,
     "lng": -4.0812873,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "description": "A wild journey through the beauty of Eryri. All in the comfort of a modern VW California Campervan."
   },
   {
     "name": "V4B",
@@ -1777,12 +2117,17 @@
     "rating": 3.2,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, finance, point_of_interest",
     "lat": 53.041225,
     "lng": -2.933338,
     "found_in_location": "Wrexham",
-    "found_with_query": "cheap van hire Wrexham"
+    "found_with_query": "cheap van hire Wrexham",
+    "email": "website@v4b.co.uk",
+    "emails": [
+      "website@v4b.co.uk"
+    ],
+    "description": "Looking for the best car and van leasing deals? Explore V4B's expert vehicle leasing services. We offer personalised lease solutions and competitive rates. Drive your dream vehicle today!"
   },
   {
     "name": "Peyton Travel",
@@ -1799,7 +2144,13 @@
     "lat": 51.5175876,
     "lng": -3.5612834,
     "found_in_location": "Bridgend",
-    "found_with_query": "van rental Bridgend"
+    "found_with_query": "van rental Bridgend",
+    "email": "bookings.peytontravel@aol.com",
+    "emails": [
+      "bookings.peytontravel@aol.com",
+      "peytontravel@aol.com"
+    ],
+    "description": "Call us on 01656 661221 or email uspeytontravel@aol.com"
   },
   {
     "name": "Xcav8",
@@ -1811,12 +2162,18 @@
     "rating": 3,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 12:00 AM; Tuesday: 6:00 AM – 12:00 AM; Wednesday: 6:00 AM – 12:00 AM; Thursday: 6:00 AM – 12:00 AM; Friday: 6:00 AM – 12:00 AM; Saturday: 6:00 AM – 12:00 AM; Sunday: 6:00 AM – 12:00 AM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 53.1021927,
     "lng": -4.2760094,
     "found_in_location": "Caernarfon",
-    "found_with_query": "self drive van hire Caernarfon"
+    "found_with_query": "self drive van hire Caernarfon",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "some@gmail.com"
+    ],
+    "description": "We are a North Wales company offering small plant hire, mini digger hire, and training"
   },
   {
     "name": "Wrights Self Drive",
@@ -1828,7 +2185,7 @@
     "rating": 3,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.66161839999999,
     "lng": -3.1573795,
@@ -1850,7 +2207,12 @@
     "lat": 52.7430266,
     "lng": -3.8884411,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "email": "driversupport.uk@swarco.com",
+    "emails": [
+      "driversupport.uk@swarco.com"
+    ],
+    "description": "Join the EV revolution with Evolt Network, the leading provider of electric vehicle charging infrastructure in the UK. Find out more."
   },
   {
     "name": "DPD Pickup Parcelshop",
@@ -1862,12 +2224,13 @@
     "rating": 1,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.5907929,
     "lng": -3.8506353,
     "found_in_location": "Machynlleth",
-    "found_with_query": "self drive van hire Machynlleth"
+    "found_with_query": "self drive van hire Machynlleth",
+    "description": "If you couldn't find the answer to your query above, please get in touch with us."
   },
   {
     "name": "Maben Vehicle Hire",
@@ -1879,12 +2242,26 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5408291,
     "lng": -3.1292971,
     "found_in_location": "Cardiff",
-    "found_with_query": "van hire Cardiff"
+    "found_with_query": "van hire Cardiff",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "rental@maben.co.uk"
+    ],
+    "description": "Maben is a Vehicle hire Company in Pontypool, Newport, Avonmouth, Bristol and surrounding areas. It offers a wide range of vehicles for short-term or long-term hire, as well as vehicle sales and Self Storage"
   },
   {
     "name": "Direct Van Hire",
@@ -1913,12 +2290,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.62415009999999,
     "lng": -3.9453805,
     "found_in_location": "Swansea",
-    "found_with_query": "van hire Swansea"
+    "found_with_query": "van hire Swansea",
+    "email": "contact@southernvanhire.co.uk",
+    "emails": [
+      "contact@southernvanhire.co.uk"
+    ],
+    "description": "We provide a wide range of vans for rental in Swansea, Swansea. Our vehicles are well maintained, affordable and delivered to you for free."
   },
   {
     "name": "Vansales.com",
@@ -1930,12 +2312,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.5018104,
     "lng": -3.5678959,
     "found_in_location": "Bridgend",
-    "found_with_query": "van rental Bridgend"
+    "found_with_query": "van rental Bridgend",
+    "email": "hello@vansales.com",
+    "emails": [
+      "hello@vansales.com"
+    ],
+    "description": "Van Sales Great No Frills Deals On Finance Lease. Work Our Your Own Payments With Zero Hassle. Give Us A Call If You Want Help"
   },
   {
     "name": "Rent-Vehicles Aberdare Vans",
@@ -1947,7 +2334,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.7137634,
     "lng": -3.4457331,
@@ -1964,12 +2351,25 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:30 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.8198404,
     "lng": -3.0163926,
     "found_in_location": "Abergavenny",
-    "found_with_query": "van hire Abergavenny"
+    "found_with_query": "van hire Abergavenny",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com",
+      "sales@jptodcommercials.co.uk"
+    ],
+    "description": "Welcome to JP Tod Van Hire, a reputable family-owned van hire and commercial sales business located in Abergavenny, since 1980. We take pride in offering dependable and customer-centric van hire services to meet your transportation needs. Our primary focus is on ensuring customer satisfaction by..."
   },
   {
     "name": "Caldicot Training Services",
@@ -1981,12 +2381,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5893784,
     "lng": -2.7368964,
     "found_in_location": "Caldicot",
-    "found_with_query": "transit van hire Caldicot"
+    "found_with_query": "transit van hire Caldicot",
+    "description": "With vast experience in the transport sector we know what good training and development can mean to a business, reducing workplace accidents and improving productivity."
   },
   {
     "name": "Venture vans",
@@ -2015,7 +2416,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: 10:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0561813,
     "lng": -2.9763913,
@@ -2032,7 +2433,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 3:30 PM; Tuesday: 10:00 AM – 3:30 PM; Wednesday: 10:00 AM – 3:30 PM; Thursday: 10:00 AM – 3:30 PM; Friday: 10:00 AM – 3:30 PM; Saturday: 10:00 AM – 3:30 PM; Sunday: 10:00 AM – 3:30 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.9060113,
     "lng": -4.3341163,
@@ -2066,11 +2467,30 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:45 AM – 5:45 PM; Tuesday: 8:45 AM – 5:45 PM; Wednesday: 8:45 AM – 5:45 PM; Thursday: 8:45 AM – 5:45 PM; Friday: 8:45 AM – 5:45 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:45\u202fAM\u2009\u2013\u20095:45\u202fPM; Tuesday: 8:45\u202fAM\u2009\u2013\u20095:45\u202fPM; Wednesday: 8:45\u202fAM\u2009\u2013\u20095:45\u202fPM; Thursday: 8:45\u202fAM\u2009\u2013\u20095:45\u202fPM; Friday: 8:45\u202fAM\u2009\u2013\u20095:45\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7443567,
     "lng": -3.8910064,
     "found_in_location": "Dolgellau",
-    "found_with_query": "van hire Dolgellau"
+    "found_with_query": "van hire Dolgellau",
+    "email": "aled@smithygarage.co.uk",
+    "emails": [
+      "aled@smithygarage.co.uk",
+      "andrea@gemotors.co.uk",
+      "ann.evans@harlech.toyota.co.uk",
+      "ann.evans@harlechtoyota.co.uk",
+      "catherine.dacre-hardy@gemotors.co.uk",
+      "david@smithygarage.co.uk",
+      "donna.hughes@gemotors.co.uk",
+      "donna.murphy@harlechtoyota.co.uk",
+      "elen.evans@gemotors.co.uk",
+      "ffion.thomas@harlechtoyota.co.uk",
+      "ge@gemotors.co.uk",
+      "james@gemotors.co.uk",
+      "sales@smithygarage.dealers.mitsubishi-cars.co.uk",
+      "sarah.roberts@harlechtoyota.co.uk",
+      "shane@gemotors.co.uk"
+    ],
+    "description": "Motability Scheme at Gwyndaf Evans Motors Ltd - Motability Scheme dealer in Dolgellau, Wales. Speak to a specialist. Arrange a test drive. Order your car. Support with servicing, maintenance and MOTs."
   }
 ]

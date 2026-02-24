@@ -9,12 +9,13 @@
     "rating": 5,
     "total_reviews": 96,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.9232443,
     "lng": -0.607601,
     "found_in_location": "Lincoln",
-    "found_with_query": "transit van hire Lincoln"
+    "found_with_query": "transit van hire Lincoln",
+    "description": "Affordable Van Hire in Stamford & Peterborough. Rocket Vehicle Hire provides affordable van rental based in Peterborough. No fuss, no hassle, vehicle hire. Based near Stamford, we cover the surrounding area including Peterborough, Rutland, Grantham, Bourne and Oundle."
   },
   {
     "name": "Anker Vehicle Hire West Bromwich",
@@ -26,12 +27,18 @@
     "rating": 5,
     "total_reviews": 64,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 – 10:00 AM, 4:30 – 5:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u2009\u2013\u200910:00\u202fAM, 4:30\u2009\u2013\u20095:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.52129559999999,
     "lng": -2.023198,
     "found_in_location": "Birmingham",
-    "found_with_query": "luton van hire Birmingham"
+    "found_with_query": "luton van hire Birmingham",
+    "email": "ankervanhire@outlook.com",
+    "emails": [
+      "ankervanhire@outlook.com",
+      "ankervehiclehire_wb@outlook.com"
+    ],
+    "description": "Tel:01827 282 816Email:ankervanhire@outlook.comAddress:Tame Valley Industrial EstateWilnecote, TamworthB77 5DF"
   },
   {
     "name": "Drive Van Hire",
@@ -43,12 +50,13 @@
     "rating": 5,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.596839,
     "lng": -1.7930207,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "description": "Affordable van hire in Sutton Coldfield & Birmingham. Choose from a range of clean, reliable vans with flexible hire options. Book online today with Drive Van Hire."
   },
   {
     "name": "Wayne van",
@@ -77,12 +85,13 @@
     "rating": 5,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 9:00 PM; Tuesday: 8:00 AM – 9:00 PM; Wednesday: 8:00 AM – 9:00 PM; Thursday: 8:00 AM – 9:00 PM; Friday: 8:00 AM – 9:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 52.27867999999999,
     "lng": -0.8927229999999999,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "description": "Small Removals And Deliveries By A Friendly Reliable Man And A Van Service In And Around Northamptonshire, No Job Too Small 01604 843390"
   },
   {
     "name": "BIRMINGHAM PASSENGER TRANSPORT",
@@ -99,7 +108,12 @@
     "lat": 52.4877279,
     "lng": -1.9697943,
     "found_in_location": "Birmingham",
-    "found_with_query": "transit van hire Birmingham"
+    "found_with_query": "transit van hire Birmingham",
+    "email": "info@birminghampassengertransport.co.uk",
+    "emails": [
+      "info@birminghampassengertransport.co.uk"
+    ],
+    "description": "Need reliable Birmingham transport services? Book 8-50 seater minibus & coach hire online. Perfect for airport transfers, weddings & event"
   },
   {
     "name": "Simply Driven Executive Cars",
@@ -116,7 +130,14 @@
     "lat": 52.8875035,
     "lng": -1.5256181,
     "found_in_location": "Derby",
-    "found_with_query": "van rental Derby"
+    "found_with_query": "van rental Derby",
+    "email": "%20info@simplydriven.co.uk",
+    "emails": [
+      "%20info@simplydriven.co.uk",
+      "info@simplydriven.co.uk",
+      "mark@simplydriven.co.uk"
+    ],
+    "description": "Simply Driven Derby\u2019s trusted and reliable executive travel Airport Transfers | Corporate Travel | Wedding Chauffeur | Speciality Days | Driver-Only Chauffeur Service Derby\u2019s trusted and reliable executive travel At Simply Driven, we offer a premium executive travel experience, combining..."
   },
   {
     "name": "Sprint Contracts Limited",
@@ -128,7 +149,7 @@
     "rating": 5,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, finance, point_of_interest",
     "lat": 53.0309755,
     "lng": -2.2442404,
@@ -167,7 +188,20 @@
     "lat": 52.9807366,
     "lng": -1.1020867,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "anna@sageandsprig.co.uk",
+      "bookings@sageandsprig.co.uk"
+    ],
+    "description": "Looking for a unique wedding car in Nottingham? Hire our beautifully restored Vintage VW for a stylish and unforgettable entrance on your big day! Nottinghamshire, Derbyshire & Leicestershire"
   },
   {
     "name": "Lincoln Vehicle Solutions",
@@ -179,12 +213,17 @@
     "rating": 5,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, finance, point_of_interest",
     "lat": 53.17442519999999,
     "lng": -0.5370667,
     "found_in_location": "Lincoln",
-    "found_with_query": "van hire Lincoln"
+    "found_with_query": "van hire Lincoln",
+    "email": "info@lincolnvehiclesolutions.co.uk",
+    "emails": [
+      "info@lincolnvehiclesolutions.co.uk"
+    ],
+    "description": "Explore the best selection of Car and Van lease deals at Lincoln Vehicle Solutions. Low prices available for Personal & Business. Enjoy expert service and Mainland UK delivery. Start your leasing journey with us today."
   },
   {
     "name": "SNG Travel - Luxury travel",
@@ -201,7 +240,14 @@
     "lat": 52.5927549,
     "lng": -1.9844181,
     "found_in_location": "Walsall",
-    "found_with_query": "van hire Walsall"
+    "found_with_query": "van hire Walsall",
+    "email": "admin@sngtravel.co.uk",
+    "emails": [
+      "admin@sngtravel.co.uk",
+      "bookings.faredeal@gmail.com",
+      "info@sngtravel.co.uk"
+    ],
+    "description": "With over 50 premium coaches available, we cater to all requirements. Private Hire, School Trips, Day Trips, Rail Replacement, Minibus Hire, Coach Day Tours and More!"
   },
   {
     "name": "Ozzy Van Hire",
@@ -213,12 +259,17 @@
     "rating": 5,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 3:00 – 7:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 3:00\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.2039933,
     "lng": -2.2129032,
     "found_in_location": "Worcester",
-    "found_with_query": "van hire Worcester"
+    "found_with_query": "van hire Worcester",
+    "email": "mail@domain.com",
+    "emails": [
+      "mail@domain.com"
+    ],
+    "description": "Your road trip adventure starts here! Embark on an unforgettable journey with Ozzy Van Hire, you're home away from home. Sit back, relax and enjoy the ride!"
   },
   {
     "name": "Next Car & Van Rental",
@@ -230,12 +281,13 @@
     "rating": 5,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.503052,
     "lng": -2.026581,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "description": "COVID19 Rental Procedure. Firstly, can we ask that if you ..."
   },
   {
     "name": "Rent A Van Limited",
@@ -247,12 +299,17 @@
     "rating": 5,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 6:00 PM; Tuesday: 7:30 AM – 6:00 PM; Wednesday: 7:30 AM – 6:00 PM; Thursday: 7:30 AM – 6:00 PM; Friday: 7:30 AM – 6:00 PM; Saturday: 7:30 AM – 5:00 PM; Sunday: 7:30 AM – 5:00 PM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.3018686,
     "lng": -2.074663,
     "found_in_location": "Birmingham",
-    "found_with_query": "luton van hire Birmingham"
+    "found_with_query": "luton van hire Birmingham",
+    "email": "info@indiantypefoundry.com",
+    "emails": [
+      "info@indiantypefoundry.com"
+    ],
+    "description": "Rent A Van Limited - Van Rentals in Bromsgrove - Affordable & Flexible Van Hire - LWB Panel Van and Luton Van with Tail Lift"
   },
   {
     "name": "West Midlands Vans",
@@ -264,12 +321,17 @@
     "rating": 5,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.6244557,
     "lng": -1.8974177,
     "found_in_location": "Birmingham",
-    "found_with_query": "transit van hire Birmingham"
+    "found_with_query": "transit van hire Birmingham",
+    "email": "westmidlandsvans@aol.com",
+    "emails": [
+      "westmidlandsvans@aol.com"
+    ],
+    "description": "West Midlands Vans Welcome to West Midlands Vans Cromwell Commercials Chester Road Stonnall WS9 9HJ Call us any time on 07511 067107 or 07890 283371"
   },
   {
     "name": "Van Voyage",
@@ -286,7 +348,24 @@
     "lat": 52.8933589,
     "lng": -1.1822625,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+    "emails": [
+      "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com",
+      "c098db2425c540d3982e073ae7fc4c9a@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "info@van-voyage.co.uk"
+    ],
+    "description": "Van Voyage is a Camper Van Hire company based in the Midlands. Travel in style and comfort with our VW T6 Transporter"
   },
   {
     "name": "Vehicle Partners Ltd",
@@ -298,12 +377,17 @@
     "rating": 5,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, finance, point_of_interest",
     "lat": 52.7255629,
     "lng": -2.1186898,
     "found_in_location": "Stafford",
-    "found_with_query": "van rental Stafford"
+    "found_with_query": "van rental Stafford",
+    "email": "info@vehicle-partners.co.uk",
+    "emails": [
+      "info@vehicle-partners.co.uk"
+    ],
+    "description": "Car or van leasing and fleet management service. We service the whole of the UK from our Stafford base in the West Midlands."
   },
   {
     "name": "Staffordshire Vans",
@@ -315,12 +399,17 @@
     "rating": 5,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 9:00 AM – 3:00 PM; Sunday: 9:00 AM – 3:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 52.9809907,
     "lng": -2.0070285,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "staffordshirevehiclehire@gmail.com",
+    "emails": [
+      "staffordshirevehiclehire@gmail.com"
+    ],
+    "description": "Used cars for sale in Cheadle, Stoke-On-Trent from Staffordshire Vans. Visit our showroom or give one of our knowledgeable staff a call for more information on our range of used cars today on 07815 612963."
   },
   {
     "name": "Vizzu Car and Van Hire - Worcester",
@@ -332,12 +421,17 @@
     "rating": 5,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.1934742,
     "lng": -2.2216565,
     "found_in_location": "Worcester",
-    "found_with_query": "van hire Worcester"
+    "found_with_query": "van hire Worcester",
+    "email": "filler@godaddy.com",
+    "emails": [
+      "filler@godaddy.com"
+    ],
+    "description": "Our versatile range of vans is perfect for house moves, transporting goods, or keeping your business running smoothly and efficiently."
   },
   {
     "name": "Shire Van Hire",
@@ -349,12 +443,13 @@
     "rating": 5,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0061749,
     "lng": -0.3961123,
     "found_in_location": "Lincoln",
-    "found_with_query": "transit van hire Lincoln"
+    "found_with_query": "transit van hire Lincoln",
+    "description": "with tailored services to fit your domestic or commercial van hire needs"
   },
   {
     "name": "Vale Van Hire",
@@ -366,7 +461,7 @@
     "rating": 5,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 6:30 PM; Tuesday: 7:30 AM – 6:30 PM; Wednesday: 7:30 AM – 6:30 PM; Thursday: 7:30 AM – 6:30 PM; Friday: 7:30 AM – 6:30 PM; Saturday: 7:30 AM – 6:30 PM; Sunday: 7:30 AM – 6:30 PM",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM; Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.9411238,
     "lng": -0.8842589999999999,
@@ -383,7 +478,7 @@
     "rating": 5,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 9:00 PM; Tuesday: 8:00 AM – 9:00 PM; Wednesday: 8:00 AM – 9:00 PM; Thursday: 8:00 AM – 9:00 PM; Friday: 8:00 AM – 9:00 PM; Saturday: 8:00 AM – 9:00 PM; Sunday: 9:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.9365898,
     "lng": -1.2701408,
@@ -400,7 +495,7 @@
     "rating": 5,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 8:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.97149839999999,
     "lng": -1.4584398,
@@ -434,12 +529,18 @@
     "rating": 5,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4944454,
     "lng": -1.8951856,
     "found_in_location": "Birmingham",
-    "found_with_query": "van rental Birmingham"
+    "found_with_query": "van rental Birmingham",
+    "email": "l.tyrer@liverpoolvwcv.co.uk",
+    "emails": [
+      "l.tyrer@liverpoolvwcv.co.uk",
+      "liam.tyrer@liverpoolvwcv.co.uk"
+    ],
+    "description": "Vehicle rental available from only \u00a323 per day. We offer awide range of Volkswagen vehiclesincluding Commercial and passenger vehicles."
   },
   {
     "name": "Cool Motion Refrigerated Van and Trailer Rental (Leicester)",
@@ -451,12 +552,13 @@
     "rating": 5,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.63387460000001,
     "lng": -1.1396949,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "description": "Cool Motion Refrigerated Van and Trailer Rental - Complimentary Delivery and Collection UK Mainland"
   },
   {
     "name": "The Van Hire Company Leicester",
@@ -485,12 +587,17 @@
     "rating": 5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: 9:00 – 11:00 AM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u2009\u2013\u200911:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 53.0952149,
     "lng": -2.0368591,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "lymehire@gmail.com",
+    "emails": [
+      "lymehire@gmail.com"
+    ],
+    "description": "We are a local business based in Leek, Staffordshire providing vehicle hire and sales through the North West."
   },
   {
     "name": "Tjay Rentals",
@@ -502,12 +609,21 @@
     "rating": 5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.6428085,
     "lng": -2.4183783,
     "found_in_location": "Telford",
-    "found_with_query": "van hire Telford"
+    "found_with_query": "van hire Telford",
+    "email": "brian@jansgarage.co.uk",
+    "emails": [
+      "brian@jansgarage.co.uk",
+      "info@janshaulage.co.uk",
+      "info@tjayrentals.co.uk",
+      "lauragriffiths@tjayrentals.co.uk",
+      "michaelhinchley@tjayrentals.co.uk"
+    ],
+    "description": "Explore our range of reliable and competitively priced vehicles for hire in Telford. From 9-seater minibuses to diesel vans, we cater to commercial clients for long or short term rentals."
   },
   {
     "name": "Ollies Van Hire",
@@ -536,7 +652,7 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.9625467,
     "lng": -1.1007965,
@@ -553,7 +669,7 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.6510561,
     "lng": -1.1654523,
@@ -570,7 +686,7 @@
     "rating": 5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.95360059999999,
     "lng": -1.0609274,
@@ -587,7 +703,7 @@
     "rating": 5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.9558957,
     "lng": -0.9570025,
@@ -609,7 +725,12 @@
     "lat": 52.5405995,
     "lng": -1.8853931,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "info@selfdrivevanhire.co.uk",
+    "emails": [
+      "info@selfdrivevanhire.co.uk"
+    ],
+    "description": "Admiral Self Drive Van Hire offers affordable van, truck, and minibus rental in the West Midlands. Hire by the day, week, month or year. Our vehicle range includes small vans, Transits, Lutons with or without tail-lifts, minibuses and 7.5 Tonne trucks."
   },
   {
     "name": "Proovia Rentals LTD",
@@ -621,12 +742,18 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 10:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5112095,
     "lng": -1.8298799,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "rentals@proovia.co.uk",
+    "emails": [
+      "rentals@proovia.co.uk",
+      "you@company.com"
+    ],
+    "description": "More Than Rentals, It's Your Transportation Solution"
   },
   {
     "name": "Midland Vans Online",
@@ -638,12 +765,17 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.349184,
     "lng": -1.8813293,
     "found_in_location": "Birmingham",
-    "found_with_query": "transit van hire Birmingham"
+    "found_with_query": "transit van hire Birmingham",
+    "email": "sales@midlandvansonline.co.uk",
+    "emails": [
+      "sales@midlandvansonline.co.uk"
+    ],
+    "description": "Used vans for sale in Birmingham, West Midlands from Midland Vans Online. Visit our showroom or give one of our knowledgeable staff a call for more information on our range of used vans today on 01564 898344."
   },
   {
     "name": "Fresh Fridge Hire",
@@ -655,12 +787,13 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 12:00 AM – 11:45 PM; Tuesday: 12:00 AM – 11:45 PM; Wednesday: 12:00 AM – 11:45 PM; Thursday: 12:00 AM – 11:45 PM; Friday: 12:00 AM – 11:45 PM; Saturday: 12:00 AM – 11:45 PM; Sunday: 12:00 AM – 11:45 PM",
+    "opening_hours": "Monday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Tuesday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Wednesday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Thursday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Friday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Saturday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM; Sunday: 12:00\u202fAM\u2009\u2013\u200911:45\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.92095,
     "lng": -1.451087,
     "found_in_location": "Derby",
-    "found_with_query": "van hire Derby"
+    "found_with_query": "van hire Derby",
+    "description": "We were incorporated in 2008 and have survived through two lockdowns, two floods and a life altering disability to our MD. - Resilience"
   },
   {
     "name": "Priority Hire Limited",
@@ -677,7 +810,12 @@
     "lat": 52.3640033,
     "lng": -2.2456695,
     "found_in_location": "Kidderminster",
-    "found_with_query": "van rental Kidderminster"
+    "found_with_query": "van rental Kidderminster",
+    "email": "enquiries@priorityhire.co.uk",
+    "emails": [
+      "enquiries@priorityhire.co.uk"
+    ],
+    "description": "The team at Priority Hire have built up years of experience in the waste transport industry, Our fleet has grown to include a wide variety of refuse and"
   },
   {
     "name": "Vangogo",
@@ -740,12 +878,18 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.2625661,
     "lng": -0.6449674,
     "found_in_location": "Wellingborough",
-    "found_with_query": "van hire Wellingborough"
+    "found_with_query": "van hire Wellingborough",
+    "email": "info@tjvehiclehire.co.uk",
+    "emails": [
+      "info@tjvehiclehire.co.uk",
+      "sebastian@aldusleaf.org"
+    ],
+    "description": "Flexible self-drive hire for vans and cars- insurance, road fund license, vehicle breakdown cover, and maintenance included."
   },
   {
     "name": "Van Hire Birmingham",
@@ -757,7 +901,7 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 5:30 PM; Tuesday: 9:30 AM – 5:30 PM; Wednesday: 9:30 AM – 5:30 PM; Thursday: 9:30 AM – 5:30 PM; Friday: 9:30 AM – 5:30 PM; Saturday: 9:30 AM – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4717031,
     "lng": -1.9260617,
@@ -796,7 +940,16 @@
     "lat": 52.4648721,
     "lng": -1.4114798,
     "found_in_location": "Coventry",
-    "found_with_query": "van rental Coventry"
+    "found_with_query": "van rental Coventry",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "info@ozmerchco.co.uk"
+    ],
+    "description": "Oz Merch and Touring splitter van hire, tour laminates and screen printed merchchandise"
   },
   {
     "name": "Go Go Hire Limited",
@@ -808,7 +961,7 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 5:30 PM; Tuesday: 9:30 AM – 5:30 PM; Wednesday: 9:30 AM – 5:30 PM; Thursday: 9:30 AM – 5:30 PM; Friday: 9:30 AM – 5:30 PM; Saturday: 9:30 AM – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.90651,
     "lng": -1.4509253,
@@ -825,12 +978,17 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 2:00 PM; Sunday: 8:30 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.6141969,
     "lng": -2.0291873,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "van hire Wolverhampton"
+    "found_with_query": "van hire Wolverhampton",
+    "email": "rental@goldsgroup.co.uk",
+    "emails": [
+      "rental@goldsgroup.co.uk"
+    ],
+    "description": "Van Hire Cannock, Minibus Hire and Car Hire in Cannock, Brownhills, Little Aston, Streetly and Surrounding areas. Book online today with Golds Vehicle Hire and enjoy 10% Off All Vehicle Hire. Book Online Today!"
   },
   {
     "name": "Plant & Vehicle Hire and Sales Ltd",
@@ -842,12 +1000,18 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.673319,
     "lng": -2.1232394,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "van hire Wolverhampton"
+    "found_with_query": "van hire Wolverhampton",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "pvhsltd@hotmail.com"
+    ],
+    "description": "Plant & Vehicle Hire & Sales Ltd Four Ashes"
   },
   {
     "name": "CVM World Rentals",
@@ -859,12 +1023,17 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.09936990000001,
     "lng": -2.18142,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "info@cvmworldrentals.co.uk",
+    "emails": [
+      "info@cvmworldrentals.co.uk"
+    ],
+    "description": "CVM World Rentals Your Trusted Partner in Self-Drive Vehicle Rentals Nationwide Request a Quote Contact Us Call Now 01782 444 232 Who are CVM Rentals? CVM World Rentals stands as a prominent player in the Commercial Vehicle Rental industry, based in the heart of the Midlands, and extending its..."
   },
   {
     "name": "Staffordshire Grab Lorry & Tipper Hire",
@@ -898,7 +1067,8 @@
     "lat": 52.2598387,
     "lng": -1.8901356,
     "found_in_location": "Redditch",
-    "found_with_query": "transit van hire Redditch"
+    "found_with_query": "transit van hire Redditch",
+    "description": "Studley Van Hire provides high quality, well maintained & cleaned vans for hire. Our van hire starts from just \u00a340 per day."
   },
   {
     "name": "Van Conversions Lincoln",
@@ -910,7 +1080,7 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2207339,
     "lng": -0.4282925,
@@ -927,7 +1097,7 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 12:00 – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 12:00\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.21097529999999,
     "lng": -0.8927303000000001,
@@ -944,12 +1114,18 @@
     "rating": 4.9,
     "total_reviews": 681,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.5973285,
     "lng": -1.0757927,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "name@emaildomain.com",
+    "emails": [
+      "name@emaildomain.com",
+      "oadbyhire@seniorcars.co.uk"
+    ],
+    "description": "Serving the people of Leicester and surrounding areas for more than 30 years, Senior Self Drive have built a long standing reputation for providing affordable rental vehicles in excellent condition to suit the needs of families, charities, sports clubs, schools and corporate interests."
   },
   {
     "name": "Senior Car & Van Hire Market Harborough",
@@ -961,12 +1137,18 @@
     "rating": 4.9,
     "total_reviews": 327,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.4802885,
     "lng": -0.9072139,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "name@emaildomain.com",
+    "emails": [
+      "name@emaildomain.com",
+      "oadbyhire@seniorcars.co.uk"
+    ],
+    "description": "Serving the people of Leicester and surrounding areas for more than 30 years, Senior Self Drive have built a long standing reputation for providing affordable rental vehicles in excellent condition to suit the needs of families, charities, sports clubs, schools and corporate interests."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Chesterfield",
@@ -978,12 +1160,13 @@
     "rating": 4.9,
     "total_reviews": 163,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.24932829999999,
     "lng": -1.4217451,
     "found_in_location": "Chesterfield",
-    "found_with_query": "van hire Chesterfield"
+    "found_with_query": "van hire Chesterfield",
+    "description": "Get an instant quote for car and van hire in Chesterfield with competitive, all-inclusive car hire prices. Book online today for quality, hassle-free rental."
   },
   {
     "name": "HinckleyVanRental.co.uk",
@@ -995,12 +1178,21 @@
     "rating": 4.9,
     "total_reviews": 116,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: 9:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.5538176,
     "lng": -1.3775235,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "bookings@hinckleyvanrental.co.uk"
+    ],
+    "description": "Hire panel vans and luton vans from Hinckley Van Rental in Hinckley, Leicestershire. All prices include VAT, with discounts for 2 days, 5 days or longer term."
   },
   {
     "name": "Swift Van Hire Ltd",
@@ -1012,12 +1204,21 @@
     "rating": 4.9,
     "total_reviews": 104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:30 PM; Tuesday: 8:00 AM – 4:30 PM; Wednesday: 8:00 AM – 4:30 PM; Thursday: 8:00 AM – 4:30 PM; Friday: 8:00 AM – 4:30 PM; Saturday: 8:00 – 10:00 AM; Sunday: 9:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: 8:00\u2009\u2013\u200910:00\u202fAM; Sunday: 9:00\u2009\u2013\u200910:00\u202fAM",
     "types": "car_rental, establishment, moving_company, point_of_interest",
     "lat": 52.61610940000001,
     "lng": -1.6773463,
     "found_in_location": "Birmingham",
-    "found_with_query": "luton van hire Birmingham"
+    "found_with_query": "luton van hire Birmingham",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "swiftvanhire@hotmail.co.uk"
+    ],
+    "description": "Commercial Vehicle Hire - Swift Van Hire Ltd, Tamworth. 100+ Google Reviews \u2013 4.9 Rated. 20+ Years\u2019 Experience. Domestic and Commercial. Call & Book Now."
   },
   {
     "name": "Northants Van Centre",
@@ -1029,12 +1230,17 @@
     "rating": 4.9,
     "total_reviews": 88,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.2936655,
     "lng": -0.6772436,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "email": "charlesallencars@btinternet.com",
+    "emails": [
+      "charlesallencars@btinternet.com"
+    ],
+    "description": "Used Vans for sale in Wellingborough & Northamptonshire - Quality stock at Northants Van Centre. Great selection of used Vans for sale, competitive finance available!"
   },
   {
     "name": "Golds Vehicle Hire - Car and Van Hire Cannock",
@@ -1046,12 +1252,17 @@
     "rating": 4.9,
     "total_reviews": 73,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:30 AM – 2:00 PM; Sunday: 8:30 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.68747339999999,
     "lng": -1.9842147,
     "found_in_location": "Walsall",
-    "found_with_query": "van hire Walsall"
+    "found_with_query": "van hire Walsall",
+    "email": "rental@goldsgroup.co.uk",
+    "emails": [
+      "rental@goldsgroup.co.uk"
+    ],
+    "description": "Van Hire Cannock, Minibus Hire and Car Hire in Cannock, Brownhills, Little Aston, Streetly and Surrounding areas. Book online today with Golds Vehicle Hire and enjoy 10% Off All Vehicle Hire. Book Online Today!"
   },
   {
     "name": "Redditch Vehicle Recycling - RVR",
@@ -1063,12 +1274,17 @@
     "rating": 4.9,
     "total_reviews": 61,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.3060937,
     "lng": -1.9209669,
     "found_in_location": "Redditch",
-    "found_with_query": "transit van hire Redditch"
+    "found_with_query": "transit van hire Redditch",
+    "email": "redditchvehiclerecycling@gmail.com",
+    "emails": [
+      "redditchvehiclerecycling@gmail.com"
+    ],
+    "description": "Redditch Vehicle Recycling offers reliable and eco-friendly car scrap services in Redditch and the surrounding areas. Our team of experts ensures the safe and responsible recycling of vehicles, providing a hassle-free solution for getting rid of your old or unwanted cars. Contact us today for..."
   },
   {
     "name": "Hodgson's travel Derby",
@@ -1085,7 +1301,13 @@
     "lat": 52.8833508,
     "lng": -1.4256805,
     "found_in_location": "Derby",
-    "found_with_query": "van rental Derby"
+    "found_with_query": "van rental Derby",
+    "email": "hodgsontravel.derby@gmail.com",
+    "emails": [
+      "hodgsontravel.derby@gmail.com",
+      "user@domain.com"
+    ],
+    "description": "Derby based, 16 seater luxury minibus for hire, we cover all types of events. Drivers have full CRB and correct documentation with relevant Insurances. The mini bus features. Aircon, privacy Glass, smart TV, colour changing LED lighting, cup holders."
   },
   {
     "name": "Otis Vehicle Rentals Ltd",
@@ -1097,12 +1319,13 @@
     "rating": 4.9,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4825361,
     "lng": -2.0225476,
     "found_in_location": "Dudley",
-    "found_with_query": "luton van hire Dudley"
+    "found_with_query": "luton van hire Dudley",
+    "description": "Look no further. Feel free to browse our selection of top quality vehicles. These range from small panel vans, 3.5ton vans through to 26ton high volume trucks with and without tail-lifts. Available for Daily, Weekly, or Monthly rental or Contract Hire."
   },
   {
     "name": "Worksop Van Hire",
@@ -1114,12 +1337,17 @@
     "rating": 4.8,
     "total_reviews": 233,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 9:30 AM; Sunday: 8:00 – 9:30 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u20099:30\u202fAM; Sunday: 8:00\u2009\u2013\u20099:30\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 53.30936149999999,
     "lng": -1.1162589,
     "found_in_location": "Chesterfield",
-    "found_with_query": "luton van hire Chesterfield"
+    "found_with_query": "luton van hire Chesterfield",
+    "email": "admin@worksopvanhire.com",
+    "emails": [
+      "admin@worksopvanhire.com"
+    ],
+    "description": "Worksop Van Hire provides self drive van hire in Worksop and surrounding areas. We offer a range of vans for hire all of which are serviced regularly to ensure the best in quality and reliability."
   },
   {
     "name": "Easihire Car and Van Hire - Wolverhampton",
@@ -1131,12 +1359,21 @@
     "rating": 4.8,
     "total_reviews": 174,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 2:00 PM; Sunday: 9:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.5663877,
     "lng": -2.1041062,
     "found_in_location": "Birmingham",
-    "found_with_query": "luton van hire Birmingham"
+    "found_with_query": "luton van hire Birmingham",
+    "email": "blackburn@easihire.co.uk",
+    "emails": [
+      "blackburn@easihire.co.uk",
+      "edinburgh@easihire.co.uk",
+      "preston@easihire.co.uk",
+      "wigan@easihire.co.uk",
+      "wolverhampton@easihire.co.uk"
+    ],
+    "description": "Van Hire Wolverhampton \u272d\u272d\u272d\u272d\u272d Hire a Self Drive Van \u2713 BOOK ONLINE \u260e 01902 491 449 \u2713 Brand New Fleet \u2713 Great Rental Rates \u2713 Superb choice from small to large vans."
   },
   {
     "name": "Halesowen Self Drive",
@@ -1148,12 +1385,17 @@
     "rating": 4.8,
     "total_reviews": 163,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:30 AM; Sunday: 8:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:30\u202fAM; Sunday: 8:00\u2009\u2013\u200910:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 52.4589688,
     "lng": -2.0505103,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "hello@halesowenselfdrive.co.uk",
+    "emails": [
+      "hello@halesowenselfdrive.co.uk"
+    ],
+    "description": "Service rating : Very quick and easy to use their service and a very good priceProduct rating : Excellent service from the staff and great to use this vehicle"
   },
   {
     "name": "Kev's Van Rentals, MOT & Autocentre",
@@ -1165,12 +1407,17 @@
     "rating": 4.8,
     "total_reviews": 152,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 10:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200910:00\u202fAM; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest, store",
     "lat": 52.9153868,
     "lng": -1.1569031,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "info@vanhirenottingham.co.uk",
+    "emails": [
+      "info@vanhirenottingham.co.uk"
+    ],
+    "description": "Hire reliable, affordable vans in Nottingham with Kev's Van Rentals. Choose from a wide range of clean, modern vans for short or long-term rentals, including European travel options. Book online today!"
   },
   {
     "name": "AJ Self Drive",
@@ -1182,12 +1429,17 @@
     "rating": 4.8,
     "total_reviews": 130,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 10:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4515505,
     "lng": -2.0433398,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "hello@ajhalesowen.com",
+    "emails": [
+      "hello@ajhalesowen.com"
+    ],
+    "description": "Our vehicles are equipped with forward and reverse facing cameras, parking sensors and are internally cleaned prior to every hire."
   },
   {
     "name": "Lincs Van Hire",
@@ -1199,12 +1451,13 @@
     "rating": 4.8,
     "total_reviews": 128,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.23568419999999,
     "lng": -0.5053038,
     "found_in_location": "Lincoln",
-    "found_with_query": "van hire Lincoln"
+    "found_with_query": "van hire Lincoln",
+    "description": "Great Value Vehicle Hire in Lincoln, Louth, Sleaford and beyond Choose Lincs Van Hire for affordable car and van hire. We offer a great range of Cars, Vans, Minibuses, MPV\u2019s, 4x4s and Utility vehicles to hire for both business and personal use. Great Service: Our team are there to guide and help..."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Wolverhampton",
@@ -1216,12 +1469,13 @@
     "rating": 4.8,
     "total_reviews": 120,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.5947798,
     "lng": -2.083664,
     "found_in_location": "Birmingham",
-    "found_with_query": "transit van hire Birmingham"
+    "found_with_query": "transit van hire Birmingham",
+    "description": "Affordable car hire and van rental in Wolverhampton. With over 35 branches throughout Scotland and England, we offer hassle-free service and excellent vehicles."
   },
   {
     "name": "Watts Van Hire",
@@ -1233,12 +1487,17 @@
     "rating": 4.8,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 10:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200910:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.98118239999999,
     "lng": -1.1798413,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "info@wattsvanhire.co.uk",
+    "emails": [
+      "info@wattsvanhire.co.uk"
+    ],
+    "description": "From\u00a379.00Our range of small vans are suitable for small loads, tools, small single items of furniture and can be supplied with a roof rack.Book NowW:1620mm L:1800mm H:1250mm"
   },
   {
     "name": "Arnold Clark Car & Van Rental, Stafford",
@@ -1250,12 +1509,13 @@
     "rating": 4.8,
     "total_reviews": 92,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.8316206,
     "lng": -2.1377099,
     "found_in_location": "Telford",
-    "found_with_query": "van hire Telford"
+    "found_with_query": "van hire Telford",
+    "description": "Get an instant quote for car and van hire in Stafford with competitive, all-inclusive car hire prices. Book online today for quality, hassle-free rental."
   },
   {
     "name": "Admiral Van Hire Walsall",
@@ -1267,12 +1527,17 @@
     "rating": 4.8,
     "total_reviews": 89,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 12:00 – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 12:00\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.58989760000001,
     "lng": -2.0098449,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "info@selfdrivevanhire.co.uk",
+    "emails": [
+      "info@selfdrivevanhire.co.uk"
+    ],
+    "description": "Admiral Self Drive Van Hire offers affordable van, truck, and minibus rental in the West Midlands. Hire by the day, week, month or year. Our vehicle range includes small vans, Transits, Lutons with or without tail-lifts, minibuses and 7.5 Tonne trucks."
   },
   {
     "name": "Van Hire Coalville Ltd",
@@ -1284,12 +1549,17 @@
     "rating": 4.8,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 – 11:30 AM; Sunday: 8:00 – 9:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u2009\u2013\u200911:30\u202fAM; Sunday: 8:00\u2009\u2013\u20099:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 52.73436419999999,
     "lng": -1.3742347,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "enquiries@vanhirecoalville.com",
+    "emails": [
+      "enquiries@vanhirecoalville.com"
+    ],
+    "description": "Car and van leasing in Coalville. Vans. Car. Self-drive hire. 30 years experience. Very competitive rates. Modern reliable vehicles. Short or long term"
   },
   {
     "name": "Moorland Self Drive",
@@ -1301,12 +1571,17 @@
     "rating": 4.8,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: 8:30 AM – 1:00 PM, 5:00 – 6:00 PM; Sunday: 8:30 – 9:00 AM, 5:00 – 6:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20096:00\u202fPM; Sunday: 8:30\u2009\u2013\u20099:00\u202fAM, 5:00\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0943595,
     "lng": -2.1801439,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "info@moorlandselfdrive.co.uk",
+    "emails": [
+      "info@moorlandselfdrive.co.uk"
+    ],
+    "description": "Flexible Car & Van Hire, Sales & Leasing for Personal & Commercial Use in Stoke on Trent Since 1986. Open 7 Days Per Week. Call Us on 01782 517782 Today."
   },
   {
     "name": "My Mate Dave Van Rentals",
@@ -1318,12 +1593,17 @@
     "rating": 4.8,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:30 AM – 5:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.2908138,
     "lng": -0.6924127,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "email": "mymatedaverentals@gmail.com",
+    "emails": [
+      "mymatedaverentals@gmail.com"
+    ],
+    "description": "Best van hire prices in Northamptonshire for private or business hire. Large van hire from \u00a391 a day."
   },
   {
     "name": "Radius Vehicle Solutions - Leicester",
@@ -1335,12 +1615,13 @@
     "rating": 4.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7820946,
     "lng": -1.0451384,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "description": "Find your perfect business vehicle with deals on flexible hire and leasing from Radius. With a wide range of cars & vans, we have deals for every business need."
   },
   {
     "name": "The Van Depot",
@@ -1352,12 +1633,19 @@
     "rating": 4.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.9949944,
     "lng": -2.1480175,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "transit van hire Stoke-on-Trent"
+    "found_with_query": "transit van hire Stoke-on-Trent",
+    "email": "%20thevandepot@yahoo.com",
+    "emails": [
+      "%20thevandepot@yahoo.com",
+      "thevandepot@hotmail.co.uk",
+      "thevandepot@yahoo.com"
+    ],
+    "description": "High Quality Commercial Vehicle Sales High Quality Ex-fleet Commercial Vehicles. Our showroom specialises in a range of 3.5 ton low loaders and Luton vans. All of our vehicles come with 6 months warranty courtesy of The Motoring Organisation. Fill out the form below to get a quote Get A Quote..."
   },
   {
     "name": "Moorlands Vehicle Rentals Limited",
@@ -1369,12 +1657,17 @@
     "rating": 4.8,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.101361,
     "lng": -2.0330928,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "hire@moorlandsvehiclerentals.co.uk",
+    "emails": [
+      "hire@moorlandsvehiclerentals.co.uk"
+    ],
+    "description": "At Moorlands Vehicle Rentals we can offer our customer from a Small Fiat 500 to a luxury Mercedes Benz. We offer Prestige &amp; Luxury vehicle to corporate clients or for special time in your life such as weddings etc. All vehicle are inclusive of insurance and can be hired from one day up to 4..."
   },
   {
     "name": "Vanlife Rentals Ltd",
@@ -1386,12 +1679,17 @@
     "rating": 4.8,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.46502359999999,
     "lng": -1.4109489,
     "found_in_location": "Coventry",
-    "found_with_query": "van rental Coventry"
+    "found_with_query": "van rental Coventry",
+    "email": "info@vanliferentals.co.uk",
+    "emails": [
+      "info@vanliferentals.co.uk"
+    ],
+    "description": "Vanlife Rentals specialise in Camper Van and Motorhome hire, carefully designed to suit all your travelling needs. With all the latest features, our camper vans offer all the essentials, whilst giving you a comfortable living space."
   },
   {
     "name": "Link-Central",
@@ -1403,7 +1701,7 @@
     "rating": 4.8,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.63781909999999,
     "lng": -1.7140698,
@@ -1420,7 +1718,7 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5133387,
     "lng": -1.7085595,
@@ -1437,12 +1735,17 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: 8:30 – 9:00 AM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 8:30\u2009\u2013\u20099:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 52.4909391,
     "lng": -2.1315143,
     "found_in_location": "Birmingham",
-    "found_with_query": "transit van hire Birmingham"
+    "found_with_query": "transit van hire Birmingham",
+    "email": "info@wtrvanhire.com",
+    "emails": [
+      "info@wtrvanhire.com"
+    ],
+    "description": "For van rental in Brierley Hill, our second depot is conveniently located near to the Dell Stadium, close to the Kingswinford, Stourbridge, Dudley and Bridgnorth areas. Our friendly team will make sure you get the right vehicle for the job at our Brierley Hill van hire depot."
   },
   {
     "name": "TCHire - Car & Van hire/rental Wolverhampton, West Midlands - TCH",
@@ -1454,12 +1757,17 @@
     "rating": 4.7,
     "total_reviews": 386,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest, store",
     "lat": 52.5788503,
     "lng": -2.1330518,
     "found_in_location": "Birmingham",
-    "found_with_query": "luton van hire Birmingham"
+    "found_with_query": "luton van hire Birmingham",
+    "email": "sales@tchire.co.uk",
+    "emails": [
+      "sales@tchire.co.uk"
+    ],
+    "description": "Terminus Contract Hire is the leading car hire and Van rental company in Midlands offering a wide range of vehicles, Please check prices online to Book."
   },
   {
     "name": "Kev's Van Rentals",
@@ -1471,12 +1779,17 @@
     "rating": 4.7,
     "total_reviews": 194,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7863122,
     "lng": -1.2401039,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "info@kevsvanrentals.co.uk",
+    "emails": [
+      "info@kevsvanrentals.co.uk"
+    ],
+    "description": "Van hire from a friendly, local business with high spec vans and outstanding customer service. If you're looking to rent a van then we've a massive range to choose from all at great prices. Tel: 01509 646455 Email: info@kevsvanrentals.co.uk Address: Dishley Grange, Derby Road, Loughborough, LE11..."
   },
   {
     "name": "Bridges Van Hire LTD",
@@ -1488,12 +1801,17 @@
     "rating": 4.7,
     "total_reviews": 154,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 10:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200910:00\u202fAM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.996007,
     "lng": -1.2775063,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "enquiries@bridgesvanhire.co.uk",
+    "emails": [
+      "enquiries@bridgesvanhire.co.uk"
+    ],
+    "description": "VAN HIRETRAILER HIREVEHICLES FOR SALESTORAGE CONTAINERS"
   },
   {
     "name": "Nuneaton Vehicle Rental Ltd",
@@ -1505,12 +1823,17 @@
     "rating": 4.7,
     "total_reviews": 114,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 4:30 PM; Tuesday: 8:30 AM – 4:30 PM; Wednesday: 8:30 AM – 4:30 PM; Thursday: 8:30 AM – 4:30 PM; Friday: 8:30 AM – 4:30 PM; Saturday: 8:30 AM – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.51848829999999,
     "lng": -1.4601617,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "nvrhire@aol.co.uk",
+    "emails": [
+      "nvrhire@aol.co.uk"
+    ],
+    "description": "OPEN 6 DAYS A WEEKMONDAY TO FRIDAY 8:30AM TO 4:30PMSATURDAY 8:30AM TO 3PM"
   },
   {
     "name": "Rhino Van Hire Ltd",
@@ -1522,12 +1845,18 @@
     "rating": 4.7,
     "total_reviews": 114,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, moving_company, point_of_interest",
     "lat": 53.29159,
     "lng": -0.540405,
     "found_in_location": "Lincoln",
-    "found_with_query": "van hire Lincoln"
+    "found_with_query": "van hire Lincoln",
+    "email": "lauraslimos@hotmail.co.uk",
+    "emails": [
+      "lauraslimos@hotmail.co.uk",
+      "rhinohire@outlook.com"
+    ],
+    "description": "If you're looking for van rentals in Lincolnshire, our team can help. Call Rhino Van Hire Ltd in Lincoln on 01522 537 633 for transit van rentals."
   },
   {
     "name": "Waymax Van Hire",
@@ -1539,12 +1868,19 @@
     "rating": 4.7,
     "total_reviews": 62,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:30 AM – 1:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7507094,
     "lng": -1.9192368,
     "found_in_location": "Stafford",
-    "found_with_query": "van hire Stafford"
+    "found_with_query": "van hire Stafford",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "info@waymaxvanhire.com"
+    ],
+    "description": "Van, car and minibus hire company based in Rugeley. Waymax is a family run business that pride ourselves in offering a well established local and friendly service to all of our customers."
   },
   {
     "name": "Swift Self Drive - Car & Van Hire Stoke on Trent",
@@ -1556,12 +1892,21 @@
     "rating": 4.7,
     "total_reviews": 59,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 2:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.0355151,
     "lng": -2.1885249,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+      "info@swiftselfdrivehire.co.uk",
+      "nfo@swiftselfdrive.co.uk"
+    ],
+    "description": "Swift Self Drive. Weather you're looking for weekend car hire or to hire a van for the day, we can help. We have great rates for cars, vans and dual control short-term hire."
   },
   {
     "name": "Townsend Vehicle Hire Ltd",
@@ -1573,12 +1918,13 @@
     "rating": 4.7,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:15 AM – 5:30 PM; Tuesday: 8:15 AM – 5:30 PM; Wednesday: 8:15 AM – 5:30 PM; Thursday: 8:15 AM – 5:30 PM; Friday: 8:15 AM – 5:30 PM; Saturday: 8:15 AM – 12:00 PM; Sunday: 8:30 – 9:30 AM",
+    "opening_hours": "Monday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:15\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:15\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 8:30\u2009\u2013\u20099:30\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 52.2365404,
     "lng": -1.1096777,
     "found_in_location": "Rugby",
-    "found_with_query": "van rental Rugby"
+    "found_with_query": "van rental Rugby",
+    "description": "For daily Van and Car Hire across Rugby, Daventy and Northampton, come to Townsend where we have something suitable for everyone."
   },
   {
     "name": "Van Link Birmingham",
@@ -1590,7 +1936,7 @@
     "rating": 4.7,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.3319208,
     "lng": -1.8716515,
@@ -1612,7 +1958,12 @@
     "lat": 53.0402475,
     "lng": -2.1800424,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "info@tvcvr.co.uk",
+    "emails": [
+      "info@tvcvr.co.uk"
+    ],
+    "description": "TVC Vehicle Rentals in Stoke on Trent, Staffordshire. We offer a range of rentals including cars, vans, trucks, trailers, plant hire and shunting vehicles."
   },
   {
     "name": "Mansfield Woodhouse Car & Van Hire",
@@ -1624,12 +1975,17 @@
     "rating": 4.7,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 10:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.15715549999999,
     "lng": -1.1867516,
     "found_in_location": "Mansfield",
-    "found_with_query": "van hire Mansfield"
+    "found_with_query": "van hire Mansfield",
+    "email": "theoldmilllanegarage@gmail.com",
+    "emails": [
+      "theoldmilllanegarage@gmail.com"
+    ],
+    "description": "Looking for Self Drive Van Hire in Nottinghamshire? Contact Mansfield Woodhouse Self Van today on 01623 636 035 for excellent customer service."
   },
   {
     "name": "Green Line Vehicle Rentals",
@@ -1641,12 +1997,13 @@
     "rating": 4.7,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.2143327,
     "lng": -2.1992517,
     "found_in_location": "Worcester",
-    "found_with_query": "van hire Worcester"
+    "found_with_query": "van hire Worcester",
+    "description": "GBV Rentals vehicle hire and fleet management of cars, vans, mpv, minibuses, trucks and trailers. For business and consumer users. Locations in Tewkesbury, Cheltenham and Worcester."
   },
   {
     "name": "Arnold Clark Car & Van Rental, Nottingham",
@@ -1658,12 +2015,13 @@
     "rating": 4.6,
     "total_reviews": 128,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.9341545,
     "lng": -1.1766662,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "description": "Get an instant quote for car and van hire in Nottingham with competitive, all-inclusive car hire prices. Book online today for quality, hassle-free rental."
   },
   {
     "name": "The Van Yard Ltd",
@@ -1675,12 +2033,17 @@
     "rating": 4.6,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 10:30 AM – 4:30 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 53.232881,
     "lng": -1.360059,
     "found_in_location": "Chesterfield",
-    "found_with_query": "van hire Chesterfield"
+    "found_with_query": "van hire Chesterfield",
+    "email": "sales@thevanyard.net",
+    "emails": [
+      "sales@thevanyard.net"
+    ],
+    "description": "The Van Yard stock quality used Vans in Chesterfield and Derbyshire. Visit us for second hand vans."
   },
   {
     "name": "West Midlands Hire",
@@ -1692,12 +2055,13 @@
     "rating": 4.6,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 6:00 PM; Tuesday: 7:00 AM – 6:00 PM; Wednesday: 7:00 AM – 6:00 PM; Thursday: 7:00 AM – 6:00 PM; Friday: 7:00 AM – 6:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 52.5017891,
     "lng": -1.9685496,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "description": "Visit West Midlands Hire in Smethwick , established dealership and servicing specialist. Get in touch today to book a vehicle for rental or contract hire"
   },
   {
     "name": "Stable Hire Ltd Car & Van Hire",
@@ -1709,12 +2073,22 @@
     "rating": 4.6,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.26741850000001,
     "lng": -0.5803473,
     "found_in_location": "Wellingborough",
-    "found_with_query": "van hire Wellingborough"
+    "found_with_query": "van hire Wellingborough",
+    "email": "brian@stablehire.com",
+    "emails": [
+      "brian@stablehire.com",
+      "john@stablehire.com",
+      "luton@stablehire.com",
+      "neil@stablehire.com",
+      "rob@stablehire.com",
+      "stamford@stablehire.com"
+    ],
+    "description": "At Stable Hire we offer the highest levels of quality and service to all stakeholders within the plant and vehicle hire industries."
   },
   {
     "name": "A B C Van Hire",
@@ -1726,12 +2100,13 @@
     "rating": 4.5,
     "total_reviews": 279,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 4:30 PM; Tuesday: 7:30 AM – 4:30 PM; Wednesday: 7:30 AM – 4:30 PM; Thursday: 7:30 AM – 4:30 PM; Friday: 7:30 AM – 4:30 PM; Saturday: 7:30 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: 7:30\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.4338406,
     "lng": -1.494142,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "description": "ABC is a van hire company in Coventry with over 100 self drive vans and minibuses all based at our facility in Coventry."
   },
   {
     "name": "Value Car & Van Hire",
@@ -1743,7 +2118,7 @@
     "rating": 4.5,
     "total_reviews": 143,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 – 11:00 AM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u2009\u2013\u200911:00\u202fAM; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.9664112,
     "lng": -1.1289957,
@@ -1760,12 +2135,18 @@
     "rating": 4.5,
     "total_reviews": 67,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 5:30 PM; Sunday: 8:00 AM – 5:30 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.47376970000001,
     "lng": -2.1351235,
     "found_in_location": "Birmingham",
-    "found_with_query": "self drive van hire Birmingham"
+    "found_with_query": "self drive van hire Birmingham",
+    "email": "info@brierleyhill.wpengine.com",
+    "emails": [
+      "info@brierleyhill.wpengine.com",
+      "info@brierleyhillselfdrive.co.uk"
+    ],
+    "description": "Brierley Hill Self Drive offers low-cost van hire starting from \u00a360 per day. We have a van suitable for all domestic and commercial jobs."
   },
   {
     "name": "Sprint Motor Hire",
@@ -1777,12 +2158,17 @@
     "rating": 4.5,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 11:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4606068,
     "lng": -1.8837993,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "sales@sprintmotorhire.co.uk",
+    "emails": [
+      "sales@sprintmotorhire.co.uk"
+    ],
+    "description": "Find great deals on van hire in Birmingham. Choose from short and long wheel based vehicles including refrigerated & LUTON vans at affordable prices."
   },
   {
     "name": "Eurohire Vehicle Rentals (Birmingham) Ltd.",
@@ -1794,7 +2180,7 @@
     "rating": 4.5,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4994424,
     "lng": -1.8697795,
@@ -1811,12 +2197,17 @@
     "rating": 4.5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 53.022182,
     "lng": -2.1516893,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "paul@pascc.co.uk",
+    "emails": [
+      "paul@pascc.co.uk"
+    ],
+    "description": "Used cars for sale in Stoke-on-Trent, Staffordshire from PAS Car and Commercial. Visit our showroom or give one of our knowledgeable staff a call for more information on our range of used cars today on 01782 304040."
   },
   {
     "name": "Chesterfield Transporters Ltd",
@@ -1828,7 +2219,7 @@
     "rating": 4.5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 6:00 PM; Tuesday: 7:00 AM – 6:00 PM; Wednesday: 7:00 AM – 6:00 PM; Thursday: 7:00 AM – 6:00 PM; Friday: 7:00 AM – 6:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.261959,
     "lng": -1.4258949,
@@ -1845,12 +2236,17 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 10:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.45576089999999,
     "lng": -1.839089,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "hire@elmport.co.uk",
+    "emails": [
+      "hire@elmport.co.uk"
+    ],
+    "description": "Elmport Van Hire specialise in van rental in Birmingham and have over 30 years experience in providing simple, smooth and hassle-free rental experiences"
   },
   {
     "name": "Birmingham van hire",
@@ -1862,7 +2258,7 @@
     "rating": 4.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4609573,
     "lng": -1.8326891,
@@ -1879,12 +2275,17 @@
     "rating": 4.4,
     "total_reviews": 208,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 8:00 – 10:00 AM, 5:30 – 6:30 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u2009\u2013\u200910:00\u202fAM, 5:30\u2009\u2013\u20096:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.27229029999999,
     "lng": -1.5476672,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "castlevanhire@gmail.com",
+    "emails": [
+      "castlevanhire@gmail.com"
+    ],
+    "description": "At Castle Van Hire, we want to provide you with a cost efficient and positive service experience.No matter what kind of job you have in mind, Castle Van Hire has a van that can handle it. It\u2019s our business to provide you with the best van hire deals on the market and we\u2019re proud of the great..."
   },
   {
     "name": "Mansfield Van Hire",
@@ -1896,12 +2297,17 @@
     "rating": 4.4,
     "total_reviews": 206,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 – 10:00 AM, 3:00 – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u2009\u2013\u200910:00\u202fAM, 3:00\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "car_dealer, car_rental, establishment, point_of_interest, store",
     "lat": 53.13321939999999,
     "lng": -1.2105071,
     "found_in_location": "Nottingham",
-    "found_with_query": "luton van hire Nottingham"
+    "found_with_query": "luton van hire Nottingham",
+    "email": "bookings@mansfieldvanhire.com",
+    "emails": [
+      "bookings@mansfieldvanhire.com"
+    ],
+    "description": "We are a dedicated force for individuals and businesses to easily hire high quality vehicles, vans and cars for competitive prices. Our fleet stands strong and ready to serve your purposes."
   },
   {
     "name": "Hucknall Van Hire",
@@ -1913,12 +2319,17 @@
     "rating": 4.4,
     "total_reviews": 129,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: 8:00 – 9:30 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 8:00\u2009\u2013\u20099:30\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 53.0350414,
     "lng": -1.197176,
     "found_in_location": "Nottingham",
-    "found_with_query": "van hire Nottingham"
+    "found_with_query": "van hire Nottingham",
+    "email": "info@hucknallvanhire.co.uk",
+    "emails": [
+      "info@hucknallvanhire.co.uk"
+    ],
+    "description": "Serving in the East Midlands area, Hucknall Van Hire aim to get you on the road quickly and easily. We stock a large range of vans that businesses and indiv ..."
   },
   {
     "name": "Stoke Van Hire",
@@ -1930,12 +2341,18 @@
     "rating": 4.4,
     "total_reviews": 96,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 5:00 PM; Sunday: 8:30 AM – 12:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.99971799999999,
     "lng": -2.1840988,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "info@stokevanhire.com",
+    "emails": [
+      "info@stokevanhire.com",
+      "stokevanhire@gmail.com"
+    ],
+    "description": "Stoke Van Hire is a low cost van rental agency serving Stoke on Trent, Newcastle under Lyme and Staffordshire. Open 7 days and with flexible hire times."
   },
   {
     "name": "SSH Self Drive - Van Hire",
@@ -1947,12 +2364,18 @@
     "rating": 4.4,
     "total_reviews": 90,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.71763,
     "lng": -2.45774,
     "found_in_location": "Telford",
-    "found_with_query": "van hire Telford"
+    "found_with_query": "van hire Telford",
+    "email": "info@sshselfdrive.co.uk",
+    "emails": [
+      "info@sshselfdrive.co.uk",
+      "reservations@sshselfdrive.co.uk"
+    ],
+    "description": "Get great rates on car, van and minibus hire for Telford, Stafford and the surrounding area. Simple and flexible vehicle rental from SSH."
   },
   {
     "name": "JRM Hinckley Van Hire",
@@ -1964,12 +2387,17 @@
     "rating": 4.4,
     "total_reviews": 88,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:30 AM – 5:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5411338,
     "lng": -1.4128005,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "jrmhire@btconnect.com",
+    "emails": [
+      "jrmhire@btconnect.com"
+    ],
+    "description": "JRM Van Rental & Contract Hire offer van hire, truck rental, and car hire in Hinckley, Nuneaton, Coventry & Leicester"
   },
   {
     "name": "CJ Conversions",
@@ -1981,12 +2409,17 @@
     "rating": 4.4,
     "total_reviews": 62,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2406376,
     "lng": -0.5105404,
     "found_in_location": "Lincoln",
-    "found_with_query": "van rental Lincoln"
+    "found_with_query": "van rental Lincoln",
+    "email": "info@cjconversions.co.uk",
+    "emails": [
+      "info@cjconversions.co.uk"
+    ],
+    "description": "We provide vehicle adaptations such as hand controls, tail lifts and hoists and commercial vehicle conversions in Lincolnshire and the surrounding areas."
   },
   {
     "name": "North Derbyshire Commercials Ltd",
@@ -1998,7 +2431,7 @@
     "rating": 4.4,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 5:00 PM; Tuesday: 9:30 AM – 5:00 PM; Wednesday: 9:30 AM – 5:00 PM; Thursday: 9:30 AM – 5:00 PM; Friday: 9:30 AM – 5:00 PM; Saturday: 9:30 AM – 1:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:30\u202fAM\u2009\u2013\u20091:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 53.18886759999999,
     "lng": -1.3471739,
@@ -2015,12 +2448,13 @@
     "rating": 4.4,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 12:01 AM – 11:59 PM; Tuesday: 12:01 AM – 11:59 PM; Wednesday: 12:01 AM – 11:59 PM; Thursday: 12:01 AM – 11:59 PM; Friday: 12:01 AM – 11:59 PM; Saturday: 12:01 AM – 11:59 PM; Sunday: 12:01 AM – 11:59 PM",
+    "opening_hours": "Monday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Tuesday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Wednesday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Thursday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Friday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Saturday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM; Sunday: 12:01\u202fAM\u2009\u2013\u200911:59\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.6929659,
     "lng": -2.4829968,
     "found_in_location": "Telford",
-    "found_with_query": "transit van hire Telford"
+    "found_with_query": "transit van hire Telford",
+    "description": "Home Page gives information on the background of A-Star Transport and what the business has to offer."
   },
   {
     "name": "Petit Forestier (UK) Ltd",
@@ -2049,12 +2483,17 @@
     "rating": 4.3,
     "total_reviews": 297,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.4560937,
     "lng": -1.4854828,
     "found_in_location": "Coventry",
-    "found_with_query": "van rental Coventry"
+    "found_with_query": "van rental Coventry",
+    "email": "vwcomm.coventry@listers.co.uk",
+    "emails": [
+      "vwcomm.coventry@listers.co.uk"
+    ],
+    "description": "Visit Listers Volkswagen Van Centre Coventry for New Vans, Used Vans, Motability, Servicing, MOT, Parts, Fleet and Free Wi-Fi for Customers in Coventry, West Midlands."
   },
   {
     "name": "Perrys Chesterfield Car & Van Rental",
@@ -2066,12 +2505,17 @@
     "rating": 4.3,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "car_dealer, car_rental, establishment, point_of_interest, store",
     "lat": 53.2297354,
     "lng": -1.4236653,
     "found_in_location": "Mansfield",
-    "found_with_query": "van rental Mansfield"
+    "found_with_query": "van rental Mansfield",
+    "email": "newleads@perrys.co.uk",
+    "emails": [
+      "newleads@perrys.co.uk"
+    ],
+    "description": "Perrys is committed to providing affordable, reliable, and convenient van rental services. With a wide range of vehicles to choose from and a variety of rental options available, we have the perfect rental solution for your needs. Book your rental today and experience the Perrys difference!"
   },
   {
     "name": "ECO EXPRESS HIRE - DERBY",
@@ -2083,12 +2527,13 @@
     "rating": 4.3,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 12:00 – 3:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 12:00\u2009\u2013\u20093:00\u202fPM; Sunday: Closed",
     "types": "electronics_store, establishment, point_of_interest, store",
     "lat": 52.90169969999999,
     "lng": -1.468469,
     "found_in_location": "Derby",
-    "found_with_query": "van rental Derby"
+    "found_with_query": "van rental Derby",
+    "description": "Specialist in Hybrid Car Rental for Taxi Drivers."
   },
   {
     "name": "Midland Vans",
@@ -2100,7 +2545,7 @@
     "rating": 4.3,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 5:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 52.5902697,
     "lng": -2.0580065,
@@ -2117,7 +2562,7 @@
     "rating": 4.3,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.5726976,
     "lng": -1.9778404,
@@ -2134,12 +2579,17 @@
     "rating": 4.2,
     "total_reviews": 174,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 9:00 – 10:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 9:00\u2009\u2013\u200910:00\u202fAM",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.8083807,
     "lng": -1.6316341,
     "found_in_location": "Derby",
-    "found_with_query": "van hire Derby"
+    "found_with_query": "van hire Derby",
+    "email": "enquiries@flexiicarhire.co.uk",
+    "emails": [
+      "enquiries@flexiicarhire.co.uk"
+    ],
+    "description": "Flexii Car & Van Hire in Burton on Trent & Derby. Your local rental company covering Burton upon Trent, Derby, Swadlincote, and Lichfield areas. Book online for special prices."
   },
   {
     "name": "Close Brothers Vehicle Hire",
@@ -2151,7 +2601,7 @@
     "rating": 4.2,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, moving_company, point_of_interest",
     "lat": 52.9414787,
     "lng": -1.2926032,
@@ -2168,12 +2618,13 @@
     "rating": 4.1,
     "total_reviews": 78,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.21903349999999,
     "lng": -0.8676784,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "description": "Country Lion is a Northampton based Coach Hire and Self Drive Vehicle Hire company. Ideally situated in the Midlands within easy reach of the M1 motorway, to cover nearly all of your travel requirements, whether Contract or Private Hire. Family owned and managed since 1962, the company has built..."
   },
   {
     "name": "Tony Stanger Self Drive",
@@ -2185,7 +2636,7 @@
     "rating": 4.1,
     "total_reviews": 68,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.6704265,
     "lng": -1.0852401,
@@ -2207,7 +2658,8 @@
     "lat": 52.7826375,
     "lng": -1.219537,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "description": "Reflex Fleet Solutions provides flexible car and van hire for businesses, with Safety as Standard, plus tracking, dashcams, and driver risk management tech."
   },
   {
     "name": "Fraikin Ltd",
@@ -2224,7 +2676,13 @@
     "lat": 52.3907682,
     "lng": -1.4384762,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "dpo@fraikin.com",
+    "emails": [
+      "dpo@fraikin.com",
+      "u0022service.communication@fraikin.com"
+    ],
+    "description": "European leader in Vehicle Hire for professionals. On-board telematics, fleet maintenance and servicing with Fraikin."
   },
   {
     "name": "N D Brown",
@@ -2236,12 +2694,17 @@
     "rating": 4.1,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.656909,
     "lng": -2.120591,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "van hire Wolverhampton"
+    "found_with_query": "van hire Wolverhampton",
+    "email": "enquiries@ndbrown.co.uk",
+    "emails": [
+      "enquiries@ndbrown.co.uk"
+    ],
+    "description": "ND Brown are a leading supplier of specialist HGV hire, Tipper hire, Hot Box hire, Grab hire and Cage Tipper hire throughout the UK \u2013 find out more today!"
   },
   {
     "name": "GBV Rentals Kidderminster",
@@ -2270,12 +2733,17 @@
     "rating": 4,
     "total_reviews": 680,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 52.3707151,
     "lng": -1.8295505,
     "found_in_location": "Solihull",
-    "found_with_query": "van rental Solihull"
+    "found_with_query": "van rental Solihull",
+    "email": "sales@vanstation.co.uk",
+    "emails": [
+      "sales@vanstation.co.uk"
+    ],
+    "description": "Van Sales at VanStation: 400+ used vans at trade prices."
   },
   {
     "name": "TLP Self Drive",
@@ -2304,7 +2772,7 @@
     "rating": 4,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7703088,
     "lng": -1.1952235,
@@ -2338,12 +2806,17 @@
     "rating": 3.9,
     "total_reviews": 171,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "car_rental, car_repair, establishment, point_of_interest",
     "lat": 52.9051583,
     "lng": -1.473781,
     "found_in_location": "Nottingham",
-    "found_with_query": "luton van hire Nottingham"
+    "found_with_query": "luton van hire Nottingham",
+    "email": "info@atwalcarandvanhire.co.uk",
+    "emails": [
+      "info@atwalcarandvanhire.co.uk"
+    ],
+    "description": "Derby van hire from Atwal Van Hire. Van rentals including Transits, Luton & Luton with tail lift. Self drive hire with unlimited mileage."
   },
   {
     "name": "Action Self Drive Ltd",
@@ -2355,12 +2828,13 @@
     "rating": 3.8,
     "total_reviews": 219,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4868681,
     "lng": -1.8114008,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "description": "If you\u2019re searching for reliable van and minibus hire services, look no further than Action Self Drive Ltd. We can supply you with a range of appropriate vehicles that can suit your specific needs. Call us now, in Birmingham, West Midlands, to find out more."
   },
   {
     "name": "Studley Van Hire near Redditch",
@@ -2372,12 +2846,13 @@
     "rating": 3.8,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.2596041,
     "lng": -1.8900827,
     "found_in_location": "Solihull",
-    "found_with_query": "van hire Solihull"
+    "found_with_query": "van hire Solihull",
+    "description": "Studley Van Hire provides high quality, well maintained & cleaned vans for hire. Our van hire starts from just \u00a340 per day."
   },
   {
     "name": "Nav Van Hire LTD",
@@ -2389,12 +2864,13 @@
     "rating": 3.8,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4076171,
     "lng": -0.7445534,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "description": "Wherever you're going, there's a van to make the journey comfy and the job easy. From Medium Wheel Base (mwb) vans to Low Loaders and a selection of SUV's, MWB & Electric Vans, we've got you covered."
   },
   {
     "name": "Lawson's of Corby Ltd.",
@@ -2406,12 +2882,17 @@
     "rating": 3.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4938847,
     "lng": -0.6766774999999999,
     "found_in_location": "Corby",
-    "found_with_query": "van hire Corby"
+    "found_with_query": "van hire Corby",
+    "email": "lawsonsofcorby@gmail.com",
+    "emails": [
+      "lawsonsofcorby@gmail.com"
+    ],
+    "description": "Minibus & bus hire for all in Corby and the surrounding areas | 16-87 seat vehicles available"
   },
   {
     "name": "Fraikin",
@@ -2428,7 +2909,13 @@
     "lat": 52.3704075,
     "lng": -1.4673292,
     "found_in_location": "Coventry",
-    "found_with_query": "van rental Coventry"
+    "found_with_query": "van rental Coventry",
+    "email": "dpo@fraikin.com",
+    "emails": [
+      "dpo@fraikin.com",
+      "u0022service.communication@fraikin.com"
+    ],
+    "description": "European leader in Vehicle Hire for professionals. On-board telematics, fleet maintenance and servicing with Fraikin."
   },
   {
     "name": "CV self drive",
@@ -2440,7 +2927,7 @@
     "rating": 3.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4385778,
     "lng": -1.4582965,
@@ -2457,12 +2944,17 @@
     "rating": 3.7,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.3774405,
     "lng": -1.4653087,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "jrmhire@btconnect.com",
+    "emails": [
+      "jrmhire@btconnect.com"
+    ],
+    "description": "JRM Van Rental & Contract Hire offer van hire, truck rental, and car hire in Hinckley, Nuneaton, Coventry & Leicester"
   },
   {
     "name": "Derby Van Hire",
@@ -2474,7 +2966,7 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: 9:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.9042649,
     "lng": -1.4763244,
@@ -2491,7 +2983,7 @@
     "rating": 3.6,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5837164,
     "lng": -2.0998048,
@@ -2508,12 +3000,17 @@
     "rating": 3.5,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.5975726,
     "lng": -1.0938414,
     "found_in_location": "Leicester",
-    "found_with_query": "van hire Leicester"
+    "found_with_query": "van hire Leicester",
+    "email": "info@leicestershirevanrental.co.uk",
+    "emails": [
+      "info@leicestershirevanrental.co.uk"
+    ],
+    "description": "Leicestershire Van Rental provide local van hire and van rental services throughout Leicester and the surrounding areas. Call 0116 2121 770 today!"
   },
   {
     "name": "Empire Van Hire",
@@ -2525,7 +3022,7 @@
     "rating": 3.5,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 9:00 – 11:00 AM; Sunday: 9:00 – 11:00 AM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u2009\u2013\u200911:00\u202fAM; Sunday: 9:00\u2009\u2013\u200911:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 52.4981336,
     "lng": -1.9248772,
@@ -2542,12 +3039,17 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 12:00 – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 12:00\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest, store",
     "lat": 52.495257,
     "lng": -1.8805025,
     "found_in_location": "Birmingham",
-    "found_with_query": "van hire Birmingham"
+    "found_with_query": "van hire Birmingham",
+    "email": "info@imgselfdrive.co.uk",
+    "emails": [
+      "info@imgselfdrive.co.uk"
+    ],
+    "description": "Van hire Birmingham Erdington. Are you moving house or business? IMG Self Drive has the right van for you! Transit vans, luton box vans and minibuses!"
   },
   {
     "name": "Voce Van Hire Ltd",
@@ -2581,7 +3083,13 @@
     "lat": 52.9997179,
     "lng": -2.1652564,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "cleaning@welfarevans4less.co.uk",
+    "emails": [
+      "cleaning@welfarevans4less.co.uk",
+      "info@welfarevans4less.co.uk"
+    ],
+    "description": "Welfare Vans 4 Less - high quality welfare vans, units, facilities and toilet blocks for hire, nationwide free delivery 7 days a week."
   },
   {
     "name": "Bargain Van Hire",
@@ -2593,7 +3101,7 @@
     "rating": 2.8,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.6032228,
     "lng": -2.0358202,
@@ -2610,12 +3118,16 @@
     "rating": 2.5,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.0378043,
     "lng": -2.6849839,
     "found_in_location": "Hereford",
-    "found_with_query": "van hire Hereford"
+    "found_with_query": "van hire Hereford",
+    "email": "rssltd@outlook.com",
+    "emails": [
+      "rssltd@outlook.com"
+    ]
   },
   {
     "name": "DRIVE 365 CAR&VAN HIRE",
@@ -2627,7 +3139,7 @@
     "rating": 2,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 4:00 PM; Tuesday: 10:00 AM – 4:00 PM; Wednesday: 10:00 AM – 4:00 PM; Thursday: 10:00 AM – 4:00 PM; Friday: 10:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 53.0165014,
     "lng": -2.188888,
@@ -2644,7 +3156,7 @@
     "rating": 1.4,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 5:00 PM; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 10:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.5551517,
     "lng": -2.0806754,
@@ -2678,7 +3190,7 @@
     "rating": 1,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.564829,
     "lng": -2.0661139,
@@ -2695,7 +3207,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:30 PM; Tuesday: 8:00 AM – 8:30 PM; Wednesday: 8:00 AM – 8:30 PM; Thursday: 8:00 AM – 8:30 PM; Friday: 8:00 AM – 8:30 PM; Saturday: 8:00 AM – 8:30 PM; Sunday: 10:00 AM – 8:30 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:30\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4731408,
     "lng": -1.8887917,
@@ -2717,7 +3229,8 @@
     "lat": 52.3967663,
     "lng": -1.8061705,
     "found_in_location": "Birmingham",
-    "found_with_query": "van rental Birmingham"
+    "found_with_query": "van rental Birmingham",
+    "description": "Sign up for our email list for updates, promotions, and more."
   },
   {
     "name": "ACL Vehicle Hire",
@@ -2729,7 +3242,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0367213,
     "lng": -1.1771843,
@@ -2763,12 +3276,16 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4093651,
     "lng": -1.5282503,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "info@d1hire.co.uk",
+    "emails": [
+      "info@d1hire.co.uk"
+    ]
   },
   {
     "name": "VWFS Rent-a-Car Coventry",
@@ -2780,12 +3297,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.4558577,
     "lng": -1.4852163,
     "found_in_location": "Coventry",
-    "found_with_query": "van hire Coventry"
+    "found_with_query": "van hire Coventry",
+    "email": "cvrentals@listers.co.uk",
+    "emails": [
+      "cvrentals@listers.co.uk"
+    ],
+    "description": "VWFS Rent-a-Car is the simple way to hire a car, van or campervan. With 65+ UK locations, 4.9 TrustScore and top-quality Volkswagen Group brands to choose\u2026"
   },
   {
     "name": "YesVanFinance",
@@ -2814,12 +3336,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.89537860000001,
     "lng": -1.3288929,
     "found_in_location": "Derby",
-    "found_with_query": "van rental Derby"
+    "found_with_query": "van rental Derby",
+    "email": "contact@b4dvehiclehire.co.uk",
+    "emails": [
+      "contact@b4dvehiclehire.co.uk"
+    ],
+    "description": "B4N Vehicle Hire provides affordable, reliable van hire in Nottingham and the Midlands. Choose from a wide range of self-drive vans for moving home, business deliveries or day-to-day use. Book online today for fast, friendly service and flexible rental options."
   },
   {
     "name": "Vanoly",
@@ -2831,12 +3358,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.60029780000001,
     "lng": -2.0793844,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "van hire Wolverhampton"
+    "found_with_query": "van hire Wolverhampton",
+    "email": "admin@vanoly.co.uk",
+    "emails": [
+      "admin@vanoly.co.uk"
+    ],
+    "description": "Vanoly is a Wolverhampton\u2011based van hire specialist offering reliable, affordable and well\u2011maintained vans for moving, business use and everyday transport. Simple booking and trusted local service."
   },
   {
     "name": "Vans 4 Vans",
@@ -2899,12 +3431,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.0385573,
     "lng": -2.1833831,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "van hire Stoke-on-Trent"
+    "found_with_query": "van hire Stoke-on-Trent",
+    "email": "vwvanrentalstoke@pentagon-group.co.uk",
+    "emails": [
+      "vwvanrentalstoke@pentagon-group.co.uk"
+    ],
+    "description": "Find the most premium rental vans in Stoke at VWFS Rent-a-Car. Choose from a range of Volkswagen vans to suit your every need."
   },
   {
     "name": "Frog Self Drive Ltd",
@@ -2933,12 +3470,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 10:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "car_rental, establishment, moving_company, point_of_interest, storage",
     "lat": 52.1951523,
     "lng": -2.2338048,
     "found_in_location": "Worcester",
-    "found_with_query": "van hire Worcester"
+    "found_with_query": "van hire Worcester",
+    "email": "office@green-self-storage.co.uk",
+    "emails": [
+      "office@green-self-storage.co.uk"
+    ],
+    "description": "Hire a van in Worcester from Worcester Van Hire (part of Green Self Storage). Clean vans, fair daily rates, weekend deals and helpful service. Call 01905 427 427."
   },
   {
     "name": "Beerhouse Vehicle Rental",
@@ -2950,12 +3492,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.3816802,
     "lng": -1.2616372,
     "found_in_location": "Rugby",
-    "found_with_query": "van rental Rugby"
+    "found_with_query": "van rental Rugby",
+    "email": "enquiries@beerhouse.co.uk",
+    "emails": [
+      "enquiries@beerhouse.co.uk"
+    ],
+    "description": "Beerhouse Self Drive currently run a fleet in excess of 1200 vehicles covering cars, people carriers, minibuses and vans."
   },
   {
     "name": "Redditch Van Hire",
@@ -2967,12 +3514,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_rental, establishment, point_of_interest",
     "lat": 52.3085731,
     "lng": -1.9426896,
     "found_in_location": "Redditch",
-    "found_with_query": "van hire Redditch"
+    "found_with_query": "van hire Redditch",
+    "email": "redditch@practical.co.uk",
+    "emails": [
+      "redditch@practical.co.uk"
+    ],
+    "description": "Redditch Van Hire specialise in providing affordable van and car hire in Redditch. Part of the largest independent network of car and van renters."
   },
   {
     "name": "Waste GB Vehicle Hire",
@@ -3006,7 +3558,8 @@
     "lat": 53.2508073,
     "lng": -1.4272417,
     "found_in_location": "Chesterfield",
-    "found_with_query": "van hire Chesterfield"
+    "found_with_query": "van hire Chesterfield",
+    "description": "With Hire Trawler Car Hire, you can get a car rental service that is both reasonable and dependable. Hire Trawler Car Rental"
   },
   {
     "name": "Securistor Van Hire",
@@ -3018,12 +3571,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 10:00 AM – 4:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0061585,
     "lng": -0.3962264,
     "found_in_location": "Lincoln",
-    "found_with_query": "van hire Lincoln"
+    "found_with_query": "van hire Lincoln",
+    "description": "Self Drive Van Hire in Sleaford, Lincolnshire at Affordable rates - Luton Vans with tail lifts - inclusive insurance and RAC Breakdown Cover."
   },
   {
     "name": "VWFS Rent-a-Car Northampton Van Hire",
@@ -3035,12 +3589,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.2404242,
     "lng": -0.9352202,
     "found_in_location": "Northampton",
-    "found_with_query": "van hire Northampton"
+    "found_with_query": "van hire Northampton",
+    "email": "rentacar@vindis.com",
+    "emails": [
+      "rentacar@vindis.com"
+    ],
+    "description": "Hire a van online. Pick up your Volkswagen van from VWFS Rent-a-Car Northampton (Commercial Vehicles). Check live vehicle availability now."
   },
   {
     "name": "Trotter van rent",
