@@ -14,6 +14,9 @@ export interface BusinessRaw {
   lng: number;
   found_in_location: string;
   found_with_query: string;
+  email?: string;
+  emails?: string[];
+  description?: string;
 }
 
 export interface Business {
@@ -23,6 +26,8 @@ export interface Business {
   phone: string | null;
   internationalPhone: string | null;
   website: string | null;
+  email: string | null;
+  description: string | null;
   googleMapsUrl: string;
   rating: number | null;
   totalReviews: number;

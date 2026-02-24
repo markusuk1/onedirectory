@@ -50,6 +50,12 @@ export default function BusinessCard({
         <span className="line-clamp-1">{business.address}</span>
       </p>
 
+      {business.description && (
+        <p className="text-sm text-text-light mt-2 line-clamp-2">
+          {business.description}
+        </p>
+      )}
+
       {business.phone && (
         <p className="text-sm text-text-light mt-1.5 flex items-center gap-1.5">
           <svg

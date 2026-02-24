@@ -41,6 +41,8 @@ function transformBusiness(raw: BusinessRaw): Business {
     phone: raw.phone || null,
     internationalPhone: raw.international_phone || null,
     website: raw.website || null,
+    email: raw.email || null,
+    description: raw.description || null,
     googleMapsUrl: raw.google_maps_url,
     rating: raw.rating,
     totalReviews: raw.total_reviews || 0,

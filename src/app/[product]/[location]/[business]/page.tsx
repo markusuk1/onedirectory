@@ -50,7 +50,7 @@ export async function generateMetadata({
     : "";
   return {
     title: `${biz.name} - ${biz.locationName}${ratingStr}`,
-    description: productConfig.metaDescriptionTemplate(biz.name, biz.locationName),
+    description: biz.description || productConfig.metaDescriptionTemplate(biz.name, biz.locationName),
   };
 }
 
@@ -84,6 +84,8 @@ export default async function ProductBusinessPage({
       name: business.name,
       address: business.address,
       telephone: business.internationalPhone || business.phone,
+      ...(business.email && { email: business.email }),
+      ...(business.description && { description: business.description }),
       url: business.website,
       geo: {
         "@type": "GeoCoordinates",
@@ -182,6 +184,13 @@ export default async function ProductBusinessPage({
                 </span>
               )}
             </div>
+
+            {/* Description */}
+            {business.description && (
+              <p className="text-text-light mt-4 leading-relaxed">
+                {business.description}
+              </p>
+            )}
 
             {/* Details */}
             <div className="bg-white border border-border rounded-xl p-6 mt-6 space-y-4">
@@ -309,6 +318,28 @@ export default async function ProductBusinessPage({
                     internationalPhone={business.internationalPhone}
                     businessSlug={business.slug}
                   />
+                )}
+
+                {business.email && (
+                  <a
+                    href={`mailto:${business.email}`}
+                    className="flex items-center justify-center gap-2 bg-surface hover:bg-surface-dark text-text font-semibold py-3 px-6 rounded-lg transition-colors w-full border border-border"
+                  >
+                    <svg
+                      className="w-5 h-5"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                      />
+                    </svg>
+                    Send Email
+                  </a>
                 )}
 
                 {business.website && (
