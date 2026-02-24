@@ -31,7 +31,8 @@
     "lat": 53.4472524,
     "lng": -2.262907,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Manchester Airport Trips is an airport transfer company providing reliable taxi services to and from Manchester Airport. Book a ride with us now !"
   },
   {
     "name": "Blackpool Minibuses",
@@ -48,7 +49,8 @@
     "lat": 53.79762239999999,
     "lng": -3.0085757,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "description": "A local minibus hire company offering corporate transport, airport taxis, day trips & nights out. 5-16+ seater modern minibuses. Book online."
   },
   {
     "name": "Murphy\u2019s Crow Flies Travel Ltd",
@@ -65,7 +67,12 @@
     "lat": 53.4064238,
     "lng": -3.0697316,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "admin@crowfliestravel.co.uk",
+    "emails": [
+      "admin@crowfliestravel.co.uk"
+    ],
+    "description": "Reliable transfers to Manchester, Liverpool, and other major Airports. Enjoy 24/7 service with well-maintained vehicles & professional drivers."
   },
   {
     "name": "TRAVL XL",
@@ -82,7 +89,8 @@
     "lat": 53.8297767,
     "lng": -2.2120249,
     "found_in_location": "Burnley",
-    "found_with_query": "airport transfer minibus Burnley"
+    "found_with_query": "airport transfer minibus Burnley",
+    "description": "If you need airport transfers and are planning to go on holiday then Travl XL is the best choice for you. Get in touch - 01282 500 335."
   },
   {
     "name": "Parties Complete Ltd",
@@ -99,7 +107,12 @@
     "lat": 53.48009649999999,
     "lng": -2.0492764,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "info@partiescomplete.co.uk",
+    "emails": [
+      "info@partiescomplete.co.uk"
+    ],
+    "description": "Small Marquee Hire Manchester, Gazebo Hire Manchester &amp; Party Tent hire Manchester. With over 16 years experience Parties Complete prices start from \u00a380.00"
   },
   {
     "name": "Ricks Car & Van Recovery. Breakdown Crash Rescue Oldham",
@@ -133,7 +146,13 @@
     "lat": 53.4105972,
     "lng": -2.969907,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "info@liverpoolconnect.com",
+    "emails": [
+      "info@liverpoolconnect.com",
+      "info@transfersliverpool.co.uk"
+    ],
+    "description": "Enjoy a comfortable and cost-effective airport transfer with Liverpool Connect. We provide reliable, luxurious transportation services to and from Liverpool John Lennon Airport. Book your airport taxi today!"
   },
   {
     "name": "Swift Travel Warrington",
@@ -150,7 +169,12 @@
     "lat": 53.41604,
     "lng": -2.5728583,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "swift.travel8@gmail.com",
+    "emails": [
+      "swift.travel8@gmail.com"
+    ],
+    "description": "Travel stress-free with our airport transfers from or to Warrington. Long distance city transfers and airport taxis with reliable, on-time service you can trust."
   },
   {
     "name": "DNH Travel Limited",
@@ -167,7 +191,12 @@
     "lat": 53.4494292,
     "lng": -2.1054504,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "sales@dnhtravelltd.co.uk",
+    "emails": [
+      "sales@dnhtravelltd.co.uk"
+    ],
+    "description": "Coach Hire Manchester and Tameside, large vehicles to hire from 29 seat vehicle to 72 seat vehicles. School Hire / Corporate Events Private Hire and Social Event hire."
   },
   {
     "name": "Liverpool Airport Trips",
@@ -184,7 +213,8 @@
     "lat": 53.3974132,
     "lng": -2.9415571,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "description": "Secure your airport transfer in Liverpool with Liverpool Airport Trips LTD. Our reliable and luxurious airport taxis are available 24/7. Book now and travel in comfort."
   },
   {
     "name": "J&K TRAVEL LTD",
@@ -201,7 +231,12 @@
     "lat": 53.41623999999999,
     "lng": -3.0272237,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "hello@jktravelwirral.co.uk",
+    "emails": [
+      "hello@jktravelwirral.co.uk"
+    ],
+    "description": "J&K Travel are a family business committed to providing a friendly, customer-focused transport service throughout the Wirral and North West."
   },
   {
     "name": "Kings Travel",
@@ -235,7 +270,12 @@
     "lat": 53.4095516,
     "lng": -2.992749,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "bookings@flagshiptransfers.co.uk",
+    "emails": [
+      "bookings@flagshiptransfers.co.uk"
+    ],
+    "description": "Airport Transfers Liverpool \u2013 Reliable, hassle-free transfers to Liverpool & Manchester airports. Get an instant quote, book, and pay online securely!"
   },
   {
     "name": "National Coach Network Ltd",
@@ -252,7 +292,8 @@
     "lat": 53.485046,
     "lng": -2.2319646,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "description": "The new National Coach Network platform contains features and tools to help private hire operators streamline operations, improve efficiency and maximise profits."
   },
   {
     "name": "Lancaster Minibuses",
@@ -269,7 +310,8 @@
     "lat": 54.0446653,
     "lng": -2.7974343,
     "found_in_location": "Lancaster",
-    "found_with_query": "minibus hire Lancaster"
+    "found_with_query": "minibus hire Lancaster",
+    "description": "Minibus Hire - A company that believes the journey should always be fun. Airport Taxis, Day Trips & Nights Out. 8-16 seaters available. Online quotes 24/7"
   },
   {
     "name": "Time Travel Private Hire",
@@ -286,7 +328,13 @@
     "lat": 53.42538339999999,
     "lng": -2.8632022,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "bookings@timetravelprivatehire.com",
+    "emails": [
+      "bookings@timetravelprivatehire.com",
+      "emailbookings@timetravelprivatehire.com"
+    ],
+    "description": "Time Travel Private Hire - Premier Private Transportation in Liverpool. We have many vehicles including Saloons & Minibuses for Airport & Group Travel"
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -303,7 +351,12 @@
     "lat": 53.4792616,
     "lng": -2.2487162,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "bookings@frankcoaches.co.uk",
+    "emails": [
+      "bookings@frankcoaches.co.uk"
+    ],
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
   },
   {
     "name": "Kabs travel 16 seater minibus service",
@@ -337,7 +390,12 @@
     "lat": 53.4173704,
     "lng": -2.9230348,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "enquiries@simplytransfers.net",
+    "emails": [
+      "enquiries@simplytransfers.net"
+    ],
+    "description": "Professional airport transfers from Liverpool with stylish, comfortable service. Ride in our Mercedes V-Class and get your quote now."
   },
   {
     "name": "AK's Travel Ltd",
@@ -371,7 +429,8 @@
     "lat": 53.4805819,
     "lng": -2.3684464,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Based in Eccles, in the wonderful City of Salford, Excel Minibus Travel is located close to the major motorway network covering the North West of England. We provide quality transport solutions for up to 8 passengers plus luggage, thanks to our awesome, wheelchair accessible Renault Traffic RX8..."
   },
   {
     "name": "R Travel Ltd.",
@@ -388,7 +447,12 @@
     "lat": 53.3729044,
     "lng": -2.8241174,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "info@rtravel.uk",
+    "emails": [
+      "info@rtravel.uk"
+    ],
+    "description": "Airport Transfers Liverpool 0151 314 8688: R Travel specialises in airport shuttle services, minibus taxi services, and taxi services."
   },
   {
     "name": "C L Executive Travel Limited ( C & L Executive Travel )",
@@ -405,7 +469,12 @@
     "lat": 53.69752829999999,
     "lng": -2.639158,
     "found_in_location": "Chorley",
-    "found_with_query": "self drive minibus hire Chorley"
+    "found_with_query": "self drive minibus hire Chorley",
+    "email": "clexecutivetravel@gmail.com",
+    "emails": [
+      "clexecutivetravel@gmail.com"
+    ],
+    "description": "Let's travel together C&L Executive Travel Family-run executive travel providers based in the heart of Lancashire. Get a quote today All-in-one services C&L Executive Travel Services offer you a professional travel service C&L Executive Travel is proud to be a family-run luxury travel business..."
   },
   {
     "name": "M.P.M Executive Travel",
@@ -439,7 +508,12 @@
     "lat": 53.84337799999999,
     "lng": -2.202297,
     "found_in_location": "Rochdale",
-    "found_with_query": "16 seater minibus hire Rochdale"
+    "found_with_query": "16 seater minibus hire Rochdale",
+    "email": "info@executive-travels.uk",
+    "emails": [
+      "info@executive-travels.uk"
+    ],
+    "description": "Minibus hire and airport transfer services in Lancashire. Offering comfort, reliability, and professionalism to meet all your travel needs."
   },
   {
     "name": "The Manchester minibuses",
@@ -473,7 +547,8 @@
     "lat": 53.80907509999999,
     "lng": -2.4432255,
     "found_in_location": "Blackburn",
-    "found_with_query": "minibus hire Blackburn"
+    "found_with_query": "minibus hire Blackburn",
+    "description": "If you're looking for a reliable, value for money coach hire service in the Lancashire area then Paul Orrell Coach Hire is the company for you."
   },
   {
     "name": "Red Squirrel Travel",
@@ -490,7 +565,8 @@
     "lat": 53.5077978,
     "lng": -2.9604261,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "description": "Book Red Squirrel Travel for a professional & reliable Liverpool to Manchester airport transfer service & private hire to other destinations."
   },
   {
     "name": "Twins Travel",
@@ -524,7 +600,8 @@
     "lat": 53.4236058,
     "lng": -2.834712,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Reliable minibus hire means comfort and punctuality. Discover stress-free travel for groups in Liverpool, Knowsley, and St Helens."
   },
   {
     "name": "Dart Travel",
@@ -541,7 +618,12 @@
     "lat": 53.6665311,
     "lng": -2.9652911,
     "found_in_location": "Southport",
-    "found_with_query": "self drive minibus hire Southport"
+    "found_with_query": "self drive minibus hire Southport",
+    "email": "darttravelsouthport@gmail.com",
+    "emails": [
+      "darttravelsouthport@gmail.com"
+    ],
+    "description": "Looking for a Taxi Service in Southport? Get in touch with Dart Travel. I offer a variety of airport transfers and long distance travel."
   },
   {
     "name": "Craig Price Travel",
@@ -592,7 +674,13 @@
     "lat": 53.3836773,
     "lng": -2.5306288,
     "found_in_location": "Warrington",
-    "found_with_query": "airport transfer minibus Warrington"
+    "found_with_query": "airport transfer minibus Warrington",
+    "email": "emailaddress@here.com",
+    "emails": [
+      "emailaddress@here.com",
+      "info@avatarexecutivetravel.co.uk"
+    ],
+    "description": "Avatar Executive Travel offer a high quality Airport Transfers service to Warrington and Surrounding Areas, we also offer Train Stations Drop Offs & Pickups, Corporate Travel, Days & Nights Out and even a dedicated door to door parcel service etc."
   },
   {
     "name": "JS TRAVEL LTD",
@@ -609,7 +697,13 @@
     "lat": 53.5078347,
     "lng": -2.1773712,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "john@doe.com",
+    "emails": [
+      "john@doe.com",
+      "jsminibustravel@gmail.com"
+    ],
+    "description": "Welcome to JS Travel LTD, your go-to solution for 16-Seater Executive & Standard Minibus hire in Manchester"
   },
   {
     "name": "MJR Travel Ltd",
@@ -626,7 +720,11 @@
     "lat": 53.5951831,
     "lng": -2.6736539,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "info@mjrtravel.co.uk",
+    "emails": [
+      "info@mjrtravel.co.uk"
+    ]
   },
   {
     "name": "Preston Pro Coaches Hire",
@@ -643,7 +741,20 @@
     "lat": 53.76939900000001,
     "lng": -2.720937,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "Need a Coach Hire or Minibus in Preston or in North West? Book one now with our friendly CRB and DBS checked drivers. Preston Pro Coaches"
   },
   {
     "name": "Pelorus Chauffeurs | Executive Travel",
@@ -660,7 +771,12 @@
     "lat": 53.6438028,
     "lng": -2.9801063,
     "found_in_location": "Southport",
-    "found_with_query": "airport transfer minibus Southport"
+    "found_with_query": "airport transfer minibus Southport",
+    "email": "info@peloruschauffeurs.com",
+    "emails": [
+      "info@peloruschauffeurs.com"
+    ],
+    "description": "Pelorus Chauffeurs is a luxurious, distinctive and professional executive chauffeur travel provider, based in the Northwest of England."
   },
   {
     "name": "D.W. Travel Minibus, Coach Hire & Chauffeur Service Liverpool",
@@ -677,7 +793,8 @@
     "lat": 53.5061447,
     "lng": -3.0294766,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "D.W. Travel Ltd is an independent family run operator based in Liverpool. We offer a wide range of transport and chauffeur services throughout the UK. We are able to accommodate most transport and event requirements using our fleet of MPV style vehicles, 16 seater minibusses, luxury high end..."
   },
   {
     "name": "RMB Travel Oldham",
@@ -711,7 +828,12 @@
     "lat": 53.5670262,
     "lng": -2.4273328,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "info@atlanticprestige.co.uk",
+    "emails": [
+      "info@atlanticprestige.co.uk"
+    ],
+    "description": "Atlantic Prestige provides chauffeur services & luxury car hire in Manchester. Perfect for business travel, weddings & group outings. Book now!"
   },
   {
     "name": "Bury Travel Taxi Services",
@@ -728,7 +850,13 @@
     "lat": 52.2504261,
     "lng": 0.6829932,
     "found_in_location": "Bury",
-    "found_with_query": "airport transfer minibus Bury"
+    "found_with_query": "airport transfer minibus Bury",
+    "email": "name@email.com",
+    "emails": [
+      "name@email.com",
+      "quotes@burytravel.co.uk"
+    ],
+    "description": "Bury Travel Taxi Services provide a licensed taxi service covering Bury St. Edmunds and the whole of East Anglia."
   },
   {
     "name": "TRAVEL DELUXE LIMITED",
@@ -745,7 +873,8 @@
     "lat": 53.425916,
     "lng": -2.1217292,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Travel Deluxe offers affordable minibus and coach hire services in Manchester. Perfect for group travel, airport transfers, and special occasions."
   },
   {
     "name": "OPUS Minibuses",
@@ -779,7 +908,12 @@
     "lat": 53.4205887,
     "lng": -2.1884645,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@msminibushire.co.uk",
+    "emails": [
+      "info@msminibushire.co.uk"
+    ],
+    "description": "Minibus Hire Manchester We at MS Minibus Hire provide you minibus service in Manchester, at very affordable rates as compare to other companies."
   },
   {
     "name": "W Travels",
@@ -796,7 +930,8 @@
     "lat": 53.28775539999999,
     "lng": -2.9133685,
     "found_in_location": "Chester",
-    "found_with_query": "party bus hire Chester"
+    "found_with_query": "party bus hire Chester",
+    "description": "Stop worrying about your WordPress website Our team of WordPress experts will look after your website day and night. We\u2019ll make sure its secure. We\u2019ll make sure its fast. And then we\u2019ll help you achie"
   },
   {
     "name": "Cheshire Minibus Hire",
@@ -813,7 +948,17 @@
     "lat": 53.397561,
     "lng": -2.6014783,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "sales@cheshireminibushire.co.uk"
+    ],
+    "description": "Looking for a reliable 10 to 33 seater minibus hire service in Cheshire? Choose Cheshire Minibus Hire for comfortable and affordable transportation. Book now!"
   },
   {
     "name": "Abby's Minibuses LTD",
@@ -847,7 +992,8 @@
     "lat": 53.1233436,
     "lng": -2.3304924,
     "found_in_location": "Crewe",
-    "found_with_query": "minibus hire Crewe"
+    "found_with_query": "minibus hire Crewe",
+    "description": "Our reliable drivers will be there for your special event including; weddings, golfing trips and race days"
   },
   {
     "name": "Oakdale Travel Ltd",
@@ -864,7 +1010,12 @@
     "lat": 53.5682844,
     "lng": -2.4386619,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "info@oakdaletravel.co.uk",
+    "emails": [
+      "info@oakdaletravel.co.uk"
+    ],
+    "description": "Reliable 16-seater minibus hire across Bolton, Wigan, Manchester, Liverpool and the North West. School transport, airport transfers, weddings, corporate travel and contracts."
   },
   {
     "name": "Eventus Travel",
@@ -898,7 +1049,12 @@
     "lat": 53.3837257,
     "lng": -2.6268388,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "admin@pinkpassenger.co.uk",
+    "emails": [
+      "admin@pinkpassenger.co.uk"
+    ],
+    "description": "At Pink Passenger, we specialise in Minibus and Party Bus Hire. We cover Warrington, Cheshire, Manchester, Liverpool and surrounding areas. Find out more here."
   },
   {
     "name": "Coach and Minibus Hire",
@@ -915,7 +1071,12 @@
     "lat": 53.41091429999999,
     "lng": -2.9947735,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "bookings@zammytransport.com",
+    "emails": [
+      "bookings@zammytransport.com"
+    ],
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
   },
   {
     "name": "Shoreline Travel Services Ltd",
@@ -932,7 +1093,8 @@
     "lat": 53.8745516,
     "lng": -3.0282759,
     "found_in_location": "Blackpool",
-    "found_with_query": "airport transfer minibus Blackpool"
+    "found_with_query": "airport transfer minibus Blackpool",
+    "description": "Shoreline Travel Services Ltd are a local family run business offering private hire minibus and cars for airport transfers, cruise port transfers, parties, nights out, events and hospital appointments across the Fylde Coast, Over Wyre and beyond, including Thornton-Cleveleys, Poulton-le-Fylde,..."
   },
   {
     "name": "M&K TRAVEL LIMITED",
@@ -949,7 +1111,12 @@
     "lat": 53.5167237,
     "lng": -2.1426458,
     "found_in_location": "Oldham",
-    "found_with_query": "minibus hire Oldham"
+    "found_with_query": "minibus hire Oldham",
+    "email": "info@mk-travel.co.uk",
+    "emails": [
+      "info@mk-travel.co.uk"
+    ],
+    "description": "MK Travel is a family-owned coach company offering unforgettable day trips, private hires, and tours across the UK. Experience the beauty of the UK with our comfortable and reliable services tailored for families and groups. Discover new destinations with us today!"
   },
   {
     "name": "Abeona Travel",
@@ -966,7 +1133,12 @@
     "lat": 53.4493192,
     "lng": -2.7708185,
     "found_in_location": "St Helens",
-    "found_with_query": "minibus hire St Helens"
+    "found_with_query": "minibus hire St Helens",
+    "email": "abeonatravel@outlook.com",
+    "emails": [
+      "abeonatravel@outlook.com"
+    ],
+    "description": "We operate throughout the Merseyside area achieving high standards and catering to all our customers' requirements."
   },
   {
     "name": "Tour the Lakes",
@@ -1000,7 +1172,13 @@
     "lat": 53.5072084,
     "lng": -2.2243178,
     "found_in_location": "Manchester",
-    "found_with_query": "self drive minibus hire Manchester"
+    "found_with_query": "self drive minibus hire Manchester",
+    "email": "careers@cartttitude.co.uk",
+    "emails": [
+      "careers@cartttitude.co.uk",
+      "office@carttitude.co.uk"
+    ],
+    "description": "Safe, timely delivery, is the standard. We go further with unrivalled attention to detail that you need from a car transportation service."
   },
   {
     "name": "North West Corporate Travel",
@@ -1017,7 +1195,12 @@
     "lat": 53.7915199,
     "lng": -2.4698728,
     "found_in_location": "Blackburn",
-    "found_with_query": "airport transfer minibus Blackburn"
+    "found_with_query": "airport transfer minibus Blackburn",
+    "email": "info@nwct.co.uk",
+    "emails": [
+      "info@nwct.co.uk"
+    ],
+    "description": "The Mercedes Benz brand reflects our very own core values and our fleet of vehicles offer the highest standards of client comfort and safety.Our cars range from saloons to people carriers, with highly-experienced, professional, courteous and smartly-dressed chauffeurs offering a personal, local..."
   },
   {
     "name": "KG'S Executive Travel",
@@ -1051,7 +1234,12 @@
     "lat": 53.5745903,
     "lng": -2.4421825,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "mehboob_sma@hotmail.co.uk",
+    "emails": [
+      "mehboob_sma@hotmail.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Tom Clarke Travel Ltd",
@@ -1068,7 +1256,11 @@
     "lat": 53.5049103,
     "lng": -2.1047036,
     "found_in_location": "Oldham",
-    "found_with_query": "coach hire Oldham"
+    "found_with_query": "coach hire Oldham",
+    "email": "transport@tomclarketravel.com",
+    "emails": [
+      "transport@tomclarketravel.com"
+    ]
   },
   {
     "name": "Culcheth Executive Travel",
@@ -1102,7 +1294,12 @@
     "lat": 54.2080716,
     "lng": -2.6028904,
     "found_in_location": "Lancaster",
-    "found_with_query": "coach hire Lancaster"
+    "found_with_query": "coach hire Lancaster",
+    "email": "dan@danwillancoaches.co.uk",
+    "emails": [
+      "dan@danwillancoaches.co.uk"
+    ],
+    "description": "dan@danwillancoaches.co.ukDan\u2013 07834 275102Ange \u2013 07974 377416"
   },
   {
     "name": "MANCHESTER MAINLINE Ltd.",
@@ -1119,7 +1316,13 @@
     "lat": 53.5713749,
     "lng": -2.3695614,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@manchestermainline.co.uk",
+    "emails": [
+      "info@manchestermainline.co.uk",
+      "support@webador.com"
+    ],
+    "description": "Passenger Transport Services | Emergency Transport Specialists - Book your last minute travel with us. Lines open 24 hours a day, every day. Luxury Coach & Minibus Hire | Chauffeur Service | Corporate Hospitality | Concierge Service | Tour Management. Open all day, every day"
   },
   {
     "name": "Hargreaves Mini Bus Travel",
@@ -1136,7 +1339,12 @@
     "lat": 53.45538740000001,
     "lng": -2.0591236,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "ianhargreaves64@gmail.com",
+    "emails": [
+      "ianhargreaves64@gmail.com"
+    ],
+    "description": "Excellence is our promise. We take pride in attending to our customers every need. We know that a reliable service is really important to you so we aim to please everyone."
   },
   {
     "name": "Bux Travel",
@@ -1170,7 +1378,12 @@
     "lat": 53.7560206,
     "lng": -2.6920898,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "contact@hireminibus.uk",
+    "emails": [
+      "contact@hireminibus.uk"
+    ],
+    "description": "Hire Minibus is a private coach & minibus hire company in the UK. Contact us to book from our extensive fleet of 9 seater minibuses to 70 seater coaches."
   },
   {
     "name": "P & S Travel",
@@ -1187,7 +1400,12 @@
     "lat": 53.8875506,
     "lng": -2.3626463,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "info@pandstravel.co.uk",
+    "emails": [
+      "info@pandstravel.co.uk"
+    ],
+    "description": "Whether you are looking for a minibus for a club trip, a night out or for a long weekend, P & S Travel have the vehicles, experience and staff necessary. Our minibuses are all immaculate and modern, providing you with a pleasant trip to your destination."
   },
   {
     "name": "PRIME MINIBUS HIRE",
@@ -1204,7 +1422,12 @@
     "lat": 53.49137529999999,
     "lng": -2.2119475,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@primecoachhire.com",
+    "emails": [
+      "info@primecoachhire.com"
+    ],
+    "description": "Prime Coach Hire is a fast growing coach hire company that offers the best coach hire at the lowest prices. We guarantee to beat any like for like quote by 10% and we offer a nationwide service."
   },
   {
     "name": "Viva Minibus Ltd",
@@ -1221,7 +1444,8 @@
     "lat": 53.45249399999999,
     "lng": -2.1414212,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Viva Minibus provides reliable, cost effective minibus travel throughout Stockport and the South Manchester area and Nationwide. We have a fleet of minibuses consisting of 10 to 16 seater minibuses with a driver."
   },
   {
     "name": "Swinton Travel",
@@ -1238,7 +1462,12 @@
     "lat": 53.5178892,
     "lng": -2.3358136,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "jane@swintontravel.co.uk",
+    "emails": [
+      "jane@swintontravel.co.uk"
+    ],
+    "description": "Minibus Hire Manchester, here at Swinton Travel we operate a high quality Manchester minibus hire service with drivers catering for all events."
   },
   {
     "name": "INTX",
@@ -1255,7 +1484,12 @@
     "lat": 53.3538041,
     "lng": -2.8721811,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "transport@intx.co.uk",
+    "emails": [
+      "transport@intx.co.uk"
+    ],
+    "description": "Chauffeur Services UK wide. Coach Hire with VIP drivers. All party sizes, professional chauffeurs. Conference, Hospitality, Event Transport."
   },
   {
     "name": "J H Coaches",
@@ -1272,7 +1506,12 @@
     "lat": 53.5938166,
     "lng": -2.4588409,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "jh@jh.com",
+    "emails": [
+      "jh@jh.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Matrix Hire",
@@ -1289,7 +1528,12 @@
     "lat": 53.7602588,
     "lng": -2.6934549,
     "found_in_location": "Preston",
-    "found_with_query": "self drive minibus hire Preston"
+    "found_with_query": "self drive minibus hire Preston",
+    "email": "info@matrixcarhire.co.uk",
+    "emails": [
+      "info@matrixcarhire.co.uk"
+    ],
+    "description": "Since 1999 Matrix Hire have been providing replacement vehicles to drivers who have been involved in non-fault road traffic accidents. Matrix Hire provides a complete Accident Management Service which includes the provision of replacement vehicles, with a specialist department for Private Hire..."
   },
   {
     "name": "GB Executive Travel & Transfers",
@@ -1306,7 +1550,12 @@
     "lat": 53.3786735,
     "lng": -2.548831,
     "found_in_location": "Warrington",
-    "found_with_query": "airport transfer minibus Warrington"
+    "found_with_query": "airport transfer minibus Warrington",
+    "email": "info@gbexectravel.co.uk",
+    "emails": [
+      "info@gbexectravel.co.uk"
+    ],
+    "description": "Click here to read more about our airport transfer services."
   },
   {
     "name": "Regency Travel",
@@ -1323,7 +1572,13 @@
     "lat": 53.2151785,
     "lng": -1.3418662,
     "found_in_location": "Macclesfield",
-    "found_with_query": "16 seater minibus hire Macclesfield"
+    "found_with_query": "16 seater minibus hire Macclesfield",
+    "email": "chdtours@aol.com",
+    "emails": [
+      "chdtours@aol.com",
+      "info@regencyminibus.com"
+    ],
+    "description": "Our experienced and courteous drivers ensure a safe and pleasant journey every time. Whether it\u2019s an airport transfer or a night out, we focus on punctuality, safety, and great customer service throughout your trip."
   },
   {
     "name": "MDS Minibus Hire Manchester",
@@ -1340,7 +1595,12 @@
     "lat": 53.4926349,
     "lng": -2.331546,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@mdsminibuses.co.uk",
+    "emails": [
+      "info@mdsminibuses.co.uk"
+    ],
+    "description": "MDS Minibus Hire Manchester operates 4, 8 and 16 seater vehicles for journeys to Manchester, Liverpool, Leeds,London and plenty of major cities and events."
   },
   {
     "name": "Bon Voyage Executive Travel and Tours",
@@ -1357,7 +1617,13 @@
     "lat": 53.407867,
     "lng": -2.989281,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "%20info@bon-voyage.uk.com",
+    "emails": [
+      "%20info@bon-voyage.uk.com",
+      "info@bon-voyage.uk.com"
+    ],
+    "description": "Liverpool Minibus Hire & Executive travel services. The luxury, professional Liverpool Chauffeur service with a superb reputation for business or pleasure."
   },
   {
     "name": "VI Coach Hire Bolton",
@@ -1374,7 +1640,12 @@
     "lat": 53.5623028,
     "lng": -2.4184601,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "info@vicoachhirebolton.co.uk",
+    "emails": [
+      "info@vicoachhirebolton.co.uk"
+    ],
+    "description": "When visiting Bolton, you can count on Coach Hire Bolton for all your transport needs including minibus hire with drivers. We are a one stop shop for all transport needs. Talk to us. You will be glad you did."
   },
   {
     "name": "Alpha Luxury Minibuses",
@@ -1425,7 +1696,8 @@
     "lat": 53.419269,
     "lng": -2.555166,
     "found_in_location": "Wigan",
-    "found_with_query": "party bus hire Wigan"
+    "found_with_query": "party bus hire Wigan",
+    "description": "Rainbow Travel offers professional minibus hire and airport transfer services to customers throughout Warrington and the North West"
   },
   {
     "name": "Roadrunner Travel ltd",
@@ -1442,7 +1714,12 @@
     "lat": 53.3958716,
     "lng": -2.5990071,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "info@roadrunneruk.co.uk",
+    "emails": [
+      "info@roadrunneruk.co.uk"
+    ],
+    "description": "We are a bus and Coach hire company supplying quality Transport solutions to the Warrington, Runcorn, Liverpool and wider areas of the North West"
   },
   {
     "name": "Dreamline Travel Ltd",
@@ -1459,7 +1736,12 @@
     "lat": 53.7381905,
     "lng": -2.4970847,
     "found_in_location": "Blackburn",
-    "found_with_query": "minibus hire Blackburn"
+    "found_with_query": "minibus hire Blackburn",
+    "email": "leesa@dreamlinetravel.co.uk",
+    "emails": [
+      "leesa@dreamlinetravel.co.uk"
+    ],
+    "description": "Unit 9 Stancliffe Street Industrial Estate Blackburn Lancashire BB2 2QR Telephone: 01254 668151 Email: leesa@dreamlinetravel.co.uk"
   },
   {
     "name": "Birkdale Classics",
@@ -1476,7 +1758,8 @@
     "lat": 53.6217511,
     "lng": -3.0098262,
     "found_in_location": "Southport",
-    "found_with_query": "self drive minibus hire Southport"
+    "found_with_query": "self drive minibus hire Southport",
+    "description": "Luxury wedding car hire Birkdale. Choose from Bentley, VW Camper, Cadillac, Chrysler & Daimler. Chauffeur driven classic wedding cars."
   },
   {
     "name": "Swift Travel Northwest Limited",
@@ -1493,7 +1776,12 @@
     "lat": 53.5231055,
     "lng": -2.2509117,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "info@swifttravelnorthwest.com",
+    "emails": [
+      "info@swifttravelnorthwest.com"
+    ],
+    "description": "Welcome to Swift Travel Northwest - Your Gateway to Exceptional Coach Services. Explore the world with us and experience travel like never before."
   },
   {
     "name": "Liverpool Coach Hire",
@@ -1510,7 +1798,12 @@
     "lat": 53.41387169999999,
     "lng": -2.9848002,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "pricequote@liverpoolcoachhire.org",
+    "emails": [
+      "pricequote@liverpoolcoachhire.org"
+    ],
+    "description": "With Liverpool Coach Hire's quality service and competitive rates you will never be disappointed. Our staff will cater to your journey needs so you can sit back, relax and enjoy the journey."
   },
   {
     "name": "GK Travel",
@@ -1527,7 +1820,12 @@
     "lat": 53.4644826,
     "lng": -2.9629474,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "gktravelliverpool@gmail.com",
+    "emails": [
+      "gktravelliverpool@gmail.com"
+    ],
+    "description": "With highly competitive prices, friendly and fully qualified drivers and our completely reliable minibuses, your peace of mind and enjoyment are guaranteed."
   },
   {
     "name": "Event 10",
@@ -1544,7 +1842,8 @@
     "lat": 53.269413,
     "lng": -2.9069447,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Do you need a vehicle to take you to a party or event? Or are you part of a large party that needs picking up from the airport? Contact Event 10 Minibus Hire. 16 passenger minibus available to fulfil your travel needs.."
   },
   {
     "name": "Liverpool Premier Travel",
@@ -1595,7 +1894,14 @@
     "lat": 53.8212093,
     "lng": -3.043357,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "northtravel@yahoo.com"
+    ],
+    "description": "Minibus hire services in Blackpool by North Travel Ltd. Travel locally or nationwide with licensed drivers and 8 & 16 seater minibuses. Call us today!"
   },
   {
     "name": "RedRaw Travel Ltd",
@@ -1612,7 +1918,12 @@
     "lat": 53.7975822,
     "lng": -3.0084776,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "hello@redrawtravel.com",
+    "emails": [
+      "hello@redrawtravel.com"
+    ],
+    "description": "Professional, punctual and flexible, we will never let you down. With RedRaw Travel, your journey will run completely stress-free."
   },
   {
     "name": "Chester Coach Hire",
@@ -1629,7 +1940,12 @@
     "lat": 53.1632439,
     "lng": -2.9924236,
     "found_in_location": "Chester",
-    "found_with_query": "minibus hire Chester"
+    "found_with_query": "minibus hire Chester",
+    "email": "edward@ukminibushire.com",
+    "emails": [
+      "edward@ukminibushire.com"
+    ],
+    "description": "Chester coach hire provides coach and minibus with driver for travel all around Chester and surrounding areas at cheap rates for different occassions and trips."
   },
   {
     "name": "A & G Duncan Travel",
@@ -1646,7 +1962,12 @@
     "lat": 53.3887806,
     "lng": -2.1679941,
     "found_in_location": "Stockport",
-    "found_with_query": "airport transfer minibus Stockport"
+    "found_with_query": "airport transfer minibus Stockport",
+    "email": "bookings@agduncantravel.co.uk",
+    "emails": [
+      "bookings@agduncantravel.co.uk"
+    ],
+    "description": "Mercedes V250 Luxury Minibus travel service to and from Manchester Airport to anywhere in uk at an affordable price"
   },
   {
     "name": "Phantom travel ltd",
@@ -1663,7 +1984,12 @@
     "lat": 53.7887964,
     "lng": -2.2362666,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "info@phantom-travel.co.uk",
+    "emails": [
+      "info@phantom-travel.co.uk"
+    ],
+    "description": "Discover luxury travel with Phantom Travel. Premium services for airport transfers, corporate travel, and executive hire."
   },
   {
     "name": "Coachhop",
@@ -1680,7 +2006,12 @@
     "lat": 53.4850862,
     "lng": -2.2319167,
     "found_in_location": "Salford",
-    "found_with_query": "minibus hire Salford"
+    "found_with_query": "minibus hire Salford",
+    "email": "enquiries@coachhop.com",
+    "emails": [
+      "enquiries@coachhop.com"
+    ],
+    "description": "UK coach and minibus hire made easy with Coachhop. Experience Instant quotes, easy booking, and exceptional service for all occasions. Hop to it."
   },
   {
     "name": "Moonicar",
@@ -1697,7 +2028,8 @@
     "lat": 53.50237250000001,
     "lng": -2.5129806,
     "found_in_location": "Leigh",
-    "found_with_query": "self drive minibus hire Leigh"
+    "found_with_query": "self drive minibus hire Leigh",
+    "description": "Welcome to Moonicar, where private hire meets elegance and professionalism. Discover a world of bespoke travel designed for those who value exclusivity and sophistication."
   },
   {
     "name": "Mini Coach Hire Manchester",
@@ -1731,7 +2063,13 @@
     "lat": 53.529058,
     "lng": -2.3876426,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@atlantictravel.co.uk",
+    "emails": [
+      "info@atlantictravel.co.uk",
+      "sales@atlantictravel.co.uk"
+    ],
+    "description": "Atlantic Travel is a bus and Coach Hire Company located in Bolton, Manchester. We offer bus hire services in Bolton. Now, Hire a Coach at low prices."
   },
   {
     "name": "Wrigleys Coaches",
@@ -1748,7 +2086,12 @@
     "lat": 53.4526025,
     "lng": -2.4118078,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "sales@wrigleyscoaches.com",
+    "emails": [
+      "sales@wrigleyscoaches.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "K Matt Coaches",
@@ -1782,7 +2125,8 @@
     "lat": 53.3453083,
     "lng": -2.9007896,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Coach and Minibus Hire in Liverpool & the UK At Vip Coach Travel, our priority is your comfort and convenience. We specialise in coach and minibus hire in Liverpool, offering a wide range of cars, minibuses, and coaches in various sizes to ensure the perfect fit for your group, no matter how..."
   },
   {
     "name": "Express Travels (Bolton)",
@@ -1850,7 +2194,12 @@
     "lat": 53.45325159999999,
     "lng": -2.6325202,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "contact@wayfarers-travel.co.uk",
+    "emails": [
+      "contact@wayfarers-travel.co.uk"
+    ],
+    "description": "At Wayfarers Travel we travel the whole of the country from our base here in Newton Le Willows near Warrington."
   },
   {
     "name": "Andys Bus Company",
@@ -1901,7 +2250,12 @@
     "lat": 53.4538824,
     "lng": -2.7338563,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "derrickballcoaches@hotmail.co.uk",
+    "emails": [
+      "derrickballcoaches@hotmail.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Anthony Jones Minibus Travel",
@@ -1952,7 +2306,12 @@
     "lat": 53.5606533,
     "lng": -2.1015082,
     "found_in_location": "Oldham",
-    "found_with_query": "minibus hire Oldham"
+    "found_with_query": "minibus hire Oldham",
+    "email": "brett.wilson2@ntlworld.com",
+    "emails": [
+      "brett.wilson2@ntlworld.com"
+    ],
+    "description": "We are Oldham\u2019s premier minibus hire company and have been serving the local area for over 15 years."
   },
   {
     "name": "Olympic Travel",
@@ -1986,7 +2345,13 @@
     "lat": 53.6363964,
     "lng": -2.1711453,
     "found_in_location": "Rochdale",
-    "found_with_query": "airport transfer minibus Rochdale"
+    "found_with_query": "airport transfer minibus Rochdale",
+    "email": "info@empireexectivetravel.com",
+    "emails": [
+      "info@empireexectivetravel.com",
+      "info@empireexecutivetravel.com"
+    ],
+    "description": "Our expertise and attention to detail allow us to create custom travel solutions for every client. With a diverse fleet and advanced technology, we deliver seamless, professional journeys tailored to your needs."
   },
   {
     "name": "Airlink Direct - Airport Transfers & Minibus Hire",
@@ -2003,7 +2368,8 @@
     "lat": 53.5887526,
     "lng": -3.037687,
     "found_in_location": "Southport",
-    "found_with_query": "minibus hire Southport"
+    "found_with_query": "minibus hire Southport",
+    "description": "Need a Lift? At Airlink we provide reliable airport transfers Liverpool. \u2713 Minibus Hire Liverpool \u2713 Cheapest in Merseyside. Call us: \u260e 0151 280 0350"
   },
   {
     "name": "Heron Travel",
@@ -2020,7 +2386,8 @@
     "lat": 54.3151154,
     "lng": -2.7500259,
     "found_in_location": "Kendal",
-    "found_with_query": "minibus hire Kendal"
+    "found_with_query": "minibus hire Kendal",
+    "description": "Heron Travel - 8-30 Seater Executive Coaches for hire in Kendal, Cumbria. Heron Travel Coaches based in Kendal and owned by P Perruzza & Daughters"
   },
   {
     "name": "Jacko's Travel",
@@ -2037,7 +2404,17 @@
     "lat": 53.552876,
     "lng": -2.083599,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "itsmejacko36@hotmail.com"
+    ],
+    "description": "Jacko's Travel for Minibus hire, Great service, competitive prices, Friendly and pofessional drivers"
   },
   {
     "name": "Bolton Minibus Hire",
@@ -2054,7 +2431,8 @@
     "lat": 53.586509,
     "lng": -2.4309701,
     "found_in_location": "Manchester",
-    "found_with_query": "16 seater minibus hire Manchester"
+    "found_with_query": "16 seater minibus hire Manchester",
+    "description": "Lancashire based transport company Minibus Hire Bolton provides coaches and minibus service with driver."
   },
   {
     "name": "Coach Holiday Tours Liverpool",
@@ -2071,7 +2449,8 @@
     "lat": 53.407878,
     "lng": -2.9877049,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Minibus and Coach Hire services in Liverpool with the leading company in the industry. Whatever the occasion or number of passengers, Liverpool Minibus Hire offers the perfect vehicle tailored to your needs. Get a competitive price quote for Minibus Hire with a professional driver, ensuring a..."
   },
   {
     "name": "Rich The Coach",
@@ -2088,7 +2467,12 @@
     "lat": 53.382802,
     "lng": -2.86153,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "pricequote@liverpoolcoachhire.org",
+    "emails": [
+      "pricequote@liverpoolcoachhire.org"
+    ],
+    "description": "With Liverpool Coach Hire's quality service and competitive rates you will never be disappointed. Our staff will cater to your journey needs so you can sit back, relax and enjoy the journey."
   },
   {
     "name": "Furlongs Travel",
@@ -2105,7 +2489,8 @@
     "lat": 53.4810195,
     "lng": -2.8565934,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "contract, coach hire, liverpool, manchester, merseyside, ormskirk, wigan, runcorn, warrington, st helens, southport, skelmersdale, formby, birkenhead, coach hire"
   },
   {
     "name": "Take U There Travel",
@@ -2122,7 +2507,12 @@
     "lat": 53.55605010000001,
     "lng": -3.0413893,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@takeuthere.co.uk",
+    "emails": [
+      "info@takeuthere.co.uk"
+    ],
+    "description": "Take-u-There Travel specialises in small group executive travel. Our luxury minibuses provide a comfortable and enjoyable way for you to travel to your airport or cruise ship transfer, or for your golf tour across England, Wales and Scotland."
   },
   {
     "name": "North West Minibuses",
@@ -2139,7 +2529,12 @@
     "lat": 53.5554198,
     "lng": -2.4062772,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "info@northwestminibuses.co.uk",
+    "emails": [
+      "info@northwestminibuses.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Woolfold Travel Ltd",
@@ -2156,7 +2551,12 @@
     "lat": 53.5845169,
     "lng": -2.4025829,
     "found_in_location": "Bolton",
-    "found_with_query": "coach hire Bolton"
+    "found_with_query": "coach hire Bolton",
+    "email": "tracycurtis@talktalk.net",
+    "emails": [
+      "tracycurtis@talktalk.net"
+    ],
+    "description": "We are a family run business and have been established for over 40 years."
   },
   {
     "name": "Cube Coaches",
@@ -2173,7 +2573,12 @@
     "lat": 53.5913428,
     "lng": -2.4353337,
     "found_in_location": "Bolton",
-    "found_with_query": "coach hire Bolton"
+    "found_with_query": "coach hire Bolton",
+    "email": "cube.coaches@gmail.com",
+    "emails": [
+      "cube.coaches@gmail.com"
+    ],
+    "description": "Cube Coaches offers reliable minibus and coach hire in Bolton with 9\u201326 seaters for events, trips and transfers. Enjoy safe, comfortable and hassle free travel. Book Now!"
   },
   {
     "name": "BestWay Travel",
@@ -2190,7 +2595,12 @@
     "lat": 53.5642915,
     "lng": -2.4418039,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "email": "info@bestwaytravels.co.uk",
+    "emails": [
+      "info@bestwaytravels.co.uk"
+    ],
+    "description": "Reliable bus and coach transport services in Great Manchester and Liverpool with large luggage capacity and a range of amenities."
   },
   {
     "name": "INLINE TRAVEL LTD",
@@ -2258,7 +2668,12 @@
     "lat": 53.4826369,
     "lng": -2.6322835,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "bryfaz@yahoo.co.uk",
+    "emails": [
+      "bryfaz@yahoo.co.uk"
+    ],
+    "description": "Whether you are going on holiday with your family or arranging a business trip, we understand booking transport for a group can be a nightmare."
   },
   {
     "name": "Bank View Travel",
@@ -2292,7 +2707,14 @@
     "lat": 53.25139530000001,
     "lng": -3.1360392,
     "found_in_location": "Warrington",
-    "found_with_query": "16 seater minibus hire Warrington"
+    "found_with_query": "16 seater minibus hire Warrington",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Welcome to Chester Minibus & Coach Hire chester offering special rates on minibuses and coaches across Chester. We cover North, South ,West and East Chester with our quality vehicle with driver."
   },
   {
     "name": "Arrowsmith Travel",
@@ -2309,7 +2731,8 @@
     "lat": 53.2844892,
     "lng": -2.9153877,
     "found_in_location": "Chester",
-    "found_with_query": "party bus hire Chester"
+    "found_with_query": "party bus hire Chester",
+    "description": "Licensed to carry up to 16 passengers, we are a family run business. Operating our Chester minibus hire service from Deeside Industrial Estate we focus on serving Chester and Flintshire. Our modern, well appointed and spotlessly clean minibuses are perfect \u2026 Read more"
   },
   {
     "name": "Lambs Coach Hire",
@@ -2360,7 +2783,13 @@
     "lat": 53.607282,
     "lng": -2.1751021,
     "found_in_location": "Rochdale",
-    "found_with_query": "minibus hire Rochdale"
+    "found_with_query": "minibus hire Rochdale",
+    "email": "booking@britwheeltravels.com",
+    "emails": [
+      "booking@britwheeltravels.com",
+      "info@britwheeltravels.com"
+    ],
+    "description": "Affordable UK minibus & coach hire for groups. BritWheelTravels offers reliable, comfy transport nationwide. Get your free quote today & travel easy!"
   },
   {
     "name": "Union Minibus Hire",
@@ -2411,7 +2840,16 @@
     "lat": 53.4571832,
     "lng": -2.7031976,
     "found_in_location": "St Helens",
-    "found_with_query": "minibus hire St Helens"
+    "found_with_query": "minibus hire St Helens",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "davemdbus@gmail.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "MD BUS & COACH LTD LOCAL BUS SERVICE Passenger transport School Transport Bus Private Hire"
   },
   {
     "name": "SJL Travel of St Helens",
@@ -2479,7 +2917,12 @@
     "lat": 53.6399748,
     "lng": -3.0075517,
     "found_in_location": "Southport",
-    "found_with_query": "minibus hire Southport"
+    "found_with_query": "minibus hire Southport",
+    "email": "info@takeuthere.co.uk",
+    "emails": [
+      "info@takeuthere.co.uk"
+    ],
+    "description": "Take-u-There Travel specialises in small group executive travel. Our luxury minibuses provide a comfortable and enjoyable way for you to travel to your airport or cruise ship transfer, or for your golf tour across England, Wales and Scotland."
   },
   {
     "name": "Westfield Minibuses",
@@ -2496,7 +2939,20 @@
     "lat": 53.4125372,
     "lng": -2.1721331,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "info@westfield-minibuses.co.uk",
+      "info@westfieldservicestation.co.uk",
+      "quotes@westfield-minibuses.co.uk"
+    ],
+    "description": "Westfield Minibuses offers reliable minibus hire services, including 8 - 16 seater minibuses and coach hire in Stockport and Manchester for all occasions."
   },
   {
     "name": "On Time Travel",
@@ -2513,7 +2969,12 @@
     "lat": 53.3826505,
     "lng": -2.5902288,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "info@ontimetravel.org.uk",
+    "emails": [
+      "info@ontimetravel.org.uk"
+    ],
+    "description": "Taxi and Airport Transfer Specialists. For All Your Airport Transfer Needs In Warrington and surrounding areas. Clean Vehicles and Friendly Staff."
   },
   {
     "name": "Picks Travel Ltd.",
@@ -2530,7 +2991,12 @@
     "lat": 53.3549052,
     "lng": -2.9016458,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@pickstravel.co.uk",
+    "emails": [
+      "info@pickstravel.co.uk"
+    ],
+    "description": "Liverpool Taxis & Airport Transfers with fixed fares, flight monitoring and meet & greet. 24/7 pre-booked taxi and airport transfer service across Liverpool and Merseyside. Call 0151 459 0188."
   },
   {
     "name": "Dora Travel",
@@ -2547,7 +3013,12 @@
     "lat": 53.646559,
     "lng": -3.0106646,
     "found_in_location": "Southport",
-    "found_with_query": "minibus hire Southport"
+    "found_with_query": "minibus hire Southport",
+    "email": "info@doratravel.co.uk",
+    "emails": [
+      "info@doratravel.co.uk"
+    ],
+    "description": "Dora Travel - Private Taxi and Airport transfers in Southport. Punctual And Reliable Taxi and Airport Service For All Your Business And Personal Travel Needs."
   },
   {
     "name": "Diamond Travel Minibus",
@@ -2564,7 +3035,12 @@
     "lat": 53.4493477,
     "lng": -2.6402898,
     "found_in_location": "Manchester",
-    "found_with_query": "airport transfer minibus Manchester"
+    "found_with_query": "airport transfer minibus Manchester",
+    "email": "info@diamondtravelminibus.co.uk",
+    "emails": [
+      "info@diamondtravelminibus.co.uk"
+    ],
+    "description": "Our private hire service is perfect for any occasion. We offer a wide range of luxury business and executive transport services and airport transfers."
   },
   {
     "name": "Airport Services UK / Lakes Travel Group",
@@ -2581,7 +3057,13 @@
     "lat": 54.33456400000001,
     "lng": -2.7443883,
     "found_in_location": "Kendal",
-    "found_with_query": "self drive minibus hire Kendal"
+    "found_with_query": "self drive minibus hire Kendal",
+    "email": "info@airportservicesuk.com",
+    "emails": [
+      "info@airportservicesuk.com",
+      "john@doe.com"
+    ],
+    "description": "24 Hour Private Airport Taxi Hire Services in Kendal, Carlisle and all across Cumbria Airport Services UK has been transporting passengers throughout the Lake District, Cumbria and North Yorkshire since 1985. We are specialists in providing private hire transport with services to the whole of..."
   },
   {
     "name": "Atlantic Limos - Minibus, Party Bus & Limousine Hire Bolton",
@@ -2598,7 +3080,8 @@
     "lat": 53.5670262,
     "lng": -2.4273328,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "description": "Welcome to Atlantic Limos, The UK\u2019s number 1 provider of Buses and Limos for hire in Bolton. Hire 24/7 party buses for any occasion. Get a quote!"
   },
   {
     "name": "Mountaineerin Ltd",
@@ -2615,7 +3098,12 @@
     "lat": 53.4067113,
     "lng": -2.5490962,
     "found_in_location": "Warrington",
-    "found_with_query": "16 seater minibus hire Warrington"
+    "found_with_query": "16 seater minibus hire Warrington",
+    "email": "simon@mountaineerin.com",
+    "emails": [
+      "simon@mountaineerin.com"
+    ],
+    "description": "Mountaineerin is the UK's fastest-growing outdoor company focusing on Guided Mountain Trekking, 3 Peaks & Mountain Expedition events."
   },
   {
     "name": "Cheshire Travel Private Hire",
@@ -2632,7 +3120,12 @@
     "lat": 53.3699599,
     "lng": -2.2360255,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "info@cheshire-travel.com",
+    "emails": [
+      "info@cheshire-travel.com"
+    ],
+    "description": "Offering a 24/7 service in our serviced areas across Gwynedd.You can pay for your journey via Card or Cash in our vehicles. Bookings can be made online and through our Automated System any day of the week."
   },
   {
     "name": "Ocean Travels LTD | Bus and Coach Hire Company In Bolton",
@@ -2649,7 +3142,14 @@
     "lat": 53.5636605,
     "lng": -2.4755358,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "info@oceantravelsltd.co.uk",
+    "emails": [
+      "info@oceantravelsltd.co.uk",
+      "info@oceantravelsltd.com",
+      "info@oceantravelsltd.cominfo"
+    ],
+    "description": "Top-rated bus and coach hire company in Bolton offering reliable minibus rentals, private coach hire, and group transport services at affordable prices. Book now!"
   },
   {
     "name": "WorldClass Travelling Ltd",
@@ -2700,7 +3200,23 @@
     "lat": 53.4730912,
     "lng": -2.2996331,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "info@coach-hire-direct.co.uk"
+    ],
+    "description": "Coach Hire Direct offers trusted, affordable coach hire with modern vehicles and expert drivers. Get a fast quote for safe, comfortable travel today!"
   },
   {
     "name": "WildBerry Travel",
@@ -2717,7 +3233,8 @@
     "lat": 53.7501089,
     "lng": -3.0222806,
     "found_in_location": "Blackpool",
-    "found_with_query": "airport transfer minibus Blackpool"
+    "found_with_query": "airport transfer minibus Blackpool",
+    "description": "WildBerry Travel is a family-operated airport transfer company based in Lytham St Annes, offering 24/7 pre-booked pickups and drop-offs in modern estate cars for up to four passengers. Specializing in long-distance travel between the Fylde coast and all mainland airports, towns, and cruise..."
   },
   {
     "name": "Beeline VIP Coaches Ltd",
@@ -2734,7 +3251,12 @@
     "lat": 53.52415749999999,
     "lng": -2.1833402,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@beelinevipcoaches.co.uk",
+    "emails": [
+      "info@beelinevipcoaches.co.uk"
+    ],
+    "description": "Don\u2019t just listen to us, check out ourreviews on google."
   },
   {
     "name": "L & L Travel",
@@ -2751,7 +3273,8 @@
     "lat": 53.9207632,
     "lng": -3.0318104,
     "found_in_location": "Blackpool",
-    "found_with_query": "self drive minibus hire Blackpool"
+    "found_with_query": "self drive minibus hire Blackpool",
+    "description": "Friendly, luxury minibus hire service for airport transfers, nights out, events, stag, hen dos, races day, shopping trips and more. Serving the Fylde Coast and Over Wyre, including: Fleetwood, Cleveleys, Thornton, Poulton-le-Fylde, Knott End-on-Sea, Blackpool, Lytham, St Annes, Kirkham and Wesham."
   },
   {
     "name": "Smart Platform Rental Limited",
@@ -2768,7 +3291,13 @@
     "lat": 53.4620628,
     "lng": -2.3199486,
     "found_in_location": "Salford",
-    "found_with_query": "self drive minibus hire Salford"
+    "found_with_query": "self drive minibus hire Salford",
+    "email": "hiredesk@smartplatforms.co.uk",
+    "emails": [
+      "hiredesk@smartplatforms.co.uk",
+      "sales@smartplatforms.co.uk"
+    ],
+    "description": "Cherry Picker hire in Greater Manchester. The Manchester depot is just 3 minutes drive from the M60 and 12 minutes"
   },
   {
     "name": "J&A Travel",
@@ -2785,7 +3314,11 @@
     "lat": 53.401595,
     "lng": -2.177072,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "info@jandatravel.co.uk",
+    "emails": [
+      "info@jandatravel.co.uk"
+    ]
   },
   {
     "name": "Tuk Tuk Oldham",
@@ -2802,7 +3335,12 @@
     "lat": 53.53869,
     "lng": -2.130709,
     "found_in_location": "Oldham",
-    "found_with_query": "self drive minibus hire Oldham"
+    "found_with_query": "self drive minibus hire Oldham",
+    "email": "info@tuktukoldham.com",
+    "emails": [
+      "info@tuktukoldham.com"
+    ],
+    "description": "\"The ONE and ONLY Tuk Tuk or say we say the original tuk tuk has landed in Greater Manchester since 2018.\"(Awarded Best Chauffeur Company 2021, 2022 and 2023)"
   },
   {
     "name": "Stagfactory",
@@ -2819,7 +3357,12 @@
     "lat": 53.4194454,
     "lng": -2.2389884,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "info@stagfactory.com",
+    "emails": [
+      "info@stagfactory.com"
+    ],
+    "description": "Stag Do Ideas UK with Amazing Stag Do Activities Limo Hire, Party Bus, Stripper Limos in Every City. The Best Stag Do Ideas & Activities."
   },
   {
     "name": "Delux Travels \u2013 Airport Transfers, Chauffeur & Event Transport",
@@ -2836,7 +3379,13 @@
     "lat": 53.4478458,
     "lng": -2.0802743,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "saleh7389@hotmail.co.uk",
+    "emails": [
+      "saleh7389@hotmail.co.uk",
+      "support@webador.com"
+    ],
+    "description": "Delux Travels provides reliable and comfortable chauffeur services with executive or standard minibus & car transfers in Tameside and surrounding areas. Perfect for group travel, airport transfers, corporate events, and sightseeing tours. Book your hassle free minibus or car with professional..."
   },
   {
     "name": "TravelSwift Ltd",
@@ -2853,7 +3402,14 @@
     "lat": 53.76931680000001,
     "lng": -2.7021744,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "%20sales@travelswift.co.uk",
+    "emails": [
+      "%20sales@travelswift.co.uk",
+      "email@domain.com",
+      "sales@travelswift.co.uk"
+    ],
+    "description": "We offer transportation for every occasion, from weddings and group tours to party buses and funeral services."
   },
   {
     "name": "Airlink Direct",
@@ -2870,7 +3426,8 @@
     "lat": 53.4827261,
     "lng": -2.9930045,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Need a Lift? At Airlink we provide reliable airport transfers Liverpool. \u2713 Minibus Hire Liverpool \u2713 Cheapest in Merseyside. Call us: \u260e 0151 280 0350"
   },
   {
     "name": "Charlton Minicoaches Ltd",
@@ -2887,7 +3444,12 @@
     "lat": 53.5981621,
     "lng": -2.8643317,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@charltonminicoaches.co.uk",
+    "emails": [
+      "info@charltonminicoaches.co.uk"
+    ],
+    "description": "Charlton Minicoaches have extensive experience in the passenger transport industry and will cater for all your transport needs. We have been providing mini bus and minicoach hire in the North West of England for over 20 years and our proprietor Martin has over 30 years experience in the..."
   },
   {
     "name": "Bolton Airport Transfers Bolton Airport Services minibus hire Airport transfers bolton weddings chauffeur service",
@@ -2904,7 +3466,12 @@
     "lat": 53.569423,
     "lng": -2.4603943,
     "found_in_location": "Bolton",
-    "found_with_query": "self drive minibus hire Bolton"
+    "found_with_query": "self drive minibus hire Bolton",
+    "email": "boltonairporttransfers@gmail.com",
+    "emails": [
+      "boltonairporttransfers@gmail.com"
+    ],
+    "description": "Bolton Airport Transfers | Bolton minibus hire, mini bus hire in Bolton, Bolton airport service, airport transfer shuttle service, wedding car hire, chauffeur hire, airport transfers in Bolton. Visit for a quote"
   },
   {
     "name": "Roy McCarthy Coaches",
@@ -2921,7 +3488,12 @@
     "lat": 53.27004669999999,
     "lng": -2.1208438,
     "found_in_location": "Macclesfield",
-    "found_with_query": "minibus hire Macclesfield"
+    "found_with_query": "minibus hire Macclesfield",
+    "email": "sales@roymccarthycoaches.co.uk",
+    "emails": [
+      "sales@roymccarthycoaches.co.uk"
+    ],
+    "description": "Coach Tours, Day Trips and Private Hire"
   },
   {
     "name": "Expedition Mini Coaches Ltd",
@@ -2938,7 +3510,8 @@
     "lat": 53.2728842,
     "lng": -2.1184956,
     "found_in_location": "Macclesfield",
-    "found_with_query": "minibus hire Macclesfield"
+    "found_with_query": "minibus hire Macclesfield",
+    "description": "Expedition Mini Coaches is a family run wheelchair access transport company based in Macclesfield, Cheshire. Call our booking line on: 01625 500 355."
   },
   {
     "name": "Kaiza Travel UK",
@@ -2955,7 +3528,13 @@
     "lat": 53.4813404,
     "lng": -2.8664783,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "john.smith@email.com",
+    "emails": [
+      "john.smith@email.com",
+      "travel@kaizatravel.co.uk"
+    ],
+    "description": "* Travel with Kaiza \u2013 Our Business is your pleasure*"
   },
   {
     "name": "GoodtoGotravel Liverpool",
@@ -2972,7 +3551,12 @@
     "lat": 53.5074662,
     "lng": -2.9615768,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "info@goodtogotravel.co.uk",
+    "emails": [
+      "info@goodtogotravel.co.uk"
+    ],
+    "description": "For professional transport at a reasonable price, Good To Go Travel is the go to choice for Airport Transfers in Manchester & Liverpool. \u260e\ufe0f 0151 294 2874"
   },
   {
     "name": "Link Travel - Minibus & Coach Hire",
@@ -2989,7 +3573,12 @@
     "lat": 53.8567448,
     "lng": -2.1676682,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "info@linktravel247.co.uk",
+    "emails": [
+      "info@linktravel247.co.uk"
+    ],
+    "description": "Looking for Mini Bus Hire Coach in Colne UK? Join Link Travel 24 7 for all travel needs. We offer Our fleets with friendly drivers in Colne."
   },
   {
     "name": "Sky Coaches Manchester",
@@ -3006,7 +3595,8 @@
     "lat": 53.466171,
     "lng": -2.2070034,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Discover Organized Adventures with Sky Coaches \u2013 your ultimate travel hack for seamless trips. Explore curated destinations and unforgettable experiences."
   },
   {
     "name": "GO CAB",
@@ -3023,7 +3613,12 @@
     "lat": 53.4144535,
     "lng": -2.1808523,
     "found_in_location": "Stockport",
-    "found_with_query": "minibus hire Stockport"
+    "found_with_query": "minibus hire Stockport",
+    "email": "bookings@gocab.uk",
+    "emails": [
+      "bookings@gocab.uk"
+    ],
+    "description": "Book GO CAB for your private hire taxi or airport transfers in Manchester, Stockport, Liverpool and others to all major UK airports."
   },
   {
     "name": "Mario Coach Travel Limited",
@@ -3040,7 +3635,12 @@
     "lat": 53.8258168,
     "lng": -2.5641511,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "info@mariocoaches.com",
+    "emails": [
+      "info@mariocoaches.com"
+    ],
+    "description": "At Mario Coach Travel LTD, we go the extra mile to ensure your comfort, safety, and satisfaction. Whether you\u2019re planning a corporate event, airport transfer, school trip, or private hire, our modern fleet and professional drivers are here for you."
   },
   {
     "name": "Atlas Luxury Mini Buses",
@@ -3057,7 +3657,12 @@
     "lat": 53.5927804,
     "lng": -2.4278545,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "bookings@atlasminibuses.co.uk",
+    "emails": [
+      "bookings@atlasminibuses.co.uk",
+      "enquiries@atlasminibuses.co.uk"
+    ]
   },
   {
     "name": "ROSEHILL Cabs",
@@ -3074,7 +3679,13 @@
     "lat": 53.5307748,
     "lng": -2.422457,
     "found_in_location": "Salford",
-    "found_with_query": "airport transfer minibus Salford"
+    "found_with_query": "airport transfer minibus Salford",
+    "email": "info@rosehillcabs.co.uk",
+    "emails": [
+      "info@rosehillcabs.co.uk",
+      "rosehillcabs@gmail.com"
+    ],
+    "description": "Rosehill Cabs is your first choice for private hire taxi service based in Salford City and licensed by Salford and Wigan City Council. Our drivers are also DBS check by Salford City Council. We operate in Little Hulton and environs.Widest range of vehicles, including 7 and 8 seat and executive..."
   },
   {
     "name": "Minibus Manchester",
@@ -3091,7 +3702,13 @@
     "lat": 53.467619,
     "lng": -2.2854363,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@minibusmanchester.ne",
+    "emails": [
+      "info@minibusmanchester.ne",
+      "info@minibusmanchester.net"
+    ],
+    "description": "Manchester minibus hire offering minibus with driver luxury and executive minibus Greater Manchester. Manchester minibus offers 8 to 16 seats .call Minibus Manchester now."
   },
   {
     "name": "Bibby\u2019s of Ingleton",
@@ -3108,7 +3725,8 @@
     "lat": 54.1470108,
     "lng": -2.472474,
     "found_in_location": "Lancaster",
-    "found_with_query": "coach hire Lancaster"
+    "found_with_query": "coach hire Lancaster",
+    "description": "UK & Continental Coach BreaksnnWhether you're looking for a day trip or a week away...nnFind Your TournnQuality Coach Holidays Since 1956nnBibby\u2019s"
   },
   {
     "name": "British Blue Tours",
@@ -3125,7 +3743,14 @@
     "lat": 53.3657796,
     "lng": -3.0653717,
     "found_in_location": "Liverpool",
-    "found_with_query": "coach hire Liverpool"
+    "found_with_query": "coach hire Liverpool",
+    "email": "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+    "emails": [
+      "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "office@bbtours.co.uk"
+    ],
+    "description": "British Blue Tours - A bus and coach company based in the heart of Merseyside on Duke Street Birkenhead. With 1 to 53 passenger seats we can cover all of your transport needs, whether it's airport transfers, private hire or corporate staff transfers."
   },
   {
     "name": "Coach Options Ltd",
@@ -3142,7 +3767,8 @@
     "lat": 53.5692234,
     "lng": -2.1656823,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Discover the top-notch Rochdale Coach Hire service for hassle-free travel. Reliable, comfortable, and affordable coach rentals for your next journey. The Number One Manchester Coach Company."
   },
   {
     "name": "LMTravel",
@@ -3159,7 +3785,12 @@
     "lat": 53.425481,
     "lng": -2.7443493,
     "found_in_location": "Warrington",
-    "found_with_query": "16 seater minibus hire Warrington"
+    "found_with_query": "16 seater minibus hire Warrington",
+    "email": "lmtravel136@yahoo.com",
+    "emails": [
+      "lmtravel136@yahoo.com"
+    ],
+    "description": "Journey TypeJourney TypeAirport - One WayAirport - ReturnNight Out - One WayNight Out - ReturnRace DayWeddingOther*"
   },
   {
     "name": "Cbirds Travel and Airport Transfers",
@@ -3176,7 +3807,18 @@
     "lat": 53.5096372,
     "lng": -2.9535711,
     "found_in_location": "Liverpool",
-    "found_with_query": "airport transfer minibus Liverpool"
+    "found_with_query": "airport transfer minibus Liverpool",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "cbirdstravel@outlook.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com"
+    ],
+    "description": "Great Service provided, despite some unforeseen circumstances which were corrected. Great Price and very polite driver. would recommend this Company"
   },
   {
     "name": "Johnson's Minibuses",
@@ -3193,7 +3835,12 @@
     "lat": 53.49691490000001,
     "lng": -2.0964776,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@johnsonsminibuses.com",
+    "emails": [
+      "info@johnsonsminibuses.com"
+    ],
+    "description": "Taxi and minibus hire throughout Tameside and Manchester"
   },
   {
     "name": "Walkers Coaches",
@@ -3210,7 +3857,8 @@
     "lat": 53.2737455,
     "lng": -2.5334413,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "description": "Holmeswood Coaches Ltd. provide a complete range of transport solutions, offering total flexibility."
   },
   {
     "name": "Twilight Luxury Travel",
@@ -3227,7 +3875,8 @@
     "lat": 53.353919,
     "lng": -2.864466,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Twilight Luxury Travel provide Minibus Taxi Transfer Liverpool - Mini Bus Hire Liverpool, Lancashire. Range of events and special occasions covered. Call 01514868552."
   },
   {
     "name": "Four Sixes",
@@ -3244,7 +3893,12 @@
     "lat": 53.6555948,
     "lng": -2.6300306,
     "found_in_location": "Chorley",
-    "found_with_query": "self drive minibus hire Chorley"
+    "found_with_query": "self drive minibus hire Chorley",
+    "email": "hello@foursixestaxis.co.uk",
+    "emails": [
+      "hello@foursixestaxis.co.uk"
+    ],
+    "description": "Fresh, forward-thinking and punctual. Four Sixes Taxis use cutting edge technology to smoothly transport our customers on local trips. We are proud to be the"
   },
   {
     "name": "Presidential Travel Ltd",
@@ -3261,7 +3915,12 @@
     "lat": 53.46604660000001,
     "lng": -2.9958402,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@presidentialtravel.co.uk",
+    "emails": [
+      "info@presidentialtravel.co.uk"
+    ],
+    "description": "We are Presidential Travel, a Liverpool based coach, bus and wedding transportation company, offering our services with style and comfort."
   },
   {
     "name": "SHC Hire - Kendal",
@@ -3278,7 +3937,13 @@
     "lat": 54.3331643,
     "lng": -2.7428919,
     "found_in_location": "Kendal",
-    "found_with_query": "self drive minibus hire Kendal"
+    "found_with_query": "self drive minibus hire Kendal",
+    "email": "hires@shc.co.uk",
+    "emails": [
+      "hires@shc.co.uk",
+      "info@shc.co.uk"
+    ],
+    "description": "Explore our comprehensive range of high-quality equipment and tools for construction, DIY, and events. Rent with confidence \u2013 reliable service, affordable rates, and expert advice. Your one-stop solution for all your hiring needs!"
   },
   {
     "name": "Jacksons coaches",
@@ -3295,7 +3960,14 @@
     "lat": 53.79862250000001,
     "lng": -3.0211998,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "charlie.jackson17@outlook.com",
+    "emails": [
+      "charlie.jackson17@outlook.com",
+      "jackson.fab@outlook.com",
+      "jonpauljackson@icloud.com"
+    ],
+    "description": "High Quality 59 and 53 seater coaches available for hire in the Blackpool area and surrounding areas from Jacksons Coaches Blackpool"
   },
   {
     "name": "Wheel Meet Again",
@@ -3380,7 +4052,8 @@
     "lat": 53.4793385,
     "lng": -2.860033,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "Knowsley Travel provide minibus hire accross knowsley and all areas of liverpool and merseyside. Transport for Airport Transfers, Day Trips, Weddings and Special Occasions, Contract work and more.."
   },
   {
     "name": "Let's Travel with Balmoral",
@@ -3397,7 +4070,12 @@
     "lat": 53.4584132,
     "lng": -2.9833088,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "letstravel@btconnect.com",
+    "emails": [
+      "letstravel@btconnect.com"
+    ],
+    "description": "Telephone:0151 922 3100| Email:letstravel@btconnect.com"
   },
   {
     "name": "BusyBus Liverpool",
@@ -3414,7 +4092,12 @@
     "lat": 53.40947629999999,
     "lng": -2.9809671,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@busybus.co.uk",
+    "emails": [
+      "info@busybus.co.uk"
+    ],
+    "description": "All tours available to book from one place. Choose your start location then the tour of choice. Don't forget to add the promo code when asked"
   },
   {
     "name": "Airport Taxi and Minibus Tameside - Taxi4airport & Minibus4airport",
@@ -3431,7 +4114,12 @@
     "lat": 53.47558799999999,
     "lng": -2.07205,
     "found_in_location": "Manchester",
-    "found_with_query": "airport transfer minibus Manchester"
+    "found_with_query": "airport transfer minibus Manchester",
+    "email": "info@minibus4airport.com",
+    "emails": [
+      "info@minibus4airport.com"
+    ],
+    "description": "Please fill in the enquiry form below for a competitive quote"
   },
   {
     "name": "Leigh Executive Travel",
@@ -3448,7 +4136,12 @@
     "lat": 53.4921764,
     "lng": -2.4785186,
     "found_in_location": "Leigh",
-    "found_with_query": "minibus hire Leigh"
+    "found_with_query": "minibus hire Leigh",
+    "email": "enquiries@leighexecutivetravel.co.uk",
+    "emails": [
+      "enquiries@leighexecutivetravel.co.uk"
+    ],
+    "description": "Our luxury private hire vehicles are perfect for every occasion. For airport transfers, corporate travel, or event transportation. We have you covered."
   },
   {
     "name": "Express Travel NW Ltd",
@@ -3465,7 +4158,12 @@
     "lat": 53.7694309,
     "lng": -2.3788492,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "info@expresstravelservices.co.uk",
+    "emails": [
+      "info@expresstravelservices.co.uk"
+    ],
+    "description": "01254 456 456 07771 117 048\u202c info@expresstravelservices.co.uk MINIBUS & COACH HIRE\u200bIf you need safe and reliable transport for any group [\u2026]"
   },
   {
     "name": "Swann Tours",
@@ -3482,7 +4180,12 @@
     "lat": 53.78419599999999,
     "lng": -3.0344467,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "info@swanntours.co.uk",
+    "emails": [
+      "info@swanntours.co.uk"
+    ],
+    "description": "Holiday and Short breaks coach tour specialists with over 38 years experience based in Blackpool UK with free local taxi pick-up"
   },
   {
     "name": "R&J Travel",
@@ -3499,7 +4202,12 @@
     "lat": 53.4103249,
     "lng": -3.1199884,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "jane-jenkins@sky.com",
+    "emails": [
+      "jane-jenkins@sky.com"
+    ],
+    "description": "The R & J Travel story began in December 1989, when Ritchie purchased a 16 seat Bedford CF. As the company grew, daughter Jane joined him in 1991."
   },
   {
     "name": "Whitworth travel exclusive",
@@ -3516,7 +4224,11 @@
     "lat": 53.6858545,
     "lng": -2.1666532,
     "found_in_location": "Rochdale",
-    "found_with_query": "airport transfer minibus Rochdale"
+    "found_with_query": "airport transfer minibus Rochdale",
+    "email": "gill@whitworthtravel.com",
+    "emails": [
+      "gill@whitworthtravel.com"
+    ]
   },
   {
     "name": "Stowmarket Minibus & Coach Hire Ltd",
@@ -3533,7 +4245,20 @@
     "lat": 52.2244199,
     "lng": 0.8918265,
     "found_in_location": "Bury",
-    "found_with_query": "16 seater minibus hire Bury"
+    "found_with_query": "16 seater minibus hire Bury",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@stowminibus.co.uk",
+      "stowminibus@gmail.com"
+    ],
+    "description": "Stowmarket minibus and coach hire Ltd Minibus hire Coach Hire 8 Seater with driver hire Airport Transfers Group Transportation Private Hires Weddings Family Gatherings Sports Events Corporations and event planners Schools, colleges, and universities Families, individuals, and local community..."
   },
   {
     "name": "Carl's Mini Bus Hire, Manchester",
@@ -3550,7 +4275,12 @@
     "lat": 53.512589,
     "lng": -2.144726,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "carlsminibus@btinternet.com",
+    "emails": [
+      "carlsminibus@btinternet.com"
+    ],
+    "description": "Our aim is to provide you with amemorable challenge"
   },
   {
     "name": "Englands Minibuses",
@@ -3567,7 +4297,12 @@
     "lat": 53.6572738,
     "lng": -2.6086949,
     "found_in_location": "Wigan",
-    "found_with_query": "party bus hire Wigan"
+    "found_with_query": "party bus hire Wigan",
+    "email": "hello@englandsminibuses.co.uk",
+    "emails": [
+      "hello@englandsminibuses.co.uk"
+    ],
+    "description": "Englands Minibus Hire Chorley, Lancashire. Chauffeur driven minibuses for airport transfers, events, corporate travel & group transport."
   },
   {
     "name": "Nationwide Coaches",
@@ -3601,7 +4336,12 @@
     "lat": 53.4598373,
     "lng": -2.9534806,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "hello@hartley.travel",
+    "emails": [
+      "hello@hartley.travel"
+    ],
+    "description": "Liverpool Minibus and Coach Hire. Trusted and Reliable with over 30 Years experience. We have vehicles which are able to carry between 16 to 53 passengers."
   },
   {
     "name": "Royalls Travel",
@@ -3652,7 +4392,12 @@
     "lat": 53.3995904,
     "lng": -2.9894982,
     "found_in_location": "Liverpool",
-    "found_with_query": "party bus hire Liverpool"
+    "found_with_query": "party bus hire Liverpool",
+    "email": "user@domain.com",
+    "emails": [
+      "user@domain.com"
+    ],
+    "description": "Explore the best of Liverpool with our City & Beatles Tour or Hop On, Hop Off City Tour. Live commentary, music, and major attractions await. Book now!"
   },
   {
     "name": "M D Travel",
@@ -3669,7 +4414,8 @@
     "lat": 53.67343469999999,
     "lng": -2.9620359,
     "found_in_location": "Southport",
-    "found_with_query": "coach hire Southport"
+    "found_with_query": "coach hire Southport",
+    "description": "\u00a9 2016 MD Travel | Built by Zapptaa New Media Design"
   },
   {
     "name": "Conrad Executive Travel & Private Hire",
@@ -3686,7 +4432,8 @@
     "lat": 53.4961202,
     "lng": -2.515185,
     "found_in_location": "Leigh",
-    "found_with_query": "minibus hire Leigh"
+    "found_with_query": "minibus hire Leigh",
+    "description": "Conrad Executive Travel: offer quality corporate and private transportation services across the entire Greater Manchester area at reasonable prices"
   },
   {
     "name": "Solomon travel",
@@ -3703,7 +4450,12 @@
     "lat": 53.5723228,
     "lng": -2.4262065,
     "found_in_location": "Bolton",
-    "found_with_query": "minibus hire Bolton"
+    "found_with_query": "minibus hire Bolton",
+    "email": "solomontravel1@icloud.com",
+    "emails": [
+      "solomontravel1@icloud.com"
+    ],
+    "description": "Manchester Minibus Service, Personal Chauffeur driven Minibuses, upto 16 seater. Very reliable ! Crb verified ! Get your Quick quote - great prices! .... Manchester to London, we cover the whole of England, Scotland and Wales . North West Taxi , UK Taxi."
   },
   {
     "name": "Pye Hire - Vehicle Rental Specialists Morecambe",
@@ -3720,7 +4472,8 @@
     "lat": 54.0559767,
     "lng": -2.833015000000001,
     "found_in_location": "Lancaster",
-    "found_with_query": "minibus hire Lancaster"
+    "found_with_query": "minibus hire Lancaster",
+    "description": "Discover Pye Motors&#039; extensive range of Ford commercial vehicles for hire, including minibuses, transit customs, the mid-sized van, full-sized transits, single and double cab vans, panel vans, luton box vans with tail lifts, drop siders, tippers and refrigerated vans. Explore our newest..."
   },
   {
     "name": "Peoples Bus Ltd",
@@ -3737,7 +4490,13 @@
     "lat": 53.4826948,
     "lng": -2.9562879,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "enquiries@peoplesbus.com",
+    "emails": [
+      "enquiries@peoplesbus.com",
+      "hello@peoplesbus.com"
+    ],
+    "description": "PeoplesBus are a Liverpool-based bus operator providing bus services in and around the region. Our motto \u201cGiving you the service you deserve\u201d is not a \u2026"
   },
   {
     "name": "Star Autos Ltd",
@@ -3754,7 +4513,12 @@
     "lat": 53.5916126,
     "lng": -2.2817536,
     "found_in_location": "Bury",
-    "found_with_query": "self drive minibus hire Bury"
+    "found_with_query": "self drive minibus hire Bury",
+    "email": "transport@starautos.co.uk",
+    "emails": [
+      "transport@starautos.co.uk"
+    ],
+    "description": "Road Haulage in the North West with machines jcb diggers cars"
   },
   {
     "name": "Taylors Travel of Bury",
@@ -3771,7 +4535,8 @@
     "lat": 53.635363,
     "lng": -2.333442,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "description": "Minibus hire and airport transfers covering Bury and throughout Manchester. Call 01706 826 602."
   },
   {
     "name": "Reeves Coach Holidays Ltd",
@@ -3788,7 +4553,8 @@
     "lat": 53.7381182,
     "lng": -2.49451,
     "found_in_location": "Blackburn",
-    "found_with_query": "coach hire Blackburn"
+    "found_with_query": "coach hire Blackburn",
+    "description": "ABOUT USAvatravel are based in Leyland, we have beenestablished for over 10 years. We specialise inUK & European Coach Holidays the way coachtravel should be with Door to door service,executive coaches, all inclusive excursions &professional and friendly drivers."
   },
   {
     "name": "AIRPORTS DIRECT ST HELENS",
@@ -3822,7 +4588,12 @@
     "lat": 53.46982999999999,
     "lng": -2.2753337,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@ukminibusestravel.co.uk",
+    "emails": [
+      "info@ukminibusestravel.co.uk"
+    ],
+    "description": "Need a reliable airport taxi? Get fast, safe & affordable rides 24/7. On-time pickups, professional drivers & easy online booking. Book your ride now!"
   },
   {
     "name": "Oakwards Travel Ltd",
@@ -3839,7 +4610,13 @@
     "lat": 53.4818466,
     "lng": -2.9604542,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "a.woodward959@btinternet.com",
+    "emails": [
+      "a.woodward959@btinternet.com",
+      "oakwardstravel@hotmail.com"
+    ],
+    "description": "Here at Oakwards, it's not just about the destination; it's about the whole travel experience. From start to finish, we pride ourselves on the high standards we offer."
   },
   {
     "name": "DON FRASER COACHES",
@@ -3856,7 +4633,8 @@
     "lat": 53.640257,
     "lng": -2.8449917,
     "found_in_location": "Wigan",
-    "found_with_query": "coach hire Wigan"
+    "found_with_query": "coach hire Wigan",
+    "description": "Don Fraser Coaches quality coach travel since 1972 in Rufford Lancashire, we cover North West, Southport, Ormskirk, Merseyside, Preston, Leyland & Wigan"
   },
   {
     "name": "R.S.Z Travel",
@@ -3873,7 +4651,8 @@
     "lat": 53.52923639999999,
     "lng": -2.1309697,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "description": "Embark on a ride of comfort, reliability, and style with our 24/7 minibus hire service. Whether it\u2019s a wedding celebration, a thrilling football game, a lively hen party, a school adventure, or a hassle-free airport run, we are your dedicated transportation partner."
   },
   {
     "name": "Burows Mini Coaches",
@@ -3941,7 +4720,12 @@
     "lat": 53.481239,
     "lng": -2.2425668,
     "found_in_location": "Salford",
-    "found_with_query": "self drive minibus hire Salford"
+    "found_with_query": "self drive minibus hire Salford",
+    "email": "info@acescarhire.co.uk",
+    "emails": [
+      "info@acescarhire.co.uk"
+    ],
+    "description": "Welcome to Aces Car Hire, recognized as the best Rolls Royce provider in the Northwest. Your premier destination for Rolls Royce chauffeur hire services, proudly serving Manchester."
   },
   {
     "name": "Triple Zero",
@@ -3975,7 +4759,16 @@
     "lat": 53.5420536,
     "lng": -2.63234,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "blackburn@easihire.co.uk",
+    "emails": [
+      "blackburn@easihire.co.uk",
+      "edinburgh@easihire.co.uk",
+      "preston@easihire.co.uk",
+      "wigan@easihire.co.uk",
+      "wolverhampton@easihire.co.uk"
+    ],
+    "description": "Van Hire Wigan made easy with EasiHire. Affordable, reliable van rental in Wigan with a brand new fleet and flexible options. Book online now!"
   },
   {
     "name": "Ellen Smith Tours Ltd",
@@ -4009,7 +4802,12 @@
     "lat": 53.4516003,
     "lng": -2.0762236,
     "found_in_location": "Stockport",
-    "found_with_query": "16 seater minibus hire Stockport"
+    "found_with_query": "16 seater minibus hire Stockport",
+    "email": "quotes@3939tameside.co.uk",
+    "emails": [
+      "quotes@3939tameside.co.uk"
+    ],
+    "description": "We keep our prices our low and we specialise in set fares."
   },
   {
     "name": "Bullocks Coaches",
@@ -4026,7 +4824,8 @@
     "lat": 53.3953955,
     "lng": -2.2087537,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "If you see this page, the nginx web server is successfully installed and working. Further configuration is required."
   },
   {
     "name": "G Line Holidays Ltd",
@@ -4043,7 +4842,12 @@
     "lat": 53.75133289999999,
     "lng": -3.0241771,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "info@g-lineholidays.co.uk",
+    "emails": [
+      "info@g-lineholidays.co.uk"
+    ],
+    "description": "Coach holidays and day excursions"
   },
   {
     "name": "Memory Lane Holidays & Travel",
@@ -4077,7 +4881,12 @@
     "lat": 53.3379938,
     "lng": -2.7449895,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "enquiries@anthonys-travel.co.uk",
+    "emails": [
+      "enquiries@anthonys-travel.co.uk"
+    ],
+    "description": "Anthony's Travel are an award winning coach hire company based in Cheshire - we offer a range of fully serviced coaches throughout the UK at great prices."
   },
   {
     "name": "BusyBus Chester",
@@ -4094,7 +4903,12 @@
     "lat": 53.1963769,
     "lng": -2.880616,
     "found_in_location": "Chester",
-    "found_with_query": "self drive minibus hire Chester"
+    "found_with_query": "self drive minibus hire Chester",
+    "email": "info@busybus.co.uk",
+    "emails": [
+      "info@busybus.co.uk"
+    ],
+    "description": "All tours available to book from one place. Choose your start location then the tour of choice. Don't forget to add the promo code when asked"
   },
   {
     "name": "Hattons Travel",
@@ -4111,7 +4925,12 @@
     "lat": 53.473172,
     "lng": -2.667688,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "info@hattonstravel.co.uk",
+    "emails": [
+      "info@hattonstravel.co.uk"
+    ],
+    "description": "If you require coach travel in St Helens then look no further than the services of Hattons Travel. CALL 01744 811818. Family run since 1987"
   },
   {
     "name": "FS Minibuses",
@@ -4128,7 +4947,12 @@
     "lat": 53.7339338,
     "lng": -2.7177257,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "fsminibuses@gmail.com",
+    "emails": [
+      "fsminibuses@gmail.com"
+    ],
+    "description": "FS MINIBUSES \u2013 PRESTON MINIBUSES\"FS Minibuses\" Preston Minibuses: Our fleet of minibuses is modern and consist of vehicles of 2012 and 2014, Euro 5, Echo Friendly, Fully Insured and ready for good service vehicles. We offer different type of vehicles to suit the needs of the group, so we can..."
   },
   {
     "name": "CJ's Travel Limited",
@@ -4145,7 +4969,12 @@
     "lat": 53.4754486,
     "lng": -2.653769,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "cjstravelltd@aol.com",
+    "emails": [
+      "cjstravelltd@aol.com"
+    ],
+    "description": "Looking to hire a minibus for your corporate travel needs in St Helens. Contact your local minibus hire company, C.J's Travel Ltd if you are in Merseyside."
   },
   {
     "name": "Chesters Coaches",
@@ -4179,7 +5008,12 @@
     "lat": 53.3453078,
     "lng": -2.9008095,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@thebigcoachcompany.co.uk",
+    "emails": [
+      "info@thebigcoachcompany.co.uk"
+    ],
+    "description": "Affordable bus, minibus and coach hire throughout Merseyside, Cheshire and Halton. Luxury minibuses and coaches from 12 to 85 seats to suit all occasions."
   },
   {
     "name": "Adapted Vehicle Hire Ltd",
@@ -4196,7 +5030,13 @@
     "lat": 53.6244425,
     "lng": -2.6657619,
     "found_in_location": "Chorley",
-    "found_with_query": "self drive minibus hire Chorley"
+    "found_with_query": "self drive minibus hire Chorley",
+    "email": "info@adaptedvehiclehire.co.uk",
+    "emails": [
+      "info@adaptedvehiclehire.co.uk",
+      "info@adaptedvehiclehire.com"
+    ],
+    "description": "Unlock the freedom of mobility with Adapted Vehicle Hire. Specialising in wheelchair-accessible & adapted rental vehicles tailored for your needs. Drive with confidence!"
   },
   {
     "name": "Timewell's Travel",
@@ -4230,7 +5070,14 @@
     "lat": 53.4662352,
     "lng": -2.2678867,
     "found_in_location": "Manchester",
-    "found_with_query": "16 seater minibus hire Manchester"
+    "found_with_query": "16 seater minibus hire Manchester",
+    "email": "accounts@stscars.co.uk",
+    "emails": [
+      "accounts@stscars.co.uk",
+      "admin@stscars.co.uk",
+      "bookings@stscars.co.uk"
+    ],
+    "description": "One of the leading Manchesters Premier Taxi and Airport Transfer Company assures you to have the most comfortable and luxurious travel experience."
   },
   {
     "name": "Moving PEOPLE",
@@ -4247,7 +5094,13 @@
     "lat": 53.75111339999999,
     "lng": -2.4099878,
     "found_in_location": "Blackburn",
-    "found_with_query": "coach hire Blackburn"
+    "found_with_query": "coach hire Blackburn",
+    "email": "info@movingpeopleltd.co.uk",
+    "emails": [
+      "info@movingpeopleltd.co.uk",
+      "tours@movingpeopleltd.co.uk"
+    ],
+    "description": "Door to Door inclusive coach holidays from the north west"
   },
   {
     "name": "Travel Master MCR Ltd",
@@ -4264,7 +5117,8 @@
     "lat": 53.4266138,
     "lng": -2.3833308,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Travel Master are Manchester's Premier Coach, Midicoach & Minibus Hire Company supplying first class yet affordable services throughout the UK."
   },
   {
     "name": "Yelloway Coaches Limited",
@@ -4281,7 +5135,12 @@
     "lat": 53.5417228,
     "lng": -2.1421945,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "info@yelloway.co.uk",
+    "emails": [
+      "info@yelloway.co.uk"
+    ],
+    "description": "Looking for luxury coach, excursions & tours or executive minibus hire in Greater Manchester, you can be sure Yelloway have a coach to suit your needs."
   },
   {
     "name": "Atlantic Executive Travel Ltd",
@@ -4298,7 +5157,18 @@
     "lat": 53.5925968,
     "lng": -2.1756223,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "sales@atlantic-coach.co.uk"
+    ],
+    "description": "Atlantic Executive Travel has been delivering professional, reliable executive coach hire across Rochdale, Southampton, Greater London & Edinburgh since 1999."
   },
   {
     "name": "Maghull Coaches Ltd",
@@ -4315,7 +5185,13 @@
     "lat": 53.4449234,
     "lng": -2.9970273,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "bookings@maghullcoaches.co.uk",
+    "emails": [
+      "bookings@maghullcoaches.co.uk",
+      "maghulltransport@maghullcoaches.co.uk"
+    ],
+    "description": "Liverpool coach hire from Maghull Coaches, a family bus hire service offering a full transport solution in Merseyside & beyond. Book direct and save money!"
   },
   {
     "name": "Dawsons Travel Ltd",
@@ -4332,7 +5208,17 @@
     "lat": 53.885275,
     "lng": -3.0377925,
     "found_in_location": "Blackpool",
-    "found_with_query": "airport transfer minibus Blackpool"
+    "found_with_query": "airport transfer minibus Blackpool",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dawsonstravel1971@gmail.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "Based in Thornton-Cleveleys, Dawson's Travel Ltd offer airport taxi service, private hire & a taxi service. To enquire, get in touch with a member of the team."
   },
   {
     "name": "Ashcrofts Mini Travel",
@@ -4349,7 +5235,13 @@
     "lat": 53.4831941,
     "lng": -2.5934348,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "%20enquiries@ashcroftsminitravel.co.uk",
+    "emails": [
+      "%20enquiries@ashcroftsminitravel.co.uk",
+      "enquiries@ashcroftsminitravel.co.uk"
+    ],
+    "description": "Coach & Minibus Hire in Warrington, Wigan, Leigh & Other Districts. Get a quote online or call 01942 717918 with your travel requirements."
   },
   {
     "name": "Brethertons Gold Line Tours Ltd",
@@ -4366,7 +5258,8 @@
     "lat": 53.8448451,
     "lng": -2.6033551,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "description": "We\u2019re currently updating our website to improve your experience. While this work is underway, you can still view our brochures and find our contact information on this page"
   },
   {
     "name": "Bury Mini Bus Hire",
@@ -4383,7 +5276,8 @@
     "lat": 53.6089089,
     "lng": -2.3211864,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "At Bury Minibus Hire we can offer 10, 12, 14 and 16 Seat Minibuses together with a Professional Driver."
   },
   {
     "name": "Hodsons Coaches",
@@ -4400,7 +5294,11 @@
     "lat": 53.8811883,
     "lng": -2.3716305,
     "found_in_location": "Burnley",
-    "found_with_query": "coach hire Burnley"
+    "found_with_query": "coach hire Burnley",
+    "email": "info@hodsonscoaches.com",
+    "emails": [
+      "info@hodsonscoaches.com"
+    ]
   },
   {
     "name": "Sure and Safe Minibus Service Limited",
@@ -4417,7 +5315,12 @@
     "lat": 53.4208751,
     "lng": -2.5137618,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "info@sureandsafe.com",
+    "emails": [
+      "info@sureandsafe.com"
+    ],
+    "description": "Established in 1999 Sure and Safe pride ourselves with offering a safe, reliable and inexpensive minibus hire service in Warrington.When taking out minibus hire from us you can be assured to receive a first class service, from booking your trip to your day/night out with us.Our Motto is\"Sure to..."
   },
   {
     "name": "Zirconia Executive Nation Wide Minibus & Coach hire",
@@ -4451,7 +5354,13 @@
     "lat": 53.832712,
     "lng": -2.6059418,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "bookings@rsexecutivetravel.com",
+    "emails": [
+      "bookings@rsexecutivetravel.com",
+      "john.smith@gmail.com"
+    ],
+    "description": "RS Executive Travel Airport transfer specialist's RS Executive Travel Business & corporate travel RS Executive Travel 4, 6, 8, 16, 19 & 22 seater minibuses Choose your Service... RS Executive Travel Business & Corporate Travel Travel in relaxation or setup to work to your chosen destination..."
   },
   {
     "name": "grahams mini travel",
@@ -4468,7 +5377,8 @@
     "lat": 53.5212404,
     "lng": -2.5437882,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "description": "Welcome to our website. Please feel free to click on the links to navigate our site. We are still Leighs largest independent PSV Mini Coach operator with over 40 years experience in the coaching industry. We operate luxury minibuses with plenty of leg room and forced air ventilation. All vehicle"
   },
   {
     "name": "A K Travel",
@@ -4485,7 +5395,14 @@
     "lat": 54.0690275,
     "lng": -2.7924423,
     "found_in_location": "Lancaster",
-    "found_with_query": "minibus hire Lancaster"
+    "found_with_query": "minibus hire Lancaster",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "aktravellancaster@gmail.com"
+    ],
+    "description": "Aktravellancaster.co.uk is a 16 seater minibus service in Lancaster and the surrounding areas for stag & hen, Airports and Race days."
   },
   {
     "name": "Mayfair Minibuses",
@@ -4502,7 +5419,13 @@
     "lat": 53.5009539,
     "lng": -2.1040481,
     "found_in_location": "Macclesfield",
-    "found_with_query": "16 seater minibus hire Macclesfield"
+    "found_with_query": "16 seater minibus hire Macclesfield",
+    "email": "%20mayfairminibuses@hotmail.com",
+    "emails": [
+      "%20mayfairminibuses@hotmail.com",
+      "mayfairminibuses@hotmail.com"
+    ],
+    "description": "Welcome to Mayfair Minibuses! A friendly, reliable company offering competitive prices. Mayfair Minibuses have been in operation for over 25 years. We..."
   },
   {
     "name": "ABC Coach Ltd",
@@ -4519,7 +5442,13 @@
     "lat": 53.5117243,
     "lng": -2.3254057,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@abccoachhire.co.uk",
+    "emails": [
+      "info@abccoachhire.co.uk",
+      "info@abcoachhire.co.uk"
+    ],
+    "description": "Est 30 Years | Modern Fleet, High Specification, Safe & Reliable Coach & Minibus Hire for Day Trips, Schools, Tours, Business | BEST PRICES! | 0161 794 0033 | Get a Quote For Coach Hire Manchester"
   },
   {
     "name": "Happy Bus Hire",
@@ -4536,7 +5465,12 @@
     "lat": 53.1971147,
     "lng": -2.8585245,
     "found_in_location": "Warrington",
-    "found_with_query": "party bus hire Warrington"
+    "found_with_query": "party bus hire Warrington",
+    "email": "happybushire@gmail.com",
+    "emails": [
+      "happybushire@gmail.com"
+    ],
+    "description": "Mini bus hire for all occasions. Our aim is to make your journey as comfortable, affordable and fun as possible while delivering you to your destination safely and on time."
   },
   {
     "name": "Archway Travel",
@@ -4553,7 +5487,13 @@
     "lat": 53.9142281,
     "lng": -3.0223802,
     "found_in_location": "Blackpool",
-    "found_with_query": "coach hire Blackpool"
+    "found_with_query": "coach hire Blackpool",
+    "email": "info@ipswichbuses.co.uk",
+    "emails": [
+      "info@ipswichbuses.co.uk",
+      "office@archwaytravel.co.uk"
+    ],
+    "description": "Archway Travel are a family ownedFleetwood coach hire companyproviding transport solutions for the Blackpool,Wyre and Fylde area for 30 Years"
   },
   {
     "name": "Olympia Travel",
@@ -4570,7 +5510,12 @@
     "lat": 53.5336194,
     "lng": -2.5740087,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "olympia@coach-hire.net",
+    "emails": [
+      "olympia@coach-hire.net"
+    ],
+    "description": "At Olympia Travel, we offer premier coach hire solutions for customers across Wigan & Bolton. Call us on 01942 522 322 for a free quote."
   },
   {
     "name": "Orion Travel Coaches Ltd",
@@ -4587,7 +5532,12 @@
     "lat": 53.4738463,
     "lng": -2.2001239,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@oriontravel.co.uk",
+    "emails": [
+      "info@oriontravel.co.uk"
+    ],
+    "description": "Coach Hire Manchester - Based near Manchester City Centre Orion Travel provides coach hire and minibus hire from Greater Manchester and the North-West area to a range of travel destinations throughout the UK."
   },
   {
     "name": "Royton Minibuses",
@@ -4655,7 +5605,12 @@
     "lat": 53.2610786,
     "lng": -2.5733606,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "gail.michalski@btinternet.com",
+    "emails": [
+      "gail.michalski@btinternet.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Lakeside Travel Services",
@@ -4672,7 +5627,13 @@
     "lat": 54.3268429,
     "lng": -2.748754,
     "found_in_location": "Kendal",
-    "found_with_query": "self drive minibus hire Kendal"
+    "found_with_query": "self drive minibus hire Kendal",
+    "email": "bookings@lakesidetravelservices.co.uk",
+    "emails": [
+      "bookings@lakesidetravelservices.co.uk",
+      "bookings@lsts.co.uk"
+    ],
+    "description": "Lakeside Travel Services are a luxury transport specialist with over 12 years of experience. Best prices on private tours, wedding cars and group transport."
   },
   {
     "name": "Airport Exclusive Services",
@@ -4689,7 +5650,12 @@
     "lat": 53.6765843,
     "lng": -2.1673993,
     "found_in_location": "Rochdale",
-    "found_with_query": "airport transfer minibus Rochdale"
+    "found_with_query": "airport transfer minibus Rochdale",
+    "email": "info@airportexclusive.co.uk",
+    "emails": [
+      "info@airportexclusive.co.uk"
+    ],
+    "description": "Airport transfers Rochdale specialise in airport transfers in Rochdale and surrounding areas. Call Airport Exclusive Services 01706 854754 for a quote."
   },
   {
     "name": "The Party Bus Company",
@@ -4706,7 +5672,13 @@
     "lat": 53.5954091,
     "lng": -2.4445672,
     "found_in_location": "Manchester",
-    "found_with_query": "party bus hire Manchester"
+    "found_with_query": "party bus hire Manchester",
+    "email": "bookings@thepartybuscompany.co.uk",
+    "emails": [
+      "bookings@thepartybuscompany.co.uk",
+      "info@northwestprestigetravel.com"
+    ],
+    "description": "North West's premier party bus company! Luxury leather seating, premium sound systems, LED lighting. Professional service across Manchester, Liverpool & North West England."
   },
   {
     "name": "Ron Roberts Coaches",
@@ -4740,7 +5712,12 @@
     "lat": 53.4850862,
     "lng": -2.2319167,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "enquiries@smccoachhire.com",
+    "emails": [
+      "enquiries@smccoachhire.com"
+    ],
+    "description": "SMC Coach Hire the UK's leading Coach Hire and Minibus Hire companies. Price Guarantee. From Luxury to Standard vehicles available."
   },
   {
     "name": "David Ogden Holidays",
@@ -4757,7 +5734,13 @@
     "lat": 53.4410058,
     "lng": -2.7135829,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "reservations@davidogdenholidays.co.uk",
+    "emails": [
+      "reservations@davidogdenholidays.co.uk",
+      "travelshop@davidogdenholidays.co.uk"
+    ],
+    "description": "Holidays by Coach, Short Breaks, Tours and Excursions Throughout the UK & Europe, Cities, Seaside, Lakes & Mountains"
   },
   {
     "name": "Belle Vue Manchester Limited",
@@ -4774,7 +5757,19 @@
     "lat": 53.4334028,
     "lng": -2.1878666,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "customerservices@bellevue-mcr.com",
+    "emails": [
+      "customerservices@bellevue-mcr.com",
+      "damian@bellevue-mcr.com",
+      "debbie@bellevue-mcr.com",
+      "iano@bellevue-mcr.com",
+      "ianrolsen@bellevue-mcr.com",
+      "pamela@bellevue-mcr.com",
+      "phil@bellevue-mcr.com",
+      "sales@bellevue-mcr.com"
+    ],
+    "description": "Award Winning Transport, On Time, Every Time. For Coach Hire Manchester we offer Value, Quality and Reliability on every trip! Get in touch today!"
   },
   {
     "name": "Atlantic Travel (GB) Ltd",
@@ -4791,7 +5786,13 @@
     "lat": 53.566351,
     "lng": -2.4270377,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "info@atlantictravel.co.uk",
+    "emails": [
+      "info@atlantictravel.co.uk",
+      "sales@atlantictravel.co.uk"
+    ],
+    "description": "Atlantic Travel is a bus and Coach Hire Company located in Bolton, Manchester. We offer bus hire services in Bolton. Now, Hire a Coach at low prices."
   },
   {
     "name": "Grayway Coaches",
@@ -4808,7 +5809,12 @@
     "lat": 53.5427135,
     "lng": -2.6028498,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "email": "graywayone@aol.com",
+    "emails": [
+      "graywayone@aol.com"
+    ],
+    "description": "Grayway Coaches are a family run business providing a wide & varied choice of coach holidays, short breaks, day excursions & private hire throughout the UK for 50+ years."
   },
   {
     "name": "Ellisons Travel Coach Hire",
@@ -4825,7 +5831,12 @@
     "lat": 53.4555665,
     "lng": -2.747371,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@ellisonstravel.com",
+    "emails": [
+      "info@ellisonstravel.com"
+    ],
+    "description": "Specialists in Coach Hire, Corporate Hospitality and Business Travel. Coaches that won't fail to impress. Leather Seats, Kitchens, Sky, Bose Sound. Contact us for a free quote."
   },
   {
     "name": "C & S Coaches",
@@ -4842,7 +5853,12 @@
     "lat": 53.85216819999999,
     "lng": -2.1856432,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "sales@cs-coaches.co.uk",
+    "emails": [
+      "sales@cs-coaches.co.uk"
+    ],
+    "description": "We would like to congratulate Holy Saviours Primary School on winning our Easter raffle this year, over 200 eggs were delivered to the school from our Easter Bunnies today and we received a lovely email after -\"Thank you so much for taking the time to deliver the Easter eggs. The children have..."
   },
   {
     "name": "Carvers Coaches",
@@ -4859,7 +5875,12 @@
     "lat": 53.284816,
     "lng": -2.8737941,
     "found_in_location": "Liverpool",
-    "found_with_query": "coach hire Liverpool"
+    "found_with_query": "coach hire Liverpool",
+    "email": "carverscoaches@gmail.com",
+    "emails": [
+      "carverscoaches@gmail.com"
+    ],
+    "description": "Carvers Coaches is a Wirral-based coach hire business that has been providing safe and comfortable journey to clients for group travel or school trips."
   },
   {
     "name": "KT's Coaches of Kendal",
@@ -4876,7 +5897,8 @@
     "lat": 54.2449005,
     "lng": -2.7149121,
     "found_in_location": "Lancaster",
-    "found_with_query": "coach hire Lancaster"
+    "found_with_query": "coach hire Lancaster",
+    "description": "KT\u2019s Coaches of Kendal operate a fleet of 21 coaches from our modern, purpose built premises at Crooklands in South Cumbria."
   },
   {
     "name": "Manchester Minibuses",
@@ -4893,7 +5915,14 @@
     "lat": 53.46655209999999,
     "lng": -2.2670566,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "accounts@manchester-taxis-minibuses.co.uk",
+    "emails": [
+      "accounts@manchester-taxis-minibuses.co.uk",
+      "admin@manchester-taxis-minibuses.co.uk",
+      "bookings@manchester-taxis-minibuses.co.uk"
+    ],
+    "description": "Ultimate Manchester Minibus taxi service. Modern Fleet & Licensed drivers. 10+ Yrs Experience. 24 7 Service. Free cancellations*. Affordable rates. Book Now."
   },
   {
     "name": "Turners Of Great Barton Ltd",
@@ -4910,7 +5939,8 @@
     "lat": 52.270157,
     "lng": 0.7665552,
     "found_in_location": "Bury",
-    "found_with_query": "16 seater minibus hire Bury"
+    "found_with_query": "16 seater minibus hire Bury",
+    "description": "For reliable travel solutions, call Turners of Great Barton. Our fleet of quality minibuses, coaches and luxury cars in Great Barton is second to none."
   },
   {
     "name": "Avacoach",
@@ -4927,7 +5957,12 @@
     "lat": 53.6987038,
     "lng": -2.7269353,
     "found_in_location": "Chorley",
-    "found_with_query": "minibus hire Chorley"
+    "found_with_query": "minibus hire Chorley",
+    "email": "info@avacoach.com",
+    "emails": [
+      "info@avacoach.com"
+    ],
+    "description": "Coach Hire Coach Hire Leyland Coach Hire Preston Coach Hire Northwest Coach Hire Chorley Coach Hire Lancashire Minibuses Get a free coach hire quote"
   },
   {
     "name": "Five Star Group Travel & Coach Hire Liverpool, Merseyside",
@@ -4961,7 +5996,14 @@
     "lat": 53.4116873,
     "lng": -2.7280828,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "dane_curtis@hotmail.com",
+      "info@curtis-travel.co.uk"
+    ],
+    "description": "Trust Curtis Travel Ltd for all your private hire minibus requirements in and around St Helens. Contact us today for a quick quote and to book your ride."
   },
   {
     "name": "Eavesway Travel Ltd",
@@ -4978,7 +6020,18 @@
     "lat": 53.497451,
     "lng": -2.6340984,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "accounts@eaveswaytravel.com",
+    "emails": [
+      "accounts@eaveswaytravel.com",
+      "alatham@eaveswaytravel.com",
+      "cmorgan@eaveswaytravel.com",
+      "coachhire@eaveswaytravel.com",
+      "operations@eaveswaytravel.com",
+      "sales@eaveswaytravel.com",
+      "service@eaveswaytravel.com"
+    ],
+    "description": "Luxury coach hire executive corporate coach travel and cruise passenger coaches to Southampton port"
   },
   {
     "name": "Tyrers Coaches",
@@ -4995,7 +6048,11 @@
     "lat": 53.5407052,
     "lng": -2.3962382,
     "found_in_location": "Bolton",
-    "found_with_query": "coach hire Bolton"
+    "found_with_query": "coach hire Bolton",
+    "email": "sales@tyrerscoaches.co.uk",
+    "emails": [
+      "sales@tyrerscoaches.co.uk"
+    ]
   },
   {
     "name": "Selwyns Travel | Coach Hire",
@@ -5012,7 +6069,15 @@
     "lat": 53.3180084,
     "lng": -2.7378655,
     "found_in_location": "Liverpool",
-    "found_with_query": "coach hire Liverpool"
+    "found_with_query": "coach hire Liverpool",
+    "email": "hr@selwyns.co.uk",
+    "emails": [
+      "hr@selwyns.co.uk",
+      "marketing@selwyns.co.uk",
+      "sales.manchester@selwyns.co.uk",
+      "sales@selwyns.co.uk"
+    ],
+    "description": "Coach hire services from Selwyns Travel. Quality coaches 29-80 seats for all occasions. Private hire coaches covering Merseyside, Manchester & Cheshire."
   },
   {
     "name": "Odyssey Journeys Ltd",
@@ -5029,7 +6094,8 @@
     "lat": 53.770554,
     "lng": -2.6959309,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "description": "The website you are trying to reach has been suspended"
   },
   {
     "name": "Ashcroft Travel Ltd",
@@ -5046,7 +6112,12 @@
     "lat": 53.3537531,
     "lng": -2.8693994,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "ashcrofttravel12@btconnect.com",
+    "emails": [
+      "ashcrofttravel12@btconnect.com"
+    ],
+    "description": "Ashcroft Travel is a Coach Travel in Cheshire specialising in Coach Hire, Private Coach Hire and Corporate Travel. Covering Liverpool, Widnes, St Helens we can cater to all your needs including Day Trips"
   },
   {
     "name": "Fab Travel ltd",
@@ -5063,7 +6134,12 @@
     "lat": 53.4903331,
     "lng": -2.3706812,
     "found_in_location": "Salford",
-    "found_with_query": "minibus hire Salford"
+    "found_with_query": "minibus hire Salford",
+    "email": "fabtravel@hotmail.co.uk",
+    "emails": [
+      "fabtravel@hotmail.co.uk"
+    ],
+    "description": "For efficient airport transfers in Eccles, Manchester, get in touch with Fab Travel Ltd on 0161 288 2828. We can take you to any airports in the UK."
   },
   {
     "name": "Rothwells Super Travel",
@@ -5080,7 +6156,12 @@
     "lat": 53.5939084,
     "lng": -2.2233697,
     "found_in_location": "Rochdale",
-    "found_with_query": "coach hire Rochdale"
+    "found_with_query": "coach hire Rochdale",
+    "email": "info@rothwellssupertravel.co.uk",
+    "emails": [
+      "info@rothwellssupertravel.co.uk"
+    ],
+    "description": "Rothwells has a range of vehicles seating anywhere between 16 and 72 passengers."
   },
   {
     "name": "Youbus Ltd",
@@ -5097,7 +6178,13 @@
     "lat": 53.4518443,
     "lng": -2.3100918,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@youbus.co.uk",
+    "emails": [
+      "info@youbus.co.uk",
+      "martinjeffries@hotmail.com"
+    ],
+    "description": "If you require a professional minibus hire company in Manchester and surrounding areas, call Youbus Ltd on 0161 865 9191 today."
   },
   {
     "name": "Woofs Of Sedbergh",
@@ -5114,7 +6201,12 @@
     "lat": 54.32052669999999,
     "lng": -2.5369059,
     "found_in_location": "Kendal",
-    "found_with_query": "16 seater minibus hire Kendal"
+    "found_with_query": "16 seater minibus hire Kendal",
+    "email": "woofs.sedbergh@outlook.com",
+    "emails": [
+      "woofs.sedbergh@outlook.com"
+    ],
+    "description": "\"Woofs of Sedbergh\" is a family run firm which was established in 1965. The work we undertake is mainly School contracts and Service. We also supply vehicles and drivers for Nights out, Weddings, Days out.Woofs of SedberghUnit 2 Busk Lane,Sedbergh, Cumbria,LA10 5HFTel: 015396..."
   },
   {
     "name": "Waltons Coach Hire Ltd",
@@ -5131,7 +6223,22 @@
     "lat": 53.7456741,
     "lng": -2.8666756,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "info@wchl.co.uk"
+    ],
+    "description": "Welcome to Walton's Coaches: Your Premier Choice for Reliable and Comfortable Transportation Services. With over 40 Years of Industry Excellence, we offer a diverse fleet of modern vehicles, including executive coaches, double-decker buses, and wheelchair-accessible coaches. Whether you're..."
   },
   {
     "name": "Bostocks Coaches",
@@ -5165,7 +6272,8 @@
     "lat": 53.4850168,
     "lng": -2.9164487,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "PG Coaches and Mini Coaches are a family run business based in Melling, Liverpool. We have been operating our Coach Hire Services in Liverpool for over 25 years and have gained an excellent reputation for good quality service at competitive rates."
   },
   {
     "name": "CannonBBT Coach Hire",
@@ -5182,7 +6290,13 @@
     "lat": 53.34331299999999,
     "lng": -2.898502,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@cannonbbt.co.uk",
+    "emails": [
+      "info@cannonbbt.co.uk",
+      "ussubmite-mailinfo@cannonbbt.co.ukphone"
+    ],
+    "description": "Cannon BBT Coach Hire, minibus hire and 70 seater in Liverpool, for coach hire please call our office on 0151 494 2500"
   },
   {
     "name": "Tyson's Travel",
@@ -5233,7 +6347,12 @@
     "lat": 53.5381655,
     "lng": -2.4038031,
     "found_in_location": "Manchester",
-    "found_with_query": "self drive minibus hire Manchester"
+    "found_with_query": "self drive minibus hire Manchester",
+    "email": "reservations.manager@u-drive.co.uk",
+    "emails": [
+      "reservations.manager@u-drive.co.uk"
+    ],
+    "description": "U-Drive Pro offers commercial van rental for business and public sector organisations in Manchester and the north of England. Explore our extensive fleet, and flexible, short-term, and long-term vehicle hire options today."
   },
   {
     "name": "Highfield Travel",
@@ -5267,7 +6386,12 @@
     "lat": 53.7826314,
     "lng": -3.0285005,
     "found_in_location": "Blackpool",
-    "found_with_query": "airport transfer minibus Blackpool"
+    "found_with_query": "airport transfer minibus Blackpool",
+    "email": "pegasusfairways@live.com",
+    "emails": [
+      "pegasusfairways@live.com"
+    ],
+    "description": "With 30 years\u2019 experience in the taxi industry, Pegasus Fairways Travel, is committed to providing a professional and speedy service at all times. We try to maintain the highest quality standards when providing reliable transfers to the people of Blackpool, Preston and Fylde. We have a large..."
   },
   {
     "name": "Lakeland Coaches",
@@ -5284,7 +6408,12 @@
     "lat": 53.838466,
     "lng": -2.481125,
     "found_in_location": "Lancaster",
-    "found_with_query": "coach hire Lancaster"
+    "found_with_query": "coach hire Lancaster",
+    "email": "laker926@aol.com",
+    "emails": [
+      "laker926@aol.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Apollo 8 Travel",
@@ -5335,7 +6464,12 @@
     "lat": 53.807835,
     "lng": -2.2341225,
     "found_in_location": "Burnley",
-    "found_with_query": "airport transfer minibus Burnley"
+    "found_with_query": "airport transfer minibus Burnley",
+    "email": "northwesttravel23@gmail.com",
+    "emails": [
+      "northwesttravel23@gmail.com"
+    ],
+    "description": "Experience reliable and efficient taxi services, airport transfer and black cab options accross Blackburn, Burnley, Accrington, Ribble Valley and Rossendale. Book online now or call to talk to a real person. Pay by cash or debit/credit card"
   },
   {
     "name": "Whitefield Minibus Hire",
@@ -5369,7 +6503,12 @@
     "lat": 53.7589102,
     "lng": -2.7030204,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "enquiry@coachhirepreston.com",
+    "emails": [
+      "enquiry@coachhirepreston.com"
+    ],
+    "description": "Our company offers competitive prices and experienced drivers for all occasions, from festivals to school runs to airport transfers. With a range of vehicles available, including minibuses and coaches, we've got you covered for group transportation. Contact us today to arrange your private coach..."
   },
   {
     "name": "Swift Travel private hire",
@@ -5420,7 +6559,12 @@
     "lat": 53.50333699999999,
     "lng": -2.17502,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@travelinecoach.co.uk",
+    "emails": [
+      "info@travelinecoach.co.uk"
+    ],
+    "description": "5, 16 24, & 49 Seats Manchester Minibus & Coach Hire available for all occasions. Day trips & Night outs, Airport Transfers. School & Private Contracts, Low Cost Minibus & Coach Service in Manchester & Surrounding Areas"
   },
   {
     "name": "3D's R Uss Ltd",
@@ -5437,7 +6581,13 @@
     "lat": 53.096179,
     "lng": -2.4544071,
     "found_in_location": "Crewe",
-    "found_with_query": "self drive minibus hire Crewe"
+    "found_with_query": "self drive minibus hire Crewe",
+    "email": "darttaxis@mail.com",
+    "emails": [
+      "darttaxis@mail.com",
+      "dr3dsrussltd@aol.com"
+    ],
+    "description": "Reliable and professional taxi services in Crewe from 3D \"R\" USS. Book online or via our easy-to-use passenger app. We offer airport transfers, school runs, courier services, business travel and more, with a range of vehicles including saloon, estate and MPV 6-seaters."
   },
   {
     "name": "Howard Hooper Coaches",
@@ -5471,7 +6621,8 @@
     "lat": 53.34913299999999,
     "lng": -2.8864686,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "description": "The Minibus Agency is a registered charity (Number 1088911) located at the old Bryant & May Match Factory in Garston Liverpool. Our accessible modern fleet of minibuses can be driven by a MiDAS trained group member or it may be possible to find a volunteer to drive for your group."
   },
   {
     "name": "Coach Hire",
@@ -5488,7 +6639,14 @@
     "lat": 53.1804845,
     "lng": -2.9256059,
     "found_in_location": "Chester",
-    "found_with_query": "minibus hire Chester"
+    "found_with_query": "minibus hire Chester",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Welcome to Chester Minibus & Coach Hire chester offering special rates on minibuses and coaches across Chester. We cover North, South ,West and East Chester with our quality vehicle with driver."
   },
   {
     "name": "Tranzcare Travel Ltd",
@@ -5505,7 +6663,12 @@
     "lat": 53.5680849,
     "lng": -2.3074705,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "enquiries@tranzcaretravel.co.uk",
+    "emails": [
+      "enquiries@tranzcaretravel.co.uk"
+    ],
+    "description": "Tranzcare Travel International is one of the leading coach hire companies in Greater Manchester and the UK."
   },
   {
     "name": "MD Bus & Coach Works Limited",
@@ -5522,7 +6685,16 @@
     "lat": 53.45717699999999,
     "lng": -2.7032,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "davemdbus@gmail.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "MD BUS & COACH LTD LOCAL BUS SERVICE Passenger transport School Transport Bus Private Hire"
   },
   {
     "name": "Red Rose Travel",
@@ -5590,7 +6762,12 @@
     "lat": 53.534329,
     "lng": -2.1698601,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@swanstravel.com",
+    "emails": [
+      "info@swanstravel.com"
+    ],
+    "description": "Our bespoke commuter shuttles ensure your people arrive & depart the workplace safely, securely and on time. We have a Nationwide fleet from minibus to high capacity vehicles, including USB, WiFi, Power & Tables. Our App provides booking, ticketing, tracking and reporting, gaining you robust..."
   },
   {
     "name": "Springfield Bus and Coach / Howards Travel Group",
@@ -5607,7 +6784,12 @@
     "lat": 53.36323669999999,
     "lng": -2.626841,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "gareth@springfieldbus.co.uk",
+    "emails": [
+      "gareth@springfieldbus.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Rm Buses Limited",
@@ -5641,7 +6823,12 @@
     "lat": 53.249716,
     "lng": -2.5484815,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "email": "northwichtravel@gmail.com",
+    "emails": [
+      "northwichtravel@gmail.com"
+    ],
+    "description": "Are you looking for reliable, comfortable, and fully-equipped transportation for your sports teams? Look no further!"
   },
   {
     "name": "Storey's Minibus Hire Leyland",
@@ -5675,7 +6862,19 @@
     "lat": 53.3924533,
     "lng": -2.0742818,
     "found_in_location": "Stockport",
-    "found_with_query": "minibus hire Stockport"
+    "found_with_query": "minibus hire Stockport",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "sales@smithsofmarple.com"
+    ],
+    "description": "Smiths of Marple are a coach operator based in South Manchester specialising in private coach hires; school transport contracts and day trips across the UK. With over 70 years experience within the industry, we are committed to providing excellence in transport services to ensure your journey..."
   },
   {
     "name": "DHR COACHES",
@@ -5726,7 +6925,12 @@
     "lat": 53.766854,
     "lng": -2.697065,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "info@vicoachhirepreston.co.uk",
+    "emails": [
+      "info@vicoachhirepreston.co.uk"
+    ],
+    "description": "Preston Coach and Minibus Hire offer not just a trip, but a complete package that may include accommodation, whether travelling alone or in a group. Preston Coach Hire has extensive coach hire and minibus hire experience \u2013 and the relevant local knowledge \u2013 to provide you with the best options."
   },
   {
     "name": "On Board Travels",
@@ -5777,7 +6981,13 @@
     "lat": 53.21275559999999,
     "lng": -2.4172598,
     "found_in_location": "Crewe",
-    "found_with_query": "coach hire Crewe"
+    "found_with_query": "coach hire Crewe",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "byleycoaches@aol.com"
+    ],
+    "description": "Byley coaches is a small family run coach company based in the heart of Cheshire. From private hire to corporate hire we cater for all types of work, school trips, sports clubs, weddings, airport runs. Coaches are well maintained and thouroughly cleaned to a high standard. All drivers are DBS..."
   },
   {
     "name": "MILL HILL CONTRACT HIRE LTD",
@@ -5811,7 +7021,8 @@
     "lat": 53.6388832,
     "lng": -2.8509253,
     "found_in_location": "Wigan",
-    "found_with_query": "coach hire Wigan"
+    "found_with_query": "coach hire Wigan",
+    "description": "Holmeswood Coaches Ltd. provide a complete range of transport solutions, offering total flexibility."
   },
   {
     "name": "The Travellers Choice Coaches",
@@ -5828,7 +7039,12 @@
     "lat": 54.1334301,
     "lng": -2.762613,
     "found_in_location": "Lancaster",
-    "found_with_query": "minibus hire Lancaster"
+    "found_with_query": "minibus hire Lancaster",
+    "email": "info@travellerschoice.co.uk",
+    "emails": [
+      "info@travellerschoice.co.uk"
+    ],
+    "description": "Read more Read more Read more Our Services Customer Reviews View all customer reviews"
   },
   {
     "name": "Elite Services Ltd",
@@ -5845,7 +7061,27 @@
     "lat": 53.3932127,
     "lng": -2.1679257,
     "found_in_location": "Stockport",
-    "found_with_query": "minibus hire Stockport"
+    "found_with_query": "minibus hire Stockport",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "463991d7bca24f02a0baf16f9e6eda73@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "sales@eliteservicesltd.com"
+    ],
+    "description": "South Manchester based Coach Operator specialising in coach private hires, UK & European tours, coach day trips and holidays, HGV & coach recoveries, coach driver training and Class 4 & Class 7 MOT's, services and vehicle repairs for the general public."
   },
   {
     "name": "Adams Travels & Minibuses Hire (Burnley).",
@@ -5896,7 +7132,12 @@
     "lat": 53.4052059,
     "lng": -2.84109,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "tarbocktravel@blueyonder.co.uk",
+    "emails": [
+      "tarbocktravel@blueyonder.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Destinations",
@@ -5930,7 +7171,12 @@
     "lat": 53.529276,
     "lng": -2.7060629,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "email": "info@orrellminitravel.co.uk",
+    "emails": [
+      "info@orrellminitravel.co.uk"
+    ],
+    "description": "Orrell Mini travel is a minibus & coach travel company based in Wigan. In our fleet we have 13 seater minibuses, 16 seater minibuses, 19 seater mini coach and 22 seater mini coach all are of a very high standard. Our business offers a professional, reliable and friendly service covering all of..."
   },
   {
     "name": "B & N Coaches",
@@ -5947,7 +7193,12 @@
     "lat": 53.7865499,
     "lng": -2.2369392,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "info@bncoaches.co.uk",
+    "emails": [
+      "info@bncoaches.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Carsville Coaches",
@@ -5964,7 +7215,13 @@
     "lat": 53.3934484,
     "lng": -2.1683172,
     "found_in_location": "Stockport",
-    "found_with_query": "minibus hire Stockport"
+    "found_with_query": "minibus hire Stockport",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "sales@eliteservicesltd.com"
+    ],
+    "description": "Home Page of Carsville Coaches - Coach Operator based in Manchester and family run for over 40 years. Specialist in Coach Hire, Day Trips and Holidays and Group Transportation"
   },
   {
     "name": "Redline Travel Ltd",
@@ -5981,7 +7238,12 @@
     "lat": 53.743728,
     "lng": -2.7069034,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "enquiries@redlinetravel.co.uk",
+    "emails": [
+      "enquiries@redlinetravel.co.uk"
+    ],
+    "description": "Redline Travel Preston School Transport Specialist"
   },
   {
     "name": "Coastal Coaches",
@@ -6032,7 +7294,12 @@
     "lat": 53.4500994,
     "lng": -2.8812598,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "chadwicktravel.ltd@gmail.com",
+    "emails": [
+      "chadwicktravel.ltd@gmail.com"
+    ],
+    "description": "Looking for minibus and coach hire in Liverpool? Look no further. Chadwick Travel have a large fleet to get you from A to B."
   },
   {
     "name": "Premier Coach & Minibus Hire",
@@ -6066,7 +7333,8 @@
     "lat": 53.546254,
     "lng": -2.643604,
     "found_in_location": "Wigan",
-    "found_with_query": "minibus hire Wigan"
+    "found_with_query": "minibus hire Wigan",
+    "description": "Northern Star Travel offer day excursions, corporate, executive and private coach hire and with double-decker bus hire."
   },
   {
     "name": "Lawtons Travel",
@@ -6083,7 +7351,12 @@
     "lat": 53.5966722,
     "lng": -2.323593,
     "found_in_location": "Bury",
-    "found_with_query": "coach hire Bury"
+    "found_with_query": "coach hire Bury",
+    "email": "stuart.w.lawton@btinternet.com",
+    "emails": [
+      "stuart.w.lawton@btinternet.com"
+    ],
+    "description": "Lawtons are a family owned, friendly Minibus Hire Company in Bury, UK. All minibuses are kept to higher than expected standards."
   },
   {
     "name": "Classic Bus",
@@ -6134,7 +7407,12 @@
     "lat": 53.5083058,
     "lng": -2.1865542,
     "found_in_location": "Manchester",
-    "found_with_query": "coach hire Manchester"
+    "found_with_query": "coach hire Manchester",
+    "email": "rebecca@mostonian2000.com",
+    "emails": [
+      "rebecca@mostonian2000.com"
+    ],
+    "description": "Executive coach travel throughout the UK and Europe."
   },
   {
     "name": "First Stop Travel",
@@ -6151,7 +7429,12 @@
     "lat": 52.24963839999999,
     "lng": 0.7273316,
     "found_in_location": "Bury",
-    "found_with_query": "16 seater minibus hire Bury"
+    "found_with_query": "16 seater minibus hire Bury",
+    "email": "enquiries@firststoptravel.net",
+    "emails": [
+      "enquiries@firststoptravel.net"
+    ],
+    "description": "We are one of the largest suppliers of wheelchair accessible vehicles in Suffolk"
   },
   {
     "name": "St. Edmunds Travel",
@@ -6168,7 +7451,12 @@
     "lat": 52.2482625,
     "lng": 0.712722,
     "found_in_location": "Bury",
-    "found_with_query": "16 seater minibus hire Bury"
+    "found_with_query": "16 seater minibus hire Bury",
+    "email": "stedmundstravel@icloud.com",
+    "emails": [
+      "stedmundstravel@icloud.com"
+    ],
+    "description": "St. Edmunds Travel is a jewel in the East Anglian transport crown as our regal emblem, a modern and stylised depiction of medieval King Edmund\u2019s regalia, suggests. We offer a wide-ranging travel service which is ahead of the rest! With over forty years\u2019 experience driving, managing and operating..."
   },
   {
     "name": "UK Coach Rentals",
@@ -6219,7 +7507,12 @@
     "lat": 53.7750745,
     "lng": -2.6858445,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "info@vicoachhirepreston.co.uk",
+    "emails": [
+      "info@vicoachhirepreston.co.uk"
+    ],
+    "description": "Preston Coach and Minibus Hire offer not just a trip, but a complete package that may include accommodation, whether travelling alone or in a group. Preston Coach Hire has extensive coach hire and minibus hire experience \u2013 and the relevant local knowledge \u2013 to provide you with the best options."
   },
   {
     "name": "Bond Accessible Coaches",
@@ -6253,7 +7546,12 @@
     "lat": 53.4943902,
     "lng": -2.3732633,
     "found_in_location": "Salford",
-    "found_with_query": "16 seater minibus hire Salford"
+    "found_with_query": "16 seater minibus hire Salford",
+    "email": "fabtravel@hotmail.co.uk",
+    "emails": [
+      "fabtravel@hotmail.co.uk"
+    ],
+    "description": "For efficient airport transfers in Eccles, Manchester, get in touch with Fab Travel Ltd on 0161 288 2828. We can take you to any airports in the UK."
   },
   {
     "name": "premier minibuses (nw) ltd",
@@ -6304,7 +7602,12 @@
     "lat": 51.5011543,
     "lng": -0.1278718,
     "found_in_location": "Blackburn",
-    "found_with_query": "minibus hire Blackburn"
+    "found_with_query": "minibus hire Blackburn",
+    "email": "bookings@minibushireblackburn.co.uk",
+    "emails": [
+      "bookings@minibushireblackburn.co.uk"
+    ],
+    "description": "Minibus Hire Blackburn is a minibus hire company located in Lancashire that will present you with the best solutions when it comes to transport services for large groups."
   },
   {
     "name": "Kirkby Lonsdale Coach Hire Ltd",
@@ -6321,7 +7624,13 @@
     "lat": 54.0569569,
     "lng": -2.838209,
     "found_in_location": "Lancaster",
-    "found_with_query": "minibus hire Lancaster"
+    "found_with_query": "minibus hire Lancaster",
+    "email": "info@ipswichbuses.co.uk",
+    "emails": [
+      "info@ipswichbuses.co.uk",
+      "office@klch.co.uk"
+    ],
+    "description": "A family owned business based in Morecambe since 1981."
   },
   {
     "name": "Park Lane Minibuses Ltd",
@@ -6338,7 +7647,12 @@
     "lat": 53.4996272,
     "lng": -2.0993612,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "buses@hotmail.co.uk",
+    "emails": [
+      "buses@hotmail.co.uk"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Mikro Coaches",
@@ -6355,7 +7669,12 @@
     "lat": 53.1233934,
     "lng": -2.4374781,
     "found_in_location": "Crewe",
-    "found_with_query": "coach hire Crewe"
+    "found_with_query": "coach hire Crewe",
+    "email": "officemikrocoaches@yahoo.com",
+    "emails": [
+      "officemikrocoaches@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Holmeswood Coaches - Blackburn",
@@ -6372,7 +7691,8 @@
     "lat": 53.74477839999999,
     "lng": -2.5008307,
     "found_in_location": "Blackburn",
-    "found_with_query": "coach hire Blackburn"
+    "found_with_query": "coach hire Blackburn",
+    "description": "Holmeswood Coaches Ltd. provide a complete range of transport solutions, offering total flexibility."
   },
   {
     "name": "Al's Coaches",
@@ -6389,7 +7709,16 @@
     "lat": 53.40107219999999,
     "lng": -3.0368819,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@alsbookings.com"
+    ],
+    "description": "Here at HappyAls we are a reliable and safe coach and bus operator, based in the Wirral for hire."
   },
   {
     "name": "Aintree Coachline",
@@ -6406,7 +7735,12 @@
     "lat": 53.5069977,
     "lng": -2.9590817,
     "found_in_location": "Liverpool",
-    "found_with_query": "coach hire Liverpool"
+    "found_with_query": "coach hire Liverpool",
+    "email": "info@aintreecoachline.com",
+    "emails": [
+      "info@aintreecoachline.com"
+    ],
+    "description": "We are working on our brand new website and will be launching in shortly."
   },
   {
     "name": "Grayson's Coaches",
@@ -6491,7 +7825,12 @@
     "lat": 53.59487009999999,
     "lng": -2.2344367,
     "found_in_location": "Rochdale",
-    "found_with_query": "16 seater minibus hire Rochdale"
+    "found_with_query": "16 seater minibus hire Rochdale",
+    "email": "gpd_59@hotmail.co.uk",
+    "emails": [
+      "gpd_59@hotmail.co.uk"
+    ],
+    "description": "GPD travel coach hire in Rochdale, coach hire in Bury, coach hire in Oldham, coach hire in Manchester, coach hire in Greater Manchester, coach hire in Heywood"
   },
   {
     "name": "Rigby\u2019s Coaches Limited",
@@ -6576,7 +7915,12 @@
     "lat": 53.5683191,
     "lng": -2.4452633,
     "found_in_location": "Bolton",
-    "found_with_query": "coach hire Bolton"
+    "found_with_query": "coach hire Bolton",
+    "email": "edward@ukminibushire.com",
+    "emails": [
+      "edward@ukminibushire.com"
+    ],
+    "description": "Coach hire in Bolton prides itself in quality services within your budget. Book a minibus or coach ranging from 08, 16 , 24, 33 to 49 seater"
   },
   {
     "name": "A D L Transport",
@@ -6610,7 +7954,14 @@
     "lat": 53.4795301,
     "lng": -2.240846,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Minibus Hire in Manchester is a key operator for minibuses in the North West region and has been recognised for its cheap minibus for 8,12,16,24 seats services. You can contact us via, email, telephone and on-line form. We are the leading company in Manchester for outstanding services."
   },
   {
     "name": "Manchester Minibus",
@@ -6627,7 +7978,8 @@
     "lat": 53.5679624,
     "lng": -2.307846,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "description": "Welcome to Manchester Minibus, the leading transfer company in Manchester. We provide fast, reliable, safe and affordable transportation services to individuals, organizations and groups. When you need to move without any delays, contact us, and we will be there to provide you with a seamless..."
   },
   {
     "name": "Speciality Coach Hire Manchester",
@@ -6661,7 +8013,12 @@
     "lat": 53.4765038,
     "lng": -2.2438975,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@manchestertravelservice.com",
+    "emails": [
+      "info@manchestertravelservice.com"
+    ],
+    "description": "City Transfer Experience hassle-free city travel with our efficient and convenient City Transfer service. Download our app now for a smooth journey within the city. Your urban adventure awaits! Hotel transfer Relax and enjoy your stay with our hassle-free Hotel Transfer service. Download our app..."
   },
   {
     "name": "Coach Holiday Tours Manchester",
@@ -6678,7 +8035,12 @@
     "lat": 53.4756171,
     "lng": -2.2424966,
     "found_in_location": "Manchester",
-    "found_with_query": "minibus hire Manchester"
+    "found_with_query": "minibus hire Manchester",
+    "email": "info@nationalminibushire.co.uk",
+    "emails": [
+      "info@nationalminibushire.co.uk"
+    ],
+    "description": "The top-rated minibus and coach hire company with drivers in the UK at National Minibus Hire. Benefit from unbeatable rates, with up to 25% off on all online bookings. Our services include affordable and reliable minibus hire in London, ensuring a professional experience from quote to journey...."
   },
   {
     "name": "V I P Party Busses",
@@ -6729,7 +8091,8 @@
     "lat": 53.4620127,
     "lng": -2.3278669,
     "found_in_location": "Manchester",
-    "found_with_query": "self drive minibus hire Manchester"
+    "found_with_query": "self drive minibus hire Manchester",
+    "description": "Click Here to Get a Free No Obligation Quote Our Services Minibus Hire We offer range of minibuses from 8 to 16 seaters. Event Hire We cater to all events, birthdays, hen and stags, horse races etc. Airport Transfer We service all UK airports. No journey is too far. Executive Travel Offering..."
   },
   {
     "name": "Rochdale Minibus Hire",
@@ -6746,7 +8109,8 @@
     "lat": 53.6073969,
     "lng": -2.1460105,
     "found_in_location": "Manchester",
-    "found_with_query": "16 seater minibus hire Manchester"
+    "found_with_query": "16 seater minibus hire Manchester",
+    "description": "Minibus Hire Rochdale is a company that is dedicated to ensuring that anybody who needs transport solutions such as coach hire or minibus with driver can attain it from us."
   },
   {
     "name": "Minibus Hire",
@@ -6763,7 +8127,12 @@
     "lat": 53.534286,
     "lng": -2.3623039,
     "found_in_location": "Manchester",
-    "found_with_query": "16 seater minibus hire Manchester"
+    "found_with_query": "16 seater minibus hire Manchester",
+    "email": "swintontravel@live.co.uk",
+    "emails": [
+      "swintontravel@live.co.uk"
+    ],
+    "description": "Contact ST minibus hire Manchester either by phone, email, or via our booking system. We offer the best prices around for Minibus Hire Manchester"
   },
   {
     "name": "Premier minibus hire",
@@ -6797,7 +8166,8 @@
     "lat": 53.4661672,
     "lng": -2.2070142,
     "found_in_location": "Manchester",
-    "found_with_query": "16 seater minibus hire Manchester"
+    "found_with_query": "16 seater minibus hire Manchester",
+    "description": "Painless, quick delivery of your domain name. Fast and professional service."
   },
   {
     "name": "National Minibus",
@@ -6865,7 +8235,12 @@
     "lat": 53.4013091,
     "lng": -2.9735011,
     "found_in_location": "Liverpool",
-    "found_with_query": "minibus hire Liverpool"
+    "found_with_query": "minibus hire Liverpool",
+    "email": "info@liverpoolcoachcompany.com",
+    "emails": [
+      "info@liverpoolcoachcompany.com"
+    ],
+    "description": "Experience first-rate travel with Liverpool Coach Company. For all of your travel needs in Liverpool and beyond, we guarantee comfort, safety, and style with our varied fleet of contemporary coaches and minibuses. Make your dependable, opulent reservation now with Liverpool Coach Company, your..."
   },
   {
     "name": "CoachScanner Liverpool",
@@ -6899,7 +8274,13 @@
     "lat": 53.5886462,
     "lng": -2.4194379,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "email": "faz@transporthubuk.co.uk",
+    "emails": [
+      "faz@transporthubuk.co.uk",
+      "sales@transporthubuk.co.uk"
+    ],
+    "description": "Transport Hub is Bolton's most reliable company providing minibus hire, UK tours, and coach hire services. We have been helping travellers find their perfect holiday and convenient travel solutions"
   },
   {
     "name": "M P H Executive travel",
@@ -6916,7 +8297,17 @@
     "lat": 53.5575828,
     "lng": -2.450099,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@mphexecutivetravel.co.uk"
+    ],
+    "description": "Experience luxury travel with M P H Executive Travel. Based in Bolton, we offer chauffeur-driven car hire and minibus services across the UK. Call now!"
   },
   {
     "name": "Coach Hire Wigan",
@@ -6933,7 +8324,12 @@
     "lat": 53.5325928,
     "lng": -2.6675619,
     "found_in_location": "Bolton",
-    "found_with_query": "16 seater minibus hire Bolton"
+    "found_with_query": "16 seater minibus hire Bolton",
+    "email": "edward@ukminibushire.com",
+    "emails": [
+      "edward@ukminibushire.com"
+    ],
+    "description": "Wigan Coach hire provides invaluable service in and around the local area. Anyone who needs a minibus with can book our services online or over the phone"
   },
   {
     "name": "Brady's Minibus Travel",
@@ -6967,7 +8363,13 @@
     "lat": 53.77022479999999,
     "lng": -2.702101,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "email": "mytravelswift@gmail.com",
+    "emails": [
+      "mytravelswift@gmail.com",
+      "sales@mytravelswift.com"
+    ],
+    "description": "Travel the UK with ease! MyTravelSwift provides reliable minibus hire for US travellers, perfect for tours, events, and airport transfers. Reserve your ride now."
   },
   {
     "name": "Hire My Coach",
@@ -6984,7 +8386,8 @@
     "lat": 53.6403183,
     "lng": -2.7187494,
     "found_in_location": "Preston",
-    "found_with_query": "minibus hire Preston"
+    "found_with_query": "minibus hire Preston",
+    "description": "Coach Hire Preston - Hire My Coach are a provider of coach and minibus transport services in the UK. Hire My Coach - Coach Hire Preston - BOOK NOW!"
   },
   {
     "name": "WRIGHT WAY TO TRAVEL",
@@ -7018,7 +8421,8 @@
     "lat": 53.7595269,
     "lng": -2.7025201,
     "found_in_location": "Preston",
-    "found_with_query": "self drive minibus hire Preston"
+    "found_with_query": "self drive minibus hire Preston",
+    "description": "Preston Community Transport provides a service for community cars, offering transport options for those who need them."
   },
   {
     "name": "Hired Drive",
@@ -7069,7 +8473,12 @@
     "lat": 53.381221,
     "lng": -2.5991773,
     "found_in_location": "Warrington",
-    "found_with_query": "minibus hire Warrington"
+    "found_with_query": "minibus hire Warrington",
+    "email": "enquiry@warringtonminibus.com",
+    "emails": [
+      "enquiry@warringtonminibus.com"
+    ],
+    "description": "We divide the prices incurred of hiring our Warrington Minibus hire among each of the passengers on the bus. This will help you save a lot of money since it is less expensive. When you try and calculate the amount paid per person in the minibus, it turns out that it is far less compared to other..."
   },
   {
     "name": "Hampton Coaches",
@@ -7103,7 +8512,8 @@
     "lat": 53.4768126,
     "lng": -2.7258395,
     "found_in_location": "Warrington",
-    "found_with_query": "coach hire Warrington"
+    "found_with_query": "coach hire Warrington",
+    "description": "Northern Star Travel offer day excursions, corporate, executive and private coach hire and with double-decker bus hire."
   },
   {
     "name": "QC Travel",
@@ -7154,7 +8564,8 @@
     "lat": 53.3203123,
     "lng": -2.6911886,
     "found_in_location": "Warrington",
-    "found_with_query": "16 seater minibus hire Warrington"
+    "found_with_query": "16 seater minibus hire Warrington",
+    "description": "Affordable minibus hire Runcorn with driver as well as cheap coach hire services. Get a free online price quote."
   },
   {
     "name": "Aaron Travel Minibus Hire",
@@ -7205,7 +8616,12 @@
     "lat": 53.4137267,
     "lng": -2.0916975,
     "found_in_location": "Stockport",
-    "found_with_query": "minibus hire Stockport"
+    "found_with_query": "minibus hire Stockport",
+    "email": "info@my-coachhire.co.uk",
+    "emails": [
+      "info@my-coachhire.co.uk"
+    ],
+    "description": "Reliable coach and minibus hire in Manchester and across the UK. Perfect for airport transfers, school trips, and corporate events. Get your free quote today."
   },
   {
     "name": "manchester minibuses 0161",
@@ -7239,7 +8655,12 @@
     "lat": 53.5375609,
     "lng": -2.1013839,
     "found_in_location": "Stockport",
-    "found_with_query": "16 seater minibus hire Stockport"
+    "found_with_query": "16 seater minibus hire Stockport",
+    "email": "info@travelinecoach.co.uk",
+    "emails": [
+      "info@travelinecoach.co.uk"
+    ],
+    "description": "5, 16 24, & 49 Seats Manchester Minibus & Coach Hire available for all occasions. Day trips & Night outs, Airport Transfers. School & Private Contracts, Low Cost Minibus & Coach Service in Manchester & Surrounding Areas"
   },
   {
     "name": "Bradshaws Coaches",
@@ -7341,7 +8762,12 @@
     "lat": 53.6283586,
     "lng": -2.1662517,
     "found_in_location": "Rochdale",
-    "found_with_query": "airport transfer minibus Rochdale"
+    "found_with_query": "airport transfer minibus Rochdale",
+    "email": "info@a2bairportstransfers.co.uk",
+    "emails": [
+      "info@a2bairportstransfers.co.uk"
+    ],
+    "description": "At A2B Airport Transfers, we specialise in long-distance and airport transfers of all kinds, ensuring a smooth, reliable, and stress-free journey every time. Whether you\u2019re heading to the airport, attending a day trip, or travelling to a race, our team is committed to provide a professional and..."
   },
   {
     "name": "Burnley Minibus Hire",
@@ -7358,7 +8784,12 @@
     "lat": 53.8005058,
     "lng": -2.2428863,
     "found_in_location": "Burnley",
-    "found_with_query": "minibus hire Burnley"
+    "found_with_query": "minibus hire Burnley",
+    "email": "bookings@minibushireburnley.co.uk",
+    "emails": [
+      "bookings@minibushireburnley.co.uk"
+    ],
+    "description": "Need a coach or a minibus for hire in Burnley your trip then use our company. Cheap coach and minibus prices."
   },
   {
     "name": "Union Coaches",
@@ -7375,7 +8806,8 @@
     "lat": 53.7891722,
     "lng": -2.2364192,
     "found_in_location": "Burnley",
-    "found_with_query": "coach hire Burnley"
+    "found_with_query": "coach hire Burnley",
+    "description": "Make a booking on our executive Coach Hire Services"
   },
   {
     "name": "village travel",
@@ -7392,7 +8824,12 @@
     "lat": 53.7734797,
     "lng": -2.474675,
     "found_in_location": "Blackburn",
-    "found_with_query": "minibus hire Blackburn"
+    "found_with_query": "minibus hire Blackburn",
+    "email": "johngreenhalgh0000@gmail.com",
+    "emails": [
+      "johngreenhalgh0000@gmail.com"
+    ],
+    "description": "We provide minibus hire and airport transfers in Blackburn. If you'd like a quote for a minibus or airport transfer then call 07870 347 789."
   },
   {
     "name": "Blakewater Coach Hire",
@@ -7511,7 +8948,8 @@
     "lat": 53.4772168,
     "lng": -2.2440626,
     "found_in_location": "Salford",
-    "found_with_query": "minibus hire Salford"
+    "found_with_query": "minibus hire Salford",
+    "description": "Looking for cheap coach hire in Greater Manchester? Compare affordable options for group transport in Lancashire, West Yorkshire, Flintshire, Nottinghamshire, Denbighshire and save on your next trip."
   },
   {
     "name": "Event Coach Hire Ltd",
@@ -7528,7 +8966,12 @@
     "lat": 53.47814649999999,
     "lng": -2.2455586,
     "found_in_location": "Salford",
-    "found_with_query": "coach hire Salford"
+    "found_with_query": "coach hire Salford",
+    "email": "2422448512@126.com",
+    "emails": [
+      "2422448512@126.com"
+    ],
+    "description": "\u591a\u5b9d\u7535\u7ade|\u4f53\u80b2\u5b98\u65b9\u7f51\u7ad9\u3010\u26bd\ufe0f\u9e64\u7acb\u9e21\u7fa4\u26bd\ufe0f\u3011\u672c\u7ad9\u63d0\u4f9b\u591a\u4e2a\u8bbf\u95ee\u65b9\u5f0f:\u5b98\u7f51\u5e73\u53f0\u5165\u53e3,app\u4e0b\u8f7d,\u7f51\u9875\u7248\u767b\u9646:\u5185\u5bb9\u4e30\u5bcc:NBA\u540d\u4eba\u5802\u4e13\u9898\u4e0e\u4e94\u5927\u8054\u8d5b\u4f20\u5947\u7403\u661f\u7eaa\u5f55\u7247\u805a\u5408\u5e73\u53f0,\u53d1\u5e03\u5386\u53f2\u7ecf\u5178\u8d5b\u4e8b\u56de\u987e\u53ca\u73b0\u5f79\u7403\u5458\u5bf9\u6bd4\u5206\u6790\u6587\u7ae0\u3002\""
   },
   {
     "name": "Northern Star Coaches Ltd",
