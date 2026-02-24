@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import posthog from "posthog-js";
 
 function maskPhone(phone: string): string {
   const digits = phone.replace(/\D/g, "");
@@ -21,6 +22,9 @@ export default function ClickToReveal({
 
   const handleReveal = async () => {
     setRevealed(true);
+    posthog.capture("phone_revealed", {
+      business_slug: businessSlug,
+    });
     try {
       await fetch("/api/reveal", {
         method: "POST",

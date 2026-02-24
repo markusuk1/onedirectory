@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import posthog from "posthog-js";
 import ManagedQuoteForm from "@/components/quote/ManagedQuoteForm";
 import type { ProductId } from "@/lib/productConfig";
 
@@ -28,7 +29,14 @@ export default function GetQuotesClient({ defaultProductId }: GetQuotesClientPro
             <button
               key={p.id}
               type="button"
-              onClick={() => setProductId(p.id)}
+              onClick={() => {
+                setProductId(p.id);
+                posthog.capture("product_selected", {
+                  product_id: p.id,
+                  product_label: p.label,
+                  previous_product_id: productId,
+                });
+              }}
               className={`py-3 px-4 rounded-lg border-2 text-sm font-medium transition-all cursor-pointer ${
                 productId === p.id
                   ? "border-primary bg-primary/5 text-primary"

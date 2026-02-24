@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import posthog from "posthog-js";
 import type { ProductId } from "@/lib/productConfig";
 
 interface QuoteFormProps {
@@ -65,11 +66,20 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
     try {
       await fetch("/api/leads", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "X-POSTHOG-DISTINCT-ID": posthog.get_distinct_id() ?? "",
+          "X-POSTHOG-SESSION-ID": posthog.get_session_id() ?? "",
+        },
         body: JSON.stringify(data),
       });
+      posthog.capture("quote_requested", {
+        product: productId,
+        type: "quote_request",
+      });
       setSubmitted(true);
-    } catch {
+    } catch (err) {
+      posthog.captureException(err);
       alert("Something went wrong. Please try again.");
     } finally {
       setSubmitting(false);

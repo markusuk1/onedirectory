@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import posthog from "posthog-js";
 import type { ProductId } from "@/lib/productConfig";
 
 interface ManagedQuoteFormProps {
@@ -69,11 +70,21 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
     try {
       await fetch("/api/leads", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "X-POSTHOG-DISTINCT-ID": posthog.get_distinct_id() ?? "",
+          "X-POSTHOG-SESSION-ID": posthog.get_session_id() ?? "",
+        },
         body: JSON.stringify(data),
       });
+      posthog.capture("managed_quote_requested", {
+        product: productId,
+        type: "managed_quote",
+        budget: base.budget || null,
+      });
       setSubmitted(true);
-    } catch {
+    } catch (err) {
+      posthog.captureException(err);
       alert("Something went wrong. Please try again.");
     } finally {
       setSubmitting(false);
@@ -332,9 +343,9 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
               <label htmlFor="time" className="block text-sm font-medium text-text mb-1">
-                Preferred Pickup Time
+                Pickup Time *
               </label>
-              <input type="time" id="time" name="time" className={inputClass} />
+              <input type="time" id="time" name="time" required className={inputClass} />
             </div>
             {journeyType === "return" && (
               <div>

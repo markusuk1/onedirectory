@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
 import pool, { initDb } from "@/lib/db";
 import { getSiteId, getSiteConfig } from "@/lib/siteConfig";
+import { getPostHogClient } from "@/lib/posthog-server";
 
 const resend = process.env.RESEND_API_KEY
   ? new Resend(process.env.RESEND_API_KEY)
@@ -124,6 +125,23 @@ export async function POST(request: NextRequest) {
         }).catch((err) => console.error("Customer confirmation email failed:", err));
       }
     }
+
+    // Track lead submission server-side with PostHog
+    const distinctId = request.headers.get("x-posthog-distinct-id") || ip || "anonymous";
+    const sessionId = request.headers.get("x-posthog-session-id") || undefined;
+    const posthog = getPostHogClient();
+    posthog.capture({
+      distinctId,
+      event: "lead_submitted",
+      properties: {
+        type: body.type || "quote_request",
+        product: body.product || null,
+        business_slug: body.businessSlug || null,
+        business_name: body.businessName || null,
+        site: siteId,
+        ...(sessionId ? { $session_id: sessionId } : {}),
+      },
+    });
 
     return NextResponse.json({ success: true });
   } catch (error) {
