@@ -6,6 +6,8 @@ import ykBusinessesRaw from "@/data/yorkshire_businesses.json";
 import eaBusinessesRaw from "@/data/east_businesses.json";
 import lnBusinessesRaw from "@/data/london_businesses.json";
 import seBusinessesRaw from "@/data/southeast_businesses.json";
+import swBusinessesRaw from "@/data/southwest_businesses.json";
+import wlBusinessesRaw from "@/data/wales_businesses.json";
 
 import vhNeBusinessesRaw from "@/data/vanhire_northeast_businesses.json";
 import vhNwBusinessesRaw from "@/data/vanhire_northwest_businesses.json";
@@ -15,6 +17,8 @@ import vhYkBusinessesRaw from "@/data/vanhire_yorkshire_businesses.json";
 import vhEaBusinessesRaw from "@/data/vanhire_east_businesses.json";
 import vhLnBusinessesRaw from "@/data/vanhire_london_businesses.json";
 import vhSeBusinessesRaw from "@/data/vanhire_southeast_businesses.json";
+import vhSwBusinessesRaw from "@/data/vanhire_southwest_businesses.json";
+import vhWlBusinessesRaw from "@/data/vanhire_wales_businesses.json";
 
 import shNeBusinessesRaw from "@/data/skiphire_northeast_businesses.json";
 import shNwBusinessesRaw from "@/data/skiphire_northwest_businesses.json";
@@ -24,6 +28,8 @@ import shYkBusinessesRaw from "@/data/skiphire_yorkshire_businesses.json";
 import shEaBusinessesRaw from "@/data/skiphire_east_businesses.json";
 import shLnBusinessesRaw from "@/data/skiphire_london_businesses.json";
 import shSeBusinessesRaw from "@/data/skiphire_southeast_businesses.json";
+import shSwBusinessesRaw from "@/data/skiphire_southwest_businesses.json";
+import shWlBusinessesRaw from "@/data/skiphire_wales_businesses.json";
 
 import type { Business, BusinessRaw, Location } from "@/types";
 import type { ProductId } from "./productConfig";
@@ -74,6 +80,8 @@ function getRawBusinesses(
     if (id === "east") return shEaBusinessesRaw as BusinessRaw[];
     if (id === "london") return shLnBusinessesRaw as BusinessRaw[];
     if (id === "southeast") return shSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return shSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return shWlBusinessesRaw as BusinessRaw[];
     return shNeBusinessesRaw as BusinessRaw[];
   }
   if (productId === "van-hire") {
@@ -84,6 +92,8 @@ function getRawBusinesses(
     if (id === "east") return vhEaBusinessesRaw as BusinessRaw[];
     if (id === "london") return vhLnBusinessesRaw as BusinessRaw[];
     if (id === "southeast") return vhSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return vhSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return vhWlBusinessesRaw as BusinessRaw[];
     return vhNeBusinessesRaw as BusinessRaw[];
   }
   if (id === "northwest") return nwBusinessesRaw as BusinessRaw[];
@@ -93,6 +103,8 @@ function getRawBusinesses(
   if (id === "east") return eaBusinessesRaw as BusinessRaw[];
   if (id === "london") return lnBusinessesRaw as BusinessRaw[];
   if (id === "southeast") return seBusinessesRaw as BusinessRaw[];
+  if (id === "southwest") return swBusinessesRaw as BusinessRaw[];
+  if (id === "wales") return wlBusinessesRaw as BusinessRaw[];
   return neBusinessesRaw as BusinessRaw[];
 }
 

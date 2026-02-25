@@ -4,7 +4,7 @@
  * Defaults to 'northeast' if not set.
  */
 
-export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east" | "london" | "southeast";
+export type SiteId = "northeast" | "northwest" | "scotland" | "midlands" | "yorkshire" | "east" | "london" | "southeast" | "southwest" | "wales";
 
 export interface SiteConfig {
   id: SiteId;
@@ -183,6 +183,46 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
     servicesAirportDesc:
       "Reliable minibus transfers to and from Gatwick, Southampton, Heathrow and other airports.",
   },
+  southwest: {
+    id: "southwest",
+    name: "Minibus Hire South West",
+    genericName: "Hire South West",
+    shortName: "South West",
+    logoPrefix: "SW",
+    domain: "hiresouthwest.co.uk",
+    region: "South West England",
+    description:
+      "Compare minibus and coach hire companies across South West England. Get free quotes from trusted operators in Bristol, Exeter, Plymouth, Bath and more.",
+    footerDescription:
+      "The South West's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire South West - the largest directory of minibus and coach hire companies in South West England.",
+    locationsList:
+      "Bristol, Plymouth, Exeter, Bath, Bournemouth, Gloucester, Cheltenham, Swindon, Taunton, Torquay, Truro, Salisbury, Poole, Weymouth, Barnstaple, Penzance, Newquay, Yeovil, Chippenham and Bridgwater",
+    airportName: "Bristol Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Bristol, Exeter, Bournemouth and other airports.",
+  },
+  wales: {
+    id: "wales",
+    name: "Minibus Hire Wales",
+    genericName: "Hire Wales",
+    shortName: "Wales",
+    logoPrefix: "WL",
+    domain: "hirewales.co.uk",
+    region: "Wales",
+    description:
+      "Compare minibus and coach hire companies across Wales. Get free quotes from trusted operators in Cardiff, Swansea, Newport, Wrexham, Bangor and more.",
+    footerDescription:
+      "Wales's largest directory of minibus and coach hire companies. Compare prices, read reviews and get free quotes from trusted local operators.",
+    aboutDescription:
+      "About Minibus Hire Wales - the largest directory of minibus and coach hire companies in Wales.",
+    locationsList:
+      "Cardiff, Swansea, Newport, Wrexham, Bangor, Llandudno, Rhyl, Bridgend, Neath, Caerphilly, Merthyr Tydfil, Llanelli, Aberystwyth, Caernarfon, Holyhead, Barry, Pontypridd, Port Talbot, Monmouth and Abergavenny",
+    airportName: "Cardiff Airport",
+    servicesAirportDesc:
+      "Reliable minibus transfers to and from Cardiff, Bristol and other airports.",
+  },
 };
 
 export function getSiteId(): SiteId {
@@ -194,6 +234,8 @@ export function getSiteId(): SiteId {
   if (site === "east") return "east";
   if (site === "london") return "london";
   if (site === "southeast") return "southeast";
+  if (site === "southwest") return "southwest";
+  if (site === "wales") return "wales";
   return "northeast";
 }
 

@@ -3095,6 +3095,740 @@ const SE_GUIDES: Guide[] = [
   },
 ];
 
+const SW_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-bristol",
+    title: "Party Bus Hire Bristol",
+    metaTitle: "Party Bus Hire Bristol | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in Bristol. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more.",
+    h1: "Party Bus Hire in Bristol & the South West",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in Bristol? A party bus is one of the most exciting ways to travel with your group through one of the South West's liveliest cities. We list the top party bus operators across Bristol and the wider South West so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them ideal for large groups heading out around Bristol's Harbourside, the Clifton Triangle, or through the bustling bars and clubs of the city centre.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in Bristol?",
+        content:
+          "Party bus hire prices in Bristol typically start from around £150-£300 for a 2-3 hour tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £350-£550+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more. Most operators offer packages that include pick-up and drop-off at agreed locations around Bristol and the surrounding area.",
+      },
+      {
+        heading: "Popular Party Bus Routes in Bristol",
+        content:
+          "The most popular party bus routes in Bristol include pick-ups from residential areas and hotels followed by a cruise along the Harbourside past the SS Great Britain and Clifton Suspension Bridge. Many groups use a party bus to kick off a night out along the Gloucester Road, Whiteladies Road, or in the city centre around King Street and Baldwin Street. Other popular routes include trips through Clifton Village, along the waterfront, or longer routes combining Bristol with a stop in Bath.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in Bristol are most commonly booked for hen parties and hen dos, stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, and sporting event celebrations. Booking early is recommended as the best vehicles get booked up quickly, particularly during summer months, the Bristol Balloon Fiesta weekend, and the Christmas party season.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in Bristol, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can fit on a party bus?",
+        answer:
+          "Most party buses in Bristol accommodate between 16 and 50 passengers. The most common sizes are 16-seater and 24-seater party buses. For larger groups, some operators offer full-size coach conversions that seat up to 50 people.",
+      },
+      {
+        question: "Can you bring your own drinks on a party bus?",
+        answer:
+          "This depends on the operator. Many Bristol party bus companies allow you to bring your own non-glass drinks (cans and plastic bottles). Some offer packages that include drinks. Always check with the operator before booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus in Bristol?",
+        answer:
+          "We recommend booking at least 4-6 weeks in advance for weekend bookings. During peak season (Bristol Balloon Fiesta, summer weekends, December), booking 2-3 months ahead is advisable to secure your preferred vehicle.",
+      },
+      {
+        question: "Are party buses available in other South West cities?",
+        answer:
+          "Yes. Party bus operators in our directory also cover Bath, Exeter, Plymouth, Bournemouth, Cheltenham and other South West locations. Many Bristol-based operators will pick up from across the region.",
+      },
+    ],
+    relatedLocations: [
+      "bristol",
+      "bath",
+      "exeter",
+      "plymouth",
+      "bournemouth",
+    ],
+    keywords: [
+      "party bus bristol",
+      "party bus hire bristol",
+      "party bus hire south west",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-south-west",
+    title: "Self-Drive Minibus Hire South West",
+    metaTitle:
+      "Self-Drive Minibus Hire South West | No Driver Needed (2026)",
+    metaDescription:
+      "Hire a self-drive minibus in the South West. Compare 9-17 seater minibuses you can drive yourself across Bristol, Bath, Exeter, Plymouth, Bournemouth and more.",
+    h1: "Self-Drive Minibus Hire in the South West",
+    intro:
+      "Need a minibus but want to drive it yourself? Self-drive minibus hire is a cost-effective option for groups who have a confident driver with a standard UK driving licence. We list self-drive minibus operators across the South West including Bristol, Bath, Exeter, Plymouth, Bournemouth and beyond.",
+    sections: [
+      {
+        heading: "What Licence Do You Need?",
+        content:
+          "You can drive a minibus on a standard Category B car licence if the vehicle has no more than 8 passenger seats (plus the driver) and a Maximum Authorised Mass (MAM) of no more than 3,500kg. For larger minibuses with 9-16 passenger seats, you may need a D1 licence category. If you passed your driving test before 1 January 1997, you should already have the D1 category on your licence. Drivers who passed after this date will need to check their licence or consider a smaller vehicle. Always confirm licence requirements with the hire company before booking.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost?",
+        content:
+          "Self-drive minibus hire in the South West is significantly cheaper than hiring with a driver. A 9-seater minibus typically costs £80-£150 per day, while larger 12-15 seater vehicles range from £120-£200 per day. Weekend rates and weekly hire often offer better value. Most operators require a security deposit (usually £200-£500) and you will need to arrange your own insurance or pay for the operator's cover. Fuel is not usually included.",
+      },
+      {
+        heading: "Popular Self-Drive Minibus Sizes",
+        content:
+          "The most popular self-drive minibuses in the South West are 9-seater minibuses which are the largest you can drive on a standard car licence and are ideal for family trips to the coast, airport runs to Bristol Airport, and small group outings. 12-seater minibuses are popular for sports teams and medium groups but require a D1 licence. 15-17 seater minibuses are the largest self-drive option and are perfect for larger groups heading to events, festivals, or longer trips across the region.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus, confirm you have the correct driving licence category, check the insurance cover and excess amount, ask about mileage limits as some operators include unlimited mileage while others charge per mile, check the fuel policy (most are full-to-full), inspect the vehicle for any existing damage before driving away, and confirm pick-up and return times to avoid late fees.",
+      },
+      {
+        heading: "Self-Drive vs Driven Minibus Hire",
+        content:
+          "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across the South West where you might want to explore Dartmoor, the Jurassic Coast or the Cotswolds at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy cities like Bristol or Bath. For nights out, hiring with a driver is the obvious choice.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus on a normal licence?",
+        answer:
+          "No. A standard Category B car licence only covers vehicles with up to 8 passenger seats. For a 16-seater, you need a D1 licence. If you passed your test before January 1997, check your licence as you may already have this category.",
+      },
+      {
+        question: "What age do you need to be to hire a self-drive minibus?",
+        answer:
+          "Most operators require the driver to be at least 25 years old and to have held a full UK driving licence for at least 2 years. Some may accept drivers aged 21-24 with a surcharge.",
+      },
+      {
+        question: "Is insurance included in self-drive hire?",
+        answer:
+          "Basic insurance is usually included but with a high excess (£500-£1,000). Many operators offer additional cover to reduce the excess. You can also arrange your own hire vehicle insurance separately.",
+      },
+      {
+        question:
+          "Where can I pick up a self-drive minibus in the South West?",
+        answer:
+          "Self-drive minibus operators are based across the South West including Bristol, Bath, Exeter, Plymouth, Bournemouth, Gloucester and Cheltenham. Some offer delivery and collection of the vehicle to your address.",
+      },
+    ],
+    relatedLocations: [
+      "bristol",
+      "bath",
+      "exeter",
+      "plymouth",
+      "bournemouth",
+    ],
+    keywords: [
+      "self drive minibus hire south west",
+      "self drive minibus hire bristol",
+      "self drive minibus hire exeter",
+    ],
+  },
+  {
+    slug: "airport-transfers-south-west",
+    title: "Airport Transfers South West",
+    metaTitle:
+      "Airport Transfers South West | Bristol Airport Minibus (2026)",
+    metaDescription:
+      "Book airport transfer minibuses and coaches in the South West. Group transport to Bristol Airport from Bath, Exeter, Cheltenham, Gloucester and beyond.",
+    h1: "Airport Transfers & Minibus Hire for South West Airports",
+    intro:
+      "Travelling to or from Bristol Airport with a group? A minibus or coach transfer is the most convenient and cost-effective option. We list operators across the South West who specialise in airport transfers, from executive cars to 50-seater coaches. Compare prices and book your group airport transport.",
+    sections: [
+      {
+        heading: "Why Book a Group Airport Transfer?",
+        content:
+          "When travelling with family, friends or colleagues, a group airport transfer makes much more sense than multiple taxis or trying to arrange lifts. A single minibus can carry your entire group plus luggage, arriving together and avoiding the stress of coordinating multiple vehicles. It is also significantly cheaper per person than individual taxis, especially from destinations further afield like Exeter, Plymouth or Bournemouth.",
+      },
+      {
+        heading: "Typical Airport Transfer Prices",
+        content:
+          "Airport transfer prices from key South West locations are approximately: Bath to Bristol Airport from £40-£60, Bristol city centre to Bristol Airport from £30-£50, Cheltenham to Bristol Airport from £80-£120, Exeter to Bristol Airport from £120-£170, Gloucester to Bristol Airport from £70-£100, and Plymouth to Bristol Airport from £160-£220. These prices are for a standard minibus carrying 8-16 passengers. Larger coaches for bigger groups cost more but the per-person price drops significantly.",
+      },
+      {
+        heading: "South West Airports Covered",
+        content:
+          "Bristol Airport is the main airport in the South West, located south of Bristol with good access via the A38. It handles flights to major European destinations and is the departure point for most South West travellers. Exeter Airport also serves Devon and Cornwall with a smaller number of routes. Some operators also cover transfers to Birmingham Airport for groups in Cheltenham and Gloucester, or to Heathrow and Gatwick for groups willing to travel further for a wider choice of flights.",
+      },
+      {
+        heading: "What to Expect from Your Transfer",
+        content:
+          "A professional airport transfer service will track your flight and adjust pickup time if your flight is early or delayed. The driver will meet you in the arrivals hall or at an agreed pickup point. Vehicles will have space for all your luggage. For early morning flights, operators typically offer pickups from 3am onwards. For return transfers, the driver will drop you at the departure terminal entrance. Most operators accept online booking and payment in advance.",
+      },
+      {
+        heading: "Group Sizes and Vehicle Options",
+        content:
+          "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions, particularly popular for Bristol Airport transfers from Bath and Cheltenham.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book an airport transfer?",
+        answer:
+          "We recommend booking at least 1-2 weeks in advance. For peak travel periods (school holidays, Christmas, summer), book 3-4 weeks ahead. Most operators accept bookings up to 48 hours before travel.",
+      },
+      {
+        question: "What happens if my flight is delayed?",
+        answer:
+          "Most professional operators monitor flight arrivals and will adjust your pickup time accordingly at no extra charge. Always provide your flight number when booking so the operator can track it.",
+      },
+      {
+        question: "Can I book a return airport transfer?",
+        answer:
+          "Yes. Most operators offer discounted rates when you book both outbound and return transfers together. This is the most convenient option as you have transport arranged for both ends of your trip.",
+      },
+      {
+        question: "How long does it take to get to Bristol Airport from Bath?",
+        answer:
+          "Bristol Airport is approximately 30-40 minutes from Bath by minibus via the A4 and A38. From Bristol city centre, the journey is around 20-30 minutes. From Cheltenham and Gloucester, allow around 60-90 minutes depending on traffic.",
+      },
+    ],
+    relatedLocations: [
+      "bristol",
+      "bath",
+      "exeter",
+      "plymouth",
+      "bournemouth",
+    ],
+    keywords: [
+      "airport transfer south west",
+      "minibus hire bristol airport",
+      "airport transfer bath",
+      "bristol airport minibus",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-south-west",
+    title: "16 Seater Minibus Hire South West",
+    metaTitle:
+      "16 Seater Minibus Hire South West | Bristol, Bath & More (2026)",
+    metaDescription:
+      "Find 16 seater minibus hire across the South West. Compare prices and operators in Bristol, Bath, Exeter, Plymouth, Bournemouth and surrounding areas.",
+    h1: "16 Seater Minibus Hire in the South West",
+    intro:
+      "A 16-seater minibus is the most popular size for group travel in the South West. Whether you need transport for a wedding party, sports team, corporate event or day trip to the coast, a 16-seater offers the perfect balance of capacity and comfort. Compare 16-seater minibus operators across Bristol, Bath, Exeter, Plymouth, Bournemouth and the wider region.",
+    sections: [
+      {
+        heading: "Why Choose a 16-Seater Minibus?",
+        content:
+          "A 16-seater minibus is the most versatile group transport option. It is large enough to carry a decent-sized group in comfort but small enough to navigate narrow lanes in historic cities like Bath, Bristol's steep hills, or the rural villages of Devon and Cornwall. They are typically Mercedes Sprinters or Ford Transit minibuses with high roofs, air conditioning, and luggage space. Many also come with USB charging points and reclining seats for longer journeys.",
+      },
+      {
+        heading: "How Much Does 16-Seater Minibus Hire Cost?",
+        content:
+          "In the South West, 16-seater minibus hire with a driver typically costs between £170 and £380 depending on the journey. A local transfer within Bristol, Bath or Exeter starts from around £90-£170. A full day hire (8-10 hours) usually costs £260-£420. Airport transfers to Bristol Airport are typically £80-£180 depending on distance. Prices include a professional driver, insurance and VAT.",
+      },
+      {
+        heading: "Common Uses for 16-Seater Minibuses",
+        content:
+          "The most common bookings for 16-seater minibuses in the South West include wedding guest transport between ceremony and reception venues, airport transfers to Bristol Airport, sports team transport to fixtures across the region, corporate events and conference shuttle services, school trips and educational visits, nights out in Bristol, Bath or Exeter, and day trips to destinations like the Jurassic Coast, Dartmoor, or the Cotswolds.",
+      },
+      {
+        heading: "What to Look For in an Operator",
+        content:
+          "When booking a 16-seater minibus, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time, tolls or congestion charges. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features. Professional operators will have full PSV licensing, comprehensive insurance, and DBS-checked drivers.",
+      },
+      {
+        heading: "Popular Routes for 16-Seater Minibuses",
+        content:
+          "The South West offers a huge variety of destinations well suited to 16-seater minibus travel. Popular routes include Bristol to Bristol Airport, Bath to the Cotswolds, Exeter to Dartmoor and the Jurassic Coast, Plymouth to Cornwall, and Bournemouth to the New Forest. For corporate clients, routes between South West towns and conference venues in Bristol and Bath are in high demand. Sports teams regularly book for fixtures across the region.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus myself?",
+        answer:
+          "Only if you hold a D1 licence category. A standard car licence only covers vehicles with up to 8 passenger seats. If you passed your test before 1 January 1997, you may already have D1 on your licence.",
+      },
+      {
+        question: "How much luggage can a 16-seater carry?",
+        answer:
+          "Most 16-seater minibuses have a rear luggage area that can hold around 10-12 medium suitcases. For airport transfers with a full group, ask the operator about luggage capacity as you may need a vehicle with a trailer or separate luggage van.",
+      },
+      {
+        question: "Are 16-seater minibuses wheelchair accessible?",
+        answer:
+          "Not all 16-seaters are wheelchair accessible. If you need a wheelchair-accessible vehicle, mention this when booking. Some operators have adapted vehicles with ramps or lifts, though the passenger capacity may be reduced.",
+      },
+      {
+        question: "What is the difference between a minibus and a coach?",
+        answer:
+          "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+    ],
+    relatedLocations: [
+      "bristol",
+      "bath",
+      "exeter",
+      "plymouth",
+      "bournemouth",
+    ],
+    keywords: [
+      "16 seater minibus hire south west",
+      "16 seater minibus hire bristol",
+      "16 seater minibus hire exeter",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-south-west",
+    title: "Wedding Coach Hire South West",
+    metaTitle:
+      "Wedding Coach & Minibus Hire South West | Guest Transport (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire in the South West. Transport your guests between ceremony, reception and hotels across Bristol, Bath, Exeter, Devon and more.",
+    h1: "Wedding Coach & Minibus Hire in the South West",
+    intro:
+      "Your wedding day transport needs to be reliable, comfortable and stress-free. Whether you need a luxury coach for 50 guests or a minibus shuttle between your ceremony and reception venue, we list wedding transport specialists across the South West. Compare operators, check reviews, and get quotes for your big day.",
+    sections: [
+      {
+        heading: "Why Hire Wedding Transport?",
+        content:
+          "Arranging group transport for your wedding guests takes the stress out of the day for everyone. No one needs to worry about parking, designated drivers or finding the venue. A coach or minibus can shuttle guests between the ceremony, reception and hotels, keeping your day running on time. It is especially important for South West weddings at rural venues on Dartmoor, in the Cotswolds, or in the Devon and Cornwall countryside where public transport is limited and country lanes can be tricky to navigate.",
+      },
+      {
+        heading: "Wedding Transport Options",
+        content:
+          "The most popular wedding transport options in the South West are: luxury coaches seating 30-50 guests, ideal for transporting the majority of your wedding party in style. Standard minibuses seating 16-24 guests are great for smaller weddings or as a shuttle between nearby venues. Executive minibuses with leather seats and tinted windows add a premium feel. Vintage buses are available from some operators for couples wanting a unique, retro look. Many couples book multiple vehicles to cover different routes and pickup points.",
+      },
+      {
+        heading: "Planning Your Wedding Transport",
+        content:
+          "Start by working out how many guests need transport and where they are coming from. Common arrangements include morning transport from guest hotels to the ceremony venue, an afternoon shuttle from the ceremony to the reception (if at different venues), and an evening return service from the reception to hotels or key drop-off points. Share the transport schedule with guests on your wedding website or with the invitations so everyone knows pickup times and locations.",
+      },
+      {
+        heading: "Popular Wedding Venues and Routes",
+        content:
+          "The South West has stunning wedding venues from grand country houses to coastal locations. Popular routes for wedding coaches include: Bristol city centre hotels to Somerset barn venues, Bath hotels to Cotswolds manor houses, Exeter hotels to Dartmoor lodges and estates, Bournemouth seafront hotels to Dorset countryside venues, and Plymouth to Devon coastal venues. An experienced local operator will know these routes and can advise on timing and logistics.",
+      },
+      {
+        heading: "How Much Does Wedding Transport Cost?",
+        content:
+          "Wedding coach hire in the South West typically costs £320-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£380. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £140-£320 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book wedding transport?",
+        answer:
+          "Book as early as possible, ideally 6-12 months before your wedding date. The South West is a hugely popular region for weddings, particularly in Devon, Cornwall and the Cotswolds, so popular dates (Saturdays in summer) get booked up very quickly. Once you have your venue confirmed, transport should be one of the next things you arrange.",
+      },
+      {
+        question: "Can the coach be decorated for a wedding?",
+        answer:
+          "Many operators will add ribbons, bows and 'Just Married' signs at no extra cost. Some offer more elaborate decorations. Discuss your requirements when booking and they will do their best to accommodate.",
+      },
+      {
+        question: "What if our ceremony and reception are at the same venue?",
+        answer:
+          "You may still want transport for guests from their hotels to the venue and back in the evening. A shuttle service at the end of the night ensures guests get home safely and means everyone can enjoy themselves without worrying about driving.",
+      },
+      {
+        question: "Can we make multiple stops?",
+        answer:
+          "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+    ],
+    relatedLocations: [
+      "bristol",
+      "bath",
+      "exeter",
+      "plymouth",
+      "bournemouth",
+    ],
+    keywords: [
+      "wedding coach hire south west",
+      "wedding minibus hire bristol",
+      "wedding transport bath",
+      "wedding coach hire devon",
+    ],
+  },
+];
+
+const WL_GUIDES: Guide[] = [
+  {
+    slug: "party-bus-hire-cardiff",
+    title: "Party Bus Hire Cardiff",
+    metaTitle: "Party Bus Hire Cardiff | Prices, Tips & Top Companies (2026)",
+    metaDescription:
+      "Find the best party bus hire in Cardiff. Compare prices, see top-rated companies, and book your party bus for hen dos, birthdays, stag nights and more.",
+    h1: "Party Bus Hire in Cardiff & Wales",
+    intro:
+      "Planning a night out, hen do, stag party or birthday celebration in Cardiff? A party bus is one of the most exciting ways to travel with your group through the Welsh capital's vibrant nightlife scene. We list the top party bus operators across Cardiff and the wider Wales region so you can compare prices and book with confidence.",
+    sections: [
+      {
+        heading: "What Is a Party Bus?",
+        content:
+          "A party bus is a converted coach or large minibus fitted with sound systems, LED lighting, comfortable seating and sometimes even a dance floor or bar area. They typically carry between 16 and 50 passengers, making them ideal for large groups heading out around Cardiff's St Mary Street, the lively Mill Lane area, or through the bars and restaurants of Cardiff Bay.",
+      },
+      {
+        heading: "How Much Does Party Bus Hire Cost in Cardiff?",
+        content:
+          "Party bus hire prices in Cardiff typically start from around £140-£280 for a 2-3 hour tour with a standard party bus. Larger or more luxurious vehicles with premium sound systems and lighting can cost £320-£500+ for an evening. Prices vary depending on the day of the week, time of year, group size, and the specific vehicle. Weekend bookings (Friday and Saturday nights) are the most popular and tend to cost more. Most operators offer packages that include pick-up and drop-off at agreed locations around Cardiff and the surrounding area.",
+      },
+      {
+        heading: "Popular Party Bus Routes in Cardiff",
+        content:
+          "The most popular party bus routes in Cardiff include pick-ups from residential areas and hotels followed by a cruise through the city centre past Cardiff Castle and down to Cardiff Bay. Many groups use a party bus to kick off a night out along St Mary Street, through the Brewery Quarter, or in the Mermaid Quay area of Cardiff Bay. Other popular routes include trips through Pontcanna, along the waterfront, or longer routes combining Cardiff with a stop in Swansea or Newport.",
+      },
+      {
+        heading: "Best Occasions for a Party Bus",
+        content:
+          "Party buses in Cardiff are most commonly booked for hen parties and hen dos, stag nights, milestone birthdays (especially 18th, 21st, 30th and 40th), Christmas party nights and office celebrations, prom nights for school leavers, and Six Nations rugby weekend celebrations. Booking early is recommended as the best vehicles get booked up quickly, particularly during rugby internationals, summer months, and the Christmas party season.",
+      },
+      {
+        heading: "Choosing the Right Party Bus Company",
+        content:
+          "When comparing party bus hire companies in Cardiff, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
+      },
+    ],
+    faq: [
+      {
+        question: "How many people can fit on a party bus?",
+        answer:
+          "Most party buses in Cardiff accommodate between 16 and 50 passengers. The most common sizes are 16-seater and 24-seater party buses. For larger groups, some operators offer full-size coach conversions that seat up to 50 people.",
+      },
+      {
+        question: "Can you bring your own drinks on a party bus?",
+        answer:
+          "This depends on the operator. Many Cardiff party bus companies allow you to bring your own non-glass drinks (cans and plastic bottles). Some offer packages that include drinks. Always check with the operator before booking.",
+      },
+      {
+        question: "How far in advance should I book a party bus in Cardiff?",
+        answer:
+          "We recommend booking at least 4-6 weeks in advance for weekend bookings. During peak season (Six Nations weekends, summer months, December), booking 2-3 months ahead is advisable to secure your preferred vehicle.",
+      },
+      {
+        question: "Are party buses available in other Welsh cities?",
+        answer:
+          "Yes. Party bus operators in our directory also cover Swansea, Newport, Wrexham, Bangor and other Welsh locations. Many Cardiff-based operators will pick up from across Wales.",
+      },
+    ],
+    relatedLocations: [
+      "cardiff",
+      "swansea",
+      "newport",
+      "wrexham",
+      "bangor",
+    ],
+    keywords: [
+      "party bus cardiff",
+      "party bus hire cardiff",
+      "party bus hire wales",
+    ],
+  },
+  {
+    slug: "self-drive-minibus-hire-wales",
+    title: "Self-Drive Minibus Hire Wales",
+    metaTitle:
+      "Self-Drive Minibus Hire Wales | No Driver Needed (2026)",
+    metaDescription:
+      "Hire a self-drive minibus in Wales. Compare 9-17 seater minibuses you can drive yourself across Cardiff, Swansea, Newport, Wrexham, Bangor and more.",
+    h1: "Self-Drive Minibus Hire in Wales",
+    intro:
+      "Need a minibus but want to drive it yourself? Self-drive minibus hire is a cost-effective option for groups who have a confident driver with a standard UK driving licence. We list self-drive minibus operators across Wales including Cardiff, Swansea, Newport, Wrexham, Bangor and beyond.",
+    sections: [
+      {
+        heading: "What Licence Do You Need?",
+        content:
+          "You can drive a minibus on a standard Category B car licence if the vehicle has no more than 8 passenger seats (plus the driver) and a Maximum Authorised Mass (MAM) of no more than 3,500kg. For larger minibuses with 9-16 passenger seats, you may need a D1 licence category. If you passed your driving test before 1 January 1997, you should already have the D1 category on your licence. Drivers who passed after this date will need to check their licence or consider a smaller vehicle. Always confirm licence requirements with the hire company before booking.",
+      },
+      {
+        heading: "How Much Does Self-Drive Minibus Hire Cost?",
+        content:
+          "Self-drive minibus hire in Wales is significantly cheaper than hiring with a driver and generally offers good value compared to other UK regions. A 9-seater minibus typically costs £75-£140 per day, while larger 12-15 seater vehicles range from £110-£190 per day. Weekend rates and weekly hire often offer better value. Most operators require a security deposit (usually £200-£500) and you will need to arrange your own insurance or pay for the operator's cover. Fuel is not usually included.",
+      },
+      {
+        heading: "Popular Self-Drive Minibus Sizes",
+        content:
+          "The most popular self-drive minibuses in Wales are 9-seater minibuses which are the largest you can drive on a standard car licence and are ideal for family trips to the coast, airport runs to Cardiff Airport, and small group outings. 12-seater minibuses are popular for sports teams and medium groups but require a D1 licence. 15-17 seater minibuses are the largest self-drive option and are perfect for larger groups heading to events, festivals like the Eisteddfod, or longer trips across Wales.",
+      },
+      {
+        heading: "What to Check Before Hiring",
+        content:
+          "Before booking a self-drive minibus, confirm you have the correct driving licence category, check the insurance cover and excess amount, ask about mileage limits as some operators include unlimited mileage while others charge per mile, check the fuel policy (most are full-to-full), inspect the vehicle for any existing damage before driving away, and confirm pick-up and return times to avoid late fees.",
+      },
+      {
+        heading: "Self-Drive vs Driven Minibus Hire",
+        content:
+          "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across Wales where you might want to explore Snowdonia, the Brecon Beacons or the Pembrokeshire Coast at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy cities like Cardiff or Swansea. For nights out, hiring with a driver is the obvious choice.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus on a normal licence?",
+        answer:
+          "No. A standard Category B car licence only covers vehicles with up to 8 passenger seats. For a 16-seater, you need a D1 licence. If you passed your test before January 1997, check your licence as you may already have this category.",
+      },
+      {
+        question: "What age do you need to be to hire a self-drive minibus?",
+        answer:
+          "Most operators require the driver to be at least 25 years old and to have held a full UK driving licence for at least 2 years. Some may accept drivers aged 21-24 with a surcharge.",
+      },
+      {
+        question: "Is insurance included in self-drive hire?",
+        answer:
+          "Basic insurance is usually included but with a high excess (£500-£1,000). Many operators offer additional cover to reduce the excess. You can also arrange your own hire vehicle insurance separately.",
+      },
+      {
+        question:
+          "Where can I pick up a self-drive minibus in Wales?",
+        answer:
+          "Self-drive minibus operators are based across Wales including Cardiff, Swansea, Newport, Wrexham and Bangor. Some offer delivery and collection of the vehicle to your address.",
+      },
+    ],
+    relatedLocations: [
+      "cardiff",
+      "swansea",
+      "newport",
+      "wrexham",
+      "bangor",
+    ],
+    keywords: [
+      "self drive minibus hire wales",
+      "self drive minibus hire cardiff",
+      "self drive minibus hire swansea",
+    ],
+  },
+  {
+    slug: "airport-transfers-wales",
+    title: "Airport Transfers Wales",
+    metaTitle:
+      "Airport Transfers Wales | Cardiff Airport Minibus (2026)",
+    metaDescription:
+      "Book airport transfer minibuses and coaches in Wales. Group transport to Cardiff Airport from Swansea, Newport, the Valleys and beyond.",
+    h1: "Airport Transfers & Minibus Hire for Welsh Airports",
+    intro:
+      "Travelling to or from Cardiff Airport with a group? A minibus or coach transfer is the most convenient and cost-effective option. We list operators across Wales who specialise in airport transfers, from executive cars to 50-seater coaches. Compare prices and book your group airport transport.",
+    sections: [
+      {
+        heading: "Why Book a Group Airport Transfer?",
+        content:
+          "When travelling with family, friends or colleagues, a group airport transfer makes much more sense than multiple taxis or trying to arrange lifts. A single minibus can carry your entire group plus luggage, arriving together and avoiding the stress of coordinating multiple vehicles. It is also significantly cheaper per person than individual taxis, especially from destinations further afield like Swansea, Wrexham or Bangor.",
+      },
+      {
+        heading: "Typical Airport Transfer Prices",
+        content:
+          "Airport transfer prices from key Welsh locations are approximately: Cardiff city centre to Cardiff Airport from £30-£50, Newport to Cardiff Airport from £40-£65, Swansea to Cardiff Airport from £70-£100, the Valleys to Cardiff Airport from £40-£70, Wrexham to Cardiff Airport from £140-£200, and Bangor to Cardiff Airport from £180-£260. These prices are for a standard minibus carrying 8-16 passengers. Larger coaches for bigger groups cost more but the per-person price drops significantly.",
+      },
+      {
+        heading: "Welsh Airports Covered",
+        content:
+          "Cardiff Airport is the main airport in Wales, located in Rhoose in the Vale of Glamorgan with good access via the A48 and M4. It handles flights to holiday destinations across Europe and beyond. For groups in North Wales, some operators also cover transfers to Liverpool John Lennon Airport or Manchester Airport, which offer a wider range of flights. Bristol Airport just across the Severn Bridge is another popular alternative for groups in South Wales.",
+      },
+      {
+        heading: "What to Expect from Your Transfer",
+        content:
+          "A professional airport transfer service will track your flight and adjust pickup time if your flight is early or delayed. The driver will meet you in the arrivals hall or at an agreed pickup point. Vehicles will have space for all your luggage. For early morning flights, operators typically offer pickups from 3am onwards. For return transfers, the driver will drop you at the departure terminal entrance. Most operators accept online booking and payment in advance.",
+      },
+      {
+        heading: "Group Sizes and Vehicle Options",
+        content:
+          "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions, particularly popular for Cardiff Airport transfers from Newport and Cardiff.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book an airport transfer?",
+        answer:
+          "We recommend booking at least 1-2 weeks in advance. For peak travel periods (school holidays, Christmas, summer), book 3-4 weeks ahead. Most operators accept bookings up to 48 hours before travel.",
+      },
+      {
+        question: "What happens if my flight is delayed?",
+        answer:
+          "Most professional operators monitor flight arrivals and will adjust your pickup time accordingly at no extra charge. Always provide your flight number when booking so the operator can track it.",
+      },
+      {
+        question: "Can I book a return airport transfer?",
+        answer:
+          "Yes. Most operators offer discounted rates when you book both outbound and return transfers together. This is the most convenient option as you have transport arranged for both ends of your trip.",
+      },
+      {
+        question: "How long does it take to get to Cardiff Airport from Swansea?",
+        answer:
+          "Cardiff Airport is approximately 60-75 minutes from Swansea by minibus via the M4. From Cardiff city centre, the journey is around 20-30 minutes. From Newport, allow around 30-40 minutes depending on traffic.",
+      },
+    ],
+    relatedLocations: [
+      "cardiff",
+      "swansea",
+      "newport",
+      "wrexham",
+      "bangor",
+    ],
+    keywords: [
+      "airport transfer wales",
+      "minibus hire cardiff airport",
+      "airport transfer cardiff",
+      "cardiff airport minibus",
+    ],
+  },
+  {
+    slug: "16-seater-minibus-hire-wales",
+    title: "16 Seater Minibus Hire Wales",
+    metaTitle:
+      "16 Seater Minibus Hire Wales | Cardiff, Swansea & More (2026)",
+    metaDescription:
+      "Find 16 seater minibus hire across Wales. Compare prices and operators in Cardiff, Swansea, Newport, Wrexham, Bangor and surrounding areas.",
+    h1: "16 Seater Minibus Hire in Wales",
+    intro:
+      "A 16-seater minibus is the most popular size for group travel in Wales. Whether you need transport for a wedding party, sports team, corporate event or day trip to the coast, a 16-seater offers the perfect balance of capacity and comfort. Compare 16-seater minibus operators across Cardiff, Swansea, Newport, Wrexham, Bangor and the wider region.",
+    sections: [
+      {
+        heading: "Why Choose a 16-Seater Minibus?",
+        content:
+          "A 16-seater minibus is the most versatile group transport option. It is large enough to carry a decent-sized group in comfort but small enough to navigate narrow lanes in historic towns like Conwy, Cardiff's busy city centre streets, or the rural villages of Snowdonia and the Brecon Beacons. They are typically Mercedes Sprinters or Ford Transit minibuses with high roofs, air conditioning, and luggage space. Many also come with USB charging points and reclining seats for longer journeys.",
+      },
+      {
+        heading: "How Much Does 16-Seater Minibus Hire Cost?",
+        content:
+          "In Wales, 16-seater minibus hire with a driver typically costs between £160 and £360 depending on the journey. A local transfer within Cardiff, Swansea or Newport starts from around £80-£160. A full day hire (8-10 hours) usually costs £240-£400. Airport transfers to Cardiff Airport are typically £70-£160 depending on distance. Prices include a professional driver, insurance and VAT.",
+      },
+      {
+        heading: "Common Uses for 16-Seater Minibuses",
+        content:
+          "The most common bookings for 16-seater minibuses in Wales include wedding guest transport between ceremony and reception venues, airport transfers to Cardiff Airport, sports team transport to fixtures across the region, corporate events and conference shuttle services, school trips and educational visits, nights out in Cardiff, Swansea or Newport, and day trips to destinations like Snowdonia, the Brecon Beacons, or the Pembrokeshire Coast.",
+      },
+      {
+        heading: "What to Look For in an Operator",
+        content:
+          "When booking a 16-seater minibus, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time, tolls or congestion charges. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features. Professional operators will have full PSV licensing, comprehensive insurance, and DBS-checked drivers.",
+      },
+      {
+        heading: "Popular Routes for 16-Seater Minibuses",
+        content:
+          "Wales offers a huge variety of destinations well suited to 16-seater minibus travel. Popular routes include Cardiff to Cardiff Airport, Swansea to the Gower Peninsula, Cardiff to the Brecon Beacons, Bangor to Snowdonia, and Newport to the Wye Valley. For corporate clients, routes between Welsh cities and conference venues in Cardiff and Swansea are in high demand. Sports teams regularly book for fixtures across Welsh league competitions.",
+      },
+    ],
+    faq: [
+      {
+        question: "Can I drive a 16-seater minibus myself?",
+        answer:
+          "Only if you hold a D1 licence category. A standard car licence only covers vehicles with up to 8 passenger seats. If you passed your test before 1 January 1997, you may already have D1 on your licence.",
+      },
+      {
+        question: "How much luggage can a 16-seater carry?",
+        answer:
+          "Most 16-seater minibuses have a rear luggage area that can hold around 10-12 medium suitcases. For airport transfers with a full group, ask the operator about luggage capacity as you may need a vehicle with a trailer or separate luggage van.",
+      },
+      {
+        question: "Are 16-seater minibuses wheelchair accessible?",
+        answer:
+          "Not all 16-seaters are wheelchair accessible. If you need a wheelchair-accessible vehicle, mention this when booking. Some operators have adapted vehicles with ramps or lifts, though the passenger capacity may be reduced.",
+      },
+      {
+        question: "What is the difference between a minibus and a coach?",
+        answer:
+          "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+    ],
+    relatedLocations: [
+      "cardiff",
+      "swansea",
+      "newport",
+      "wrexham",
+      "bangor",
+    ],
+    keywords: [
+      "16 seater minibus hire wales",
+      "16 seater minibus hire cardiff",
+      "16 seater minibus hire swansea",
+    ],
+  },
+  {
+    slug: "wedding-coach-hire-wales",
+    title: "Wedding Coach Hire Wales",
+    metaTitle:
+      "Wedding Coach & Minibus Hire Wales | Guest Transport (2026)",
+    metaDescription:
+      "Find wedding coach and minibus hire in Wales. Transport your guests between ceremony, reception and hotels across Cardiff, Swansea, Newport, the Valleys and more.",
+    h1: "Wedding Coach & Minibus Hire in Wales",
+    intro:
+      "Your wedding day transport needs to be reliable, comfortable and stress-free. Whether you need a luxury coach for 50 guests or a minibus shuttle between your ceremony and reception venue, we list wedding transport specialists across Wales. Compare operators, check reviews, and get quotes for your big day.",
+    sections: [
+      {
+        heading: "Why Hire Wedding Transport?",
+        content:
+          "Arranging group transport for your wedding guests takes the stress out of the day for everyone. No one needs to worry about parking, designated drivers or finding the venue. A coach or minibus can shuttle guests between the ceremony, reception and hotels, keeping your day running on time. It is especially important for Welsh weddings at rural venues in the Brecon Beacons, along the Pembrokeshire coast, or in the valleys where public transport is limited and country lanes can be tricky to navigate.",
+      },
+      {
+        heading: "Wedding Transport Options",
+        content:
+          "The most popular wedding transport options in Wales are: luxury coaches seating 30-50 guests, ideal for transporting the majority of your wedding party in style. Standard minibuses seating 16-24 guests are great for smaller weddings or as a shuttle between nearby venues. Executive minibuses with leather seats and tinted windows add a premium feel. Vintage buses are available from some operators for couples wanting a unique, retro look. Many couples book multiple vehicles to cover different routes and pickup points.",
+      },
+      {
+        heading: "Planning Your Wedding Transport",
+        content:
+          "Start by working out how many guests need transport and where they are coming from. Common arrangements include morning transport from guest hotels to the ceremony venue, an afternoon shuttle from the ceremony to the reception (if at different venues), and an evening return service from the reception to hotels or key drop-off points. Share the transport schedule with guests on your wedding website or with the invitations so everyone knows pickup times and locations.",
+      },
+      {
+        heading: "Popular Wedding Venues and Routes",
+        content:
+          "Wales has stunning wedding venues from grand castles to coastal locations. Popular routes for wedding coaches include: Cardiff city centre hotels to Vale of Glamorgan venues, Swansea hotels to Gower Peninsula locations, Newport hotels to Monmouthshire countryside estates, Bangor and Llandudno hotels to Snowdonia venues, and the South Wales Valleys to Brecon Beacons lodges. An experienced local operator will know these routes and can advise on timing and logistics.",
+      },
+      {
+        heading: "How Much Does Wedding Transport Cost?",
+        content:
+          "Wedding coach hire in Wales typically costs £300-£550 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £180-£350. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £130-£300 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
+      },
+    ],
+    faq: [
+      {
+        question:
+          "How far in advance should I book wedding transport?",
+        answer:
+          "Book as early as possible, ideally 6-12 months before your wedding date. Wales is a popular region for weddings, particularly in Pembrokeshire, the Gower and Snowdonia, so popular dates (Saturdays in summer) get booked up very quickly. Once you have your venue confirmed, transport should be one of the next things you arrange.",
+      },
+      {
+        question: "Can the coach be decorated for a wedding?",
+        answer:
+          "Many operators will add ribbons, bows and 'Just Married' signs at no extra cost. Some offer more elaborate decorations. Discuss your requirements when booking and they will do their best to accommodate.",
+      },
+      {
+        question: "What if our ceremony and reception are at the same venue?",
+        answer:
+          "You may still want transport for guests from their hotels to the venue and back in the evening. A shuttle service at the end of the night ensures guests get home safely and means everyone can enjoy themselves without worrying about driving.",
+      },
+      {
+        question: "Can we make multiple stops?",
+        answer:
+          "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+    ],
+    relatedLocations: [
+      "cardiff",
+      "swansea",
+      "newport",
+      "wrexham",
+      "bangor",
+    ],
+    keywords: [
+      "wedding coach hire wales",
+      "wedding minibus hire cardiff",
+      "wedding transport swansea",
+      "wedding coach hire south wales",
+    ],
+  },
+];
+
 function getGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
@@ -3104,6 +3838,8 @@ function getGuides(): Guide[] {
   if (id === "east") return EA_GUIDES;
   if (id === "london") return LN_GUIDES;
   if (id === "southeast") return SE_GUIDES;
+  if (id === "southwest") return SW_GUIDES;
+  if (id === "wales") return WL_GUIDES;
   return NE_GUIDES;
 }
 
