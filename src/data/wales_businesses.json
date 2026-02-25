@@ -9,12 +9,16 @@
     "rating": 5,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5451456,
     "lng": -3.266186,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "enquiries@jrhouse.co.uk",
+    "emails": [
+      "enquiries@jrhouse.co.uk"
+    ]
   },
   {
     "name": "Bus4U Travel Minibus Hire",
@@ -31,7 +35,8 @@
     "lat": 51.4797507,
     "lng": -3.1534254,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "description": "Looking for minibus hire in Cardiff? Bus4U Travel offers professional chauffeur-driven minibuses from 1 to 16 seats. Airport transfers, weddings, events & more across Cardiff & South Wales. Get a free quote today."
   },
   {
     "name": "Roy's Travels Minibus Hire",
@@ -43,12 +48,18 @@
     "rating": 5,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5028123,
     "lng": -3.1233334,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "info@roystravels.co.uk",
+    "emails": [
+      "info@roystravels.co.uk",
+      "user@domain.com"
+    ],
+    "description": "Cardiff minibus hire. High quality 7-16 seater minibuses for hire in Cardiff & South Wales. Unbeatable customer service at competitive prices. Get a free quote today."
   },
   {
     "name": "CMB Minibus Hire",
@@ -60,12 +71,13 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 10:00 AM – 2:00 PM; Sunday: 10:00 AM – 2:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4797507,
     "lng": -3.1534254,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "description": "Professional minibus hire Cardiff with driver. 8-16 seater minibuses available 24/7. Specialising in airport transfers, corporate travel & group transport across South Wales."
   },
   {
     "name": "JJ's Minibus Hire",
@@ -82,7 +94,14 @@
     "lat": 51.4809414,
     "lng": -3.1503549,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Minibus hire in Cardiff is leading firms for cheap minibus and coach hire in Cardiff and Wales. We offer 8,12,16,24 seater minibuses right up to the 33 to 49 seater coaches all with driver. A great company to use locally for the best experience."
   },
   {
     "name": "Ferris Coach Hire",
@@ -94,12 +113,17 @@
     "rating": 4.7,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5564172,
     "lng": -3.270363,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "info@ferriscoachhire.co.uk",
+    "emails": [
+      "info@ferriscoachhire.co.uk"
+    ],
+    "description": "Ferris Coach Hire Cardiff. Luxury coach hire services throughout South Wales, the UK and Europe. Experience comfort and style with our executive coaches."
   },
   {
     "name": "Bradford's Minibus & Coach Hire",
@@ -128,12 +152,16 @@
     "rating": 4.3,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5683224,
     "lng": -3.2848201,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "enquiries@jrhouse.co.uk",
+    "emails": [
+      "enquiries@jrhouse.co.uk"
+    ]
   },
   {
     "name": "Apollo Minibus & Coach Hire Ltd",
@@ -145,12 +173,16 @@
     "rating": 3.4,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 PM – 12:00 AM; Tuesday: 12:00 AM – 4:45 PM, 7:30 PM – 12:00 AM; Wednesday: 12:00 AM – 4:45 PM, 7:30 PM – 12:00 AM; Thursday: 12:00 AM – 4:45 PM, 7:30 PM – 12:00 AM; Friday: 12:00 AM – 4:45 PM, 7:30 PM – 12:00 AM; Saturday: 12:00 AM – 4:45 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fPM\u2009\u2013\u200912:00\u202fAM; Tuesday: 12:00\u202fAM\u2009\u2013\u20094:45\u202fPM, 7:30\u202fPM\u2009\u2013\u200912:00\u202fAM; Wednesday: 12:00\u202fAM\u2009\u2013\u20094:45\u202fPM, 7:30\u202fPM\u2009\u2013\u200912:00\u202fAM; Thursday: 12:00\u202fAM\u2009\u2013\u20094:45\u202fPM, 7:30\u202fPM\u2009\u2013\u200912:00\u202fAM; Friday: 12:00\u202fAM\u2009\u2013\u20094:45\u202fPM, 7:30\u202fPM\u2009\u2013\u200912:00\u202fAM; Saturday: 12:00\u202fAM\u2009\u2013\u20094:45\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4850162,
     "lng": -3.2323523,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "admin@apollominibus.co.uk",
+    "emails": [
+      "admin@apollominibus.co.uk"
+    ]
   },
   {
     "name": "A&B Coach Travel Ltd",
@@ -162,12 +194,17 @@
     "rating": 3,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 7:00 PM; Tuesday: 6:00 AM – 7:00 PM; Wednesday: 6:00 AM – 7:00 PM; Thursday: 6:00 AM – 7:00 PM; Friday: 6:00 AM – 7:00 PM; Saturday: 6:00 AM – 5:00 PM; Sunday: 6:00 AM – 3:30 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 6:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.4727452,
     "lng": -3.2357195,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "info@abcoaches.co.uk",
+    "emails": [
+      "info@abcoaches.co.uk"
+    ],
+    "description": "A&B Coaches is a family run coach and minibus service throughout cardiff and the valleys. Please visit us today to book your coach hire cardiff"
   },
   {
     "name": "Adventure Coachlines",
@@ -179,12 +216,17 @@
     "rating": 4.9,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.4712251,
     "lng": -3.1424856,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "sales@adventuretravel.cymru",
+    "emails": [
+      "sales@adventuretravel.cymru"
+    ],
+    "description": "Plan your private, group or corporate coach hire in South Wales with Adventure Coach Lines. Modern fleet and professional service."
   },
   {
     "name": "Minibus Hire Newport",
@@ -201,7 +243,14 @@
     "lat": 51.599277,
     "lng": -2.9810106,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Welcome to Newport Minibus & Coach Hire Newport offering special rates on minibuses and coaches across Newport. our company can cover all of Newport and the outbound journey to various destination all over the UK. vehicles from 8 to 49 seater come with driver there for you have one less thing to..."
   },
   {
     "name": "Streamline Minibus Hire",
@@ -218,7 +267,12 @@
     "lat": 51.4836627,
     "lng": -3.1671099,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "info@minibusescardiff.co.uk",
+    "emails": [
+      "info@minibusescardiff.co.uk"
+    ],
+    "description": "Minibus Hire Cardiff provides cheap and reliable minibus hire with driver across Cardiff. We offer quality coach hire service and minibus rental in Cardiff for any events."
   },
   {
     "name": "Cavendish Coaches",
@@ -230,7 +284,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5270039,
     "lng": -3.1894016,
@@ -264,12 +318,17 @@
     "rating": 5,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 51.4740767,
     "lng": -3.1589574,
     "found_in_location": "Cardiff",
-    "found_with_query": "minibus hire Cardiff"
+    "found_with_query": "minibus hire Cardiff",
+    "email": "info@ibexshuttle.co.uk",
+    "emails": [
+      "info@ibexshuttle.co.uk"
+    ],
+    "description": "Trust ibex Shuttle Cardiff for efficient and punctual airport taxis to major airports. Book now for reliable chauffeur services, Cheap Cardiff Taxi"
   },
   {
     "name": "cardiff coaches",
@@ -303,7 +362,12 @@
     "lat": 51.4564,
     "lng": -3.360614,
     "found_in_location": "Cardiff",
-    "found_with_query": "coach hire Cardiff"
+    "found_with_query": "coach hire Cardiff",
+    "email": "info@wattscoaches.co.uk",
+    "emails": [
+      "info@wattscoaches.co.uk"
+    ],
+    "description": "Watts Coaches is a family-run business which has been operating since 1963. We operate an impressive fleet ranging from 29 to 85 seats which allows us to offer competitive prices for luxury travel. Operations include Public Services, School Services, Domestic Private Hire and European Private Hire."
   },
   {
     "name": "Cresta Coaches",
@@ -315,12 +379,19 @@
     "rating": 4.3,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 3:00 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5203626,
     "lng": -3.5669168,
     "found_in_location": "Cardiff",
-    "found_with_query": "coach hire Cardiff"
+    "found_with_query": "coach hire Cardiff",
+    "email": "admin@crestacoaches.co.uk",
+    "emails": [
+      "admin@crestacoaches.co.uk",
+      "bookings@crestacoaches.co.uk",
+      "ian.williams@crestacoaches.co.uk"
+    ],
+    "description": "With over 30 years of experience in the travel industry, we can provide transport solutions and days out for people from all walks of life, including children with special needs."
   },
   {
     "name": "Malpas Coach & Minibus",
@@ -337,7 +408,12 @@
     "lat": 51.59614939999999,
     "lng": -3.0030627,
     "found_in_location": "Cardiff",
-    "found_with_query": "coach hire Cardiff"
+    "found_with_query": "coach hire Cardiff",
+    "email": "bookings@malpasminibus.co.uk",
+    "emails": [
+      "bookings@malpasminibus.co.uk"
+    ],
+    "description": "Malpas Minibus Hire have an excellent reputation, with our contracts including local authorities, schools and universities. All of our vehicles are regularly serviced and maintained to a high standard and fully insured. We also provide a 24/7 answer service."
   },
   {
     "name": "Cardiff Coach Station",
@@ -366,12 +442,17 @@
     "rating": 3.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5718048,
     "lng": -2.9726366,
     "found_in_location": "Cardiff",
-    "found_with_query": "coach hire Cardiff"
+    "found_with_query": "coach hire Cardiff",
+    "email": "bookings@starcoachtravel.wales",
+    "emails": [
+      "bookings@starcoachtravel.wales"
+    ],
+    "description": "joining the fleet in 2025 (March) will be our second GT12 coach which will become ST25 TAR and will be the same specification as her sister GT12 TAR (above)"
   },
   {
     "name": "Harrys Minibus Hire",
@@ -417,12 +498,17 @@
     "rating": 4.7,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5200314,
     "lng": -3.0896461,
     "found_in_location": "Cardiff",
-    "found_with_query": "party bus hire Cardiff"
+    "found_with_query": "party bus hire Cardiff",
+    "email": "info@gamestationbus.co.uk",
+    "emails": [
+      "info@gamestationbus.co.uk"
+    ],
+    "description": "# SOUTH WALES & SURROUNDING AREAS ULTIMATE GAMING BUSTO YOUR DOOR! ENQUIRE CALL NOW Level Up Your Party on Wheels Bring the ultimate gaming experience straight to your doorstep. Our fully-equipped gaming bus is perfect for birthdays, events, and epic battles on the go. BOOK NOW Level Up Your..."
   },
   {
     "name": "Murray's Minibus Hire",
@@ -439,10 +525,18 @@
     "lat": 51.695755,
     "lng": -3.0512773,
     "found_in_location": "Cardiff",
-    "found_with_query": "16 seater minibus hire Cardiff"
+    "found_with_query": "16 seater minibus hire Cardiff",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "info@murraysminibushire.co.uk",
+      "murrays.j@yahoo.com"
+    ],
+    "description": "At Murray\u2019s Mini Bus Hire, we specialise in minibus and coach hire for all occasions \u2013 whether it\u2019s a wedding, airport transfer, sports event, or group outing. With over 17 years in business and a trusted family-run team, we\u2019ve built a reputation for reliable, friendly, and flexible transport..."
   },
   {
-    "name": "Morgan’s Minibus and airport shuttle service",
+    "name": "Morgan\u2019s Minibus and airport shuttle service",
     "address": "Load of Hay Rd, Newbridge, Newport NP11 3AQ, UK",
     "phone": "07500 375935",
     "international_phone": "+44 7500 375935",
@@ -451,7 +545,7 @@
     "rating": 5,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 7:00 PM; Tuesday: 10:00 AM – 7:00 PM; Wednesday: 10:00 AM – 7:00 PM; Thursday: 10:00 AM – 7:00 PM; Friday: 10:00 AM – 7:00 PM; Saturday: 10:00 AM – 7:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6843406,
     "lng": -3.1488397,
@@ -473,7 +567,14 @@
     "lat": 51.70111559999999,
     "lng": -3.4277308,
     "found_in_location": "Cardiff",
-    "found_with_query": "16 seater minibus hire Cardiff"
+    "found_with_query": "16 seater minibus hire Cardiff",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "eddieminibus@aol.com"
+    ],
+    "description": "16-seater minibus hire serving many locations in the UK. Edward's Minibuses, based in Aberdare, provides a hire service and ensures every journey is smooth."
   },
   {
     "name": "Heritage Minibus Services",
@@ -493,7 +594,7 @@
     "found_with_query": "16 seater minibus hire Cardiff"
   },
   {
-    "name": "K&H Travel — Minibus Hire | Airports | Weddings | Events",
+    "name": "K&H Travel \u2014 Minibus Hire | Airports | Weddings | Events",
     "address": "89 Woodside Dr, Newbridge, Newport NP11 4NP, UK",
     "phone": "07951 605085",
     "international_phone": "+44 7951 605085",
@@ -507,7 +608,12 @@
     "lat": 51.6635594,
     "lng": -3.159487,
     "found_in_location": "Cardiff",
-    "found_with_query": "wedding minibus hire Cardiff"
+    "found_with_query": "wedding minibus hire Cardiff",
+    "email": "info@kandhtravel.com",
+    "emails": [
+      "info@kandhtravel.com"
+    ],
+    "description": "Travel in comfort and style with luxury minibus hire from K&H Travel."
   },
   {
     "name": "Mainline Coaches Ltd",
@@ -519,12 +625,16 @@
     "rating": 4.2,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5913164,
     "lng": -3.4769158,
     "found_in_location": "Cardiff",
-    "found_with_query": "corporate coach hire Cardiff"
+    "found_with_query": "corporate coach hire Cardiff",
+    "email": "info@mainlinecoaches.co.uk",
+    "emails": [
+      "info@mainlinecoaches.co.uk"
+    ]
   },
   {
     "name": "Swansea Minibus Hire Ltd 1024207",
@@ -536,12 +646,13 @@
     "rating": 4.7,
     "total_reviews": 86,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.63250859999999,
     "lng": -3.9490632,
     "found_in_location": "Swansea",
-    "found_with_query": "minibus hire Swansea"
+    "found_with_query": "minibus hire Swansea",
+    "description": "Our 8 seater and 16 seater minibus hire is great for anights out in swansea, airport transfers, corporate events,school trips & more."
   },
   {
     "name": "Veeboono Minibus Hire & Transfers",
@@ -558,7 +669,12 @@
     "lat": 51.6488152,
     "lng": -3.9950313,
     "found_in_location": "Swansea",
-    "found_with_query": "minibus hire Swansea"
+    "found_with_query": "minibus hire Swansea",
+    "email": "sales@veeboono-minibus-hire-wales.co.uk",
+    "emails": [
+      "sales@veeboono-minibus-hire-wales.co.uk"
+    ],
+    "description": "Veeboono Minibus Hire and Transfers are a company based in Swansea, South Wales. We have professional and qualified drivers who are polite, trustworthy and on time."
   },
   {
     "name": "Cymru Coaches",
@@ -570,12 +686,13 @@
     "rating": 3.4,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:30 PM; Tuesday: 8:00 AM – 4:30 PM; Wednesday: 8:00 AM – 4:30 PM; Thursday: 8:00 AM – 4:30 PM; Friday: 8:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6435828,
     "lng": -4.017962499999999,
     "found_in_location": "Swansea",
-    "found_with_query": "coach hire Swansea"
+    "found_with_query": "coach hire Swansea",
+    "description": "Cymru Coaches in Swansea have luxury coaches for hire in Glamorgan and across Wales. Cymru Coaches provide private coach hire across the UK."
   },
   {
     "name": "Davies Coaches Ltd.",
@@ -587,12 +704,18 @@
     "rating": 3.9,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7732962,
     "lng": -4.067921699999999,
     "found_in_location": "Swansea",
-    "found_with_query": "coach hire Swansea"
+    "found_with_query": "coach hire Swansea",
+    "email": "auditofficedaviescoaches@gmail.com",
+    "emails": [
+      "auditofficedaviescoaches@gmail.com",
+      "daviescoachessouthwales@outlook.com"
+    ],
+    "description": "Based in Carmarthenshire West Wales, specialists in Day Trips, Tours and School Transport. You can rest assured that you will have a lovely time travelling with Davies Coaches for all types of short trips, day tours and extended breaks."
   },
   {
     "name": "D J Thomas Coaches Ltd",
@@ -604,7 +727,7 @@
     "rating": 4.2,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6640369,
     "lng": -3.8033147,
@@ -621,12 +744,20 @@
     "rating": 4.9,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5818789,
     "lng": -3.7696624,
     "found_in_location": "Swansea",
-    "found_with_query": "coach hire Swansea"
+    "found_with_query": "coach hire Swansea",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "For minibus hire contact Ridgways Coaches, a trusted coach travel company in Port Talbot for first class coach hire. Contact us today for more information."
   },
   {
     "name": "Coastal Mini Coaches",
@@ -638,7 +769,7 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6869354,
     "lng": -4.2695096,
@@ -655,7 +786,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6781471,
     "lng": -3.7637415,
@@ -672,7 +803,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 10:00 PM; Tuesday: 8:30 AM – 10:00 PM; Wednesday: 8:30 AM – 10:00 PM; Thursday: 8:30 AM – 10:00 PM; Friday: 8:30 AM – 10:00 PM; Saturday: 8:30 AM – 10:00 PM; Sunday: 8:30 AM – 10:00 PM",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM; Sunday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6656212,
     "lng": -3.9100679,
@@ -689,7 +820,7 @@
     "rating": 4.5,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6640143,
     "lng": -3.8032903,
@@ -706,12 +837,18 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 3:00 PM; Tuesday: 9:00 AM – 3:00 PM; Wednesday: 9:00 AM – 3:00 PM; Thursday: 9:00 AM – 3:00 PM; Friday: 9:00 AM – 3:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6393327,
     "lng": -4.1266185,
     "found_in_location": "Swansea",
-    "found_with_query": "coach hire Swansea"
+    "found_with_query": "coach hire Swansea",
+    "email": "auditofficedaviescoaches@gmail.com",
+    "emails": [
+      "auditofficedaviescoaches@gmail.com",
+      "daviescoachessouthwales@outlook.com"
+    ],
+    "description": "Based in Carmarthenshire West Wales, specialists in Day Trips, Tours and School Transport. You can rest assured that you will have a lovely time travelling with Davies Coaches for all types of short trips, day tours and extended breaks."
   },
   {
     "name": "C & G Coaches",
@@ -740,12 +877,13 @@
     "rating": 4.9,
     "total_reviews": 428,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:00 PM; Tuesday: 9:00 AM – 4:00 PM; Wednesday: 9:00 AM – 4:00 PM; Thursday: 9:00 AM – 4:00 PM; Friday: 9:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.8877415,
     "lng": -3.9886451,
     "found_in_location": "Swansea",
-    "found_with_query": "corporate coach hire Swansea"
+    "found_with_query": "corporate coach hire Swansea",
+    "description": "With over 40 years in the business, we at Jones International specialise in providing quality short breaks and holidays to customers across South Wales."
   },
   {
     "name": "Brian's Bus",
@@ -779,7 +917,8 @@
     "lat": 51.5861126,
     "lng": -2.9640357,
     "found_in_location": "Newport",
-    "found_with_query": "minibus hire Newport"
+    "found_with_query": "minibus hire Newport",
+    "description": "From a Reliable Trustworthy Minibus Hire Company in South East Wales 01633 664041"
   },
   {
     "name": "Jak's Minibus Hire",
@@ -796,7 +935,12 @@
     "lat": 51.5939163,
     "lng": -2.9799108,
     "found_in_location": "Newport",
-    "found_with_query": "minibus hire Newport"
+    "found_with_query": "minibus hire Newport",
+    "email": "jaksminibus@hotmail.co.uk",
+    "emails": [
+      "jaksminibus@hotmail.co.uk"
+    ],
+    "description": "Services Vehicles Covid-19 Contact Us Jak's Minibus is a local, family-run business that has been operating from Newport, South Wales for the past 11 years. We are proud to provide: Professional, experienced driversDBS checked driversClean, modern vehicles We provide a reliable, trustworthy and..."
   },
   {
     "name": "Phil Anslow Coach Hire Pontypool",
@@ -808,12 +952,17 @@
     "rating": 3.8,
     "total_reviews": 73,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:30 PM; Tuesday: 9:00 AM – 4:30 PM; Wednesday: 9:00 AM – 4:30 PM; Thursday: 9:00 AM – 4:30 PM; Friday: 9:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 51.7437324,
     "lng": -3.067928,
     "found_in_location": "Newport",
-    "found_with_query": "coach hire Newport"
+    "found_with_query": "coach hire Newport",
+    "email": "philanslowcoaches@outlook.com",
+    "emails": [
+      "philanslowcoaches@outlook.com"
+    ],
+    "description": "Phil Anslow & Sons Coaches are reputable for coaches in South Wales. We serve areas including Pontypool, Newport and all across South Wales."
   },
   {
     "name": "Howells Coaches Ltd",
@@ -842,12 +991,17 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 9:00 AM – 4:00 PM; Saturday: Closed; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.59098729999999,
     "lng": -2.9892787,
     "found_in_location": "Newport",
-    "found_with_query": "airport transfer minibus Newport"
+    "found_with_query": "airport transfer minibus Newport",
+    "email": "info@ibexshuttle.co.uk",
+    "emails": [
+      "info@ibexshuttle.co.uk"
+    ],
+    "description": "Trust ibex Shuttle Cardiff for efficient and punctual airport taxis to major airports. Book now for reliable chauffeur services, Cheap Cardiff Taxi"
   },
   {
     "name": "Wight Coaches Ltd",
@@ -859,12 +1013,17 @@
     "rating": 4.7,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 50.7127732,
     "lng": -1.2961499,
     "found_in_location": "Newport",
-    "found_with_query": "corporate coach hire Newport"
+    "found_with_query": "corporate coach hire Newport",
+    "email": "info@wightcoaches.co.uk",
+    "emails": [
+      "info@wightcoaches.co.uk"
+    ],
+    "description": "Wight Coaches is a Private Hire coach operator based on the Isle of Wight. We operate a range of modern minibuses and coaches from 16 to 70 seats, meaning no group is too big or too small."
   },
   {
     "name": "London Bus 4 Hire - Monmouthshire, Wales",
@@ -881,7 +1040,14 @@
     "lat": 51.7206638,
     "lng": -2.9226657,
     "found_in_location": "Newport",
-    "found_with_query": "corporate coach hire Newport"
+    "found_with_query": "corporate coach hire Newport",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "info@londonbus4hire.com"
+    ],
+    "description": "We offer vintage Routemaster London Bus hire. Our buses can be used for weddings, proms, corporate hires etc. We also have wedding cars for hire."
   },
   {
     "name": "Dave's Coaches",
@@ -898,7 +1064,12 @@
     "lat": 51.39067379999999,
     "lng": -3.2771649,
     "found_in_location": "Barry",
-    "found_with_query": "coach hire Barry"
+    "found_with_query": "coach hire Barry",
+    "email": "info@britmovietours.com",
+    "emails": [
+      "info@britmovietours.com"
+    ],
+    "description": "See what's occurring on the Official Gavin & Stacey Tour in Barry Island! Visit locations like Gwen's house and Nessa's arcade."
   },
   {
     "name": "Local Shuttle Services",
@@ -915,7 +1086,14 @@
     "lat": 51.398585,
     "lng": -3.3391,
     "found_in_location": "Barry",
-    "found_with_query": "airport transfer minibus Barry"
+    "found_with_query": "airport transfer minibus Barry",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "info@localshuttleservices.co.uk",
+      "leeburksfield1@sky.com"
+    ],
+    "description": "Airport, Seaport and bespoke long journey specialist taxi service. Friendly reliable service. Competitive Quotes."
   },
   {
     "name": "S&A Taxis minibus hire",
@@ -932,7 +1110,20 @@
     "lat": 51.5810796,
     "lng": -3.2117449,
     "found_in_location": "Caerphilly",
-    "found_with_query": "minibus hire Caerphilly"
+    "found_with_query": "minibus hire Caerphilly",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c098db2425c540d3982e073ae7fc4c9a@sentry.wixpress.com",
+      "example@mysite.com",
+      "rosserno11@googlemail.com",
+      "rosserseanpaul@gmail.com"
+    ],
+    "description": "Welcome to S&A Taxis, your reliable choice for airport and seaport transfers in Caerphilly. Professional, punctual, and customer-focused. Book now!"
   },
   {
     "name": "Streetcars wales Taxi & Minibus service",
@@ -966,7 +1157,11 @@
     "lat": 51.60584919999999,
     "lng": -3.3561656,
     "found_in_location": "Caerphilly",
-    "found_with_query": "minibus hire Caerphilly"
+    "found_with_query": "minibus hire Caerphilly",
+    "email": "webmaster@buddyshire.co.uk",
+    "emails": [
+      "webmaster@buddyshire.co.uk"
+    ]
   },
   {
     "name": "Harris Coaches (Pengam) Ltd",
@@ -978,12 +1173,13 @@
     "rating": 2.8,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 7:30 PM; Tuesday: 6:00 AM – 7:30 PM; Wednesday: 6:00 AM – 7:30 PM; Thursday: 6:00 AM – 7:30 PM; Friday: 6:00 AM – 5:00 PM; Saturday: 6:00 AM – 7:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM; Friday: 6:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 6:00\u202fAM\u2009\u2013\u20097:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6847449,
     "lng": -3.2154432,
     "found_in_location": "Caerphilly",
-    "found_with_query": "coach hire Caerphilly"
+    "found_with_query": "coach hire Caerphilly",
+    "description": "From Saturday 1st March 2025 there will be a change to the cost of Network Rider tickets. Please click the link below for more"
   },
   {
     "name": "Gibbons Coaches",
@@ -995,12 +1191,17 @@
     "rating": 4.4,
     "total_reviews": 101,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 4:30 PM; Tuesday: 9:30 AM – 4:30 PM; Wednesday: 9:30 AM – 4:30 PM; Thursday: 9:30 AM – 4:30 PM; Friday: 9:30 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7037834,
     "lng": -3.3113939,
     "found_in_location": "Caerphilly",
-    "found_with_query": "coach hire Caerphilly"
+    "found_with_query": "coach hire Caerphilly",
+    "email": "info@gibbonscoaches.com",
+    "emails": [
+      "info@gibbonscoaches.com"
+    ],
+    "description": "Gibbons Coaches is a well-established family run business based in South Wales specialising in Coach Holidays, Coach Hire and Day Trips."
   },
   {
     "name": "Edwards Minibus Hire",
@@ -1017,10 +1218,17 @@
     "lat": 51.6975527,
     "lng": -3.4209055,
     "found_in_location": "Caerphilly",
-    "found_with_query": "16 seater minibus hire Caerphilly"
+    "found_with_query": "16 seater minibus hire Caerphilly",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "eddieminibus@aol.com"
+    ],
+    "description": "16-seater minibus hire serving many locations in the UK. Edward's Minibuses, based in Aberdare, provides a hire service and ensures every journey is smooth."
   },
   {
-    "name": "Karl’s minibuses",
+    "name": "Karl\u2019s minibuses",
     "address": "4 Adams St, Tonypandy CF40 2DU, UK",
     "phone": "07903 128899",
     "international_phone": "+44 7903 128899",
@@ -1046,12 +1254,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.7596477,
     "lng": -3.360596,
     "found_in_location": "Caerphilly",
-    "found_with_query": "corporate coach hire Caerphilly"
+    "found_with_query": "corporate coach hire Caerphilly",
+    "description": "1st Call Travel Ltd is your trusted transport company in Merthyr Tydfil, offering reliable minibus and coach hire services for schools, events, and more."
   },
   {
     "name": "Edwards Coaches - Abercynon Depot",
@@ -1068,7 +1277,25 @@
     "lat": 51.6556995,
     "lng": -3.3368935,
     "found_in_location": "Caerphilly",
-    "found_with_query": "corporate coach hire Caerphilly"
+    "found_with_query": "corporate coach hire Caerphilly",
+    "email": "bristol@edwardscoaches.co.uk",
+    "emails": [
+      "bristol@edwardscoaches.co.uk",
+      "coachhire@edwardscoaches.co.uk",
+      "contracts@edwardscoaches.co.uk",
+      "engineering@edwardscoaches.co.uk",
+      "finance@edwardscoaches.co.uk",
+      "groups@edwardscoaches.co.uk",
+      "hr@edwardscoaches.co.uk",
+      "info@edwardscoaches.co.uk",
+      "localservice@edwardscoaches.co.uk",
+      "lostproperty@edwardscoaches.co.uk",
+      "marketing@edwardscoaches.co.uk",
+      "reservations@edwardscoaches.co.uk",
+      "schooltransport@edwardscoaches.co.uk",
+      "webbookings@edwardscoaches.co.uk"
+    ],
+    "description": "Have a question about holidays, coach hire, or school trips? Contact Edwards Coaches by phone, email, or online for we\u2019re here to help."
   },
   {
     "name": "Harris Coaches (Pengam) Ltd - Bryn Gwyn Depot",
@@ -1085,7 +1312,8 @@
     "lat": 51.6603767,
     "lng": -3.2191909,
     "found_in_location": "Caerphilly",
-    "found_with_query": "corporate coach hire Caerphilly"
+    "found_with_query": "corporate coach hire Caerphilly",
+    "description": "From Saturday 1st March 2025 there will be a change to the cost of Network Rider tickets. Please click the link below for more"
   },
   {
     "name": "V G Jarvis Coaches",
@@ -1114,7 +1342,7 @@
     "rating": 3,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.70903360000001,
     "lng": -3.0558577,
@@ -1131,12 +1359,30 @@
     "rating": 4.7,
     "total_reviews": 66,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.55175209999999,
     "lng": -3.3909164,
     "found_in_location": "Caerphilly",
-    "found_with_query": "corporate coach hire Caerphilly"
+    "found_with_query": "corporate coach hire Caerphilly",
+    "email": "bristol@edwardscoaches.co.uk",
+    "emails": [
+      "bristol@edwardscoaches.co.uk",
+      "coachhire@edwardscoaches.co.uk",
+      "contracts@edwardscoaches.co.uk",
+      "engineering@edwardscoaches.co.uk",
+      "finance@edwardscoaches.co.uk",
+      "groups@edwardscoaches.co.uk",
+      "hr@edwardscoaches.co.uk",
+      "info@edwardscoaches.co.uk",
+      "localservice@edwardscoaches.co.uk",
+      "lostproperty@edwardscoaches.co.uk",
+      "marketing@edwardscoaches.co.uk",
+      "reservations@edwardscoaches.co.uk",
+      "schooltransport@edwardscoaches.co.uk",
+      "webbookings@edwardscoaches.co.uk"
+    ],
+    "description": "Travel with Edwards Coaches \u2013 trusted since 1925. From UK & European coach holidays to private hire, schools and events! Simply The Best Way To Get Away!"
   },
   {
     "name": "Keepings Coaches",
@@ -1148,12 +1394,17 @@
     "rating": 2.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:30 AM – 2:30 PM; Tuesday: 9:30 AM – 2:30 PM; Wednesday: 9:30 AM – 2:30 PM; Thursday: 9:30 AM – 2:30 PM; Friday: 9:30 AM – 2:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:30\u202fAM\u2009\u2013\u20092:30\u202fPM; Tuesday: 9:30\u202fAM\u2009\u2013\u20092:30\u202fPM; Wednesday: 9:30\u202fAM\u2009\u2013\u20092:30\u202fPM; Thursday: 9:30\u202fAM\u2009\u2013\u20092:30\u202fPM; Friday: 9:30\u202fAM\u2009\u2013\u20092:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.70015069999999,
     "lng": -3.4218178,
     "found_in_location": "Caerphilly",
-    "found_with_query": "corporate coach hire Caerphilly"
+    "found_with_query": "corporate coach hire Caerphilly",
+    "email": "enquiries@keepingscoaches.co.uk",
+    "emails": [
+      "enquiries@keepingscoaches.co.uk"
+    ],
+    "description": "Facebook Linkedin enquiries@keepingscoaches.co.uk 01443 478409 Welcome to Keepings Coaches Providing quality coach and minibus travel in South Wales GET A"
   },
   {
     "name": "Thomas Coaches Ltd",
@@ -1165,7 +1416,7 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.6077178,
     "lng": -3.5415745,
@@ -1182,12 +1433,17 @@
     "rating": 3.7,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:00 AM – 11:30 PM; Tuesday: 6:00 AM – 11:30 PM; Wednesday: 6:00 AM – 11:30 PM; Thursday: 6:00 AM – 11:30 PM; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 6:00 AM – 11:30 PM",
+    "opening_hours": "Monday: 6:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Tuesday: 6:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Wednesday: 6:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Thursday: 6:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 6:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5412462,
     "lng": -3.5982015,
     "found_in_location": "Bridgend",
-    "found_with_query": "minibus hire Bridgend"
+    "found_with_query": "minibus hire Bridgend",
+    "email": "villagebus@btconnect.com",
+    "emails": [
+      "villagebus@btconnect.com"
+    ],
+    "description": "TJ Taxis provides taxi and minibus services in and around Bridgend. Based near junction 36 of the M4. Casual and private hire, business and school contracts. A family owned business."
   },
   {
     "name": "James' Taxis & Minibuses",
@@ -1204,7 +1460,12 @@
     "lat": 51.517883,
     "lng": -3.702429999999999,
     "found_in_location": "Bridgend",
-    "found_with_query": "minibus hire Bridgend"
+    "found_with_query": "minibus hire Bridgend",
+    "email": "bookings@jamestaxis.co.uk",
+    "emails": [
+      "bookings@jamestaxis.co.uk"
+    ],
+    "description": "For taxi hire, minibus hire, airport transfers and long distance travel, call James Taxis and Minibuses of Porthcawl. Contact us on 07585 557 315"
   },
   {
     "name": "G T Mini Bus Hire",
@@ -1267,7 +1528,7 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 4:00 PM; Tuesday: 8:00 AM – 4:00 PM; Wednesday: 8:00 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.614425,
     "lng": -3.667957,
@@ -1318,12 +1579,13 @@
     "rating": 4.6,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 11:00 PM; Tuesday: 10:00 AM – 11:30 PM; Wednesday: 10:00 AM – 11:30 PM; Thursday: 10:00 AM – 11:30 PM; Friday: 11:00 AM – 3:00 AM; Saturday: 11:00 AM – 3:00 AM; Sunday: 10:00 AM – 11:30 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM; Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM; Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM; Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.5857633,
     "lng": -3.3116958,
     "found_in_location": "Pontypridd",
-    "found_with_query": "airport transfer minibus Pontypridd"
+    "found_with_query": "airport transfer minibus Pontypridd",
+    "description": "Easy shuttle Pontypridd Taxi Services offering taxi services, private hire and airport transfers in Pontypridd, Cardiff, the Rhondda and South Wales."
   },
   {
     "name": "Brent Thomas Coaches Ltd",
@@ -1335,7 +1597,7 @@
     "rating": 4.6,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:15 PM; Tuesday: 9:00 AM – 5:15 PM; Wednesday: 9:00 AM – 5:15 PM; Thursday: 9:00 AM – 5:15 PM; Friday: 9:00 AM – 5:15 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:15\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:15\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:15\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:15\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:15\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7465233,
     "lng": -3.3791166,
@@ -1352,12 +1614,19 @@
     "rating": 4.4,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.9436621,
     "lng": -3.3808393,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "coach hire Merthyr Tydfil"
+    "found_with_query": "coach hire Merthyr Tydfil",
+    "email": "accounts@williams-coaches.co.uk",
+    "emails": [
+      "accounts@williams-coaches.co.uk",
+      "office@williams-coaches.co.uk",
+      "user@domain.com"
+    ],
+    "description": "A comprehensive website template framework built with Squarespace 7.1"
   },
   {
     "name": "Keepings Coaches - Hirwaun Depot",
@@ -1374,7 +1643,12 @@
     "lat": 51.7380178,
     "lng": -3.5161539,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "coach hire Merthyr Tydfil"
+    "found_with_query": "coach hire Merthyr Tydfil",
+    "email": "enquiries@keepingscoaches.co.uk",
+    "emails": [
+      "enquiries@keepingscoaches.co.uk"
+    ],
+    "description": "Facebook Linkedin enquiries@keepingscoaches.co.uk 01443 478409 Welcome to Keepings Coaches Providing quality coach and minibus travel in South Wales GET A"
   },
   {
     "name": "Henley's Bus Services Ltd",
@@ -1391,7 +1665,15 @@
     "lat": 51.7376632,
     "lng": -3.1343882,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "coach hire Merthyr Tydfil"
+    "found_with_query": "coach hire Merthyr Tydfil",
+    "email": "katie-coaches@outlook.com",
+    "emails": [
+      "katie-coaches@outlook.com",
+      "sallyanne-coaches@outlook.com",
+      "suehenley-coaches@outlook.com",
+      "user@domain.com"
+    ],
+    "description": "Henley\u2019s coach garage, Victor road, Abertillery, South Wales, NP13 1HUTel 01495 212288"
   },
   {
     "name": "1st Call Travel Executive Coach Hire",
@@ -1442,7 +1724,13 @@
     "lat": 51.82486979999999,
     "lng": -4.813256,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "party bus hire Merthyr Tydfil"
+    "found_with_query": "party bus hire Merthyr Tydfil",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "info@narberth-travel.co.uk"
+    ],
+    "description": "Narberth Travel is a family run bus, coach and limo operator based in the heart of beautiful Pembrokeshire, South West Wales."
   },
   {
     "name": "Davies's Coaches Ltd",
@@ -1459,7 +1747,12 @@
     "lat": 51.6485359,
     "lng": -3.322432,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "party bus hire Merthyr Tydfil"
+    "found_with_query": "party bus hire Merthyr Tydfil",
+    "email": "info@daviescoachesltd.co.uk",
+    "emails": [
+      "info@daviescoachesltd.co.uk"
+    ],
+    "description": "OUR COMPANY FULLY COMPLIES WITH ALL THE LATEST GOVERNMENT GUIDELINES. WE ARE FULLY COVID SECURE AND ALL VEHICLES ARE STERILISED AFTER EVERY EXCURSION."
   },
   {
     "name": "Book 'n' Go Coach Hire Wales",
@@ -1471,12 +1764,18 @@
     "rating": 5,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.818605,
     "lng": -3.016642,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "wedding minibus hire Merthyr Tydfil"
+    "found_with_query": "wedding minibus hire Merthyr Tydfil",
+    "email": "enquiries@book-n-go.co.uk",
+    "emails": [
+      "enquiries@book-n-go.co.uk",
+      "enquiries@letsbookngo.com"
+    ],
+    "description": "Book 'n' Go are a professional London based coach hire company operating across the whole of the UK and Europe."
   },
   {
     "name": "L W Minibuses",
@@ -1505,7 +1804,7 @@
     "rating": 4.7,
     "total_reviews": 153,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.622347,
     "lng": -3.4525679,
@@ -1539,7 +1838,7 @@
     "rating": 1,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 12:00 PM; Tuesday: 9:00 AM – 12:00 PM; Wednesday: 9:00 AM – 12:00 PM; Thursday: 9:00 AM – 12:00 PM; Friday: 9:00 AM – 12:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: 9:00 AM – 12:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 51.70735,
     "lng": -3.035668,
@@ -1556,7 +1855,7 @@
     "rating": 5,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 12:00 AM; Tuesday: 7:00 AM – 12:00 AM; Wednesday: 7:00 AM – 12:00 AM; Thursday: 7:00 AM – 12:00 AM; Friday: 7:00 AM – 12:00 AM; Saturday: 9:00 AM – 12:00 AM; Sunday: 9:00 AM – 12:00 AM",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM; Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
     "types": "establishment, point_of_interest",
     "lat": 51.8632364,
     "lng": -2.930817,
@@ -1675,7 +1974,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 2:30 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6767238,
     "lng": -3.8186616,
@@ -1697,7 +1996,12 @@
     "lat": 51.660751,
     "lng": -3.8040879,
     "found_in_location": "Neath",
-    "found_with_query": "coach hire Neath"
+    "found_with_query": "coach hire Neath",
+    "email": "bluebird-coaches@btconnect.com",
+    "emails": [
+      "bluebird-coaches@btconnect.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Valley Minibus",
@@ -1731,7 +2035,12 @@
     "lat": 51.7193388,
     "lng": -3.8497387,
     "found_in_location": "Neath",
-    "found_with_query": "wedding minibus hire Neath"
+    "found_with_query": "wedding minibus hire Neath",
+    "email": "info@am-taxis.co.uk",
+    "emails": [
+      "info@am-taxis.co.uk"
+    ],
+    "description": "A&M carry children to school, our drivers and assistants are all Checked in accordance with the law and Local Authority to the highest level ( previously known as CRB checks) You can rest assured when you get in to an A&M cab, you sre stepping into safety."
   },
   {
     "name": "DD Mini Bus Hire",
@@ -1828,7 +2137,7 @@
     "rating": 3.8,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 7:00 PM; Tuesday: 7:30 AM – 7:00 PM; Wednesday: 7:30 AM – 7:00 PM; Thursday: 7:30 AM – 7:00 PM; Friday: 7:30 AM – 7:00 PM; Saturday: 8:30 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.9750269,
     "lng": -4.2555498,
@@ -1845,12 +2154,13 @@
     "rating": 4.6,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 51.8505639,
     "lng": -4.3663346,
     "found_in_location": "Port Talbot",
-    "found_with_query": "corporate coach hire Port Talbot"
+    "found_with_query": "corporate coach hire Port Talbot",
+    "description": "Ffoshelig Coaches are one of Carmarthenshire's Premier Coach Operators, offering quality coach hire since 1921. Your local coach hire service."
   },
   {
     "name": "Coracle Coaches",
@@ -1862,12 +2172,17 @@
     "rating": 4.4,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.8480036,
     "lng": -4.328975799999999,
     "found_in_location": "Port Talbot",
-    "found_with_query": "corporate coach hire Port Talbot"
+    "found_with_query": "corporate coach hire Port Talbot",
+    "email": "tours@coraclecoaches.co.uk",
+    "emails": [
+      "tours@coraclecoaches.co.uk"
+    ],
+    "description": "Coracle Coaches West Wales based in Carmarthenshire"
   },
   {
     "name": "Cofia Taxi And Minibus",
@@ -1913,7 +2228,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6828805,
     "lng": -4.1494144,
@@ -1969,7 +2284,13 @@
     "lat": 51.6808241,
     "lng": -4.1634126,
     "found_in_location": "Llanelli",
-    "found_with_query": "coach hire Llanelli"
+    "found_with_query": "coach hire Llanelli",
+    "email": "auditofficedaviescoaches@gmail.com",
+    "emails": [
+      "auditofficedaviescoaches@gmail.com",
+      "daviescoachessouthwales@outlook.com"
+    ],
+    "description": "Based in Carmarthenshire West Wales, specialists in Day Trips, Tours and School Transport. You can rest assured that you will have a lovely time travelling with Davies Coaches for all types of short trips, day tours and extended breaks."
   },
   {
     "name": "Bysiau Cwm Taf Valley Coaches",
@@ -1981,12 +2302,22 @@
     "rating": 4.5,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:30 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.7945411,
     "lng": -4.6232383,
     "found_in_location": "Llanelli",
-    "found_with_query": "corporate coach hire Llanelli"
+    "found_with_query": "corporate coach hire Llanelli",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@tafvalleycoaches.co.uk"
+    ],
+    "description": "Travel in luxury, style and comfort with Bysiau Cwm Taf Valley Coaches, Whitland. Book holidays, private hires, day tours and more with us today! A chosen travel provider for over 3 decades."
   },
   {
     "name": "Avenue Taxis and Minibus",
@@ -2003,7 +2334,12 @@
     "lat": 51.82752929999999,
     "lng": -3.015807,
     "found_in_location": "Abergavenny",
-    "found_with_query": "minibus hire Abergavenny"
+    "found_with_query": "minibus hire Abergavenny",
+    "email": "avenuetaxiandminibus@gmail.com",
+    "emails": [
+      "avenuetaxiandminibus@gmail.com"
+    ],
+    "description": "Abergavenny's No. 1 Taxi and Minibus Service"
   },
   {
     "name": "Ace Travel Minibuses & Taxis",
@@ -2032,12 +2368,22 @@
     "rating": 4.6,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6944093,
     "lng": -4.9266597,
     "found_in_location": "Ebbw Vale",
-    "found_with_query": "corporate coach hire Ebbw Vale"
+    "found_with_query": "corporate coach hire Ebbw Vale",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@tafvalleycoaches.co.uk"
+    ],
+    "description": "Travel in luxury, style and comfort with Bysiau Cwm Taf Valley Coaches, Whitland. Book holidays, private hires, day tours and more with us today! A chosen travel provider for over 3 decades."
   },
   {
     "name": "OEJ Coaches",
@@ -2066,12 +2412,19 @@
     "rating": 3.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 4:30 PM; Tuesday: 10:00 AM – 4:30 PM; Wednesday: 10:00 AM – 4:30 PM; Thursday: 10:00 AM – 4:30 PM; Friday: 10:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.1804845,
     "lng": -2.9256059,
     "found_in_location": "Ebbw Vale",
-    "found_with_query": "corporate coach hire Ebbw Vale"
+    "found_with_query": "corporate coach hire Ebbw Vale",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Welcome to Chester Minibus & Coach Hire chester offering special rates on minibuses and coaches across Chester. We cover North, South ,West and East Chester with our quality vehicle with driver."
   },
   {
     "name": "RST/XO Minibus Hire Ltd",
@@ -2117,12 +2470,17 @@
     "rating": 4.6,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.6317398,
     "lng": -2.6722537,
     "found_in_location": "Caldicot",
-    "found_with_query": "coach hire Caldicot"
+    "found_with_query": "coach hire Caldicot",
+    "email": "chepstowclassic@btconnect.com",
+    "emails": [
+      "chepstowclassic@btconnect.com"
+    ],
+    "description": "Looking for vintage bus hire services in Chepstow? Your search ends at Chepstow Classic Buses. Call to book our beautiful bus for your special event."
   },
   {
     "name": "Custom Coach Ltd",
@@ -2134,12 +2492,17 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: 9:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.5873904,
     "lng": -2.7381486,
     "found_in_location": "Caldicot",
-    "found_with_query": "corporate coach hire Caldicot"
+    "found_with_query": "corporate coach hire Caldicot",
+    "email": "sales@van2camper.co.uk",
+    "emails": [
+      "sales@van2camper.co.uk"
+    ],
+    "description": "Sell your van to Van2Camper. Get a cash offer by completing the valuation form. Mazda Bongo Friendee, Ford Freda, VW Transport and Crafter, Renault Master and Trafic, Vauxhall Vivaro, Nissan Elgrand and Primastar, Citro\u00ebn Dispatch, Fiat Scudo, Peugeot Expert and Ford Transit models considered."
   },
   {
     "name": "Bulwark Bus & Coach Engineering Ltd",
@@ -2151,12 +2514,17 @@
     "rating": 4.9,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest",
     "lat": 51.6312706,
     "lng": -2.6735662,
     "found_in_location": "Caldicot",
-    "found_with_query": "corporate coach hire Caldicot"
+    "found_with_query": "corporate coach hire Caldicot",
+    "email": "bulwarkbusandcoach01291@gmail.com",
+    "emails": [
+      "bulwarkbusandcoach01291@gmail.com"
+    ],
+    "description": "Based in Bulwark, Chepstow we offer full engineering, coach building and all servicing on Buses, Coaches and HGVs. We work with small medium and large companies throughout the South West of England and South Wales. Large enough to cope and small enough to care, we pride ourselves on customer..."
   },
   {
     "name": "Bulwark Bus & Coach Engineering",
@@ -2173,7 +2541,12 @@
     "lat": 51.63211099999999,
     "lng": -2.672074,
     "found_in_location": "Chepstow",
-    "found_with_query": "corporate coach hire Chepstow"
+    "found_with_query": "corporate coach hire Chepstow",
+    "email": "bulwarkbusandcoach01291@gmail.com",
+    "emails": [
+      "bulwarkbusandcoach01291@gmail.com"
+    ],
+    "description": "Based in Bulwark, Chepstow we offer full engineering, coach building and all servicing on Buses, Coaches and HGVs. We work with small medium and large companies throughout the South West of England and South Wales. Large enough to cope and small enough to care, we pride ourselves on customer..."
   },
   {
     "name": "Herdman Coaches Ltd",
@@ -2185,7 +2558,7 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:30 PM; Tuesday: 9:00 AM – 5:30 PM; Wednesday: 9:00 AM – 5:30 PM; Thursday: 9:00 AM – 5:30 PM; Friday: 9:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.02814739999999,
     "lng": -3.2150992,
@@ -2219,7 +2592,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:15 AM – 4:45 PM; Tuesday: 9:15 AM – 4:45 PM; Wednesday: 9:15 AM – 4:45 PM; Thursday: 9:15 AM – 4:45 PM; Friday: 9:15 AM – 4:45 PM; Saturday: 9:15 AM – 4:45 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Tuesday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Wednesday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Thursday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Friday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Saturday: 9:15\u202fAM\u2009\u2013\u20094:45\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, store",
     "lat": 51.7391878,
     "lng": -2.6738383,
@@ -2236,12 +2609,17 @@
     "rating": 4.8,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 51.72755110000001,
     "lng": -5.0329827,
     "found_in_location": "Monmouth",
-    "found_with_query": "corporate coach hire Monmouth"
+    "found_with_query": "corporate coach hire Monmouth",
+    "email": "info@evanscoaches.co.uk",
+    "emails": [
+      "info@evanscoaches.co.uk"
+    ],
+    "description": "We strive to deliver an exceptional service when it comes to transporting larger numbers of passengers."
   },
   {
     "name": "Star Coach Travel Ltd",
@@ -2258,7 +2636,12 @@
     "lat": 51.5729817,
     "lng": -2.9449638,
     "found_in_location": "Monmouth",
-    "found_with_query": "corporate coach hire Monmouth"
+    "found_with_query": "corporate coach hire Monmouth",
+    "email": "bookings@starcoachtravel.wales",
+    "emails": [
+      "bookings@starcoachtravel.wales"
+    ],
+    "description": "joining the fleet in 2025 (March) will be our second GT12 coach which will become ST25 TAR and will be the same specification as her sister GT12 TAR (above)"
   },
   {
     "name": "Minibus Hire Wrexham",
@@ -2275,7 +2658,8 @@
     "lat": 53.0505868,
     "lng": -2.9170917,
     "found_in_location": "Wrexham",
-    "found_with_query": "minibus hire Wrexham"
+    "found_with_query": "minibus hire Wrexham",
+    "description": "Minibus Hire Wrexham is a renowned name in the domain of high quality and minibus and coach hire services with driver."
   },
   {
     "name": "Price Coaches",
@@ -2287,12 +2671,13 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 6:00 PM; Tuesday: 8:30 AM – 6:00 PM; Wednesday: 8:30 AM – 6:00 PM; Thursday: 8:30 AM – 6:00 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.0544034,
     "lng": -3.0311858,
     "found_in_location": "Wrexham",
-    "found_with_query": "minibus hire Wrexham"
+    "found_with_query": "minibus hire Wrexham",
+    "description": "Price Coaches Coach Hire. Wrexham, Chester and North Wales - Call 01978 756834"
   },
   {
     "name": "Wrexham Executive Travel & Minibus Ltd",
@@ -2309,7 +2694,14 @@
     "lat": 53.0384737,
     "lng": -2.9287455,
     "found_in_location": "Wrexham",
-    "found_with_query": "minibus hire Wrexham"
+    "found_with_query": "minibus hire Wrexham",
+    "email": "impallari@gmail.com",
+    "emails": [
+      "impallari@gmail.com",
+      "team@latofonts.com",
+      "wrexhamairport@gmail.com"
+    ],
+    "description": "Quality without compromise guaranteed!"
   },
   {
     "name": "Straffords Coaches Ltd",
@@ -2321,12 +2713,21 @@
     "rating": 4.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.0610778,
     "lng": -3.0780016,
     "found_in_location": "Wrexham",
-    "found_with_query": "minibus hire Wrexham"
+    "found_with_query": "minibus hire Wrexham",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@straffordscoaches.co.uk"
+    ],
+    "description": "+44 (0)1978 756106 | Luxury Coach and Mini-bus Hire Serving Wrexham, Chester, Liverpool, Manchester and Nationwide. Corporate Luxury Travel, Tours & Holidays, Day Trips. Private Hire, School & College Contract hire. All vehicles installed with modern amenities."
   },
   {
     "name": "Pat's Coaches",
@@ -2338,12 +2739,24 @@
     "rating": 4.4,
     "total_reviews": 249,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.05617059999999,
     "lng": -3.0360361,
     "found_in_location": "Wrexham",
-    "found_with_query": "minibus hire Wrexham"
+    "found_with_query": "minibus hire Wrexham",
+    "email": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+    "emails": [
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "enquiries@patscoaches.co.uk"
+    ],
+    "description": "From Private Hire to luxury travel, here at Pat's Coaches we can cater for all your needs."
   },
   {
     "name": "Wrexham Minibus Co",
@@ -2372,7 +2785,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 8:00 PM; Tuesday: 9:00 AM – 8:00 PM; Wednesday: 9:00 AM – 8:00 PM; Thursday: 9:00 AM – 8:00 PM; Friday: 9:00 AM – 8:00 PM; Saturday: 9:00 AM – 8:00 PM; Sunday: 9:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0117533,
     "lng": -3.0465408,
@@ -2394,7 +2807,27 @@
     "lat": 52.9029653,
     "lng": -2.9106642,
     "found_in_location": "Wrexham",
-    "found_with_query": "coach hire Wrexham"
+    "found_with_query": "coach hire Wrexham",
+    "email": "craig.russell@lakesidecoaches.co.uk",
+    "emails": [
+      "craig.russell@lakesidecoaches.co.uk",
+      "csdepot@lakesidecoaches.co.uk",
+      "david.lloyd@lakesidecoaches.co.uk",
+      "esther.davies@lakesidecoaches.co.uk",
+      "gareth.davies@lakesidecoaches.co.uk",
+      "helen.morgan@lakesidecoaches.co.uk",
+      "jessica.rogers@lakesidecoaches.co.uk",
+      "joe.hall@lakesidecoaches.co.uk",
+      "joshearl@lakesidecoaches.co.uk",
+      "lindsey.evans@lakesidecoaches.co.uk",
+      "mailbox@lakesidecoaches.co.uk",
+      "neal.hall@lakesidecoaches.co.uk",
+      "paul.brown@lakesidecoaches.co.uk",
+      "sam.hall@lakesidecoaches.co.uk",
+      "sandraw@lakesidecoaches.co.uk",
+      "shrewsbury@lakesidecoaches.co.uk"
+    ],
+    "description": "Lakeside Coaches are anaward winningleading coach operator based in Shropshire and Cheshire. With a group fleet of over140 buses & coachesand ateam of 170 staffavailable for private hire and contract tour operations as well as supplying a local bus network of 6 routes and home to school..."
   },
   {
     "name": "Merediths Coaches",
@@ -2411,7 +2844,8 @@
     "lat": 53.0229144,
     "lng": -2.7589595,
     "found_in_location": "Wrexham",
-    "found_with_query": "coach hire Wrexham"
+    "found_with_query": "coach hire Wrexham",
+    "description": "Merediths Coaches was established in 1935 and are a leading coach hire operator based in the Cheshire village of Malpas, close to Whitchurch, Shropshire and the City of Chester. With a fleet of over 20 coaches for private hire as well as supplying a home to school network of nearly 20 routes..."
   },
   {
     "name": "Jays Travel Direct Taxis & Minibuses Mold",
@@ -2423,12 +2857,13 @@
     "rating": 5,
     "total_reviews": 88,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.1629884,
     "lng": -3.1331149,
     "found_in_location": "Wrexham",
-    "found_with_query": "party bus hire Wrexham"
+    "found_with_query": "party bus hire Wrexham",
+    "description": "Limousine hire from all areas of North Wales, Flintshire, Cheshire, Denbighshire, Merseyside, Wrexham, Conwy, Gwynedd. Flint Mold Buckley Holywell Deeside"
   },
   {
     "name": "Jays 1st Class Airport Transfers Taxis & Minibuses Mold",
@@ -2440,12 +2875,13 @@
     "rating": 5,
     "total_reviews": 58,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.16662789999999,
     "lng": -3.155849,
     "found_in_location": "Wrexham",
-    "found_with_query": "party bus hire Wrexham"
+    "found_with_query": "party bus hire Wrexham",
+    "description": "Jays 1st Class located in Mold provide taxi airport transfers to and from Manchester Airport, Liverpool Airport and all other UK airports on request."
   },
   {
     "name": "Bws Peris coach hire",
@@ -2457,7 +2893,7 @@
     "rating": 4.9,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.123235,
     "lng": -4.1289761,
@@ -2474,12 +2910,13 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 9:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.04966719999999,
     "lng": -3.0079757,
     "found_in_location": "Wrexham",
-    "found_with_query": "party bus hire Wrexham"
+    "found_with_query": "party bus hire Wrexham",
+    "description": "DrivenByQ deliver discreet business travel in Chester, Deeside and Wrexham with outstanding customer service. Est 2005."
   },
   {
     "name": "Truck & Bus Services",
@@ -2491,7 +2928,7 @@
     "rating": 4.9,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 7:00 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest",
     "lat": 53.030738,
     "lng": -2.9369441,
@@ -2508,12 +2945,20 @@
     "rating": 4,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:30 PM; Tuesday: 8:30 AM – 5:30 PM; Wednesday: 8:30 AM – 5:30 PM; Thursday: 8:30 AM – 5:30 PM; Friday: 8:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "car_repair, establishment, point_of_interest",
     "lat": 52.8169187,
     "lng": -3.2830667,
     "found_in_location": "Wrexham",
-    "found_with_query": "party bus hire Wrexham"
+    "found_with_query": "party bus hire Wrexham",
+    "email": "chris.chadd@tanat.co.uk",
+    "emails": [
+      "chris.chadd@tanat.co.uk",
+      "enquiries@tanat.co.uk",
+      "purchase.ledger@tanat.co.uk",
+      "vicki.edwards@tanat.co.uk"
+    ],
+    "description": "If you are thinking about an excursion, whatever your transport needs, please contact us with the details and one of our bookings team will get back to you with a quotation within 24 hours."
   },
   {
     "name": "Abacab Mini Coaches",
@@ -2525,7 +2970,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:00 PM; Tuesday: 9:00 AM – 4:00 PM; Wednesday: 9:00 AM – 4:00 PM; Thursday: 9:00 AM – 4:00 PM; Friday: 9:00 AM – 4:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.287599,
     "lng": -3.8541919,
@@ -2547,7 +2992,12 @@
     "lat": 53.2237445,
     "lng": -3.4156286,
     "found_in_location": "Wrexham",
-    "found_with_query": "party bus hire Wrexham"
+    "found_with_query": "party bus hire Wrexham",
+    "email": "info@mandhcoaches.co.uk",
+    "emails": [
+      "info@mandhcoaches.co.uk"
+    ],
+    "description": "Coach hire specialists in North Wales. Coach and Mini bus hire services, for any occasion"
   },
   {
     "name": "Keane's Coaches",
@@ -2564,7 +3014,12 @@
     "lat": 53.1263229,
     "lng": -3.1885777,
     "found_in_location": "Wrexham",
-    "found_with_query": "corporate coach hire Wrexham"
+    "found_with_query": "corporate coach hire Wrexham",
+    "email": "info@keanescoaches.com",
+    "emails": [
+      "info@keanescoaches.com"
+    ],
+    "description": "Home . Keane\u2019s Coaches offers reliable and comfortable coach hire and minibus hire across the UK."
   },
   {
     "name": "Eagles & Crawford Coach Company Ltd.",
@@ -2593,12 +3048,18 @@
     "rating": 3.9,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.14355,
     "lng": -3.8026588,
     "found_in_location": "Wrexham",
-    "found_with_query": "corporate coach hire Wrexham"
+    "found_with_query": "corporate coach hire Wrexham",
+    "email": "info@llewjonesinternational.co.uk",
+    "emails": [
+      "info@llewjonesinternational.co.uk",
+      "sales@llewjones.com"
+    ],
+    "description": "Coach Hire North Wales, call Llew Jones today on 01492640320 for best prices for private groups, day trip, school trips, tours and commercial clients"
   },
   {
     "name": "K&P Coaches",
@@ -2615,7 +3076,15 @@
     "lat": 53.230856,
     "lng": -4.1092275,
     "found_in_location": "Bangor",
-    "found_with_query": "minibus hire Bangor"
+    "found_with_query": "minibus hire Bangor",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "mail@kpcoaches.com"
+    ]
   },
   {
     "name": "Airport Direct (Owen's Taxis & Minibuses)",
@@ -2632,7 +3101,12 @@
     "lat": 53.1902595,
     "lng": -4.083899199999999,
     "found_in_location": "Bangor",
-    "found_with_query": "minibus hire Bangor"
+    "found_with_query": "minibus hire Bangor",
+    "email": "info@owenswales.co.uk",
+    "emails": [
+      "info@owenswales.co.uk"
+    ],
+    "description": "Owen's covers Bangor, Caernarfon, Anglesey, Holyhead, Beaumaris, Llangefni, Conwy, Llandudno and across the North Wales Coast for all your taxi & minibus private hire requirements."
   },
   {
     "name": "ABC Minibuses",
@@ -2661,12 +3135,21 @@
     "rating": 4.2,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: Open 24 hours; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: Open 24 hours; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.2500261,
     "lng": -4.3026099,
     "found_in_location": "Bangor",
-    "found_with_query": "coach hire Bangor"
+    "found_with_query": "coach hire Bangor",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "customerservice@gwynforcoaches.co.uk",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "Established in 1979, \u200bGwynfor Coaches provides Service Buses through Anglesey, Caernarfon, Llanberis and Snowdonia."
   },
   {
     "name": "Eifions Coaches Ltd",
@@ -2678,12 +3161,17 @@
     "rating": 4.6,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.25262,
     "lng": -4.372891,
     "found_in_location": "Bangor",
-    "found_with_query": "coach hire Bangor"
+    "found_with_query": "coach hire Bangor",
+    "email": "mail@eifionscoaches.co.uk",
+    "emails": [
+      "mail@eifionscoaches.co.uk"
+    ],
+    "description": "Eifions Coaches Anglesey North Wales- Coach Hire UK Operating from Llangefni Holyhead Anglesey tours and excursions, Holidays"
   },
   {
     "name": "Berwyn Garage & Coaches",
@@ -2700,7 +3188,12 @@
     "lat": 52.9940033,
     "lng": -4.4308182,
     "found_in_location": "Bangor",
-    "found_with_query": "coach hire Bangor"
+    "found_with_query": "coach hire Bangor",
+    "email": "berwyncoaches@aol.com",
+    "emails": [
+      "berwyncoaches@aol.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Owen's Taxis & Minibuses",
@@ -2717,7 +3210,12 @@
     "lat": 53.2591877,
     "lng": -4.3264878,
     "found_in_location": "Bangor",
-    "found_with_query": "16 seater minibus hire Bangor"
+    "found_with_query": "16 seater minibus hire Bangor",
+    "email": "info@owenswales.co.uk",
+    "emails": [
+      "info@owenswales.co.uk"
+    ],
+    "description": "Owen's covers Bangor, Caernarfon, Anglesey, Holyhead, Beaumaris, Llangefni, Conwy, Llandudno and across the North Wales Coast for all your taxi & minibus private hire requirements."
   },
   {
     "name": "Belfast Mini Coach",
@@ -2734,7 +3232,12 @@
     "lat": 54.6796521,
     "lng": -5.9036624,
     "found_in_location": "Bangor",
-    "found_with_query": "16 seater minibus hire Bangor"
+    "found_with_query": "16 seater minibus hire Bangor",
+    "email": "hello@belfastminicoach.com",
+    "emails": [
+      "hello@belfastminicoach.com"
+    ],
+    "description": "Belfast Mini Coach offer coach and minibus hire services across Northern Ireland. Specialists in concert transport, wedding coaches, and airport transfers."
   },
   {
     "name": "Dazzlers Coach & Minibus Of Holyhead. 16,51,52 & 53 Str vehicles.",
@@ -2746,7 +3249,7 @@
     "rating": 5,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.3007404,
     "lng": -4.635305199999999,
@@ -2785,7 +3288,15 @@
     "lat": 53.24933619999999,
     "lng": -4.3002573,
     "found_in_location": "Bangor",
-    "found_with_query": "corporate coach hire Bangor"
+    "found_with_query": "corporate coach hire Bangor",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "mail@kpcoaches.com"
+    ]
   },
   {
     "name": "Arvonia Coaches Ltd",
@@ -2797,12 +3308,17 @@
     "rating": 4.8,
     "total_reviews": 155,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 4:15 PM; Tuesday: 9:00 AM – 4:15 PM; Wednesday: 9:00 AM – 4:15 PM; Thursday: 9:00 AM – 4:15 PM; Friday: 9:00 AM – 4:15 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20094:15\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20094:15\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20094:15\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20094:15\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20094:15\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 53.14816649999999,
     "lng": -4.193175699999999,
     "found_in_location": "Bangor",
-    "found_with_query": "corporate coach hire Bangor"
+    "found_with_query": "corporate coach hire Bangor",
+    "email": "reservations@arvonia.co.uk",
+    "emails": [
+      "reservations@arvonia.co.uk"
+    ],
+    "description": "Coach holidays in the UK & Europe with Arvonia. Day trips, short breaks, city, coastal and countryside tours from North Wales, Chester & Wrexham."
   },
   {
     "name": "Carreglefn Coaches",
@@ -2831,12 +3347,18 @@
     "rating": 4.3,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.1435539,
     "lng": -3.802839,
     "found_in_location": "Bangor",
-    "found_with_query": "corporate coach hire Bangor"
+    "found_with_query": "corporate coach hire Bangor",
+    "email": "mark@bamboorocketapps.com",
+    "emails": [
+      "mark@bamboorocketapps.com",
+      "sales@jonescoachsales.co.uk"
+    ],
+    "description": "Explore our wide range of quality new and used buses, minibuses and coaches to select from. Let us help find the right vehicle for you."
   },
   {
     "name": "CitySightseeing - Llandudno & Conwy Bus",
@@ -2848,12 +3370,17 @@
     "rating": 4.3,
     "total_reviews": 55,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 5:00 PM; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: 10:00 AM – 5:00 PM; Sunday: 10:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 53.3272704,
     "lng": -3.8308594,
     "found_in_location": "Llandudno",
-    "found_with_query": "party bus hire Llandudno"
+    "found_with_query": "party bus hire Llandudno",
+    "email": "sales@alpine-travel.co.uk",
+    "emails": [
+      "sales@alpine-travel.co.uk"
+    ],
+    "description": "Hop on board our City Sightseeing tour and enjoy spectacular views of the Great Orme, Llandudno Pier, Conwy Castle, and the surrounding countryside."
   },
   {
     "name": "Oares Coaches Ltd",
@@ -2882,7 +3409,7 @@
     "rating": 4.6,
     "total_reviews": 353,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 53.3056462,
     "lng": -3.4208437,
@@ -2904,7 +3431,14 @@
     "lat": 53.25139530000001,
     "lng": -3.1360392,
     "found_in_location": "Colwyn Bay",
-    "found_with_query": "16 seater minibus hire Colwyn Bay"
+    "found_with_query": "16 seater minibus hire Colwyn Bay",
+    "email": "ibooking@minibusandcoachhire.com",
+    "emails": [
+      "ibooking@minibusandcoachhire.com",
+      "ibookings@minibusandcoachhire.com",
+      "info@demolink.org"
+    ],
+    "description": "Welcome to Chester Minibus & Coach Hire chester offering special rates on minibuses and coaches across Chester. We cover North, South ,West and East Chester with our quality vehicle with driver."
   },
   {
     "name": "Coach Jevs",
@@ -2916,7 +3450,7 @@
     "rating": 5,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, health, point_of_interest",
     "lat": 53.31264299999999,
     "lng": -3.7502443,
@@ -2938,7 +3472,12 @@
     "lat": 53.3179224,
     "lng": -3.486166,
     "found_in_location": "Rhyl",
-    "found_with_query": "minibus hire Rhyl"
+    "found_with_query": "minibus hire Rhyl",
+    "email": "info@busybeetaxis.com",
+    "emails": [
+      "info@busybeetaxis.com"
+    ],
+    "description": "Discover more about our extensive range of professional services. We constantly update this page, but if you still can\u2019t find what you\u2019re looking for, please feel free to get in touch with us \u2013 we will be more than happy to help."
   },
   {
     "name": "RWS Minibus Travel",
@@ -2984,12 +3523,18 @@
     "rating": 5,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest, travel_agency",
     "lat": 53.3100175,
     "lng": -3.4981209,
     "found_in_location": "Rhyl",
-    "found_with_query": "coach hire Rhyl"
+    "found_with_query": "coach hire Rhyl",
+    "email": "sales@alpine-travel.co.uk",
+    "emails": [
+      "sales@alpine-travel.co.uk",
+      "sales@jonesholidays.co.uk"
+    ],
+    "description": "Alpine is the largest independently owned coach tour operator in North Wales. With a fleet of 80+ vehicles and 100+ employees, we can meet all your travel needs"
   },
   {
     "name": "Minibus Hire",
@@ -3052,12 +3597,13 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 5:00 – 8:00 PM; Tuesday: Closed; Wednesday: 5:00 – 8:00 PM; Thursday: 5:00 – 8:00 PM; Friday: 4:00 – 8:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 5:00\u2009\u2013\u20098:00\u202fPM; Tuesday: Closed; Wednesday: 5:00\u2009\u2013\u20098:00\u202fPM; Thursday: 5:00\u2009\u2013\u20098:00\u202fPM; Friday: 4:00\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Sunday: Closed",
     "types": "establishment, health, point_of_interest",
     "lat": 53.319578,
     "lng": -3.4733409,
     "found_in_location": "Rhyl",
-    "found_with_query": "corporate coach hire Rhyl"
+    "found_with_query": "corporate coach hire Rhyl",
+    "description": "The Coaching Couch provides Life & Business Coaching in Chester & North Wales. Based in Rhyl we provide training and coaching across North Wales."
   },
   {
     "name": "Chester Coach Hire",
@@ -3074,7 +3620,12 @@
     "lat": 53.1632439,
     "lng": -2.9924236,
     "found_in_location": "Rhyl",
-    "found_with_query": "corporate coach hire Rhyl"
+    "found_with_query": "corporate coach hire Rhyl",
+    "email": "edward@ukminibushire.com",
+    "emails": [
+      "edward@ukminibushire.com"
+    ],
+    "description": "Chester coach hire provides coach and minibus with driver for travel all around Chester and surrounding areas at cheap rates for different occassions and trips."
   },
   {
     "name": "A1 Minibus Hire",
@@ -3086,12 +3637,17 @@
     "rating": 5,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 9:00 AM – 9:00 PM; Sunday: 10:00 AM – 8:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.245774,
     "lng": -3.1394555,
     "found_in_location": "Prestatyn",
-    "found_with_query": "party bus hire Prestatyn"
+    "found_with_query": "party bus hire Prestatyn",
+    "email": "a1minibushire@hotmail.com",
+    "emails": [
+      "a1minibushire@hotmail.com"
+    ],
+    "description": "Looking for a reliable private hire taxi company? Our 8 seat minibus is perfect for airport transfers, the races, nights out and more. Based in Flintshire, we can cover most UK airports and provide transport for any occasion. Contact us today!"
   },
   {
     "name": "J P Taxis & Minibuses",
@@ -3103,7 +3659,7 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.0771301,
     "lng": -4.2787413,
@@ -3154,12 +3710,13 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 9:00 AM – 5:00 PM",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 53.3872681,
     "lng": -4.3693018,
     "found_in_location": "Holyhead",
-    "found_with_query": "minibus hire Holyhead"
+    "found_with_query": "minibus hire Holyhead",
+    "description": "Psychodelic Enterprises - Psychodelic Mini Buses"
   },
   {
     "name": "Alan Buses Cars & Commercials",
@@ -3193,7 +3750,12 @@
     "lat": 52.9342384,
     "lng": -4.5287513,
     "found_in_location": "Porthmadog",
-    "found_with_query": "minibus hire Porthmadog"
+    "found_with_query": "minibus hire Porthmadog",
+    "email": "nefyncoaches@btconnect.com",
+    "emails": [
+      "nefyncoaches@btconnect.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Nev-S Taxis & Minibuses",
@@ -3222,12 +3784,17 @@
     "rating": 4.4,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:30 PM; Tuesday: 8:00 AM – 5:30 PM; Wednesday: 8:00 AM – 5:30 PM; Thursday: 8:00 AM – 5:30 PM; Friday: 8:00 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.7425128,
     "lng": -3.8800351,
     "found_in_location": "Porthmadog",
-    "found_with_query": "minibus hire Porthmadog"
+    "found_with_query": "minibus hire Porthmadog",
+    "email": "info@lloydscoaches.com",
+    "emails": [
+      "info@lloydscoaches.com"
+    ],
+    "description": "Lloyds Coaches Wales | Quality Bus & Coach services Wales | Coach Hire Wales | Local Bus Services based in Machynlleth Mid Wales | Call Us: 01654 702 100"
   },
   {
     "name": "John's Coaches",
@@ -3256,12 +3823,17 @@
     "rating": 4.3,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Tuesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Wednesday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Thursday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Friday: 7:30\u202fAM\u2009\u2013\u20095:30\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.5939013,
     "lng": -3.8555124,
     "found_in_location": "Porthmadog",
-    "found_with_query": "coach hire Porthmadog"
+    "found_with_query": "coach hire Porthmadog",
+    "email": "info@lloydscoaches.com",
+    "emails": [
+      "info@lloydscoaches.com"
+    ],
+    "description": "Lloyds Coaches Wales | Quality Bus & Coach services Wales | Coach Hire Wales | Local Bus Services based in Machynlleth Mid Wales | Call Us: 01654 702 100"
   },
   {
     "name": "C J S Mini Coaches",
@@ -3307,12 +3879,17 @@
     "rating": 4.6,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.0471742,
     "lng": -4.5272264,
     "found_in_location": "Aberystwyth",
-    "found_with_query": "party bus hire Aberystwyth"
+    "found_with_query": "party bus hire Aberystwyth",
+    "email": "cerbydaucenarth@mac.com",
+    "emails": [
+      "cerbydaucenarth@mac.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Aberystwyth (Fflecsi bus service)",
@@ -3341,7 +3918,7 @@
     "rating": 4.5,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 AM – 5:00 PM; Tuesday: 8:30 AM – 5:00 PM; Wednesday: 8:30 AM – 5:00 PM; Thursday: 8:30 AM – 5:00 PM; Friday: 8:30 AM – 5:00 PM; Saturday: 8:30 AM – 1:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 8:30\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: 8:30\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.759423,
     "lng": -3.0800391,
@@ -3380,7 +3957,12 @@
     "lat": 52.8451096,
     "lng": -3.0351705,
     "found_in_location": "Welshpool",
-    "found_with_query": "minibus hire Welshpool"
+    "found_with_query": "minibus hire Welshpool",
+    "email": "enquiries@higginstaxis.co.uk",
+    "emails": [
+      "enquiries@higginstaxis.co.uk"
+    ],
+    "description": "For over 15 years, Higgins Taxis is your trusted local choice for fast, reliable, and affordable transport. Serving Oswestry and beyond, we offer a range of vehicles to suit your needs\u2014from standard minicabs to spacious MPVs. Whether it\u2019s a quick trip or planned trip to the airport, work, or a..."
   },
   {
     "name": "Owens Coaches",
@@ -3392,7 +3974,7 @@
     "rating": 4.2,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.861084,
     "lng": -3.0526202,
@@ -3414,7 +3996,14 @@
     "lat": 52.8162612,
     "lng": -3.4166061,
     "found_in_location": "Welshpool",
-    "found_with_query": "16 seater minibus hire Welshpool"
+    "found_with_query": "16 seater minibus hire Welshpool",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "contact@swiftlift.info"
+    ],
+    "description": "I'm Phil Norwell and I run our taxibus service based in Llangynog, Mid Wales."
   },
   {
     "name": "Newtown Powys",
@@ -3443,7 +4032,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 2:00 PM; Sunday: Closed",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.8198643,
     "lng": -3.0206641,
@@ -3460,12 +4049,17 @@
     "rating": 4.9,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM; Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
     "types": "establishment, point_of_interest",
     "lat": 52.4377295,
     "lng": -1.5051148,
     "found_in_location": "Oswestry",
-    "found_with_query": "16 seater minibus hire Oswestry"
+    "found_with_query": "16 seater minibus hire Oswestry",
+    "email": "user@domain.com",
+    "emails": [
+      "user@domain.com"
+    ],
+    "description": "Reliable minibus and coach hire across Coventry and the West Midlands, offering a fleet of minibuses, buses, coaches, and accessible vehicles for all group travel needs."
   },
   {
     "name": "CS Coaching",
@@ -3477,7 +4071,7 @@
     "rating": 5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 10:00 AM – 5:00 PM; Tuesday: 10:00 AM – 5:00 PM; Wednesday: 10:00 AM – 5:00 PM; Thursday: 10:00 AM – 5:00 PM; Friday: 10:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, health, point_of_interest",
     "lat": 52.9232003,
     "lng": -3.0100188,
@@ -3494,7 +4088,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: Closed; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: Closed; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 52.8333441,
     "lng": -2.976664,
@@ -3503,7 +4097,7 @@
   },
   {
     "name": "GHA Coaches Ltd",
-    "address": "Lôn Parcwr, Ruthin LL15 1LY, UK",
+    "address": "L\u00f4n Parcwr, Ruthin LL15 1LY, UK",
     "phone": "01824 707101",
     "international_phone": "+44 1824 707101",
     "website": "http://www.ghacoaches.co.uk/",
@@ -3567,7 +4161,8 @@
     "lat": 53.1201421,
     "lng": -3.3186005,
     "found_in_location": "Ruthin",
-    "found_with_query": "corporate coach hire Ruthin"
+    "found_with_query": "corporate coach hire Ruthin",
+    "description": "Karen Jones Coaching Career Coaching, Personal Development and Life Coaching Gain Clarity, Embrace Change, Unlock your Potential and Create the Life you Want to Live Coaching Individuals to achieve their career and personal goals and restore a healthy, fulfilling life. Providing 1:1 Coaching,..."
   },
   {
     "name": "Borrow Bus",
@@ -3613,12 +4208,21 @@
     "rating": 2.6,
     "total_reviews": 105,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM; Saturday: Closed; Sunday: Closed",
     "types": "establishment, point_of_interest",
     "lat": 53.40107219999999,
     "lng": -3.0368819,
     "found_in_location": "St Asaph",
-    "found_with_query": "corporate coach hire St Asaph"
+    "found_with_query": "corporate coach hire St Asaph",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@alsbookings.com"
+    ],
+    "description": "Here at HappyAls we are a reliable and safe coach and bus operator, based in the Wirral for hire."
   },
   {
     "name": "AAA CARS & MINIBUSES",
@@ -3669,7 +4273,12 @@
     "lat": 53.284816,
     "lng": -2.8737941,
     "found_in_location": "Flint",
-    "found_with_query": "corporate coach hire Flint"
+    "found_with_query": "corporate coach hire Flint",
+    "email": "carverscoaches@gmail.com",
+    "emails": [
+      "carverscoaches@gmail.com"
+    ],
+    "description": "Carvers Coaches is a Wirral-based coach hire business that has been providing safe and comfortable journey to clients for group travel or school trips."
   },
   {
     "name": "Emma's Coaches",
@@ -3737,7 +4346,12 @@
     "lat": 52.9763415,
     "lng": -3.1807664,
     "found_in_location": "Llangollen",
-    "found_with_query": "coach hire Llangollen"
+    "found_with_query": "coach hire Llangollen",
+    "email": "info@flowfree.co.uk",
+    "emails": [
+      "info@flowfree.co.uk"
+    ],
+    "description": "NEW WEBSITE COMING SOON! SO UNFORTUNATELY THIS ONE IS OUT OF DATE."
   },
   {
     "name": "GHA Coaches",
@@ -3817,7 +4431,7 @@
     "rating": "",
     "total_reviews": "",
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:30 AM – 4:00 PM; Thursday: 8:00 AM – 4:00 PM; Friday: 8:00 AM – 12:00 PM; Saturday: 10:00 AM – 1:00 PM; Sunday: 10:00 AM – 1:00 PM",
+    "opening_hours": "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM; Wednesday: 8:30\u202fAM\u2009\u2013\u20094:00\u202fPM; Thursday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM; Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM; Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fPM; Sunday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
     "types": "establishment, health, point_of_interest",
     "lat": 52.97721199999999,
     "lng": -3.177535,
