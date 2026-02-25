@@ -37,6 +37,11 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
   },
+  ...(site.id === "southwest" && {
+    verification: {
+      google: "Ilt2m3QThZto8ZdiCrYwNXXoot9ismGWlHI562dtLSc",
+    },
+  }),
 };
 
 export default function RootLayout({
