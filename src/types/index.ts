@@ -17,6 +17,8 @@ export interface BusinessRaw {
   email?: string;
   emails?: string[];
   description?: string;
+  services?: string[];
+  vehicles?: string[];
 }
 
 export interface Business {
@@ -28,6 +30,8 @@ export interface Business {
   website: string | null;
   email: string | null;
   description: string | null;
+  services: string[];
+  vehicles: string[];
   googleMapsUrl: string;
   rating: number | null;
   totalReviews: number;

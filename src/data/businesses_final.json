@@ -19,7 +19,11 @@
     "emails": [
       "info@dgminibusvanhire.co.uk"
     ],
-    "description": "Minibus van hire service for pickup in the North East of England, to any destination in the UK! OUR SERVICES CONTACT US Services High Quality Services Punctuality Always On Time Professional Great Communication Affordability Competitive Pricing Why Us? Book with the best! D&G minibus van hire..."
+    "description": "Minibus van hire service for pickup in the North East of England, to any destination in the UK! OUR SERVICES CONTACT US Services High Quality Services Punctuality Always On Time Professional Great Communication Affordability Competitive Pricing Why Us? Book with the best! D&G minibus van hire...",
+    "services": [
+      "Long Distance & Nationwide",
+      "Sports & Events"
+    ]
   },
   {
     "name": "CJ's Executive Travel Limited",
@@ -42,7 +46,14 @@
       "bookings@cjstravel.uk",
       "dave@lab6.com"
     ],
-    "description": "We have 5-16 seater Minibus's available for Airports or nights out. Friendly, local, family run, reliable services. All Fully Badged Drivers CJ's Travel Is ADVANCED BOOKINGS only"
+    "description": "We have 5-16 seater Minibus's available for Airports or nights out. Friendly, local, family run, reliable services. All Fully Badged Drivers CJ's Travel Is ADVANCED BOOKINGS only",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Night Out Transport",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "G L Minibuses",
@@ -69,7 +80,20 @@
       "example@mysite.com",
       "glminibuses@hotmail.co.uk"
     ],
-    "description": "G L Minibuses are a trusted minibus company in Washington. With wheelchair accessible vehicles and 24-hour service, we ensure smooth journeys for all."
+    "description": "G L Minibuses are a trusted minibus company in Washington. With wheelchair accessible vehicles and 24-hour service, we ensure smooth journeys for all.",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "E Travel King Of Passenger Transport",
@@ -92,7 +116,21 @@
       "bookings@etravelne.co.uk",
       "info@etravelne.co.uk"
     ],
-    "description": "Coach and Minibus Hire Middlesbrough, Stockton, Teesside and other areas across the North East. Book online today and travel in style."
+    "description": "Coach and Minibus Hire Middlesbrough, Stockton, Teesside and other areas across the North East. Book online today and travel in style.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus Hire 4 U Middlesbrough",
@@ -115,7 +153,21 @@
       "info@minibushire4u.co.uk",
       "minibushire4u.uk@gmail.com"
     ],
-    "description": "Minibus Hire 4 U is a leading minibus hire provider in Middlesbrough area. We offer minibus hire services to airport transfers, corporate travels, school transports, sporting transportations, night outs, event and exhibitions, wedding hire services and film,TV and Media hire services."
+    "description": "Minibus Hire 4 U is a leading minibus hire provider in Middlesbrough area. We offer minibus hire services to airport transfers, corporate travels, school transports, sporting transportations, night outs, event and exhibitions, wedding hire services and film,TV and Media hire services.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "TS12 Airport Travel",
@@ -137,7 +189,14 @@
     "emails": [
       "info@ts12-travel.co.uk"
     ],
-    "description": "TS12 Travel is an airport travel service in Brotton specialising in mini bus hire, long distance travel, ferry terminal travel, airport transfers"
+    "description": "TS12 Travel is an airport travel service in Brotton specialising in mini bus hire, long distance travel, ferry terminal travel, airport transfers",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Tyneside Travel",
@@ -159,7 +218,26 @@
     "emails": [
       "info@tynesidetravel.co.uk"
     ],
-    "description": "Tyneside Travel provide a friendly & professional minibus hire service (with drivers) for both short & long journeys. Based in Newcastle, we have fleet of 8 & 16 seater minibuses available."
+    "description": "Tyneside Travel provide a friendly & professional minibus hire service (with drivers) for both short & long journeys. Based in Newcastle, we have fleet of 8 & 16 seater minibuses available.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "HC Travel Solutions",
@@ -181,7 +259,11 @@
     "emails": [
       "info@hctravelsolutions.uk"
     ],
-    "description": "In 2024, with 15 years of experience in the coach and travel industry, Ben and Andy established HC Travel Solutions to offer premium private coach hire and coach hire services in Durham. Their goal is to provide high-quality travel solutions, from airport transfers to day trips, with a personal..."
+    "description": "In 2024, with 15 years of experience in the coach and travel industry, Ben and Andy established HC Travel Solutions to offer premium private coach hire and coach hire services in Durham. Their goal is to provide high-quality travel solutions, from airport transfers to day trips, with a personal...",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Northumberland travel ltd",
@@ -204,7 +286,21 @@
       "info@northumberlandtravel.co.uk",
       "northumberlandtravelltd@gmail.com"
     ],
-    "description": "Northumberland Travel offer reliable and comfortable transport for groups of 8 to 72 passengers. Our modern fleet is available for all occasions\u2014corporate"
+    "description": "Northumberland Travel offer reliable and comfortable transport for groups of 8 to 72 passengers. Our modern fleet is available for all occasions\u2014corporate",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Phil Bell Exec Travel 1-8 Seater",
@@ -243,7 +339,28 @@
     "emails": [
       "info@localminibustravel.co.uk"
     ],
-    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips."
+    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "29-Seater Coach",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Shaws Minibus Travel",
@@ -265,7 +382,11 @@
     "emails": [
       "shawsminibustravel@hotmail.com"
     ],
-    "description": "At ShawsMinibusTravel, our goal is to provide a professional and affordable executive transportation service across the local areas throughout the Uk. Our fully managed, trustworthy service allows you to spend more time on what\u2019s important to you. Just leave the rest to us. We know North East..."
+    "description": "At ShawsMinibusTravel, our goal is to provide a professional and affordable executive transportation service across the local areas throughout the Uk. Our fully managed, trustworthy service allows you to spend more time on what\u2019s important to you. Just leave the rest to us. We know North East...",
+    "services": [
+      "Corporate & Executive",
+      "Long Distance & Nationwide"
+    ]
   },
   {
     "name": "Minibus Hire Middlesbrough",
@@ -321,7 +442,14 @@
       "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
       "info@durham-minibuses.co.uk"
     ],
-    "description": "Durham Minibuses 16 seat Minibus service for all occasions"
+    "description": "Durham Minibuses 16 seat Minibus service for all occasions",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Lima Transport (Newton Aycliffe)",
@@ -360,7 +488,10 @@
     "emails": [
       "enquiry@ringaride.co.uk"
     ],
-    "description": "Our drivers ensure a comfortable experience, providing assistance to passengers with mobility impairments and creating a calm environment for those with dementia. Your convenience and well-being are our top priorities."
+    "description": "Our drivers ensure a comfortable experience, providing assistance to passengers with mobility impairments and creating a calm environment for those with dementia. Your convenience and well-being are our top priorities.",
+    "services": [
+      "Airport Transfers"
+    ]
   },
   {
     "name": "Tommys Travel",
@@ -399,7 +530,11 @@
     "emails": [
       "info@doverscoaches.com"
     ],
-    "description": "Dovers Coaches is a family run coach holidays operator based in Tyne and Wear. Providing quality day excursions, coach holidays and private hire since 1960"
+    "description": "Dovers Coaches is a family run coach holidays operator based in Tyne and Wear. Providing quality day excursions, coach holidays and private hire since 1960",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport"
+    ]
   },
   {
     "name": "626 Coach Hire - Coach Hire County Durham",
@@ -445,7 +580,12 @@
       "dtdtravel@hotmail.com",
       "support@webador.com"
     ],
-    "description": "Taxi service operating out of Teesside with nationwide coverage. We specialise in all long haul travel. Airports and train stations included. Book Now!"
+    "description": "Taxi service operating out of Teesside with nationwide coverage. We specialise in all long haul travel. Airports and train stations included. Book Now!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Religious & Community"
+    ]
   },
   {
     "name": "Jack's Coaches",
@@ -467,7 +607,20 @@
     "emails": [
       "jackscoaches@googlemail.com"
     ],
-    "description": "A family coach company owned and run by Paul and Graeme Pearson serving Teesside and the surrounding communities for nearly 30 years. We provide transport for anything from 20 seats to 72 seater coaches. We have a well-presented fleet and an excellent team of drivers that are DBS checked to..."
+    "description": "A family coach company owned and run by Paul and Graeme Pearson serving Teesside and the surrounding communities for nearly 30 years. We provide transport for anything from 20 seats to 72 seater coaches. We have a well-presented fleet and an excellent team of drivers that are DBS checked to...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "Milburn Luxury Coaches",
@@ -490,7 +643,17 @@
       "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
       "andrew@milburnluxurycoaches.co.uk"
     ],
-    "description": "Based in Hexham, Milburn Luxury Coaches are leading specialists in coach hire. We have been transporting groups across the country since 1955."
+    "description": "Based in Hexham, Milburn Luxury Coaches are leading specialists in coach hire. We have been transporting groups across the country since 1955.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Moorside Car & Coach",
@@ -529,7 +692,28 @@
     "emails": [
       "info@localminibustravel.co.uk"
     ],
-    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips."
+    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "29-Seater Coach",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "J&M Travel Coach Hire Newcastle",
@@ -553,7 +737,15 @@
       "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
       "jandmtravel@hotmail.com"
     ],
-    "description": "16 - 53 Seat Coach Hire, J&M Travel Coach Hire Newcastle providing private coach travel for Newcastle & the North East."
+    "description": "16 - 53 Seat Coach Hire, J&M Travel Coach Hire Newcastle providing private coach travel for Newcastle & the North East.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Bells Coaches",
@@ -575,7 +767,13 @@
     "emails": [
       "enquiries@bellscoaches.com"
     ],
-    "description": "BELLS COACHES | COACH HIRE NEWCASTLE NORTH EAST | February 24, 2026"
+    "description": "BELLS COACHES | COACH HIRE NEWCASTLE NORTH EAST | February 24, 2026",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Ormesby Travel Mini Bus Hire",
@@ -597,7 +795,13 @@
     "emails": [
       "info@ormesby-travel.co.uk"
     ],
-    "description": "Friendly, flexible travel servicing Middlesbrough and the North East."
+    "description": "Friendly, flexible travel servicing Middlesbrough and the North East.",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "MITCHBUS Minibuses",
@@ -632,7 +836,14 @@
     "lng": -1.6769722,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "airport transfer minibus Newcastle upon Tyne",
-    "description": "Friendly and reliable taxi service at competitive prices from Toon Cars. We are available 24/7"
+    "description": "Friendly and reliable taxi service at competitive prices from Toon Cars. We are available 24/7",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Shaws of Durham",
@@ -650,7 +861,15 @@
     "lng": -1.6891903,
     "found_in_location": "Durham",
     "found_with_query": "coach hire Durham",
-    "description": "We are a family-run coach hire company based in the North East, offering affordable travel for a wide range of clients and events. We provide transport to any destination throughout the UK and Europe and all of our drivers are local, experienced and trustworthy."
+    "description": "We are a family-run coach hire company based in the North East, offering affordable travel for a wide range of clients and events. We provide transport to any destination throughout the UK and Europe and all of our drivers are local, experienced and trustworthy.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Tyne Valley Coaches Ltd",
@@ -672,7 +891,17 @@
     "emails": [
       "alistair@tynevalleycoaches.co.uk"
     ],
-    "description": "Our Volvo B12M Plaxton Panther coach with 53 leather seats air conditioning & a toilet. Clickherefor more details & photos."
+    "description": "Our Volvo B12M Plaxton Panther coach with 53 leather seats air conditioning & a toilet. Clickherefor more details & photos.",
+    "services": [
+      "Day Trips & Tours",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Adamson\u2019s Coaches",
@@ -710,6 +939,10 @@
     "email": "compassct@yahoo.co.uk",
     "emails": [
       "compassct@yahoo.co.uk"
+    ],
+    "services": [
+      "Day Trips & Tours",
+      "Religious & Community"
     ]
   },
   {
@@ -734,7 +967,13 @@
       "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
       "skeltoncoaches@btconnect.com"
     ],
-    "description": "Quality coaches for hire- call Skelton Coaches today. We provide coach hire throughout Cleveland and surrounding areas for schools and more."
+    "description": "Quality coaches for hire- call Skelton Coaches today. We provide coach hire throughout Cleveland and surrounding areas for schools and more.",
+    "services": [
+      "Corporate & Executive",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Halls Travel and Training",
@@ -757,7 +996,13 @@
       "training@hallstravelandtraining.co.uk",
       "travel@hallstravelandtraining.co.uk"
     ],
-    "description": "Ensure your journey is a smooth and enjoyable one and enhance your skills with Halls Travel & Training. We offer exceptional travel experiences coupled with expert training programs led by seasoned professionals."
+    "description": "Ensure your journey is a smooth and enjoyable one and enhance your skills with Halls Travel & Training. We offer exceptional travel experiences coupled with expert training programs led by seasoned professionals.",
+    "services": [
+      "Airport Transfers",
+      "Long Distance & Nationwide",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Minibus Hire in Newcastle",
@@ -781,7 +1026,19 @@
       "ibookings@minibusandcoachhire.com",
       "info@demolink.org"
     ],
-    "description": "Minibus Hire in Newcastle Company comes with driver and a fantastic fleet to go with it. We offer minibus hire for wedding ,Stag nite, School trips and much more with the number one provider for coach hire in Newcastle upon tyne."
+    "description": "Minibus Hire in Newcastle Company comes with driver and a fantastic fleet to go with it. We offer minibus hire for wedding ,Stag nite, School trips and much more with the number one provider for coach hire in Newcastle upon tyne.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Lotus Travel",
@@ -816,7 +1073,11 @@
     "lng": -1.5808272,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "airport transfer minibus Newcastle upon Tyne",
-    "description": "durham,airport,newcastle airport,teesside airport,leeds bradford airport,manchester airport,edinburgh airport,taxi,taxis,dueham taxi,durham taxis,airportpronto,airport transfer,airport transfers,durham to newcastle,north east,cheap taxis,budget taxis,best price,how much is a taxi to,taxi..."
+    "description": "durham,airport,newcastle airport,teesside airport,leeds bradford airport,manchester airport,edinburgh airport,taxi,taxis,dueham taxi,durham taxis,airportpronto,airport transfer,airport transfers,durham to newcastle,north east,cheap taxis,budget taxis,best price,how much is a taxi to,taxi...",
+    "services": [
+      "Airport Transfers",
+      "School Transport"
+    ]
   },
   {
     "name": "Cochranes Coaches",
@@ -872,7 +1133,14 @@
     "emails": [
       "angela@edct.co.uk"
     ],
-    "description": "We are fully booked until the end of October for any group bookings with an EDCT driver. We do have self drive availability. Please ring for details."
+    "description": "We are fully booked until the end of October for any group bookings with an EDCT driver. We do have self drive availability. Please ring for details.",
+    "services": [
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "Self-Drive Hire",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Ka Boogie party bus",
@@ -894,7 +1162,15 @@
     "emails": [
       "mrjohnparkin@yahoo.co.uk"
     ],
-    "description": "Discover our unique party bus experience for all events. Learn more! North East."
+    "description": "Discover our unique party bus experience for all events. Learn more! North East.",
+    "services": [
+      "Corporate & Executive",
+      "Night Out Transport",
+      "Party Bus",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "John crake & son's mini buses ltd",
@@ -991,7 +1267,18 @@
       "ibookings@minibusandcoachhire.com",
       "info@demolink.org"
     ],
-    "description": "Middlesbrough Minibus Hire can offer cheap minibus and cheap coach hire in Middlesbrough in the form of 8, 10, 12, 14, 16 and 24 seater minibuses. We will cover all locations and offer great rates"
+    "description": "Middlesbrough Minibus Hire can offer cheap minibus and cheap coach hire in Middlesbrough in the form of 8, 10, 12, 14, 16 and 24 seater minibuses. We will cover all locations and offer great rates",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Kennedy's Mini Coaches",
@@ -1013,7 +1300,16 @@
     "emails": [
       "johnkennedy69@live.co.uk"
     ],
-    "description": "The number one choice for quality Mini Coach hire in Bedlington. Contact Kennedy's Mini Coaches today for an unbeatable service at a low price on 01670 822 249"
+    "description": "The number one choice for quality Mini Coach hire in Bedlington. Contact Kennedy's Mini Coaches today for an unbeatable service at a low price on 01670 822 249",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "RMB Travel",
@@ -1138,7 +1434,20 @@
     "emails": [
       "admin@dentontravel.co.uk"
     ],
-    "description": "Your Top Choice for Travel in Newcastle and Surrounding Areas \u2013 Choose Denton Travel for Unmatched Quality!"
+    "description": "Your Top Choice for Travel in Newcastle and Surrounding Areas \u2013 Choose Denton Travel for Unmatched Quality!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Beeline Travel 8-33 Seat Minibuses And Coach Hire",
@@ -1178,7 +1487,27 @@
     "emails": [
       "edward@ukminibushire.com"
     ],
-    "description": "When you hire with Durham coach hire, one of our drivers with minibus or coach, will accommodate your group of any size for all types of ocassions"
+    "description": "When you hire with Durham coach hire, one of our drivers with minibus or coach, will accommodate your group of any size for all types of ocassions",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Seaham Coaches Ltd",
@@ -1217,7 +1546,13 @@
     "emails": [
       "bookings@teessideminibushire.com"
     ],
-    "description": "Book 5 to 16 seat minibus from anywhere in the Teesside area, including, Middlesbrough, Stockton, Redcar, Hartlepool, All national airports covered."
+    "description": "Book 5 to 16 seat minibus from anywhere in the Teesside area, including, Middlesbrough, Stockton, Redcar, Hartlepool, All national airports covered.",
+    "services": [
+      "Airport Transfers",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Eston Minibuses",
@@ -1273,7 +1608,10 @@
     "emails": [
       "paul@pauls.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "H&A Travel Ltd",
@@ -1312,7 +1650,10 @@
     "lng": -1.9556554,
     "found_in_location": "Northumberland",
     "found_with_query": "minibus hire Northumberland",
-    "description": "We\u2019ve got everything you need for your day away, including knowledgeable drivers who know your area inside and out."
+    "description": "We\u2019ve got everything you need for your day away, including knowledgeable drivers who know your area inside and out.",
+    "services": [
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Primrose Coaches",
@@ -1334,7 +1675,10 @@
     "emails": [
       "steve@trurominibus.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "A & J Coaches",
@@ -1403,7 +1747,19 @@
     "lng": -1.241744,
     "found_in_location": "Middlesbrough",
     "found_with_query": "minibus hire Middlesbrough",
-    "description": "We are rapidly gaining a reputation as the North east premier minibus hire with driver company. We have been providing outstanding service covering travel across the whole of the UK."
+    "description": "We are rapidly gaining a reputation as the North east premier minibus hire with driver company. We have been providing outstanding service covering travel across the whole of the UK.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Bowman Travel",
@@ -1425,7 +1781,19 @@
     "emails": [
       "info@bowmantravel.co.uk"
     ],
-    "description": "Executive transport services for race days, sporting events, stag parties, airport transfers, corporate travel, private hire, we cover it all!"
+    "description": "Executive transport services for race days, sporting events, stag parties, airport transfers, corporate travel, private hire, we cover it all!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Enterprise Travel",
@@ -1464,7 +1832,15 @@
     "emails": [
       "sales@westoetravel.co.uk"
     ],
-    "description": "Westoe Travel are Award Winning Independent. Our team have travelled the world for 37 years looking for the best destinations and experiences All holidays are fully protected. Whether you are looking to travel abroad or have a staycation we have something for <b>YOU.</b> We have everything in..."
+    "description": "Westoe Travel are Award Winning Independent. Our team have travelled the world for 37 years looking for the best destinations and experiences All holidays are fully protected. Whether you are looking to travel abroad or have a staycation we have something for <b>YOU.</b> We have everything in...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "M & D Travel Ltd",
@@ -1487,7 +1863,21 @@
       "info@mdtravelcoachhire.co.uk",
       "nicola@mdtravelcoachhire.co.uk"
     ],
-    "description": "Get in touch with the expert travel operators in Stockton-on-Tees for your next trip! Call M&D Travel Ltd today on 01642 658 194 for more information"
+    "description": "Get in touch with the expert travel operators in Stockton-on-Tees for your next trip! Call M&D Travel Ltd today on 01642 658 194 for more information",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "14-Seater Minibus"
+    ]
   },
   {
     "name": "Henry Cooper Coaches",
@@ -1509,7 +1899,11 @@
     "emails": [
       "graham@henrycoopercoaches.com"
     ],
-    "description": "You can always rely on Henry Cooper Coaches for executive coach hire in Newcastle and the surrounding areas. Call us on 07887 501 332 for any details"
+    "description": "You can always rely on Henry Cooper Coaches for executive coach hire in Newcastle and the surrounding areas. Call us on 07887 501 332 for any details",
+    "services": [
+      "Corporate & Executive",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Darras Minibuses",
@@ -1527,7 +1921,23 @@
     "lng": -1.8271065,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "minibus hire Newcastle upon Tyne",
-    "description": "Looking for a reliable minibus company? Look no further than Darras Minibuses, offering minibus hire services in Newcastle. Call now - we'll get you there!"
+    "description": "Looking for a reliable minibus company? Look no further than Darras Minibuses, offering minibus hire services in Newcastle. Call now - we'll get you there!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Telford's Coaches Ltd",
@@ -1549,7 +1959,18 @@
     "emails": [
       "sales@telfordscoaches.com"
     ],
-    "description": "Telford's Luxury Coach Hire Scotland. Great holidays, short breaks, day trips. Private Use, Schools, Universities, Airport & Ferry Transfers"
+    "description": "Telford's Luxury Coach Hire Scotland. Great holidays, short breaks, day trips. Private Use, Schools, Universities, Airport & Ferry Transfers",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "S & S Travel",
@@ -1571,7 +1992,11 @@
     "emails": [
       "sstravel@hotmail.co.uk"
     ],
-    "description": "S & S Travel. Leading the way in high quality minibus travel. Minibus and Coach hire in and around Bishop Auckland 8, 16 and 19 seaters available."
+    "description": "S & S Travel. Leading the way in high quality minibus travel. Minibus and Coach hire in and around Bishop Auckland 8, 16 and 19 seaters available.",
+    "services": [
+      "Airport Transfers",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Liberty Coaches",
@@ -1598,7 +2023,20 @@
       "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
       "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
     ],
-    "description": "Executive Minibus & Coach hire, Party Bus Hire, Northumberland, Newcastle, Tyne & Wear"
+    "description": "Executive Minibus & Coach hire, Party Bus Hire, Northumberland, Newcastle, Tyne & Wear",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "United Group Travel, Coach Holidays",
@@ -1636,7 +2074,11 @@
       "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
       "support@schedulista.com"
     ],
-    "description": "We are United Group Travel based in the North East of England. We offer Coach Holidays around the UK and Ireland. Included in most tours are daily trips out in the locality of the tour, all done in an easy laid back and friendly atmosphere."
+    "description": "We are United Group Travel based in the North East of England. We offer Coach Holidays around the UK and Ireland. Included in most tours are daily trips out in the locality of the tour, all done in an easy laid back and friendly atmosphere.",
+    "services": [
+      "Day Trips & Tours",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Coatham Coaches",
@@ -1654,7 +2096,17 @@
     "lng": -0.991551,
     "found_in_location": "Middlesbrough",
     "found_with_query": "minibus hire Middlesbrough",
-    "description": "Operating since 1980, now joining forces with The Coach Travel Group."
+    "description": "Operating since 1980, now joining forces with The Coach Travel Group.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "THE BOOMBUS PARTY BUS NEWCASTLE",
@@ -1693,7 +2145,18 @@
     "emails": [
       "info@premiertransport-group.co.uk"
     ],
-    "description": "Explore and see more with Premier Transport. Join us on one of our affordable coach day trips from Newcastle to some of the most amazing places in the UK."
+    "description": "Explore and see more with Premier Transport. Join us on one of our affordable coach day trips from Newcastle to some of the most amazing places in the UK.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "J&C Coaches",
@@ -1715,7 +2178,16 @@
     "emails": [
       "jandccoaches@gmail.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Night Out Transport",
+      "School Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "33-Seater Coach"
+    ]
   },
   {
     "name": "Minibus Hire Durham",
@@ -1737,7 +2209,21 @@
     "emails": [
       "enquiries@leadxminibuses.co.uk"
     ],
-    "description": "Our Luxury minibus hire company is based in Durham. We provide first-class mini-bus hire service for all your transport needs. Book now."
+    "description": "Our Luxury minibus hire company is based in Durham. We provide first-class mini-bus hire service for all your transport needs. Book now.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Linthorpe Mini Buses",
@@ -1759,7 +2245,10 @@
     "emails": [
       "info@linthorpeminibuses.co.uk"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "J H Coaches",
@@ -1788,7 +2277,15 @@
       "contact@jhcoaches.com",
       "sales@jhcoaches.com"
     ],
-    "description": "We offer bus & coach transport in and around Newcastle, Sunderland & Durham! With over 35 years' experience in transport industry, here at JH Coaches we pride ourselves on our attention to detail and high quality service. We offer a variety of services including private hire, day trips & our..."
+    "description": "We offer bus & coach transport in and around Newcastle, Sunderland & Durham! With over 35 years' experience in transport industry, here at JH Coaches we pride ourselves on our attention to detail and high quality service. We offer a variety of services including private hire, day trips & our...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Keith's Coaches Ltd",
@@ -1833,7 +2330,10 @@
     "emails": [
       "maudescoaches@hotmail.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Nightingale Coaches",
@@ -1855,7 +2355,23 @@
     "emails": [
       "mail@nightingalecoaches.com"
     ],
-    "description": "Nightingale Coaches Provide high quality coaches in the beautiful County of Durham in the North East of England."
+    "description": "Nightingale Coaches Provide high quality coaches in the beautiful County of Durham in the North East of England.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "R Binks Minibuses",
@@ -1894,7 +2410,14 @@
     "emails": [
       "enquiries@gillinghamscoaches.co.uk"
     ],
-    "description": "The fleet has grown from a single coach to now provide a range of vehicles from 25 to 70 seats. For the last 90+ years we have provided coach travel throughout the UK #, from local excursions to holiday tours."
+    "description": "The fleet has grown from a single coach to now provide a range of vehicles from 25 to 70 seats. For the last 90+ years we have provided coach travel throughout the UK #, from local excursions to holiday tours.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport"
+    ]
   },
   {
     "name": "DH1 Travel",
@@ -1917,7 +2440,12 @@
       "info@dh1travel.co.uk",
       "info@dh1travel.com"
     ],
-    "description": "We are a minibus hire company and travel agent based in Durham. We provide exceptional mini-bus hire service for all your transport needs. Book now."
+    "description": "We are a minibus hire company and travel agent based in Durham. We provide exceptional mini-bus hire service for all your transport needs. Book now.",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Denton Travel",
@@ -1939,7 +2467,20 @@
     "emails": [
       "admin@dentontravel.co.uk"
     ],
-    "description": "Your Top Choice for Travel in Newcastle and Surrounding Areas \u2013 Choose Denton Travel for Unmatched Quality!"
+    "description": "Your Top Choice for Travel in Newcastle and Surrounding Areas \u2013 Choose Denton Travel for Unmatched Quality!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Campbells Mini Buses",
@@ -1962,6 +2503,15 @@
       "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
       "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
       "sjcampbell21@hotmail.co.uk"
+    ],
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
     ]
   },
   {
@@ -2005,7 +2555,19 @@
       "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
       "plbrrtt783@hotmail.com"
     ],
-    "description": "Connor's Minibuses, North East of England, Consett, Chester le street, Newcastle, stag & hen parties, airport transfers, Sporting Events, Weddings, Minibus hire Durham"
+    "description": "Connor's Minibuses, North East of England, Consett, Chester le street, Newcastle, stag & hen parties, airport transfers, Sporting Events, Weddings, Minibus hire Durham",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Hepworths Travel",
@@ -2027,7 +2589,18 @@
     "emails": [
       "hepworthstravel@aol.com"
     ],
-    "description": "We offer convenient, reliable and luxurious transport in the Peterlee area. Hepworths Travel boasts a modern fleet of saloons, minibuses and limousines - guaranteed safe, clean and on time."
+    "description": "We offer convenient, reliable and luxurious transport in the Peterlee area. Hepworths Travel boasts a modern fleet of saloons, minibuses and limousines - guaranteed safe, clean and on time.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "CHAPMAN TRAVEL",
@@ -2066,7 +2639,14 @@
     "emails": [
       "info@am-hire.co.uk"
     ],
-    "description": "Putting you in the driver's seat, AM Hire offers van hire in Newcastle and across the North East. Cheap van hire in Newcastle. Click Now to Book Online."
+    "description": "Putting you in the driver's seat, AM Hire offers van hire in Newcastle and across the North East. Cheap van hire in Newcastle. Click Now to Book Online.",
+    "services": [
+      "Day Trips & Tours"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "17-Seater Minibus"
+    ]
   },
   {
     "name": "Glen Valley Tours Ltd",
@@ -2123,7 +2703,14 @@
       "admin@watbus.org.uk",
       "cycling@watbus.org.uk"
     ],
-    "description": "Our mission is to provide friendly and professional community transport and cycling services to enhance the connectedness, social inclusion and mental and physical well-being of the people and communities we serve."
+    "description": "Our mission is to provide friendly and professional community transport and cycling services to enhance the connectedness, social inclusion and mental and physical well-being of the people and communities we serve.",
+    "services": [
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire"
+    ]
   },
   {
     "name": "AA of Alnwick",
@@ -2145,7 +2732,10 @@
     "emails": [
       "info@alnwicktaxis.co.uk"
     ],
-    "description": "Looking for a taxi service in Alnwick? Alnwick's largest taxi firm, wheelchair accessible, airport & rail transfers, contract hire. Book now: 01665 60 60 60"
+    "description": "Looking for a taxi service in Alnwick? Alnwick's largest taxi firm, wheelchair accessible, airport & rail transfers, contract hire. Book now: 01665 60 60 60",
+    "services": [
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Travelability (UK) Ltd",
@@ -2168,7 +2758,10 @@
       "sales@travelabilityukltd.co.uk",
       "travelabilityuk@hotmail.com"
     ],
-    "description": "Mobility scooters, stairlifts & living aids in Whitley Bay, Tyneside | Family-run with 50+ years' experience | Finance options available | Contact us today! \u2192"
+    "description": "Mobility scooters, stairlifts & living aids in Whitley Bay, Tyneside | Family-run with 50+ years' experience | Finance options available | Contact us today! \u2192",
+    "services": [
+      "Religious & Community"
+    ]
   },
   {
     "name": "Longlands Travel Ltd",
@@ -2220,7 +2813,12 @@
       "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
       "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com"
     ],
-    "description": "Established in 1997, Maynards Travel offers coach and minibus hire to customers across North East England. All our drivers are DBS checked, and our vehicles are regularly maintained to provide you with a comfortable journey every time you hire us."
+    "description": "Established in 1997, Maynards Travel offers coach and minibus hire to customers across North East England. All our drivers are DBS checked, and our vehicles are regularly maintained to provide you with a comfortable journey every time you hire us.",
+    "services": [
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport"
+    ]
   },
   {
     "name": "Wardley Coaches",
@@ -2242,7 +2840,19 @@
     "emails": [
       "wardleycoaches@hotmail.co.uk"
     ],
-    "description": "Based in Gateshead, we have a fleet of minibuses and coaches, ranging from 10 seats to 49 seats, which can take you to any destination in the UK safely and on time."
+    "description": "Based in Gateshead, we have a fleet of minibuses and coaches, ranging from 10 seats to 49 seats, which can take you to any destination in the UK safely and on time.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Swift Travel Mini Bus Services",
@@ -2298,7 +2908,15 @@
     "emails": [
       "info@northeastcoachtravel.co.uk"
     ],
-    "description": "We are the North East\u2019s premier coach company with extensive experience delivering your transport needs."
+    "description": "We are the North East\u2019s premier coach company with extensive experience delivering your transport needs.",
+    "services": [
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Compass Royston Travel Ltd",
@@ -2320,7 +2938,18 @@
     "emails": [
       "enquiries@compassroyston.com"
     ],
-    "description": "Coach Hire Stockton, Middlesbrough & Teeside. We have a large range of vehicles from 16 to 53 seats with facilities to accommodate your needs. Call Now."
+    "description": "Coach Hire Stockton, Middlesbrough & Teeside. We have a large range of vehicles from 16 to 53 seats with facilities to accommodate your needs. Call Now.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "L & G Coaches",
@@ -2355,7 +2984,10 @@
     "lng": -1.5023647,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "minibus hire Newcastle upon Tyne",
-    "description": "Just Group provide a comprehensive range of high quality Recruitment, Travel & Security Services, both locally and nationally."
+    "description": "Just Group provide a comprehensive range of high quality Recruitment, Travel & Security Services, both locally and nationally.",
+    "services": [
+      "Corporate & Executive"
+    ]
   },
   {
     "name": "Whitestar Travel",
@@ -2377,7 +3009,14 @@
     "emails": [
       "name@email.com"
     ],
-    "description": "Coach and Minibus Hire, School Transport, Wedding Hire and Corporate Services available in the Sunderland, Peterlee and Newcastle areas"
+    "description": "Coach and Minibus Hire, School Transport, Wedding Hire and Corporate Services available in the Sunderland, Peterlee and Newcastle areas",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Stanley Travel",
@@ -2399,7 +3038,14 @@
     "emails": [
       "sales@stanley-travel.com"
     ],
-    "description": "Stanley Travel are an award-winning, family run travel company providing coach, bus & taxi hire, as well as day trips & holiday services."
+    "description": "Stanley Travel are an award-winning, family run travel company providing coach, bus & taxi hire, as well as day trips & holiday services.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "H Atkinson and Sons (Ingleby) Ltd",
@@ -2421,7 +3067,14 @@
     "emails": [
       "office@atkinsoncoaches.co.uk"
     ],
-    "description": "Coach hire, Luxury Executive Coach Travel. Family company established in 1922. Northallerton, North Yorkshire. UK and European tours. Private Hire, Group Travel, Coach Holidays."
+    "description": "Coach hire, Luxury Executive Coach Travel. Family company established in 1922. Northallerton, North Yorkshire. UK and European tours. Private Hire, Group Travel, Coach Holidays.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport"
+    ]
   },
   {
     "name": "A M Hire Sunderland - Van & Car Hire",
@@ -2443,7 +3096,14 @@
     "emails": [
       "info@am-hire.co.uk"
     ],
-    "description": "Putting you in the driver's seat, AM Hire offers van hire in Newcastle and across the North East. Cheap van hire in Newcastle. Click Now to Book Online."
+    "description": "Putting you in the driver's seat, AM Hire offers van hire in Newcastle and across the North East. Cheap van hire in Newcastle. Click Now to Book Online.",
+    "services": [
+      "Day Trips & Tours"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "17-Seater Minibus"
+    ]
   },
   {
     "name": "H & A Travel Limited",
@@ -2484,7 +3144,13 @@
       "shaun.jewitt@jewittscoaches.co.uk",
       "tony.jewitt@jewittscoaches.co.uk"
     ],
-    "description": "Jewitts Coaches are a well experienced and established Family Coach Company since 1928."
+    "description": "Jewitts Coaches are a well experienced and established Family Coach Company since 1928.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Delta Coaches Ltd",
@@ -2506,7 +3172,16 @@
     "emails": [
       "admin@deltacoaches.co.uk"
     ],
-    "description": "Delta Coaches Ltd your trusted choice for quality coach hire in Teesside, UK & Europe. 8 to 70-seat vehicles."
+    "description": "Delta Coaches Ltd your trusted choice for quality coach hire in Teesside, UK & Europe. 8 to 70-seat vehicles.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Generation Travel",
@@ -2528,7 +3203,17 @@
     "emails": [
       "admin@generationtravel.co.uk"
     ],
-    "description": "Generation Travel of Stokesley, Coach hire, Day Excursions, Tours and Private hire, local pick up points covering teesside and the north east. 01642 714918"
+    "description": "Generation Travel of Stokesley, Coach hire, Day Excursions, Tours and Private hire, local pick up points covering teesside and the north east. 01642 714918",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Roberts Tours",
@@ -2605,6 +3290,15 @@
     "email": "info@cooperstourmaster.co.uk",
     "emails": [
       "info@cooperstourmaster.co.uk"
+    ],
+    "services": [
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "70-Seater Coach"
     ]
   },
   {
@@ -2627,7 +3321,11 @@
     "emails": [
       "coaches@hodgsonsgroup.com"
     ],
-    "description": "Hodgsons Group, Coaches, Mini Bus, Taxis, Barnard Castle"
+    "description": "Hodgsons Group, Coaches, Mini Bus, Taxis, Barnard Castle",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport"
+    ]
   },
   {
     "name": "Lee's Coaches",
@@ -2649,7 +3347,14 @@
     "emails": [
       "info@leescoaches.co.uk"
     ],
-    "description": "Lees Coaches Ltd; Durham's Largest Coach Operator - Coach Hire Durham, Day Excursions Durham, Mini Bus Hire, Call 0191 3780653"
+    "description": "Lees Coaches Ltd; Durham's Largest Coach Operator - Coach Hire Durham, Day Excursions Durham, Mini Bus Hire, Call 0191 3780653",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Rowell Coaches Ltd",
@@ -2689,7 +3394,16 @@
     "emails": [
       "info@wrightbros.co.uk"
     ],
-    "description": "Depots in Cumbria and Newcastle, Wrights Bros Ltd offer a reliable, dependable and experienced private hire and public coach service. Whatever your, event, trip or special occasion, ask for a quote here before you look anywhere else."
+    "description": "Depots in Cumbria and Newcastle, Wrights Bros Ltd offer a reliable, dependable and experienced private hire and public coach service. Whatever your, event, trip or special occasion, ask for a quote here before you look anywhere else.",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "33-Seater Coach",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "A-Line Coaches",
@@ -2711,7 +3425,12 @@
     "emails": [
       "sales@lggrouptravel.com"
     ],
-    "description": "After nearly 52 years of proudly serving the North East, the A-line Coaches operation has now been transferred toL&G (NE) Group Ltd."
+    "description": "After nearly 52 years of proudly serving the North East, the A-line Coaches operation has now been transferred toL&G (NE) Group Ltd.",
+    "services": [
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport"
+    ]
   },
   {
     "name": "Premier Bus & Coach",
@@ -2767,7 +3486,21 @@
     "emails": [
       "enquiries@leadxminibuses.co.uk"
     ],
-    "description": "Minibus Hire Newcastle is provided by an experienced and qualified driver. Comparing our prices with our competitors, we offer 12, 14, 16, and 18-seat minibuses."
+    "description": "Minibus Hire Newcastle is provided by an experienced and qualified driver. Comparing our prices with our competitors, we offer 12, 14, 16, and 18-seat minibuses.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Snowdon Coaches",
@@ -2785,7 +3518,19 @@
     "lng": -1.3507658,
     "found_in_location": "Sunderland",
     "found_with_query": "coach hire Sunderland",
-    "description": "Private coach hire has been the mainstay of our business for over 60 years. With our large fleet of modern luxury coaches, Snowdon Coaches provides a safe, comfortable and environmentally-friendly vehicle to suit your every need."
+    "description": "Private coach hire has been the mainstay of our business for over 60 years. With our large fleet of modern luxury coaches, Snowdon Coaches provides a safe, comfortable and environmentally-friendly vehicle to suit your every need.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Badger Minibus Hire",
@@ -2824,7 +3569,12 @@
     "emails": [
       "busliberty@aol.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport"
+    ]
   },
   {
     "name": "Rowell Coaches",
@@ -2900,7 +3650,16 @@
       "gateshead@communitytransport.org",
       "newcastle@communitytransport.org"
     ],
-    "description": "Community Transport is a charity that brings people and opportunities together to help transform lives and build better communities."
+    "description": "Community Transport is a charity that brings people and opportunities together to help transform lives and build better communities.",
+    "services": [
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "L&B Travel Ltd",
@@ -2973,7 +3732,10 @@
     "emails": [
       "raynere@talktalk.net"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Anytime Travel Of Darlington",
@@ -3041,7 +3803,11 @@
     "lat": 54.8964383,
     "lng": -1.5634443,
     "found_in_location": "Washington",
-    "found_with_query": "coach hire Washington"
+    "found_with_query": "coach hire Washington",
+    "services": [
+      "Religious & Community",
+      "School Transport"
+    ]
   },
   {
     "name": "Howard Snaith Coaches",
@@ -3063,7 +3829,12 @@
     "emails": [
       "info@howardsnaith.co.uk"
     ],
-    "description": "Business and hospitality, won\u2019t be a problem with our professional personalised service we deliver with the highest standards. We can make your travelling experience one that will be remembered."
+    "description": "Business and hospitality, won\u2019t be a problem with our professional personalised service we deliver with the highest standards. We can make your travelling experience one that will be remembered.",
+    "services": [
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "School Transport"
+    ]
   },
   {
     "name": "Rothbury Motors",
@@ -3085,7 +3856,20 @@
     "emails": [
       "info@rothburymotors.co.uk"
     ],
-    "description": "A family firm established in Northumberland, with coach hire Newcastle offering excellent service and commitment to our customers. Call 01665 606616"
+    "description": "A family firm established in Northumberland, with coach hire Newcastle offering excellent service and commitment to our customers. Call 01665 606616",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Hadrian Mini Bus Services",
@@ -3124,7 +3908,10 @@
     "emails": [
       "david.dovetravel@gmail.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Party Bus North East",
@@ -3146,7 +3933,15 @@
     "emails": [
       "info@northeastcoachtravel.co.uk"
     ],
-    "description": "We are the North East\u2019s premier coach company with extensive experience delivering your transport needs."
+    "description": "We are the North East\u2019s premier coach company with extensive experience delivering your transport needs.",
+    "services": [
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Blueline Group",
@@ -3168,7 +3963,11 @@
     "emails": [
       "garage@blueline-group.com"
     ],
-    "description": "Blueline Group provides the best service 364 days a year through North Tyneside, Newcastle, Gateshead, Northumberland, South Tyneside, Durham and more."
+    "description": "Blueline Group provides the best service 364 days a year through North Tyneside, Newcastle, Gateshead, Northumberland, South Tyneside, Durham and more.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive"
+    ]
   },
   {
     "name": "pcl travel",
@@ -3185,7 +3984,17 @@
     "lat": 54.9597368,
     "lng": -1.8452434,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "coach hire Newcastle upon Tyne"
+    "found_with_query": "coach hire Newcastle upon Tyne",
+    "services": [
+      "Airport Transfers",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Bus 2 Limited",
@@ -3203,7 +4012,22 @@
     "lng": -1.362653,
     "found_in_location": "Sunderland",
     "found_with_query": "minibus hire Sunderland",
-    "description": "Welcome to Bus 2 Limited! We are a family run mini bus hire service based in Sunderland. We work 24/7 across the UK, get in touch for a quote!"
+    "description": "Welcome to Bus 2 Limited! We are a family run mini bus hire service based in Sunderland. We work 24/7 across the UK, get in touch for a quote!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Barrons Minibuses",
@@ -3272,7 +4096,20 @@
     "lng": -1.5974542,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "minibus hire Newcastle upon Tyne",
-    "description": "Explore Newcastle effortlessly with Minibus Hire Newcastle \u2013 your ticket to stress-free group travel."
+    "description": "Explore Newcastle effortlessly with Minibus Hire Newcastle \u2013 your ticket to stress-free group travel.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Long Distance & Nationwide"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Wilkinson Travel",
@@ -3294,7 +4131,12 @@
     "emails": [
       "info@wilkinsontravel.co.uk"
     ],
-    "description": "A variety of services are available providing coaches for private hire, school hire, contract hire, day excursions and coach tours. Our booking office can assist in the booking of venues if required. Drivers are fully CPC qualified and receive regular updates in their training awareness and..."
+    "description": "A variety of services are available providing coaches for private hire, school hire, contract hire, day excursions and coach tours. Our booking office can assist in the booking of venues if required. Drivers are fully CPC qualified and receive regular updates in their training awareness and...",
+    "services": [
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport"
+    ]
   },
   {
     "name": "Badger Mini Bus Hire Limited",

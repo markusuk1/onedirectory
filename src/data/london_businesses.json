@@ -19,7 +19,28 @@
     "emails": [
       "bookings@lowcostcoachhire.co.uk"
     ],
-    "description": "Discover the best coach hire options in London for comfort and reliability. Perfect for any occasion. Read more to find your ideal travel solution!"
+    "description": "Discover the best coach hire options in London for comfort and reliability. Perfect for any occasion. Read more to find your ideal travel solution!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "29-Seater Coach",
+      "49-Seater Coach",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "London Minibus Hire",
@@ -41,7 +62,26 @@
     "emails": [
       "bookings@london-minibus-hire.co.uk"
     ],
-    "description": "London Minibus Hire provides affordable coaches and 3-16 seater minibuses in London. Call 02034757567 & book our minibus hire London company today!"
+    "description": "London Minibus Hire provides affordable coaches and 3-16 seater minibuses in London. Call 02034757567 & book our minibus hire London company today!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus London",
@@ -63,7 +103,10 @@
     "emails": [
       "info@minibuslondon.org"
     ],
-    "description": "Intro page to GB Coach Hire. GB Coach Hire has been providing professional coach hire to private and corporate customers for many years. We\u2019ve built up a fantastic reputation, becoming renowned throughout the UK for our commitment to comfort, safety and value for money."
+    "description": "Intro page to GB Coach Hire. GB Coach Hire has been providing professional coach hire to private and corporate customers for many years. We\u2019ve built up a fantastic reputation, becoming renowned throughout the UK for our commitment to comfort, safety and value for money.",
+    "services": [
+      "Long Distance & Nationwide"
+    ]
   },
   {
     "name": "Minibus Hire London",
@@ -85,7 +128,28 @@
     "emails": [
       "bookings@minibushirelondon.net"
     ],
-    "description": "Minibus Hire London is a Company that provides 8 10 12 16 18 seat transport and coach hire.Prices starting from \u00a339."
+    "description": "Minibus Hire London is a Company that provides 8 10 12 16 18 seat transport and coach hire.Prices starting from \u00a339.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "17-Seater Minibus",
+      "24-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "London Minibus hire/rentals",
@@ -110,7 +174,23 @@
       "john@gmail.com",
       "johndoe@email.com"
     ],
-    "description": "Affordable and reliable minibus hire with driver in London. Ideal for airport transfers, corporate travel, school trips and group transport across the UK."
+    "description": "Affordable and reliable minibus hire with driver in London. Ideal for airport transfers, corporate travel, school trips and group transport across the UK.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Slick Minibus and Coach Hire",
@@ -128,7 +208,18 @@
     "lng": -0.1242133,
     "found_in_location": "Central London",
     "found_with_query": "minibus hire Central London",
-    "description": "Explore our full range of transport solutions, including business, private, and event travel. Flexible options tailored to your needs."
+    "description": "Explore our full range of transport solutions, including business, private, and event travel. Flexible options tailored to your needs.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Swift Coach Hire",
@@ -150,7 +241,27 @@
     "emails": [
       "info@swiftcoachhire.com"
     ],
-    "description": "Swift Coach Hire: UK's leading 24/7 minibus & coach Hire with driver. From luxury 8-seater minibuses to spacious 72-seater coaches, we've got your airport transfers, events, and journeys covered."
+    "description": "Swift Coach Hire: UK's leading 24/7 minibus & coach Hire with driver. From luxury 8-seater minibuses to spacious 72-seater coaches, we've got your airport transfers, events, and journeys covered.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -190,7 +301,19 @@
       "info@boatparty-london.com",
       "info@hire-coach.net"
     ],
-    "description": "Coach Hire London - Bus & Minibus Rental in London & UK - Airport Transfer to/from Hotels & Sightseeing Tours Since 1988 - Tel: 07387 595 060"
+    "description": "Coach Hire London - Bus & Minibus Rental in London & UK - Airport Transfer to/from Hotels & Sightseeing Tours Since 1988 - Tel: 07387 595 060",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Prime Coach Hire",
@@ -212,7 +335,17 @@
     "emails": [
       "info@primecoachhire.com"
     ],
-    "description": "Prime Coach Hire is a fast growing coach hire company that offers the best coach hire at the lowest prices. We guarantee to beat any like for like quote by 10% and we offer a nationwide service."
+    "description": "Prime Coach Hire is a fast growing coach hire company that offers the best coach hire at the lowest prices. We guarantee to beat any like for like quote by 10% and we offer a nationwide service.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "London Minibus Hire",
@@ -234,7 +367,27 @@
     "emails": [
       "bookings@minibus-hire-london.com"
     ],
-    "description": "London Minibus hire provides reliable chauffeur-driven minibuses and coaches in London. Call us at 203 7456 247 for bookings!"
+    "description": "London Minibus hire provides reliable chauffeur-driven minibuses and coaches in London. Call us at 203 7456 247 for bookings!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "London Coach Hire",
@@ -256,7 +409,20 @@
     "emails": [
       "admin@londoncoach.net"
     ],
-    "description": "\"When looking for a coach hire service for our staff day out we received many quotes from various companies in the London area. It was London Coach Company that provided us with the cheapest quote. This was combined with an excellent service. Will almost certainly use their service again\"Chris..."
+    "description": "\"When looking for a coach hire service for our staff day out we received many quotes from various companies in the London area. It was London Coach Company that provided us with the cheapest quote. This was combined with an excellent service. Will almost certainly use their service again\"Chris...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Bus Hire Connect - Minibus hire London",
@@ -295,7 +461,22 @@
     "emails": [
       "chat@thebigminibus.com"
     ],
-    "description": "The Big Minibus provides professional and comfortable minibus hire in London for personal and professional use."
+    "description": "The Big Minibus provides professional and comfortable minibus hire in London for personal and professional use.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "21st Century Coach Hire",
@@ -317,7 +498,32 @@
     "emails": [
       "enquiry@coachhireinlondon.org"
     ],
-    "description": "Get the best deals on private coach hire in London for airport transfers, day trips, stag dos and more. Affordable 16-33-49 seater coach options available. Book now with our cheap coach company."
+    "description": "Get the best deals on private coach hire in London for airport transfers, day trips, stag dos and more. Affordable 16-33-49 seater coach options available. Book now with our cheap coach company.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Coach Scanner",
@@ -339,7 +545,31 @@
     "emails": [
       "support@coachscanner.co.uk"
     ],
-    "description": "Compare coach and minibus hire prices with Coach Scanner, your trusted site for private and corporate events, complete with a driver. Get prices and book now."
+    "description": "Compare coach and minibus hire prices with Coach Scanner, your trusted site for private and corporate events, complete with a driver. Get prices and book now.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "29-Seater Coach",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "53-Seater Coach",
+      "57-Seater Coach",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "London Minibus Company",
@@ -363,7 +593,18 @@
       "ibookings@minibusandcoachhire.com",
       "info@demolink.org"
     ],
-    "description": "Minibus Hire London is a company based in greater London offering minibus hire with the driver at great prices. You can get an instant quote to book your next jouney"
+    "description": "Minibus Hire London is a company based in greater London offering minibus hire with the driver at great prices. You can get an instant quote to book your next jouney",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -402,7 +643,24 @@
     "emails": [
       "ilyastravel@yahoo.com"
     ],
-    "description": "Minibus hire with driver London. 12, 14, 16, 20 seater minibus hire London, Reliable, comfortable and affordable. Book with Ilyas Travel today"
+    "description": "Minibus hire with driver London. 12, 14, 16, 20 seater minibus hire London, Reliable, comfortable and affordable. Book with Ilyas Travel today",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -441,7 +699,24 @@
     "emails": [
       "reservations@acecoachhire.com"
     ],
-    "description": "Discover top-notch minibus hire, coach hire, and airport transport services for group transportation throughout the UK. Book ACE Coach Hire NOW!"
+    "description": "Discover top-notch minibus hire, coach hire, and airport transport services for group transportation throughout the UK. Book ACE Coach Hire NOW!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus Price Compare",
@@ -459,7 +734,17 @@
     "lng": -0.121736,
     "found_in_location": "Central London",
     "found_with_query": "minibus hire Central London",
-    "description": "Minibus Taxi Service. Compare minibus taxi quotes from 100s of local companies. Find the best price and book online or by phone. Call Minibus Price Compare now."
+    "description": "Minibus Taxi Service. Compare minibus taxi quotes from 100s of local companies. Find the best price and book online or by phone. Call Minibus Price Compare now.",
+    "services": [
+      "Airport Transfers",
+      "Long Distance & Nationwide",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "17-Seater Minibus"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -499,7 +784,19 @@
       "enquiries@book-n-go.co.uk",
       "enquiries@letsbookngo.com"
     ],
-    "description": "Book 'n' Go are a professional London based coach hire company operating across the whole of the UK and Europe."
+    "description": "Book 'n' Go are a professional London based coach hire company operating across the whole of the UK and Europe.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Darsons Minibuses",
@@ -555,7 +852,11 @@
     "emails": [
       "info@sbcoaches.co.uk"
     ],
-    "description": "SB Coaches offer a service of exclusive, safe and reliable transport for national and international clients."
+    "description": "SB Coaches offer a service of exclusive, safe and reliable transport for national and international clients.",
+    "services": [
+      "Corporate & Executive",
+      "School Transport"
+    ]
   },
   {
     "name": "Luxury Minibus London",
@@ -577,7 +878,17 @@
     "emails": [
       "info@luxuryminibuslondon.co.uk"
     ],
-    "description": "Luxury Minibus Hire London/UK with Driver! Our Mercedes Luxury Minibuses hires with friendly drivers, there around London and UK Tours or Corporate VIP events."
+    "description": "Luxury Minibus Hire London/UK with Driver! Our Mercedes Luxury Minibuses hires with friendly drivers, there around London and UK Tours or Corporate VIP events.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "Ace Mini Bus Hire",
@@ -616,7 +927,25 @@
     "emails": [
       "bookings@eastlondon-minibus-hire.co.uk"
     ],
-    "description": "East London Minibus Hire provides chauffeur-driven minibuses and coaches. Focussed on customer satisfaction. Call us now at 0203 7456 247."
+    "description": "East London Minibus Hire provides chauffeur-driven minibuses and coaches. Focussed on customer satisfaction. Call us now at 0203 7456 247.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "DJ Coaches",
@@ -638,7 +967,15 @@
     "emails": [
       "sales@djcoaches.co.uk"
     ],
-    "description": "Travel on board a quality coach, getting you to your function, event, holiday destination or anywhere else safely and comfortably. Get your coach quote."
+    "description": "Travel on board a quality coach, getting you to your function, event, holiday destination or anywhere else safely and comfortably. Get your coach quote.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "London Minibus Rental | Cheap Minibus Hire | Coach Hire | Self Drive Minibus Hire | Mini Bus Hire with Driver",
@@ -678,7 +1015,12 @@
       "booking@ecminibus.com",
       "info@ecminibus.com"
     ],
-    "description": "EC Minibus offers Private Cruise Transfers, London Airport Transfers, and Private Sightseeing Tours in London and beyond. Our fleet includes Sedans, Minivans, Vans, and Minibuses, accommodating any group size. All vehicles are air-conditioned, spacious, and well-maintained for a comfortable,..."
+    "description": "EC Minibus offers Private Cruise Transfers, London Airport Transfers, and Private Sightseeing Tours in London and beyond. Our fleet includes Sedans, Minivans, Vans, and Minibuses, accommodating any group size. All vehicles are air-conditioned, spacious, and well-maintained for a comfortable,...",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "City Minibus Hire",
@@ -701,7 +1043,25 @@
       "info@cityminibus.co.uk",
       "info@cityminibushire.co.uk"
     ],
-    "description": "Newham East London City Minibus Hire 2 Heigham Rd, London E6 2JG, UK (+44) 20 3667 9594"
+    "description": "Newham East London City Minibus Hire 2 Heigham Rd, London E6 2JG, UK (+44) 20 3667 9594",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Blackburn Minibus Hire",
@@ -723,7 +1083,25 @@
     "emails": [
       "bookings@minibushireblackburn.co.uk"
     ],
-    "description": "Minibus Hire Blackburn is a minibus hire company located in Lancashire that will present you with the best solutions when it comes to transport services for large groups."
+    "description": "Minibus Hire Blackburn is a minibus hire company located in Lancashire that will present you with the best solutions when it comes to transport services for large groups.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Principal Coach HIre Ltd",
@@ -762,7 +1140,28 @@
     "emails": [
       "info@travelforce.co.uk"
     ],
-    "description": "Travel Force offers affordable minibus and coach hire in London, including 8, 16, 22 minibuses and 35 to 72 seater coach hire with drivers."
+    "description": "Travel Force offers affordable minibus and coach hire in London, including 8, 16, 22 minibuses and 35 to 72 seater coach hire with drivers.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "17-Seater Minibus",
+      "57-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Coach Hire",
@@ -784,7 +1183,28 @@
     "emails": [
       "edward@ukminibushire.com"
     ],
-    "description": "Trust in our minibus hire options to get your group safely to the destination of your choice from Hackney. We have many satisfied customers and low costs."
+    "description": "Trust in our minibus hire options to get your group safely to the destination of your choice from Hackney. We have many satisfied customers and low costs.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "A1 Holloway Car, Van & Minibus Rental in London",
@@ -806,7 +1226,10 @@
     "emails": [
       "info@a1hollowayrental.co.uk"
     ],
-    "description": "Car Hire London,Van Hire London & Minibus Hire London,Self Drive Rental Agency. Small, Medium Cars; MPV For Rental, Vans All sizes, Transit; Luton Van Hire. Minibuse Rental.Based in Islington, Camden, Haringey; Near Central London. Cheapest in London"
+    "description": "Car Hire London,Van Hire London & Minibus Hire London,Self Drive Rental Agency. Small, Medium Cars; MPV For Rental, Vans All sizes, Transit; Luton Van Hire. Minibuse Rental.Based in Islington, Camden, Haringey; Near Central London. Cheapest in London",
+    "vehicles": [
+      "17-Seater Minibus"
+    ]
   },
   {
     "name": "Direct Coach Hire",
@@ -828,7 +1251,17 @@
     "emails": [
       "info@directcoachhire.com"
     ],
-    "description": "Top-Rated Coach Hire Across the UK"
+    "description": "Top-Rated Coach Hire Across the UK",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "247 Coach Hire",
@@ -846,7 +1279,20 @@
     "lng": -0.09352139999999999,
     "found_in_location": "Central London",
     "found_with_query": "coach hire Central London",
-    "description": "247 Coach Hire in London provides professional transfers in London. Access our gallery for images of our vehicles."
+    "description": "247 Coach Hire in London provides professional transfers in London. Access our gallery for images of our vehicles.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "TransCoaches Ltd",
@@ -868,7 +1314,26 @@
     "emails": [
       "info@transcoaches.com"
     ],
-    "description": "Minibus Hire | Coach HireHire a minibus or coach with a driver in the UK.Fill the Form, Alternatively Call+44 20 8163 2926.You can also send us Email atinfo@transcoaches.comJourney Type:SingleReturnTour/BespokePick-up location:Drop-off location:Pick-up date:Pick-up time:Return date:Return..."
+    "description": "Minibus Hire | Coach HireHire a minibus or coach with a driver in the UK.Fill the Form, Alternatively Call+44 20 8163 2926.You can also send us Email atinfo@transcoaches.comJourney Type:SingleReturnTour/BespokePick-up location:Drop-off location:Pick-up date:Pick-up time:Return date:Return...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Global Coach Company",
@@ -891,7 +1356,23 @@
       "info@globalcoachcompany.com",
       "reservations@globalcoachcompany.com"
     ],
-    "description": "Reliable minibus hire services across the UK. Affordable rates, professional drivers, and comfortable travel with Global Coach Company. Book now!"
+    "description": "Reliable minibus hire services across the UK. Affordable rates, professional drivers, and comfortable travel with Global Coach Company. Book now!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "24-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Osprey Coaches- Coach Hire in London, Essex, Suffolk and Chelmsford",
@@ -914,7 +1395,15 @@
       "info@ospreycoaches.com",
       "user@domain.com"
     ],
-    "description": "Osprey Coaches provides coach & minibus hire across Chelmsford, London, Essex, Suffolk, Felixstowe, Upminster, Dagenham, Braintree, Brentwood, Harlow."
+    "description": "Osprey Coaches provides coach & minibus hire across Chelmsford, London, Essex, Suffolk, Felixstowe, Upminster, Dagenham, Braintree, Brentwood, Harlow.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "The Coach Company",
@@ -939,7 +1428,20 @@
       "ops@thecoachcompany.com",
       "sales@thecoachcompany.co.uk"
     ],
-    "description": "Welcome to THEcoachcompany.co.uk, The United Kingdom\u2019s leading private company for coach hire with an outstanding reputation for offering friendly professional group transportation services at competitive rates. THEcoachcompany.co.uk is renowned for its ability to provide superiorgroup..."
+    "description": "Welcome to THEcoachcompany.co.uk, The United Kingdom\u2019s leading private company for coach hire with an outstanding reputation for offering friendly professional group transportation services at competitive rates. THEcoachcompany.co.uk is renowned for its ability to provide superiorgroup...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "City Circle UK Ltd | Coach Hire London",
@@ -956,7 +1458,17 @@
     "lat": 51.5014572,
     "lng": -0.4263493,
     "found_in_location": "Central London",
-    "found_with_query": "coach hire Central London"
+    "found_with_query": "coach hire Central London",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "London Travel IN Limted - Coach Hire",
@@ -991,7 +1503,21 @@
       "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
       "info@londontravelin.com"
     ],
-    "description": "Whether you are travelling with friends or family members or are organizing a day trip with your colleagues, you can contact us for VIP bus and coach hire in London. To know more about our minibuses hire, call us at +44 2038239739"
+    "description": "Whether you are travelling with friends or family members or are organizing a day trip with your colleagues, you can contact us for VIP bus and coach hire in London. To know more about our minibuses hire, call us at +44 2038239739",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Flow Coach Hire",
@@ -1009,7 +1535,27 @@
     "lng": -0.1118709,
     "found_in_location": "Central London",
     "found_with_query": "coach hire Central London",
-    "description": "Swift Coach Hire: UK's leading 24/7 minibus & coach Hire with driver. From luxury 8-seater minibuses to spacious 72-seater coaches, we've got your airport transfers, events, and journeys covered."
+    "description": "Swift Coach Hire: UK's leading 24/7 minibus & coach Hire with driver. From luxury 8-seater minibuses to spacious 72-seater coaches, we've got your airport transfers, events, and journeys covered.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "READ TRAVEL - Standard & Executive Private Chauffeur Minibus & Coach Hire In London & UK",
@@ -1031,7 +1577,26 @@
     "emails": [
       "bookings@readtravel.co.uk"
     ],
-    "description": "Embark on your journey with Read Travel, your dedicated travel companion, committed to ensuring your every step is met with convenience, style, and nationwide"
+    "description": "Embark on your journey with Read Travel, your dedicated travel companion, committed to ensuring your every step is met with convenience, style, and nationwide",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "17-Seater Minibus",
+      "24-Seater Minibus",
+      "29-Seater Coach",
+      "33-Seater Coach",
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Horseferry Coaches",
@@ -1071,7 +1636,14 @@
       "enquiries@champagnetours.london",
       "help@buses4homeless.org"
     ],
-    "description": "Luxury Party Bus Hire London, from \u00a345pp. Host up to 70 guests in style. Perfect for Private, Corporate events and so much more. Get your FREE quote now."
+    "description": "Luxury Party Bus Hire London, from \u00a345pp. Host up to 70 guests in style. Perfect for Private, Corporate events and so much more. Get your FREE quote now.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Party Bus",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Frank Coaches",
@@ -1093,7 +1665,23 @@
     "emails": [
       "bookings@frankcoaches.co.uk"
     ],
-    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Champion Coaches",
@@ -1115,7 +1703,21 @@
     "emails": [
       "complaints@championcoachhire.co.uk"
     ],
-    "description": "Minibus Hire with Driver Service Provider with Multiple Facilities. Champion Coach Hire is the most reliable Cheap minibus hire london with outstanding reputation."
+    "description": "Minibus Hire with Driver Service Provider with Multiple Facilities. Champion Coach Hire is the most reliable Cheap minibus hire london with outstanding reputation.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus"
+    ]
   },
   {
     "name": "Blueline Luxury Coach Ltd",
@@ -1138,7 +1740,21 @@
       "bluelineluxurycoach@gmail.com",
       "info@bluelineluxurycoach.uk"
     ],
-    "description": "Blueline Luxury Coach Ltd - your transport specialist in London."
+    "description": "Blueline Luxury Coach Ltd - your transport specialist in London.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Panda Coach Hire",
@@ -1161,7 +1777,24 @@
       "example@gmail.com",
       "info@pandacoaches.co.uk"
     ],
-    "description": "Panda Offer Commercial Coaches and Private Coach Hire Across the UK. Contact us Today for a Quote on 0203 30 20 110."
+    "description": "Panda Offer Commercial Coaches and Private Coach Hire Across the UK. Contact us Today for a Quote on 0203 30 20 110.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "29-Seater Coach",
+      "53-Seater Coach",
+      "57-Seater Coach",
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Westway Coach Services Ltd",
@@ -1183,7 +1816,20 @@
     "emails": [
       "info@westway-coaches.co.uk"
     ],
-    "description": "Executive and corporate coach hire services delivered with our unique brand of style, reliability and comfort. Simply the best luxury London coach company."
+    "description": "Executive and corporate coach hire services delivered with our unique brand of style, reliability and comfort. Simply the best luxury London coach company.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "29-Seater Coach"
+    ]
   },
   {
     "name": "London Bus Hire",
@@ -1201,7 +1847,15 @@
     "lng": -0.4520940000000001,
     "found_in_location": "Central London",
     "found_with_query": "coach hire Central London",
-    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also"
+    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Party Bus",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "London Coach Hire Astra Travel",
@@ -1223,7 +1877,21 @@
     "emails": [
       "support@london-coachhire.co.uk"
     ],
-    "description": "London Coach Hire offers luxury and affordable coach and minibus hire across London, the Home Counties and beyond. Ideal for events, weddings and school trips \u2013 book now!"
+    "description": "London Coach Hire offers luxury and affordable coach and minibus hire across London, the Home Counties and beyond. Ideal for events, weddings and school trips \u2013 book now!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Grand Coaches",
@@ -1258,7 +1926,21 @@
     "lng": -0.0883441,
     "found_in_location": "Central London",
     "found_with_query": "coach hire Central London",
-    "description": "Trusted Coach Hire Across the UK \u2013 Comfortable, Affordable, and Ready Whenever You Are."
+    "description": "Trusted Coach Hire Across the UK \u2013 Comfortable, Affordable, and Ready Whenever You Are.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Mayfair Coaches",
@@ -1280,7 +1962,15 @@
     "emails": [
       "info@mayfaircoaches.com"
     ],
-    "description": "Contact Coach Hire in London if you are Looking for Coach Hire in or to London?"
+    "description": "Contact Coach Hire in London if you are Looking for Coach Hire in or to London?",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Goldline Executive Travel - Minibus & Coach Hire London",
@@ -1298,7 +1988,21 @@
     "lng": 0.04682000000000001,
     "found_in_location": "Central London",
     "found_with_query": "coach hire Central London",
-    "description": "Goldline Executive Travel, are rapidly gaining a reputation as east London\u2019s premier minibus hire with driver and coach hire with driver in London. We have been providing outstanding service since 1969 and currently provide minibus hire and coach hire to clients in East London, West London,..."
+    "description": "Goldline Executive Travel, are rapidly gaining a reputation as east London\u2019s premier minibus hire with driver and coach hire with driver in London. We have been providing outstanding service since 1969 and currently provide minibus hire and coach hire to clients in East London, West London,...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Victoria Coach Station",
@@ -1337,7 +2041,20 @@
     "emails": [
       "bookings@frankcoaches.co.uk"
     ],
-    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings.",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "The London Coach Company",
@@ -1359,7 +2076,17 @@
     "emails": [
       "info@thelondoncoachcompany.co.uk"
     ],
-    "description": "Looking for coach hire London? The London Coach Company offers trusted private coach services with 12\u201384 seater buses and professional drivers. Get fast, free quotes online."
+    "description": "Looking for coach hire London? The London Coach Company offers trusted private coach services with 12\u201384 seater buses and professional drivers. Get fast, free quotes online.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Party Bus London",
@@ -1381,7 +2108,18 @@
     "emails": [
       "info@londonclubsbusparty.com"
     ],
-    "description": "TWO HOURS DOUBLE DECKER 2 HOURS HIRE"
+    "description": "TWO HOURS DOUBLE DECKER 2 HOURS HIRE",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Big Baller Bus",
@@ -1425,7 +2163,18 @@
     "emails": [
       "hello@londonbusparty.co.uk"
     ],
-    "description": "London Bus Party\u2014your private double-decker rave on wheels! Perfect for birthdays, hen/stag parties, and corporate events. Let's roll!"
+    "description": "London Bus Party\u2014your private double-decker rave on wheels! Perfect for birthdays, hen/stag parties, and corporate events. Let's roll!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "London Vintage Bus Hire Ltd",
@@ -1447,7 +2196,12 @@
     "emails": [
       "info@thelondonbuscompany.co.uk"
     ],
-    "description": "Operating the largest fleet in the region for weddings or corporate use. We can offer classic red, green, white and red & white or red & cream Routemaster buses, single deckers (RF Type) along with open top and part open top vehicles. All our buses are available for private hire offering..."
+    "description": "Operating the largest fleet in the region for weddings or corporate use. We can offer classic red, green, white and red & white or red & cream Routemaster buses, single deckers (RF Type) along with open top and part open top vehicles. All our buses are available for private hire offering...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Banana Bus",
@@ -1469,7 +2223,14 @@
     "emails": [
       "hello@bananabus.co.uk"
     ],
-    "description": "Kids Are Going To Go Bananas For Our Monkey Themed Banana Bus. Next Stop London! Our Childrens Party Bus Is Perfect For Birthday Parties, School Events & More!"
+    "description": "Kids Are Going To Go Bananas For Our Monkey Themed Banana Bus. Next Stop London! Our Childrens Party Bus Is Perfect For Birthday Parties, School Events & More!",
+    "services": [
+      "Corporate & Executive",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Splendid Party Bus Hire",
@@ -1491,7 +2252,12 @@
     "emails": [
       "office@splendidchauffeurscarhire.co.uk"
     ],
-    "description": "Contact us for the cheap party bus hire in Essex. Fill up the form and book our disco bus at a very competitive price range."
+    "description": "Contact us for the cheap party bus hire in Essex. Fill up the form and book our disco bus at a very competitive price range.",
+    "services": [
+      "Corporate & Executive",
+      "Party Bus",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Club Class Bus",
@@ -1531,7 +2297,13 @@
       "daniel@pedibus.co.uk",
       "info@pedibus.co.uk"
     ],
-    "description": "London's Best Party Bike. - Explore London with friends on the world's fastest beer bike. Private party on wheels - BYOB, sound-system and host, \u00a330pp"
+    "description": "London's Best Party Bike. - Explore London with friends on the world's fastest beer bike. Private party on wheels - BYOB, sound-system and host, \u00a330pp",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "London Classic Bus Hire Ltd.",
@@ -1553,7 +2325,15 @@
     "emails": [
       "info@brianjonescoaches.com"
     ],
-    "description": "London Classic Bus Hire Ltd, Vintage Routemaster Bus available for various occasions, weddings, prom, corporate hire etc"
+    "description": "London Classic Bus Hire Ltd, Vintage Routemaster Bus available for various occasions, weddings, prom, corporate hire etc",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Bus Party Hire",
@@ -1588,7 +2368,14 @@
     "lng": -0.1439431,
     "found_in_location": "Central London",
     "found_with_query": "party bus hire Central London",
-    "description": "Open Top Bus Tours around London, Hop On Hop Off Bus Tours, London Taxi Tours, Guided London Day Tours, Stonehenge, Oxford, Windsor Castle and Cotswolds"
+    "description": "Open Top Bus Tours around London, Hop On Hop Off Bus Tours, London Taxi Tours, Guided London Day Tours, Stonehenge, Oxford, Windsor Castle and Cotswolds",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Minibus Affordable hire",
@@ -1627,7 +2414,27 @@
     "emails": [
       "enquiries@tigerstransport.com"
     ],
-    "description": "Reliable Coach & Minibus hire London. 16 Seater Minibuses to 63 Seater Coaches. Get a Free Quote now for upcoming group travel with Tigers Transport. Price match."
+    "description": "Reliable Coach & Minibus hire London. 16 Seater Minibuses to 63 Seater Coaches. Get a Free Quote now for upcoming group travel with Tigers Transport. Price match.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "17-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "57-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus It",
@@ -1649,7 +2456,25 @@
     "emails": [
       "info@minibus-it.co.uk"
     ],
-    "description": "Reliable Coach & Minibus Hire with driver Essex. Various Minibus Sizes Available. Call us on 020 3576 2009 for bookings."
+    "description": "Reliable Coach & Minibus Hire with driver Essex. Various Minibus Sizes Available. Call us on 020 3576 2009 for bookings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "WTS Coach Hire",
@@ -1711,7 +2536,26 @@
     "emails": [
       "bookings@minibus-hire-kent.co.uk"
     ],
-    "description": "Minibus hire Kent provides self-driven & chauffeur-driven minibuses in Kent. Cheap, CRB Checked & Fully insured kent minibus hire services. Call us at 0203 7456 247 for bookings!"
+    "description": "Minibus hire Kent provides self-driven & chauffeur-driven minibuses in Kent. Cheap, CRB Checked & Fully insured kent minibus hire services. Call us at 0203 7456 247 for bookings!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "luxury minibus hire ltd",
@@ -1733,7 +2577,20 @@
     "emails": [
       "info@luxuryminibushires.com"
     ],
-    "description": "Email us to get quotation today or call our dedicated team on"
+    "description": "Email us to get quotation today or call our dedicated team on",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Coach Services",
@@ -1755,7 +2612,10 @@
     "emails": [
       "info@investravel.com"
     ],
-    "description": "Call us on 0203 129 6491 Text us on 07875 492 899 email us at info@investravel.com Address 58 St. John\u2019s Hill LONDON SW11 1AD"
+    "description": "Call us on 0203 129 6491 Text us on 07875 492 899 email us at info@investravel.com Address 58 St. John\u2019s Hill LONDON SW11 1AD",
+    "services": [
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Minibus 2 go",
@@ -1795,7 +2655,19 @@
     "emails": [
       "sales@coachhire4u.com"
     ],
-    "description": "Whether you\u2019re arranging a small or a big group trip for either business or leisure, look no further. Coachhire4u has fleets of all sizes for any occassion."
+    "description": "Whether you\u2019re arranging a small or a big group trip for either business or leisure, look no further. Coachhire4u has fleets of all sizes for any occassion.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "London Coaches",
@@ -1818,7 +2690,29 @@
       "info@londoncoach.com",
       "info@londoncoaches.com"
     ],
-    "description": "Executive minibus and coach hire for business travel, weddings, tours, and special events. Modern vehicles, professional drivers, competitive rates."
+    "description": "Executive minibus and coach hire for business travel, weddings, tours, and special events. Modern vehicles, professional drivers, competitive rates.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "InterCoach Travels",
@@ -1840,7 +2734,20 @@
     "emails": [
       "info@intercoachtravels.com"
     ],
-    "description": "Get in touch with one of our minibus hire and coach hire specialist to see what's the best options are available for you to choose from."
+    "description": "Get in touch with one of our minibus hire and coach hire specialist to see what's the best options are available for you to choose from.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "London Business Travel | Concierge & Chauffeur Service London | UK",
@@ -1862,7 +2769,15 @@
     "emails": [
       "info@lbtravel.co.uk"
     ],
-    "description": "Book VIP chauffeaur transfer from Heathrow, Gatwick & Stansted, Luton. Mercedes S, V-Class, Range Rover & executive fleet. 24/7 chauffeur service UK."
+    "description": "Book VIP chauffeaur transfer from Heathrow, Gatwick & Stansted, Luton. Mercedes S, V-Class, Range Rover & executive fleet. 24/7 chauffeur service UK.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -1901,7 +2816,26 @@
     "emails": [
       "info@bigbencoaches.co.uk"
     ],
-    "description": "Professional coach hire services across the UK"
+    "description": "Professional coach hire services across the UK",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "49-Seater Coach",
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "Brian Jones Bus & Coach Hire",
@@ -1923,7 +2857,23 @@
     "emails": [
       "info@brianjonescoaches.com"
     ],
-    "description": "Reliable coach hire & bus hire in Kent, London, and Essex since 1970. Modern fleet from 31 to 80 seats for schools, weddings, and airport transfers. Get a quote."
+    "description": "Reliable coach hire & bus hire in Kent, London, and Essex since 1970. Modern fleet from 31 to 80 seats for schools, weddings, and airport transfers. Get a quote.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "Guideline Coaches Ltd",
@@ -1945,7 +2895,17 @@
     "emails": [
       "sales@guidelinecoaches.com"
     ],
-    "description": "Looking for a premium coach hire company in London? Guideline Coaches Ltd offer a trustworthy coach and mini-coach hire service across London and Kent."
+    "description": "Looking for a premium coach hire company in London? Guideline Coaches Ltd offer a trustworthy coach and mini-coach hire service across London and Kent.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "coach hire surrey ltd",
@@ -1969,7 +2929,20 @@
       "info@hireyourtransport.com",
       "info@thememove.com"
     ],
-    "description": "Our modern coaches are full equipped with Air conditioning, 3 point seat belts, Reclining Seats and wheelchair access"
+    "description": "Our modern coaches are full equipped with Air conditioning, 3 point seat belts, Reclining Seats and wheelchair access",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Luxury Coach Hire in London- M&M Coaches",
@@ -2008,7 +2981,18 @@
     "emails": [
       "booking@europebusreservation.com"
     ],
-    "description": "Since 2014, leading group travel platform in Europe and UK. Book your Minibus with driver and Coach hire in Europe and UK. Get your quote in 24h for transfers, tours, and group travel."
+    "description": "Since 2014, leading group travel platform in Europe and UK. Book your Minibus with driver and Coach hire in Europe and UK. Get your quote in 24h for transfers, tours, and group travel.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Ada Luxury Coaches Ltd",
@@ -2030,7 +3014,25 @@
     "emails": [
       "info@regalcoaches.com"
     ],
-    "description": "Experience ultimate luxury with Regal Coaches. We offer executive and VIP class group travel services with professional coach hire and minibus hire with drivers. Travel the royal way and discover our range of vehicles in MPVs, minibuses and coaches. Providing transport for schools, businesses,..."
+    "description": "Experience ultimate luxury with Regal Coaches. We offer executive and VIP class group travel services with professional coach hire and minibus hire with drivers. Travel the royal way and discover our range of vehicles in MPVs, minibuses and coaches. Providing transport for schools, businesses,...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "17-Seater Minibus",
+      "33-Seater Coach",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Mazza Coaches",
@@ -2052,7 +3054,20 @@
     "emails": [
       "info@mazzacoaches.co.uk"
     ],
-    "description": "Sit back and relax on your next journey with Mazza Coaches. Whether you\u2019re looking for comfortable, luxurious corporate travel for business, private hire for an event, transport to the airport or travel for a sports team- we\u2019ve got the fleet to cover your needs. Our team are friendly,..."
+    "description": "Sit back and relax on your next journey with Mazza Coaches. Whether you\u2019re looking for comfortable, luxurious corporate travel for business, private hire for an event, transport to the airport or travel for a sports team- we\u2019ve got the fleet to cover your needs. Our team are friendly,...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "49-Seater Coach",
+      "57-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Coach Hoiday Tours Westminster",
@@ -2070,7 +3085,17 @@
     "lng": -0.1365117,
     "found_in_location": "Westminster",
     "found_with_query": "minibus hire Westminster",
-    "description": "Westminister Minibus is working hard to ensure you get best level of service for your transport needs. We have been working closely with all our Clients so that the exeperiece with our company is the best in the uk."
+    "description": "Westminister Minibus is working hard to ensure you get best level of service for your transport needs. We have been working closely with all our Clients so that the exeperiece with our company is the best in the uk.",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Essex Minibus Hire",
@@ -2088,7 +3113,18 @@
     "lng": -0.3472663,
     "found_in_location": "Westminster",
     "found_with_query": "minibus hire Westminster",
-    "description": "Providing a quality service through out Essex, Minibus Hire Essex has many years experience. We provide a cheap minibus hire service in Essex as well as coach hire services. All our minibuses come with qualified and experienced minibus drivers."
+    "description": "Providing a quality service through out Essex, Minibus Hire Essex has many years experience. We provide a cheap minibus hire service in Essex as well as coach hire services. All our minibuses come with qualified and experienced minibus drivers.",
+    "services": [
+      "Day Trips & Tours",
+      "Self-Drive Hire",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Essex Minibus Hire",
@@ -2110,7 +3146,20 @@
     "emails": [
       "bookings@essex-minibus-hire.co.uk"
     ],
-    "description": "ESSEX MINIBUSESEXCUSIVE OFFERS: ROYAL ASCOT from \u00a3350 return.Operating Minibus Hire & Coach Hire services 24X7."
+    "description": "ESSEX MINIBUSESEXCUSIVE OFFERS: ROYAL ASCOT from \u00a3350 return.Operating Minibus Hire & Coach Hire services 24X7.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Essex Minibus Hire",
@@ -2132,7 +3181,20 @@
     "emails": [
       "bookings@essex-minibus-hire.co.uk"
     ],
-    "description": "ESSEX MINIBUSESEXCUSIVE OFFERS: ROYAL ASCOT from \u00a3350 return.Operating Minibus Hire & Coach Hire services 24X7."
+    "description": "ESSEX MINIBUSESEXCUSIVE OFFERS: ROYAL ASCOT from \u00a3350 return.Operating Minibus Hire & Coach Hire services 24X7.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "CoachMarque",
@@ -2155,7 +3217,15 @@
       "coachmarque@cpt-uk.org",
       "coachmarquequotehub@cpt-uk.org"
     ],
-    "description": "With members right across the UK, there is a CoachMarque operator near you ready to meet your travel requirements and ensure a successful trip."
+    "description": "With members right across the UK, there is a CoachMarque operator near you ready to meet your travel requirements and ensure a successful trip.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -2194,7 +3264,15 @@
     "emails": [
       "info@cityminibusandcoachhire.co.uk"
     ],
-    "description": "For reliable coach and city minibus in London, choose our city minibus services for comfort and ease on every journey."
+    "description": "For reliable coach and city minibus in London, choose our city minibus services for comfort and ease on every journey.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Empress Coaches - Coach Hire Upminster / East London",
@@ -2216,7 +3294,18 @@
     "emails": [
       "info@empresscoaches.co.uk"
     ],
-    "description": "You'll be impressed with Empress Coaches Services,over four generations of coaching experience."
+    "description": "You'll be impressed with Empress Coaches Services,over four generations of coaching experience.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "City of London Coaches",
@@ -2239,7 +3328,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Hire in City of London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein City of London? Look no further, and here's why you should select us. Choose\u2026"
+    "description": "Coach Hire in City of London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein City of London? Look no further, and here's why you should select us. Choose\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Battersea Coaches",
@@ -2262,7 +3367,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Hire in Battersea Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Battersea? Look no further, and here's why you should select us. Choose from 5 to 65\u2026"
+    "description": "Coach Hire in Battersea Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Battersea? Look no further, and here's why you should select us. Choose from 5 to 65\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "party bus",
@@ -2284,7 +3405,19 @@
     "emails": [
       "booklimolondon@gmail.com"
     ],
-    "description": "Luxury with affordability is our motto. We aim to enhance the experience of your mega-events manifold by giving you Limousine service in London and its surrounding areas."
+    "description": "Luxury with affordability is our motto. We aim to enhance the experience of your mega-events manifold by giving you Limousine service in London and its surrounding areas.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "The Big Red Party Bus",
@@ -2302,7 +3435,11 @@
     "lng": -1.7171661,
     "found_in_location": "Westminster",
     "found_with_query": "party bus hire Westminster",
-    "description": "Hire our kid's double decker party bus - Perfect for birthday parties and entertainment. Imagine your child's face when The Big Red Party Bus pulls up outside your house. We cover Warwickshire, south Birmingham and surrounding areas. Call Bruce on 07961 815 286 for availability"
+    "description": "Hire our kid's double decker party bus - Perfect for birthday parties and entertainment. Imagine your child's face when The Big Red Party Bus pulls up outside your house. We cover Warwickshire, south Birmingham and surrounding areas. Call Bruce on 07961 815 286 for availability",
+    "services": [
+      "Party Bus",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Wests Self Drive Hire - Cars, Vans, Minibus Rental",
@@ -2324,7 +3461,12 @@
     "emails": [
       "info@westsselfdrivehire.com"
     ],
-    "description": "Do you need to rent a self drive vehicle? Looking for a modern, clean and reliable car, SUV, 7 to 17 seat minibus, crew cab van, tipper truck, flatback truck or commercial van rental in Essex and East London, then look no further. Wests are an affordable and efficient vehicle hire company,..."
+    "description": "Do you need to rent a self drive vehicle? Looking for a modern, clean and reliable car, SUV, 7 to 17 seat minibus, crew cab van, tipper truck, flatback truck or commercial van rental in Essex and East London, then look no further. Wests are an affordable and efficient vehicle hire company,...",
+    "services": [
+      "Day Trips & Tours",
+      "Religious & Community",
+      "Self-Drive Hire"
+    ]
   },
   {
     "name": "V V Link Heathrow Cheap Minibus & Coach Hire",
@@ -2342,7 +3484,10 @@
     "lng": -0.4239093,
     "found_in_location": "Westminster",
     "found_with_query": "16 seater minibus hire Westminster",
-    "description": "V V Link is just 5 minute away from Heathrow Airport offering a comprehensive range of transport services 24 hours a day, 365 days a year. We are licensed by the public carriage office and our vehicles are clean, modern and air conditioned."
+    "description": "V V Link is just 5 minute away from Heathrow Airport offering a comprehensive range of transport services 24 hours a day, 365 days a year. We are licensed by the public carriage office and our vehicles are clean, modern and air conditioned.",
+    "services": [
+      "Airport Transfers"
+    ]
   },
   {
     "name": "Mayday Travel Coach Hire London",
@@ -2364,7 +3509,13 @@
     "emails": [
       "info@maydaytravel.co.uk"
     ],
-    "description": "Mayday Travel MiniBus & Coach Hire Company based in Croydon, London covering the UK. 6 to 53 Seater Mini Bus & Coach Hire. London's premier coach hire company transporting passengers safely since 1987."
+    "description": "Mayday Travel MiniBus & Coach Hire Company based in Croydon, London covering the UK. 6 to 53 Seater Mini Bus & Coach Hire. London's premier coach hire company transporting passengers safely since 1987.",
+    "services": [
+      "Stag & Hen Parties"
+    ],
+    "vehicles": [
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "Santos coaches Ltd",
@@ -2386,7 +3537,17 @@
     "emails": [
       "info@santoscoaches.co.uk"
     ],
-    "description": "At Santos Coaches, we redefine the essence of coach travel, prioritizing passenger comfort, safety, and convenience. Our modern and environmentally-friendly coach fleet, combined with our tech-driven booking platform, ensures a seamless travel experience for all. We connect you to an extensive..."
+    "description": "At Santos Coaches, we redefine the essence of coach travel, prioritizing passenger comfort, safety, and convenience. Our modern and environmentally-friendly coach fleet, combined with our tech-driven booking platform, ensures a seamless travel experience for all. We connect you to an extensive...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Vikingston- Minibus Hire",
@@ -2410,7 +3571,16 @@
       "info@vikingston.co.uk",
       "jan@vikingston.co.uk"
     ],
-    "description": "Minibus hire with driver - Vikingston has been providing 16 seater Minibuses with drivers for over 20 years. Based in Kingston, we are the longest established Mini bus hire with company"
+    "description": "Minibus hire with driver - Vikingston has been providing 16 seater Minibuses with drivers for over 20 years. Based in Kingston, we are the longest established Mini bus hire with company",
+    "services": [
+      "Airport Transfers",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "London Skyline Minibus Service",
@@ -2432,7 +3602,27 @@
     "emails": [
       "info@londonskyline.co.uk"
     ],
-    "description": "London Skyline Ltd is your go-to solution for hassle-free and comfortable minibus services in London. With a fleet of modern and well-maintained minibuses"
+    "description": "London Skyline Ltd is your go-to solution for hassle-free and comfortable minibus services in London. With a fleet of modern and well-maintained minibuses",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Luxury Coaches London",
@@ -2454,7 +3644,21 @@
     "emails": [
       "info@luxurycoacheslondon.co.uk"
     ],
-    "description": "Perfect for corporate events, weddings, airport transfers, and private tours."
+    "description": "Perfect for corporate events, weddings, airport transfers, and private tours.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Self-Drive Hire",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "London Coaches",
@@ -2477,7 +3681,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Travel to London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hire in London? Look no further, and here's why you should select us. Choose from 5 to\u2026"
+    "description": "Coach Travel to London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hire in London? Look no further, and here's why you should select us. Choose from 5 to\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Pioneer Minibus Hire Uk",
@@ -2550,7 +3770,17 @@
     "emails": [
       "info@luminuslondonminibushire.co.uk"
     ],
-    "description": "24 hr Minibus Hire & Coach Hire London. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 02034882526."
+    "description": "24 hr Minibus Hire & Coach Hire London. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 02034882526.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Eco Cars Minibus Hire",
@@ -2572,7 +3802,13 @@
     "emails": [
       "babriya@hotmail.com"
     ],
-    "description": "Were you trying to find a Private Driver in London? Get in touch with Eco Cars Travel. We offer a selection of private driving and business travel services. We are ready to fulfill your needs!"
+    "description": "Were you trying to find a Private Driver in London? Get in touch with Eco Cars Travel. We offer a selection of private driving and business travel services. We are ready to fulfill your needs!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Coach Hire Manchester",
@@ -2594,7 +3830,25 @@
     "emails": [
       "bookings@zammytransport.com"
     ],
-    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Wembley City Coaches Ltd",
@@ -2672,7 +3926,14 @@
     "emails": [
       "info@londonerbuses.co.uk"
     ],
-    "description": "Discover the charm of London with Londoner Buses operating a number of heritage routemasters across the capital city of London."
+    "description": "Discover the charm of London with Londoner Buses operating a number of heritage routemasters across the capital city of London.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Mybus4u",
@@ -2726,7 +3987,10 @@
       "steve@corporatecoachgroup.com",
       "stewart@corporatecoachgroup.com"
     ],
-    "description": "Practical leadership and management training courses. ILM & CPD accredited. In-house and open courses across the UK since 1997."
+    "description": "Practical leadership and management training courses. ILM & CPD accredited. In-house and open courses across the UK since 1997.",
+    "services": [
+      "Corporate & Executive"
+    ]
   },
   {
     "name": "TFS Coach Hire London",
@@ -2766,7 +4030,12 @@
     "emails": [
       "info@corbelcoaches.com"
     ],
-    "description": "For any inquiries, feel free to reach us at 0208 9650005. Our dedicated team is available to assist you seven days a week, 24 hours a day, 365 days a year."
+    "description": "For any inquiries, feel free to reach us at 0208 9650005. Our dedicated team is available to assist you seven days a week, 24 hours a day, 365 days a year.",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Southgate & Finchley Coaches Ltd.",
@@ -2788,7 +4057,12 @@
     "emails": [
       "office@southgate-finchley-coaches.co.uk"
     ],
-    "description": "Press for more infoCall for more information on 020 8368 0040"
+    "description": "Press for more infoCall for more information on 020 8368 0040",
+    "services": [
+      "Day Trips & Tours",
+      "School Transport",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Camden Bus Estate Agents",
@@ -2833,7 +4107,24 @@
       "enquiries@yourcoachhire.com",
       "info@yourcoachhire.com"
     ],
-    "description": "Your Coach Hire offers nationwide coach hire for all events. From corporate, school, weddings, stag & hen do's and more."
+    "description": "Your Coach Hire offers nationwide coach hire for all events. From corporate, school, weddings, stag & hen do's and more.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "53-Seater Coach",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "St Pancras Coaches",
@@ -2855,7 +4146,14 @@
     "emails": [
       "info@mayfaircoaches.com"
     ],
-    "description": "Whether you\u2019re organising a day trip or an evening Out in London or home- counties, We can guarantee travel in style & comfort at reasonable price."
+    "description": "Whether you\u2019re organising a day trip or an evening Out in London or home- counties, We can guarantee travel in style & comfort at reasonable price.",
+    "services": [
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Knightsbridge Coaches",
@@ -2878,7 +4176,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Hire in Knightsbridge Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Knighsbridge? Look no further, and here's why you should select us. Choose from 5 to 65\u2026"
+    "description": "Coach Hire in Knightsbridge Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Knighsbridge? Look no further, and here's why you should select us. Choose from 5 to 65\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Chelsea Coach",
@@ -2901,7 +4215,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Hire in Chelsea Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Chelsea? Look no further, and here's why you should select us. Choose from 5 to 65\u2026"
+    "description": "Coach Hire in Chelsea Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein Chelsea? Look no further, and here's why you should select us. Choose from 5 to 65\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Kensington Coaches",
@@ -2958,7 +4288,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Hire in UK Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein in UK? Look no further, and here's why you should select us. Choose from 5 to\u2026"
+    "description": "Coach Hire in UK Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach hirein in UK? Look no further, and here's why you should select us. Choose from 5 to\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Minibus",
@@ -2980,7 +4326,30 @@
     "emails": [
       "info@investravel.com"
     ],
-    "description": "If you need to book a minibus with driver then look no further. Our comprehensive service will get you and your group to your destination in comfort."
+    "description": "If you need to book a minibus with driver then look no further. Our comprehensive service will get you and your group to your destination in comfort.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "53-Seater Coach",
+      "57-Seater Coach",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "TRAVEL LONDON COACHES",
@@ -3003,7 +4372,23 @@
       "addressinfo@mayfaircoaches.com",
       "info@mayfaircoaches.com"
     ],
-    "description": "Coach Travel in London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach travel in London? Look no further, and here's why you should select us. Choose from 5 to\u2026"
+    "description": "Coach Travel in London Book Now COACH HIRE TRANSPORT SERVICES Airport Transfer Corporate Travel Weddings Port Transfers School Transport Aviation Logistic WHY TRAVEL WITH US? Searching for coach travel in London? Look no further, and here's why you should select us. Choose from 5 to\u2026",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Desi Coaches",
@@ -3025,7 +4410,17 @@
     "emails": [
       "desicoaches@gmail.com"
     ],
-    "description": "We are a N.E London based website design agency, specialising in bespoke website design & development."
+    "description": "We are a N.E London based website design agency, specialising in bespoke website design & development.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Master Coaches Limited",
@@ -3048,7 +4443,15 @@
       "mastercoaches@outlook.com",
       "user@domain.com"
     ],
-    "description": "We have a wide range of coaches ranging from 17 seats to 75 seats available for private hire, school hire and Tours."
+    "description": "We have a wide range of coaches ranging from 17 seats to 75 seats available for private hire, school hire and Tours.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "P & J Ellis Coaches",
@@ -3070,7 +4473,18 @@
     "emails": [
       "enquiries@pjellis.co.uk"
     ],
-    "description": "A private hire coach company offering professional expertise in coach travel for tourists groups, student travel, corporate events and day trippers."
+    "description": "A private hire coach company offering professional expertise in coach travel for tourists groups, student travel, corporate events and day trippers.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "B & L COACHES",
@@ -3092,7 +4506,21 @@
     "emails": [
       "office@bandlcoaches.co.uk"
     ],
-    "description": "When you need to hire a minibus, coach hire or car for a journey from North London, choose B&L Coaches & Car Hire. Call now on 020 8364 6417"
+    "description": "When you need to hire a minibus, coach hire or car for a journey from North London, choose B&L Coaches & Car Hire. Call now on 020 8364 6417",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "33-Seater Coach"
+    ]
   },
   {
     "name": "indi miniBUS hire (with driver)",
@@ -3115,7 +4543,16 @@
       "indicoaches@outlook.com",
       "indigill@outlook.com"
     ],
-    "description": "AtIndi minibus hire, as a family-run business withover twenty years of experience, we pride ourselves on delivering apersonalized travel experiencetailored to your needs."
+    "description": "AtIndi minibus hire, as a family-run business withover twenty years of experience, we pride ourselves on delivering apersonalized travel experiencetailored to your needs.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Everydays Travel Limited Coach Hire",
@@ -3160,7 +4597,15 @@
       "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
       "info@fcmbs.com"
     ],
-    "description": "Reliable coach hire, executive coach hire, and minibus hire in Egham. First Choice Bus provides private or corporate transport with professional drivers."
+    "description": "Reliable coach hire, executive coach hire, and minibus hire in Egham. First Choice Bus provides private or corporate transport with professional drivers.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Adlib Coach Hire",
@@ -3200,7 +4645,24 @@
       "example@email.com",
       "sales@bigcoachhire.co.uk"
     ],
-    "description": "PREMIUM MINIBUS & COACH HIRE BIG COACH HIRE LTD WHY US GET QUOTE Facebook Instagram Linkedin REQUEST A QUOTE Oneway Return Full Day hire one way FromAdd Multiple Pickup Add Multiple PickupPickup Address 2Pickup Address 3ToAdd Multiple Drop Off Add Multiple Drop OffDrop Off Address 2Drop Off..."
+    "description": "PREMIUM MINIBUS & COACH HIRE BIG COACH HIRE LTD WHY US GET QUOTE Facebook Instagram Linkedin REQUEST A QUOTE Oneway Return Full Day hire one way FromAdd Multiple Pickup Add Multiple PickupPickup Address 2Pickup Address 3ToAdd Multiple Drop Off Add Multiple Drop OffDrop Off Address 2Drop Off...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -3257,7 +4719,26 @@
       "alexdavid@gmail.com",
       "info@travelviacoach.com"
     ],
-    "description": "Basic, functional minibuses/coaches typically used for school transport, short trips, or basic commutes."
+    "description": "Basic, functional minibuses/coaches typically used for school transport, short trips, or basic commutes.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "CCE Coaches",
@@ -3279,7 +4760,10 @@
     "emails": [
       "info@ccecoaches.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Wheatleys coach and minibus hire",
@@ -3314,7 +4798,21 @@
     "lng": -0.079486,
     "found_in_location": "Hampstead",
     "found_with_query": "minibus hire Hampstead",
-    "description": "Welcome to the Coach and Minibus Hire Enfield! We hope our website will give you all the information you may need to arrange an amazing journey to your location."
+    "description": "Welcome to the Coach and Minibus Hire Enfield! We hope our website will give you all the information you may need to arrange an amazing journey to your location.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Coach Rental Miami",
@@ -3336,7 +4834,25 @@
     "emails": [
       "bookings@zencoachexpress.com"
     ],
-    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings."
+    "description": "Coach and minibus rental for large groups and passengers. Catering for travelling to events, airport transfers and attending weddings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "49-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Book My Coach",
@@ -3409,7 +4925,19 @@
     "emails": [
       "minibus4u@btinternet.com"
     ],
-    "description": "Established in 1992, Premier Minibus and Coach Travel is a family owned minibus and coach company which operates with a view to provide a professional service with reliable, courteous, uniformed drivers.We passionately believe in providing the highest quality, best value and exceptional service..."
+    "description": "Established in 1992, Premier Minibus and Coach Travel is a family owned minibus and coach company which operates with a view to provide a professional service with reliable, courteous, uniformed drivers.We passionately believe in providing the highest quality, best value and exceptional service...",
+    "services": [
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "33-Seater Coach",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Caremax coach hire",
@@ -3449,7 +4977,16 @@
       "bookings@whitescoaches.co.uk",
       "greg@whitescoaches.co.uk"
     ],
-    "description": "Whites Coaches is a long established, award winning family run business with many years\u2019 experience in passenger transport services. We have developed an excellent reputation for offering an exceptional fleet, reliability and safety standards since our beginnings in 1960. Our aims are simple; to..."
+    "description": "Whites Coaches is a long established, award winning family run business with many years\u2019 experience in passenger transport services. We have developed an excellent reputation for offering an exceptional fleet, reliability and safety standards since our beginnings in 1960. Our aims are simple; to...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Falcon Coaches",
@@ -3471,7 +5008,14 @@
     "emails": [
       "info@falconcoaches.com"
     ],
-    "description": "Falcon Coaches Hertfordshire \u2013 Safe and Luxurious Coach Hire Falcon Coaches is one of Hertfordshire\u2019s leading coach hire operators. Based in South Mimms, our fleet of modern vehicles are an extremely familiar sight on the roads and we are proud to provide safe and luxurious coach hire to..."
+    "description": "Falcon Coaches Hertfordshire \u2013 Safe and Luxurious Coach Hire Falcon Coaches is one of Hertfordshire\u2019s leading coach hire operators. Based in South Mimms, our fleet of modern vehicles are an extremely familiar sight on the roads and we are proud to provide safe and luxurious coach hire to...",
+    "services": [
+      "Corporate & Executive",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Hardwicks Minibus Service",
@@ -3493,7 +5037,15 @@
     "emails": [
       "info@hardwickscoaches.co.uk"
     ],
-    "description": "Hardwicks is a minibus company that specialises in airport transfers, weddings and social events in the Herts & London area"
+    "description": "Hardwicks is a minibus company that specialises in airport transfers, weddings and social events in the Herts & London area",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Mini Bus/Motorhome Hire",
@@ -3562,7 +5114,10 @@
     "lng": -0.0795664,
     "found_in_location": "Barnet",
     "found_with_query": "coach hire Barnet",
-    "description": "You canview our brochure [PDF]or book one of our upcoming tours online. If you\u2019ve already booked a tour, you canloginandview your existing bookings \u00bb"
+    "description": "You canview our brochure [PDF]or book one of our upcoming tours online. If you\u2019ve already booked a tour, you canloginandview your existing bookings \u00bb",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Humble Business Group",
@@ -3585,6 +5140,9 @@
       "info@humble-hire.com",
       "info@stagheaddesigns.com",
       "u003einfo@humblebusinessgroup.com"
+    ],
+    "services": [
+      "Stag & Hen Parties"
     ]
   },
   {
@@ -3607,7 +5165,15 @@
     "emails": [
       "sales@goldenboy.co.uk"
     ],
-    "description": "Luxury Coach Hire UK and Coach Hire London also Minibus Hire UK from Golden Boy Coaches. With over fifty years experience, you can be sure that Golden Boy will meet with all your coach hire London expectations."
+    "description": "Luxury Coach Hire UK and Coach Hire London also Minibus Hire UK from Golden Boy Coaches. With over fifty years experience, you can be sure that Golden Boy will meet with all your coach hire London expectations.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "The Coach Company - Edgware Office",
@@ -3632,7 +5198,20 @@
       "ops@thecoachcompany.com",
       "sales@thecoachcompany.co.uk"
     ],
-    "description": "Welcome to THEcoachcompany.co.uk, The United Kingdom\u2019s leading private company for coach hire with an outstanding reputation for offering friendly professional group transportation services at competitive rates. THEcoachcompany.co.uk is renowned for its ability to provide superiorgroup..."
+    "description": "Welcome to THEcoachcompany.co.uk, The United Kingdom\u2019s leading private company for coach hire with an outstanding reputation for offering friendly professional group transportation services at competitive rates. THEcoachcompany.co.uk is renowned for its ability to provide superiorgroup...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "MD Minibus & Coach Service",
@@ -3672,7 +5251,17 @@
       "info@coaches.business",
       "sasha@coaches.business"
     ],
-    "description": "Minibus hire by UGO Coach and Minibus Hire. Welcome to our minibus hire web site. We provide cost effective minibus and coach hire throughout the south of the UK"
+    "description": "Minibus hire by UGO Coach and Minibus Hire. Welcome to our minibus hire web site. We provide cost effective minibus and coach hire throughout the south of the UK",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "wheatley coach and minibus hire",
@@ -3695,7 +5284,17 @@
       "info@coaches.business",
       "sasha@coaches.business"
     ],
-    "description": "Minibus hire by UGO Coach and Minibus Hire. Welcome to our minibus hire web site. We provide cost effective minibus and coach hire throughout the south of the UK"
+    "description": "Minibus hire by UGO Coach and Minibus Hire. Welcome to our minibus hire web site. We provide cost effective minibus and coach hire throughout the south of the UK",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Ugo Minibus and Coach Hire",
@@ -3734,7 +5333,21 @@
     "emails": [
       "contactus@barkerbus.co.uk"
     ],
-    "description": "Barker Bus have over 35 years experience in providing minibus, coach and double decker hire in Essex and Hertfordshire"
+    "description": "Barker Bus have over 35 years experience in providing minibus, coach and double decker hire in Essex and Hertfordshire",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Romford Essex Minibuses",
@@ -3756,7 +5369,19 @@
     "emails": [
       "emminibuses@gmail.com"
     ],
-    "description": "24X7 Coach & Minibus Hire Essex with driver from \u00a310 per person. Comfortable, on-time, affordable & CRB checked minibuses. Give us a call today on 0333 3442 499 to make the bookings."
+    "description": "24X7 Coach & Minibus Hire Essex with driver from \u00a310 per person. Comfortable, on-time, affordable & CRB checked minibuses. Give us a call today on 0333 3442 499 to make the bookings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Select Coach Hire",
@@ -3780,7 +5405,22 @@
       "operations@selectcoachhire.co.uk",
       "sales@selectcoachhire.co.uk"
     ],
-    "description": "Get a FREE online quote for nationwide coach hire services at great prices with modern comfortable coaches and friendly professional drivers."
+    "description": "Get a FREE online quote for nationwide coach hire services at great prices with modern comfortable coaches and friendly professional drivers.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Minibus Hire London",
@@ -3802,7 +5442,27 @@
     "emails": [
       "bookings@minibus-hire-london.com"
     ],
-    "description": "London Minibus hire provides reliable chauffeur-driven minibuses and coaches in London. Call us at 203 7456 247 for bookings!"
+    "description": "London Minibus hire provides reliable chauffeur-driven minibuses and coaches in London. Call us at 203 7456 247 for bookings!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Coach home",
@@ -3841,7 +5501,23 @@
     "emails": [
       "sales@minibuseslondon.co.uk"
     ],
-    "description": "Oxford Coach Hire Hire a luxury and cheap minibus and coach in Oxford, London, UK Renting luxury and budget-friendly minibuses and coaches with professional drivers ensures comfort, reliability, and convenience for every journey. Perfect for groups, events, airport transfers, and more. Book Your..."
+    "description": "Oxford Coach Hire Hire a luxury and cheap minibus and coach in Oxford, London, UK Renting luxury and budget-friendly minibuses and coaches with professional drivers ensures comfort, reliability, and convenience for every journey. Perfect for groups, events, airport transfers, and more. Book Your...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "MB Mini Coaches & Minicabs service",
@@ -3864,7 +5540,28 @@
       "info@mbminicoaches.uk",
       "to@d-themes.com"
     ],
-    "description": "Minibus Hire and Mini Coach Hire Services throughout Romford. Book your transfers, wedding hire, night outs, school transports, tours. 8-12-16 seaters available. Call us at 020 3620 5893!"
+    "description": "Minibus Hire and Mini Coach Hire Services throughout Romford. Book your transfers, wedding hire, night outs, school transports, tours. 8-12-16 seaters available. Call us at 020 3620 5893!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "The Coach People",
@@ -3882,7 +5579,17 @@
     "lng": -0.1274382,
     "found_in_location": "Brixton",
     "found_with_query": "minibus hire Brixton",
-    "description": "The Coach People provide reliable, affordable coach and minibus hire services across the UK. Get a quote today and enjoy a stress-free journey!"
+    "description": "The Coach People provide reliable, affordable coach and minibus hire services across the UK. Get a quote today and enjoy a stress-free journey!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "CPD Coaches",
@@ -3926,7 +5633,18 @@
     "emails": [
       "complaints@directiminibushire.co.uk"
     ],
-    "description": "Minibus Hire with Driver service provides cheap prices for minibus hire and coach hire in all areas of Kent with outstanding sizes for all occasions."
+    "description": "Minibus Hire with Driver service provides cheap prices for minibus hire and coach hire in all areas of Kent with outstanding sizes for all occasions.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "DANMAC COACHES",
@@ -3949,7 +5667,13 @@
       "danmaccoaches@outlook.com",
       "info@danmaccoaches.com"
     ],
-    "description": "Make Danmac Coaches your first choice for reliable minicoach and minibus hire. Contact us to discuss your requirements."
+    "description": "Make Danmac Coaches your first choice for reliable minicoach and minibus hire. Contact us to discuss your requirements.",
+    "services": [
+      "Corporate & Executive",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -3989,7 +5713,21 @@
       "sales@redwing-coaches.co.uk",
       "sales@redwingcoaches.com"
     ],
-    "description": "Founded in 1987, we are one of the most reliable, environmentally friendly and affordable coach hire companies \u2013 get your fast and free quote"
+    "description": "Founded in 1987, we are one of the most reliable, environmentally friendly and affordable coach hire companies \u2013 get your fast and free quote",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "49-Seater Coach",
+      "53-Seater Coach",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "Bruton's Coaches",
@@ -4033,7 +5771,14 @@
     "emails": [
       "bromleyminicoaches@hotmail.co.uk"
     ],
-    "description": "Mini coach hire & mini bus hire Covering Bromley, Beckenham, West wickham, Chislehurst and Orpington. Let us get you to your destination comfortably and safely We are a family run business and have been operating in the bromley and surrounding areas for over 20 years."
+    "description": "Mini coach hire & mini bus hire Covering Bromley, Beckenham, West wickham, Chislehurst and Orpington. Let us get you to your destination comfortably and safely We are a family run business and have been operating in the bromley and surrounding areas for over 20 years.",
+    "services": [
+      "Airport Transfers",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "HJ Coach Hire",
@@ -4068,7 +5813,19 @@
     "lng": -0.1962267,
     "found_in_location": "Wimbledon",
     "found_with_query": "minibus hire Wimbledon",
-    "description": "THE SUTTON MINIBUS HIRE GROUP IS THE BIGGEST PROVIDER OF COACH AND MINIBUS SERVICES IN THE UK. IN ALL SIGNIFICANT UK CITIES, WE PROVIDE EXECUTIVE COACHES"
+    "description": "THE SUTTON MINIBUS HIRE GROUP IS THE BIGGEST PROVIDER OF COACH AND MINIBUS SERVICES IN THE UK. IN ALL SIGNIFICANT UK CITIES, WE PROVIDE EXECUTIVE COACHES",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Croydon Minibus & Coaches",
@@ -4086,7 +5843,22 @@
     "lng": -0.0998664,
     "found_in_location": "Wimbledon",
     "found_with_query": "minibus hire Wimbledon",
-    "description": "Are you looking for a reliable bus rental company in Croydon that offers reasonable rates? We are here to ensure that your vacation gets off to a good start"
+    "description": "Are you looking for a reliable bus rental company in Croydon that offers reasonable rates? We are here to ensure that your vacation gets off to a good start",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "24-Seater Minibus",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "Nationwide Coaches",
@@ -4121,7 +5893,22 @@
     "lng": -0.3528805,
     "found_in_location": "Wimbledon",
     "found_with_query": "minibus hire Wimbledon",
-    "description": "Heathrow Minibus Hire Group is the UK\u2019s largest coach and minibus hire service. We offer executive coaches, executive minibuses and specialized minibus hire"
+    "description": "Heathrow Minibus Hire Group is the UK\u2019s largest coach and minibus hire service. We offer executive coaches, executive minibuses and specialized minibus hire",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Gaming Warriors Party Bus",
@@ -4143,7 +5930,13 @@
     "emails": [
       "sales@gamingwarriorspartybus.co.uk"
     ],
-    "description": "Looking to Hire Gaming Bus Surrey? Our Gaming van experience is the best in Surrey, London. Perfect for childrens parties, birthdays/weddings"
+    "description": "Looking to Hire Gaming Bus Surrey? Our Gaming van experience is the best in Surrey, London. Perfect for childrens parties, birthdays/weddings",
+    "services": [
+      "Corporate & Executive",
+      "Party Bus",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Delta line luxury minibuses",
@@ -4166,7 +5959,15 @@
       "deltalinelmb@yahoo.co.uk",
       "user@domain.com"
     ],
-    "description": "Luxury Minibus Hire. Based in London. Luxury Travel"
+    "description": "Luxury Minibus Hire. Based in London. Luxury Travel",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "BAR Minibuses",
@@ -4205,7 +6006,16 @@
     "emails": [
       "mjminibus@aol.com"
     ],
-    "description": "M&J Minibus Hire was founded by Mike in 2009 in Bury St. Edmunds, Suffolk and now operate from Bury St. Edmunds and Brandon. We offer a reliable and professional service in our modern 16 seat minibus covering contracts, weddings, private hire, race days, airports and more. Get in touch with Mike..."
+    "description": "M&J Minibus Hire was founded by Mike in 2009 in Bury St. Edmunds, Suffolk and now operate from Bury St. Edmunds and Brandon. We offer a reliable and professional service in our modern 16 seat minibus covering contracts, weddings, private hire, race days, airports and more. Get in touch with Mike...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Chivers Coaches Ltd",
@@ -4227,7 +6037,21 @@
     "emails": [
       "enquiries@chiverscoaches.co.uk"
     ],
-    "description": "Chivers Coaches has served the local community in London and Surrey for over 60 years. We deliver a reliable, professional and friendly service, for which we are renowned. Safety and customer satisfaction is paramount to us; all our drivers are DBS checked and our coaches are clean and..."
+    "description": "Chivers Coaches has served the local community in London and Surrey for over 60 years. We deliver a reliable, professional and friendly service, for which we are renowned. Safety and customer satisfaction is paramount to us; all our drivers are DBS checked and our coaches are clean and...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "53-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Banstead Coaches Ltd",
@@ -4249,7 +6073,16 @@
     "emails": [
       "sales@bansteadcoaches.co.uk"
     ],
-    "description": "Banstead Coaches are a friendly coach company in Banstead. Whether you need coach transport for a single journey or on a regular contract - we can help you."
+    "description": "Banstead Coaches are a friendly coach company in Banstead. Whether you need coach transport for a single journey or on a regular contract - we can help you.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "P & R Coaches",
@@ -4271,7 +6104,12 @@
     "emails": [
       "pandrcoaches@btinternet.com"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "School Transport"
+    ]
   },
   {
     "name": "Royale European Coaches",
@@ -4316,7 +6154,16 @@
       "bookings@np-coaches.co.uk",
       "info@np-coaches.co.uk"
     ],
-    "description": "Call on New Punjab Coaches Ltd for professional coach services throughout the UK. Providing effective services at affordable prices, our coach company offers exceptional value for money. Serving schools, businesses, local authorities, and private individuals, our coach services range from school..."
+    "description": "Call on New Punjab Coaches Ltd for professional coach services throughout the UK. Providing effective services at affordable prices, our coach company offers exceptional value for money. Serving schools, businesses, local authorities, and private individuals, our coach services range from school...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Mann Coaches",
@@ -4355,7 +6202,18 @@
     "emails": [
       "info@laststopcoachhire.co.uk"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Corporate & Executive",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "49-Seater Coach",
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "Croydon Coaches",
@@ -4439,7 +6297,17 @@
     "emails": [
       "info@aacoaches.co.uk"
     ],
-    "description": "Committed to reliable and comfortable coach transport for Corporate Events, Tours & Day Trips, Special Occasions, School Trips, and Airport Transfers."
+    "description": "Committed to reliable and comfortable coach transport for Corporate Events, Tours & Day Trips, Special Occasions, School Trips, and Airport Transfers.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Tigers Transport Depot - Coach Hire",
@@ -4461,7 +6329,27 @@
     "emails": [
       "enquiries@tigerstransport.com"
     ],
-    "description": "Reliable Coach & Minibus hire London. 16 Seater Minibuses to 63 Seater Coaches. Get a Free Quote now for upcoming group travel with Tigers Transport. Price match."
+    "description": "Reliable Coach & Minibus hire London. 16 Seater Minibuses to 63 Seater Coaches. Get a Free Quote now for upcoming group travel with Tigers Transport. Price match.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Self-Drive Hire",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "17-Seater Minibus",
+      "33-Seater Coach",
+      "49-Seater Coach",
+      "57-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "DJ Coaches",
@@ -4483,7 +6371,15 @@
     "emails": [
       "sales@djcoaches.co.uk"
     ],
-    "description": "Travel on board a quality coach, getting you to your function, event, holiday destination or anywhere else safely and comfortably. Get your coach quote."
+    "description": "Travel on board a quality coach, getting you to your function, event, holiday destination or anywhere else safely and comfortably. Get your coach quote.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Centaur Coaches & Minicoaches",
@@ -4505,7 +6401,13 @@
     "emails": [
       "info@centaurtravel.co.uk"
     ],
-    "description": "Centaur Travel offer solutions for all coach hire needs. Private coach hire, executive luxury travel, commuter coaches, sports transport, school coach hire & more. Get a quote today."
+    "description": "Centaur Travel offer solutions for all coach hire needs. Private coach hire, executive luxury travel, commuter coaches, sports transport, school coach hire & more. Get a quote today.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "The Big Red Bus Club",
@@ -4528,7 +6430,12 @@
       "party@thebigredbusclub.com",
       "user@domain.com"
     ],
-    "description": "Our free under-five stay-and-play sessions are run by our dedicated volunteers, giving you and your child the chance to have fun together. Enjoy a range of activities such as arts & crafts and outdoor play, make friends and grab a cup of tea."
+    "description": "Our free under-five stay-and-play sessions are run by our dedicated volunteers, giving you and your child the chance to have fun together. Enjoy a range of activities such as arts & crafts and outdoor play, make friends and grab a cup of tea.",
+    "services": [
+      "Corporate & Executive",
+      "Night Out Transport",
+      "Religious & Community"
+    ]
   },
   {
     "name": "Atlantis Travels & Tours - Standard & Executive Private Chauffeur Minibus & Coach Hire In London & UK",
@@ -4568,7 +6475,15 @@
       "info@ospreycoaches.com",
       "user@domain.com"
     ],
-    "description": "Osprey Coaches provides coach & minibus hire across Chelmsford, London, Essex, Suffolk, Felixstowe, Upminster, Dagenham, Braintree, Brentwood, Harlow."
+    "description": "Osprey Coaches provides coach & minibus hire across Chelmsford, London, Essex, Suffolk, Felixstowe, Upminster, Dagenham, Braintree, Brentwood, Harlow.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Avon Coaches",
@@ -4590,7 +6505,21 @@
     "emails": [
       "avon@avoncoaches.co.uk"
     ],
-    "description": "Minibus and coach company in London, Essex and surrounding areas for Weddings, Sporting Events, Race Days, Corporate Events, Airports etc"
+    "description": "Minibus and coach company in London, Essex and surrounding areas for Weddings, Sporting Events, Race Days, Corporate Events, Airports etc",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus 2 go",
@@ -4608,7 +6537,11 @@
     "lng": 0.1411955,
     "found_in_location": "Lewisham",
     "found_with_query": "16 seater minibus hire Lewisham",
-    "description": "If you're looking for a reliable minibus company to take your group somewhere in the UK, You've come to the right website. We offer smooth and safe journeys at great prices. When booking with us you will be driven by reliable and experienced drivers."
+    "description": "If you're looking for a reliable minibus company to take your group somewhere in the UK, You've come to the right website. We offer smooth and safe journeys at great prices. When booking with us you will be driven by reliable and experienced drivers.",
+    "services": [
+      "Long Distance & Nationwide",
+      "Night Out Transport"
+    ]
   },
   {
     "name": "Nationwide Coaches",
@@ -4664,7 +6597,21 @@
     "emails": [
       "shycoachhire@gmail.com"
     ],
-    "description": "Professional coach and bus hire serving all of London and the South East"
+    "description": "Professional coach and bus hire serving all of London and the South East",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "49-Seater Coach"
+    ]
   },
   {
     "name": "Go Bus",
@@ -4686,7 +6633,12 @@
     "emails": [
       "info@go-coach.co.uk"
     ],
-    "description": "Go Bus is an independent bus operator and workshop business, running in North and West Kent. We operate services across North and West Kent, running both schools service and daytime routes."
+    "description": "Go Bus is an independent bus operator and workshop business, running in North and West Kent. We operate services across North and West Kent, running both schools service and daytime routes.",
+    "services": [
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Falcon Coaches",
@@ -4704,7 +6656,17 @@
     "lng": -0.4781684,
     "found_in_location": "Lewisham",
     "found_with_query": "corporate coach hire Lewisham",
-    "description": "Coach Hire Company from Surrey. Operating 8-55 seat coaches and mini coaches in Surrey and London. Coaches for Hire @ Low Prices. School and Company events In Weybridge, Chertsey, Woking, Byfleet, Kingston, Richmond and Twickenham. Heathrow Transfers for Groups"
+    "description": "Coach Hire Company from Surrey. Operating 8-55 seat coaches and mini coaches in Surrey and London. Coaches for Hire @ Low Prices. School and Company events In Weybridge, Chertsey, Woking, Byfleet, Kingston, Richmond and Twickenham. Heathrow Transfers for Groups",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "Nova Bussing Limited",
@@ -4726,7 +6688,18 @@
     "emails": [
       "info@novabussing.com"
     ],
-    "description": "Nova Bussing is one of the leading minibus and coach hire companies in London and the surrounding counties such as Kent, Sussex, and Surrey. Receive an email quotation today or call our dedicated team."
+    "description": "Nova Bussing is one of the leading minibus and coach hire companies in London and the surrounding counties such as Kent, Sussex, and Surrey. Receive an email quotation today or call our dedicated team.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "Westbus Coach Services Limited",
@@ -4744,7 +6717,20 @@
     "lng": -0.4449329,
     "found_in_location": "Lewisham",
     "found_with_query": "corporate coach hire Lewisham",
-    "description": "If you\u2019re looking for a coach hire company - whether that\u2019s executive coach hire, double decker hire, or more \u2013 Westbus Coach Services can help."
+    "description": "If you\u2019re looking for a coach hire company - whether that\u2019s executive coach hire, double decker hire, or more \u2013 Westbus Coach Services can help.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events"
+    ],
+    "vehicles": [
+      "29-Seater Coach",
+      "53-Seater Coach",
+      "57-Seater Coach"
+    ]
   },
   {
     "name": "London Coach & Mini Bus Hire",
@@ -4783,7 +6769,21 @@
     "emails": [
       "info@estransport.co.uk"
     ],
-    "description": "We provide private coach hire in London and throughout the UK for airport transfers, corporate events, festivals, sporting events and long distance journeys."
+    "description": "We provide private coach hire in London and throughout the UK for airport transfers, corporate events, festivals, sporting events and long distance journeys.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Soyuz Minicoaches Ltd",
@@ -4858,7 +6858,15 @@
     "lng": -0.338227,
     "found_in_location": "Battersea",
     "found_with_query": "corporate coach hire Battersea",
-    "description": "We're Currently Accepting Bookings for 2025, 2026 and Beyond London\u2019s Multi-Award Winning Operator of Vintage Routemaster Buses London\u2019s Multi-Award Winning Operator of Vintage Routemaster Buses Start Your No-Obligation Quote Today ... For passengers that want the Best of the Best There\u2019s ..."
+    "description": "We're Currently Accepting Bookings for 2025, 2026 and Beyond London\u2019s Multi-Award Winning Operator of Vintage Routemaster Buses London\u2019s Multi-Award Winning Operator of Vintage Routemaster Buses Start Your No-Obligation Quote Today ... For passengers that want the Best of the Best There\u2019s ...",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Oak Coaches",
@@ -4881,7 +6889,15 @@
       "info@hireyourtransport.com",
       "info@thememove.com"
     ],
-    "description": "Hireyourtransport.com provide high quality executive coach and bus hire in London and the surrounding area."
+    "description": "Hireyourtransport.com provide high quality executive coach and bus hire in London and the surrounding area.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Alba Mini Coaches",
@@ -4899,7 +6915,14 @@
     "lng": -0.193984,
     "found_in_location": "Putney",
     "found_with_query": "coach hire Putney",
-    "description": "Experience luxurious and comfortable travel with our private coach hire based out of Heathrow. Offering services for the greater London area"
+    "description": "Experience luxurious and comfortable travel with our private coach hire based out of Heathrow. Offering services for the greater London area",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community"
+    ]
   },
   {
     "name": "City Minibus & Coach Hire",
@@ -4957,7 +6980,20 @@
       "info@hireyourtransport.com",
       "info@thememove.com"
     ],
-    "description": "Our modern coaches are full equipped with Air conditioning, 3 point seat belts, Reclining Seats and wheelchair access"
+    "description": "Our modern coaches are full equipped with Air conditioning, 3 point seat belts, Reclining Seats and wheelchair access",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach"
+    ]
   },
   {
     "name": "P & R Coaches Ltd",
@@ -5052,7 +7088,22 @@
     "emails": [
       "bookings@minibushiresuttoncoldfield.co.uk"
     ],
-    "description": "Whether you need coach hire with driver or 16-seater hire with driver for weddings, day trips, etc. we are your go-to minibus hire service, ready to assist you in any way possible."
+    "description": "Whether you need coach hire with driver or 16-seater hire with driver for weddings, day trips, etc. we are your go-to minibus hire service, ready to assist you in any way possible.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Party Bus Surrey",
@@ -5094,7 +7145,15 @@
       "office@marshallscoaches.co.uk",
       "service@marshallscoaches.co.uk"
     ],
-    "description": "Registered address:11 Main Street,Sutton-on-Trent,Newark,Nottinghamshire,NG23 6PF"
+    "description": "Registered address:11 Main Street,Sutton-on-Trent,Newark,Nottinghamshire,NG23 6PF",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport"
+    ],
+    "vehicles": [
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "The Coach Company birmingham...coach and minibuses",
@@ -5197,7 +7256,22 @@
     "lng": 0.1746433,
     "found_in_location": "Bromley",
     "found_with_query": "16 seater minibus hire Bromley",
-    "description": "We are regarded as one of the premier Minibus Hire Dartford transportation companies providing vehicles with drivers and coach hire transport."
+    "description": "We are regarded as one of the premier Minibus Hire Dartford transportation companies providing vehicles with drivers and coach hire transport.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "School Transport",
+      "Self-Drive Hire"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Bromley ActionCOACH",
@@ -5220,7 +7294,13 @@
       "catherinemanning@actioncoach.com",
       "freedom@actioncoach.co.uk"
     ],
-    "description": "Bromley - ActionCOACH Business coaching services based in Bromley, Kent. Bromley - ActionCOACH ActionCOACH Bromley provides business growth services and support for businesses in Bromley, take action and grow your business today. Bromley ActionCOACH Business Growth Specialist helping business..."
+    "description": "Bromley - ActionCOACH Business coaching services based in Bromley, Kent. Bromley - ActionCOACH ActionCOACH Bromley provides business growth services and support for businesses in Bromley, take action and grow your business today. Bromley ActionCOACH Business Growth Specialist helping business...",
+    "services": [
+      "Night Out Transport",
+      "Religious & Community",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Orpington Minibus Hire",
@@ -5397,7 +7477,11 @@
     "lng": -0.0039095,
     "found_in_location": "Stratford",
     "found_with_query": "airport transfer minibus Stratford",
-    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!"
+    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!",
+    "services": [
+      "Airport Transfers",
+      "School Transport"
+    ]
   },
   {
     "name": "Stratford Station Bus Stop W",
@@ -5436,7 +7520,12 @@
     "emails": [
       "info@airportbusexpress.co.uk"
     ],
-    "description": "Travel to and from UK airports with Airport Bus Express. Enjoy reliable, comfortable coach services to major airports, with easy connections & great value."
+    "description": "Travel to and from UK airports with Airport Bus Express. Enjoy reliable, comfortable coach services to major airports, with easy connections & great value.",
+    "services": [
+      "Airport Transfers",
+      "Night Out Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Elite Essex Minibuses",
@@ -5458,7 +7547,18 @@
     "emails": [
       "info@eliteessexminibuses.co.uk"
     ],
-    "description": "24 hour Minibus Hire & Coach Hire Essex. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 07599 754 444."
+    "description": "24 hour Minibus Hire & Coach Hire Essex. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 07599 754 444.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Romford Minibus Hire | Minibus Hire Essex",
@@ -5480,7 +7580,19 @@
     "emails": [
       "bookings@essex-minibus-hire.co.uk"
     ],
-    "description": "Welcome to ESSEX MINIBUSESWith affordable & spacious minibuses"
+    "description": "Welcome to ESSEX MINIBUSESWith affordable & spacious minibuses",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "The Coach & Horses",
@@ -5503,7 +7615,13 @@
       "events@thecoachleyton.com",
       "manager@thecoachleyton.com"
     ],
-    "description": "An independent East London pub serving a varied selection of both local & continental beers, and authentic Sri Lankan street food."
+    "description": "An independent East London pub serving a varied selection of both local & continental beers, and authentic Sri Lankan street food.",
+    "services": [
+      "Day Trips & Tours",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "AJK Coaches",
@@ -5525,7 +7643,11 @@
     "emails": [
       "ajkcoaches@outlook.com"
     ],
-    "description": "Experience the convenience of private transportation services in London, ensuring a comfortable and personalized journey."
+    "description": "Experience the convenience of private transportation services in London, ensuring a comfortable and personalized journey.",
+    "services": [
+      "School Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Minibus hire",
@@ -5683,7 +7805,19 @@
     "emails": [
       "bookings@essex-minibus-hire.co.uk"
     ],
-    "description": "Welcome to ESSEX MINIBUSESWith affordable & spacious minibuses"
+    "description": "Welcome to ESSEX MINIBUSESWith affordable & spacious minibuses",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Wilson Minibuses",
@@ -5705,7 +7839,22 @@
     "emails": [
       "info@wilsonminibuses.co.uk"
     ],
-    "description": "Enjoy amazing: \u2713Minicab Services\u2713Coach Hire\u2713Limousine Hire\u2713 And many more! Call: 07710 693 770 for amazing services at modest prices. Amazing services since 2005."
+    "description": "Enjoy amazing: \u2713Minicab Services\u2713Coach Hire\u2713Limousine Hire\u2713 And many more! Call: 07710 693 770 for amazing services at modest prices. Amazing services since 2005.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Minibus Hire Essex : EE Minibuses",
@@ -5727,7 +7876,25 @@
     "emails": [
       "bookings@eeminibuses.co.uk"
     ],
-    "description": "EE Minibuses provides 24/7 affordable coach & minibus hire Essex services. Dial 01708 302 010 & reserve your vehicle today."
+    "description": "EE Minibuses provides 24/7 affordable coach & minibus hire Essex services. Dial 01708 302 010 & reserve your vehicle today.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "A1 Mini Bus Hire",
@@ -5818,7 +7985,17 @@
     "lng": 0.1574076,
     "found_in_location": "Dagenham",
     "found_with_query": "corporate coach hire Dagenham",
-    "description": "Private Minibus Hire London and EssexWelcome to our website. Here at Ashley\u2019s Bus Company, we are committed to providing the best private minibus hire service that money can buy.Call us now on07974 403033, 24 hours, 7 days a week Or Simply fill in the form below and we will get back to you as..."
+    "description": "Private Minibus Hire London and EssexWelcome to our website. Here at Ashley\u2019s Bus Company, we are committed to providing the best private minibus hire service that money can buy.Call us now on07974 403033, 24 hours, 7 days a week Or Simply fill in the form below and we will get back to you as...",
+    "services": [
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Minibus Force",
@@ -5840,7 +8017,24 @@
     "emails": [
       "info@minibusforce.com"
     ],
-    "description": "Airport Transfers / Group Travel / Corporate Travel / Sightseeing Night Outs / Sports Day / Day Outs / Wedding Hire / London Tours"
+    "description": "Airport Transfers / Group Travel / Corporate Travel / Sightseeing Night Outs / Sports Day / Day Outs / Wedding Hire / London Tours",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "33-Seater Coach"
+    ]
   },
   {
     "name": "Royal London Minibuses",
@@ -5862,7 +8056,18 @@
     "emails": [
       "info@eliteessexminibuses.co.uk"
     ],
-    "description": "24 hour Minibus Hire & Coach Hire Essex. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 07599 754 444."
+    "description": "24 hour Minibus Hire & Coach Hire Essex. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 07599 754 444.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Adams Coaches",
@@ -5901,7 +8106,26 @@
     "emails": [
       "bookings@minibus-hire-hertfordshire.co.uk"
     ],
-    "description": "Minibus hire Hertfordshire provides chauffeur-driven minibuses & coaches in Hertfordshire. Call us on 02037456247 for bookings!"
+    "description": "Minibus hire Hertfordshire provides chauffeur-driven minibuses & coaches in Hertfordshire. Call us on 02037456247 for bookings!",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Party Bus",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "16-Seater Minibus",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "Apollo Coaches",
@@ -5957,7 +8181,20 @@
     "emails": [
       "emminibuses@gmail.com"
     ],
-    "description": "24X7 Minibus Hire Kent with driver & Airport transfer services from \u00a310 per person. Give us a call on 0333 3442 499 to make the bookings."
+    "description": "24X7 Minibus Hire Kent with driver & Airport transfer services from \u00a310 per person. Give us a call on 0333 3442 499 to make the bookings.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "A2B Minibus Travel",
@@ -6030,7 +8267,13 @@
     "emails": [
       "info@amtcoaches.co.uk"
     ],
-    "description": "AMT Coaches offers reliable luxury coach hire and minibus rentals in London. Comfortable vehicles, professional drivers, and competitive prices."
+    "description": "AMT Coaches offers reliable luxury coach hire and minibus rentals in London. Comfortable vehicles, professional drivers, and competitive prices.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport"
+    ]
   },
   {
     "name": "SkyBus Southern Cross Station",
@@ -6053,7 +8296,14 @@
       "info@skybus.com.au",
       "michelle.leong@wearekinetic.com"
     ],
-    "description": "SkyBus - City. Airport. Express. SkyBus operates services to and from Melbourne Tullamarine Airport (MEL), Melbourne Avalon Airport (AVV) and Hobart International Airport (HBA). We provide reliable and affordable airport transfers to Melbourne City, St Kilda, Frankston and surrounding bayside..."
+    "description": "SkyBus - City. Airport. Express. SkyBus operates services to and from Melbourne Tullamarine Airport (MEL), Melbourne Avalon Airport (AVV) and Hobart International Airport (HBA). We provide reliable and affordable airport transfers to Melbourne City, St Kilda, Frankston and surrounding bayside...",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Cheap Bus Charter",
@@ -6075,7 +8325,16 @@
     "emails": [
       "service@cheapbuscharter.com.au"
     ],
-    "description": "Cheap Bus Charter I Cheap Bus Charter | Trusted Bus Charter Company & Service"
+    "description": "Cheap Bus Charter I Cheap Bus Charter | Trusted Bus Charter Company & Service",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Southern Cross Station Underground Coach & Bus Terminal",
@@ -6110,7 +8369,25 @@
     "lng": -0.1279404,
     "found_in_location": "Docklands",
     "found_with_query": "16 seater minibus hire Docklands",
-    "description": "Are you in need of a minibus hire service provider that will give you the best London minibus for your group to use in the town? Look no further. London minibus hire and london coach hire is the place to be. The company is known all over the region for providing well maintained minibuses of all..."
+    "description": "Are you in need of a minibus hire service provider that will give you the best London minibus for your group to use in the town? Look no further. London minibus hire and london coach hire is the place to be. The company is known all over the region for providing well maintained minibuses of all...",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Long Distance & Nationwide",
+      "Religious & Community",
+      "Self-Drive Hire",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "12-Seater Minibus",
+      "14-Seater Minibus",
+      "16-Seater Minibus",
+      "24-Seater Minibus",
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "SkyBus Departures",
@@ -6213,7 +8490,20 @@
     "lng": -0.4488026,
     "found_in_location": "Ealing",
     "found_with_query": "coach hire Ealing",
-    "description": "Look no further, as Coach Hire Heathrow is in town to help you if you're planning a small or large group trip for either business or pleasure. To be able to"
+    "description": "Look no further, as Coach Hire Heathrow is in town to help you if you're planning a small or large group trip for either business or pleasure. To be able to",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "Party Bus",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "John Houghton\u2019s Luxury Mini Coaches",
@@ -6252,7 +8542,13 @@
     "emails": [
       "sales@commonwealthcoaches.co.uk"
     ],
-    "description": "We take great pride in our reputation ensuring value for money and reliability."
+    "description": "We take great pride in our reputation ensuring value for money and reliability.",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "ELITE COACH HIRE LTD",
@@ -6325,7 +8621,22 @@
     "emails": [
       "info@highwaycoaches.co.uk"
     ],
-    "description": "We have a range of coaches ranging from 29 seats to 75 seats available for provate coach hire, school coach hire & continental tours."
+    "description": "We have a range of coaches ranging from 29 seats to 75 seats available for provate coach hire, school coach hire & continental tours.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "29-Seater Coach",
+      "33-Seater Coach"
+    ]
   },
   {
     "name": "Motion Minibuses - 8-seater & 16-seater",
@@ -6364,7 +8675,20 @@
     "emails": [
       "info@acecoacheslondon.com"
     ],
-    "description": "London Best Coach Hire Company, We create a unique experience that delivers a smooth and comfortable journey"
+    "description": "London Best Coach Hire Company, We create a unique experience that delivers a smooth and comfortable journey",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Alba Coaches",
@@ -6386,7 +8710,22 @@
     "emails": [
       "info@alba-coaches.co.uk"
     ],
-    "description": "Experience luxurious and comfortable travel with our private coach hire based out of Heathrow. Offering services for the greater London area"
+    "description": "Experience luxurious and comfortable travel with our private coach hire based out of Heathrow. Offering services for the greater London area",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "29-Seater Coach"
+    ]
   },
   {
     "name": "London Bus Hire",
@@ -6404,7 +8743,15 @@
     "lng": -0.2236641,
     "found_in_location": "Shepherds Bush",
     "found_with_query": "minibus hire Shepherds Bush",
-    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also"
+    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Party Bus",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "UFODRIVE London Shepherd's Bush",
@@ -6426,7 +8773,10 @@
     "emails": [
       "contact@ufodrive.com"
     ],
-    "description": "24/7 All-Electric Car Rental in London. The UFODRIVE premium car rental bay is situated at Lobby 3, level -2 in the Westfield Shopping Centre Car Park, Shepherd\u2019s Bush, London."
+    "description": "24/7 All-Electric Car Rental in London. The UFODRIVE premium car rental bay is situated at Lobby 3, level -2 in the Westfield Shopping Centre Car Park, Shepherd\u2019s Bush, London.",
+    "services": [
+      "Airport Transfers"
+    ]
   },
   {
     "name": "Blue Coaches Ltd",
@@ -6499,7 +8849,14 @@
     "emails": [
       "transport@cruiseminibuses.com"
     ],
-    "description": "Cruise Minibuses, Airport Transfers, Corporate Minibus Hire, Race Days, Stag & Hen, Sporting Events & School Minibus Hire, West Drayton, London UK"
+    "description": "Cruise Minibuses, Airport Transfers, Corporate Minibus Hire, Race Days, Stag & Hen, Sporting Events & School Minibus Hire, West Drayton, London UK",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Luxury Minibus Ltd",
@@ -6557,7 +8914,14 @@
       "info@icoaches.co.uk",
       "toinfo@icoaches.co.uk"
     ],
-    "description": "ICOACHES \u2013 London\u2019s Premier Coach Hire Company. We offers the flexibility, reliability, and luxury you need. Coach Hire London"
+    "description": "ICOACHES \u2013 London\u2019s Premier Coach Hire Company. We offers the flexibility, reliability, and luxury you need. Coach Hire London",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events"
+    ]
   },
   {
     "name": "Sihota Coaches",
@@ -6579,7 +8943,10 @@
     "emails": [
       "sihotacoaches@hotmail.co.uk"
     ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Welcome Coaches",
@@ -6614,7 +8981,16 @@
     "lng": -0.3906539,
     "found_in_location": "Twickenham",
     "found_with_query": "coach hire Twickenham",
-    "description": "Coach Hire in London, then look no further. New Bharat Coaches is one of the leading private coach hire companies in West London"
+    "description": "Coach Hire in London, then look no further. New Bharat Coaches is one of the leading private coach hire companies in West London",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Transport UK Bus Twickenham Depot",
@@ -6653,7 +9029,14 @@
     "emails": [
       "airbus@bathbuscompany.com"
     ],
-    "description": "The Air Decker bus from Bath to Bristol Airport provides an efficient bus service operating 7 days a week, all year round except Christmas Day"
+    "description": "The Air Decker bus from Bath to Bristol Airport provides an efficient bus service operating 7 days a week, all year round except Christmas Day",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Theme Parks & Attractions"
+    ]
   },
   {
     "name": "Ealsons Coaches",
@@ -6675,7 +9058,17 @@
     "emails": [
       "info@ealsonscoaches.co.uk"
     ],
-    "description": "We provide services to local councils and schools for the transport of students and delegates."
+    "description": "We provide services to local councils and schools for the transport of students and delegates.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "ActionCOACH",
@@ -6698,7 +9091,12 @@
       "chrischurchman@actioncoach.com",
       "freedom@actioncoach.co.uk"
     ],
-    "description": "Discover how Chris Churchman, a certified ActionCOACH business coach, helps business owners achieve growth"
+    "description": "Discover how Chris Churchman, a certified ActionCOACH business coach, helps business owners achieve growth",
+    "services": [
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport"
+    ]
   },
   {
     "name": "White Lion Coaches Ltd",
@@ -6720,7 +9118,12 @@
     "emails": [
       "whitelioncoaches@gmail.com"
     ],
-    "description": "The team at White Lion Coaches work with private, corporate, and education-based clients to provide business, school, and individual transportation services."
+    "description": "The team at White Lion Coaches work with private, corporate, and education-based clients to provide business, school, and individual transportation services.",
+    "services": [
+      "Corporate & Executive",
+      "Long Distance & Nationwide",
+      "School Transport"
+    ]
   },
   {
     "name": "SK Coaches",
@@ -6743,7 +9146,14 @@
       "info@skcoaches.co.uk",
       "surpreet.uk@gmail.com"
     ],
-    "description": "If you\u2019re looking for Coach Hire in London, then look no further. SK Ltd. is one of the leading private coach hire companies in West London. We have over 10 years of experience in providing high quality and affordable coach travel for passengers."
+    "description": "If you\u2019re looking for Coach Hire in London, then look no further. SK Ltd. is one of the leading private coach hire companies in West London. We have over 10 years of experience in providing high quality and affordable coach travel for passengers.",
+    "services": [
+      "Airport Transfers",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Partyholics Party Bus",
@@ -6766,7 +9176,13 @@
       "impallari@gmail.com",
       "team@latofonts.com"
     ],
-    "description": "Experience the ultimate party on wheels with our luxury bus"
+    "description": "Experience the ultimate party on wheels with our luxury bus",
+    "services": [
+      "Corporate & Executive",
+      "Party Bus",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Haines Minicoaches Ltd",
@@ -6784,7 +9200,18 @@
     "lng": -0.329654,
     "found_in_location": "Kingston",
     "found_with_query": "party bus hire Kingston",
-    "description": "16, 25, 29 seater and 25 seater PSVAR mini/ midi coaches for various events such as:Corporate, Sports Events, Tours, Day TripsForeign Travel, Golf DaysWork or School ContractsWeddings, Theatre TripsEastbourne Airshow,Jurassic coast tripsWine Tasting Tours"
+    "description": "16, 25, 29 seater and 25 seater PSVAR mini/ midi coaches for various events such as:Corporate, Sports Events, Tours, Day TripsForeign Travel, Golf DaysWork or School ContractsWeddings, Theatre TripsEastbourne Airshow,Jurassic coast tripsWine Tasting Tours",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "29-Seater Coach"
+    ]
   },
   {
     "name": "Reptons Coaches",
@@ -6834,7 +9261,13 @@
       "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
       "myskoolbus@yahoo.co.uk"
     ],
-    "description": "My-Skool-Bus offers Grammar School transport to Upton Court School, Tiffins Girls School, Tiffins Boys School, Nonsuch High School, Wilson's School and Langley Grammar Schoom. School Bus transport from areas surrounding Hounslow (Feltham, Isleworth, Southall) to Kingston, Sutton, Nonsuch and Slough"
+    "description": "My-Skool-Bus offers Grammar School transport to Upton Court School, Tiffins Girls School, Tiffins Boys School, Nonsuch High School, Wilson's School and Langley Grammar Schoom. School Bus transport from areas surrounding Hounslow (Feltham, Isleworth, Southall) to Kingston, Sutton, Nonsuch and Slough",
+    "services": [
+      "School Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "Imperial Coaches Ltd",
@@ -6856,7 +9289,23 @@
     "emails": [
       "sales@imperialcoaches.co.uk"
     ],
-    "description": "Imperial Coaches Ltd London Heathrow's premier Coach Hire companies. Only 2 miles from Heathrow Airport we offer coach hire for Schools and Private Hire"
+    "description": "Imperial Coaches Ltd London Heathrow's premier Coach Hire companies. Only 2 miles from Heathrow Airport we offer coach hire for Schools and Private Hire",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport",
+      "Sports & Events",
+      "Stag & Hen Parties",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "33-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "247 Coach Hire",
@@ -6874,7 +9323,17 @@
     "lng": -0.3965717,
     "found_in_location": "Hounslow",
     "found_with_query": "coach hire Hounslow",
-    "description": "247 Coach Hire in London provides professional transfers in London. Access our gallery for images of our vehicles."
+    "description": "247 Coach Hire in London provides professional transfers in London. Access our gallery for images of our vehicles.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "70-Seater Coach",
+      "8-Seater Minibus"
+    ]
   },
   {
     "name": "M Y Coach Ltd",
@@ -7026,7 +9485,12 @@
     "emails": [
       "info@alltimecars.co.uk"
     ],
-    "description": "Reliable airport transfers and 24/7 minicab services in Uxbridge, London. Comfortable cars, professional drivers, and quick online booking."
+    "description": "Reliable airport transfers and 24/7 minicab services in Uxbridge, London. Comfortable cars, professional drivers, and quick online booking.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "NKM Minibuses",
@@ -7048,7 +9512,12 @@
     "emails": [
       "info@nkmminibuses.co.uk"
     ],
-    "description": "We offer convenient and hassle-free airport transfers, working 24 hours a day, 7 days a week"
+    "description": "We offer convenient and hassle-free airport transfers, working 24 hours a day, 7 days a week",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours"
+    ]
   },
   {
     "name": "Business Results Coach",
@@ -7066,7 +9535,11 @@
     "lng": -0.4125142,
     "found_in_location": "Hayes",
     "found_with_query": "corporate coach hire Hayes",
-    "description": "Elevate your leadership skills and enhance business outcomes with Business Results Coach. Start transforming your results today."
+    "description": "Elevate your leadership skills and enhance business outcomes with Business Results Coach. Start transforming your results today.",
+    "services": [
+      "Corporate & Executive",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Crawfords Coaches",
@@ -7097,6 +9570,10 @@
       "patron@crawfords.co.uk",
       "sales@crawfords.co.uk",
       "support@crawfords.co.uk"
+    ],
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive"
     ]
   },
   {
@@ -7119,7 +9596,20 @@
     "emails": [
       "info@gazellecoachservices.com"
     ],
-    "description": "You are welcome to change your privacy preferences here."
+    "description": "You are welcome to change your privacy preferences here.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Religious & Community",
+      "School Transport",
+      "Theme Parks & Attractions",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus",
+      "53-Seater Coach"
+    ]
   },
   {
     "name": "LCR Coach Hire",
@@ -7175,7 +9665,12 @@
     "emails": [
       "mail@coachhub.com"
     ],
-    "description": "3,500+ international, certified coaches. AI-based coach matching. CoachHub is the digital coaching platform for remote- & online coaching."
+    "description": "3,500+ international, certified coaches. AI-based coach matching. CoachHub is the digital coaching platform for remote- & online coaching.",
+    "services": [
+      "Corporate & Executive",
+      "Religious & Community",
+      "Stag & Hen Parties"
+    ]
   },
   {
     "name": "Mch Coaches",
@@ -7193,7 +9688,15 @@
     "lng": -0.4881938,
     "found_in_location": "Uxbridge",
     "found_with_query": "corporate coach hire Uxbridge",
-    "description": "Coach hire and minibus hire in the London area"
+    "description": "Coach hire and minibus hire in the London area",
+    "services": [
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Long Distance & Nationwide",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Hamilton Coaches",
@@ -7251,7 +9754,10 @@
       "team@latofonts.com",
       "yogi@volksbusweddings.co.uk"
     ],
-    "description": "VW campervan & classic car wedding hire available in West Sussex, East Sussex, & Surrey"
+    "description": "VW campervan & classic car wedding hire available in West Sussex, East Sussex, & Surrey",
+    "services": [
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Train, Bus & Coach Tickets.",
@@ -7290,7 +9796,15 @@
     "emails": [
       "emailaddress@mail.com"
     ],
-    "description": "How to get to and from London Stansted Airport by bus or coach. Find services to and from the airport, from London and other nearby UK destinations."
+    "description": "How to get to and from London Stansted Airport by bus or coach. Find services to and from the airport, from London and other nearby UK destinations.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Funeral Transport",
+      "Night Out Transport",
+      "Religious & Community",
+      "School Transport"
+    ]
   },
   {
     "name": "Stansted Airport Coach Station",
@@ -7342,7 +9856,11 @@
     "lng": 0.2640368,
     "found_in_location": "Stansted",
     "found_with_query": "16 seater minibus hire Stansted",
-    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!"
+    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!",
+    "services": [
+      "Airport Transfers",
+      "School Transport"
+    ]
   },
   {
     "name": "KJ's Private Hire Minibus",
@@ -7382,7 +9900,19 @@
     "emails": [
       "info@rayhansminibuscoachhire.co.uk"
     ],
-    "description": "Our Fleet Whether you are planning on taking a scenic route holiday or you have an upcoming project requiring a range of mini buses? Meet our Fleet! We know we've the perfect vehicles. Explore More Get a Quote No matter where your located in United Kingdom, we can arrange for a wide range of Minibus"
+    "description": "Our Fleet Whether you are planning on taking a scenic route holiday or you have an upcoming project requiring a range of mini buses? Meet our Fleet! We know we've the perfect vehicles. Explore More Get a Quote No matter where your located in United Kingdom, we can arrange for a wide range of Minibus",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "Night Out Transport",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ],
+    "vehicles": [
+      "16-Seater Minibus"
+    ]
   },
   {
     "name": "BCS BUS",
@@ -7405,7 +9935,15 @@
       "booking@bcs-bus.com",
       "sales.dept@bcs-bus.com"
     ],
-    "description": "Professional charter bus rental services across Europe. Modern fleet, experienced drivers, competitive prices. Book your transportation with BCS Travel."
+    "description": "Professional charter bus rental services across Europe. Modern fleet, experienced drivers, competitive prices. Book your transportation with BCS Travel.",
+    "services": [
+      "Airport Transfers",
+      "Corporate & Executive",
+      "Day Trips & Tours",
+      "School Transport",
+      "Sports & Events",
+      "Wedding Transport"
+    ]
   },
   {
     "name": "Flibco Coach Stop",
@@ -7423,7 +9961,11 @@
     "lng": -0.07975109999999999,
     "found_in_location": "London City Airport",
     "found_with_query": "coach hire London City Airport",
-    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!"
+    "description": "Coach between London and Stansted Airport (STN) \u2713 Every 30 mins \u2713 Tickets from \u00a36.99 \u2713 Stops at Liverpool Street and Stratford \u2713 Buy online with discount!",
+    "services": [
+      "Airport Transfers",
+      "School Transport"
+    ]
   },
   {
     "name": "Airport Bus Express London Liverpool Street",
@@ -7445,6 +9987,11 @@
     "emails": [
       "info@airportbusexpress.co.uk"
     ],
-    "description": "Travel to and from UK airports with Airport Bus Express. Enjoy reliable, comfortable coach services to major airports, with easy connections & great value."
+    "description": "Travel to and from UK airports with Airport Bus Express. Enjoy reliable, comfortable coach services to major airports, with easy connections & great value.",
+    "services": [
+      "Airport Transfers",
+      "Night Out Transport",
+      "Stag & Hen Parties"
+    ]
   }
 ]

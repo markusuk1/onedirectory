@@ -86,6 +86,16 @@ export default async function ProductBusinessPage({
       telephone: business.internationalPhone || business.phone,
       ...(business.email && { email: business.email }),
       ...(business.description && { description: business.description }),
+      ...(business.services.length > 0 && {
+        hasOfferCatalog: {
+          "@type": "OfferCatalog",
+          name: "Services",
+          itemListElement: business.services.map((s) => ({
+            "@type": "Offer",
+            itemOffered: { "@type": "Service", name: s },
+          })),
+        },
+      }),
       url: business.website,
       geo: {
         "@type": "GeoCoordinates",
@@ -190,6 +200,46 @@ export default async function ProductBusinessPage({
               <p className="text-text-light mt-4 leading-relaxed">
                 {business.description}
               </p>
+            )}
+
+            {/* Services & Vehicles */}
+            {(business.services.length > 0 || business.vehicles.length > 0) && (
+              <div className="bg-white border border-border rounded-xl p-6 mt-6">
+                {business.services.length > 0 && (
+                  <div>
+                    <h2 className="font-semibold text-lg text-text mb-3">
+                      Services Offered
+                    </h2>
+                    <div className="flex flex-wrap gap-2">
+                      {business.services.map((service) => (
+                        <span
+                          key={service}
+                          className="bg-primary/10 text-primary text-sm font-medium px-3 py-1 rounded-full"
+                        >
+                          {service}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {business.vehicles.length > 0 && (
+                  <div className={business.services.length > 0 ? "mt-5" : ""}>
+                    <h2 className="font-semibold text-lg text-text mb-3">
+                      Fleet
+                    </h2>
+                    <div className="flex flex-wrap gap-2">
+                      {business.vehicles.map((vehicle) => (
+                        <span
+                          key={vehicle}
+                          className="bg-surface text-text text-sm font-medium px-3 py-1 rounded-full border border-border"
+                        >
+                          {vehicle}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
             )}
 
             {/* Details */}

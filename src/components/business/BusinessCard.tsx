@@ -75,6 +75,24 @@ export default function BusinessCard({
         </p>
       )}
 
+      {business.services.length > 0 && (
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          {business.services.slice(0, 3).map((service) => (
+            <span
+              key={service}
+              className="bg-primary/10 text-primary text-xs font-medium px-2 py-0.5 rounded-full"
+            >
+              {service}
+            </span>
+          ))}
+          {business.services.length > 3 && (
+            <span className="text-xs text-text-light py-0.5">
+              +{business.services.length - 3} more
+            </span>
+          )}
+        </div>
+      )}
+
       <div className="mt-4 flex items-center justify-between">
         <span className="text-xs text-text-light bg-surface rounded-full px-2.5 py-1">
           {business.locationName}

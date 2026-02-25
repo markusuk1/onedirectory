@@ -43,6 +43,8 @@ function transformBusiness(raw: BusinessRaw): Business {
     website: raw.website || null,
     email: raw.email || null,
     description: raw.description || null,
+    services: raw.services || [],
+    vehicles: raw.vehicles || [],
     googleMapsUrl: raw.google_maps_url,
     rating: raw.rating,
     totalReviews: raw.total_reviews || 0,
