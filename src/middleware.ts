@@ -10,6 +10,7 @@ const STATIC_ROUTES = new Set([
   "minibus-hire",
   "van-hire",
   "skip-hire",
+  "locksmith",
   "_next",
   "images",
   "favicon.ico",
