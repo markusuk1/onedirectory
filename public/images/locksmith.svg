@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" fill="none">
+  <!-- Ground shadow -->
+  <ellipse cx="200" cy="232" rx="100" ry="8" fill="#e2e8f0" opacity="0.6"/>
+
+  <!-- Outer oval - dark outline -->
+  <ellipse cx="200" cy="125" rx="115" ry="105" fill="#334155"/>
+
+  <!-- Gold border ring -->
+  <ellipse cx="200" cy="125" rx="105" ry="95" fill="#f59e0b"/>
+
+  <!-- Inner dark ring -->
+  <ellipse cx="200" cy="125" rx="95" ry="86" fill="#334155" opacity="0.2"/>
+
+  <!-- Inner gold face -->
+  <ellipse cx="200" cy="125" rx="88" ry="80" fill="#d97706"/>
+
+  <!-- Keyhole - circle top -->
+  <circle cx="200" cy="105" r="22" fill="#334155"/>
+
+  <!-- Keyhole - trapezoid bottom -->
+  <path d="M187 105 L180 165 Q180 170 200 170 Q220 170 220 165 L213 105 Z" fill="#334155"/>
+
+  <!-- Highlight on gold ring -->
+  <path d="M130 70 Q155 40 200 35" stroke="#fbbf24" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+</svg>

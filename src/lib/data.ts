@@ -31,6 +31,17 @@ import shSeBusinessesRaw from "@/data/skiphire_southeast_businesses.json";
 import shSwBusinessesRaw from "@/data/skiphire_southwest_businesses.json";
 import shWlBusinessesRaw from "@/data/skiphire_wales_businesses.json";
 
+import lsNeBusinessesRaw from "@/data/locksmith_northeast_businesses.json";
+import lsNwBusinessesRaw from "@/data/locksmith_northwest_businesses.json";
+import lsScBusinessesRaw from "@/data/locksmith_scotland_businesses.json";
+import lsMlBusinessesRaw from "@/data/locksmith_midlands_businesses.json";
+import lsYkBusinessesRaw from "@/data/locksmith_yorkshire_businesses.json";
+import lsEaBusinessesRaw from "@/data/locksmith_east_businesses.json";
+import lsLnBusinessesRaw from "@/data/locksmith_london_businesses.json";
+import lsSeBusinessesRaw from "@/data/locksmith_southeast_businesses.json";
+import lsSwBusinessesRaw from "@/data/locksmith_southwest_businesses.json";
+import lsWlBusinessesRaw from "@/data/locksmith_wales_businesses.json";
+
 import type { Business, BusinessRaw, Location } from "@/types";
 import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
@@ -83,6 +94,18 @@ function getRawBusinesses(
     if (id === "southwest") return shSwBusinessesRaw as BusinessRaw[];
     if (id === "wales") return shWlBusinessesRaw as BusinessRaw[];
     return shNeBusinessesRaw as BusinessRaw[];
+  }
+  if (productId === "locksmith") {
+    if (id === "northwest") return lsNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return lsScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return lsMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return lsYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return lsEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return lsLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return lsSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return lsSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return lsWlBusinessesRaw as BusinessRaw[];
+    return lsNeBusinessesRaw as BusinessRaw[];
   }
   if (productId === "van-hire") {
     if (id === "northwest") return vhNwBusinessesRaw as BusinessRaw[];

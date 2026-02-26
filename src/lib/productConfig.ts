@@ -1,4 +1,4 @@
-export type ProductId = "minibus-hire" | "van-hire" | "skip-hire";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith";
 
 export interface ProductConfig {
   id: ProductId;
@@ -177,6 +177,59 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Highest rated skip hire companies in the ${shortName}`,
     browseSubtitle: "Find skip hire companies near you",
     servicesSubtitle: "Whatever your waste disposal needs, we can help",
+  },
+  locksmith: {
+    id: "locksmith",
+    slug: "locksmith",
+    name: "Locksmith",
+    shortName: "Locksmith",
+    icon: "🔑",
+    image: "/images/locksmith.svg",
+    imageAlt: "Locksmith illustration",
+    heroTitle: (region) => `Find a Locksmith in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ locksmiths across ${locCount} locations. Read reviews and get in touch today.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare locksmiths in ${loc}. View ratings, reviews and contact details for trusted local locksmiths.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} is a locksmith in ${loc}. Contact details, reviews and services.`,
+    services: [
+      {
+        title: "Emergency Locksmith",
+        desc: "24/7 emergency lockout service for homes, businesses and vehicles. Fast response when you need it most.",
+      },
+      {
+        title: "Lock Repair",
+        desc: "Professional repair of damaged, stiff or faulty locks on all door types including uPVC and composite.",
+      },
+      {
+        title: "Lock Change",
+        desc: "Full lock replacement and upgrades to high-security cylinders. Ideal after moving home or losing keys.",
+      },
+      {
+        title: "uPVC & Composite Door Locks",
+        desc: "Specialist fitting and repair of multipoint locking mechanisms on uPVC and composite doors.",
+      },
+      {
+        title: "Auto Locksmith",
+        desc: "Car lockout recovery, key cutting and transponder key programming for all vehicle makes.",
+      },
+      {
+        title: "Key Cutting",
+        desc: "Precision key cutting for standard, dimple and high-security keys on site or at your door.",
+      },
+    ],
+    seoHeading: (shortName) => `Locksmiths Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you're locked out of your home, need a lock changed after moving, or want to upgrade your security, our directory connects you with trusted local locksmiths across the ${region}.`,
+      `We list over ${count} locksmiths covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can find help fast.`,
+      `Browse our directory to compare locksmiths in your area. Check ratings, read reviews and contact operators directly to get the help you need.`,
+    ],
+    ctaText: (loc) => `Need a locksmith in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated locksmiths in the ${shortName}`,
+    browseSubtitle: "Find a trusted locksmith near you",
+    servicesSubtitle: "Whatever your lock or security needs, we can help",
   },
 };
 
