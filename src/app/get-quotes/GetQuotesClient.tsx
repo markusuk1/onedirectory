@@ -13,6 +13,7 @@ const PRODUCTS: { id: ProductId; label: string; icon: string }[] = [
   { id: "minibus-hire", label: "Minibus & Coach", icon: "🚐" },
   { id: "van-hire", label: "Van Hire", icon: "🚚" },
   { id: "skip-hire", label: "Skip Hire", icon: "🗑️" },
+  { id: "locksmith", label: "Locksmith", icon: "🔑" },
 ];
 
 export default function GetQuotesClient({ defaultProductId }: GetQuotesClientProps) {
@@ -24,7 +25,7 @@ export default function GetQuotesClient({ defaultProductId }: GetQuotesClientPro
         <label className="block text-sm font-medium text-text mb-2">
           What do you need?
         </label>
-        <div className="grid grid-cols-3 gap-3">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
           {PRODUCTS.map((p) => (
             <button
               key={p.id}

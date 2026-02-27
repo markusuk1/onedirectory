@@ -52,6 +52,16 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
           collectionLocation: getValue("collectionLocation"),
         },
       };
+    } else if (productId === "locksmith") {
+      data = {
+        ...base,
+        details: {
+          serviceType: getValue("serviceType"),
+          urgency: getValue("urgency"),
+          propertyType: getValue("propertyType"),
+          location: getValue("location"),
+        },
+      };
     } else {
       data = {
         ...base,
@@ -88,7 +98,7 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
 
   if (submitted) {
     const productLabel =
-      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : "hire";
+      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : "hire";
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -182,6 +192,23 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
             </select>
           </div>
         )}
+        {productId === "locksmith" && (
+          <div>
+            <label htmlFor="serviceType" className="block text-sm font-medium text-text mb-1">
+              Service Needed *
+            </label>
+            <select id="serviceType" name="serviceType" required className={inputClass}>
+              <option value="">Select service...</option>
+              <option value="emergency-lockout">Emergency Lockout</option>
+              <option value="lock-change">Lock Change</option>
+              <option value="lock-repair">Lock Repair</option>
+              <option value="key-cutting">Key Cutting</option>
+              <option value="auto-locksmith">Auto Locksmith (Vehicle)</option>
+              <option value="security-upgrade">Security Upgrade</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        )}
         {productId === "minibus-hire" && (
           <div>
             <label htmlFor="passengers" className="block text-sm font-medium text-text mb-1">
@@ -201,6 +228,51 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
       </div>
 
       {/* Product-specific fields */}
+      {productId === "locksmith" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="urgency" className="block text-sm font-medium text-text mb-1">
+                How Urgent? *
+              </label>
+              <select id="urgency" name="urgency" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="emergency">Emergency — right now</option>
+                <option value="today">Today</option>
+                <option value="within-48h">Within 48 hours</option>
+                <option value="planned">Planned / flexible</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="propertyType" className="block text-sm font-medium text-text mb-1">
+                Property Type *
+              </label>
+              <select id="propertyType" name="propertyType" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="house">House</option>
+                <option value="flat">Flat / Apartment</option>
+                <option value="business">Business / Commercial</option>
+                <option value="vehicle">Vehicle</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+          </div>
+          <div>
+            <label htmlFor="location" className="block text-sm font-medium text-text mb-1">
+              Location / Postcode *
+            </label>
+            <input
+              type="text"
+              id="location"
+              name="location"
+              required
+              placeholder="e.g. NE1 4ST or 12 High Street, Newcastle"
+              className={inputClass}
+            />
+          </div>
+        </>
+      )}
+
       {productId === "skip-hire" && (
         <>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -370,7 +442,9 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
               ? "Any access issues, heavy items, specific requirements..."
               : productId === "van-hire"
                 ? "What you're moving, any special requirements..."
-                : "Any special requirements, luggage, accessibility needs..."
+                : productId === "locksmith"
+                  ? "Describe the issue, e.g. locked out, broken lock, key snapped..."
+                  : "Any special requirements, luggage, accessibility needs..."
           }
           className={inputClass}
         />

@@ -49,7 +49,7 @@ export async function POST(request: NextRequest) {
       const businessLine = body.businessName
         ? `<tr><td style="padding:4px 8px;font-weight:600">Business</td><td style="padding:4px 8px">${body.businessName}</td></tr>`
         : "";
-      const productLabel = body.product === "van-hire" ? "Van Hire" : body.product === "skip-hire" ? "Skip Hire" : "Minibus Hire";
+      const productLabel = body.product === "van-hire" ? "Van Hire" : body.product === "skip-hire" ? "Skip Hire" : body.product === "locksmith" ? "Locksmith" : "Minibus Hire";
 
       // Build product-specific detail rows
       let detailRows = "";
@@ -70,6 +70,14 @@ export async function POST(request: NextRequest) {
           <tr><td style="padding:4px 8px;font-weight:600">Start Date</td><td style="padding:4px 8px">${d.startDate || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">End Date</td><td style="padding:4px 8px">${d.endDate || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Collection Location</td><td style="padding:4px 8px">${d.collectionLocation || "—"}</td></tr>
+        `;
+      } else if (body.product === "locksmith" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Service</td><td style="padding:4px 8px">${d.serviceType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Urgency</td><td style="padding:4px 8px">${d.urgency || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Property Type</td><td style="padding:4px 8px">${d.propertyType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Location</td><td style="padding:4px 8px">${d.location || "—"}</td></tr>
         `;
       } else {
         detailRows = `

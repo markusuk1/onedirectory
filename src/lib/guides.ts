@@ -1,4 +1,8 @@
 import { getSiteId } from "./siteConfig";
+import type { ProductId } from "./productConfig";
+import { getVanHireGuides } from "./guides-vanhire";
+import { getSkipHireGuides } from "./guides-skiphire";
+import { getLocksmithGuides } from "./guides-locksmith";
 
 export interface Guide {
   slug: string;
@@ -11,6 +15,7 @@ export interface Guide {
   faq: { question: string; answer: string }[];
   relatedLocations: string[];
   keywords: string[];
+  product?: ProductId;
 }
 
 const NE_GUIDES: Guide[] = [
@@ -3829,7 +3834,7 @@ const WL_GUIDES: Guide[] = [
   },
 ];
 
-function getGuides(): Guide[] {
+function getMinibusGuides(): Guide[] {
   const id = getSiteId();
   if (id === "northwest") return NW_GUIDES;
   if (id === "scotland") return SC_GUIDES;
@@ -3841,6 +3846,14 @@ function getGuides(): Guide[] {
   if (id === "southwest") return SW_GUIDES;
   if (id === "wales") return WL_GUIDES;
   return NE_GUIDES;
+}
+
+function getGuides(): Guide[] {
+  const minibus = getMinibusGuides().map((g) => ({ ...g, product: "minibus-hire" as const }));
+  const van = getVanHireGuides();
+  const skip = getSkipHireGuides();
+  const locksmith = getLocksmithGuides();
+  return [...minibus, ...van, ...skip, ...locksmith];
 }
 
 export const GUIDES: Guide[] = getGuides();
