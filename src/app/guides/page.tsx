@@ -43,23 +43,34 @@ export default function GuidesPage() {
           {site.shortName}.
         </p>
 
-        <div className="space-y-10">
-          {sections.map((productId) => {
+        <div className="space-y-4">
+          {sections.map((productId, i) => {
             const config = PRODUCT_CONFIGS[productId];
             const guides = grouped[productId];
             return (
-              <section key={productId}>
-                <h2 className="text-lg md:text-xl font-bold text-text mb-4 flex items-center gap-2">
-                  <span>{config.icon}</span> {config.name} Guides
-                </h2>
-                <div className="grid gap-4">
+              <details
+                key={productId}
+                className="bg-white border border-border rounded-xl group"
+              >
+                <summary className="flex items-center justify-between cursor-pointer px-6 py-4 list-none">
+                  <h2 className="text-lg md:text-xl font-bold text-text flex items-center gap-2">
+                    <span>{config.icon}</span> {config.name} Guides
+                    <span className="text-sm font-normal text-text-light">
+                      ({guides.length})
+                    </span>
+                  </h2>
+                  <span className="text-text-light transition-transform rotate-[-90deg] group-open:rotate-0">
+                    ▼
+                  </span>
+                </summary>
+                <div className="grid gap-4 px-6 pb-6">
                   {guides.map((guide) => (
                     <Link
                       key={guide.slug}
                       href={`/guides/${guide.slug}`}
-                      className="bg-white border border-border rounded-xl p-6 hover:border-primary hover:shadow-md transition-all group"
+                      className="bg-surface border border-border rounded-xl p-6 hover:border-primary hover:shadow-md transition-all group/card"
                     >
-                      <h3 className="text-lg font-bold text-text group-hover:text-primary transition-colors mb-2">
+                      <h3 className="text-lg font-bold text-text group-hover/card:text-primary transition-colors mb-2">
                         {guide.title}
                       </h3>
                       <p className="text-text-light text-sm line-clamp-2">
@@ -71,7 +82,7 @@ export default function GuidesPage() {
                     </Link>
                   ))}
                 </div>
-              </section>
+              </details>
             );
           })}
         </div>

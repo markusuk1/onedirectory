@@ -150,6 +150,10 @@ export default async function ProductLocationPage({
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {businesses
               .sort((a, b) => {
+                if (a.isFeatured && !b.isFeatured) return -1;
+                if (!a.isFeatured && b.isFeatured) return 1;
+                if (a.isRecommended && !b.isRecommended) return -1;
+                if (!a.isRecommended && b.isRecommended) return 1;
                 const ratingDiff = (b.rating || 0) - (a.rating || 0);
                 if (ratingDiff !== 0) return ratingDiff;
                 return b.totalReviews - a.totalReviews;

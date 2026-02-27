@@ -42,6 +42,8 @@ export interface Business {
   lng: number;
   locationSlug: string;
   locationName: string;
+  isFeatured?: boolean;
+  isRecommended?: boolean;
 }
 
 export interface Location {

@@ -47,6 +47,7 @@ import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
 import { getSiteId } from "./siteConfig";
+import { getPromotion } from "./promotions";
 
 function transformBusiness(raw: BusinessRaw): Business {
   const locationSlug = getLocationFromFoundIn(raw.found_in_location);
@@ -138,7 +139,14 @@ export function getAllBusinesses(
   if (!_businessCache.has(key)) {
     _businessCache.set(
       key,
-      getRawBusinesses(productId).map(transformBusiness)
+      getRawBusinesses(productId).map(transformBusiness).map((b) => {
+        const promo = getPromotion(productId, b.slug);
+        return {
+          ...b,
+          ...(promo.featured && { isFeatured: true }),
+          ...(promo.recommended && { isRecommended: true }),
+        };
+      })
     );
   }
   return _businessCache.get(key)!;
@@ -169,14 +177,23 @@ export function getFeaturedBusinesses(
   limit = 6,
   productId: ProductId = "minibus-hire"
 ): Business[] {
-  return [...getAllBusinesses(productId)]
-    .filter((b) => b.rating && b.totalReviews > 0)
+  const all = getAllBusinesses(productId);
+  const promoted = all.filter((b) => b.isFeatured || b.isRecommended);
+  const topRated = all
+    .filter((b) => !b.isFeatured && !b.isRecommended && b.rating && b.totalReviews > 0)
     .sort((a, b) => {
       const ratingDiff = (b.rating || 0) - (a.rating || 0);
       if (ratingDiff !== 0) return ratingDiff;
       return b.totalReviews - a.totalReviews;
-    })
-    .slice(0, limit);
+    });
+
+  const sorted = [
+    ...promoted.filter((b) => b.isFeatured).sort((a, b) => (b.rating || 0) - (a.rating || 0)),
+    ...promoted.filter((b) => !b.isFeatured && b.isRecommended).sort((a, b) => (b.rating || 0) - (a.rating || 0)),
+    ...topRated,
+  ];
+
+  return sorted.slice(0, limit);
 }
 
 export function getLocations(
