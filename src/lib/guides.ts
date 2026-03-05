@@ -734,6 +734,177 @@ const NW_GUIDES: Guide[] = [
       "wedding minibus hire liverpool",
     ],
   },
+  {
+    slug: "how-to-choose-minibus-operator-north-west",
+    title: "How to Choose a Minibus Operator in the North West",
+    metaTitle:
+      "How to Choose a Minibus Operator in the North West | Practical Checklist",
+    metaDescription:
+      "Use this practical checklist to compare minibus operators in Manchester, Liverpool and across the North West before you book.",
+    h1: "How to Choose the Right Minibus Operator in the North West",
+    intro:
+      "Choosing a minibus company is not just about finding the cheapest quote. This guide gives you a clear checklist so you can compare operators properly and avoid last-minute problems on travel day.",
+    sections: [
+      {
+        heading: "Start with reliability signals",
+        content:
+          "Look at recent reviews, cancellation handling and communication quality. Operators who reply clearly about timings, pickup details and terms are usually easier to work with when plans change.",
+      },
+      {
+        heading: "Confirm exactly what is included",
+        content:
+          "Ask for a full written quote including vehicle size, luggage assumptions, waiting time policy, tolls, parking and any out-of-hours charges. This avoids 'extra fee' surprises later.",
+      },
+      {
+        heading: "Match vehicle to group and route",
+        content:
+          "Check passenger count and luggage together. A group of 16 with airport luggage may need more space than a standard 16-seat setup. For city-centre pickups, ask whether the route has access restrictions or event-day road closures.",
+      },
+    ],
+    faq: [
+      {
+        question: "Should I always choose the cheapest quote?",
+        answer:
+          "Not always. A slightly higher quote from a reliable operator with clear terms is often the safer choice for events where timing matters.",
+      },
+      {
+        question: "What should I ask before confirming?",
+        answer:
+          "Ask for final total price, cancellation policy, payment schedule, vehicle details, luggage capacity and contact details for the day of travel.",
+      },
+    ],
+    relatedLocations: ["manchester", "liverpool", "warrington", "chester"],
+    keywords: [
+      "choose minibus operator north west",
+      "minibus booking checklist manchester",
+    ],
+  },
+  {
+    slug: "minibus-pricing-north-west-explained",
+    title: "Minibus Pricing in the North West Explained",
+    metaTitle:
+      "Minibus Pricing North West | What Affects Quote Costs",
+    metaDescription:
+      "Understand what drives minibus and coach quote prices in the North West so you can compare offers fairly.",
+    h1: "Minibus Pricing in the North West: What Actually Affects Cost",
+    intro:
+      "Price differences can look random until you break down what operators are costing. This guide explains the main pricing drivers so customers can compare like-for-like.",
+    sections: [
+      {
+        heading: "Core cost factors",
+        content:
+          "Distance, route complexity, pickup window, return wait time and vehicle size are the biggest drivers. Peak demand periods and late-evening returns also push quotes higher.",
+      },
+      {
+        heading: "Why two quotes can differ a lot",
+        content:
+          "Operators may include different assumptions: direct vs multi-stop route, waiting time included or not, driver break handling, tolls and parking. Always ask for a clear line-by-line summary.",
+      },
+      {
+        heading: "How to compare quotes fairly",
+        content:
+          "Compare the same journey specification across all quotes: exact pickup/dropoff points, times, passenger and luggage counts, and cancellation terms. This is the fastest way to identify the real best value option.",
+      },
+    ],
+    faq: [
+      {
+        question: "Do weekend bookings usually cost more?",
+        answer:
+          "Yes, especially where demand is high. Event weekends and evening return windows are commonly priced at a premium.",
+      },
+      {
+        question: "Can I reduce quote cost without changing date?",
+        answer:
+          "Often yes: simplify stops, tighten pickup windows, and confirm accurate luggage count so the operator can allocate the most suitable vehicle.",
+      },
+    ],
+    relatedLocations: ["manchester", "preston", "bolton", "blackpool"],
+    keywords: ["minibus prices north west", "coach hire pricing manchester"],
+  },
+  {
+    slug: "airport-transfer-planning-manchester-liverpool",
+    title: "Airport Transfer Planning for Manchester & Liverpool",
+    metaTitle:
+      "Airport Transfer Planning | Manchester & Liverpool Group Travel Guide",
+    metaDescription:
+      "Plan group airport transport to Manchester and Liverpool airports with practical tips on timing, luggage and vehicle sizing.",
+    h1: "Airport Transfer Planning for Group Travel",
+    intro:
+      "Airport transfers are one of the most common quote types across the North West. Good planning avoids missed check-ins, overcrowded vehicles and expensive last-minute changes.",
+    sections: [
+      {
+        heading: "Work backward from flight constraints",
+        content:
+          "Set your latest acceptable terminal arrival time first, then add route and buffer allowances. Share one final pickup schedule with all passengers to avoid delay cascades.",
+      },
+      {
+        heading: "Plan luggage realistically",
+        content:
+          "Passenger count alone is not enough. Cases, cabin bags, pushchairs or sports equipment all affect vehicle suitability. Confirm luggage volume in writing when requesting quotes.",
+      },
+      {
+        heading: "Return leg planning",
+        content:
+          "For inbound flights, provide flight number and preferred contact method. Ask operators how they handle delays and where exactly the pickup point is for each terminal.",
+      },
+    ],
+    faq: [
+      {
+        question: "Should I book return transfer at the same time?",
+        answer:
+          "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns.",
+      },
+      {
+        question: "Is Manchester always cheaper than Liverpool transfers?",
+        answer:
+          "Not always. It depends on your start point, route and time window. Request both options where practical and compare on the same specification.",
+      },
+    ],
+    relatedLocations: ["manchester", "liverpool", "stockport", "warrington"],
+    keywords: ["airport transfer planning", "manchester airport minibus guide"],
+  },
+  {
+    slug: "event-transport-checklist-north-west",
+    title: "Event Transport Checklist North West",
+    metaTitle:
+      "Event Transport Checklist North West | Corporate, Sports and Group Trips",
+    metaDescription:
+      "A practical event transport checklist to help groups in the North West plan reliable minibus and coach logistics.",
+    h1: "Event Transport Checklist for the North West",
+    intro:
+      "For events, transport failures are usually planning failures. Use this checklist to keep group travel reliable for conferences, sports fixtures, weddings and social events.",
+    sections: [
+      {
+        heading: "Pre-booking checklist",
+        content:
+          "Confirm attendee numbers, pickup windows, accessibility requirements, luggage assumptions and fallback contacts. Lock these before requesting final quotes.",
+      },
+      {
+        heading: "Booking confirmation checklist",
+        content:
+          "Get written confirmation of itinerary, vehicle type, total cost, payment milestones, cancellation terms and driver contact process for the day.",
+      },
+      {
+        heading: "Day-of-travel checklist",
+        content:
+          "Share one master itinerary with attendees, designate a single trip coordinator, and keep a backup contact list. This prevents confusion when pickups run tight.",
+      },
+    ],
+    faq: [
+      {
+        question: "What causes most event transport issues?",
+        answer:
+          "Late attendee changes, unclear pickup instructions and underestimated luggage are the most common causes of avoidable disruption.",
+      },
+      {
+        question: "Should we use one large vehicle or multiple smaller ones?",
+        answer:
+          "It depends on route flexibility and risk tolerance. One vehicle is simpler, while split vehicles can reduce single-point failure risk.",
+      },
+    ],
+    relatedLocations: ["manchester", "liverpool", "preston", "chester"],
+    keywords: ["event transport checklist", "group transport north west"],
+  },
 ];
 
 const SC_GUIDES: Guide[] = [
