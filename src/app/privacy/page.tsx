@@ -64,9 +64,9 @@ export default function PrivacyPage() {
         </section>
 
         <section>
-          <h2 className="text-xl font-semibold text-text mb-2">Contact</h2>
+          <h2 className="text-xl font-semibold text-text mb-2">Data controller and contact</h2>
           <p>
-            For privacy requests, contact us via the <Link className="text-primary underline" href="/contact">Contact page</Link>.
+            Data controller: Mark McCormick. For privacy requests, contact us via the <Link className="text-primary underline" href="/contact">Contact page</Link>.
           </p>
         </section>
       </div>

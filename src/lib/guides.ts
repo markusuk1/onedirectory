@@ -863,48 +863,6 @@ const NW_GUIDES: Guide[] = [
     relatedLocations: ["manchester", "liverpool", "stockport", "warrington"],
     keywords: ["airport transfer planning", "manchester airport minibus guide"],
   },
-  {
-    slug: "event-transport-checklist-north-west",
-    title: "Event Transport Checklist North West",
-    metaTitle:
-      "Event Transport Checklist North West | Corporate, Sports and Group Trips",
-    metaDescription:
-      "A practical event transport checklist to help groups in the North West plan reliable minibus and coach logistics.",
-    h1: "Event Transport Checklist for the North West",
-    intro:
-      "For events, transport failures are usually planning failures. Use this checklist to keep group travel reliable for conferences, sports fixtures, weddings and social events.",
-    sections: [
-      {
-        heading: "Pre-booking checklist",
-        content:
-          "Confirm attendee numbers, pickup windows, accessibility requirements, luggage assumptions and fallback contacts. Lock these before requesting final quotes.",
-      },
-      {
-        heading: "Booking confirmation checklist",
-        content:
-          "Get written confirmation of itinerary, vehicle type, total cost, payment milestones, cancellation terms and driver contact process for the day.",
-      },
-      {
-        heading: "Day-of-travel checklist",
-        content:
-          "Share one master itinerary with attendees, designate a single trip coordinator, and keep a backup contact list. This prevents confusion when pickups run tight.",
-      },
-    ],
-    faq: [
-      {
-        question: "What causes most event transport issues?",
-        answer:
-          "Late attendee changes, unclear pickup instructions and underestimated luggage are the most common causes of avoidable disruption.",
-      },
-      {
-        question: "Should we use one large vehicle or multiple smaller ones?",
-        answer:
-          "It depends on route flexibility and risk tolerance. One vehicle is simpler, while split vehicles can reduce single-point failure risk.",
-      },
-    ],
-    relatedLocations: ["manchester", "liverpool", "preston", "chester"],
-    keywords: ["event transport checklist", "group transport north west"],
-  },
 ];
 
 const SC_GUIDES: Guide[] = [
@@ -4005,18 +3963,265 @@ const WL_GUIDES: Guide[] = [
   },
 ];
 
+function getRegionalDeepDiveMinibusGuides(): Guide[] {
+  const site = getSiteConfig();
+
+  const packs: Record<
+    string,
+    {
+      primaryCity: string;
+      secondaryCities: string[];
+      airports: string[];
+      railHubs: string[];
+      nightlifeAreas: string[];
+      localConstraint: string;
+    }
+  > = {
+    northeast: {
+      primaryCity: "Newcastle",
+      secondaryCities: ["Sunderland", "Durham", "Middlesbrough"],
+      airports: ["Newcastle International Airport"],
+      railHubs: ["Newcastle Central", "Sunderland", "Durham"],
+      nightlifeAreas: ["Bigg Market", "Collingwood Street", "The Quayside"],
+      localConstraint:
+        "A lot of North East journeys include A1/A19 corridors and can be affected by Tyne Tunnel / bridge traffic and matchday congestion near St James’ Park.",
+    },
+    scotland: {
+      primaryCity: "Glasgow",
+      secondaryCities: ["Edinburgh", "Aberdeen", "Dundee"],
+      airports: ["Glasgow Airport", "Edinburgh Airport"],
+      railHubs: ["Glasgow Central", "Glasgow Queen Street", "Edinburgh Waverley"],
+      nightlifeAreas: ["Merchant City", "Sauchiehall Street", "Ashton Lane"],
+      localConstraint:
+        "Longer inter-city distances and weather can affect timings, especially when routes involve the A9, Highland areas, or winter travel.",
+    },
+    midlands: {
+      primaryCity: "Birmingham",
+      secondaryCities: ["Nottingham", "Leicester", "Coventry"],
+      airports: ["Birmingham Airport", "East Midlands Airport"],
+      railHubs: ["Birmingham New Street", "Nottingham", "Leicester"],
+      nightlifeAreas: ["Broad Street", "Digbeth", "Brindleyplace"],
+      localConstraint:
+        "Be mindful of Clean Air Zone rules (especially Birmingham) and city-centre drop-off restrictions during peak times and major events.",
+    },
+    yorkshire: {
+      primaryCity: "Leeds",
+      secondaryCities: ["Sheffield", "York", "Hull"],
+      airports: ["Leeds Bradford Airport"],
+      railHubs: ["Leeds", "Sheffield", "York"],
+      nightlifeAreas: ["Call Lane", "Greek Street", "Headingley"],
+      localConstraint:
+        "Yorkshire trips often include motorway-heavy routes (M1/M62/A1(M)); matchdays and arena events can create sharp return-time bottlenecks.",
+    },
+    east: {
+      primaryCity: "Cambridge",
+      secondaryCities: ["Norwich", "Ipswich", "Peterborough"],
+      airports: ["London Stansted Airport"],
+      railHubs: ["Cambridge", "Norwich", "Peterborough"],
+      nightlifeAreas: ["Cambridge city centre", "Norwich Riverside", "Ipswich Waterfront"],
+      localConstraint:
+        "Historic centres and narrower streets can limit large vehicle access; confirm pickup points and parking early for city-centre venues.",
+    },
+    london: {
+      primaryCity: "London",
+      secondaryCities: ["Westminster", "Kensington", "Greenwich"],
+      airports: ["Heathrow", "Gatwick", "Stansted", "Luton"],
+      railHubs: ["King’s Cross", "Euston", "Paddington", "Waterloo"],
+      nightlifeAreas: ["Soho", "Shoreditch", "Clapham"],
+      localConstraint:
+        "ULEZ, congestion charging, coach access rules and limited drop-off bays make exact pickup planning more important than almost anywhere else in the UK.",
+    },
+    southeast: {
+      primaryCity: "Brighton",
+      secondaryCities: ["Southampton", "Portsmouth", "Oxford"],
+      airports: ["London Gatwick Airport"],
+      railHubs: ["Brighton", "Reading", "Southampton Central"],
+      nightlifeAreas: ["Brighton Seafront", "The Lanes", "Oxford Road"],
+      localConstraint:
+        "Coastal routes and event weekends (especially in seaside cities) can cause heavy congestion; lock pickup windows and routes early.",
+    },
+    southwest: {
+      primaryCity: "Bristol",
+      secondaryCities: ["Bath", "Exeter", "Plymouth"],
+      airports: ["Bristol Airport"],
+      railHubs: ["Bristol Temple Meads", "Exeter St David’s", "Plymouth"],
+      nightlifeAreas: ["Harbourside", "Clifton", "Park Street"],
+      localConstraint:
+        "Rural/coastal routes, seasonal traffic and limited motorway coverage in some areas mean distance isn’t the only factor—route realism matters.",
+    },
+    wales: {
+      primaryCity: "Cardiff",
+      secondaryCities: ["Swansea", "Newport", "Wrexham"],
+      airports: ["Cardiff Airport", "Bristol Airport"],
+      railHubs: ["Cardiff Central", "Swansea", "Newport"],
+      nightlifeAreas: ["Cardiff Bay", "St Mary Street", "Swansea Waterfront"],
+      localConstraint:
+        "Bridge/tunnel crossings and event traffic (especially around Cardiff on big match days) can have outsized impact on timings.",
+    },
+  };
+
+  const pack = packs[site.id];
+  if (!pack) return [];
+
+  const regionSlug = site.id;
+  const cities = [pack.primaryCity, ...pack.secondaryCities];
+
+  return [
+    {
+      slug: `how-to-choose-minibus-operator-${regionSlug}`,
+      title: `How to Choose a Minibus Operator in ${site.shortName}`,
+      metaTitle: `How to Choose a Minibus Operator in ${site.shortName}`,
+      metaDescription: `A practical guide to comparing operators, vehicles and terms in ${site.shortName} so you can book with confidence.`,
+      h1: `How to Choose a Minibus Operator in ${site.shortName}`,
+      intro:
+        `If you’re comparing quotes in ${site.region}, the best option is rarely just “the cheapest”. Use this guide to compare like-for-like and avoid the most common booking mistakes.`,
+      sections: [
+        {
+          heading: "Start with the itinerary specification",
+          content:
+            `Before you compare prices, make sure every operator is quoting on the same route and timing. Confirm pickup points, number of stops, and a realistic return window. This matters a lot around ${pack.nightlifeAreas[0]}-style night demand and event exits.`,
+        },
+        {
+          heading: "Check vehicle suitability (not just seats)",
+          content:
+            "Ask about luggage, accessibility needs, and the exact vehicle type. A 16-seater with limited luggage space can be a bad fit for airport runs even if the seat count is correct.",
+        },
+        {
+          heading: "Validate reliability signals",
+          content:
+            "Look for clear written confirmation, responsive communication, and transparent terms. Reviews help, but consistency and professionalism in quoting is often the strongest signal.",
+        },
+        {
+          heading: "Account for local constraints",
+          content: pack.localConstraint,
+        },
+      ],
+      faq: [
+        {
+          question: "Should I book the cheapest quote?",
+          answer:
+            "Only if the scope matches: route, timing, inclusions and vehicle type. The cheapest quote is often missing waiting time, extra stops, or realistic luggage assumptions.",
+        },
+        {
+          question: "What information makes quotes more accurate?",
+          answer:
+            "Exact addresses, pickup times, number of passengers, luggage volume, and whether the return time is fixed or flexible.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [
+        `how to choose minibus hire ${site.shortName.toLowerCase()}`,
+        `minibus operator checklist ${site.shortName.toLowerCase()}`,
+      ],
+    },
+    {
+      slug: `minibus-pricing-${regionSlug}-explained`,
+      title: `Minibus Pricing in ${site.shortName} Explained`,
+      metaTitle: `Minibus Pricing in ${site.shortName} Explained`,
+      metaDescription: `Understand what drives minibus and coach quote pricing in ${site.shortName} so you can compare offers fairly.`,
+      h1: `Minibus & Coach Pricing in ${site.shortName}: What Affects Cost`,
+      intro:
+        `Two quotes can differ a lot even when both are “legit”. This guide explains the key pricing drivers in ${site.region} so you can compare offers fairly and avoid hidden mismatches.`,
+      sections: [
+        {
+          heading: "Route and timing assumptions",
+          content:
+            "Distance matters, but timing windows (especially late-night returns) and number of stops often matter more. Make sure you’re comparing the same pickup/return specification.",
+        },
+        {
+          heading: "Vehicle allocation and capacity",
+          content:
+            "A larger or more premium vehicle costs more, and luggage/comfort requirements can push you into a different vehicle class. Confirm the allocated vehicle type in writing.",
+        },
+        {
+          heading: "Waiting time and event exits",
+          content:
+            `Waiting time is a common hidden factor. For venues and nightlife areas like ${pack.nightlifeAreas.slice(0, 2).join(" and ")}, pickups can be delayed—ask how operators price waiting and late returns.`,
+        },
+        {
+          heading: "Local constraints that impact cost",
+          content: pack.localConstraint,
+        },
+      ],
+      faq: [
+        {
+          question: "How can we reduce cost without changing the date?",
+          answer:
+            "Simplify the route, reduce the number of stops, tighten pickup windows, and provide accurate luggage details so the right vehicle is allocated first time.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [`minibus prices ${site.shortName.toLowerCase()}`, `coach hire cost ${site.shortName.toLowerCase()}`],
+    },
+    {
+      slug: `airport-transfer-planning-${regionSlug}`,
+      title: `Airport Transfer Planning for ${site.shortName}`,
+      metaTitle: `Airport Transfer Planning | ${site.shortName} Group Travel Guide`,
+      metaDescription: `Plan group airport transport in ${site.shortName} with practical tips on timing, luggage and pickup coordination.`,
+      h1: `Airport Transfer Planning in ${site.shortName}`,
+      intro:
+        `Airport transfers are one of the most common quote types in ${site.region}. Good planning avoids missed check-ins, overcrowded vehicles and expensive last-minute changes.`,
+      sections: [
+        {
+          heading: "Choose the right airport and rail hub",
+          content:
+            `Common airport options include ${pack.airports.join(", ")}. Major rail hubs like ${pack.railHubs.slice(0, 3).join(", ")} are useful pickup anchors when groups are travelling from multiple areas.`,
+        },
+        {
+          heading: "Work backward from flight constraints",
+          content:
+            "Set your latest acceptable terminal arrival time first, then add route and buffer allowances. Share one final pickup schedule with all passengers to avoid delay cascades.",
+        },
+        {
+          heading: "Plan luggage realistically",
+          content:
+            "Passenger count alone is not enough. Cases, cabin bags, pushchairs or sports equipment all affect vehicle suitability. Confirm luggage volume in writing when requesting quotes.",
+        },
+        {
+          heading: "Return leg planning",
+          content:
+            `Provide flight number and preferred contact method. Confirm the exact terminal pickup point and how delays are handled. If your group is splitting across ${cities.slice(0, 3).join(", ")}, agree one clear meeting point first.`,
+        },
+      ],
+      faq: [
+        {
+          question: "Should I book the return transfer at the same time?",
+          answer:
+            "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [`airport transfers ${site.shortName.toLowerCase()}`, `airport minibus ${site.shortName.toLowerCase()}`],
+    },
+  ];
+}
+
 function getMinibusGuides(): Guide[] {
   const id = getSiteId();
+
+  // North West already has a bespoke expanded guide set.
   if (id === "northwest") return NW_GUIDES;
-  if (id === "scotland") return SC_GUIDES;
-  if (id === "midlands") return ML_GUIDES;
-  if (id === "yorkshire") return YK_GUIDES;
-  if (id === "east") return EA_GUIDES;
-  if (id === "london") return LN_GUIDES;
-  if (id === "southeast") return SE_GUIDES;
-  if (id === "southwest") return SW_GUIDES;
-  if (id === "wales") return WL_GUIDES;
-  return NE_GUIDES;
+
+  const base =
+    id === "scotland"
+      ? SC_GUIDES
+      : id === "midlands"
+        ? ML_GUIDES
+        : id === "yorkshire"
+          ? YK_GUIDES
+          : id === "east"
+            ? EA_GUIDES
+            : id === "london"
+              ? LN_GUIDES
+              : id === "southeast"
+                ? SE_GUIDES
+                : id === "southwest"
+                  ? SW_GUIDES
+                  : id === "wales"
+                    ? WL_GUIDES
+                    : NE_GUIDES;
+
+  return [...base, ...getRegionalDeepDiveMinibusGuides()];
 }
 
 function getRegionalBoostGuides(): Guide[] {
@@ -4122,13 +4327,136 @@ function getRegionalBoostGuides(): Guide[] {
   ];
 }
 
+function getRegionalResourceGuide(): Guide {
+  const site = getSiteConfig();
+
+  const resourcesByRegion: Record<string, { tourism: string; nightlife: string; attractions: string; transport: string; airport: string }> = {
+    northeast: {
+      tourism: "https://www.newcastlegateshead.com/",
+      nightlife: "https://www.chroniclelive.co.uk/whats-on/",
+      attractions: "https://www.visitnorthumberland.com/",
+      transport: "https://www.nexus.org.uk/",
+      airport: "https://www.newcastleairport.com/",
+    },
+    northwest: {
+      tourism: "https://www.visitmanchester.com/",
+      nightlife: "https://www.visitliverpool.com/whats-on/nightlife/",
+      attractions: "https://www.visitlancashire.com/",
+      transport: "https://tfgm.com/",
+      airport: "https://www.manchesterairport.co.uk/",
+    },
+    scotland: {
+      tourism: "https://www.visitscotland.com/",
+      nightlife: "https://peoplemakeglasgow.com/",
+      attractions: "https://www.visitscotland.com/destinations-maps",
+      transport: "https://www.transport.gov.scot/",
+      airport: "https://www.glasgowairport.com/",
+    },
+    midlands: {
+      tourism: "https://visitbirmingham.com/",
+      nightlife: "https://visitbirmingham.com/food-and-drink/nightlife",
+      attractions: "https://visitnottinghamshire.co.uk/",
+      transport: "https://www.tfwm.org.uk/",
+      airport: "https://www.birminghamairport.co.uk/",
+    },
+    yorkshire: {
+      tourism: "https://www.welcometoyorkshire.co.uk/",
+      nightlife: "https://www.visitleeds.co.uk/",
+      attractions: "https://www.visityork.org/",
+      transport: "https://www.wymetro.com/",
+      airport: "https://www.leedsbradfordairport.co.uk/",
+    },
+    east: {
+      tourism: "https://www.visiteastofengland.com/",
+      nightlife: "https://www.visitnorwich.co.uk/",
+      attractions: "https://www.visitcambridge.org/",
+      transport: "https://www.greateranglia.co.uk/",
+      airport: "https://www.stanstedairport.com/",
+    },
+    london: {
+      tourism: "https://visitlondon.com/",
+      nightlife: "https://www.visitlondon.com/things-to-do/nightlife",
+      attractions: "https://www.visitlondon.com/things-to-do/sightseeing/london-attraction",
+      transport: "https://tfl.gov.uk/",
+      airport: "https://www.heathrow.com/",
+    },
+    southeast: {
+      tourism: "https://www.visitsoutheastengland.com/",
+      nightlife: "https://www.visitbrighton.com/food-and-drink/nightlife",
+      attractions: "https://www.visitkent.co.uk/",
+      transport: "https://www.southeasternrailway.co.uk/",
+      airport: "https://www.gatwickairport.com/",
+    },
+    southwest: {
+      tourism: "https://www.visit-exmoor.co.uk/",
+      nightlife: "https://visitbristol.co.uk/",
+      attractions: "https://www.visitcornwall.com/",
+      transport: "https://www.gwr.com/",
+      airport: "https://www.bristolairport.co.uk/",
+    },
+    wales: {
+      tourism: "https://www.visitwales.com/",
+      nightlife: "https://www.visitcardiff.com/",
+      attractions: "https://www.visitwales.com/things-do/attractions",
+      transport: "https://tfw.wales/",
+      airport: "https://www.cardiff-airport.com/",
+    },
+  };
+
+  const refs = resourcesByRegion[site.id];
+
+  return {
+    slug: `travel-resources-${site.id}`,
+    title: `Travel Resources for ${site.shortName}`,
+    metaTitle: `Travel Resources for ${site.shortName} | Tourist Boards, Attractions & Transport`,
+    metaDescription: `Useful travel planning links for ${site.shortName}: tourist boards, attractions, nightlife, day trips and transport updates.`,
+    h1: `Travel Resources for ${site.shortName}`,
+    intro: `Use these trusted links when planning group trips in ${site.region}. This includes tourism info, attractions, nightlife and transport updates.`,
+    sections: [
+      {
+        heading: "Official tourism and destination planning",
+        content: `Start with official destination information so your plan is based on current opening times, local events and visitor advice. The main regional source is ${refs.tourism} and we also recommend checking attractions and day-trip ideas from ${refs.attractions}. Use these to shortlist stops, estimate realistic travel distances and avoid building itineraries around outdated information.` ,
+      },
+      {
+        heading: "Nightlife and events",
+        content: `Night travel demand changes quickly around concerts, football fixtures, festivals and seasonal events. Check local nightlife and what's-on listings before finalising pickup windows: ${refs.nightlife}. For group bookings, event finish times and venue exit traffic can materially affect return planning and quoted waiting assumptions.` ,
+      },
+      {
+        heading: "Transport and travel disruption checks",
+        content: `Before confirming any route, run a disruption check across multiple official sources. Regional transport updates: ${refs.transport}. Airport operations and terminal notices: ${refs.airport}. National rail disruptions: https://www.nationalrail.co.uk/. Major road and motorway incidents: https://www.nationalhighways.co.uk/travel-updates/. This is especially important for early departures, evening returns and multi-stop itineraries.` ,
+      },
+      {
+        heading: "Suggested day-trip planning workflow",
+        content: "Pick the core destination first, then choose two fallback stops nearby in case weather, queues or temporary closures affect the plan. Confirm parking/access constraints for large vehicles where relevant. Build one practical route version with buffers rather than an over-packed schedule that forces late arrivals." ,
+      },
+      {
+        heading: "How to use these sources before booking",
+        content: "Use tourism and events sources to define your itinerary, then use transport and airport sources to validate timings. Submit quote requests only after this final check so operators can price a realistic route. This improves quote accuracy, reduces day-of-travel changes and gives you clearer comparisons between operators." ,
+      },
+    ],
+    faq: [
+      {
+        question: "Why include external resources on a hire comparison site?",
+        answer: "They help travellers plan complete journeys, not just transport quotes. Better planning improves pickup accuracy and reduces disruption risk.",
+      },
+      {
+        question: "Should we trust social media posts over official updates?",
+        answer: "Use official tourism, transport and airport sources as primary references. Social posts can help, but official channels should drive final decisions.",
+      },
+    ],
+    relatedLocations: [],
+    keywords: [`travel resources ${site.shortName.toLowerCase()}`, `tourist attractions ${site.shortName.toLowerCase()}`, `travel updates ${site.shortName.toLowerCase()}`],
+  };
+}
+
 function getGuides(): Guide[] {
   const minibus = getMinibusGuides().map((g) => ({ ...g, product: "minibus-hire" as const }));
   const regionalBoost = getRegionalBoostGuides().map((g) => ({ ...g, product: "minibus-hire" as const }));
+  const regionalResources = [{ ...getRegionalResourceGuide(), product: "minibus-hire" as const }];
   const van = getVanHireGuides();
   const skip = getSkipHireGuides();
   const locksmith = getLocksmithGuides();
-  return [...minibus, ...regionalBoost, ...van, ...skip, ...locksmith];
+  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith];
 }
 
 export const GUIDES: Guide[] = getGuides();

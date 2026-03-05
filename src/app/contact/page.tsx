@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getSiteConfig } from "@/lib/siteConfig";
+import FeedbackForm from "@/components/feedback/FeedbackForm";
 
 const site = getSiteConfig();
 
@@ -17,6 +18,9 @@ export default function ContactPage() {
           For customer support, quote assistance, operator updates, or business enquiries, please contact us by email.
         </p>
         <p>
+          <span className="font-semibold text-text">Owner:</span> Mark McCormick
+        </p>
+        <p>
           <span className="font-semibold text-text">Email:</span>{" "}
           <a className="text-primary underline" href="mailto:quotes@hirenortheast.co.uk">
             quotes@hirenortheast.co.uk
@@ -25,6 +29,10 @@ export default function ContactPage() {
         <p>
           We aim to respond as quickly as possible and route your request to the relevant team.
         </p>
+      </div>
+
+      <div className="mt-8">
+        <FeedbackForm />
       </div>
     </div>
   );

@@ -50,6 +50,9 @@ export default function AboutPage() {
             reviews, opening hours and location information. You can compare
             operators side by side and request free, no-obligation quotes.
           </p>
+          <p>
+            {site.genericName} is created and owned by Mark McCormick.
+          </p>
 
           <h2 className="text-xl font-bold text-text mt-8 mb-3">
             Areas We Cover

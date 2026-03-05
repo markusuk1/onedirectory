@@ -32,7 +32,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Minibus & Coach Hire",
     shortName: "Minibus Hire",
     icon: "🚐",
-    image: "/images/minibus.svg",
+    image: "/images/minibus.png",
     imageAlt: "Minibus hire illustration",
     heroTitle: (region) => `Find Minibus & Coach Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
@@ -78,7 +78,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Van Hire",
     shortName: "Van Hire",
     icon: "🚚",
-    image: "/images/van.svg",
+    image: "/images/van.png",
     imageAlt: "Van hire illustration",
     heroTitle: (region) => `Find Van Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
@@ -131,7 +131,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Skip Hire",
     shortName: "Skip Hire",
     icon: "🗑️",
-    image: "/images/skip.svg",
+    image: "/images/skip.png",
     imageAlt: "Skip hire illustration",
     heroTitle: (region) => `Find Skip Hire in ${region}`,
     heroSubtitle: (count, locCount) =>
@@ -184,7 +184,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
     name: "Locksmith",
     shortName: "Locksmith",
     icon: "🔑",
-    image: "/images/locksmith.svg",
+    image: "/images/locksmith.png",
     imageAlt: "Locksmith illustration",
     heroTitle: (region) => `Find a Locksmith in ${region}`,
     heroSubtitle: (count, locCount) =>

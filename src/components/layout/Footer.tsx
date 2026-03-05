@@ -123,6 +123,9 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} {site.genericName}. All rights
             reserved.
           </p>
+          <p className="text-slate-500 text-sm mt-1">
+            Created and owned by Mark McCormick.
+          </p>
         </div>
       </div>
     </footer>

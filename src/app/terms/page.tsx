@@ -51,6 +51,13 @@ export default function TermsPage() {
         </section>
 
         <section>
+          <h2 className="text-xl font-semibold text-text mb-2">Site owner</h2>
+          <p>
+            This website is created and owned by Mark McCormick.
+          </p>
+        </section>
+
+        <section>
           <h2 className="text-xl font-semibold text-text mb-2">Changes to terms</h2>
           <p>
             We may update these terms from time to time. Continued use of the site indicates acceptance of the

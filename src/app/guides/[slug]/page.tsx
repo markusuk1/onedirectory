@@ -7,6 +7,21 @@ import { getSiteConfig } from "@/lib/siteConfig";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
+function linkifyText(text: string) {
+  const urlRegex = /(https?:\/\/[^\s|]+)/g;
+  const parts = text.split(urlRegex);
+  return parts.map((part, idx) => {
+    if (/^https?:\/\//.test(part)) {
+      return (
+        <a key={`u-${idx}`} href={part} target="_blank" rel="noopener noreferrer" className="text-primary underline">
+          {part}
+        </a>
+      );
+    }
+    return <span key={`t-${idx}`}>{part}</span>;
+  });
+}
+
 export async function generateStaticParams() {
   return getAllGuideSlugs().map((slug) => ({ slug }));
 }
@@ -98,7 +113,7 @@ export default async function GuidePage({
                 {section.heading}
               </h2>
               <p className="text-text-light leading-relaxed">
-                {section.content}
+                {linkifyText(section.content)}
               </p>
             </section>
           ))}
