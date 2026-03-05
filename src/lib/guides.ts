@@ -1,4 +1,4 @@
-import { getSiteId } from "./siteConfig";
+import { getSiteId, getSiteConfig } from "./siteConfig";
 import type { ProductId } from "./productConfig";
 import { getVanHireGuides } from "./guides-vanhire";
 import { getSkipHireGuides } from "./guides-skiphire";
@@ -4019,12 +4019,116 @@ function getMinibusGuides(): Guide[] {
   return NE_GUIDES;
 }
 
+function getRegionalBoostGuides(): Guide[] {
+  const site = getSiteConfig();
+  const regionSlug = site.id;
+
+  return [
+    {
+      slug: `operator-checklist-${regionSlug}`,
+      title: `Operator Checklist for ${site.shortName}`,
+      metaTitle: `How to Compare Minibus Operators in ${site.shortName}`,
+      metaDescription: `A practical checklist to compare quotes, vehicles and terms before booking in ${site.shortName}.`,
+      h1: `How to Compare Minibus Operators in ${site.shortName}`,
+      intro:
+        `Use this guide to compare operators in ${site.region} with a like-for-like checklist before you commit to a booking.`,
+      sections: [
+        {
+          heading: "Check quote scope first",
+          content:
+            "Confirm what is included: route details, waiting time, tolls/parking, luggage assumptions and any out-of-hours charges.",
+        },
+        {
+          heading: "Check vehicle fit",
+          content:
+            "Passenger count and luggage volume should be confirmed in writing so the allocated vehicle is suitable on the day.",
+        },
+        {
+          heading: "Check risk terms",
+          content:
+            "Read payment and cancellation terms carefully and keep one written itinerary shared with all attendees.",
+        },
+      ],
+      faq: [
+        {
+          question: "Should I pick the lowest quote automatically?",
+          answer:
+            "Not always. The best value is usually the quote with clear inclusions, realistic capacity and reliable communication.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [`compare minibus operators ${site.shortName.toLowerCase()}`],
+    },
+    {
+      slug: `pricing-explained-${regionSlug}`,
+      title: `Pricing Explained for ${site.shortName}`,
+      metaTitle: `Minibus Pricing Explained in ${site.shortName}`,
+      metaDescription: `Understand what drives quote pricing in ${site.shortName} so you can compare offers fairly.`,
+      h1: `Minibus Pricing in ${site.shortName}: What Affects Cost`,
+      intro:
+        `Quote differences are usually caused by route assumptions, timing windows and vehicle allocation. This guide breaks it down clearly for ${site.region}.`,
+      sections: [
+        {
+          heading: "Main cost drivers",
+          content:
+            "Distance, pickup timing, return waiting, vehicle size and demand periods are the biggest pricing factors.",
+        },
+        {
+          heading: "Hidden mismatch issues",
+          content:
+            "Two quotes may look different because one includes extras (parking, waiting, late-return handling) while another excludes them.",
+        },
+      ],
+      faq: [
+        {
+          question: "Can we reduce cost without changing date?",
+          answer:
+            "Often yes: simplify stops, tighten pickup windows and share accurate luggage details.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [`minibus prices ${site.shortName.toLowerCase()}`],
+    },
+    {
+      slug: `event-transport-checklist-${regionSlug}`,
+      title: `Event Transport Checklist for ${site.shortName}`,
+      metaTitle: `Event Transport Checklist | ${site.shortName}`,
+      metaDescription: `A practical event transport checklist for reliable group travel planning in ${site.shortName}.`,
+      h1: `Event Transport Checklist for ${site.shortName}`,
+      intro:
+        `For events in ${site.region}, transport failures are usually planning failures. Use this checklist to keep group travel reliable.`,
+      sections: [
+        {
+          heading: "Before requesting quotes",
+          content:
+            "Lock attendee count, pickup windows, accessibility needs and luggage assumptions first.",
+        },
+        {
+          heading: "Before travel day",
+          content:
+            "Confirm one master itinerary, emergency contacts and exact pickup points for all attendees.",
+        },
+      ],
+      faq: [
+        {
+          question: "What causes most event transport issues?",
+          answer:
+            "Late attendee changes, unclear pickup instructions and underestimated luggage are the most common avoidable issues.",
+        },
+      ],
+      relatedLocations: [],
+      keywords: [`event transport checklist ${site.shortName.toLowerCase()}`],
+    },
+  ];
+}
+
 function getGuides(): Guide[] {
   const minibus = getMinibusGuides().map((g) => ({ ...g, product: "minibus-hire" as const }));
+  const regionalBoost = getRegionalBoostGuides().map((g) => ({ ...g, product: "minibus-hire" as const }));
   const van = getVanHireGuides();
   const skip = getSkipHireGuides();
   const locksmith = getLocksmithGuides();
-  return [...minibus, ...van, ...skip, ...locksmith];
+  return [...minibus, ...regionalBoost, ...van, ...skip, ...locksmith];
 }
 
 export const GUIDES: Guide[] = getGuides();
