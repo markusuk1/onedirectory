@@ -58,6 +58,30 @@ export default function Footer() {
                   About Us
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/contact"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Contact
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacy"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/terms"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Terms of Use
+                </Link>
+              </li>
             </ul>
           </div>
 
