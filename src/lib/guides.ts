@@ -59,6 +59,11 @@ const NE_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Newcastle, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -80,6 +85,11 @@ const NE_GUIDES: Guide[] = [
         question: "Are party buses available in other North East cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Sunderland, Durham, Middlesbrough, Gateshead, Darlington and other North East locations. Many Newcastle-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -131,6 +141,11 @@ const NE_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route. However, driven hire means everyone in the group can relax and enjoy themselves, the driver knows the local roads, and there is no need to worry about parking a large vehicle. For nights out and events involving alcohol, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -153,6 +168,11 @@ const NE_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in the North East?",
         answer:
           "Self-drive minibus operators are based across the North East including Newcastle, Sunderland, Durham, Middlesbrough, Darlington, Hartlepool and Gateshead. Some offer delivery and collection of the vehicle to your address.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
       },
     ],
     relatedLocations: [
@@ -200,6 +220,11 @@ const NE_GUIDES: Guide[] = [
         content:
           "When booking a 16-seater minibus, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time or tolls. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features. Professional operators will have full PSV licensing, comprehensive insurance, and DBS-checked drivers.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -221,6 +246,21 @@ const NE_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
+      },
+      {
+        question: "What is the cancellation policy for 16-seater hire?",
+        answer:
+          "Cancellation policies vary between operators. Most require a deposit of 20-50% at booking, with the balance due closer to the travel date. Free cancellation is often available up to 14-28 days before travel, with partial refunds for shorter notice. Some operators offer flexible booking options for a small premium. Always read the cancellation terms before confirming your booking and keep a copy of the agreement.",
       },
     ],
     relatedLocations: [
@@ -268,6 +308,11 @@ const NE_GUIDES: Guide[] = [
         content:
           "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -290,6 +335,16 @@ const NE_GUIDES: Guide[] = [
         question: "Is there space for all our luggage?",
         answer:
           "Standard minibuses can carry luggage for all passengers. If you have oversized items (golf clubs, ski equipment, pushchairs), let the operator know when booking so they can allocate the right vehicle.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -342,6 +397,11 @@ const NE_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the North East typically costs £300-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£350. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £150-£300 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -364,6 +424,16 @@ const NE_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -418,6 +488,11 @@ const NW_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Manchester, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -439,6 +514,11 @@ const NW_GUIDES: Guide[] = [
         question: "Are party buses available in other North West cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Liverpool, Bolton, Warrington, Blackpool, Preston and other North West locations. Many Manchester-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -490,6 +570,11 @@ const NW_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route. However, driven hire means everyone in the group can relax and enjoy themselves, the driver knows the local roads, and there is no need to worry about parking a large vehicle. For nights out and events involving alcohol, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -512,6 +597,16 @@ const NW_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in the North West?",
         answer:
           "Self-drive minibus operators are based across the North West including Manchester, Liverpool, Bolton, Preston, Warrington, Blackburn and Stockport. Some offer delivery and collection of the vehicle to your address.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -558,6 +653,11 @@ const NW_GUIDES: Guide[] = [
         content:
           "When booking a 16-seater minibus, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time or tolls. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features. Professional operators will have full PSV licensing, comprehensive insurance, and DBS-checked drivers.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -579,6 +679,21 @@ const NW_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
+      },
+      {
+        question: "What is the cancellation policy for 16-seater hire?",
+        answer:
+          "Cancellation policies vary between operators in the North West. Most require a deposit of 20-50% at booking, with the balance due closer to the travel date. Free cancellation is often available up to 14-28 days before travel, with partial refunds for shorter notice. Some operators offer flexible booking options for a small premium. Always read the cancellation terms before confirming your booking and keep a copy of the agreement.",
       },
     ],
     relatedLocations: [
@@ -626,6 +741,11 @@ const NW_GUIDES: Guide[] = [
         content:
           "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -647,6 +767,16 @@ const NW_GUIDES: Guide[] = [
         question: "Do you cover Liverpool John Lennon Airport too?",
         answer:
           "Yes. Many of our listed operators cover both Manchester Airport and Liverpool John Lennon Airport. Prices for Liverpool Airport transfers may differ. Contact operators directly for quotes.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -700,6 +830,11 @@ const NW_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the North West typically costs £300-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£350. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £150-£300 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -721,6 +856,11 @@ const NW_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -773,6 +913,16 @@ const NW_GUIDES: Guide[] = [
         heading: "Payment and cancellation terms",
         content:
           "Read the full payment and cancellation terms before confirming any booking. Most operators require a deposit of 20-50% at booking, with the balance due before travel. Cancellation policies vary widely across the North West: some offer full refunds for cancellations made 14+ days in advance, while others are non-refundable. Ask what happens if the operator needs to cancel or substitute a vehicle, and whether they have a backup arrangement. Keep all written confirmations and payment receipts.",
+      },
+      {
+        heading: "On the Day: What to Expect",
+        content:
+          "On travel day, your driver should arrive 10-15 minutes before the agreed pickup time. They should contact the group organiser to confirm arrival. Check the vehicle matches what you booked in terms of size and type. A professional driver will introduce themselves, confirm the route and expected journey time, and point out safety features like emergency exits and seatbelt locations. If anything is not as expected, contact the operator immediately rather than accepting a substitute without agreement. Keep the operator phone number handy throughout the day. For return journeys, agree a clear pickup time and location with the driver and make sure all passengers know the plan.",
+      },
+      {
+        heading: "After Your Trip",
+        content:
+          "After your trip, leave a Google review for the operator. Honest reviews help other customers make informed choices and reward good operators. If anything went wrong, contact the operator directly first to give them a chance to resolve it. If you were overcharged or the service was significantly below what was promised, you may have grounds for a partial refund. Keep all booking confirmations and receipts in case you need to dispute a charge. For regular group travel needs such as sports teams or corporate events, ask operators about ongoing account arrangements with preferential rates.",
       },
     ],
     faq: [
@@ -834,6 +984,16 @@ const NW_GUIDES: Guide[] = [
         content:
           "If your dates are flexible, midweek travel is typically 20-30% cheaper than Friday or Saturday evenings. Reducing the number of pickup stops shortens the journey time and lowers the price. Providing accurate luggage details ensures the right-sized vehicle is allocated, avoiding overspend on a larger vehicle you don't need. Booking well in advance gives you access to more operators and better availability. For regular bookings, ask operators about account rates or loyalty discounts.",
       },
+      {
+        heading: "Seasonal pricing patterns",
+        content:
+          "Minibus hire prices in the North West follow predictable seasonal patterns. Summer months (June-August) and the December Christmas party season are the busiest and most expensive periods. School holiday weeks also see increased demand, particularly half-terms in February, May and October. January and early February are typically the quietest months and offer the best rates. If your travel dates are flexible, shifting by even one week can make a significant difference. For example, hiring a party bus on a Thursday evening in November can be 40-50% cheaper than a Saturday evening in December for the same vehicle.",
+      },
+      {
+        heading: "Getting the best value",
+        content:
+          "Beyond choosing off-peak dates, there are several ways to get better value from your minibus booking. Consolidating pickup points into fewer stops reduces journey time and cost. Providing an accurate headcount and luggage inventory avoids paying for a vehicle that is too large. Booking well in advance (4-6 weeks for standard bookings, 2-3 months for peak dates) gives you access to more operators and better rates. For return journeys, agreeing a realistic but firm pickup time avoids extended waiting charges. If you use minibuses regularly, ask operators about account rates or block-booking discounts.",
+      },
     ],
     faq: [
       {
@@ -850,6 +1010,11 @@ const NW_GUIDES: Guide[] = [
         question: "Are there hidden charges I should watch for?",
         answer:
           "Common extras that may not be in the headline price include waiting time, parking, tolls, out-of-hours surcharges and cleaning fees. Always ask for an all-inclusive quote with a written breakdown.",
+      },
+      {
+        question: "Should I tip the minibus driver?",
+        answer:
+          "Tipping is not expected but is appreciated for good service. A tip of five to ten pounds per passenger is generous for a long journey or late-night return. For shorter trips, rounding up the fare or a flat tip of ten to twenty pounds for the driver is a nice gesture. If the driver has been particularly helpful with luggage, wheelchair assistance or navigating a complex route, a tip is a good way to show appreciation.",
       },
     ],
     relatedLocations: ["manchester", "preston", "bolton", "blackpool"],
@@ -890,6 +1055,16 @@ const NW_GUIDES: Guide[] = [
         heading: "Costs and how to save",
         content:
           "Airport transfer prices in the North West depend on the distance, vehicle size and time of day. A 16-seater minibus transfer to Manchester Airport from central Manchester costs around £80-£150. From Liverpool or further afield, expect £150-£300. Early morning departures before 6am may carry a £20-£50 surcharge. Booking outbound and return together typically saves 10-15%. Request quotes from multiple operators through our directory to find the best rate for your specific route and schedule.",
+      },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
+      {
+        heading: "Return transfers and late flights",
+        content:
+          "For return airport transfers, book your pickup to arrive at the terminal 15-20 minutes after your scheduled landing time to allow for taxiing, baggage claim and walking to the meeting point. If your flight is long-haul, allow 30-45 minutes as immigration queues can be significant at Manchester Terminal 2. Give the operator your flight number so they can monitor arrivals and adjust if your flight is early or delayed. Most operators include reasonable waiting time (30-60 minutes) in their return transfer price, but check this when booking. For late-night arrivals after 11pm, confirm that the operator covers this time and ask about any out-of-hours surcharges.",
       },
     ],
     faq: [
@@ -950,6 +1125,11 @@ const SC_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Glasgow, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -971,6 +1151,11 @@ const SC_GUIDES: Guide[] = [
         question: "Are party buses available in other Scottish cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Edinburgh, Aberdeen, Dundee, Stirling, Paisley and other Scottish locations. Many Glasgow-based operators will pick up from across the Central Belt and beyond.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -1023,6 +1208,11 @@ const SC_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is ideal for touring Scotland at your own pace. However, driven hire means everyone in the group can relax and enjoy the scenery on routes like the A82 through Glencoe or the NC500, the driver knows the local roads including tricky Highland passes, and there is no need to worry about parking a large vehicle in busy city centres like Edinburgh or Glasgow. For nights out and events involving alcohol, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -1045,6 +1235,16 @@ const SC_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in Scotland?",
         answer:
           "Self-drive minibus operators are based across Scotland including Glasgow, Edinburgh, Aberdeen, Dundee, Inverness, Stirling, Perth and Falkirk. Some offer delivery and collection of the vehicle to your address or to airports including Glasgow and Edinburgh Airport.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -1094,6 +1294,11 @@ const SC_GUIDES: Guide[] = [
         content:
           "When booking a 16-seater minibus in Scotland, look for operators with strong Google reviews and a track record of reliability. Check that the price includes everything with no hidden fees for waiting time, tolls such as the Forth Road Bridge area, or parking charges. Confirm the vehicle type and age, as newer minibuses offer better comfort and safety features for Scottish weather conditions. Professional operators will have full PSV licensing, comprehensive insurance, and PVG-checked drivers (Scotland's equivalent of DBS checks).",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -1115,6 +1320,16 @@ const SC_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -1164,6 +1379,11 @@ const SC_GUIDES: Guide[] = [
         content:
           "Scotland is served by several airports. Glasgow Airport is located in Paisley, around 8 miles west of Glasgow city centre. Edinburgh Airport is situated near Ingliston, about 8 miles west of Edinburgh city centre, and is Scotland's busiest airport. Aberdeen Airport serves the north-east of Scotland. Inverness Airport serves the Highlands and is growing in popularity for tourists. Operators listed in our directory cover transfers to all of these airports from locations across Scotland.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -1185,6 +1405,16 @@ const SC_GUIDES: Guide[] = [
         question: "Do you cover all Scottish airports?",
         answer:
           "Yes. Operators in our directory cover Glasgow Airport, Edinburgh Airport, Aberdeen Airport and Inverness Airport. Some also cover smaller airports such as Dundee and Prestwick. Contact operators directly for quotes to any Scottish airport.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -1241,6 +1471,11 @@ const SC_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in Scotland typically costs £350-£650 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £220-£380. Evening return services cost from £170-£350 depending on distance and the number of drop-off points. Longer transfers to Highland venues will be at the higher end of these ranges. Many operators offer wedding packages that include ribbons, bows and clan tartan touches on the vehicle at no extra charge.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -1263,6 +1498,11 @@ const SC_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest city such as Glasgow, Edinburgh or Perth. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -1321,6 +1561,11 @@ const ML_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Birmingham, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. Birmingham has a competitive party bus market so it pays to get multiple quotes. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -1342,6 +1587,11 @@ const ML_GUIDES: Guide[] = [
         question: "Are party buses available in other Midlands cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Wolverhampton, Coventry, Nottingham, Leicester, Derby, Solihull, Walsall and other Midlands locations. Many Birmingham-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -1395,6 +1645,11 @@ const ML_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage in the Midlands where you might want to explore the Peak District, Warwickshire villages or Shropshire countryside at your own pace. However, driven hire means everyone in the group can relax and enjoy themselves, the driver knows the local roads, and there is no need to worry about parking a large vehicle in busy city centres like Birmingham or Nottingham. For nights out and events involving alcohol, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -1417,6 +1672,16 @@ const ML_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in the Midlands?",
         answer:
           "Self-drive minibus operators are based across the Midlands including Birmingham, Nottingham, Leicester, Coventry, Derby, Wolverhampton, Stoke-on-Trent and Northampton. Some offer delivery and collection of the vehicle to your address for an additional fee.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -1471,6 +1736,11 @@ const ML_GUIDES: Guide[] = [
         content:
           "Our listed operators cover the entire Midlands region. In the West Midlands, you will find operators based in Birmingham, Wolverhampton, Coventry, Walsall, Dudley, Solihull and Stoke-on-Trent. In the East Midlands, operators are based in Nottingham, Leicester, Derby, Northampton, Lincoln, Chesterfield and Mansfield. The Midlands' central position and motorway connections via the M6, M1, M42, M5, M69 and A38 mean operators can easily reach any part of the region and beyond.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -1492,6 +1762,16 @@ const ML_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -1542,6 +1822,11 @@ const ML_GUIDES: Guide[] = [
         content:
           "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -1563,6 +1848,16 @@ const ML_GUIDES: Guide[] = [
         question: "Which airport should I use in the Midlands?",
         answer:
           "Birmingham Airport is the larger of the two with more international routes and is best for groups based in the West Midlands, Warwickshire, Worcestershire and Shropshire. East Midlands Airport serves Nottingham, Derby, Leicester and the surrounding areas and has a strong selection of European and charter flights.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -1619,6 +1914,11 @@ const ML_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the Midlands typically costs £325-£650 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £225-£375. Evening return services cost from £175-£325 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -1640,6 +1940,11 @@ const ML_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city such as Birmingham, Coventry, Nottingham or Leicester. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -1699,6 +2004,11 @@ const YK_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Leeds, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -1720,6 +2030,11 @@ const YK_GUIDES: Guide[] = [
         question: "Are party buses available in other Yorkshire cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Sheffield, York, Hull, Bradford, Huddersfield, Wakefield, Harrogate and other Yorkshire locations. Many Leeds-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -1773,6 +2088,11 @@ const YK_GUIDES: Guide[] = [
         content:
           "Self-drive minibuses in Yorkshire are commonly hired for family days out to the Yorkshire Dales, Peak District or coast, group trips to York or Whitby, sports team transport, wedding guest transfers, festival and event transport, airport runs to Leeds Bradford Airport or Manchester Airport, and weekend getaways. The flexibility of driving yourself means you can plan your own itinerary and make stops wherever you like.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -1794,6 +2114,16 @@ const YK_GUIDES: Guide[] = [
         question: "Can I take a self-drive minibus outside Yorkshire?",
         answer:
           "Yes, most operators allow travel anywhere within the UK. However, taking the vehicle abroad typically requires special permission and additional insurance. Always check with the operator before booking if you plan to travel outside Yorkshire.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -1849,6 +2179,11 @@ const YK_GUIDES: Guide[] = [
         content:
           "We recommend booking your airport transfer minibus at least one week in advance, and earlier during peak holiday periods. When booking, provide your flight details so the operator can monitor arrivals, confirm the number of passengers and how much luggage you have, agree a meeting point (most operators will meet you in arrivals or at a designated pick-up point), and confirm whether the quoted price includes waiting time in case of flight delays.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -1870,6 +2205,16 @@ const YK_GUIDES: Guide[] = [
         question: "Is it cheaper than a taxi to the airport?",
         answer:
           "For groups of 4 or more, a minibus transfer is almost always cheaper per person than individual taxis. For example, a minibus from Leeds to Manchester Airport split between 8 passengers can work out at £15-£25 per person.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -1920,6 +2265,11 @@ const YK_GUIDES: Guide[] = [
         content:
           "16-seater minibus operators can be found across Yorkshire, with the largest concentration in Leeds, Sheffield, Bradford, York and Hull. Many operators are happy to travel to any pick-up point in the region, so even if you are based in a smaller town such as Skipton, Whitby, Harrogate or Scarborough, you should have no trouble finding an operator willing to cover your area.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -1941,6 +2291,16 @@ const YK_GUIDES: Guide[] = [
         question: "Are 16-seater minibuses wheelchair accessible?",
         answer:
           "Some operators offer wheelchair-accessible 16-seater minibuses with ramp or lift access. If you need an accessible vehicle, mention this when requesting quotes so the operator can confirm availability.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -1995,6 +2355,11 @@ const YK_GUIDES: Guide[] = [
         content:
           "Wedding coaches and minibuses in Yorkshire get booked up quickly, especially during peak wedding season (May to September). We recommend booking your wedding transport 6-12 months in advance to secure your preferred vehicle and date. Get at least three quotes, confirm all details in writing, and check the cancellation policy carefully. A good operator will visit your venues in advance to plan the best routes and drop-off points.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -2016,6 +2381,11 @@ const YK_GUIDES: Guide[] = [
         question: "Do you offer vintage wedding buses?",
         answer:
           "Some operators in our Yorkshire directory offer vintage or heritage buses for weddings, which are popular for photos and add a unique touch to your day. These tend to book up very quickly so enquire early.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -2073,6 +2443,11 @@ const EA_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Norwich, check that the operator holds a valid PSV licence and that vehicles are regularly inspected. Read customer reviews, ask about the on-board facilities (sound system, lighting, seating layout), and confirm what is included in the price. Some operators include a driver and fuel in the quote while others may add extras. Always book well in advance for weekend dates and the festive season.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -2089,6 +2464,11 @@ const EA_GUIDES: Guide[] = [
         question: "How far in advance should I book a party bus?",
         answer:
           "For popular dates (Friday and Saturday nights, bank holidays, December), book at least 4-6 weeks in advance. For peak season like the Christmas party period, 2-3 months ahead is recommended. Midweek bookings can sometimes be arranged with shorter notice.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -2143,6 +2523,11 @@ const EA_GUIDES: Guide[] = [
         content:
           "Before booking a self-drive minibus, confirm the vehicle size suits your group (allow for luggage space), check the insurance cover provided and whether you need additional cover, understand the fuel policy (full-to-full is standard), ask about breakdown cover, and inspect the vehicle for existing damage before driving away. Most operators in the East of England will walk you through the vehicle and provide a damage report to sign.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -2159,6 +2544,16 @@ const EA_GUIDES: Guide[] = [
         question: "What happens if I break down?",
         answer:
           "Reputable self-drive hire companies include breakdown cover with the hire. If you break down, call the operator's 24-hour helpline. They will arrange recovery or a replacement vehicle. Always carry the operator's contact details with you.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -2214,6 +2609,11 @@ const EA_GUIDES: Guide[] = [
         content:
           "Minibus airport transfer prices in the East of England depend on distance, group size and time of travel. As a guide, a 9-seater from Cambridge to Stansted costs around £60-£90, while Norwich to Stansted in a 16-seater costs £180-£260. Luton transfers are generally cheaper given its central location within the region. Early morning and late night transfers may attract a small surcharge. Always get a fixed quote before booking to avoid surprises.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -2230,6 +2630,16 @@ const EA_GUIDES: Guide[] = [
         question: "Is there space for luggage?",
         answer:
           "Yes, minibuses have dedicated luggage space. A standard 16-seater can usually accommodate 16 suitcases plus hand luggage. If your group has oversized items such as golf bags or ski equipment, mention this when booking so the operator can ensure the right vehicle is allocated.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -2287,6 +2697,16 @@ const EA_GUIDES: Guide[] = [
         content:
           "Book as early as possible for weekend dates and summer months. Get quotes from at least three operators and check what is included. Confirm pick-up times, drop-off locations and any waiting time charges. Ask whether the driver will stay with the vehicle or go away and return. For day-long hire, check if driver rest breaks are factored in. Finally, always confirm the operator has the correct licences and insurance.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -2303,6 +2723,16 @@ const EA_GUIDES: Guide[] = [
         question: "Can I hire a 16-seater for multiple days?",
         answer:
           "Yes, multi-day hire is available from most operators. You will usually get a discounted daily rate for bookings of 2 or more days. The driver may stay locally or return each day depending on the arrangement. Discuss your itinerary with the operator to get the best rate.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -2359,6 +2789,11 @@ const EA_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the East of England typically costs £300-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£350. Evening return services cost from £150-£300 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Evening Return Services",
+        content:
+          "One of the most appreciated elements of wedding transport is the evening return service. After a long day of celebrations, guests need a reliable way to get back to their hotels or homes. A coach departing at a set time, typically between 11pm and midnight, ensures everyone leaves safely without the need for expensive late-night taxis. For East of England weddings in rural areas, where taxi availability is limited, an evening return coach can be essential. Agree the departure time with your venue and make sure the DJ or band announces it at least twice during the evening. The driver can usually accommodate 2-3 drop-off points on the return route, keeping journey time reasonable for everyone.",
+      },
     ],
     faq: [
       {
@@ -2380,6 +2815,11 @@ const EA_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city such as Norwich, Cambridge, Ipswich or Colchester. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -2444,6 +2884,11 @@ const LN_GUIDES: Guide[] = [
         content:
           "London has specific regulations around party buses and large vehicles in the city centre. The Ultra Low Emission Zone (ULEZ) covers all of Greater London and vehicles must meet emission standards or pay a daily charge. The Congestion Charge applies in central London on weekdays. Reputable operators factor these costs into their quotes. Some boroughs also have restrictions on late-night noise, so your operator should be familiar with local rules to ensure a smooth experience.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -2470,6 +2915,11 @@ const LN_GUIDES: Guide[] = [
         question: "Are party buses affected by the Congestion Charge?",
         answer:
           "Yes, party buses entering the Congestion Charge zone in central London are subject to the charge on weekdays. Most reputable operators include this cost in their quote, but it is worth confirming when you book. The ULEZ charge may also apply if the vehicle does not meet emission standards.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -2533,6 +2983,11 @@ const LN_GUIDES: Guide[] = [
         content:
           "Before booking a self-drive minibus in London, confirm the vehicle size suits your group and allow for luggage space. Check the insurance cover provided and whether you need additional cover. Understand the fuel policy (full-to-full is standard), ask about breakdown cover, and inspect the vehicle for existing damage before driving away. Check whether ULEZ and Congestion Charge costs are included or your responsibility. Most London operators will walk you through the vehicle and provide a damage report to sign.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -2554,6 +3009,16 @@ const LN_GUIDES: Guide[] = [
         question: "What happens if I break down?",
         answer:
           "Reputable self-drive hire companies include breakdown cover with the hire. If you break down, call the operator's 24-hour helpline. They will arrange recovery or a replacement vehicle. Always carry the operator's contact details with you.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -2617,6 +3082,11 @@ const LN_GUIDES: Guide[] = [
         content:
           "Minibus airport transfer prices in London depend on distance, group size, time of travel and the specific airport. As a guide, a 9-seater from central London to Heathrow costs around £80-£120, a 16-seater from central London to Gatwick costs £150-£250, and Stansted or Luton transfers in a 16-seater cost £180-£300. London City Airport transfers are typically the cheapest given its proximity. Early morning and late night transfers may attract a surcharge of 10-20 percent. Always get a fixed quote before booking to avoid surprises.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -2643,6 +3113,16 @@ const LN_GUIDES: Guide[] = [
         question: "Are airport parking charges included in the transfer price?",
         answer:
           "Drop-off transfers do not usually involve parking charges as the driver drops you at the terminal. For collection transfers, drivers may need to wait in a short-stay car park briefly. Most operators factor this into their quote, but confirm when booking. Some airports charge for vehicles waiting in pick-up zones.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -2702,6 +3182,11 @@ const LN_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in London typically costs £400-£800 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £250-£450. Evening return services cost from £200-£400 depending on distance and the number of drop-off points. Vintage Routemaster buses are a popular London option and typically cost £500-£900 for a half-day. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -2723,6 +3208,16 @@ const LN_GUIDES: Guide[] = [
         question: "Can we make multiple hotel pickup stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-4 hotel drop-offs in central London areas such as Westminster, Kensington, Bloomsbury or the South Bank. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -2803,6 +3298,16 @@ const LN_GUIDES: Guide[] = [
         answer:
           "A 16-seater minibus can access most of central London without issues. Some streets, car parks and residential areas have height or width restrictions that prevent larger coaches but a 16-seater will usually fit. Your driver should be familiar with London's road network and any restrictions on your route.",
       },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "What is the cancellation policy for 16-seater hire in London?",
+        answer:
+          "Cancellation policies vary between London operators. Most require a deposit of 20-50% at booking, with the balance due closer to the travel date. Free cancellation is often available up to 14-28 days before travel, with partial refunds for shorter notice. London operators tend to have stricter policies for peak dates such as summer weekends and the Christmas party season. Always read the cancellation terms before confirming.",
+      },
     ],
     relatedLocations: [
       "central-london",
@@ -2864,6 +3369,16 @@ const LN_GUIDES: Guide[] = [
         heading: "Choosing a Corporate Transport Provider",
         content:
           "When selecting a corporate minibus hire company in London, look for operators with experience in business transport. Key factors include their fleet condition and age (modern, well-maintained vehicles reflect well on your company), driver standards and presentation, reliability track record, ability to handle last-minute changes, insurance levels suitable for corporate clients, and account management capabilities. Ask for references from other corporate clients and check their reviews on Google and Trustpilot.",
+      },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
       },
     ],
     faq: [
@@ -2947,6 +3462,11 @@ const SE_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Brighton, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -2968,6 +3488,11 @@ const SE_GUIDES: Guide[] = [
         question: "Are party buses available in other South East cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Southampton, Portsmouth, Maidstone, Oxford and other South East locations. Many Brighton-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -3019,6 +3544,11 @@ const SE_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across the South East where you might want to explore the South Downs, the Kent coast or the New Forest at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy towns like Brighton or Oxford. For nights out, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -3041,6 +3571,16 @@ const SE_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in the South East?",
         answer:
           "Self-drive minibus operators are based across the South East including Brighton, Southampton, Portsmouth, Oxford, Maidstone, Guildford and Reading. Some offer delivery and collection of the vehicle to your address.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -3092,6 +3632,11 @@ const SE_GUIDES: Guide[] = [
         content:
           "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions, particularly popular for Heathrow and Gatwick transfers.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -3114,6 +3659,16 @@ const SE_GUIDES: Guide[] = [
         question: "Which airport is easiest to reach from Brighton?",
         answer:
           "London Gatwick is the closest major airport to Brighton, just 30-40 minutes by minibus via the A23/M23. Southampton Airport is around 90 minutes to the west. Heathrow is approximately 90 minutes to the north depending on traffic.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -3166,6 +3721,11 @@ const SE_GUIDES: Guide[] = [
         content:
           "The South East offers a huge variety of destinations well suited to 16-seater minibus travel. Popular routes include Brighton to Gatwick Airport, Oxford to the Cotswolds, Southampton to the New Forest, Maidstone to Canterbury, and Portsmouth to the Isle of Wight ferry terminal. For corporate clients, routes between South East towns and London conference venues are in high demand. Sports teams regularly book for fixtures across the Home Counties.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -3187,6 +3747,16 @@ const SE_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -3238,6 +3808,11 @@ const SE_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the South East typically costs £350-£650 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £220-£400. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £150-£350 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -3260,6 +3835,11 @@ const SE_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -3314,6 +3894,11 @@ const SW_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Bristol, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -3335,6 +3920,11 @@ const SW_GUIDES: Guide[] = [
         question: "Are party buses available in other South West cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Bath, Exeter, Plymouth, Bournemouth, Cheltenham and other South West locations. Many Bristol-based operators will pick up from across the region.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -3386,6 +3976,11 @@ const SW_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across the South West where you might want to explore Dartmoor, the Jurassic Coast or the Cotswolds at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy cities like Bristol or Bath. For nights out, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -3408,6 +4003,16 @@ const SW_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in the South West?",
         answer:
           "Self-drive minibus operators are based across the South West including Bristol, Bath, Exeter, Plymouth, Bournemouth, Gloucester and Cheltenham. Some offer delivery and collection of the vehicle to your address.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -3459,6 +4064,11 @@ const SW_GUIDES: Guide[] = [
         content:
           "For airport transfers, the most popular vehicle sizes are: 8-seater minibuses ideal for families or small groups with plenty of luggage room, 16-seater minibuses for medium groups heading on holiday or business trips, and 24-49 seater coaches for large groups such as wedding parties, sports teams, or corporate groups. Executive vehicles are also available for business travel or special occasions, particularly popular for Bristol Airport transfers from Bath and Cheltenham.",
       },
+      {
+        heading: "Coordinating Transport on the Day",
+        content:
+          "Assign a trusted member of the wedding party, such as a groomsman or bridesmaid, to act as the transport coordinator on the day. This person should have the driver direct phone number and the confirmed schedule. Share the transport details with all guests who are using it, including pickup times, locations and the vehicle description. Build in a buffer of 15-20 minutes for each journey to allow for photos, late guests and traffic. For evening return services, agree a clear departure time and make sure the DJ or band announces it during the reception. If guests are being dropped at multiple hotels, the furthest drop-off should be last. Consider putting a sign on each vehicle with the wedding couple names so guests know which coach to board.",
+      },
     ],
     faq: [
       {
@@ -3481,6 +4091,16 @@ const SW_GUIDES: Guide[] = [
         question: "How long does it take to get to Bristol Airport from Bath?",
         answer:
           "Bristol Airport is approximately 30-40 minutes from Bath by minibus via the A4 and A38. From Bristol city centre, the journey is around 20-30 minutes. From Cheltenham and Gloucester, allow around 60-90 minutes depending on traffic.",
+      },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include in their price.",
       },
     ],
     relatedLocations: [
@@ -3533,6 +4153,11 @@ const SW_GUIDES: Guide[] = [
         content:
           "The South West offers a huge variety of destinations well suited to 16-seater minibus travel. Popular routes include Bristol to Bristol Airport, Bath to the Cotswolds, Exeter to Dartmoor and the Jurassic Coast, Plymouth to Cornwall, and Bournemouth to the New Forest. For corporate clients, routes between South West towns and conference venues in Bristol and Bath are in high demand. Sports teams regularly book for fixtures across the region.",
       },
+      {
+        heading: "Safety and Etiquette Tips",
+        content:
+          "When booking a party bus, make sure your group understands the ground rules. Most operators do not allow glass bottles or glasses on board for safety reasons, so stick to cans and plastic cups. Avoid standing while the vehicle is moving, even if there is a dance floor area. Agree a code of conduct with your group beforehand, especially for events like stag or hen parties where excitement can run high. Respect the driver and the vehicle, as damage charges can be significant. Make sure everyone knows the pickup time and location, and designate one person as the group organiser to liaise with the driver. If your event involves fancy dress, check with the operator as some costumes can damage seats or interiors.",
+      },
     ],
     faq: [
       {
@@ -3554,6 +4179,16 @@ const SW_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How many guests typically need wedding transport?",
+        answer:
+          "On average, around 30-50% of wedding guests use the organised transport, though this varies hugely depending on your venue location. For rural or hard-to-reach venues, the proportion is higher. For city centre weddings with good public transport, it may be lower. When planning, ask guests to confirm whether they need transport when they RSVP so you can book the right vehicle size. It is better to have slightly more capacity than you need, as some guests will change plans on the day.",
       },
     ],
     relatedLocations: [
@@ -3605,6 +4240,11 @@ const SW_GUIDES: Guide[] = [
         content:
           "Wedding coach hire in the South West typically costs £320-£600 for a full-size coach for a half-day service (4-5 hours). A 16-seater minibus for the same period is usually £200-£380. Evening return services (taking guests from the reception to hotels at the end of the night) cost from £140-£320 depending on distance and the number of drop-off points. Many operators offer wedding packages that include ribbons and bows on the vehicle at no extra charge.",
       },
+      {
+        heading: "Fuel, Tolls and Running Costs",
+        content:
+          "When budgeting for self-drive minibus hire, remember that the daily hire rate is not the only cost. Fuel is your responsibility, and a minibus uses more fuel than a car, typically 25-35 miles per gallon depending on the vehicle size and driving conditions. Motorway driving is more economical than city driving. If your route includes toll roads or bridges, these are also your responsibility. Most operators use a full-to-full fuel policy, meaning you collect the van with a full tank and return it the same way. If you return the vehicle with less fuel, the operator will charge you for the shortfall at a premium rate. It is always cheaper to fill up at a petrol station before returning the minibus.",
+      },
     ],
     faq: [
       {
@@ -3627,6 +4267,11 @@ const SW_GUIDES: Guide[] = [
         question: "Can we make multiple stops?",
         answer:
           "Yes. Most operators are happy to make multiple pickup and drop-off points. For evening returns, a common arrangement is 2-3 hotel drop-offs in the nearest town or city. Discuss your route with the operator to get an accurate quote.",
+      },
+      {
+        question: "Can we play music on the wedding coach?",
+        answer:
+          "Many modern coaches have PA systems or Bluetooth audio that can be used for music during the journey. This can add to the atmosphere, especially on the way from the ceremony to the reception. Ask the operator about audio facilities when booking. Some luxury coaches also have microphone systems for speeches or announcements during the journey.",
       },
     ],
     relatedLocations: [
@@ -3681,6 +4326,11 @@ const WL_GUIDES: Guide[] = [
         content:
           "When comparing party bus hire companies in Cardiff, check their Google reviews and ratings, ask about the specific vehicle you will get (photos are essential), confirm what is included in the price such as music, lighting and any refreshments, check their cancellation policy and payment terms, and make sure they have appropriate insurance and licensing. All operators listed on our directory have been verified with up-to-date contact details and genuine customer reviews.",
       },
+      {
+        heading: "Tips for a Smooth Airport Transfer",
+        content:
+          "To make your group airport transfer as smooth as possible, share the pickup time, location and vehicle details with everyone in your group well in advance. Allow extra time for the unexpected, especially during rush hour or school run times. Give your flight number to the operator so they can track arrival delays. Have one person as the main contact for the driver. When being collected from the airport, agree a clear meeting point at the terminal, such as outside the arrivals exit or at a specific car park pickup zone. For outbound transfers, make sure everyone is ready and at the pickup point on time as late departures can affect the whole group. Keep the operator phone number saved in case you need to reach the driver.",
+      },
     ],
     faq: [
       {
@@ -3702,6 +4352,11 @@ const WL_GUIDES: Guide[] = [
         question: "Are party buses available in other Welsh cities?",
         answer:
           "Yes. Party bus operators in our directory also cover Swansea, Newport, Wrexham, Bangor and other Welsh locations. Many Cardiff-based operators will pick up from across Wales.",
+      },
+      {
+        question: "What music can we play on the party bus?",
+        answer:
+          "Most party buses have Bluetooth or aux connections so you can play your own playlists from a phone. Some have built-in sound systems with speakers and subwoofers. Ask the operator about the audio setup before booking, and prepare a playlist in advance so your music is ready to go as soon as you board.",
       },
     ],
     relatedLocations: [
@@ -3753,6 +4408,11 @@ const WL_GUIDES: Guide[] = [
         content:
           "Self-drive hire is typically 40-60% cheaper than hiring a minibus with a professional driver. It gives you complete flexibility over your schedule and route, which is a real advantage across Wales where you might want to explore Snowdonia, the Brecon Beacons or the Pembrokeshire Coast at your own pace. However, driven hire means everyone can relax, the driver knows local roads, and there is no worry about parking in busy cities like Cardiff or Swansea. For nights out, hiring with a driver is the obvious choice.",
       },
+      {
+        heading: "Accessibility and Special Requirements",
+        content:
+          "If anyone in your group has mobility issues, wheelchair access needs, or other special requirements, discuss this with the operator when booking. Standard 16-seater minibuses do not have wheelchair ramps or lifts, but many operators have accessible vehicles in their fleet that can be requested. These may have a reduced passenger capacity to accommodate the wheelchair space and ramp. For passengers with limited mobility who do not use a wheelchair, look for vehicles with low-floor entry or additional grab rails. Child seats can usually be fitted by the operator if requested in advance. For passengers with sensory needs, some operators can accommodate requests for quieter journeys or specific seating arrangements.",
+      },
     ],
     faq: [
       {
@@ -3775,6 +4435,16 @@ const WL_GUIDES: Guide[] = [
           "Where can I pick up a self-drive minibus in Wales?",
         answer:
           "Self-drive minibus operators are based across Wales including Cardiff, Swansea, Newport, Wrexham and Bangor. Some offer delivery and collection of the vehicle to your address.",
+      },
+      {
+        question: "What happens if the minibus breaks down while I am driving?",
+        answer:
+          "All reputable self-drive hire companies include breakdown cover. If the minibus breaks down, call the hire company first and they will arrange roadside assistance or a replacement vehicle. Keep the company emergency number saved in your phone. Do not attempt to fix the vehicle yourself as this could affect your insurance cover.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. Shared transfers are cheaper per person for solo travellers or couples but involve waiting for other passengers and multiple drop-offs. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
       },
     ],
     relatedLocations: [
@@ -3849,6 +4519,21 @@ const WL_GUIDES: Guide[] = [
         answer:
           "Cardiff Airport is approximately 60-75 minutes from Swansea by minibus via the M4. From Cardiff city centre, the journey is around 20-30 minutes. From Newport, allow around 30-40 minutes depending on traffic.",
       },
+      {
+        question: "Can we make stops on the way to the airport?",
+        answer:
+          "Yes, most operators will collect passengers from multiple addresses on the way to the airport. This is a common arrangement for groups departing from different locations. Each additional stop adds time to the journey, so make sure to factor this into your departure schedule. The operator can advise on the best route and timings.",
+      },
+      {
+        question: "Which airport should I use when flying from Wales?",
+        answer:
+          "Cardiff Airport is the only major airport in Wales, but Bristol Airport is a popular alternative for South Wales residents with a wider range of destinations. For North Wales, Manchester and Liverpool airports are often more convenient. Birmingham Airport is another option for Mid Wales. The best choice depends on your destination, flight times and group location. Compare transfer costs alongside flight prices to find the best overall value.",
+      },
+      {
+        question: "Should I book a shared or private airport transfer?",
+        answer:
+          "For groups, a private transfer is almost always better value and more convenient than a shared shuttle. A private minibus takes your group directly to your destination without other stops. For groups of 6 or more, a private transfer is usually cheaper per person than individual taxi fares and far more convenient than coordinating multiple cars.",
+      },
     ],
     relatedLocations: [
       "cardiff",
@@ -3921,6 +4606,21 @@ const WL_GUIDES: Guide[] = [
         question: "What is the difference between a minibus and a coach?",
         answer:
           "A minibus typically seats 8-17 passengers and is based on a van chassis. A coach seats 18-70+ passengers, has higher ceilings, more luggage space, and often includes a toilet and overhead storage. For groups of 16 or fewer, a minibus is usually more cost-effective.",
+      },
+      {
+        question: "Do 16-seater minibuses have air conditioning?",
+        answer:
+          "Most modern 16-seater minibuses are fitted with air conditioning as standard. Older vehicles may only have opening windows. If air conditioning is important for your trip, confirm with the operator when booking. Executive and premium minibuses always have climate control.",
+      },
+      {
+        question: "How should I compare 16-seater minibus hire quotes in Wales?",
+        answer:
+          "When comparing quotes, check what is included in the price. Key items to confirm are the driver, fuel, insurance, VAT, waiting time allowance, parking charges and any tolls. Ask for a written breakdown rather than just a headline figure. Get at least three quotes to understand the market rate. The cheapest option is not always the best value if it excludes items that other operators include.",
+      },
+      {
+        question: "What is the cancellation policy for 16-seater hire in Wales?",
+        answer:
+          "Cancellation policies vary between Welsh operators. Most require a deposit of 20-50% at booking, with the balance due closer to the travel date. Free cancellation is often available up to 14-28 days before travel, with partial refunds for shorter notice. Always read the cancellation terms before confirming your booking.",
       },
     ],
     relatedLocations: [
@@ -4612,4 +5312,11 @@ export function getGuideBySlug(slug: string): Guide | undefined {
 
 export function getAllGuideSlugs(): string[] {
   return GUIDES.map((g) => g.slug);
+}
+
+export function getGuidesForLocation(locationSlug: string, productId?: ProductId): Guide[] {
+  return GUIDES.filter((g) => {
+    if (productId && g.product !== productId) return false;
+    return g.relatedLocations.includes(locationSlug);
+  });
 }

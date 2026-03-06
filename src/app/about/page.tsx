@@ -33,8 +33,44 @@ export const metadata: Metadata = {
 };
 
 export default function AboutPage() {
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      name: `About ${site.genericName}`,
+      url: `https://${site.domain}/about`,
+      mainEntity: {
+        "@type": "Organization",
+        name: site.genericName,
+        url: `https://${site.domain}`,
+        description: site.aboutDescription,
+        founder: {
+          "@type": "Person",
+          name: "Mark McCormick",
+        },
+        areaServed: {
+          "@type": "Place",
+          name: site.region,
+        },
+      },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: `https://${site.domain}` },
+        { "@type": "ListItem", position: 2, name: "About", item: `https://${site.domain}/about` },
+      ],
+    },
+  ];
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+
       <nav className="bg-surface border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-sm text-text-light">
           <Link href="/" className="hover:text-primary">Home</Link>

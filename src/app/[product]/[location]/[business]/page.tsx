@@ -122,6 +122,7 @@ export default async function ProductBusinessPage({
           })),
         },
       }),
+      image: `https://${site.domain}${productConfig.image}`,
       url: business.website,
       geo: {
         "@type": "GeoCoordinates",

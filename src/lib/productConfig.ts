@@ -20,6 +20,7 @@ export interface ProductConfig {
     locationsList: string
   ) => string[];
   locationSeoContent: (locationName: string, count: number, region: string) => { heading: string; paragraphs: string[] };
+  locationFaqs: (locationName: string, region: string) => { question: string; answer: string }[];
   ctaText: (locationName: string) => string;
   featuredSubtitle: (shortName: string) => string;
   browseSubtitle: string;
@@ -76,6 +77,24 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         `Common reasons people book minibus and coach hire in ${loc} include airport transfers, wedding transport, corporate events, school and university trips, sports team travel, nights out and day trips. Many operators also offer self-drive minibus hire for groups of up to 16 who hold a standard driving licence, which can be a more flexible and cost-effective option for shorter journeys.`,
       ],
     }),
+    locationFaqs: (loc, region) => [
+      {
+        question: `How much does minibus hire cost in ${loc}?`,
+        answer: `Minibus hire prices in ${loc} depend on the vehicle size, journey distance and duration. A 16-seater minibus with driver typically costs £150-£400 for a local return trip. Larger coaches and party buses cost more. We recommend getting quotes from several operators to compare prices.`,
+      },
+      {
+        question: `Can I hire a minibus without a driver in ${loc}?`,
+        answer: `Yes, several operators in ${loc} offer self-drive minibus hire. You can drive a minibus with up to 16 seats on a standard UK car licence (Category D1 if you passed your test before January 1997, or with a separate D1 entitlement). Self-drive hire is usually cheaper than hiring with a driver.`,
+      },
+      {
+        question: `How far in advance should I book a minibus in ${loc}?`,
+        answer: `For weekend nights out and popular dates, book at least 2-4 weeks ahead. For weddings, proms and large events, 2-3 months is recommended. Midweek bookings can often be arranged with shorter notice. The earlier you book, the more choice you will have among operators in ${loc}.`,
+      },
+      {
+        question: `What size minibus do I need?`,
+        answer: `For small groups of 6-8, a standard minibus is fine. Groups of 9-16 need a 16-seater minibus. For 17-30 people, look at midi coaches. Groups over 30 will need a full-size coach seating 49-57 passengers. Most operators in ${loc} can advise on the best vehicle for your group size.`,
+      },
+    ],
     ctaText: (loc) => `Need a minibus in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated minibus and coach hire companies in the ${shortName}`,
@@ -138,6 +157,24 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         `People hire vans in ${loc} for all kinds of reasons: house moves, furniture collection, business deliveries, trade and construction work, garden clearances and event logistics. If you are moving home, a Luton van with a tail lift is usually the best choice. For trade work and site clearances, a tipper or pickup truck may be more practical.`,
       ],
     }),
+    locationFaqs: (loc, region) => [
+      {
+        question: `How much does van hire cost in ${loc}?`,
+        answer: `Van hire prices in ${loc} depend on the vehicle size and hire duration. A short wheelbase van costs around £40-£80 per day. Long wheelbase vans are £45-£70 per day. Luton vans with tail lifts cost £60-£120 per day. Weekend rates (Friday to Monday) often offer better value than single-day hire.`,
+      },
+      {
+        question: `Do I need a special licence to hire a van in ${loc}?`,
+        answer: `No, most hire vans up to 3.5 tonnes can be driven on a standard UK car licence (Category B). This covers SWB, LWB and most Luton vans. You will usually need to be at least 21 years old with a full licence held for at least one year. Some companies require you to be 25 for larger vehicles.`,
+      },
+      {
+        question: `Can I hire a van for just a few hours?`,
+        answer: `Yes, many van hire companies in ${loc} offer half-day rates, typically covering 4-5 hours. This is a popular and cost-effective option for local furniture collections or small moves. Full-day, weekend and weekly rates are also available from most operators.`,
+      },
+      {
+        question: `What type of van should I hire for moving house?`,
+        answer: `For a 1-2 bedroom flat, a Luton van with a tail lift is the best choice. It offers 12-15 cubic metres of space and the tail lift makes loading heavy items much easier. For a studio flat or single room, a long wheelbase van may be sufficient and is cheaper to hire.`,
+      },
+    ],
     ctaText: (loc) => `Need a van in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated van hire companies in the ${shortName}`,
@@ -200,6 +237,24 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         `Common uses for skip hire in ${loc} include home renovations, garden clearances, house clearouts, construction projects and commercial waste disposal. If you are unsure which skip size you need, most operators will be happy to advise. For bulky or heavy waste such as soil, rubble or concrete, a grab lorry may be a faster and more cost-effective alternative to a traditional skip.`,
       ],
     }),
+    locationFaqs: (loc, region) => [
+      {
+        question: `How much does skip hire cost in ${loc}?`,
+        answer: `Skip hire prices in ${loc} vary by size. Mini skips (2-3 yards) cost £100-£200, midi skips (4-5 yards) cost £150-£250, builders skips (6-8 yards) cost £200-£350, and large skips (12-16 yards) cost £300-£500. Prices may be higher if you need a council road permit.`,
+      },
+      {
+        question: `Do I need a permit for a skip in ${loc}?`,
+        answer: `If the skip is placed on your private driveway or land, no permit is needed. If it needs to go on a public road or pavement, you will need a skip permit from your local council. Most skip hire companies in ${loc} can arrange this for you, usually for an extra £20-£50.`,
+      },
+      {
+        question: `What size skip do I need?`,
+        answer: `For a bathroom or small garden clearance, a mini skip (2-3 yards) is usually enough. For a kitchen refit or larger garden job, a midi skip (4-5 yards) is better. For house renovations and building work, a builders skip (6-8 yards) is the most popular choice. For major projects, consider a 12-16 yard large skip or a roll-on-roll-off container.`,
+      },
+      {
+        question: `What can I put in a skip?`,
+        answer: `Most household and construction waste is accepted, including wood, metal, rubble, soil, furniture, garden waste and general rubbish. Items not allowed include asbestos, batteries, gas cylinders, electrical appliances (WEEE), tyres, paint and chemicals. If in doubt, ask your skip hire company before loading.`,
+      },
+    ],
     ctaText: (loc) => `Need a skip in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated skip hire companies in the ${shortName}`,
@@ -262,6 +317,24 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         `Common reasons people call a locksmith in ${loc} include being locked out of their home or car, needing locks changed after moving into a new property, repairing damaged or faulty locks, upgrading to high-security cylinders, and getting replacement keys cut. If your locks are old or you have recently had a break-in, a locksmith can advise on the best security upgrades for your property.`,
       ],
     }),
+    locationFaqs: (loc, region) => [
+      {
+        question: `How much does a locksmith cost in ${loc}?`,
+        answer: `Locksmith prices in ${loc} depend on the job. A standard lock change costs £60-£120. An emergency lockout during daytime hours costs £60-£120, while evening and weekend callouts cost £90-£180. Late-night and bank holiday callouts can be £120-£250. Always ask for a quote before work starts.`,
+      },
+      {
+        question: `How quickly can a locksmith get to me in ${loc}?`,
+        answer: `Most emergency locksmiths in ${loc} aim to arrive within 30-60 minutes. In busy town centres, response times can be as fast as 15-20 minutes. When you call, ask for an estimated arrival time and confirm the total cost including any parts.`,
+      },
+      {
+        question: `Should I change the locks when I move house?`,
+        answer: `Yes, it is strongly recommended. You do not know who has copies of the existing keys. Previous owners, their family, neighbours, estate agents and tradespeople may all have had keys. A locksmith in ${loc} can change your locks quickly, giving you full control over who can access your home.`,
+      },
+      {
+        question: `How do I find a trustworthy locksmith in ${loc}?`,
+        answer: `Look for locksmiths with strong Google reviews and a verified local presence. Check for membership of a recognised trade body such as the Master Locksmiths Association (MLA). Ask for a price estimate before they attend. Avoid locksmiths who refuse to quote over the phone or demand cash only.`,
+      },
+    ],
     ctaText: (loc) => `Need a locksmith in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated locksmiths in the ${shortName}`,

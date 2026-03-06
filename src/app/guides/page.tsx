@@ -27,6 +27,44 @@ export const metadata: Metadata = {
 };
 
 export default function GuidesPage() {
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: "Hire Guides | Tips, Prices & Advice",
+      description: `Expert guides covering minibus hire, van hire, skip hire and locksmiths in the ${site.shortName}.`,
+      url: `https://${site.domain}/guides`,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      itemListElement: GUIDES.map((guide, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: guide.title,
+        url: `https://${site.domain}/guides/${guide.slug}`,
+      })),
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: `https://${site.domain}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Guides",
+          item: `https://${site.domain}/guides`,
+        },
+      ],
+    },
+  ];
+
   const grouped = GUIDES.reduce<Record<string, typeof GUIDES>>((acc, guide) => {
     const product = guide.product || "minibus-hire";
     if (!acc[product]) acc[product] = [];
@@ -39,6 +77,11 @@ export default function GuidesPage() {
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+
       <nav className="bg-surface border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-sm text-text-light">
           <Link href="/" className="hover:text-primary">

@@ -8,6 +8,7 @@ import {
   enrichWithPromotions,
 } from "@/lib/data";
 import { getAllLocationSlugs } from "@/lib/locations";
+import { getGuidesForLocation } from "@/lib/guides";
 import { getSiteConfig } from "@/lib/siteConfig";
 import {
   PRODUCT_SLUGS,
@@ -86,6 +87,8 @@ export default async function ProductLocationPage({
   const allLocations = getLocations(productId).filter(
     (l) => l.slug !== locationSlug
   );
+  const locationFaqs = productConfig.locationFaqs(location.name, site.region);
+  const relatedGuides = getGuidesForLocation(locationSlug, productId);
 
   const schema = [
     {
@@ -128,6 +131,22 @@ export default async function ProductLocationPage({
         },
       ],
     },
+    ...(locationFaqs.length > 0
+      ? [
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: locationFaqs.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: item.answer,
+              },
+            })),
+          },
+        ]
+      : []),
   ];
 
   return (
@@ -259,6 +278,67 @@ export default async function ProductLocationPage({
           </section>
         );
       })()}
+
+      {/* FAQs */}
+      {locationFaqs.length > 0 && (
+        <section className="py-8 md:py-12">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="max-w-3xl">
+              <h2 className="text-xl md:text-2xl font-bold text-text mb-6">
+                Frequently Asked Questions
+              </h2>
+              <div className="space-y-4">
+                {locationFaqs.map((item) => (
+                  <details
+                    key={item.question}
+                    className="bg-white border border-border rounded-xl p-5 group"
+                  >
+                    <summary className="font-semibold text-text cursor-pointer list-none flex justify-between items-center">
+                      {item.question}
+                      <span className="text-text-light ml-2 group-open:rotate-180 transition-transform">
+                        ▼
+                      </span>
+                    </summary>
+                    <p className="text-text-light mt-3 leading-relaxed text-sm">
+                      {item.answer}
+                    </p>
+                  </details>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Related guides */}
+      {relatedGuides.length > 0 && (
+        <section className="py-8 md:py-12 bg-surface">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-bold text-text mb-6">
+              Related Guides
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {relatedGuides.slice(0, 6).map((guide) => (
+                <Link
+                  key={guide.slug}
+                  href={`/guides/${guide.slug}`}
+                  className="bg-white border border-border rounded-xl p-5 hover:border-primary hover:shadow-md transition-all group"
+                >
+                  <h3 className="font-semibold text-text group-hover:text-primary transition-colors mb-2">
+                    {guide.title}
+                  </h3>
+                  <p className="text-text-light text-sm line-clamp-2">
+                    {guide.intro}
+                  </p>
+                  <span className="inline-block mt-3 text-primary text-sm font-medium">
+                    Read guide →
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Related locations */}
       <section className="py-8 md:py-12">

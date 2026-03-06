@@ -8,47 +8,52 @@ import { getServicePages } from "@/lib/servicePages";
 
 const BASE_URL = `https://${getSiteConfig().domain}`;
 
+// Content dates for sitemap freshness signals
+const CONTENT_UPDATED = new Date("2026-03-01");
+const STATIC_PAGE_DATE = new Date("2025-06-01");
+const GUIDE_DATE = new Date("2026-03-01");
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [
     {
       url: BASE_URL,
-      lastModified: new Date(),
+      lastModified: CONTENT_UPDATED,
       changeFrequency: "weekly",
       priority: 1.0,
     },
     {
       url: `${BASE_URL}/quote`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/get-quotes`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/about`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.3,
     },
     {
       url: `${BASE_URL}/contact`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.4,
     },
     {
       url: `${BASE_URL}/privacy`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.3,
     },
     {
       url: `${BASE_URL}/terms`,
-      lastModified: new Date(),
+      lastModified: STATIC_PAGE_DATE,
       changeFrequency: "monthly",
       priority: 0.3,
     },
@@ -61,7 +66,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     entries.push({
       url: `${BASE_URL}/${product.slug}`,
-      lastModified: new Date(),
+      lastModified: CONTENT_UPDATED,
       changeFrequency: "weekly",
       priority: 0.9,
     });
@@ -69,7 +74,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const loc of locations) {
       entries.push({
         url: `${BASE_URL}/${product.slug}/${loc.slug}`,
-        lastModified: new Date(),
+        lastModified: CONTENT_UPDATED,
         changeFrequency: "weekly",
         priority: 0.8,
       });
@@ -78,7 +83,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const b of businesses) {
       entries.push({
         url: `${BASE_URL}/${product.slug}/${b.locationSlug}/${b.slug}`,
-        lastModified: new Date(),
+        lastModified: CONTENT_UPDATED,
         changeFrequency: "monthly",
         priority: 0.6,
       });
@@ -99,7 +104,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   entries.push({
     url: `${BASE_URL}/guides`,
-    lastModified: new Date(),
+    lastModified: GUIDE_DATE,
     changeFrequency: "weekly",
     priority: 0.7,
   });
@@ -107,7 +112,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const slug of getAllGuideSlugs()) {
     entries.push({
       url: `${BASE_URL}/guides/${slug}`,
-      lastModified: new Date(),
+      lastModified: GUIDE_DATE,
       changeFrequency: "monthly",
       priority: 0.7,
     });

@@ -218,6 +218,8 @@ export default async function GuidePage({
                 "@type": "WebPage",
                 "@id": `https://${getSiteConfig().domain}/guides/${slug}`,
               },
+              datePublished: "2025-01-15",
+              dateModified: "2026-03-01",
               articleSection: guide.sections.map((s) => s.heading),
               keywords: guide.keywords.join(", "),
             },
