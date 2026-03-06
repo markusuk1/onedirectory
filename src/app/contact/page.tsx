@@ -1,12 +1,27 @@
 import type { Metadata } from "next";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import FeedbackForm from "@/components/feedback/FeedbackForm";
 
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: `Contact`,
-  description: `Contact ${site.genericName}.`,
+  description: `Contact ${site.genericName}. For customer support, quote assistance, operator updates, or business enquiries.`,
+  alternates: {
+    canonical: "/contact",
+    languages: getRegionalAlternates("/contact"),
+  },
+  openGraph: {
+    title: `Contact ${site.genericName}`,
+    description: `Contact ${site.genericName}. For customer support, quote assistance, operator updates, or business enquiries.`,
+    url: `https://${site.domain}/contact`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `Contact ${site.genericName}`,
+    description: `Contact ${site.genericName}. For customer support, quote assistance, operator updates, or business enquiries.`,
+  },
 };
 
 export default function ContactPage() {

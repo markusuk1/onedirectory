@@ -248,3 +248,16 @@ export const ALL_REGIONS = Object.values(SITE_CONFIGS).map(({ id, shortName, dom
   shortName,
   domain,
 }));
+
+/**
+ * Build hreflang alternates for a given path across all regional domains.
+ * Returns a languages record suitable for Next.js metadata alternates.
+ */
+export function getRegionalAlternates(path: string = "") {
+  const languages: Record<string, string> = {};
+  for (const config of Object.values(SITE_CONFIGS)) {
+    languages[`en-GB-${config.id}`] = `https://${config.domain}${path}`;
+  }
+  languages["x-default"] = `https://${getSiteConfig().domain}${path}`;
+  return languages;
+}

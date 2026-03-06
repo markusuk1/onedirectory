@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { getLocations } from "@/lib/data";
 import { getSiteConfig } from "@/lib/siteConfig";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
@@ -61,10 +62,14 @@ export default async function HomePage() {
       {/* Hero */}
       <section className="bg-gradient-to-br from-primary via-primary to-primary-dark text-white py-16 md:py-24 relative overflow-hidden">
         {heroImage && (
-          <div
-            className="absolute inset-0 bg-center bg-cover bg-no-repeat opacity-50"
-            style={{ backgroundImage: `url(${heroImage})` }}
+          <Image
+            src={heroImage}
+            alt=""
+            fill
+            priority
+            className="object-cover object-center opacity-50"
             aria-hidden="true"
+            sizes="100vw"
           />
         )}
         <div className="absolute inset-0 bg-gradient-to-br from-primary/55 via-primary/50 to-primary-dark/60" aria-hidden="true" />
@@ -120,10 +125,12 @@ export default async function HomePage() {
                 href={`/${product.slug}`}
                 className="bg-white border border-border rounded-xl p-5 hover:shadow-lg hover:border-primary-light transition-all duration-200 group text-center"
               >
-                <img
+                <Image
                   src={product.image}
                   alt={product.imageAlt}
-                  className="h-20 md:h-24 mx-auto mb-3"
+                  width={112}
+                  height={112}
+                  className="h-24 md:h-28 w-auto mx-auto mb-4"
                 />
                 <h3 className="font-bold text-lg text-text group-hover:text-primary transition-colors mb-1">
                   {product.name}

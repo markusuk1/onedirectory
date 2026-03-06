@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import QuoteForm from "@/components/quote/QuoteForm";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { isValidProductSlug } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
 
@@ -11,6 +11,21 @@ const site = getSiteConfig();
 export const metadata: Metadata = {
   title: "Get a Free Hire Quote",
   description: `Request free, no-obligation quotes from trusted operators across the ${site.region}.`,
+  alternates: {
+    canonical: "/quote",
+    languages: getRegionalAlternates("/quote"),
+  },
+  openGraph: {
+    title: "Get a Free Hire Quote",
+    description: `Request free, no-obligation quotes from trusted operators across the ${site.region}.`,
+    url: `https://${site.domain}/quote`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Get a Free Hire Quote",
+    description: `Request free, no-obligation quotes from trusted operators across the ${site.region}.`,
+  },
 };
 
 export default async function QuotePage({

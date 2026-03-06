@@ -1,12 +1,16 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: `Privacy Policy`,
   description: `Privacy policy for ${site.genericName}.`,
+  alternates: {
+    canonical: "/privacy",
+    languages: getRegionalAlternates("/privacy"),
+  },
 };
 
 export default function PrivacyPage() {

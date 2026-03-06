@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { GUIDES } from "@/lib/guides";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
 
 const site = getSiteConfig();
@@ -9,6 +9,21 @@ const site = getSiteConfig();
 export const metadata: Metadata = {
   title: "Hire Guides | Tips, Prices & Advice",
   description: `Expert guides covering minibus hire, van hire, skip hire and locksmiths in the ${site.shortName}. Prices, tips and advice.`,
+  alternates: {
+    canonical: "/guides",
+    languages: getRegionalAlternates("/guides"),
+  },
+  openGraph: {
+    title: "Hire Guides | Tips, Prices & Advice",
+    description: `Expert guides covering minibus hire, van hire, skip hire and locksmiths in the ${site.shortName}. Prices, tips and advice.`,
+    url: `https://${site.domain}/guides`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Hire Guides | Tips, Prices & Advice",
+    description: `Expert guides covering minibus hire, van hire, skip hire and locksmiths in the ${site.shortName}. Prices, tips and advice.`,
+  },
 };
 
 export default function GuidesPage() {

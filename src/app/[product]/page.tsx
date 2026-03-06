@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { getLocations, getFeaturedBusinesses, enrichWithPromotions } from "@/lib/data";
 import { getSiteConfig } from "@/lib/siteConfig";
@@ -9,6 +10,7 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { getRegionalAlternates } from "@/lib/siteConfig";
 import BusinessCard from "@/components/business/BusinessCard";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 import AdBanner from "@/components/ads/AdBanner";
@@ -31,9 +33,27 @@ export async function generateMetadata({
     (sum, loc) => sum + loc.businessCount,
     0
   );
+  const title = `${productConfig.name} ${site.shortName} | Compare ${totalBusinesses}+ Companies`;
+  const description = `Compare ${productConfig.name.toLowerCase()} companies across ${site.region}. Get free quotes from trusted operators.`;
+  const url = `https://${site.domain}/${product}`;
   return {
-    title: `${productConfig.name} ${site.shortName} | Compare ${totalBusinesses}+ Companies`,
-    description: `Compare ${productConfig.name.toLowerCase()} companies across ${site.region}. Get free quotes from trusted operators.`,
+    title,
+    description,
+    alternates: {
+      canonical: `/${product}`,
+      languages: getRegionalAlternates(`/${product}`),
+    },
+    openGraph: {
+      title,
+      description,
+      url,
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title,
+      description,
+    },
   };
 }
 
@@ -103,10 +123,13 @@ export default async function ProductHomePage({
               </Link>
             </div>
           </div>
-          <img
+          <Image
             src={productConfig.image}
             alt={productConfig.imageAlt}
-            className="hidden md:block w-64 lg:w-80 opacity-90"
+            width={320}
+            height={320}
+            priority
+            className="hidden md:block w-64 lg:w-80 h-auto opacity-90"
           />
         </div>
       </section>

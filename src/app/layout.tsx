@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { getAllBusinesses } from "@/lib/data";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
@@ -22,7 +22,8 @@ const totalBusinesses = ALL_PRODUCTS.reduce(
 export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   alternates: {
-    canonical: "./",
+    canonical: "/",
+    languages: getRegionalAlternates("/"),
   },
   title: {
     default: `${site.genericName} | Compare ${totalBusinesses}+ Companies`,
@@ -33,9 +34,14 @@ export const metadata: Metadata = {
     type: "website",
     siteName: site.genericName,
     locale: "en_GB",
+    title: `${site.genericName} | Compare ${totalBusinesses}+ Companies`,
+    description: site.description,
+    url: `https://${site.domain}`,
   },
   twitter: {
     card: "summary_large_image",
+    title: `${site.genericName} | Compare ${totalBusinesses}+ Companies`,
+    description: site.description,
   },
 };
 
@@ -45,7 +51,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en-GB">
       <head>
         <meta name="google-adsense-account" content="ca-pub-8691296183242940" />
         <script

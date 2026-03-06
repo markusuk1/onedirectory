@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { isValidProductSlug } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
 import GetQuotesClient from "./GetQuotesClient";
@@ -11,6 +11,21 @@ export const metadata: Metadata = {
   title: "Get Multiple Hire Quotes | We Do the Work For You",
   description:
     "Tell us your requirements and we'll contact operators on your behalf. Receive multiple quotes by email — free, no obligation.",
+  alternates: {
+    canonical: "/get-quotes",
+    languages: getRegionalAlternates("/get-quotes"),
+  },
+  openGraph: {
+    title: "Get Multiple Hire Quotes | We Do the Work For You",
+    description: "Tell us your requirements and we'll contact operators on your behalf. Receive multiple quotes by email — free, no obligation.",
+    url: `https://${site.domain}/get-quotes`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Get Multiple Hire Quotes | We Do the Work For You",
+    description: "Tell us your requirements and we'll contact operators on your behalf. Receive multiple quotes by email — free, no obligation.",
+  },
 };
 
 export default async function GetQuotesPage({

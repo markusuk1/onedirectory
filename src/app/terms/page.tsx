@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
   title: `Terms of Use`,
   description: `Terms of use for ${site.genericName}.`,
+  alternates: {
+    canonical: "/terms",
+    languages: getRegionalAlternates("/terms"),
+  },
 };
 
 export default function TermsPage() {

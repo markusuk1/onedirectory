@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/guides";
 import { getLocationBySlug } from "@/lib/locations";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
 
@@ -34,9 +35,26 @@ export async function generateMetadata({
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
   if (!guide) return {};
+  const site = getSiteConfig();
+  const path = `/guides/${slug}`;
   return {
     title: guide.metaTitle,
     description: guide.metaDescription,
+    alternates: {
+      canonical: path,
+      languages: getRegionalAlternates(path),
+    },
+    openGraph: {
+      title: guide.metaTitle,
+      description: guide.metaDescription,
+      url: `https://${site.domain}${path}`,
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title: guide.metaTitle,
+      description: guide.metaDescription,
+    },
   };
 }
 
@@ -81,9 +99,11 @@ export default async function GuidePage({
           ) || ALL_PRODUCTS.find((p) => p.id === "minibus-hire");
           return matchedProduct ? (
             <div className="flex items-start gap-5 mb-4">
-              <img
+              <Image
                 src={matchedProduct.image}
                 alt={matchedProduct.imageAlt}
+                width={80}
+                height={80}
                 className="hidden sm:block w-20 h-auto flex-shrink-0"
               />
               <h1 className="text-2xl md:text-4xl font-bold text-text">

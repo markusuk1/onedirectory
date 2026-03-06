@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteConfig } from "@/lib/siteConfig";
+import { getSiteConfig, getRegionalAlternates } from "@/lib/siteConfig";
 import { getAllBusinesses, getLocations } from "@/lib/data";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
@@ -15,6 +15,21 @@ const totalLocations = getLocations().length;
 export const metadata: Metadata = {
   title: "About Us",
   description: site.aboutDescription,
+  alternates: {
+    canonical: "/about",
+    languages: getRegionalAlternates("/about"),
+  },
+  openGraph: {
+    title: `About ${site.genericName}`,
+    description: site.aboutDescription,
+    url: `https://${site.domain}/about`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `About ${site.genericName}`,
+    description: site.aboutDescription,
+  },
 };
 
 export default function AboutPage() {

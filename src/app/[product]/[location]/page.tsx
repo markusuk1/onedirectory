@@ -15,6 +15,7 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { getRegionalAlternates } from "@/lib/siteConfig";
 import BusinessCard from "@/components/business/BusinessCard";
 import AdBanner from "@/components/ads/AdBanner";
 import { getServicePages } from "@/lib/servicePages";
@@ -40,9 +41,28 @@ export async function generateMetadata({
   const productConfig = getProductConfig(product)!;
   const location = getLocationBySlugWithCount(locationSlug, product as ProductId);
   if (!location) return {};
+  const site = getSiteConfig();
+  const title = `${productConfig.name} ${location.name} | Compare ${location.businessCount} Companies`;
+  const description = productConfig.locationDescriptionTemplate(location.name);
+  const path = `/${product}/${locationSlug}`;
   return {
-    title: `${productConfig.name} ${location.name} | Compare ${location.businessCount} Companies`,
-    description: productConfig.locationDescriptionTemplate(location.name),
+    title,
+    description,
+    alternates: {
+      canonical: path,
+      languages: getRegionalAlternates(path),
+    },
+    openGraph: {
+      title,
+      description,
+      url: `https://${site.domain}${path}`,
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title,
+      description,
+    },
   };
 }
 

@@ -23,6 +23,7 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { getRegionalAlternates } from "@/lib/siteConfig";
 
 export const revalidate = 3600; // ISR: revalidate every hour
 
@@ -51,12 +52,31 @@ export async function generateMetadata({
   const productConfig = getProductConfig(product)!;
   const biz = getBusinessBySlug(location, businessSlug, product as ProductId);
   if (!biz) return {};
+  const site = getSiteConfig();
   const ratingStr = biz.rating
     ? ` | ${biz.rating}/5 (${biz.totalReviews} reviews)`
     : "";
+  const title = `${biz.name} - ${biz.locationName}${ratingStr}`;
+  const description = biz.description || productConfig.metaDescriptionTemplate(biz.name, biz.locationName);
+  const path = `/${product}/${location}/${businessSlug}`;
   return {
-    title: `${biz.name} - ${biz.locationName}${ratingStr}`,
-    description: biz.description || productConfig.metaDescriptionTemplate(biz.name, biz.locationName),
+    title,
+    description,
+    alternates: {
+      canonical: path,
+      languages: getRegionalAlternates(path),
+    },
+    openGraph: {
+      title,
+      description,
+      url: `https://${site.domain}${path}`,
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image" as const,
+      title,
+      description,
+    },
   };
 }
 
