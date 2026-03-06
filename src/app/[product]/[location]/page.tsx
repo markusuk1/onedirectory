@@ -239,8 +239,29 @@ export default async function ProductLocationPage({
         </section>
       )}
 
+      {/* SEO content */}
+      {(() => {
+        const seo = productConfig.locationSeoContent(location.name, location.businessCount, site.region);
+        return (
+          <section className="py-8 md:py-12 bg-surface">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="max-w-3xl">
+                <h2 className="text-xl md:text-2xl font-bold text-text mb-4">
+                  {seo.heading}
+                </h2>
+                <div className="text-text-light text-sm leading-relaxed space-y-3">
+                  {seo.paragraphs.map((p, i) => (
+                    <p key={i}>{p}</p>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </section>
+        );
+      })()}
+
       {/* Related locations */}
-      <section className="bg-surface py-8 md:py-12">
+      <section className="py-8 md:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-xl font-bold text-text mb-6">
             Other Locations in the {site.shortName}

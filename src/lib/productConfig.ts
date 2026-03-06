@@ -19,6 +19,7 @@ export interface ProductConfig {
     count: number,
     locationsList: string
   ) => string[];
+  locationSeoContent: (locationName: string, count: number, region: string) => { heading: string; paragraphs: string[] };
   ctaText: (locationName: string) => string;
   featuredSubtitle: (shortName: string) => string;
   browseSubtitle: string;
@@ -66,6 +67,15 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} minibus and coach hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple operators by using our quote request form. Simply tell us your journey details and we'll connect you with suitable companies in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Minibus & Coach Hire in ${loc}`,
+      paragraphs: [
+        `Looking for reliable minibus or coach hire in ${loc}? Our directory lists ${count} verified operators serving ${loc} and the surrounding ${region} area. Whether you need a standard minibus for a group night out, a full-size coach for a school trip, or a luxury party bus for a celebration, you can compare companies side by side and choose the right one for your trip.`,
+        `All operators listed in our ${loc} directory include verified contact details, genuine Google ratings and reviews, opening hours and service information. You can view each company's fleet, check their availability and get in touch directly. If you would prefer us to do the legwork, use our free managed quote service and we will contact suitable operators on your behalf.`,
+        `Minibus hire prices in ${loc} vary depending on the vehicle size, journey distance, duration and time of year. A standard 16-seater minibus with driver typically costs between £150 and £400 for a local return trip, while larger coaches and specialist vehicles like party buses may cost more. Weekend and peak-season bookings tend to carry a premium, so we recommend requesting quotes from multiple operators to compare prices.`,
+        `Common reasons people book minibus and coach hire in ${loc} include airport transfers, wedding transport, corporate events, school and university trips, sports team travel, nights out and day trips. Many operators also offer self-drive minibus hire for groups of up to 16 who hold a standard driving licence, which can be a more flexible and cost-effective option for shorter journeys.`,
+      ],
+    }),
     ctaText: (loc) => `Need a minibus in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated minibus and coach hire companies in the ${shortName}`,
@@ -119,6 +129,15 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} van hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours.`,
       `Get free, no-obligation quotes from multiple operators by using our quote request form. Simply tell us your requirements and we'll connect you with suitable companies in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Van Hire in ${loc}`,
+      paragraphs: [
+        `Need to hire a van in ${loc}? Our directory features ${count} van hire companies operating in ${loc} and the wider ${region} area. From small short-wheelbase vans for local moves to large Luton vans with tail lifts for full house removals, you can compare operators, read reviews and get in touch directly.`,
+        `Every van hire company in our ${loc} listings includes verified contact details, Google ratings, opening hours and details of the vehicles they offer. Whether you need a van for a day, a weekend or a longer period, comparing multiple companies helps you find the best deal. Use our free quote service if you would like us to source prices on your behalf.`,
+        `Van hire prices in ${loc} depend on the type of vehicle, rental duration and mileage. A standard SWB or MWB van typically costs between £40 and £80 per day, while Luton vans and specialist vehicles such as tippers or refrigerated vans may cost £70 to £150 per day. Most companies require a deposit and proof of identity, and some offer delivery and collection for an additional fee.`,
+        `People hire vans in ${loc} for all kinds of reasons: house moves, furniture collection, business deliveries, trade and construction work, garden clearances and event logistics. If you are moving home, a Luton van with a tail lift is usually the best choice. For trade work and site clearances, a tipper or pickup truck may be more practical.`,
+      ],
+    }),
     ctaText: (loc) => `Need a van in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated van hire companies in the ${shortName}`,
@@ -172,6 +191,15 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} skip hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple operators by using our quote request form. Simply tell us your requirements and we'll connect you with suitable companies in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Skip Hire in ${loc}`,
+      paragraphs: [
+        `Searching for skip hire in ${loc}? We list ${count} skip hire companies serving ${loc} and the surrounding ${region} area. Whether you need a mini skip for a bathroom refit, a builders skip for a renovation, or a large roll-on-roll-off container for a commercial clearance, our directory helps you compare local operators quickly.`,
+        `Each skip hire company in our ${loc} directory includes verified contact details, Google ratings and reviews, and information about the skip sizes they offer. Comparing multiple companies is the best way to find competitive prices and reliable service. You can also use our free managed quote service and we will contact operators on your behalf.`,
+        `Skip hire prices in ${loc} vary by skip size, hire duration and the type of waste being disposed of. As a rough guide, mini skips (2-3 yards) typically cost £100 to £200, builders skips (6-8 yards) cost £200 to £350, and large skips (12-16 yards) cost £300 to £500. Prices may also depend on whether a council permit is needed if the skip is placed on a public road rather than a private driveway.`,
+        `Common uses for skip hire in ${loc} include home renovations, garden clearances, house clearouts, construction projects and commercial waste disposal. If you are unsure which skip size you need, most operators will be happy to advise. For bulky or heavy waste such as soil, rubble or concrete, a grab lorry may be a faster and more cost-effective alternative to a traditional skip.`,
+      ],
+    }),
     ctaText: (loc) => `Need a skip in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated skip hire companies in the ${shortName}`,
@@ -225,6 +253,15 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} locksmiths covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can find help fast.`,
       `Browse our directory to compare locksmiths in your area. Check ratings, read reviews and contact operators directly to get the help you need.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Locksmiths in ${loc}`,
+      paragraphs: [
+        `Need a locksmith in ${loc}? Our directory lists ${count} verified locksmiths covering ${loc} and the wider ${region} area. Whether you are locked out of your home, need a lock changed after moving house, or want to upgrade your security, you can compare local locksmiths by ratings, reviews and services offered.`,
+        `Every locksmith in our ${loc} listings includes verified contact details, Google ratings, opening hours and details of the services they provide. Many locksmiths in ${loc} offer 24/7 emergency callout for lockouts, so you can find help at any time of day or night. Use our directory to compare options and contact operators directly.`,
+        `Locksmith prices in ${loc} depend on the type of work, time of day and complexity of the job. A standard lock change typically costs between £60 and £120, while an emergency lockout callout may cost £70 to £150 depending on the time and lock type. uPVC and composite door lock repairs involving multipoint mechanisms tend to cost more. Always ask for a quote before the locksmith begins work to avoid surprises.`,
+        `Common reasons people call a locksmith in ${loc} include being locked out of their home or car, needing locks changed after moving into a new property, repairing damaged or faulty locks, upgrading to high-security cylinders, and getting replacement keys cut. If your locks are old or you have recently had a break-in, a locksmith can advise on the best security upgrades for your property.`,
+      ],
+    }),
     ctaText: (loc) => `Need a locksmith in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated locksmiths in the ${shortName}`,

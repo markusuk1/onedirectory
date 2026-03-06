@@ -752,29 +752,44 @@ const NW_GUIDES: Guide[] = [
       {
         heading: "Start with reliability signals",
         content:
-          "Look at recent reviews, cancellation handling and communication quality. Operators who reply clearly about timings, pickup details and terms are usually easier to work with when plans change.",
+          "Look at recent Google reviews, cancellation handling and communication quality. Operators who reply clearly about timings, pickup details and terms are usually easier to work with when plans change. Pay attention to how quickly they respond to your initial enquiry and whether they provide a detailed written quote without you needing to chase. A company that is professional during the quoting stage is far more likely to deliver on the day. Check for reviews that specifically mention punctuality, vehicle condition and driver professionalism.",
       },
       {
         heading: "Confirm exactly what is included",
         content:
-          "Ask for a full written quote including vehicle size, luggage assumptions, waiting time policy, tolls, parking and any out-of-hours charges. This avoids 'extra fee' surprises later.",
+          "Ask for a full written quote including vehicle size, luggage assumptions, waiting time policy, tolls, parking and any out-of-hours charges. This avoids 'extra fee' surprises later. Many operators in the North West include a standard waiting time allowance (typically 15-30 minutes), but some charge from the moment the vehicle arrives. Parking at popular Manchester and Liverpool venues can also be an additional cost. Getting a line-by-line breakdown makes comparison between operators much easier and helps you spot quotes that look cheap but exclude important items.",
       },
       {
         heading: "Match vehicle to group and route",
         content:
-          "Check passenger count and luggage together. A group of 16 with airport luggage may need more space than a standard 16-seat setup. For city-centre pickups, ask whether the route has access restrictions or event-day road closures.",
+          "Check passenger count and luggage together. A group of 16 with airport luggage may need more space than a standard 16-seat setup. For city-centre pickups in Manchester or Liverpool, ask whether the route has access restrictions or event-day road closures. Request photos of the actual vehicle you will travel in, not just stock images. If anyone in your group has mobility requirements, ask about wheelchair access and step height. Confirm whether the vehicle has air conditioning, working seatbelts for all passengers and USB charging.",
+      },
+      {
+        heading: "Verify operator credentials",
+        content:
+          "Check that the operator holds a valid PSV operator's licence for commercial passenger transport. Verify they have appropriate insurance cover. You can look up operator licences through the Traffic Commissioner. Ask whether drivers are DBS-checked, particularly important for school trips and groups with young people. A reputable North West operator will be happy to provide this information. All companies listed in our directory have verified contact details and genuine customer reviews.",
+      },
+      {
+        heading: "Payment and cancellation terms",
+        content:
+          "Read the full payment and cancellation terms before confirming any booking. Most operators require a deposit of 20-50% at booking, with the balance due before travel. Cancellation policies vary widely across the North West: some offer full refunds for cancellations made 14+ days in advance, while others are non-refundable. Ask what happens if the operator needs to cancel or substitute a vehicle, and whether they have a backup arrangement. Keep all written confirmations and payment receipts.",
       },
     ],
     faq: [
       {
         question: "Should I always choose the cheapest quote?",
         answer:
-          "Not always. A slightly higher quote from a reliable operator with clear terms is often the safer choice for events where timing matters.",
+          "Not always. A slightly higher quote from a reliable operator with clear terms is often the safer choice for events where timing matters. The cheapest quote may be excluding waiting time, parking or evening surcharges that other operators include.",
       },
       {
         question: "What should I ask before confirming?",
         answer:
-          "Ask for final total price, cancellation policy, payment schedule, vehicle details, luggage capacity and contact details for the day of travel.",
+          "Ask for final total price, cancellation policy, payment schedule, vehicle details (make, model, age), luggage capacity, driver contact details for the day of travel, and what happens in case of breakdown or vehicle substitution.",
+      },
+      {
+        question: "How many quotes should I get?",
+        answer:
+          "We recommend getting at least three quotes from different operators. This gives you a realistic picture of the market rate and helps identify any outliers that are unusually cheap or expensive.",
       },
     ],
     relatedLocations: ["manchester", "liverpool", "warrington", "chester"],
@@ -797,29 +812,44 @@ const NW_GUIDES: Guide[] = [
       {
         heading: "Core cost factors",
         content:
-          "Distance, route complexity, pickup window, return wait time and vehicle size are the biggest drivers. Peak demand periods and late-evening returns also push quotes higher.",
+          "Distance, route complexity, pickup window, return wait time and vehicle size are the biggest drivers. Peak demand periods and late-evening returns also push quotes higher. A 30-mile trip with multiple stops and a midnight return will cost significantly more than the same distance as a straightforward daytime journey. In the North West, traffic congestion around Manchester city centre and the M60/M62 corridors can add time and fuel costs that operators factor into their pricing.",
       },
       {
         heading: "Why two quotes can differ a lot",
         content:
-          "Operators may include different assumptions: direct vs multi-stop route, waiting time included or not, driver break handling, tolls and parking. Always ask for a clear line-by-line summary.",
+          "Operators may include different assumptions: direct vs multi-stop route, waiting time included or not, driver break handling, tolls and parking. Always ask for a clear line-by-line summary. For example, one operator might include 30 minutes of free waiting time at your destination while another charges from the moment the vehicle arrives. Parking at popular Manchester and Liverpool venues can be £10-£30, which some operators include and others add on top. Tolls on the Mersey Gateway crossing are another common variable.",
+      },
+      {
+        heading: "Typical price ranges for the North West",
+        content:
+          "As a rough guide: a standard 16-seater minibus with driver costs £150-£400 for a local return trip in the North West, depending on distance and duration. A 24-33 seater midi-coach costs £250-£600. Airport transfers to Manchester Airport typically cost £100-£250 for a 16-seater. Party buses start from £200-£500 for a 3-4 hour evening hire. These ranges vary by operator, time of year and specific requirements, so always get multiple quotes.",
       },
       {
         heading: "How to compare quotes fairly",
         content:
-          "Compare the same journey specification across all quotes: exact pickup/dropoff points, times, passenger and luggage counts, and cancellation terms. This is the fastest way to identify the real best value option.",
+          "Compare the same journey specification across all quotes: exact pickup and dropoff points, times, passenger and luggage counts, vehicle type and cancellation terms. This is the fastest way to identify the real best value option. If one quote looks significantly cheaper than the others, check whether it excludes items that others include. A spreadsheet with columns for each inclusion makes comparison straightforward when you have three or more quotes to evaluate.",
+      },
+      {
+        heading: "Tips for reducing costs",
+        content:
+          "If your dates are flexible, midweek travel is typically 20-30% cheaper than Friday or Saturday evenings. Reducing the number of pickup stops shortens the journey time and lowers the price. Providing accurate luggage details ensures the right-sized vehicle is allocated, avoiding overspend on a larger vehicle you don't need. Booking well in advance gives you access to more operators and better availability. For regular bookings, ask operators about account rates or loyalty discounts.",
       },
     ],
     faq: [
       {
         question: "Do weekend bookings usually cost more?",
         answer:
-          "Yes, especially where demand is high. Event weekends and evening return windows are commonly priced at a premium.",
+          "Yes, especially on Friday and Saturday evenings when demand is highest. Event weekends and evening return windows are commonly priced at a premium. Sunday travel is often cheaper than Friday or Saturday.",
       },
       {
         question: "Can I reduce quote cost without changing date?",
         answer:
-          "Often yes: simplify stops, tighten pickup windows, and confirm accurate luggage count so the operator can allocate the most suitable vehicle.",
+          "Often yes: simplify stops, tighten pickup windows, confirm accurate luggage count so the operator can allocate the most suitable vehicle, and consider a slightly earlier return time to avoid late-night surcharges.",
+      },
+      {
+        question: "Are there hidden charges I should watch for?",
+        answer:
+          "Common extras that may not be in the headline price include waiting time, parking, tolls, out-of-hours surcharges and cleaning fees. Always ask for an all-inclusive quote with a written breakdown.",
       },
     ],
     relatedLocations: ["manchester", "preston", "bolton", "blackpool"],
@@ -837,31 +867,46 @@ const NW_GUIDES: Guide[] = [
       "Airport transfers are one of the most common quote types across the North West. Good planning avoids missed check-ins, overcrowded vehicles and expensive last-minute changes.",
     sections: [
       {
+        heading: "Choosing between Manchester and Liverpool airports",
+        content:
+          "Manchester Airport is the largest in the North West, with three terminals serving a wide range of domestic and international destinations. Liverpool John Lennon Airport is smaller but offers competitive fares, particularly on budget airlines. The best choice depends on your flight destination, departure time and the location of your group. If members are spread across Greater Manchester, a Manchester Airport pickup may be more convenient. Groups based in Merseyside, Cheshire or North Wales may find Liverpool quicker to reach. Compare total journey time and transfer cost alongside flight prices.",
+      },
+      {
         heading: "Work backward from flight constraints",
         content:
-          "Set your latest acceptable terminal arrival time first, then add route and buffer allowances. Share one final pickup schedule with all passengers to avoid delay cascades.",
+          "Set your latest acceptable terminal arrival time first, then work backward. For domestic flights, aim to arrive at the airport at least 90 minutes before departure. For international flights, allow at least 2-3 hours. Add your estimated journey time from the pickup point to the airport, then add a 30-45 minute buffer for traffic, road works or unexpected delays. The M56 approach to Manchester Airport can be congested during peak hours, particularly around Junction 5-6. Share one final pickup schedule with all passengers, including exact times and addresses, to avoid delay cascades.",
       },
       {
         heading: "Plan luggage realistically",
         content:
-          "Passenger count alone is not enough. Cases, cabin bags, pushchairs or sports equipment all affect vehicle suitability. Confirm luggage volume in writing when requesting quotes.",
+          "Passenger count alone is not enough. Each traveller may have a hold suitcase, cabin bag and personal items. Pushchairs, car seats, golf clubs and sports equipment take up significant boot space. A group of 12 with full holiday luggage may need an 18 or 24-seater to travel comfortably. Confirm the exact luggage breakdown in writing when requesting quotes so the operator allocates the right vehicle. Underestimating luggage is one of the most common problems on airport transfer day in the North West.",
       },
       {
         heading: "Return leg planning",
         content:
-          "For inbound flights, provide flight number and preferred contact method. Ask operators how they handle delays and where exactly the pickup point is for each terminal.",
+          "For inbound flights, provide the flight number and a preferred contact method so the operator can track your arrival and adjust pickup timing if the flight is delayed. Ask operators how they handle delays: most reputable companies monitor flights and offer a free waiting period of 30-60 minutes. Confirm the exact pickup point at the terminal, as Manchester Airport has different collection areas for each terminal. If your group is arriving on different flights, agree one meeting point and time before booking the return transfer.",
+      },
+      {
+        heading: "Costs and how to save",
+        content:
+          "Airport transfer prices in the North West depend on the distance, vehicle size and time of day. A 16-seater minibus transfer to Manchester Airport from central Manchester costs around £80-£150. From Liverpool or further afield, expect £150-£300. Early morning departures before 6am may carry a £20-£50 surcharge. Booking outbound and return together typically saves 10-15%. Request quotes from multiple operators through our directory to find the best rate for your specific route and schedule.",
       },
     ],
     faq: [
       {
         question: "Should I book return transfer at the same time?",
         answer:
-          "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns.",
+          "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns. The operator can also monitor your return flight for delays.",
       },
       {
         question: "Is Manchester always cheaper than Liverpool transfers?",
         answer:
-          "Not always. It depends on your start point, route and time window. Request both options where practical and compare on the same specification.",
+          "Not always. It depends on your start point, route and time window. Groups in Merseyside may find Liverpool cheaper, while those in Greater Manchester will usually pay less for Manchester Airport. Request quotes for both and compare on the same specification.",
+      },
+      {
+        question: "What happens if our flight is delayed on the return?",
+        answer:
+          "Most operators monitor flight arrivals and adjust pickup times. Policies vary: some offer free waiting up to 60 minutes, while others charge after 30 minutes. Clarify this when booking so you know what to expect.",
       },
     ],
     relatedLocations: ["manchester", "liverpool", "stockport", "warrington"],
@@ -3988,7 +4033,7 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       railHubs: ["Newcastle Central", "Sunderland", "Durham"],
       nightlifeAreas: ["Bigg Market", "Collingwood Street", "The Quayside"],
       localConstraint:
-        "A lot of North East journeys include A1/A19 corridors and can be affected by Tyne Tunnel / bridge traffic and matchday congestion near St James’ Park.",
+        "A lot of North East journeys include A1/A19 corridors and can be affected by Tyne Tunnel / bridge traffic and matchday congestion near St James' Park.",
     },
     scotland: {
       primaryCity: "Glasgow",
@@ -4030,7 +4075,7 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       primaryCity: "London",
       secondaryCities: ["Westminster", "Kensington", "Greenwich"],
       airports: ["Heathrow", "Gatwick", "Stansted", "Luton"],
-      railHubs: ["King’s Cross", "Euston", "Paddington", "Waterloo"],
+      railHubs: ["King's Cross", "Euston", "Paddington", "Waterloo"],
       nightlifeAreas: ["Soho", "Shoreditch", "Clapham"],
       localConstraint:
         "ULEZ, congestion charging, coach access rules and limited drop-off bays make exact pickup planning more important than almost anywhere else in the UK.",
@@ -4048,10 +4093,10 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       primaryCity: "Bristol",
       secondaryCities: ["Bath", "Exeter", "Plymouth"],
       airports: ["Bristol Airport"],
-      railHubs: ["Bristol Temple Meads", "Exeter St David’s", "Plymouth"],
+      railHubs: ["Bristol Temple Meads", "Exeter St David's", "Plymouth"],
       nightlifeAreas: ["Harbourside", "Clifton", "Park Street"],
       localConstraint:
-        "Rural/coastal routes, seasonal traffic and limited motorway coverage in some areas mean distance isn’t the only factor—route realism matters.",
+        "Rural/coastal routes, seasonal traffic and limited motorway coverage in some areas mean distance isn't the only factor—route realism matters.",
     },
     wales: {
       primaryCity: "Cardiff",
@@ -4078,38 +4123,49 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       metaDescription: `A practical guide to comparing operators, vehicles and terms in ${site.shortName} so you can book with confidence.`,
       h1: `How to Choose a Minibus Operator in ${site.shortName}`,
       intro:
-        `If you’re comparing quotes in ${site.region}, the best option is rarely just “the cheapest”. Use this guide to compare like-for-like and avoid the most common booking mistakes.`,
+        `If you're comparing quotes in ${site.region}, the best option is rarely just "the cheapest". Use this guide to compare like-for-like and avoid the most common booking mistakes.`,
       sections: [
         {
           heading: "Start with the itinerary specification",
           content:
-            `Before you compare prices, make sure every operator is quoting on the same route and timing. Confirm pickup points, number of stops, and a realistic return window. This matters a lot around ${pack.nightlifeAreas[0]}-style night demand and event exits.`,
+            `Before you compare prices, make sure every operator is quoting on the same route and timing. Confirm exact pickup addresses, number of stops, and a realistic return window. This matters a lot around ${pack.nightlifeAreas[0]}-style night demand and event exits. Operators in ${site.region} sometimes quote different routes for the same journey, which makes price comparisons misleading. Write out a single specification document with pickup time, pickup address, destination, return time and return address, then send the same document to every operator you contact.`,
         },
         {
           heading: "Check vehicle suitability (not just seats)",
           content:
-            "Ask about luggage, accessibility needs, and the exact vehicle type. A 16-seater with limited luggage space can be a bad fit for airport runs even if the seat count is correct.",
+            `Ask about luggage capacity, accessibility needs, and the exact vehicle type. A 16-seater with limited luggage space can be a bad fit for airport runs even if the seat count is correct. Request photos of the actual vehicle you will be travelling in, not just stock images. Confirm whether the vehicle has air conditioning, USB charging, seatbelts for all passengers, and adequate boot or underfloor storage. If anyone in your group has mobility requirements, ask about wheelchair access or low-floor entry options. Getting vehicle details in writing avoids the common problem of a different or smaller vehicle turning up on the day.`,
         },
         {
           heading: "Validate reliability signals",
           content:
-            "Look for clear written confirmation, responsive communication, and transparent terms. Reviews help, but consistency and professionalism in quoting is often the strongest signal.",
+            `Look for clear written confirmation, responsive communication, and transparent terms. Reviews help, but consistency and professionalism in quoting is often the strongest signal. A reliable operator will respond to your enquiry within 24 hours, provide a detailed written quote without you having to chase for information, and answer follow-up questions clearly. Check Google reviews with a focus on recent feedback, as a company's service quality can change over time. Look specifically for reviews mentioning punctuality, communication and vehicle condition rather than just an overall star rating.`,
+        },
+        {
+          heading: "Understand payment and cancellation terms",
+          content:
+            `Before confirming any booking, read the full payment and cancellation terms. Most operators in ${site.region} require a deposit of 20-50% at the time of booking, with the balance due before or on the day of travel. Cancellation policies vary widely: some offer full refunds up to 14 days before travel, while others are non-refundable. Ask whether the operator has public liability insurance and an operator's licence (O-licence) for vehicles carrying passengers for hire or reward. These are legal requirements and a basic indicator of a legitimate business.`,
         },
         {
           heading: "Account for local constraints",
-          content: pack.localConstraint,
+          content:
+            `${pack.localConstraint} When planning group travel in ${site.region}, always factor in local road conditions, event traffic and seasonal variations. Ask the operator whether they are familiar with the specific route and pickup locations you need. An operator based locally will usually have better knowledge of traffic patterns, parking restrictions and alternative routes than one travelling in from further afield.`,
         },
       ],
       faq: [
         {
           question: "Should I book the cheapest quote?",
           answer:
-            "Only if the scope matches: route, timing, inclusions and vehicle type. The cheapest quote is often missing waiting time, extra stops, or realistic luggage assumptions.",
+            "Only if the scope matches: route, timing, inclusions and vehicle type. The cheapest quote is often missing waiting time, extra stops, or realistic luggage assumptions. A slightly higher quote from a responsive operator with clear terms is usually a better choice for important journeys.",
         },
         {
           question: "What information makes quotes more accurate?",
           answer:
-            "Exact addresses, pickup times, number of passengers, luggage volume, and whether the return time is fixed or flexible.",
+            "Exact addresses, pickup times, number of passengers, luggage volume, and whether the return time is fixed or flexible. The more detail you provide upfront, the more accurate the quote will be and the less likely you are to face additional charges on the day.",
+        },
+        {
+          question: "How many quotes should I get?",
+          answer:
+            "We recommend getting at least three quotes from different operators. This gives you a good sense of the market rate and helps you identify any quotes that are unusually high or suspiciously low. Use our directory to find verified operators and our managed quote service to save time.",
         },
       ],
       relatedLocations: [],
@@ -4125,33 +4181,49 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       metaDescription: `Understand what drives minibus and coach quote pricing in ${site.shortName} so you can compare offers fairly.`,
       h1: `Minibus & Coach Pricing in ${site.shortName}: What Affects Cost`,
       intro:
-        `Two quotes can differ a lot even when both are “legit”. This guide explains the key pricing drivers in ${site.region} so you can compare offers fairly and avoid hidden mismatches.`,
+        `Two quotes can differ significantly even when both are from reputable operators. This guide explains the key pricing drivers in ${site.region} so you can compare offers fairly and avoid hidden mismatches. Understanding how operators calculate their prices puts you in a much stronger position when requesting and comparing quotes.`,
       sections: [
         {
           heading: "Route and timing assumptions",
           content:
-            "Distance matters, but timing windows (especially late-night returns) and number of stops often matter more. Make sure you’re comparing the same pickup/return specification.",
+            `Distance matters, but timing windows (especially late-night returns) and number of stops often matter more. A 30-mile trip with three pickup stops and a midnight return will cost significantly more than a 30-mile single-pickup daytime journey. Make sure every operator is quoting on the same pickup and return specification. Ask for a breakdown that shows the base journey cost, any waiting time charges, and surcharges for evening or weekend travel. In ${site.region}, peak demand periods like Friday and Saturday evenings, bank holidays and major event dates typically carry a premium of 20-40% over midweek daytime rates.`,
         },
         {
           heading: "Vehicle allocation and capacity",
           content:
-            "A larger or more premium vehicle costs more, and luggage/comfort requirements can push you into a different vehicle class. Confirm the allocated vehicle type in writing.",
+            `A larger or more premium vehicle costs more, and luggage or comfort requirements can push you into a different vehicle class. For example, a group of 14 with suitcases may need a 24-seater to accommodate the luggage, even though a 16-seater has enough seats. Executive and luxury vehicles cost more than standard minibuses, as do vehicles with additional features like on-board WiFi, tables or entertainment systems. Always confirm the allocated vehicle type in writing. If the operator needs to substitute a different vehicle, they should inform you in advance.`,
         },
         {
           heading: "Waiting time and event exits",
           content:
-            `Waiting time is a common hidden factor. For venues and nightlife areas like ${pack.nightlifeAreas.slice(0, 2).join(" and ")}, pickups can be delayed—ask how operators price waiting and late returns.`,
+            `Waiting time is a common hidden factor that explains why two quotes for the same journey can look very different. For venues and nightlife areas like ${pack.nightlifeAreas.slice(0, 2).join(" and ")}, pickups can be delayed by 30 minutes or more due to venue closing times and exit congestion. Some operators include a set amount of waiting time in their quote (typically 15-30 minutes), while others charge from the moment the vehicle arrives. Ask specifically how each operator handles waiting time and what happens if your group is late. This is especially important for event pickups, concert exits and late-night returns.`,
+        },
+        {
+          heading: "Typical price ranges",
+          content:
+            `As a rough guide for ${site.region}: a standard 16-seater minibus with driver costs £150-£400 for a local return trip, depending on distance and duration. A 24-33 seater midi-coach costs £250-£600. A full-size 49-53 seater coach costs £400-£1,000+. Airport transfers typically cost £100-£300 for a 16-seater depending on distance. Party buses start from £200-£500 for a 3-4 hour evening hire. These are indicative ranges only, as prices vary by operator, time of year and specific requirements.`,
         },
         {
           heading: "Local constraints that impact cost",
-          content: pack.localConstraint,
+          content:
+            `${pack.localConstraint} These local factors can add time and fuel costs to a journey, which operators factor into their pricing. When comparing quotes, bear in mind that an operator who accounts for these factors upfront is being more honest than one who quotes low and adds charges later. If you are unsure whether a quote accounts for local conditions, ask the operator to explain their route and timing assumptions.`,
         },
       ],
       faq: [
         {
           question: "How can we reduce cost without changing the date?",
           answer:
-            "Simplify the route, reduce the number of stops, tighten pickup windows, and provide accurate luggage details so the right vehicle is allocated first time.",
+            "Simplify the route by reducing the number of pickup stops, tighten the pickup window so the vehicle spends less time waiting, and provide accurate luggage details so the right vehicle is allocated first time. Sharing the journey with another group or choosing a slightly earlier return time can also bring the price down.",
+        },
+        {
+          question: "Do weekend bookings always cost more?",
+          answer:
+            "Usually yes, especially on Friday and Saturday evenings when demand is highest. Sunday travel is often cheaper than Friday or Saturday. If your dates are flexible, asking for midweek availability can save 20-30% on typical weekend rates.",
+        },
+        {
+          question: "Why is one quote much cheaper than the others?",
+          answer:
+            "A significantly cheaper quote may be excluding items that other operators include, such as waiting time, parking charges, tolls or out-of-hours surcharges. It could also indicate a smaller or older vehicle, or an operator with less insurance cover. Always compare what is included, not just the headline price.",
         },
       ],
       relatedLocations: [],
@@ -4164,34 +4236,49 @@ function getRegionalDeepDiveMinibusGuides(): Guide[] {
       metaDescription: `Plan group airport transport in ${site.shortName} with practical tips on timing, luggage and pickup coordination.`,
       h1: `Airport Transfer Planning in ${site.shortName}`,
       intro:
-        `Airport transfers are one of the most common quote types in ${site.region}. Good planning avoids missed check-ins, overcrowded vehicles and expensive last-minute changes.`,
+        `Airport transfers are one of the most common quote types in ${site.region}. Whether you are heading on a family holiday, a stag or hen weekend, or a business trip, good planning avoids missed check-ins, overcrowded vehicles and expensive last-minute changes. This guide covers everything you need to know about booking group airport transport in ${site.shortName}.`,
       sections: [
         {
           heading: "Choose the right airport and rail hub",
           content:
-            `Common airport options include ${pack.airports.join(", ")}. Major rail hubs like ${pack.railHubs.slice(0, 3).join(", ")} are useful pickup anchors when groups are travelling from multiple areas.`,
+            `Common airport options for travellers in ${site.region} include ${pack.airports.join(", ")}. The best choice depends on your flight destination, airline and group location. Major rail hubs like ${pack.railHubs.slice(0, 3).join(", ")} are useful pickup anchors when group members are travelling from multiple areas and need a central meeting point. Compare the total travel time and cost to each airport, including parking and transfer fees, as a slightly further airport with cheaper flights can still work out better overall.`,
         },
         {
           heading: "Work backward from flight constraints",
           content:
-            "Set your latest acceptable terminal arrival time first, then add route and buffer allowances. Share one final pickup schedule with all passengers to avoid delay cascades.",
+            `Set your latest acceptable terminal arrival time first, then work backward. For domestic flights, aim to arrive at the airport at least 90 minutes before departure. For international flights, allow at least 2-3 hours. Add your estimated journey time from the pickup point to the airport, then add a buffer of 30-45 minutes for traffic, road works or unexpected delays. Share one final pickup schedule with all passengers, including exact times and addresses, to avoid delay cascades where one late passenger holds up the entire group.`,
         },
         {
           heading: "Plan luggage realistically",
           content:
-            "Passenger count alone is not enough. Cases, cabin bags, pushchairs or sports equipment all affect vehicle suitability. Confirm luggage volume in writing when requesting quotes.",
+            `Passenger count alone is not enough when sizing a vehicle for airport transfers. Each passenger may have a full-size suitcase, a cabin bag and personal items. Pushchairs, car seats, sports equipment and musical instruments all take up significant space. A group of 10 with hold luggage may need a 16 or even 24-seater to fit everyone and their bags comfortably. Confirm the exact luggage breakdown in writing when requesting quotes so the operator allocates the right vehicle. Underestimating luggage is one of the most common causes of problems on airport transfer day.`,
         },
         {
           heading: "Return leg planning",
           content:
-            `Provide flight number and preferred contact method. Confirm the exact terminal pickup point and how delays are handled. If your group is splitting across ${cities.slice(0, 3).join(", ")}, agree one clear meeting point first.`,
+            `For inbound transfers, provide the flight number and a preferred contact method so the operator can track your arrival and adjust pickup timing if the flight is delayed. Confirm the exact terminal pickup point and how delays are handled, as some operators charge waiting time after a set grace period (typically 30-60 minutes for flight delays). If your group is splitting across ${cities.slice(0, 3).join(", ")}, agree one clear meeting point at the airport rather than trying to coordinate multiple pickups across terminals.`,
+        },
+        {
+          heading: "How much do airport transfers cost?",
+          content:
+            `Airport transfer prices in ${site.region} depend on the distance, vehicle size and time of day. A 16-seater minibus transfer typically costs £100-£300 depending on distance. Early morning departures (before 6am) and late-night returns may carry a surcharge of £20-£50. Booking outbound and return together usually saves 10-15% compared to booking separately. Prices also vary by operator, so we recommend getting at least three quotes through our directory or managed quote service to find the best rate.`,
         },
       ],
       faq: [
         {
           question: "Should I book the return transfer at the same time?",
           answer:
-            "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns.",
+            "Yes. Bundling outbound and return usually gives cleaner logistics and often better pricing than arranging separate last-minute returns. The operator can also monitor your return flight for delays.",
+        },
+        {
+          question: "What happens if our flight is delayed?",
+          answer:
+            "Most operators monitor flight arrivals using tracking tools and adjust pickup times accordingly. However, policies vary: some offer a free waiting period of 30-60 minutes for flight delays, while others charge from the scheduled pickup time. Clarify this before booking.",
+        },
+        {
+          question: "Can the minibus wait at the airport while we fly?",
+          answer:
+            "This is not standard practice. Airport parking for large vehicles is expensive and operators prefer to return to base and come back for the return pickup. If you need the vehicle to wait, expect to pay significantly more to cover the driver's time and parking fees.",
         },
       ],
       relatedLocations: [],
@@ -4240,29 +4327,44 @@ function getRegionalBoostGuides(): Guide[] {
       metaDescription: `A practical checklist to compare quotes, vehicles and terms before booking in ${site.shortName}.`,
       h1: `How to Compare Minibus Operators in ${site.shortName}`,
       intro:
-        `Use this guide to compare operators in ${site.region} with a like-for-like checklist before you commit to a booking.`,
+        `Use this guide to compare operators in ${site.region} with a like-for-like checklist before you commit to a booking. With dozens of minibus and coach hire companies operating across the region, taking a structured approach helps you find the best combination of price, reliability and service quality.`,
       sections: [
         {
           heading: "Check quote scope first",
           content:
-            "Confirm what is included: route details, waiting time, tolls/parking, luggage assumptions and any out-of-hours charges.",
+            `Confirm what is included in each quote: route details (pickup addresses, stops, destination), waiting time allowances, tolls and parking charges, luggage assumptions, and any out-of-hours surcharges. Two quotes that look different may actually cover the same journey, with one including extras that the other charges separately. Ask every operator to provide a written breakdown so you can compare line by line. A transparent operator will be happy to explain exactly what is and is not included in their price.`,
         },
         {
           heading: "Check vehicle fit",
           content:
-            "Passenger count and luggage volume should be confirmed in writing so the allocated vehicle is suitable on the day.",
+            `Passenger count and luggage volume should be confirmed in writing so the allocated vehicle is suitable on the day. Request the specific vehicle make, model and age. Ask for photos of the interior and exterior. Confirm whether the vehicle has working seatbelts for all passengers, air conditioning, and adequate luggage space. If anyone in your group has mobility requirements, ask about wheelchair access, step height and aisle width. Getting this confirmed in advance avoids the common problem of a vehicle arriving that does not suit your group.`,
+        },
+        {
+          heading: "Verify operator credentials",
+          content:
+            `Check that the operator holds a valid Public Service Vehicle (PSV) operator's licence if they are carrying passengers for hire or reward. This is a legal requirement for commercial passenger transport. Verify they have public liability insurance and that their vehicles are properly maintained and MOT-tested. You can check operator licences on the Traffic Commissioner's website. All operators listed in our ${site.shortName} directory have been verified with up-to-date contact details and genuine customer reviews.`,
         },
         {
           heading: "Check risk terms",
           content:
-            "Read payment and cancellation terms carefully and keep one written itinerary shared with all attendees.",
+            `Read payment and cancellation terms carefully before confirming. Typical deposit requirements range from 20-50% of the total cost, with the balance due before or on the day of travel. Cancellation policies vary: some operators offer full refunds for cancellations made 14+ days in advance, while others are non-refundable from the point of booking. Ask what happens if the operator needs to cancel or substitute a vehicle, and whether they have a backup arrangement. Keep one written itinerary with the confirmed booking reference shared with all attendees.`,
+        },
+        {
+          heading: "Communication and responsiveness",
+          content:
+            `How an operator communicates during the quoting process is a strong indicator of how they will perform on the day. A reliable operator responds to enquiries promptly, answers questions clearly and provides written confirmation of all details. If an operator is slow to respond, vague about details or reluctant to put things in writing during the booking stage, this is a warning sign. The best operators in ${site.region} make the booking process straightforward and keep you informed at every stage.`,
         },
       ],
       faq: [
         {
           question: "Should I pick the lowest quote automatically?",
           answer:
-            "Not always. The best value is usually the quote with clear inclusions, realistic capacity and reliable communication.",
+            "Not always. The best value is usually the quote with clear inclusions, realistic capacity and reliable communication. A low price that excludes waiting time, parking or evening surcharges may end up costing more than a higher quote that includes everything.",
+        },
+        {
+          question: "How far in advance should I book?",
+          answer:
+            "For standard journeys, booking 2-4 weeks ahead is usually sufficient. For peak dates like weekends, bank holidays, prom season and the Christmas party period, book 4-8 weeks ahead. Popular vehicles sell out quickly during these periods.",
         },
       ],
       relatedLocations: [],
@@ -4275,24 +4377,39 @@ function getRegionalBoostGuides(): Guide[] {
       metaDescription: `Understand what drives quote pricing in ${site.shortName} so you can compare offers fairly.`,
       h1: `Minibus Pricing in ${site.shortName}: What Affects Cost`,
       intro:
-        `Quote differences are usually caused by route assumptions, timing windows and vehicle allocation. This guide breaks it down clearly for ${site.region}.`,
+        `Quote differences are usually caused by route assumptions, timing windows and vehicle allocation. This guide breaks down the main pricing factors clearly for ${site.region}, helping you understand why quotes vary and how to compare them fairly.`,
       sections: [
         {
           heading: "Main cost drivers",
           content:
-            "Distance, pickup timing, return waiting, vehicle size and demand periods are the biggest pricing factors.",
+            `Distance is the starting point for most quotes, but it is rarely the only factor. Pickup timing matters because early morning and late-night journeys require the driver to work unsociable hours. The number of stops adds time and fuel costs. Return waiting time, where the driver waits while your group is at a venue or event, is often the biggest variable between quotes. Vehicle size directly affects cost: a 24-seater costs more to run than a 16-seater, and executive or luxury vehicles carry a premium over standard models. Finally, demand periods like Friday and Saturday evenings, bank holidays and major events push prices up across ${site.region}.`,
         },
         {
           heading: "Hidden mismatch issues",
           content:
-            "Two quotes may look different because one includes extras (parking, waiting, late-return handling) while another excludes them.",
+            `Two quotes may look very different because one includes extras while the other excludes them. Common hidden extras include parking charges at the destination, toll fees on motorways or bridges, waiting time beyond a basic allowance, late-return surcharges, and additional stops not specified in the original enquiry. Some operators quote a base price and add these extras on the day, while others include everything upfront. Always ask for an all-inclusive price and a written breakdown of what is and is not included. This is the only way to make a genuine like-for-like comparison.`,
+        },
+        {
+          heading: "Vehicle class and upgrades",
+          content:
+            `Standard minibuses and coaches are the most affordable option and perfectly suitable for most journeys. Executive vehicles with leather seats, extra legroom and on-board amenities cost 30-50% more. Party buses with sound systems and lighting are priced as specialist vehicles and follow different rate structures. If comfort and presentation matter for your journey (corporate events, weddings), specify this upfront so operators quote the right vehicle class from the start rather than substituting on the day.`,
+        },
+        {
+          heading: "Seasonal and demand-based pricing",
+          content:
+            `Prices in ${site.region} fluctuate throughout the year. Peak periods include prom season (June-July), the summer holiday period, the Christmas party season (November-December), and major sporting or cultural events. During these periods, vehicles book up quickly and prices are typically 20-40% higher than off-peak rates. If your dates are flexible, travelling midweek or during quieter months can save a significant amount. Booking well in advance also helps, as last-minute bookings during peak periods often carry a premium.`,
         },
       ],
       faq: [
         {
-          question: "Can we reduce cost without changing date?",
+          question: "Can we reduce cost without changing the date?",
           answer:
-            "Often yes: simplify stops, tighten pickup windows and share accurate luggage details.",
+            "Often yes. Simplify the route by reducing the number of stops, tighten pickup windows so the driver spends less time waiting, provide accurate luggage details so the right vehicle is allocated, and consider a slightly earlier return time to avoid late-night surcharges.",
+        },
+        {
+          question: "Why are evening and weekend bookings more expensive?",
+          answer:
+            "Demand is highest on Friday and Saturday evenings, which means operators can fill their vehicles more easily and charge accordingly. Drivers working evenings and weekends also incur unsociable hours, and the operating costs (fuel, wear) are the same regardless of the time of day.",
         },
       ],
       relatedLocations: [],
@@ -4305,24 +4422,44 @@ function getRegionalBoostGuides(): Guide[] {
       metaDescription: `A practical event transport checklist for reliable group travel planning in ${site.shortName}.`,
       h1: `Event Transport Checklist for ${site.shortName}`,
       intro:
-        `For events in ${site.region}, transport failures are usually planning failures. Use this checklist to keep group travel reliable.`,
+        `For events in ${site.region}, transport failures are usually planning failures. Whether you are organising a wedding, corporate event, school trip, sports fixture or celebration, this checklist helps you plan group travel that runs smoothly on the day.`,
       sections: [
         {
           heading: "Before requesting quotes",
           content:
-            "Lock attendee count, pickup windows, accessibility needs and luggage assumptions first.",
+            `Lock down the key details before you contact any operators. Confirm the final attendee count, pickup and drop-off addresses, timing windows, any accessibility requirements (wheelchair access, step-free entry), and luggage or equipment needs. For events in ${site.region}, also consider whether the venue has access restrictions for large vehicles, and whether there are any road closures or events on the same date that could affect journey times. The more complete your specification, the more accurate your quotes will be.`,
+        },
+        {
+          heading: "Comparing and selecting operators",
+          content:
+            `Request at least three quotes from verified operators in ${site.region}. Compare them on a like-for-like basis using the same journey specification. Look beyond the headline price: check what is included (waiting time, parking, tolls), the cancellation policy, and the specific vehicle being allocated. Read recent Google reviews, particularly any that mention events similar to yours. Choose an operator who communicates clearly and provides written confirmation of all details.`,
         },
         {
           heading: "Before travel day",
           content:
-            "Confirm one master itinerary, emergency contacts and exact pickup points for all attendees.",
+            `One week before the event, confirm the booking with the operator and reconfirm all details: pickup time, pickup address, destination, return arrangements, and the driver's contact number. Create one master itinerary document with all this information and share it with every attendee. Include emergency contacts for both the event organiser and the transport operator. If the event is outdoors or weather-dependent, have a contingency plan for transport in case of changes.`,
+        },
+        {
+          heading: "On travel day",
+          content:
+            `Have all attendees arrive at the pickup point at least 10 minutes before the scheduled departure time. Designate one person as the transport coordinator who communicates directly with the driver. Keep the driver's mobile number to hand in case of delays or changes. If the group splits across multiple vehicles, ensure each vehicle has a coordinator who knows the schedule. On arrival, confirm the return pickup time and location with the driver before they leave.`,
+        },
+        {
+          heading: "Common mistakes to avoid",
+          content:
+            `The most common event transport mistakes are: underestimating the number of attendees (always book for the confirmed count plus 10% buffer), forgetting about luggage or equipment space, providing vague pickup instructions that cause confusion on the day, not confirming the booking close to the event date, and not having a backup contact if the main organiser is unavailable. Avoid making last-minute changes to the route or timing, as these can incur additional charges and cause logistical problems.`,
         },
       ],
       faq: [
         {
           question: "What causes most event transport issues?",
           answer:
-            "Late attendee changes, unclear pickup instructions and underestimated luggage are the most common avoidable issues.",
+            "Late attendee changes, unclear pickup instructions and underestimated luggage are the most common avoidable issues. Most problems can be prevented by locking down details early and sharing a clear itinerary with all attendees before travel day.",
+        },
+        {
+          question: "How early should I book event transport?",
+          answer:
+            "For standard events, 3-4 weeks ahead is usually sufficient. For weddings, proms and large corporate events, book 6-12 weeks in advance, especially if the event falls on a popular weekend. Peak dates in summer and December book up quickly.",
         },
       ],
       relatedLocations: [],
