@@ -1,12 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
-import { Resend } from "resend";
+import { sendEmail } from "@/lib/email";
 import pool, { initDb } from "@/lib/db";
 import { getSiteId, getSiteConfig } from "@/lib/siteConfig";
 import { getPostHogClient } from "@/lib/posthog-server";
-
-const resend = process.env.RESEND_API_KEY
-  ? new Resend(process.env.RESEND_API_KEY)
-  : null;
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
@@ -45,7 +41,7 @@ export async function POST(request: NextRequest) {
     );
 
     // Send email notification
-    if (resend && NOTIFY_EMAIL) {
+    if (NOTIFY_EMAIL) {
       const businessLine = body.businessName
         ? `<tr><td style="padding:4px 8px;font-weight:600">Business</td><td style="padding:4px 8px">${body.businessName}</td></tr>`
         : "";
@@ -89,10 +85,10 @@ export async function POST(request: NextRequest) {
         `;
       }
 
-      const fromAddress = "Hire UK Quotes <quotes@hirenortheast.co.uk>";
+      const fromAddress = "Hire UK Quotes <notify@hirenortheast.co.uk>";
 
       // Admin notification
-      await resend.emails.send({
+      await sendEmail({
         from: fromAddress,
         to: NOTIFY_EMAIL,
         subject: `New ${productLabel} Quote — ${site.shortName}${body.businessName ? ` — ${body.businessName}` : ""}`,
@@ -109,13 +105,14 @@ export async function POST(request: NextRequest) {
             ${body.message ? `<tr><td style="padding:4px 8px;font-weight:600">Message</td><td style="padding:4px 8px">${body.message}</td></tr>` : ""}
           </table>
         `,
-      }).catch((err) => console.error("Email notification failed:", err));
+      }).catch((err: unknown) => console.error("Email notification failed:", err));
 
       // Customer auto-confirmation
       if (body.email) {
-        await resend.emails.send({
+        await sendEmail({
           from: fromAddress,
           to: body.email,
+          replyTo: "mark@hirenortheast.co.uk",
           subject: `We've received your ${productLabel.toLowerCase()} quote request`,
           html: `
             <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto">
@@ -130,7 +127,7 @@ export async function POST(request: NextRequest) {
               <p style="margin:8px 0 0;color:#666;font-size:14px">— ${site.name}</p>
             </div>
           `,
-        }).catch((err) => console.error("Customer confirmation email failed:", err));
+        }).catch((err: unknown) => console.error("Customer confirmation email failed:", err));
       }
     }
 

@@ -1,9 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
-import { Resend } from "resend";
+import { sendEmail } from "@/lib/email";
 import pool, { initDb } from "@/lib/db";
 import { getSiteConfig, getSiteId } from "@/lib/siteConfig";
 
-const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
 export async function POST(request: NextRequest) {
@@ -29,9 +28,9 @@ export async function POST(request: NextRequest) {
       ["feedback", siteId, name, email, message, ip, userAgent]
     );
 
-    if (resend && NOTIFY_EMAIL) {
-      await resend.emails.send({
-        from: "Hire UK Feedback <quotes@hirenortheast.co.uk>",
+    if (NOTIFY_EMAIL) {
+      await sendEmail({
+        from: "Hire UK Feedback <notify@hirenortheast.co.uk>",
         to: NOTIFY_EMAIL,
         subject: `New website feedback — ${site.shortName}`,
         html: `
