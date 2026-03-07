@@ -64,6 +64,18 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
           location: getValue("location"),
         },
       };
+    } else if (productId === "removal-companies") {
+      data = {
+        ...base,
+        details: {
+          moveType: getValue("moveType"),
+          bedrooms: getValue("bedrooms"),
+          movingFrom: getValue("movingFrom"),
+          movingTo: getValue("movingTo"),
+          moveDate: getValue("moveDate"),
+          needPacking: getValue("needPacking"),
+        },
+      };
     } else {
       data = {
         ...base,
@@ -103,7 +115,7 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
 
   if (submitted) {
     const productLabel =
-      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : "hire";
+      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : productId === "removal-companies" ? "removal" : "hire";
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -211,6 +223,22 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
               <option value="key-cutting">Key Cutting</option>
               <option value="auto-locksmith">Auto Locksmith (Vehicle)</option>
               <option value="security-upgrade">Security Upgrade</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        )}
+        {productId === "removal-companies" && (
+          <div>
+            <label htmlFor="moveType" className="block text-sm font-medium text-text mb-1">
+              Type of Move *
+            </label>
+            <select id="moveType" name="moveType" required className={inputClass}>
+              <option value="">Select...</option>
+              <option value="house">House / Flat Move</option>
+              <option value="office">Office / Commercial</option>
+              <option value="man-and-van">Man & Van (small move)</option>
+              <option value="storage">Moving to Storage</option>
+              <option value="international">International Move</option>
               <option value="other">Other</option>
             </select>
           </div>
@@ -385,6 +413,73 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
         </>
       )}
 
+      {/* Removal companies specific fields */}
+      {productId === "removal-companies" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="bedrooms" className="block text-sm font-medium text-text mb-1">
+                Number of Bedrooms
+              </label>
+              <select id="bedrooms" name="bedrooms" className={inputClass}>
+                <option value="">N/A or not sure</option>
+                <option value="studio">Studio / 1 room</option>
+                <option value="1">1 Bedroom</option>
+                <option value="2">2 Bedrooms</option>
+                <option value="3">3 Bedrooms</option>
+                <option value="4">4 Bedrooms</option>
+                <option value="5+">5+ Bedrooms</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="moveDate" className="block text-sm font-medium text-text mb-1">
+                Moving Date *
+              </label>
+              <input type="date" id="moveDate" name="moveDate" min={minDate} required className={inputClass} />
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="movingFrom" className="block text-sm font-medium text-text mb-1">
+                Moving From *
+              </label>
+              <input
+                type="text"
+                id="movingFrom"
+                name="movingFrom"
+                required
+                placeholder="e.g. NE1 4ST or 12 High Street, Newcastle"
+                className={inputClass}
+              />
+            </div>
+            <div>
+              <label htmlFor="movingTo" className="block text-sm font-medium text-text mb-1">
+                Moving To *
+              </label>
+              <input
+                type="text"
+                id="movingTo"
+                name="movingTo"
+                required
+                placeholder="e.g. LS1 5DL or 24 Park Lane, Leeds"
+                className={inputClass}
+              />
+            </div>
+          </div>
+          <div>
+            <label htmlFor="needPacking" className="block text-sm font-medium text-text mb-1">
+              Do You Need a Packing Service?
+            </label>
+            <select id="needPacking" name="needPacking" className={inputClass}>
+              <option value="no">No — I&apos;ll pack myself</option>
+              <option value="yes">Yes — full packing service</option>
+              <option value="partial">Partial — fragile items only</option>
+              <option value="not-sure">Not sure yet</option>
+            </select>
+          </div>
+        </>
+      )}
+
       {/* Minibus hire specific fields */}
       {productId === "minibus-hire" && (
         <>
@@ -492,7 +587,9 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
                 ? "What you're moving, any special requirements..."
                 : productId === "locksmith"
                   ? "Describe the issue, e.g. locked out, broken lock, key snapped..."
-                  : "Any special requirements, luggage, accessibility needs..."
+                  : productId === "removal-companies"
+                    ? "Large or specialist items, access issues, floors/lifts, storage needs..."
+                    : "Any special requirements, luggage, accessibility needs..."
           }
           className={inputClass}
         />

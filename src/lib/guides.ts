@@ -3,6 +3,7 @@ import type { ProductId } from "./productConfig";
 import { getVanHireGuides } from "./guides-vanhire";
 import { getSkipHireGuides } from "./guides-skiphire";
 import { getLocksmithGuides } from "./guides-locksmith";
+import { getRemovalGuides } from "./guides-removals";
 
 export interface Guide {
   slug: string;
@@ -4456,7 +4457,8 @@ function getGuides(): Guide[] {
   const van = getVanHireGuides();
   const skip = getSkipHireGuides();
   const locksmith = getLocksmithGuides();
-  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith];
+  const removals = getRemovalGuides();
+  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith, ...removals];
 }
 
 export const GUIDES: Guide[] = getGuides();

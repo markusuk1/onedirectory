@@ -15,6 +15,7 @@ import {
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
 import BusinessCard from "@/components/business/BusinessCard";
+import AdBanner from "@/components/ads/AdBanner";
 
 export async function generateStaticParams() {
   const params: { product: string; location: string }[] = [];
@@ -141,6 +142,13 @@ export default async function ProductLocationPage({
               {location.businessCount === 1 ? "company" : "companies"}
             </span>
           </div>
+        </div>
+      </section>
+
+      {/* Sponsored ad */}
+      <section className="py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdBanner site={site.id} placement="location_page" product={product} />
         </div>
       </section>
 

@@ -11,6 +11,7 @@ import {
 import type { ProductId } from "@/lib/productConfig";
 import BusinessCard from "@/components/business/BusinessCard";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
+import AdBanner from "@/components/ads/AdBanner";
 
 export async function generateStaticParams() {
   return PRODUCT_SLUGS.map((product) => ({ product }));
@@ -155,6 +156,13 @@ export default async function ProductHomePage({
           </div>
         </section>
       )}
+
+      {/* Sponsored ad */}
+      <section className="py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdBanner site={site.id} placement="product_page" product={productId} />
+        </div>
+      </section>
 
       {/* Locations grid */}
       <section id="browse" className="bg-surface py-12 md:py-16">

@@ -1,10 +1,12 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import {
   getAllBusinesses,
   getBusinessBySlug,
   getBusinessesByLocation,
+  getBusinessWithOverrides,
   getLocationBySlugWithCount,
 } from "@/lib/data";
 import StarRating from "@/components/business/StarRating";
@@ -12,6 +14,7 @@ import ClickToReveal from "@/components/business/ClickToReveal";
 import OpeningHours from "@/components/business/OpeningHours";
 import BusinessCard from "@/components/business/BusinessCard";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
+import AdSidebar from "@/components/ads/AdSidebar";
 import { getSiteConfig } from "@/lib/siteConfig";
 import {
   PRODUCT_SLUGS,
@@ -19,6 +22,8 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+
+export const revalidate = 3600; // ISR: revalidate every hour
 
 export async function generateStaticParams() {
   const params: { product: string; location: string; business: string }[] = [];
@@ -65,7 +70,7 @@ export default async function ProductBusinessPage({
 
   const productId = product as ProductId;
   const productConfig = getProductConfig(product)!;
-  const business = getBusinessBySlug(locationSlug, businessSlug, productId);
+  const business = await getBusinessWithOverrides(locationSlug, businessSlug, productId);
   if (!business) notFound();
 
   const location = getLocationBySlugWithCount(locationSlug, productId);
@@ -179,12 +184,33 @@ export default async function ProductBusinessPage({
           {/* Main content */}
           <div className="lg:col-span-2">
             <div className="flex items-start justify-between mb-4">
-              <div>
-                <h1 className="text-2xl md:text-3xl font-bold text-text mb-2">
+              <div className="flex items-start gap-4">
+                {business.logoUrl && (
+                  <Image
+                    src={business.logoUrl}
+                    alt={`${business.name} logo`}
+                    width={64}
+                    height={64}
+                    className="rounded-lg object-cover border border-border shrink-0"
+                  />
+                )}
+                <div>
+                <h1 className="text-2xl md:text-3xl font-bold text-text mb-1">
                   {business.name}
                 </h1>
-                {(business.isFeatured || business.isRecommended) && (
+                {business.tagline && (
+                  <p className="text-text-light mb-2">{business.tagline}</p>
+                )}
+                {(business.isFeatured || business.isRecommended || business.isClaimed) && (
                   <div className="flex gap-2 mb-2">
+                    {business.isClaimed && (
+                      <span className="bg-green-50 text-green-700 text-sm font-medium px-3 py-1 rounded-full flex items-center gap-1.5">
+                        <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                        </svg>
+                        Verified
+                      </span>
+                    )}
                     {business.isFeatured && (
                       <span className="bg-accent/10 text-accent-dark text-sm font-medium px-3 py-1 rounded-full flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20">
@@ -207,6 +233,7 @@ export default async function ProductBusinessPage({
                   rating={business.rating}
                   reviews={business.totalReviews}
                 />
+                </div>
               </div>
               {business.businessStatus === "OPERATIONAL" && (
                 <span className="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">
@@ -446,6 +473,9 @@ export default async function ProductBusinessPage({
 
               {/* Managed Quote CTA */}
               <ManagedQuoteCTA compact productId={productId} />
+
+              {/* Sponsored sidebar ad */}
+              <AdSidebar site={site.id} product={productId} excludeSlug={business.slug} />
 
               {/* Location info */}
               <div className="bg-surface border border-border rounded-xl p-5">

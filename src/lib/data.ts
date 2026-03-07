@@ -42,12 +42,24 @@ import lsSeBusinessesRaw from "@/data/locksmith_southeast_businesses.json";
 import lsSwBusinessesRaw from "@/data/locksmith_southwest_businesses.json";
 import lsWlBusinessesRaw from "@/data/locksmith_wales_businesses.json";
 
+import rmNeBusinessesRaw from "@/data/removals_northeast_businesses.json";
+import rmNwBusinessesRaw from "@/data/removals_northwest_businesses.json";
+import rmScBusinessesRaw from "@/data/removals_scotland_businesses.json";
+import rmMlBusinessesRaw from "@/data/removals_midlands_businesses.json";
+import rmYkBusinessesRaw from "@/data/removals_yorkshire_businesses.json";
+import rmEaBusinessesRaw from "@/data/removals_east_businesses.json";
+import rmLnBusinessesRaw from "@/data/removals_london_businesses.json";
+import rmSeBusinessesRaw from "@/data/removals_southeast_businesses.json";
+import rmSwBusinessesRaw from "@/data/removals_southwest_businesses.json";
+import rmWlBusinessesRaw from "@/data/removals_wales_businesses.json";
+
 import type { Business, BusinessRaw, Location } from "@/types";
 import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
 import { getSiteId } from "./siteConfig";
 import { getPromotion } from "./promotions";
+import pool from "./db";
 
 function transformBusiness(raw: BusinessRaw): Business {
   const locationSlug = getLocationFromFoundIn(raw.found_in_location);
@@ -107,6 +119,18 @@ function getRawBusinesses(
     if (id === "southwest") return lsSwBusinessesRaw as BusinessRaw[];
     if (id === "wales") return lsWlBusinessesRaw as BusinessRaw[];
     return lsNeBusinessesRaw as BusinessRaw[];
+  }
+  if (productId === "removal-companies") {
+    if (id === "northwest") return rmNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return rmScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return rmMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return rmYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return rmEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return rmLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return rmSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return rmSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return rmWlBusinessesRaw as BusinessRaw[];
+    return rmNeBusinessesRaw as BusinessRaw[];
   }
   if (productId === "van-hire") {
     if (id === "northwest") return vhNwBusinessesRaw as BusinessRaw[];
@@ -228,4 +252,47 @@ export function getLocationBySlugWithCount(
     lng: loc.lng,
     businessCount: getBusinessesByLocation(slug, productId).length,
   };
+}
+
+/**
+ * Get a business with DB profile overrides merged on top of JSON base data.
+ * Used on business profile pages (dynamic, ISR) to show operator edits.
+ */
+export async function getBusinessWithOverrides(
+  locationSlug: string,
+  businessSlug: string,
+  productId: ProductId = "minibus-hire"
+): Promise<Business | null> {
+  const base = getBusinessBySlug(locationSlug, businessSlug, productId);
+  if (!base) return null;
+
+  try {
+    const siteId = getSiteId();
+    const result = await pool.query(
+      `SELECT op.description, op.phone, op.email, op.website, op.logo_url, op.tagline, op.services
+       FROM operator_profiles op
+       JOIN operator_claims oc ON oc.business_slug = op.business_slug
+         AND oc.product = op.product AND oc.site = op.site AND oc.status = 'approved'
+       WHERE op.business_slug = $1 AND op.product = $2 AND op.site = $3`,
+      [businessSlug, productId, siteId]
+    );
+
+    if (result.rows.length === 0) return base;
+
+    const override = result.rows[0];
+    return {
+      ...base,
+      isClaimed: true,
+      ...(override.description && { description: override.description }),
+      ...(override.phone && { phone: override.phone }),
+      ...(override.email && { email: override.email }),
+      ...(override.website && { website: override.website }),
+      ...(override.logo_url && { logoUrl: override.logo_url }),
+      ...(override.tagline && { tagline: override.tagline }),
+      ...(override.services && override.services.length > 0 && { services: override.services }),
+    };
+  } catch {
+    // If DB is unavailable, fall back to base data
+    return base;
+  }
 }

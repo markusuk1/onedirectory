@@ -2,10 +2,12 @@ import Link from "next/link";
 import { getLocations } from "@/lib/data";
 import { getSiteConfig } from "@/lib/siteConfig";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
+import { formatEventDate, getUpcomingRegionalEvents } from "@/lib/events";
 import type { ProductId } from "@/lib/productConfig";
 import ManagedQuoteCTA from "@/components/quote/ManagedQuoteCTA";
+import AdBanner from "@/components/ads/AdBanner";
 
-export default function HomePage() {
+export default async function HomePage() {
   const site = getSiteConfig();
 
   const heroImageByRegion: Record<string, string> = {
@@ -22,6 +24,8 @@ export default function HomePage() {
   };
 
   const heroImage = heroImageByRegion[site.id] || "";
+
+  const upcomingEvents = await getUpcomingRegionalEvents(site.id, 6);
 
   const productStats = ALL_PRODUCTS.map((product) => {
     const locations = getLocations(product.id as ProductId);
@@ -133,6 +137,82 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Sponsored ad */}
+      <section className="py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdBanner site={site.id} placement="homepage" />
+        </div>
+      </section>
+
+      {/* What's on */}
+      {upcomingEvents.length > 0 && (
+        <section className="py-12 md:py-16 bg-surface border-y border-border">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-end justify-between gap-6 flex-wrap mb-8">
+              <div>
+                <h2 className="text-2xl md:text-3xl font-bold text-text mb-2">
+                  What’s on in {site.shortName}
+                </h2>
+                <p className="text-text-light">
+                  Upcoming events that often drive group travel demand.
+                </p>
+              </div>
+              <Link
+                href="/minibus-hire/events"
+                className="text-primary font-semibold hover:underline"
+              >
+                View all events →
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {upcomingEvents.map((e) => (
+                <div
+                  key={e.id}
+                  className="bg-white border border-border rounded-xl p-5 hover:shadow-sm transition"
+                >
+                  <div className="flex items-center justify-between gap-3 mb-2">
+                    <span className="text-xs font-semibold bg-primary/10 text-primary px-2 py-1 rounded-full">
+                      {e.category}
+                    </span>
+                    <span className="text-xs text-text-light">
+                      {formatEventDate(e.date)}
+                    </span>
+                  </div>
+                  <h3 className="font-bold text-lg text-text mb-1">
+                    {e.title}
+                  </h3>
+                  {(e.detail || e.startTime) && (
+                    <p className="text-text text-sm mb-2">
+                      {e.detail ? e.detail : ""}
+                      {e.detail && e.startTime ? " • " : ""}
+                      {e.startTime ? e.startTime : ""}
+                    </p>
+                  )}
+                  <p className="text-text-light text-sm mb-3">
+                    {e.city}
+                    {e.venue ? ` • ${e.venue}` : ""}
+                    {e.source ? ` • ${e.source}` : ""}
+                  </p>
+                  {e.note && (
+                    <p className="text-text-light text-sm mb-4">
+                      {e.note}
+                    </p>
+                  )}
+
+                  <Link
+                    href="/get-quotes"
+                    className="inline-flex items-center justify-center w-full bg-primary text-white font-semibold px-4 py-2.5 rounded-lg hover:bg-primary-dark transition-colors"
+                  >
+                    Need transport for this?
+                  </Link>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* What we do / why we do it */}
       <section className="py-12 md:py-16 bg-surface border-y border-border">

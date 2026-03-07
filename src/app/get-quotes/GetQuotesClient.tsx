@@ -14,6 +14,7 @@ const PRODUCTS: { id: ProductId; label: string; icon: string }[] = [
   { id: "van-hire", label: "Van Hire", icon: "🚚" },
   { id: "skip-hire", label: "Skip Hire", icon: "🗑️" },
   { id: "locksmith", label: "Locksmith", icon: "🔑" },
+  { id: "removal-companies", label: "Removals", icon: "📦" },
 ];
 
 export default function GetQuotesClient({ defaultProductId }: GetQuotesClientProps) {

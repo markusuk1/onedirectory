@@ -3,6 +3,8 @@ import { sendEmail } from "@/lib/email";
 import pool, { initDb } from "@/lib/db";
 import { getSiteId, getSiteConfig } from "@/lib/siteConfig";
 import { getPostHogClient } from "@/lib/posthog-server";
+import { createClaim } from "@/lib/claim";
+import { processAutoQuotes } from "@/lib/auto-quote";
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
@@ -45,7 +47,7 @@ export async function POST(request: NextRequest) {
       const businessLine = body.businessName
         ? `<tr><td style="padding:4px 8px;font-weight:600">Business</td><td style="padding:4px 8px">${body.businessName}</td></tr>`
         : "";
-      const productLabel = body.product === "van-hire" ? "Van Hire" : body.product === "skip-hire" ? "Skip Hire" : body.product === "locksmith" ? "Locksmith" : "Minibus Hire";
+      const productLabel = body.product === "van-hire" ? "Van Hire" : body.product === "skip-hire" ? "Skip Hire" : body.product === "locksmith" ? "Locksmith" : body.product === "removal-companies" ? "Removal Companies" : "Minibus Hire";
 
       // Build product-specific detail rows
       let detailRows = "";
@@ -75,6 +77,16 @@ export async function POST(request: NextRequest) {
           <tr><td style="padding:4px 8px;font-weight:600">Property Type</td><td style="padding:4px 8px">${d.propertyType || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Location</td><td style="padding:4px 8px">${d.location || "—"}</td></tr>
         `;
+      } else if (body.product === "removal-companies" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Move Type</td><td style="padding:4px 8px">${d.moveType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Bedrooms</td><td style="padding:4px 8px">${d.bedrooms || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Moving From</td><td style="padding:4px 8px">${d.movingFrom || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Moving To</td><td style="padding:4px 8px">${d.movingTo || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Moving Date</td><td style="padding:4px 8px">${d.moveDate || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Packing Service</td><td style="padding:4px 8px">${d.needPacking || "—"}</td></tr>
+        `;
       } else {
         detailRows = `
           <tr><td style="padding:4px 8px;font-weight:600">Date</td><td style="padding:4px 8px">${body.date || "—"}</td></tr>
@@ -86,6 +98,22 @@ export async function POST(request: NextRequest) {
       }
 
       const fromAddress = "Hire UK Quotes <notify@hirenortheast.co.uk>";
+
+      // Generate claim link for the business (if this lead is for a specific business)
+      let claimSection = "";
+      if (body.businessSlug && body.product) {
+        const claimToken = await createClaim(body.businessSlug, body.product, siteId).catch(() => null);
+        if (claimToken) {
+          const claimUrl = `https://${site.domain}/operator/claim/${claimToken}`;
+          claimSection = `
+            <div style="margin:16px 0;padding:12px;background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px">
+              <p style="margin:0 0 8px;font-weight:600;color:#0369a1">Operator Claim Link</p>
+              <p style="margin:0;font-size:13px;color:#555">Send this to the operator so they can claim their profile:</p>
+              <a href="${claimUrl}" style="display:inline-block;margin-top:8px;font-size:13px;color:#0369a1;word-break:break-all">${claimUrl}</a>
+            </div>
+          `;
+        }
+      }
 
       // Admin notification
       await sendEmail({
@@ -104,6 +132,7 @@ export async function POST(request: NextRequest) {
             ${detailRows}
             ${body.message ? `<tr><td style="padding:4px 8px;font-weight:600">Message</td><td style="padding:4px 8px">${body.message}</td></tr>` : ""}
           </table>
+          ${claimSection}
         `,
       }).catch((err: unknown) => console.error("Email notification failed:", err));
 
@@ -147,6 +176,26 @@ export async function POST(request: NextRequest) {
         ...(sessionId ? { $session_id: sessionId } : {}),
       },
     });
+
+    // Process auto-quotes (non-blocking)
+    if (body.product && body.email) {
+      processAutoQuotes({
+        product: body.product,
+        site: siteId,
+        businessSlug: body.businessSlug,
+        businessName: body.businessName,
+        name: body.name,
+        email: body.email,
+        phone: body.phone,
+        date: body.date,
+        passengers: body.passengers,
+        pickup: body.pickup,
+        destination: body.destination,
+        journeyType: body.journeyType,
+        message: body.message,
+        details: body.details,
+      }).catch((err) => console.error("Auto-quote processing failed:", err));
+    }
 
     return NextResponse.json({ success: true });
   } catch (error) {

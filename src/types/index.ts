@@ -44,6 +44,9 @@ export interface Business {
   locationName: string;
   isFeatured?: boolean;
   isRecommended?: boolean;
+  isClaimed?: boolean;
+  logoUrl?: string;
+  tagline?: string;
 }
 
 export interface Location {
@@ -53,6 +56,32 @@ export interface Location {
   lat: number;
   lng: number;
   businessCount: number;
+}
+
+export type AdvertPlacement = "homepage" | "product_page" | "location_page" | "business_sidebar";
+export type AdvertStatus = "pending" | "active" | "paused" | "expired";
+
+export interface Advert {
+  id: string;
+  operatorId: string;
+  businessSlug: string;
+  product: string;
+  site: string;
+  imageUrls: string[];
+  linkUrl: string | null;
+  altText: string | null;
+  placement: AdvertPlacement;
+  status: AdvertStatus;
+  startDate: string | null;
+  endDate: string | null;
+}
+
+export interface AdvertPublic {
+  businessSlug: string;
+  businessName: string;
+  imageUrls: string[];
+  linkUrl: string | null;
+  altText: string | null;
 }
 
 export interface Lead {

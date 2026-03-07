@@ -18,6 +18,7 @@ const STATIC_ROUTES = new Set([
   "robots.txt",
   "sitemap.xml",
   "ads.txt",
+  "operator",
 ]);
 
 export function middleware(request: NextRequest) {

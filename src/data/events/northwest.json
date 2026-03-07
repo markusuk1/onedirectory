@@ -1,0 +1,69 @@
+[
+  {
+    "id": "nw-ao-arena-gig",
+    "title": "Concert at AO Arena",
+    "category": "Concert",
+    "city": "Manchester",
+    "venue": "AO Arena",
+    "date": "2026-03-21",
+    "startTime": "19:30",
+    "detail": "Headline act: add artist name",
+    "url": "https://www.ao-arena.com/events",
+    "note": "Evening pickups often run late — plan a clear return window."
+  },
+  {
+    "id": "nw-old-trafford-matchday",
+    "title": "Matchday at Old Trafford",
+    "category": "Sport",
+    "city": "Manchester",
+    "venue": "Old Trafford",
+    "date": "2026-03-28",
+    "startTime": "15:00",
+    "detail": "Fixture: add teams",
+    "url": "https://www.manutd.com/",
+    "note": "Heavy congestion around kickoff and full-time."
+  },
+  {
+    "id": "nw-anfield-matchday",
+    "title": "Matchday at Anfield",
+    "category": "Sport",
+    "city": "Liverpool",
+    "venue": "Anfield",
+    "date": "2026-04-04",
+    "startTime": "15:00",
+    "detail": "Fixture: add teams",
+    "url": "https://www.liverpoolfc.com/",
+    "note": "Agree a pickup point away from the stadium perimeter."
+  },
+  {
+    "id": "nw-mcr-food-festival",
+    "title": "City Centre Food Festival",
+    "category": "Festival",
+    "city": "Manchester",
+    "date": "2026-04-18",
+    "detail": "Add exact festival name + location",
+    "url": "https://www.visitmanchester.com/whats-on/",
+    "note": "Good for group days out — midday drop-offs are easiest."
+  },
+  {
+    "id": "nw-liverpool-waterfront-event",
+    "title": "Liverpool Waterfront Weekend",
+    "category": "Festival",
+    "city": "Liverpool",
+    "venue": "Pier Head",
+    "date": "2026-05-02",
+    "detail": "Add exact event name",
+    "url": "https://www.visitliverpool.com/whats-on/",
+    "note": "Expect road closures and limited drop-off zones."
+  },
+  {
+    "id": "nw-blackpool-illuminations",
+    "title": "Blackpool Illuminations",
+    "category": "Family",
+    "city": "Blackpool",
+    "date": "2026-09-26",
+    "detail": "Promenade",
+    "url": "https://www.visitblackpool.com/whats-on/",
+    "note": "Traffic can be slow — plan buffers for the return journey."
+  }
+]

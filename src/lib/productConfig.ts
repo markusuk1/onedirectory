@@ -1,4 +1,4 @@
-export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies";
 
 export interface ProductConfig {
   id: ProductId;
@@ -230,6 +230,59 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Highest rated locksmiths in the ${shortName}`,
     browseSubtitle: "Find a trusted locksmith near you",
     servicesSubtitle: "Whatever your lock or security needs, we can help",
+  },
+  "removal-companies": {
+    id: "removal-companies",
+    slug: "removal-companies",
+    name: "Removal Companies",
+    shortName: "Removals",
+    icon: "📦",
+    image: "/images/removals.png",
+    imageAlt: "Removal companies illustration",
+    heroTitle: (region) => `Find Removal Companies in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ removal companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare removal companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local movers.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides removal services in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        title: "House Removals",
+        desc: "Full house moving service with experienced teams. Careful handling of all your belongings from start to finish.",
+      },
+      {
+        title: "Office Removals",
+        desc: "Commercial and office relocations with minimal disruption. IT equipment, furniture and document moving.",
+      },
+      {
+        title: "Man & Van",
+        desc: "Affordable man and van service for smaller moves, single items and student relocations.",
+      },
+      {
+        title: "Packing Services",
+        desc: "Professional packing and unpacking service. Quality materials and careful handling of fragile items.",
+      },
+      {
+        title: "Storage",
+        desc: "Short and long-term storage solutions. Secure, clean facilities for your belongings during your move.",
+      },
+      {
+        title: "Piano & Specialist",
+        desc: "Specialist removal of pianos, antiques, artwork and other heavy or delicate items.",
+      },
+    ],
+    seoHeading: (shortName) => `Removal Companies Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you're moving house, relocating an office, or need a man and van for a smaller job, our directory connects you with trusted local removal companies across the ${region}.`,
+      `We list over ${count} removal companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple removal companies by using our quote request form. Simply tell us your moving details and we'll connect you with suitable operators in your area.`,
+    ],
+    ctaText: (loc) => `Moving in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated removal companies in the ${shortName}`,
+    browseSubtitle: "Find removal companies near you",
+    servicesSubtitle: "Whatever your moving needs, we can help",
   },
 };
 
