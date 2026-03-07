@@ -1,7 +1,7 @@
 [
   {
     "name": "Everything Go's Rubbish Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Dunstable Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS5 4AL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Dunstable Rd, Middlesbrough, TS5 4AL, GB",
     "phone": "01642 897369",
     "international_phone": "01642 897369",
     "website": "https://www.egrubbishremoval.co.uk/",
@@ -13,12 +13,12 @@
     "types": "Waste-Management Service",
     "lat": 54.567153,
     "lng": -1.262635,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "The Little Waxing Company",
-    "address": "{\"borough\":\"Sunniside\",\"street\":\"47 Frederick St\",\"city\":\"Sunderland\",\"postal_code\":\"SR1 1NF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "47 Frederick St, Sunniside, Sunderland, SR1 1NF, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://thelittlewaxingco.book.app/",
@@ -30,12 +30,12 @@
     "types": "Waxing Hair-Removal Service",
     "lat": 54.905861,
     "lng": -1.379112,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Mokza The Van Man",
-    "address": "{\"borough\":\"\",\"street\":\"196 Whessoe Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL3 0QS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "196 Whessoe Rd, Darlington, DL3 0QS, GB",
     "phone": "07970 321230",
     "international_phone": "07970 321230",
     "website": "https://mokzathevanman.co.uk/",
@@ -47,12 +47,12 @@
     "types": "Removals company",
     "lat": 54.539893,
     "lng": -1.558201,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "MB Removals Ltd",
-    "address": "{\"borough\":\"Ryhope\",\"street\":\"5 Viewforth Rd\",\"city\":\"Sunderland\",\"postal_code\":\"SR2 0NG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Viewforth Rd, Ryhope, Sunderland, SR2 0NG, GB",
     "phone": "07788 287039",
     "international_phone": "07788 287039",
     "website": "http://www.mbremovals.co.uk/",
@@ -64,12 +64,12 @@
     "types": "Removals company",
     "lat": 54.864678,
     "lng": -1.365112,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Premier Removals LTD",
-    "address": "{\"borough\":\"\",\"street\":\"37 Meridian Way\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 4QH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37 Meridian Way, Stockton-on-Tees, TS18 4QH, GB",
     "phone": "07841 392967",
     "international_phone": "07841 392967",
     "website": "http://premierremovals20.co.uk/",
@@ -81,12 +81,12 @@
     "types": "Removals company",
     "lat": 54.568816,
     "lng": -1.341706,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Richardson Moving & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Moving House, Vickers Cl\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 3TD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Moving House, Vickers Cl, Stockton-on-Tees, TS18 3TD, GB",
     "phone": "01642 673207",
     "international_phone": "01642 673207",
     "website": "http://www.richardsonremovals.co.uk/",
@@ -98,12 +98,12 @@
     "types": "Removals Service",
     "lat": 54.545658,
     "lng": -1.324428,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "House Clearance Company",
-    "address": "{\"borough\":\"\",\"street\":\"51 Cotswold Dr\",\"city\":\"Redcar\",\"postal_code\":\"TS10 4AH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "51 Cotswold Dr, Redcar, TS10 4AH, GB",
     "phone": "07401 552825",
     "international_phone": "07401 552825",
     "website": "http://www.northeasthouseclearance.co.uk/",
@@ -115,12 +115,12 @@
     "types": "House clearance service",
     "lat": 54.603387,
     "lng": -1.078678,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Redcar",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "NE WasteAway Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 9, Stadium Industrial Park\",\"city\":\"Gateshead\",\"postal_code\":\"NE10 0XF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 9, Stadium Industrial Park, Gateshead, NE10 0XF, GB",
     "phone": "0800 689 1286",
     "international_phone": "0800 689 1286",
     "website": "http://www.newasteaway.co.uk/",
@@ -132,12 +132,12 @@
     "types": "Waste-Management Service",
     "lat": 54.961187,
     "lng": -1.582948,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Gallaghers of Newcastle",
-    "address": "{\"borough\":\"\",\"street\":\"Unit D, North Tyne Industrial Estate, 33 Bellingham Dr\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE12 9SZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit D, North Tyne Industrial Estate, 33 Bellingham Dr, Newcastle upon Tyne, NE12 9SZ, GB",
     "phone": "0191 266 1864",
     "international_phone": "0191 266 1864",
     "website": "http://gallaghersremovals.co.uk/",
@@ -149,12 +149,12 @@
     "types": "Removals company",
     "lat": 55.020499,
     "lng": -1.543477,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "AC Movers - Removal Company Yarm & Stockton",
-    "address": "{\"borough\":\"\",\"street\":\"40 Challoner Rd\",\"city\":\"Yarm\",\"postal_code\":\"TS15 9DP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "40 Challoner Rd, Yarm, TS15 9DP, GB",
     "phone": "07804 676408",
     "international_phone": "07804 676408",
     "website": "http://www.acmovers.co.uk/",
@@ -166,12 +166,12 @@
     "types": "Removals Service",
     "lat": 54.499865,
     "lng": -1.358063,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Yarm",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "South Durham Removals",
-    "address": "{\"borough\":\"Sedgefield\",\"street\":\"32 Cragside\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS21 2DT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32 Cragside, Sedgefield, Stockton-on-Tees, TS21 2DT, GB",
     "phone": "07407 218516",
     "international_phone": "07407 218516",
     "website": "https://southdurhamremovals.co.uk/",
@@ -183,12 +183,12 @@
     "types": "Removals company",
     "lat": 54.648633,
     "lng": -1.450405,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Sedgefield Removals",
-    "address": "{\"borough\":\"Fishburn\",\"street\":\"Diamond Cl\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS21 4FB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Diamond Cl, Fishburn, Stockton-on-Tees, TS21 4FB, GB",
     "phone": "07836 583955",
     "international_phone": "07836 583955",
     "website": "https://www.sedgefieldremovals.co.uk/",
@@ -200,12 +200,12 @@
     "types": "Removals company",
     "lat": 54.679069,
     "lng": -1.436284,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Hamilton Beauty - IPL and Laser Treatments",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 8, Forbes Bldg, Linthorpe Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS1 4AW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 8, Forbes Bldg, Linthorpe Rd, Middlesbrough, TS1 4AW, GB",
     "phone": "07727 494779",
     "international_phone": "07727 494779",
     "website": "http://www.hamiltonbeauty.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4014646628131728554",
@@ -217,12 +217,12 @@
     "types": "Laser hair removal service",
     "lat": 54.567279,
     "lng": -1.240202,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Scottwell Removals",
-    "address": "{\"borough\":\"Westerhope\",\"street\":\"56 Greely Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE5 5LE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "56 Greely Rd, Westerhope, Newcastle upon Tyne, NE5 5LE, GB",
     "phone": "07891 403719",
     "international_phone": "07891 403719",
     "website": "http://www.scottwellremovals.co.uk/",
@@ -234,12 +234,29 @@
     "types": "Removals Service",
     "lat": 54.995468,
     "lng": -1.695729,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
+  },
+  {
+    "name": "G.S. TRANSPORT LTD",
+    "address": "10 Dodsworth Terrace, Greenside, Ryton, NE40 4RL, GB",
+    "phone": "0191 413 9830",
+    "international_phone": "0191 413 9830",
+    "website": "https://www.gstransport.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/G.S.+TRANSPORT+LTD/data=!4m7!3m6!1s0x487dd82f6a0f7ee1:0xad027a22229ac17f!8m2!3d54.9552259!4d-1.7712587!16s%2Fg%2F1w04jnvx!19sChIJ4X4Pai_YfUgRf8GaIiJ6Aq0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 105,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 54.955226,
+    "lng": -1.771259,
+    "found_in_location": "Ryton",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rapid House Removals",
-    "address": "{\"borough\":\"\",\"street\":\"22 King Edward Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 5RE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "22 King Edward Rd, Newcastle upon Tyne, NE6 5RE, GB",
     "phone": "0191 276 0515",
     "international_phone": "0191 276 0515",
     "website": "https://www.rapidhouseremovals.co.uk/",
@@ -251,12 +268,12 @@
     "types": "Removals company",
     "lat": 54.99107,
     "lng": -1.582229,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Wasted",
-    "address": "{\"borough\":\"Bensham\",\"street\":\"99 Bewick Rd\",\"city\":\"Gateshead\",\"postal_code\":\"NE8 1TY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "99 Bewick Rd, Bensham, Gateshead, NE8 1TY, GB",
     "phone": "0191 440 6664",
     "international_phone": "0191 440 6664",
     "website": "http://wastedne.com/?utm_source=gmb&utm_medium=referral",
@@ -268,12 +285,12 @@
     "types": "Waste-Management Service",
     "lat": 54.95435,
     "lng": -1.60775,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Gibson Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"122 Campbell Park Rd\",\"city\":\"Hebburn\",\"postal_code\":\"NE31 2SH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "122 Campbell Park Rd, Hebburn, NE31 2SH, GB",
     "phone": "07568 544086",
     "international_phone": "07568 544086",
     "website": "https://gibsonsremovals.co.uk/",
@@ -285,12 +302,12 @@
     "types": "Removals company",
     "lat": 54.972005,
     "lng": -1.507895,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hebburn",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "The Green Van Man Removals",
-    "address": "{\"borough\":\"\",\"street\":\"20 Newton St\",\"city\":\"Gateshead\",\"postal_code\":\"NE8 4XL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20 Newton St, Gateshead, NE8 4XL, GB",
     "phone": "07474 347692",
     "international_phone": "07474 347692",
     "website": "http://www.thegreenvanmanremovals.co.uk/",
@@ -302,12 +319,12 @@
     "types": "Removals company",
     "lat": 54.950254,
     "lng": -1.617627,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "DG Rubbish and Waste Removal Services",
-    "address": "{\"borough\":\"\",\"street\":\"Duncan Rd\",\"city\":\"Hartlepool\",\"postal_code\":\"TS25 4EB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Duncan Rd, Hartlepool, TS25 4EB, GB",
     "phone": "07510 978600",
     "international_phone": "07510 978600",
     "website": "",
@@ -319,12 +336,12 @@
     "types": "Waste-Management Service",
     "lat": 54.663911,
     "lng": -1.236848,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Reds Removals",
-    "address": "{\"borough\":\"Stockton-on-Tees\",\"street\":\"16 Castleton Rd\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 3LP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16 Castleton Rd, Stockton-on-Tees, Stockton-on-Tees, TS18 3LP, GB",
     "phone": "01642 730548",
     "international_phone": "01642 730548",
     "website": "https://www.reds-removals.co.uk/",
@@ -336,12 +353,12 @@
     "types": "Removals Service",
     "lat": 54.555013,
     "lng": -1.322167,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "TyneWear Waste Management Ltd",
-    "address": "{\"borough\":\"Roker\",\"street\":\"Marcia Ave\",\"city\":\"Sunderland\",\"postal_code\":\"SR6 9JJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Marcia Ave, Roker, Sunderland, SR6 9JJ, GB",
     "phone": "0191 716 6380",
     "international_phone": "0191 716 6380",
     "website": "http://www.tynewearwaste.co.uk/",
@@ -353,12 +370,12 @@
     "types": "Waste-Management Service",
     "lat": 54.924885,
     "lng": -1.380447,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rubbish Removal Stockton - Clear Away Rubbish Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Bone Street\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 2BY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Bone Street, Stockton-on-Tees, TS18 2BY, GB",
     "phone": "01642 604297",
     "international_phone": "01642 604297",
     "website": "https://clearaway-rubbish.uk/",
@@ -370,12 +387,12 @@
     "types": "Waste-Management Service",
     "lat": 54.569909,
     "lng": -1.312741,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "MOVE IT Waste Removals",
-    "address": "{\"borough\":\"\",\"street\":\"103 Hundens Ln\",\"city\":\"Darlington\",\"postal_code\":\"DL1 1JF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "103 Hundens Ln, Darlington, DL1 1JF, GB",
     "phone": "07852 727953",
     "international_phone": "07852 727953",
     "website": "https://moveitwasteremovals.co.uk/",
@@ -387,12 +404,12 @@
     "types": "Waste-Management Service",
     "lat": 54.528892,
     "lng": -1.535894,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Angel House Clearance Services",
-    "address": "{\"borough\":\"\",\"street\":\"Collingwood Buildings, 38 Collingwood St\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE1 1JF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Collingwood Buildings, 38 Collingwood St, Newcastle upon Tyne, NE1 1JF, GB",
     "phone": "07894 711282",
     "international_phone": "07894 711282",
     "website": "https://angelhouseclearance.co.uk/",
@@ -404,12 +421,12 @@
     "types": "House clearance service",
     "lat": 54.969976,
     "lng": -1.613521,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "AA House Clearance",
-    "address": "{\"borough\":\"Hendon\",\"street\":\"Unit 4 Robinson Terrace, The Parade\",\"city\":\"Sunderland\",\"postal_code\":\"SR2 8NT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4 Robinson Terrace, The Parade, Hendon, Sunderland, SR2 8NT, GB",
     "phone": "0191 522 0981",
     "international_phone": "0191 522 0981",
     "website": "http://www.aahouseclearance.co.uk/",
@@ -421,12 +438,12 @@
     "types": "Removals company",
     "lat": 54.897013,
     "lng": -1.364215,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Northern Solutions Ltd",
-    "address": "{\"borough\":\"Stokesley\",\"street\":\"Northern Solutions Ltd, 24 springboard business centre, Stokesley Business Park, Ellerbeck Way\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS9 5JZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Northern Solutions Ltd, 24 springboard business centre, Stokesley Business Park, Ellerbeck Way, Stokesley, Middlesbrough, TS9 5JZ, GB",
     "phone": "01642 989986",
     "international_phone": "01642 989986",
     "website": "https://www.northernsolutionsltd.co.uk/",
@@ -438,12 +455,12 @@
     "types": "Landscape Gardener",
     "lat": 54.462168,
     "lng": -1.178352,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "WRS waste removal service",
-    "address": "{\"borough\":\"\",\"street\":\"Dodsworth St\",\"city\":\"Darlington\",\"postal_code\":\"DL1 2LE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Dodsworth St, Darlington, DL1 2LE, GB",
     "phone": "01325 480380",
     "international_phone": "01325 480380",
     "website": "https://www.checkatrade.com/trades/wrswasteremovalservices",
@@ -455,12 +472,12 @@
     "types": "Waste Collection Service",
     "lat": 54.536246,
     "lng": -1.540254,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "D&A Removals",
-    "address": "{\"borough\":\"\",\"street\":\"14 Gilpin Rd\",\"city\":\"Newton Aycliffe\",\"postal_code\":\"DL5 5EQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Gilpin Rd, Newton Aycliffe, DL5 5EQ, GB",
     "phone": "07745 263828",
     "international_phone": "07745 263828",
     "website": "",
@@ -472,12 +489,12 @@
     "types": "Waste-Management Service",
     "lat": 54.61511,
     "lng": -1.562723,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newton Aycliffe",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Trees to Please Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"32 Claremont Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL1 4HQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32 Claremont Rd, Darlington, DL1 4HQ, GB",
     "phone": "07799 900803",
     "international_phone": "07799 900803",
     "website": "https://www.treestopleaseltd.co.uk/",
@@ -489,12 +506,12 @@
     "types": "Tree service",
     "lat": 54.51348,
     "lng": -1.537402,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "DKsmartremovals",
-    "address": "{\"borough\":\"\",\"street\":\"87 Newington Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS4 3ER\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "87 Newington Rd, Middlesbrough, TS4 3ER, GB",
     "phone": "07505 043682",
     "international_phone": "07505 043682",
     "website": "",
@@ -506,12 +523,12 @@
     "types": "Removals Service",
     "lat": 54.552153,
     "lng": -1.225092,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Falcon Enterprises Logistics Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"37c Westbourne St\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 3EN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37c Westbourne St, Stockton-on-Tees, TS18 3EN, GB",
     "phone": "07442 609087",
     "international_phone": "07442 609087",
     "website": "http://www.falconenterprises.co.uk/",
@@ -523,12 +540,12 @@
     "types": "Logistics service",
     "lat": 54.559284,
     "lng": -1.320621,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Andrews Removals Tyne and wear",
-    "address": "{\"borough\":\"\",\"street\":\"8 Kelly Rd\",\"city\":\"Hebburn\",\"postal_code\":\"NE31 2PJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Kelly Rd, Hebburn, NE31 2PJ, GB",
     "phone": "07376 235777",
     "international_phone": "07376 235777",
     "website": "http://www.andrewsremovalstyneandwear.co.uk/",
@@ -540,12 +557,12 @@
     "types": "Removals company",
     "lat": 54.964911,
     "lng": -1.51633,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hebburn",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Fisk Services Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"43 Coniscliffe Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL3 7EH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "43 Coniscliffe Rd, Darlington, DL3 7EH, GB",
     "phone": "07487 872559",
     "international_phone": "07487 872559",
     "website": "http://fiskservicesltd.co.uk/",
@@ -557,12 +574,12 @@
     "types": "Removals company",
     "lat": 54.522983,
     "lng": -1.560448,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Grab & Go NE Ltd",
-    "address": "{\"borough\":\"Hurworth-on-Tees\",\"street\":\"29 The Wayside\",\"city\":\"Darlington\",\"postal_code\":\"DL2 2EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "29 The Wayside, Hurworth-on-Tees, Darlington, DL2 2EE, GB",
     "phone": "07950 798039",
     "international_phone": "07950 798039",
     "website": "http://www.grabandgoneltd.co.uk/",
@@ -574,12 +591,12 @@
     "types": "Waste-Management Service",
     "lat": 54.488837,
     "lng": -1.536751,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A2B Rapid Removals",
-    "address": "{\"borough\":\"\",\"street\":\"2 Garvin Cl\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS3 7PL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Garvin Cl, Middlesbrough, TS3 7PL, GB",
     "phone": "07568 157519",
     "international_phone": "07568 157519",
     "website": "https://www.facebook.com/A2BMIDDLESBROUGH/",
@@ -591,12 +608,12 @@
     "types": "Removals company",
     "lat": 54.557543,
     "lng": -1.207359,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rb-Haulage and Removals",
-    "address": "{\"borough\":\"\",\"street\":\"New Bridge St\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE1 2SW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "New Bridge St, Newcastle upon Tyne, NE1 2SW, GB",
     "phone": "07506 163031",
     "international_phone": "07506 163031",
     "website": "http://www.rb-haulage.com/",
@@ -608,12 +625,12 @@
     "types": "Removals Service",
     "lat": 54.974414,
     "lng": -1.600804,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Gallaghers Removals",
-    "address": "{\"borough\":\"\",\"street\":\"13 Elmsford Grove\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE12 8HT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "13 Elmsford Grove, Newcastle upon Tyne, NE12 8HT, GB",
     "phone": "0191 266 1864",
     "international_phone": "0191 266 1864",
     "website": "https://www.gallaghersremovals.co.uk/",
@@ -625,12 +642,12 @@
     "types": "Delivery Company",
     "lat": 55.014025,
     "lng": -1.58045,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Man with a Van",
-    "address": "{\"borough\":\"\",\"street\":\"23 Delaval Ave\",\"city\":\"Newcastle\",\"postal_code\":\"NE29 7PX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "23 Delaval Ave, Newcastle, NE29 7PX, GB",
     "phone": "07881 426569",
     "international_phone": "07881 426569",
     "website": "https://www.facebook.com/profile.php?id=100089446391313",
@@ -642,12 +659,12 @@
     "types": "Transportation service",
     "lat": 55.010793,
     "lng": -1.465092,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Direct-Removals",
-    "address": "{\"borough\":\"\",\"street\":\"104 High Northgate\",\"city\":\"Darlington\",\"postal_code\":\"DL1 1UR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "104 High Northgate, Darlington, DL1 1UR, GB",
     "phone": "07535 362591",
     "international_phone": "07535 362591",
     "website": "",
@@ -659,12 +676,12 @@
     "types": "Removals company",
     "lat": 54.534124,
     "lng": -1.552811,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Flavio Removals",
-    "address": "{\"borough\":\"Darlington\",\"street\":\"12 Jesmond Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL1 3HN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Jesmond Rd, Darlington, Darlington, DL1 3HN, GB",
     "phone": "07456 071310",
     "international_phone": "07456 071310",
     "website": "https://www.facebook.com/FlavioRemovals",
@@ -676,12 +693,12 @@
     "types": "Removals company",
     "lat": 54.543651,
     "lng": -1.518481,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Waste force junk & Rubbish removal",
-    "address": "{\"borough\":\"\",\"street\":\"Lingfield Cl\",\"city\":\"Darlington\",\"postal_code\":\"DL1 1RW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lingfield Cl, Darlington, DL1 1RW, GB",
     "phone": "07954 401111",
     "international_phone": "07954 401111",
     "website": "",
@@ -693,12 +710,12 @@
     "types": "Waste-Management Service",
     "lat": 54.529397,
     "lng": -1.515687,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Van man NE",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Sunderland\",\"postal_code\":\"SR5 5EA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Sunderland, SR5 5EA, GB",
     "phone": "07817 741409",
     "international_phone": "07817 741409",
     "website": "http://www.vanmanne.co.uk/",
@@ -710,12 +727,12 @@
     "types": "House clearance service",
     "lat": 54.922632,
     "lng": -1.443203,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Countrywide Removals",
-    "address": "{\"borough\":\"\",\"street\":\"21 Meldon Cl\",\"city\":\"Darlington\",\"postal_code\":\"DL1 2BB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21 Meldon Cl, Darlington, DL1 2BB, GB",
     "phone": "0800 009 6922",
     "international_phone": "0800 009 6922",
     "website": "",
@@ -727,12 +744,12 @@
     "types": "Removals company",
     "lat": 54.540142,
     "lng": -1.52854,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Sanderson's Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 9, Tofts Farm Industrial Estate West, Brenda Rd\",\"city\":\"Hartlepool\",\"postal_code\":\"TS25 2BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 9, Tofts Farm Industrial Estate West, Brenda Rd, Hartlepool, TS25 2BQ, GB",
     "phone": "01429 862600",
     "international_phone": "01429 862600",
     "website": "http://www.sandersonsremovals.co.uk/",
@@ -744,12 +761,12 @@
     "types": "Storage facility",
     "lat": 54.64575,
     "lng": -1.201378,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Clear Away Waste Removal",
-    "address": "{\"borough\":\"\",\"street\":\"26 Brankin Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL1 4LE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "26 Brankin Rd, Darlington, DL1 4LE, GB",
     "phone": "07399 466045",
     "international_phone": "07399 466045",
     "website": "https://clearawaywasteremovals.co.uk/",
@@ -761,12 +778,12 @@
     "types": "Waste-Management Service",
     "lat": 54.511353,
     "lng": -1.537215,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Newcastle Removal Company and House Clearance Service Specialists",
-    "address": "{\"borough\":\"Newcastle upon Tyne\",\"street\":\"Heaton Park View\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 5AH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Heaton Park View, Newcastle upon Tyne, Newcastle upon Tyne, NE6 5AH, GB",
     "phone": "07921 438722",
     "international_phone": "07921 438722",
     "website": "",
@@ -778,12 +795,12 @@
     "types": "Transportation service",
     "lat": 54.981692,
     "lng": -1.586354,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Hartgrove Bros",
-    "address": "{\"borough\":\"\",\"street\":\"C/O The Beautiful Blind Company, 95 -97 Acklam Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS5 5HR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "C/O The Beautiful Blind Company, 95 -97 Acklam Rd, Middlesbrough, TS5 5HR, GB",
     "phone": "01642 515200",
     "international_phone": "01642 515200",
     "website": "https://hartgrovebros.co.uk/",
@@ -795,12 +812,12 @@
     "types": "Removals company",
     "lat": 54.553527,
     "lng": -1.262386,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rubbish Busters Stockton",
-    "address": "{\"borough\":\"\",\"street\":\"128 Rosslare Rd\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS19 9LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "128 Rosslare Rd, Stockton-on-Tees, TS19 9LW, GB",
     "phone": "07865 991277",
     "international_phone": "07865 991277",
     "website": "",
@@ -812,12 +829,12 @@
     "types": "Waste Collection Service",
     "lat": 54.591385,
     "lng": -1.34241,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Kennedy's Man With A Van NE",
-    "address": "{\"borough\":\"\",\"street\":\"79 Willowbay Dr\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE13 9EP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "79 Willowbay Dr, Newcastle upon Tyne, NE13 9EP, GB",
     "phone": "0191 486 2833",
     "international_phone": "0191 486 2833",
     "website": "https://manwithavanne.co.uk/",
@@ -829,12 +846,12 @@
     "types": "Removals company",
     "lat": 55.032427,
     "lng": -1.640581,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Haughton Property Services",
-    "address": "{\"borough\":\"\",\"street\":\"15 Throstlenest Ave\",\"city\":\"Darlington\",\"postal_code\":\"DL1 2BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15 Throstlenest Ave, Darlington, DL1 2BH, GB",
     "phone": "01325 460818",
     "international_phone": "01325 460818",
     "website": "http://www.haughtonpropertyservices.com/",
@@ -846,12 +863,12 @@
     "types": "House clearance service",
     "lat": 54.533625,
     "lng": -1.532692,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Cottles Piano Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Orwell Gardens\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS19 7PX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Orwell Gardens, Stockton-on-Tees, TS19 7PX, GB",
     "phone": "01642 654559",
     "international_phone": "01642 654559",
     "website": "",
@@ -863,12 +880,12 @@
     "types": "Removals company",
     "lat": 54.564454,
     "lng": -1.358157,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Ace",
-    "address": "{\"borough\":\"\",\"street\":\"TEES BAY BUSINESS PARK, Brenda Rd\",\"city\":\"Hartlepool\",\"postal_code\":\"TS25 2BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "TEES BAY BUSINESS PARK, Brenda Rd, Hartlepool, TS25 2BU, GB",
     "phone": "01429 271900",
     "international_phone": "01429 271900",
     "website": "",
@@ -880,12 +897,12 @@
     "types": "Removals Service",
     "lat": 54.643651,
     "lng": -1.200298,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rubbish removals Darlington",
-    "address": "{\"borough\":\"\",\"street\":\"321 Haughton Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL1 2BP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "321 Haughton Rd, Darlington, DL1 2BP, GB",
     "phone": "07787 869399",
     "international_phone": "07787 869399",
     "website": "",
@@ -897,12 +914,12 @@
     "types": "Waste-Management Service",
     "lat": 54.534946,
     "lng": -1.531305,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Billingham Removals",
-    "address": "{\"borough\":\"Stockton-on-Tees\",\"street\":\"Unit 94, Ind Est, Haverton Hill Rd\",\"city\":\"Billingham\",\"postal_code\":\"TS23 1PZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 94, Ind Est, Haverton Hill Rd, Stockton-on-Tees, Billingham, TS23 1PZ, GB",
     "phone": "07903 265409",
     "international_phone": "07903 265409",
     "website": "",
@@ -914,12 +931,12 @@
     "types": "Delivery Company",
     "lat": 54.595472,
     "lng": -1.246617,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Billingham",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Van-It-uK / VanItuK",
-    "address": "{\"borough\":\"\",\"street\":\"office 115, 58 Low Friar St\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE1 5UD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "office 115, 58 Low Friar St, Newcastle upon Tyne, NE1 5UD, GB",
     "phone": "07923 236003",
     "international_phone": "07923 236003",
     "website": "https://van-it-uk.wixsite.com/vanituk",
@@ -931,12 +948,12 @@
     "types": "Transportation service",
     "lat": 54.971184,
     "lng": -1.618802,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Ronnie Rae Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"9 Queen St\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS6 8EB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Queen St, Middlesbrough, TS6 8EB, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://ronnieraeremovalsltd.co.uk/",
@@ -948,12 +965,12 @@
     "types": "House clearance service",
     "lat": 54.570153,
     "lng": -1.116589,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rubbish removal Darlington",
-    "address": "{\"borough\":\"Darlington\",\"street\":\"Dodsworth St\",\"city\":\"Darlington\",\"postal_code\":\"DL1 2UH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Dodsworth St, Darlington, Darlington, DL1 2UH, GB",
     "phone": "07787 869399",
     "international_phone": "07787 869399",
     "website": "https://www.checkatrade.com/trades/wrswasteremovalservices",
@@ -965,12 +982,12 @@
     "types": "Household waste recycling centre",
     "lat": 54.535205,
     "lng": -1.537514,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "N & N Removals Stockton",
-    "address": "{\"borough\":\"Thornaby\",\"street\":\"53 Priorwood Gardens\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS17 0YN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "53 Priorwood Gardens, Thornaby, Stockton-on-Tees, TS17 0YN, GB",
     "phone": "0800 955 0599",
     "international_phone": "0800 955 0599",
     "website": "http://www.nnremovals.co.uk/",
@@ -982,12 +999,12 @@
     "types": "Removals Service",
     "lat": 54.51257,
     "lng": -1.307104,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "J & M Removals",
-    "address": "{\"borough\":\"\",\"street\":\"65 Milton Square\",\"city\":\"Gateshead\",\"postal_code\":\"NE8 3HJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "65 Milton Square, Gateshead, NE8 3HJ, GB",
     "phone": "07784 258888",
     "international_phone": "07784 258888",
     "website": "http://www.jmremovals-gateshead.co.uk/",
@@ -999,12 +1016,12 @@
     "types": "Removals company",
     "lat": 54.956539,
     "lng": -1.59573,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Wombles House Clearances",
-    "address": "{\"borough\":\"\",\"street\":\"6 Allerton Gardens\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 5UT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Allerton Gardens, Newcastle upon Tyne, NE6 5UT, GB",
     "phone": "07880 315824",
     "international_phone": "07880 315824",
     "website": "http://www.wombleshouseclearances.co.uk/",
@@ -1016,12 +1033,12 @@
     "types": "Removals Service",
     "lat": 54.993548,
     "lng": -1.567241,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "RSF removals",
-    "address": "{\"borough\":\"\",\"street\":\"62 Glaisdale Rd\",\"city\":\"Guisborough\",\"postal_code\":\"TS14 8DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "62 Glaisdale Rd, Guisborough, TS14 8DF, GB",
     "phone": "07715 550836",
     "international_phone": "07715 550836",
     "website": "",
@@ -1033,12 +1050,12 @@
     "types": "Transportation service",
     "lat": 54.529923,
     "lng": -1.088302,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Guisborough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "CP REMOVALS AND HOUSE CLEARANCES LTD",
-    "address": "{\"borough\":\"Dudley\",\"street\":\"Flat 1, One Stop, West View\",\"city\":\"Cramlington\",\"postal_code\":\"NE23 7AB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 1, One Stop, West View, Dudley, Cramlington, NE23 7AB, GB",
     "phone": "0191 250 3522",
     "international_phone": "0191 250 3522",
     "website": "http://cpremovalsandhouseclearance.co.uk/",
@@ -1050,12 +1067,12 @@
     "types": "Removals company",
     "lat": 55.057121,
     "lng": -1.592201,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Cramlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Secure Move",
-    "address": "{\"borough\":\"\",\"street\":\"Lockerbie Gardens\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE15 7SJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lockerbie Gardens, Newcastle upon Tyne, NE15 7SJ, GB",
     "phone": "0191 691 0380",
     "international_phone": "0191 691 0380",
     "website": "http://securemoveservices.co.uk/",
@@ -1067,12 +1084,12 @@
     "types": "Removals company",
     "lat": 54.979732,
     "lng": -1.698979,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Taylors Waste Management",
-    "address": "{\"borough\":\"Sunniside\",\"street\":\"4 St Thomas' St\",\"city\":\"Sunderland\",\"postal_code\":\"SR1 1NW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 St Thomas' St, Sunniside, Sunderland, SR1 1NW, GB",
     "phone": "07496 573263",
     "international_phone": "07496 573263",
     "website": "http://taylorswastemanagement.com/",
@@ -1084,12 +1101,12 @@
     "types": "Waste-Management Service",
     "lat": 54.906502,
     "lng": -1.379798,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Vaultorp House Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 32A Ellesmere Ct\",\"city\":\"Sunderland\",\"postal_code\":\"SR2 9UA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 32A Ellesmere Ct, Sunderland, SR2 9UA, GB",
     "phone": "07826 322461",
     "international_phone": "07826 322461",
     "website": "http://www.vaultorp.com/",
@@ -1101,12 +1118,12 @@
     "types": "House clearance service",
     "lat": 54.880864,
     "lng": -1.376825,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Ashbrooke Tree Services",
-    "address": "{\"borough\":\"\",\"street\":\"2 Belle Vue Park\",\"city\":\"Sunderland\",\"postal_code\":\"SR2 7SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Belle Vue Park, Sunderland, SR2 7SA, GB",
     "phone": "07443 569383",
     "international_phone": "07443 569383",
     "website": "http://www.ashbrooketreeservices.co.uk/",
@@ -1118,12 +1135,12 @@
     "types": "Arborist service",
     "lat": 54.895681,
     "lng": -1.389206,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Churchills Removals & Storage",
-    "address": "{\"borough\":\"Hendon\",\"street\":\"Ropery Works\",\"city\":\"Sunderland\",\"postal_code\":\"SR1 2HA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ropery Works, Hendon, Sunderland, SR1 2HA, GB",
     "phone": "07931 230404",
     "international_phone": "07931 230404",
     "website": "http://www.churchillsremovals.co.uk/",
@@ -1135,12 +1152,12 @@
     "types": "Removals company",
     "lat": 54.902322,
     "lng": -1.371389,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Newcastle Removals UK",
-    "address": "{\"borough\":\"\",\"street\":\"58 Lindfield Ave\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE5 3NU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "58 Lindfield Ave, Newcastle upon Tyne, NE5 3NU, GB",
     "phone": "07772 425644",
     "international_phone": "07772 425644",
     "website": "",
@@ -1152,12 +1169,12 @@
     "types": "Transportation service",
     "lat": 54.991746,
     "lng": -1.669637,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "TONY'S REMOVALS",
-    "address": "{\"borough\":\"Eston\",\"street\":\"1 Lichfield Ave\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS6 9NQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Lichfield Ave, Eston, Middlesbrough, TS6 9NQ, GB",
     "phone": "07974 510147",
     "international_phone": "07974 510147",
     "website": "http://www.tonys-removals.co.uk/",
@@ -1169,12 +1186,12 @@
     "types": "Removals company",
     "lat": 54.564544,
     "lng": -1.146223,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Rid My Rubbish",
-    "address": "{\"borough\":\"\",\"street\":\"41 Claremont Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL1 4HQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "41 Claremont Rd, Darlington, DL1 4HQ, GB",
     "phone": "07596 052560",
     "international_phone": "07596 052560",
     "website": "https://ridmyrubbish.co.uk/",
@@ -1186,12 +1203,12 @@
     "types": "Waste-Management Service",
     "lat": 54.513516,
     "lng": -1.536274,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Discount Rubbish Removals",
-    "address": "{\"borough\":\"\",\"street\":\"54, Hume House\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 2BJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "54, Hume House, Stockton-on-Tees, TS18 2BJ, GB",
     "phone": "07772 687550",
     "international_phone": "07772 687550",
     "website": "https://discountrubbishremovals.co.uk/",
@@ -1203,12 +1220,12 @@
     "types": "Waste-Management Service",
     "lat": 54.570463,
     "lng": -1.314145,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Boro removals waste collection",
-    "address": "{\"borough\":\"Ormesby\",\"street\":\"24 Cedar Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS7 9DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Cedar Rd, Ormesby, Middlesbrough, TS7 9DL, GB",
     "phone": "07931 217465",
     "international_phone": "07931 217465",
     "website": "",
@@ -1220,12 +1237,12 @@
     "types": "Waste-Management Service",
     "lat": 54.545406,
     "lng": -1.170655,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Two Men and a Truck Removals",
-    "address": "{\"borough\":\"\",\"street\":\"The Yard Business Park, Benfield Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 4NQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Yard Business Park, Benfield Rd, Newcastle upon Tyne, NE6 4NQ, GB",
     "phone": "0191 731 8663",
     "international_phone": "0191 731 8663",
     "website": "https://twomenandatruck.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
@@ -1237,12 +1254,12 @@
     "types": "Removals Service",
     "lat": 54.985313,
     "lng": -1.564046,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Mr Shifter Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 1B, Whitestone Business Park, Saltwells Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS4 2EB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1B, Whitestone Business Park, Saltwells Rd, Middlesbrough, TS4 2EB, GB",
     "phone": "01642 241453",
     "international_phone": "01642 241453",
     "website": "http://www.mrshifter.co.uk/",
@@ -1254,12 +1271,12 @@
     "types": "Removals Service",
     "lat": 54.571143,
     "lng": -1.222401,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Wood's Removals & Storage Teesside LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 3a Usworth Rd\",\"city\":\"Hartlepool\",\"postal_code\":\"TS25 1PD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3a Usworth Rd, Hartlepool, TS25 1PD, GB",
     "phone": "0333 880 1441",
     "international_phone": "0333 880 1441",
     "website": "http://www.woodsmoving.co.uk/",
@@ -1271,12 +1288,12 @@
     "types": "Removals Service",
     "lat": 54.665176,
     "lng": -1.213136,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Removal Company Newcastle",
-    "address": "{\"borough\":\"\",\"street\":\"126-128 Benton Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE7 7DX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "126-128 Benton Rd, Newcastle upon Tyne, NE7 7DX, GB",
     "phone": "0191 228 6322",
     "international_phone": "0191 228 6322",
     "website": "https://www.manandavan.co/newcastle",
@@ -1288,12 +1305,12 @@
     "types": "Removals company",
     "lat": 55.001,
     "lng": -1.579503,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "WJ Waste Removals Ltd - Rubbish Removals Newcastle Upon Tyne",
-    "address": "{\"borough\":\"Gosforth\",\"street\":\"34 Rydal Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE3 1UR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Rydal Rd, Gosforth, Newcastle upon Tyne, NE3 1UR, GB",
     "phone": "07851 984614",
     "international_phone": "07851 984614",
     "website": "https://www.wjwasteremovalsltd.co.uk/",
@@ -1305,12 +1322,12 @@
     "types": "Waste Collection Service",
     "lat": 55.00986,
     "lng": -1.611305,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "SK WASTE REMOVAL Rubbish Removal Newcastle Upon Tyne",
-    "address": "{\"borough\":\"Elswick\",\"street\":\"74 Durham St\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE4 6XQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "74 Durham St, Elswick, Newcastle upon Tyne, NE4 6XQ, GB",
     "phone": "07553 429141",
     "international_phone": "07553 429141",
     "website": "http://www.skwasteremoval.co.uk/",
@@ -1322,12 +1339,12 @@
     "types": "Waste-Management Service",
     "lat": 54.970473,
     "lng": -1.643337,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Parnaby Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Inbox Parnaby Self Storage Ridgeway, Aycliffe Business Park\",\"city\":\"Newton Aycliffe\",\"postal_code\":\"DL5 6SP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Inbox Parnaby Self Storage Ridgeway, Aycliffe Business Park, Newton Aycliffe, DL5 6SP, GB",
     "phone": "01325 301840",
     "international_phone": "01325 301840",
     "website": "https://www.parnabyremovals.co.uk/",
@@ -1339,12 +1356,12 @@
     "types": "Removals company",
     "lat": 54.609207,
     "lng": -1.580966,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newton Aycliffe",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Vaughan Waste Services",
-    "address": "{\"borough\":\"\",\"street\":\"23 Redesdale Gardens\",\"city\":\"Gateshead\",\"postal_code\":\"NE11 9XH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "23 Redesdale Gardens, Gateshead, NE11 9XH, GB",
     "phone": "0191 622 6911",
     "international_phone": "0191 622 6911",
     "website": "https://www.vaughanwasteservices.com/",
@@ -1356,12 +1373,12 @@
     "types": "Waste-Management Service",
     "lat": 54.946225,
     "lng": -1.643397,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Up & Go - Man & Van",
-    "address": "{\"borough\":\"\",\"street\":\"Sunningdale Grn\",\"city\":\"Darlington\",\"postal_code\":\"DL1 3SB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Sunningdale Grn, Darlington, DL1 3SB, GB",
     "phone": "07939 580279",
     "international_phone": "07939 580279",
     "website": "http://upandgo-manandvan.co.uk/",
@@ -1373,12 +1390,12 @@
     "types": "Removals company",
     "lat": 54.544981,
     "lng": -1.521917,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "S&S waste removals Newcastle upon tyne",
-    "address": "{\"borough\":\"\",\"street\":\"43 Yewcroft Ave\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE15 6TX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "43 Yewcroft Ave, Newcastle upon Tyne, NE15 6TX, GB",
     "phone": "07806 803305",
     "international_phone": "07806 803305",
     "website": "http://s-s-waste-removals.com/",
@@ -1390,12 +1407,12 @@
     "types": "Waste Collection Service",
     "lat": 54.9772,
     "lng": -1.689242,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Cobra Waste Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2, Edmundsen Building, 90 Coronation St\",\"city\":\"Sunderland\",\"postal_code\":\"SR1 2HE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2, Edmundsen Building, 90 Coronation St, Sunderland, SR1 2HE, GB",
     "phone": "0191 521 4545",
     "international_phone": "0191 521 4545",
     "website": "http://www.cobrawasteremovals.co.uk/",
@@ -1407,12 +1424,12 @@
     "types": "Waste-Management Service",
     "lat": 54.906946,
     "lng": -1.370986,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Man & Van Sylvester",
-    "address": "{\"borough\":\"Walkergate\",\"street\":\"187 Fossway\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 4QX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "187 Fossway, Walkergate, Newcastle upon Tyne, NE6 4QX, GB",
     "phone": "07404 502500",
     "international_phone": "07404 502500",
     "website": "",
@@ -1424,12 +1441,12 @@
     "types": "Trucking company",
     "lat": 54.981737,
     "lng": -1.5594,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "House Clearance Specialists Newcastle",
-    "address": "{\"borough\":\"Gosforth\",\"street\":\"23 Knightsbridge Ct\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE3 2JW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "23 Knightsbridge Ct, Gosforth, Newcastle upon Tyne, NE3 2JW, GB",
     "phone": "0191 228 6322",
     "international_phone": "0191 228 6322",
     "website": "http://www.manandavan.co/#!about/c1erv",
@@ -1441,12 +1458,12 @@
     "types": "Removals company",
     "lat": 55.012756,
     "lng": -1.622088,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "The Van Squad",
-    "address": "{\"borough\":\"\",\"street\":\"Willow Sage Ct\",\"city\":\"Stockton-on-Tees\",\"postal_code\":\"TS18 3UQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Willow Sage Ct, Stockton-on-Tees, TS18 3UQ, GB",
     "phone": "07359 174604",
     "international_phone": "07359 174604",
     "website": "https://l.facebook.com/l.php?u=http%3A%2F%2Fthevansquad.godaddysites.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwcE43cEVqdFlHVXhnZ0xnOHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6wlgZZp2OGPv6gAJcPNs5P9Nir-JMfuqoqV8dnPISyfIJAfTshhOm_TDMGvQ_aem_lcvAPaGUrTDlYnBEP0Clwg&h=AT2vJS2VGiaTvKewUKIehDp9D_H3ferlM0FSpyPdGRNkMR5r6xcda5vNMnQUzrld3xNgL-eoF-xz-N4JkoOgWwyswcq_vNDjbhg5TmBS-q5UU0EWVmXROBY_UPuY4sOGgEyZiw4fHaFs888xCVddOw",
@@ -1458,12 +1475,12 @@
     "types": "Removals company",
     "lat": 54.541566,
     "lng": -1.316649,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Quicksilver Moving & Storage",
-    "address": "{\"borough\":\"Throckley\",\"street\":\"Ponteland Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE15 9EP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ponteland Rd, Throckley, Newcastle upon Tyne, NE15 9EP, GB",
     "phone": "0191 264 6677",
     "international_phone": "0191 264 6677",
     "website": "http://www.quicksilverthemover.com/",
@@ -1475,12 +1492,12 @@
     "types": "Removals company",
     "lat": 54.998536,
     "lng": -1.757565,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Schott Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 20, Lingfield Point\",\"city\":\"Darlington\",\"postal_code\":\"DL1 1RW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 20, Lingfield Point, Darlington, DL1 1RW, GB",
     "phone": "01325 487091",
     "international_phone": "01325 487091",
     "website": "https://schottremovals.co.uk/",
@@ -1492,12 +1509,12 @@
     "types": "Removals Service",
     "lat": 54.530149,
     "lng": -1.514701,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A D Removals",
-    "address": "{\"borough\":\"\",\"street\":\"103 Chalford Oaks\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS5 8QQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "103 Chalford Oaks, Middlesbrough, TS5 8QQ, GB",
     "phone": "01642 812852",
     "international_phone": "01642 812852",
     "website": "",
@@ -1509,12 +1526,12 @@
     "types": "Removals Service",
     "lat": 54.547668,
     "lng": -1.26928,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Household Waste Recycling Centre",
-    "address": "{\"borough\":\"Stockton-on-Tees\",\"street\":\"\",\"city\":\"Billingham\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Stockton-on-Tees, Billingham, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://www.stockton.gov.uk/article/1401/Haverton-Hill-household-waste-recycling-centre",
@@ -1526,12 +1543,12 @@
     "types": "Recycling Centre",
     "lat": 54.597123,
     "lng": -1.25358,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Billingham",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A 2 B Removals",
-    "address": "{\"borough\":\"Thorney Close\",\"street\":\"3 Telford Rd\",\"city\":\"Sunderland\",\"postal_code\":\"SR3 4JA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3 Telford Rd, Thorney Close, Sunderland, SR3 4JA, GB",
     "phone": "07957 443070",
     "international_phone": "07957 443070",
     "website": "http://a2bremovalssunderland.co.uk/",
@@ -1543,12 +1560,12 @@
     "types": "Removals Service",
     "lat": 54.887093,
     "lng": -1.426078,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "N&N Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"11 Carcut Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS3 6QL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Carcut Rd, Middlesbrough, TS3 6QL, GB",
     "phone": "0800 955 0599",
     "international_phone": "0800 955 0599",
     "website": "http://www.nnremovals.co.uk/",
@@ -1560,12 +1577,12 @@
     "types": "Removals Service",
     "lat": 54.573184,
     "lng": -1.205977,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Britannia Devereux",
-    "address": "{\"borough\":\"\",\"street\":\"Cowpen Lane Industrial Estate, 9 Daimler Dr\",\"city\":\"Billingham\",\"postal_code\":\"TS23 4JD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Cowpen Lane Industrial Estate, 9 Daimler Dr, Billingham, TS23 4JD, GB",
     "phone": "01642 565182",
     "international_phone": "01642 565182",
     "website": "https://www.britannia-movers.co.uk/branch/britannia-devereux-removals",
@@ -1577,12 +1594,12 @@
     "types": "Removals Service",
     "lat": 54.610193,
     "lng": -1.260713,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Billingham",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "CS Removals and Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Adair Way Bedewell Industrial Park, Unit 1\",\"city\":\"Hebburn\",\"postal_code\":\"NE31 2XQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Adair Way Bedewell Industrial Park, Unit 1, Hebburn, NE31 2XQ, GB",
     "phone": "0191 489 6000",
     "international_phone": "0191 489 6000",
     "website": "http://www.hcrremovalsandstorage.co.uk/",
@@ -1594,12 +1611,12 @@
     "types": "Removals company",
     "lat": 54.972652,
     "lng": -1.498907,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hebburn",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A Aaron & Mayfair Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Pert Rd\",\"city\":\"Hartlepool\",\"postal_code\":\"TS24 9PP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Pert Rd, Hartlepool, TS24 9PP, GB",
     "phone": "01429 862344",
     "international_phone": "01429 862344",
     "website": "https://www.a-aaron-and-mayfair-removals.co.uk/",
@@ -1611,12 +1628,12 @@
     "types": "Removals company",
     "lat": 54.712412,
     "lng": -1.236058,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A1 Rubbish Removal Darlington",
-    "address": "{\"borough\":\"\",\"street\":\"268 Whessoe Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL3 0RD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "268 Whessoe Rd, Darlington, DL3 0RD, GB",
     "phone": "07795 359763",
     "international_phone": "07795 359763",
     "website": "",
@@ -1628,12 +1645,29 @@
     "types": "Waste-Management Service",
     "lat": 54.542163,
     "lng": -1.558473,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
+  },
+  {
+    "name": "More Than Removals Newcastle",
+    "address": "Unit 4 Newburn Bridge Rd, Blaydon-on-Tyne, NE21 4NT, GB",
+    "phone": "0800 246 1095",
+    "international_phone": "0800 246 1095",
+    "website": "https://morethanremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/More+Than+Removals+Newcastle/data=!4m7!3m6!1s0x48773375fbf0ab7d:0xaa93fda1f0961234!8m2!3d54.9751765!4d-1.7389807!16s%2Fg%2F1pxq2zrrn!19sChIJfavw-3Uzd0gRNBKW8KH9k6o?authuser=0&hl=en&rclk=1",
+    "rating": 4.4,
+    "total_reviews": 30,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20132\u202fpm\"],\"Monday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:30\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 54.975176,
+    "lng": -1.738981,
+    "found_in_location": "Blaydon-on-Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Man & A Van Removals & Clearances",
-    "address": "{\"borough\":\"Middle Farm Buildings, Cramlington\",\"street\":\"Cramlington Voluntary Youth Project\",\"city\":\"Cramlington\",\"postal_code\":\"NE23 1DN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Cramlington Voluntary Youth Project, Middle Farm Buildings, Cramlington, Cramlington, NE23 1DN, GB",
     "phone": "0191 228 6322",
     "international_phone": "0191 228 6322",
     "website": "http://manandavannewcastle.co.uk/",
@@ -1645,12 +1679,12 @@
     "types": "Removals Service",
     "lat": 55.086621,
     "lng": -1.583739,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Cramlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "L & L Braines",
-    "address": "{\"borough\":\"\",\"street\":\"10 Mill St\",\"city\":\"Sunderland\",\"postal_code\":\"SR4 7BG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Mill St, Sunderland, SR4 7BG, GB",
     "phone": "0191 565 6530",
     "international_phone": "0191 565 6530",
     "website": "http://www.brainesremovals.co.uk/",
@@ -1662,12 +1696,12 @@
     "types": "Removals Service",
     "lat": 54.906037,
     "lng": -1.399755,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "ASDCP Removals",
-    "address": "{\"borough\":\"\",\"street\":\"10 Portman St\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS1 4DQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Portman St, Middlesbrough, TS1 4DQ, GB",
     "phone": "07552 344244",
     "international_phone": "07552 344244",
     "website": "https://asdcpremovals.co.uk/",
@@ -1679,12 +1713,12 @@
     "types": "Removals company",
     "lat": 54.571685,
     "lng": -1.239809,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "S & S Removals",
-    "address": "{\"borough\":\"Wrekenton\",\"street\":\"Whinney House, Springwell Rd\",\"city\":\"Gateshead\",\"postal_code\":\"NE9 7AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Whinney House, Springwell Rd, Wrekenton, Gateshead, NE9 7AA, GB",
     "phone": "0191 427 0470",
     "international_phone": "0191 427 0470",
     "website": "https://sandsremovals.co.uk/",
@@ -1696,12 +1730,12 @@
     "types": "Removals company",
     "lat": 54.926459,
     "lng": -1.567711,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Nelsons of Durham",
-    "address": "{\"borough\":\"\",\"street\":\"The Bungalow, Hartside\",\"city\":\"Durham\",\"postal_code\":\"DH1 5RF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Bungalow, Hartside, Durham, DH1 5RF, GB",
     "phone": "0191 386 7332",
     "international_phone": "0191 386 7332",
     "website": "http://www.nelsonsofdurham.co.uk/",
@@ -1713,12 +1747,12 @@
     "types": "Removals company",
     "lat": 54.800079,
     "lng": -1.615833,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Bishop's Move Newcastle",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 4, The Preserving Works, Newburn Industrial Estate, Shelley Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE15 9RT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, The Preserving Works, Newburn Industrial Estate, Shelley Rd, Newcastle upon Tyne, NE15 9RT, GB",
     "phone": "0191 300 9062",
     "international_phone": "0191 300 9062",
     "website": "http://www.bishopsmove.com/removals-newcastle/",
@@ -1730,12 +1764,12 @@
     "types": "Removals Service",
     "lat": 54.977253,
     "lng": -1.727696,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Get rid of it - rubbish removals",
-    "address": "{\"borough\":\"\",\"street\":\"35 Springfield Rd\",\"city\":\"Middlesbrough\",\"postal_code\":\"TS5 4LG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "35 Springfield Rd, Middlesbrough, TS5 4LG, GB",
     "phone": "01642 881229",
     "international_phone": "01642 881229",
     "website": "",
@@ -1747,12 +1781,12 @@
     "types": "Waste Collection Service",
     "lat": 54.559752,
     "lng": -1.264603,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Focus Removals and Storage Teesside.",
-    "address": "{\"borough\":\"\",\"street\":\"Mainsforth Terrace\",\"city\":\"Hartlepool\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Mainsforth Terrace, Hartlepool, GB",
     "phone": "01429 867600",
     "international_phone": "01429 867600",
     "website": "http://www.focusremovals.co.uk/",
@@ -1764,12 +1798,12 @@
     "types": "Removals company",
     "lat": 54.678517,
     "lng": -1.201363,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Low Fell Removals",
-    "address": "{\"borough\":\"Roker\",\"street\":\"Ropery Works, Portobello Lane\",\"city\":\"Sunderland\",\"postal_code\":\"SR6 0DN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ropery Works, Portobello Lane, Roker, Sunderland, SR6 0DN, GB",
     "phone": "0191 487 9997",
     "international_phone": "0191 487 9997",
     "website": "https://www.lowfellremovals.co.uk/",
@@ -1781,12 +1815,12 @@
     "types": "Removals Service",
     "lat": 54.917202,
     "lng": -1.380396,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Pickfords Moving and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Benton House, bellway industrial estate\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE12 9SW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Benton House, bellway industrial estate, Newcastle upon Tyne, NE12 9SW, GB",
     "phone": "0191 497 3800",
     "international_phone": "0191 497 3800",
     "website": "https://www.pickfords.co.uk/",
@@ -1798,12 +1832,12 @@
     "types": "Storage facility",
     "lat": 55.016654,
     "lng": -1.552459,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Man With A Van (Newcastle)",
-    "address": "{\"borough\":\"\",\"street\":\"5 Groat Market\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE1 1ED\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Groat Market, Newcastle upon Tyne, NE1 1ED, GB",
     "phone": "07960 861198",
     "international_phone": "07960 861198",
     "website": "",
@@ -1815,12 +1849,12 @@
     "types": "Removals Service",
     "lat": 54.970224,
     "lng": -1.612444,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Man & Van Newcastle",
-    "address": "{\"borough\":\"\",\"street\":\"25 hexham House, Walker\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE6 3HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 hexham House, Walker, Newcastle upon Tyne, NE6 3HY, GB",
     "phone": "07716 272265",
     "international_phone": "07716 272265",
     "website": "",
@@ -1832,12 +1866,12 @@
     "types": "Removals company",
     "lat": 54.97411,
     "lng": -1.549825,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Dun N Dusted Rubbish Removal Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"16, Deptford Industrial Estate\",\"city\":\"Sunderland\",\"postal_code\":\"SR4 6DD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16, Deptford Industrial Estate, Sunderland, SR4 6DD, GB",
     "phone": "0191 581 1004",
     "international_phone": "0191 581 1004",
     "website": "https://www.dun-n-dustedrubbishremovals.co.uk/",
@@ -1849,12 +1883,12 @@
     "types": "Waste Collection Service",
     "lat": 54.913312,
     "lng": -1.399029,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Removals Newcastle",
-    "address": "{\"borough\":\"Spital Tongues\",\"street\":\"32a Claremont Rd\",\"city\":\"Newcastle upon Tyne\",\"postal_code\":\"NE2 4NL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32a Claremont Rd, Spital Tongues, Newcastle upon Tyne, NE2 4NL, GB",
     "phone": "0191 917 4455",
     "international_phone": "0191 917 4455",
     "website": "https://www.removalsnewcastle.org.uk/",
@@ -1866,12 +1900,12 @@
     "types": "Removals company",
     "lat": 54.984882,
     "lng": -1.628278,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Mel Smallwood & Son Removals",
-    "address": "{\"borough\":\"Springwell\",\"street\":\"69 Springwell Rd\",\"city\":\"Sunderland\",\"postal_code\":\"SR3 4DZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "69 Springwell Rd, Springwell, Sunderland, SR3 4DZ, GB",
     "phone": "07957 939310",
     "international_phone": "07957 939310",
     "website": "",
@@ -1883,12 +1917,12 @@
     "types": "Removals Service",
     "lat": 54.891058,
     "lng": -1.425355,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Durham Rubbish Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Utilities House, Whessoe Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL3 0XE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Utilities House, Whessoe Rd, Darlington, DL3 0XE, GB",
     "phone": "07795 359763",
     "international_phone": "07795 359763",
     "website": "http://durhamrubbishremovals.co.uk/",
@@ -1900,12 +1934,12 @@
     "types": "Waste-Management Service",
     "lat": 54.553414,
     "lng": -1.560586,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "Middlesbrough Rubbish Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Utilities House, Whessoe Rd\",\"city\":\"Darlington\",\"postal_code\":\"DL3 0XE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Utilities House, Whessoe Rd, Darlington, DL3 0XE, GB",
     "phone": "0800 292 7650",
     "international_phone": "0800 292 7650",
     "website": "http://middlesbroughrubbishremovals.co.uk/",
@@ -1917,12 +1951,12 @@
     "types": "Waste-Management Service",
     "lat": 54.553414,
     "lng": -1.560586,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   },
   {
     "name": "A1 Rubbish Removal Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"5 Chestnut Dr\",\"city\":\"Darlington\",\"postal_code\":\"DL1 4RR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Chestnut Dr, Darlington, DL1 4RR, GB",
     "phone": "07795 359763",
     "international_phone": "07795 359763",
     "website": "https://www.a1rubbishremoval.net/",
@@ -1934,7 +1968,7 @@
     "types": "Waste-Management Service",
     "lat": 54.512174,
     "lng": -1.524236,
-    "found_in_location": "northeast",
-    "found_with_query": "removal companies northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "removals northeast"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "name": "Plaza Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"142 Bentworth Rd\",\"city\":\"London\",\"postal_code\":\"W12 7AH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "142 Bentworth Rd, London, W12 7AH, GB",
     "phone": "020 8874 0090",
     "international_phone": "020 8874 0090",
     "website": "https://plazaremovals.co.uk/",
@@ -13,12 +13,12 @@
     "types": "Removals company",
     "lat": 51.515197,
     "lng": -0.228987,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "The Man Van London",
-    "address": "{\"borough\":\"\",\"street\":\"18 Addington Rd\",\"city\":\"London\",\"postal_code\":\"E16 4NG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18 Addington Rd, London, E16 4NG, GB",
     "phone": "020 3773 9113",
     "international_phone": "020 3773 9113",
     "website": "https://www.themanvan.co.uk/",
@@ -30,12 +30,12 @@
     "types": "Removals Service",
     "lat": 51.520732,
     "lng": 0.007857,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Finest Van London Removals",
-    "address": "{\"borough\":\"\",\"street\":\"7 Bell Yard\",\"city\":\"London\",\"postal_code\":\"WC2A 2JR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 Bell Yard, London, WC2A 2JR, GB",
     "phone": "020 7870 1091",
     "international_phone": "020 7870 1091",
     "website": "http://www.finestvan.co.uk/",
@@ -47,12 +47,29 @@
     "types": "Removals Service",
     "lat": 51.51416,
     "lng": -0.111776,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Top Men Removals London",
+    "address": "Belvue Business Centre, UNIT 20 Belvue Rd, Northolt, UB5 5QQ, GB",
+    "phone": "020 8050 3957",
+    "international_phone": "020 8050 3957",
+    "website": "https://www.topmenremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Top+Men+Removals+London/data=!4m7!3m6!1s0x48760d7960fb8729:0x24bb977985bac20e!8m2!3d51.5455167!4d-0.3614998!16s%2Fg%2F11r882wff7!19sChIJKYf7YHkNdkgRDsK6hXmXuyQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 531,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.545517,
+    "lng": -0.3615,
+    "found_in_location": "Northolt",
+    "found_with_query": "removals london"
   },
   {
     "name": "Pask's Removals",
-    "address": "{\"borough\":\"\",\"street\":\"200 Eltham Rd\",\"city\":\"London\",\"postal_code\":\"SE9 5LN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "200 Eltham Rd, London, SE9 5LN, GB",
     "phone": "07946 723444",
     "international_phone": "07946 723444",
     "website": "https://www.pasksremovals.com/",
@@ -64,12 +81,12 @@
     "types": "Removals company",
     "lat": 51.452685,
     "lng": 0.033855,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Junk Guy Rubbish Removal",
-    "address": "{\"borough\":\"\",\"street\":\"23 Park End\",\"city\":\"Bromley\",\"postal_code\":\"BR1 4AN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "23 Park End, Bromley, BR1 4AN, GB",
     "phone": "07979 088858",
     "international_phone": "07979 088858",
     "website": "https://junkguy.co.uk/",
@@ -81,12 +98,12 @@
     "types": "Waste-Management Service",
     "lat": 51.410448,
     "lng": 0.008799,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "MTC London Removals Company",
-    "address": "{\"borough\":\"\",\"street\":\"87 Devonshire Rd\",\"city\":\"London\",\"postal_code\":\"E16 3NL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "87 Devonshire Rd, London, E16 3NL, GB",
     "phone": "020 3811 8380",
     "international_phone": "020 3811 8380",
     "website": "https://mtcremovals.com/",
@@ -98,12 +115,12 @@
     "types": "Removals company",
     "lat": 51.513271,
     "lng": 0.030863,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London Man And Van.net",
-    "address": "{\"borough\":\"\",\"street\":\"1 Ballards Ln\",\"city\":\"London\",\"postal_code\":\"N3 1LQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Ballards Ln, London, N3 1LQ, GB",
     "phone": "0800 994 9596",
     "international_phone": "0800 994 9596",
     "website": "http://www.londonmanandvan.net/",
@@ -115,12 +132,12 @@
     "types": "Removals company",
     "lat": 51.601952,
     "lng": -0.193109,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "RMV Storage & Removals",
-    "address": "{\"borough\":\"\",\"street\":\"25, Innova Park, Office 116b Vision, Electric Ave\",\"city\":\"Enfield\",\"postal_code\":\"EN3 7GD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25, Innova Park, Office 116b Vision, Electric Ave, Enfield, EN3 7GD, GB",
     "phone": "020 8090 0232",
     "international_phone": "020 8090 0232",
     "website": "https://www.rmvlondon.com/",
@@ -132,12 +149,12 @@
     "types": "Removals company",
     "lat": 51.673311,
     "lng": -0.023482,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "JP Man and Van Ltd. - Compare Man and Van London and all the UK",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 3, The Thrive, Surrey Quays Shopping Centre, Redriff Rd\",\"city\":\"London\",\"postal_code\":\"SE16 7LL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3, The Thrive, Surrey Quays Shopping Centre, Redriff Rd, London, SE16 7LL, GB",
     "phone": "07925 405549",
     "international_phone": "07925 405549",
     "website": "https://jpmanandvan.co.uk/",
@@ -149,12 +166,12 @@
     "types": "Removals company",
     "lat": 51.495433,
     "lng": -0.046945,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Giant Removals",
-    "address": "{\"borough\":\"\",\"street\":\"24 Belmont Rd\",\"city\":\"London\",\"postal_code\":\"N17 6AX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Belmont Rd, London, N17 6AX, GB",
     "phone": "020 3393 1702",
     "international_phone": "020 3393 1702",
     "website": "https://giantremovals.co.uk/",
@@ -166,12 +183,12 @@
     "types": "Removals company",
     "lat": 51.587528,
     "lng": -0.0943,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Cwc Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 004, 70 Putney Bridge Rd\",\"city\":\"London\",\"postal_code\":\"SW18 1HR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 004, 70 Putney Bridge Rd, London, SW18 1HR, GB",
     "phone": "020 8316 2627",
     "international_phone": "020 8316 2627",
     "website": "http://cwcremovals.co.uk/",
@@ -183,12 +200,12 @@
     "types": "Removals Service",
     "lat": 51.459589,
     "lng": -0.198235,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "MoveMates | Man with a Van Moving & Removals Service in Romford",
-    "address": "{\"borough\":\"\",\"street\":\"Jhumat House, 160 London Rd\",\"city\":\"Barking\",\"postal_code\":\"IG11 8BB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Jhumat House, 160 London Rd, Barking, IG11 8BB, GB",
     "phone": "020 8044 4025",
     "international_phone": "020 8044 4025",
     "website": "https://movemates.uk/",
@@ -200,12 +217,12 @@
     "types": "Removals Service",
     "lat": 51.537187,
     "lng": 0.070026,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Barking",
+    "found_with_query": "removals london"
   },
   {
     "name": "Better Call Tom - Man & Van",
-    "address": "{\"borough\":\"\",\"street\":\"Inwen Court, Grinstead Rd\",\"city\":\"London\",\"postal_code\":\"SE8 5BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Inwen Court, Grinstead Rd, London, SE8 5BL, GB",
     "phone": "07544 680124",
     "international_phone": "07544 680124",
     "website": "http://bettercalltom.co.uk/",
@@ -217,12 +234,12 @@
     "types": "Removals company",
     "lat": 51.485215,
     "lng": -0.039128,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "SMS man and van",
-    "address": "{\"borough\":\"\",\"street\":\"White Horse Lane, 115 New Rd\",\"city\":\"London\",\"postal_code\":\"E1 1HJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "White Horse Lane, 115 New Rd, London, E1 1HJ, GB",
     "phone": "07450 252313",
     "international_phone": "07450 252313",
     "website": "http://smsmanandvan.com/",
@@ -234,12 +251,12 @@
     "types": "Removals Service",
     "lat": 51.517812,
     "lng": -0.062832,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Handy Van Guys. Man & Van Service",
-    "address": "{\"borough\":\"\",\"street\":\"5a Selkirk Rd\",\"city\":\"London\",\"postal_code\":\"SW17 0ER\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5a Selkirk Rd, London, SW17 0ER, GB",
     "phone": "020 8150 7242",
     "international_phone": "020 8150 7242",
     "website": "",
@@ -251,12 +268,12 @@
     "types": "Removals company",
     "lat": 51.429311,
     "lng": -0.16724,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Metric Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Riversdale Rd\",\"city\":\"Romford\",\"postal_code\":\"RM5 2NP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Riversdale Rd, Romford, RM5 2NP, GB",
     "phone": "07957 377006",
     "international_phone": "07957 377006",
     "website": "http://www.metricremovals.co.uk/",
@@ -268,12 +285,12 @@
     "types": "Removals Service",
     "lat": 51.600578,
     "lng": 0.159306,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "London House Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"313B Hoe St\",\"city\":\"London\",\"postal_code\":\"E17 9BG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "313B Hoe St, London, E17 9BG, GB",
     "phone": "020 7118 7778",
     "international_phone": "020 7118 7778",
     "website": "http://londonhouseremovals.com/",
@@ -285,12 +302,12 @@
     "types": "Removals company",
     "lat": 51.57855,
     "lng": -0.017146,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Special Removals - Man and Van London",
-    "address": "{\"borough\":\"\",\"street\":\"19a Honeywood Rd\",\"city\":\"London\",\"postal_code\":\"NW10 4UU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "19a Honeywood Rd, London, NW10 4UU, GB",
     "phone": "07946 139129",
     "international_phone": "07946 139129",
     "website": "https://specialremovals.co.uk/",
@@ -302,12 +319,12 @@
     "types": "Removals company",
     "lat": 51.533617,
     "lng": -0.246722,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Volition Removals",
-    "address": "{\"borough\":\"\",\"street\":\"24 Christchurch Cl\",\"city\":\"London\",\"postal_code\":\"SW19 2NZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Christchurch Cl, London, SW19 2NZ, GB",
     "phone": "07885 609699",
     "international_phone": "07885 609699",
     "website": "https://www.volitionremovals.com/",
@@ -319,12 +336,12 @@
     "types": "Removals company",
     "lat": 51.416255,
     "lng": -0.175009,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Amber Moves",
-    "address": "{\"borough\":\"\",\"street\":\"79 Renters Ave\",\"city\":\"London\",\"postal_code\":\"NW4 3RD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "79 Renters Ave, London, NW4 3RD, GB",
     "phone": "020 8201 5488",
     "international_phone": "020 8201 5488",
     "website": "http://www.ambermoves.com/",
@@ -336,12 +353,12 @@
     "types": "Removals Service",
     "lat": 51.57825,
     "lng": -0.218993,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Your Man With A Van",
-    "address": "{\"borough\":\"\",\"street\":\"576 Hertford Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN3 5SU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "576 Hertford Rd, Enfield, EN3 5SU, GB",
     "phone": "020 8088 4328",
     "international_phone": "020 8088 4328",
     "website": "https://yourmanwithavan.com/enfield-london/",
@@ -353,12 +370,29 @@
     "types": "Removals Service",
     "lat": 51.668909,
     "lng": -0.041507,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Presidential Removal Ltd",
+    "address": "21 Hart Cres, Chigwell, IG7 4DU, GB",
+    "phone": "020 8087 0035",
+    "international_phone": "020 8087 0035",
+    "website": "https://presidentialremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Presidential+Removal+Ltd/data=!4m7!3m6!1s0x429233792a051491:0xc78d61ae7fd0517e!8m2!3d51.6091387!4d0.1072301!16s%2Fg%2F11k43nhnxy!19sChIJkRQFKnkzkkIRflHQf65hjcc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 174,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139:30\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.609139,
+    "lng": 0.10723,
+    "found_in_location": "Chigwell",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removals and Storage Experts London",
-    "address": "{\"borough\":\"\",\"street\":\"Office 03, 12 Jenner Ave\",\"city\":\"London\",\"postal_code\":\"W3 6EQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 03, 12 Jenner Ave, London, W3 6EQ, GB",
     "phone": "020 8351 7101",
     "international_phone": "020 8351 7101",
     "website": "https://removalsandstoragex.com/",
@@ -370,12 +404,12 @@
     "types": "Removals company",
     "lat": 51.519436,
     "lng": -0.261739,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "AA Power Removals - Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"Office 3335 182, 184 High St N\",\"city\":\"London\",\"postal_code\":\"E6 2JA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 3335 182, 184 High St N, London, E6 2JA, GB",
     "phone": "07708 080847",
     "international_phone": "07708 080847",
     "website": "http://www.aapowerremovals.com/",
@@ -387,12 +421,12 @@
     "types": "Removals company",
     "lat": 51.538519,
     "lng": 0.051586,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Shirleys Removals",
-    "address": "{\"borough\":\"\",\"street\":\"20-22 Wenlock Rd\",\"city\":\"London\",\"postal_code\":\"N1 7GU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20-22 Wenlock Rd, London, N1 7GU, GB",
     "phone": "020 3874 1307",
     "international_phone": "020 3874 1307",
     "website": "https://www.shirleysremovals.com/",
@@ -404,12 +438,29 @@
     "types": "Removals Service",
     "lat": 51.530577,
     "lng": -0.093545,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "A-Z Move Ltd",
+    "address": "98 Slewins Ln, Hornchurch, RM11 2BU, GB",
+    "phone": "07525 821583",
+    "international_phone": "07525 821583",
+    "website": "http://a-zmove.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/A-Z+Move+Ltd/data=!4m7!3m6!1s0x47d8bb893795cddf:0x6bc6a523f90106d2!8m2!3d51.5747826!4d0.212641!16s%2Fg%2F11qyj9jm75!19sChIJ382VN4m72EcR0gYB-SOlxms?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 164,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"7\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.574783,
+    "lng": 0.212641,
+    "found_in_location": "Hornchurch",
+    "found_with_query": "removals london"
   },
   {
     "name": "Affordable Moves & Transport LTD",
-    "address": "{\"borough\":\"\",\"street\":\"65 Shroffold Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 5PD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "65 Shroffold Rd, Bromley, BR1 5PD, GB",
     "phone": "020 3251 0259",
     "international_phone": "020 3251 0259",
     "website": "http://www.affordable-moves.com/",
@@ -421,12 +472,12 @@
     "types": "Removals Service",
     "lat": 51.429616,
     "lng": 0.003203,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "EUROBR Removals",
-    "address": "{\"borough\":\"Mitcham, Croydon\",\"street\":\"Challenge House, Mitcham Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 3AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Challenge House, Mitcham Rd, Mitcham, Croydon, Croydon, CR0 3AA, GB",
     "phone": "07878 921856",
     "international_phone": "07878 921856",
     "website": "http://eurobrtr.com/",
@@ -438,12 +489,12 @@
     "types": "Removals Service",
     "lat": 51.389543,
     "lng": -0.128987,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Superb Moves London",
-    "address": "{\"borough\":\"\",\"street\":\"19 Eardley Rd\",\"city\":\"London\",\"postal_code\":\"SW16 6DA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "19 Eardley Rd, London, SW16 6DA, GB",
     "phone": "020 7101 3681",
     "international_phone": "020 7101 3681",
     "website": "https://superbmoves.co.uk/",
@@ -455,12 +506,12 @@
     "types": "Removals Service",
     "lat": 51.424709,
     "lng": -0.139557,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "One Step Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Westgate House\",\"city\":\"London\",\"postal_code\":\"W5 1EL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Westgate House, London, W5 1EL, GB",
     "phone": "07748 774177",
     "international_phone": "07748 774177",
     "website": "https://onestepremovals.co.uk/",
@@ -472,12 +523,12 @@
     "types": "Removals company",
     "lat": 51.531322,
     "lng": -0.29574,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Transport Masters",
-    "address": "{\"borough\":\"\",\"street\":\"Maddison House, 226 High St\",\"city\":\"Croydon\",\"postal_code\":\"CR9 1DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Maddison House, 226 High St, Croydon, CR9 1DF, GB",
     "phone": "020 3375 6413",
     "international_phone": "020 3375 6413",
     "website": "https://www.transportmasters.co.uk/",
@@ -489,12 +540,12 @@
     "types": "Removals company",
     "lat": 51.369239,
     "lng": -0.099866,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Sam Removals - Moving Man And Van Near Me W14 London",
-    "address": "{\"borough\":\"\",\"street\":\"7 North End Crescent\",\"city\":\"London\",\"postal_code\":\"W14 8TG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 North End Crescent, London, W14 8TG, GB",
     "phone": "07799 545411",
     "international_phone": "07799 545411",
     "website": "https://www.samremovals.co.uk/",
@@ -506,12 +557,12 @@
     "types": "Removals company",
     "lat": 51.49253,
     "lng": -0.207066,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "DTT Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 1045, Access Self Storage, 13 Whitestone Way, Purley Way\",\"city\":\"Croydon\",\"postal_code\":\"CR0 4WF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1045, Access Self Storage, 13 Whitestone Way, Purley Way, Croydon, CR0 4WF, GB",
     "phone": "020 3911 6849",
     "international_phone": "020 3911 6849",
     "website": "http://www.dttremovals.co.uk/",
@@ -523,12 +574,12 @@
     "types": "Removals Service",
     "lat": 51.373792,
     "lng": -0.117354,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "RAD Removals And Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2001, Manor Rd\",\"city\":\"London\",\"postal_code\":\"W13 0AS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2001, Manor Rd, London, W13 0AS, GB",
     "phone": "020 3633 6820",
     "international_phone": "020 3633 6820",
     "website": "https://www.radremovals.co.uk/",
@@ -540,12 +591,12 @@
     "types": "Removals company",
     "lat": 51.513584,
     "lng": -0.325186,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "City Man And Van London",
-    "address": "{\"borough\":\"\",\"street\":\"297 Kilburn Ln\",\"city\":\"London\",\"postal_code\":\"W9 3EG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "297 Kilburn Ln, London, W9 3EG, GB",
     "phone": "07950 111555",
     "international_phone": "07950 111555",
     "website": "http://www.citymanandvan.com/",
@@ -557,12 +608,12 @@
     "types": "Removals Service",
     "lat": 51.533095,
     "lng": -0.205629,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Eddy Removals",
-    "address": "{\"borough\":\"\",\"street\":\"82 Goldsmith Rd\",\"city\":\"London\",\"postal_code\":\"N11 3JN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "82 Goldsmith Rd, London, N11 3JN, GB",
     "phone": "07590 549723",
     "international_phone": "07590 549723",
     "website": "http://www.eddy-removals.co.uk/",
@@ -574,12 +625,12 @@
     "types": "Removals Service",
     "lat": 51.614556,
     "lng": -0.157196,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Bell a Move Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Challenge House, Mitcham Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 3AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Challenge House, Mitcham Rd, Croydon, CR0 3AA, GB",
     "phone": "020 3488 1923",
     "international_phone": "020 3488 1923",
     "website": "http://www.bellamove.com/",
@@ -591,12 +642,12 @@
     "types": "Removals company",
     "lat": 51.388923,
     "lng": -0.128828,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Vertex Group Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 3000, 737 Old Kent Rd\",\"city\":\"London\",\"postal_code\":\"SE15 1JL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3000, 737 Old Kent Rd, London, SE15 1JL, GB",
     "phone": "07398 878871",
     "international_phone": "07398 878871",
     "website": "http://www.vertex-removals.co.uk/",
@@ -608,12 +659,12 @@
     "types": "Removals Service",
     "lat": 51.481081,
     "lng": -0.059623,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Junk n Love Demolition & Clearance Limited",
-    "address": "{\"borough\":\"\",\"street\":\"54 Alexandra Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN3 7EH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "54 Alexandra Rd, Enfield, EN3 7EH, GB",
     "phone": "07488 584487",
     "international_phone": "07488 584487",
     "website": "https://sitelift.site/junknloveclearances/",
@@ -625,12 +676,12 @@
     "types": "Waste Collection Service",
     "lat": 51.650453,
     "lng": -0.036526,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "DC Removals South London\ud83e\udd47",
-    "address": "{\"borough\":\"\",\"street\":\"248 Brockley Rd\",\"city\":\"London\",\"postal_code\":\"SE4 2SF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "248 Brockley Rd, London, SE4 2SF, GB",
     "phone": "020 8291 6663",
     "international_phone": "020 8291 6663",
     "website": "https://www.removalssoutheastlondon.co.uk/",
@@ -642,12 +693,12 @@
     "types": "Removals company",
     "lat": 51.460797,
     "lng": -0.034791,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "VAN on the MOVE - House Removals London",
-    "address": "{\"borough\":\"\",\"street\":\"17 West Rd\",\"city\":\"London\",\"postal_code\":\"SW4 7DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "17 West Rd, London, SW4 7DL, GB",
     "phone": "07931 375301",
     "international_phone": "07931 375301",
     "website": "http://www.vanonthemove.co.uk/",
@@ -659,12 +710,12 @@
     "types": "Removals company",
     "lat": 51.457688,
     "lng": -0.130358,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removals and Storage X - North London",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 145A, 52 Upper St\",\"city\":\"London\",\"postal_code\":\"N1 0QH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 145A, 52 Upper St, London, N1 0QH, GB",
     "phone": "020 8351 7101",
     "international_phone": "020 8351 7101",
     "website": "https://removalsandstoragex.com/storage-north-london/",
@@ -676,12 +727,12 @@
     "types": "Removals company",
     "lat": 51.535496,
     "lng": -0.105948,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Kingsman Removals",
-    "address": "{\"borough\":\"\",\"street\":\"11 Bromley Rd\",\"city\":\"Enfield\",\"postal_code\":\"N18 1LF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Bromley Rd, Enfield, N18 1LF, GB",
     "phone": "07711 077646",
     "international_phone": "07711 077646",
     "website": "https://www.hosugroup.co.uk/",
@@ -693,12 +744,12 @@
     "types": "Removals Service",
     "lat": 51.620345,
     "lng": -0.082572,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "VAN on the MOVE - man and van London",
-    "address": "{\"borough\":\"\",\"street\":\"111 Fountain Rd\",\"city\":\"London\",\"postal_code\":\"SW17 0HH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "111 Fountain Rd, London, SW17 0HH, GB",
     "phone": "07931 375301",
     "international_phone": "07931 375301",
     "website": "http://www.vanonthemove.co.uk/",
@@ -710,12 +761,12 @@
     "types": "Removals company",
     "lat": 51.427735,
     "lng": -0.177354,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and van house removals service Nremovals",
-    "address": "{\"borough\":\"\",\"street\":\"Hanover House, 385 Edgware Rd\",\"city\":\"London\",\"postal_code\":\"NW2 6LD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hanover House, 385 Edgware Rd, London, NW2 6LD, GB",
     "phone": "07380 800081",
     "international_phone": "07380 800081",
     "website": "http://nremovals.co.uk/",
@@ -727,12 +778,12 @@
     "types": "Removals Service",
     "lat": 51.565906,
     "lng": -0.226025,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Nemo's Removal's Bromley/orpington",
-    "address": "{\"borough\":\"\",\"street\":\"45 Friar Rd\",\"city\":\"Orpington\",\"postal_code\":\"BR5 2BN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "45 Friar Rd, Orpington, BR5 2BN, GB",
     "phone": "07902 692447",
     "international_phone": "07902 692447",
     "website": "https://nemosremovals.com/",
@@ -744,12 +795,12 @@
     "types": "Removals company",
     "lat": 51.388841,
     "lng": 0.10137,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Orpington",
+    "found_with_query": "removals london"
   },
   {
     "name": "Van Moving Specialists",
-    "address": "{\"borough\":\"\",\"street\":\"66 Woodside Ct Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 6RU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "66 Woodside Ct Rd, Croydon, CR0 6RU, GB",
     "phone": "020 3105 0053",
     "international_phone": "020 3105 0053",
     "website": "https://vanmovingspecialists.com/",
@@ -761,12 +812,12 @@
     "types": "Removals company",
     "lat": 51.381903,
     "lng": -0.071098,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "UK REMOVALS & STORAGE LTD",
-    "address": "{\"borough\":\"London\",\"street\":\"104 Rangefield Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 4RQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "104 Rangefield Rd, London, Bromley, BR1 4RQ, GB",
     "phone": "07904 007377",
     "international_phone": "07904 007377",
     "website": "https://ukremovals9.wixsite.com/mysite-1",
@@ -778,12 +829,12 @@
     "types": "Removals Service",
     "lat": 51.423185,
     "lng": 0.004744,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "All Junk Solutions",
-    "address": "{\"borough\":\"Bromley\",\"street\":\"Commercial house\",\"city\":\"Bromley\",\"postal_code\":\"BR2 9FL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Commercial house, Bromley, Bromley, BR2 9FL, GB",
     "phone": "07931 935833",
     "international_phone": "07931 935833",
     "website": "http://www.alljunksolutions.co.uk/",
@@ -795,12 +846,12 @@
     "types": "Waste-Management Service",
     "lat": 51.392077,
     "lng": 0.037312,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Swiftmoove",
-    "address": "{\"borough\":\"\",\"street\":\"Wheatfields\",\"city\":\"Enfield\",\"postal_code\":\"EN3 5DW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wheatfields, Enfield, EN3 5DW, GB",
     "phone": "07402 022121",
     "international_phone": "07402 022121",
     "website": "",
@@ -812,12 +863,12 @@
     "types": "Logistics service",
     "lat": 51.659864,
     "lng": -0.035103,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Van man services ltd",
-    "address": "{\"borough\":\"\",\"street\":\"46 Dunster Cl\",\"city\":\"Romford\",\"postal_code\":\"RM5 3AT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "46 Dunster Cl, Romford, RM5 3AT, GB",
     "phone": "07508 258933",
     "international_phone": "07508 258933",
     "website": "https://vanmanservices.co.uk/",
@@ -829,12 +880,12 @@
     "types": "Removals Service",
     "lat": 51.589987,
     "lng": 0.164309,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Babachev & Sons Moves ltd",
-    "address": "{\"borough\":\"Thornton Heath\",\"street\":\"80 Leander Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR7 6JW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "80 Leander Rd, Thornton Heath, Croydon, CR7 6JW, GB",
     "phone": "020 8106 7558",
     "international_phone": "020 8106 7558",
     "website": "http://babachevsonsmovers.co.uk/",
@@ -846,12 +897,12 @@
     "types": "Transportation service",
     "lat": 51.397921,
     "lng": -0.120603,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Can Do's Removals",
-    "address": "{\"borough\":\"New Addington\",\"street\":\"13 Grenville Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 0NZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "13 Grenville Rd, New Addington, Croydon, CR0 0NZ, GB",
     "phone": "07730 401195",
     "international_phone": "07730 401195",
     "website": "https://candosremovals.co.uk/",
@@ -863,12 +914,29 @@
     "types": "Removals Service",
     "lat": 51.345192,
     "lng": -0.016935,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Good Movers LTD",
+    "address": "1 Selcroft Rd, Purley, CR8 1AG, GB",
+    "phone": "07522 795594",
+    "international_phone": "07522 795594",
+    "website": "http://www.goodmovers.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Good+Movers+LTD/data=!4m7!3m6!1s0x4875fdb17b8b6ea5:0x146bb434e28f8861!8m2!3d51.3332177!4d-0.1072044!16s%2Fg%2F11lt2k6hq2!19sChIJpW6Le7H9dUgRYYiP4jS0axQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 38,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.333218,
+    "lng": -0.107204,
+    "found_in_location": "Purley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Transport Anywhere LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Ramsden Dr\",\"city\":\"Romford\",\"postal_code\":\"RM5 2NL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ramsden Dr, Romford, RM5 2NL, GB",
     "phone": "07459 494773",
     "international_phone": "07459 494773",
     "website": "https://transport-anywhere.co.uk/",
@@ -880,12 +948,12 @@
     "types": "Removals company",
     "lat": 51.600144,
     "lng": 0.156896,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "JS Moves Ltd Bromley \ud83d\ude9a",
-    "address": "{\"borough\":\"\",\"street\":\"21, Azzura House, 8 Homesdale Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR2 9FT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21, Azzura House, 8 Homesdale Rd, Bromley, BR2 9FT, GB",
     "phone": "020 3091 6098",
     "international_phone": "020 3091 6098",
     "website": "https://www.jsmoves.co.uk/",
@@ -897,12 +965,12 @@
     "types": "Removals Service",
     "lat": 51.396688,
     "lng": 0.028837,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "MTC North London Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Flat 45, Argo House, 180 Kilburn Park Rd\",\"city\":\"London\",\"postal_code\":\"NW6 5FA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 45, Argo House, 180 Kilburn Park Rd, London, NW6 5FA, GB",
     "phone": "020 3811 8380",
     "international_phone": "020 3811 8380",
     "website": "https://mtcremovals.com/",
@@ -914,12 +982,12 @@
     "types": "Removals company",
     "lat": 51.531989,
     "lng": -0.193181,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Ste-Vans Removals",
-    "address": "{\"borough\":\"\",\"street\":\"101 Ordnance Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN3 6AG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "101 Ordnance Rd, Enfield, EN3 6AG, GB",
     "phone": "07497 963378",
     "international_phone": "07497 963378",
     "website": "",
@@ -931,12 +999,12 @@
     "types": "Removals company",
     "lat": 51.671387,
     "lng": -0.035497,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "RC Waste and Rubbish Collection",
-    "address": "{\"borough\":\"\",\"street\":\"22, 22A Church St\",\"city\":\"Enfield\",\"postal_code\":\"EN2 6BE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "22, 22A Church St, Enfield, EN2 6BE, GB",
     "phone": "07418 354218",
     "international_phone": "07418 354218",
     "website": "https://enfieldwastemanagement.co.uk/",
@@ -948,12 +1016,12 @@
     "types": "Waste Collection Service",
     "lat": 51.652043,
     "lng": -0.083507,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Wasteremoval guys ltd",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Romford\",\"postal_code\":\"RM1 4JB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Romford, RM1 4JB, GB",
     "phone": "07448 360234",
     "international_phone": "07448 360234",
     "website": "https://wasteremovalguys.co.uk/",
@@ -965,12 +1033,12 @@
     "types": "Waste-Management Service",
     "lat": 51.586556,
     "lng": 0.178685,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "House Movers London",
-    "address": "{\"borough\":\"\",\"street\":\"35 Daleham Dr\",\"city\":\"Uxbridge\",\"postal_code\":\"UB8 3HP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "35 Daleham Dr, Uxbridge, UB8 3HP, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://housemoverslondon.co.uk/",
@@ -982,12 +1050,12 @@
     "types": "Removals Service",
     "lat": 51.520503,
     "lng": -0.448897,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "removals london"
   },
   {
     "name": "Bromley Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"11 Northbourne\",\"city\":\"Bromley\",\"postal_code\":\"BR2 7ND\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Northbourne, Bromley, BR2 7ND, GB",
     "phone": "07710 489849",
     "international_phone": "07710 489849",
     "website": "http://www.bromleyclearance.co.uk/",
@@ -999,12 +1067,12 @@
     "types": "House clearance service",
     "lat": 51.384264,
     "lng": 0.014973,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Clear London Clearance and Removals Large Tail-Lift with Drivers and Porters",
-    "address": "{\"borough\":\"\",\"street\":\"6 Commercial St\",\"city\":\"London\",\"postal_code\":\"E1 7PT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Commercial St, London, E1 7PT, GB",
     "phone": "07903 770007",
     "international_phone": "07903 770007",
     "website": "https://clearlondon.uk/",
@@ -1016,12 +1084,12 @@
     "types": "House clearance service",
     "lat": 51.515904,
     "lng": -0.072097,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Move It All Removals",
-    "address": "{\"borough\":\"\",\"street\":\"21 Johnson Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2JS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21 Johnson Rd, Croydon, CR0 2JS, GB",
     "phone": "07944 174687",
     "international_phone": "07944 174687",
     "website": "https://moveitallremoval.co.uk/",
@@ -1033,12 +1101,12 @@
     "types": "Removals company",
     "lat": 51.384957,
     "lng": -0.094651,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "MTC East London Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"87 Vernon Rd\",\"city\":\"London\",\"postal_code\":\"E15 4DQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "87 Vernon Rd, London, E15 4DQ, GB",
     "phone": "020 3811 8380",
     "international_phone": "020 3811 8380",
     "website": "https://mtcremoval.co.uk/",
@@ -1050,12 +1118,12 @@
     "types": "Removals company",
     "lat": 51.540557,
     "lng": 0.007869,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "VAN on the MOVE - House removals",
-    "address": "{\"borough\":\"\",\"street\":\"Hall Rd\",\"city\":\"London\",\"postal_code\":\"NW8 9PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hall Rd, London, NW8 9PA, GB",
     "phone": "07931 375301",
     "international_phone": "07931 375301",
     "website": "http://www.vanonthemove.co.uk/",
@@ -1067,12 +1135,12 @@
     "types": "Removals company",
     "lat": 51.530118,
     "lng": -0.178773,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and van / Removal4less",
-    "address": "{\"borough\":\"\",\"street\":\"59 Whalebone Grove\",\"city\":\"Romford\",\"postal_code\":\"RM6 6BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "59 Whalebone Grove, Romford, RM6 6BL, GB",
     "phone": "07876 666486",
     "international_phone": "07876 666486",
     "website": "https://www.removal4less.co.uk/",
@@ -1084,12 +1152,12 @@
     "types": "Transportation service",
     "lat": 51.574772,
     "lng": 0.144914,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removal Company London",
-    "address": "{\"borough\":\"\",\"street\":\"33 Westbury Rd\",\"city\":\"London\",\"postal_code\":\"E7 8BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "33 Westbury Rd, London, E7 8BU, GB",
     "phone": "07450 224968",
     "international_phone": "07450 224968",
     "website": "http://removalcompany.london/",
@@ -1101,12 +1169,12 @@
     "types": "Removals Service",
     "lat": 51.545636,
     "lng": 0.030273,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Load and Drop",
-    "address": "{\"borough\":\"\",\"street\":\"14a Sydenham Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14a Sydenham Rd, Croydon, CR0 2EE, GB",
     "phone": "07939 253467",
     "international_phone": "07939 253467",
     "website": "https://loadanddrop.co.uk/contact/",
@@ -1118,12 +1186,12 @@
     "types": "Removals company",
     "lat": 51.377991,
     "lng": -0.096351,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "MTC West London Removals",
-    "address": "{\"borough\":\"\",\"street\":\"58 Little Ealing Ln\",\"city\":\"London\",\"postal_code\":\"W5 4EA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "58 Little Ealing Ln, London, W5 4EA, GB",
     "phone": "020 3811 8380",
     "international_phone": "020 3811 8380",
     "website": "https://mtcremovals.com/",
@@ -1135,12 +1203,12 @@
     "types": "Removals company",
     "lat": 51.498076,
     "lng": -0.308369,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Range House Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"Havelock Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 6QQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Havelock Rd, Croydon, CR0 6QQ, GB",
     "phone": "07300 664211",
     "international_phone": "07300 664211",
     "website": "https://rangehouseclearance.com/house-clearance-croydon/",
@@ -1152,12 +1220,12 @@
     "types": "House clearance service",
     "lat": 51.376668,
     "lng": -0.078199,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Medina Movers Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"223 Wickham Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 8TG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "223 Wickham Rd, Croydon, CR0 8TG, GB",
     "phone": "020 3340 5753",
     "international_phone": "020 3340 5753",
     "website": "https://www.medinamovers.co.uk/",
@@ -1169,12 +1237,12 @@
     "types": "Transportation service",
     "lat": 51.375337,
     "lng": -0.047142,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Flash Remove Limited",
-    "address": "{\"borough\":\"\",\"street\":\"Albany Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN3 5UE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Albany Rd, Enfield, EN3 5UE, GB",
     "phone": "07393 493124",
     "international_phone": "07393 493124",
     "website": "http://flashremovelimited.co.uk/",
@@ -1186,12 +1254,12 @@
     "types": "Removals Service",
     "lat": 51.668512,
     "lng": -0.036976,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man And Van Stratford - East London Removals & Stratford Removals",
-    "address": "{\"borough\":\"\",\"street\":\"6 Valetta Grove\",\"city\":\"London\",\"postal_code\":\"E13 0JR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Valetta Grove, London, E13 0JR, GB",
     "phone": "020 8050 0090",
     "international_phone": "020 8050 0090",
     "website": "https://right-removals.co.uk/removal-companies-near-me/east-london/stratford/",
@@ -1203,12 +1271,12 @@
     "types": "Removals Service",
     "lat": 51.532436,
     "lng": 0.017073,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Prime Waste Solutions",
-    "address": "{\"borough\":\"\",\"street\":\"20, Shaftesbury House\",\"city\":\"Bromley\",\"postal_code\":\"BR1 2RL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20, Shaftesbury House, Bromley, BR1 2RL, GB",
     "phone": "07448 007438",
     "international_phone": "07448 007438",
     "website": "http://www.primewasteuk.co.uk/",
@@ -1220,12 +1288,12 @@
     "types": "Junk removal service",
     "lat": 51.404092,
     "lng": 0.034731,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "London West Removals LTD",
-    "address": "{\"borough\":\"\",\"street\":\"14 Kennedy Ave\",\"city\":\"Enfield\",\"postal_code\":\"EN3 4PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Kennedy Ave, Enfield, EN3 4PA, GB",
     "phone": "07951 330455",
     "international_phone": "07951 330455",
     "website": "",
@@ -1237,12 +1305,12 @@
     "types": "Waste-Management Service",
     "lat": 51.640769,
     "lng": -0.044918,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "DRS Removals",
-    "address": "{\"borough\":\"\",\"street\":\"456A Bromley Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 4PP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "456A Bromley Rd, Bromley, BR1 4PP, GB",
     "phone": "020 8461 5555",
     "international_phone": "020 8461 5555",
     "website": "https://www.drsremovals.co.uk/",
@@ -1254,12 +1322,12 @@
     "types": "Removals Service",
     "lat": 51.424793,
     "lng": -0.004391,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Sharps Move Solutions Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Gobions Farm, Collier Row Rd\",\"city\":\"Romford\",\"postal_code\":\"RM5 2BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Gobions Farm, Collier Row Rd, Romford, RM5 2BH, GB",
     "phone": "01708 375446",
     "international_phone": "01708 375446",
     "website": "",
@@ -1271,12 +1339,12 @@
     "types": "Removals Service",
     "lat": 51.596927,
     "lng": 0.152629,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Enfield Removal Services",
-    "address": "{\"borough\":\"\",\"street\":\"UNIT 5, Martinbridge Trading Estate, Lincoln Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN1 1SP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "UNIT 5, Martinbridge Trading Estate, Lincoln Rd, Enfield, EN1 1SP, GB",
     "phone": "07956 952338",
     "international_phone": "07956 952338",
     "website": "https://www.enfieldremovals.co.uk/",
@@ -1288,12 +1356,29 @@
     "types": "Removals Service",
     "lat": 51.645071,
     "lng": -0.058645,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "House Removals London Ltd",
+    "address": "73 Windsor Ave, New Malden, KT3 5HE, GB",
+    "phone": "020 3302 5882",
+    "international_phone": "020 3302 5882",
+    "website": "https://houseremovalslondon.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/House+Removals+London+Ltd/data=!4m7!3m6!1s0x4876091b51296db7:0xd85cada54efbc8e3!8m2!3d51.39422!4d-0.2689!16s%2Fg%2F11pz2dcb5s!19sChIJt20pURsJdkgR48j7TqWtXNg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 12,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.39422,
+    "lng": -0.2689,
+    "found_in_location": "New Malden",
+    "found_with_query": "removals london"
   },
   {
     "name": "Europe Remove - European Removal Experts",
-    "address": "{\"borough\":\"\",\"street\":\"12 Kingston Cl\",\"city\":\"Romford\",\"postal_code\":\"RM6 5QB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Kingston Cl, Romford, RM6 5QB, GB",
     "phone": "020 3150 2668",
     "international_phone": "020 3150 2668",
     "website": "https://europeremove.com/",
@@ -1305,12 +1390,12 @@
     "types": "Removals Service",
     "lat": 51.58922,
     "lng": 0.137458,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "EUGENE VAN LTD",
-    "address": "{\"borough\":\"\",\"street\":\"54 Forest Rd\",\"city\":\"Romford\",\"postal_code\":\"RM7 8DT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "54 Forest Rd, Romford, RM7 8DT, GB",
     "phone": "07492 899050",
     "international_phone": "07492 899050",
     "website": "https://www.eugenevanltd.uk/",
@@ -1322,12 +1407,12 @@
     "types": "Transportation service",
     "lat": 51.585887,
     "lng": 0.159021,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Express Man and Van Bromley",
-    "address": "{\"borough\":\"\",\"street\":\"178 Keedonwood Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 4QP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "178 Keedonwood Rd, Bromley, BR1 4QP, GB",
     "phone": "07494 971083",
     "international_phone": "07494 971083",
     "website": "https://expressmanandvan.co.uk/locations/bromley/",
@@ -1339,12 +1424,12 @@
     "types": "Removals company",
     "lat": 51.42329,
     "lng": 0.010234,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man With a Van London",
-    "address": "{\"borough\":\"\",\"street\":\"9 Hill Dr\",\"city\":\"London\",\"postal_code\":\"NW9 8PG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Hill Dr, London, NW9 8PG, GB",
     "phone": "07507 263523",
     "international_phone": "07507 263523",
     "website": "http://www.manvanexpress.co.uk/",
@@ -1356,12 +1441,12 @@
     "types": "Transportation service",
     "lat": 51.570592,
     "lng": -0.268563,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Easy Way Removals Enfield - Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"226B Hertford Rd\",\"city\":\"London\",\"postal_code\":\"EN3 5BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "226B Hertford Rd, London, EN3 5BH, GB",
     "phone": "020 3344 9204",
     "international_phone": "020 3344 9204",
     "website": "https://easywayremovals.co.uk/",
@@ -1373,12 +1458,12 @@
     "types": "Removals company",
     "lat": 51.658079,
     "lng": -0.047553,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "G W Twilley & Son",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 4 Progress Way\",\"city\":\"Enfield\",\"postal_code\":\"EN1 1UX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4 Progress Way, Enfield, EN1 1UX, GB",
     "phone": "020 8888 5156",
     "international_phone": "020 8888 5156",
     "website": "https://www.twilleys.com/",
@@ -1390,12 +1475,12 @@
     "types": "Removals company",
     "lat": 51.642174,
     "lng": -0.058272,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Darran May Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Big Yellow Storage, 12 Farwig Ln\",\"city\":\"Bromley\",\"postal_code\":\"BR1 3RB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Big Yellow Storage, 12 Farwig Ln, Bromley, BR1 3RB, GB",
     "phone": "07944 154023",
     "international_phone": "07944 154023",
     "website": "https://www.facebook.com/Darranmayremovals/",
@@ -1407,12 +1492,12 @@
     "types": "Removals Service",
     "lat": 51.410635,
     "lng": 0.011281,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "JA Steel & Son",
-    "address": "{\"borough\":\"\",\"street\":\"59 Lockfield Ave\",\"city\":\"Enfield\",\"postal_code\":\"EN3 7PY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "59 Lockfield Ave, Enfield, EN3 7PY, GB",
     "phone": "020 8364 7007",
     "international_phone": "020 8364 7007",
     "website": "https://www.jasteelandson.co.uk/",
@@ -1424,12 +1509,12 @@
     "types": "Removals company",
     "lat": 51.659771,
     "lng": -0.027067,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Anthony Ward Thomas Removals",
-    "address": "{\"borough\":\"\",\"street\":\"141 Acton Ln\",\"city\":\"London\",\"postal_code\":\"NW10 7PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "141 Acton Ln, London, NW10 7PB, GB",
     "phone": "020 7038 0449",
     "international_phone": "020 7038 0449",
     "website": "https://ward-thomas.co.uk/?utm_source=Google+Map&utm_campaign=ActonLane+Listing",
@@ -1441,12 +1526,12 @@
     "types": "Removals company",
     "lat": 51.533003,
     "lng": -0.261788,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "VP Smart - Removals London",
-    "address": "{\"borough\":\"\",\"street\":\"7 Pankhurst Cl\",\"city\":\"London\",\"postal_code\":\"TW7 6SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 Pankhurst Cl, London, TW7 6SA, GB",
     "phone": "020 7118 8277",
     "international_phone": "020 7118 8277",
     "website": "https://vpsmart.co.uk/",
@@ -1458,12 +1543,12 @@
     "types": "Removals company",
     "lat": 51.47067,
     "lng": -0.33343,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Thames Removals and Storage Limited",
-    "address": "{\"borough\":\"\",\"street\":\"25-27 Gordon Rd\",\"city\":\"London\",\"postal_code\":\"SE15 2AF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25-27 Gordon Rd, London, SE15 2AF, GB",
     "phone": "020 7733 0000",
     "international_phone": "020 7733 0000",
     "website": "http://www.thamesremovals.co.uk/",
@@ -1475,12 +1560,12 @@
     "types": "Removals Service",
     "lat": 51.470683,
     "lng": -0.061449,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Comprehensive Removals",
-    "address": "{\"borough\":\"\",\"street\":\"York House, 50 Western Rd\",\"city\":\"Romford\",\"postal_code\":\"RM1 3LP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "York House, 50 Western Rd, Romford, RM1 3LP, GB",
     "phone": "01708 837002",
     "international_phone": "01708 837002",
     "website": "https://www.comprehensiveremovals.co.uk/",
@@ -1492,12 +1577,12 @@
     "types": "Removals company",
     "lat": 51.578221,
     "lng": 0.187031,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Burke & Wills Removals Ltd",
-    "address": "{\"borough\":\"Nine Elms\",\"street\":\"42 Portslade Rd\",\"city\":\"London\",\"postal_code\":\"SW8 3DH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "42 Portslade Rd, Nine Elms, London, SW8 3DH, GB",
     "phone": "020 8947 9001",
     "international_phone": "020 8947 9001",
     "website": "https://www.burkeandwills.co.uk/",
@@ -1509,12 +1594,12 @@
     "types": "Removals Service",
     "lat": 51.472596,
     "lng": -0.142359,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Clockwork Removals North London",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 6, Bush Industrial Estate, Standard Rd\",\"city\":\"London\",\"postal_code\":\"NW10 6DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 6, Bush Industrial Estate, Standard Rd, London, NW10 6DF, GB",
     "phone": "020 3868 4172",
     "international_phone": "020 3868 4172",
     "website": "https://www.clockworkremovals.co.uk/locations/north-london/?utm_source=gmb&utm_medium=organic",
@@ -1526,12 +1611,12 @@
     "types": "Removals Service",
     "lat": 51.527943,
     "lng": -0.263763,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "NRD Movers & Clearances",
-    "address": "{\"borough\":\"\",\"street\":\"Square Root Business Centre, 102 - 116 Windmill Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2XQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Square Root Business Centre, 102 - 116 Windmill Rd, Croydon, CR0 2XQ, GB",
     "phone": "020 3006 2218",
     "international_phone": "020 3006 2218",
     "website": "http://nrdeliveries.co.uk/",
@@ -1543,12 +1628,12 @@
     "types": "Removals company",
     "lat": 51.386289,
     "lng": -0.098093,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "The Removal & Delivery Company Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"124 City Rd\",\"city\":\"London\",\"postal_code\":\"EC1V 2NX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "124 City Rd, London, EC1V 2NX, GB",
     "phone": "020 3731 7003",
     "international_phone": "020 3731 7003",
     "website": "https://www.theremovalanddeliverycompany.com/",
@@ -1560,12 +1645,12 @@
     "types": "Removals company",
     "lat": 51.527236,
     "lng": -0.08866,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "ARMSTRONG REMOVALS SYDENHAM",
-    "address": "{\"borough\":\"\",\"street\":\"10a Peak Hill Ave\",\"city\":\"London\",\"postal_code\":\"SE26 4LG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10a Peak Hill Ave, London, SE26 4LG, GB",
     "phone": "020 8291 9192",
     "international_phone": "020 8291 9192",
     "website": "http://www.armstrongremovals.co.uk/",
@@ -1577,12 +1662,12 @@
     "types": "Removals company",
     "lat": 51.42828,
     "lng": -0.055832,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "No1 Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Watford Wy\",\"city\":\"London\",\"postal_code\":\"NW7 2QH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Watford Wy, London, NW7 2QH, GB",
     "phone": "07307 590500",
     "international_phone": "07307 590500",
     "website": "http://www.no1removals.co.uk/",
@@ -1594,12 +1679,12 @@
     "types": "Removals company",
     "lat": 51.603708,
     "lng": -0.23822,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London Removals Team Ltd.",
-    "address": "{\"borough\":\"\",\"street\":\"Office 119, 20 Bugsby's Wy\",\"city\":\"London\",\"postal_code\":\"SE7 7SJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 119, 20 Bugsby's Wy, London, SE7 7SJ, GB",
     "phone": "020 8226 6011",
     "international_phone": "020 8226 6011",
     "website": "http://www.londonremovalsteam.com/",
@@ -1611,12 +1696,12 @@
     "types": "Removals company",
     "lat": 51.490256,
     "lng": 0.028472,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removal Squad",
-    "address": "{\"borough\":\"\",\"street\":\"54 Lansdowne Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2BD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "54 Lansdowne Rd, Croydon, CR0 2BD, GB",
     "phone": "020 3151 3006",
     "international_phone": "020 3151 3006",
     "website": "http://www.removalsquad.co.uk/",
@@ -1628,12 +1713,12 @@
     "types": "Removals company",
     "lat": 51.380917,
     "lng": -0.092227,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Parkers Removal Services",
-    "address": "{\"borough\":\"\",\"street\":\"27 Old Gloucester St\",\"city\":\"London\",\"postal_code\":\"WC1N 3AX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "27 Old Gloucester St, London, WC1N 3AX, GB",
     "phone": "020 8528 3788",
     "international_phone": "020 8528 3788",
     "website": "http://www.parkersremoval.com/",
@@ -1645,12 +1730,12 @@
     "types": "Removals company",
     "lat": 51.52071,
     "lng": -0.122048,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "All Day Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"111 Fordel Rd\",\"city\":\"London\",\"postal_code\":\"SE6 1XT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "111 Fordel Rd, London, SE6 1XT, GB",
     "phone": "07951 404388",
     "international_phone": "07951 404388",
     "website": "http://www.alldayremovals.co.uk/",
@@ -1662,12 +1747,12 @@
     "types": "Removals company",
     "lat": 51.443573,
     "lng": -0.003507,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Bright Movers",
-    "address": "{\"borough\":\"\",\"street\":\"North London Business Park, 470, 4 Oakleigh Rd S\",\"city\":\"London\",\"postal_code\":\"N11 1GN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "North London Business Park, 470, 4 Oakleigh Rd S, London, N11 1GN, GB",
     "phone": "020 8351 1196",
     "international_phone": "020 8351 1196",
     "website": "https://brightmovers.com/",
@@ -1679,12 +1764,12 @@
     "types": "Removals company",
     "lat": 51.625443,
     "lng": -0.153231,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London Removals UK ltd",
-    "address": "{\"borough\":\"\",\"street\":\"372 Ealing Rd\",\"city\":\"Wembley\",\"postal_code\":\"HA0 1BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "372 Ealing Rd, Wembley, HA0 1BH, GB",
     "phone": "020 7993 6969",
     "international_phone": "020 7993 6969",
     "website": "http://www.the-london-removals.co.uk/",
@@ -1696,12 +1781,12 @@
     "types": "Removals Service",
     "lat": 51.537567,
     "lng": -0.299284,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Wembley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Edwards Removals | Removals & Storage Company London",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 6, Bush Industrial Estate, Standard Rd\",\"city\":\"London\",\"postal_code\":\"NW10 6DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 6, Bush Industrial Estate, Standard Rd, London, NW10 6DF, GB",
     "phone": "020 8838 5566",
     "international_phone": "020 8838 5566",
     "website": "https://www.edwardsremovals.com/",
@@ -1713,12 +1798,12 @@
     "types": "Removals company",
     "lat": 51.528102,
     "lng": -0.262451,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Essex Removal Service & Co Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"139 Crow Ln\",\"city\":\"Romford\",\"postal_code\":\"RM7 0ES\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "139 Crow Ln, Romford, RM7 0ES, GB",
     "phone": "01708 914549",
     "international_phone": "01708 914549",
     "website": "https://essexremovals.com/",
@@ -1730,12 +1815,12 @@
     "types": "Removals company",
     "lat": 51.568062,
     "lng": 0.157564,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "SML Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 21, Zeal House, 8 Deer Park Rd\",\"city\":\"London\",\"postal_code\":\"SW19 3UU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 21, Zeal House, 8 Deer Park Rd, London, SW19 3UU, GB",
     "phone": "07358 952368",
     "international_phone": "07358 952368",
     "website": "",
@@ -1747,12 +1832,12 @@
     "types": "Removals company",
     "lat": 51.409212,
     "lng": -0.187551,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "KK Removal",
-    "address": "{\"borough\":\"\",\"street\":\"38A London Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2TA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "38A London Rd, Croydon, CR0 2TA, GB",
     "phone": "07565 875108",
     "international_phone": "07565 875108",
     "website": "https://kkremoval.co.uk/",
@@ -1764,12 +1849,29 @@
     "types": "Removals Service",
     "lat": 51.379103,
     "lng": -0.103484,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Sameday Removals Ltd | Expert Movers UK",
+    "address": "360 Bath Rd, Harmondsworth, West Drayton, UB7 0DH, GB",
+    "phone": "07951 455002",
+    "international_phone": "07951 455002",
+    "website": "https://sameday-removals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Sameday+Removals+Ltd+%7C+Expert+Movers+UK/data=!4m7!3m6!1s0xa74ce13c9148bf9:0xc936802702aeeb44!8m2!3d51.4819386!4d-0.4749262!16s%2Fg%2F11wvfpgsd3!19sChIJ-YsUyRPOdAoRROuuAieANsk?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 128,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals company",
+    "lat": 51.481939,
+    "lng": -0.474926,
+    "found_in_location": "West Drayton",
+    "found_with_query": "removals london"
   },
   {
     "name": "Alpha Removals LTD",
-    "address": "{\"borough\":\"\",\"street\":\"31 Wydehurst Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 6NJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "31 Wydehurst Rd, Croydon, CR0 6NJ, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://www.alpha-removals.com/",
@@ -1781,12 +1883,12 @@
     "types": "Removals company",
     "lat": 51.383512,
     "lng": -0.068498,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Jon\u2019s Removals | Packing And Moving Services",
-    "address": "{\"borough\":\"\",\"street\":\"1 Teynton Terrace\",\"city\":\"London\",\"postal_code\":\"N17 7PZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Teynton Terrace, London, N17 7PZ, GB",
     "phone": "07817 319912",
     "international_phone": "07817 319912",
     "website": "http://www.jonsremovals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4758033670513849996",
@@ -1798,12 +1900,12 @@
     "types": "Removals company",
     "lat": 51.598749,
     "lng": -0.091187,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Green Man and Van - London",
-    "address": "{\"borough\":\"\",\"street\":\"141 Acton Ln\",\"city\":\"London\",\"postal_code\":\"NW10 7PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "141 Acton Ln, London, NW10 7PB, GB",
     "phone": "020 3086 9775",
     "international_phone": "020 3086 9775",
     "website": "https://greenmanandvan.co.uk/",
@@ -1815,12 +1917,12 @@
     "types": "Removals company",
     "lat": 51.532916,
     "lng": -0.261928,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Vandon Removals",
-    "address": "{\"borough\":\"\",\"street\":\"6 Montague Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 3ST\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Montague Rd, Croydon, CR0 3ST, GB",
     "phone": "07899 728989",
     "international_phone": "07899 728989",
     "website": "https://vandonremovals.com/",
@@ -1832,12 +1934,12 @@
     "types": "Removals company",
     "lat": 51.380872,
     "lng": -0.10662,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Easy Way Removals - Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"2 Rutley Cl\",\"city\":\"London\",\"postal_code\":\"SE17 3NP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Rutley Cl, London, SE17 3NP, GB",
     "phone": "0800 689 3025",
     "international_phone": "0800 689 3025",
     "website": "https://easywayremovals.co.uk/",
@@ -1849,12 +1951,12 @@
     "types": "Removals company",
     "lat": 51.483111,
     "lng": -0.105455,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removals London",
-    "address": "{\"borough\":\"\",\"street\":\"12 Chapel Rd\",\"city\":\"London\",\"postal_code\":\"IG1 2AG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Chapel Rd, London, IG1 2AG, GB",
     "phone": "020 8226 4440",
     "international_phone": "020 8226 4440",
     "website": "http://www.24hremovals.co.uk/",
@@ -1866,12 +1968,12 @@
     "types": "Removals Service",
     "lat": 51.557822,
     "lng": 0.069747,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Stork Removals and Storage Limited",
-    "address": "{\"borough\":\"\",\"street\":\"15 Hazelwood Rd\",\"city\":\"Enfield\",\"postal_code\":\"EN1 1JG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15 Hazelwood Rd, Enfield, EN1 1JG, GB",
     "phone": "020 8366 6644",
     "international_phone": "020 8366 6644",
     "website": "http://www.storkremovals.co.uk/",
@@ -1883,12 +1985,12 @@
     "types": "Removals Service",
     "lat": 51.641573,
     "lng": -0.065705,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "man and van london removals kensington",
-    "address": "{\"borough\":\"\",\"street\":\"16-18 Wrights Ln\",\"city\":\"London\",\"postal_code\":\"W8 6TF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16-18 Wrights Ln, London, W8 6TF, GB",
     "phone": "07563 693330",
     "international_phone": "07563 693330",
     "website": "",
@@ -1900,12 +2002,12 @@
     "types": "Removals Service",
     "lat": 51.499043,
     "lng": -0.192587,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London Removals",
-    "address": "{\"borough\":\"\",\"street\":\"22 Shepherd's Bush Grn\",\"city\":\"London\",\"postal_code\":\"W12 8PH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "22 Shepherd's Bush Grn, London, W12 8PH, GB",
     "phone": "020 3633 0955",
     "international_phone": "020 3633 0955",
     "website": "http://www.londonremovals.com/",
@@ -1917,12 +2019,12 @@
     "types": "Removals Service",
     "lat": 51.503877,
     "lng": -0.21897,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "South London Removals",
-    "address": "{\"borough\":\"Canary Wharf Estate\",\"street\":\"25 Cabot Sq\",\"city\":\"London\",\"postal_code\":\"E14 4QZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 Cabot Sq, Canary Wharf Estate, London, E14 4QZ, GB",
     "phone": "020 3927 7675",
     "international_phone": "020 3927 7675",
     "website": "https://southlondonremovals.uk/",
@@ -1934,12 +2036,12 @@
     "types": "Removals company",
     "lat": 51.505104,
     "lng": -0.023736,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removal Specialists",
-    "address": "{\"borough\":\"London\",\"street\":\"254 Downham Way\",\"city\":\"Bromley\",\"postal_code\":\"BR1 5NS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "254 Downham Way, London, Bromley, BR1 5NS, GB",
     "phone": "07931 097655",
     "international_phone": "07931 097655",
     "website": "",
@@ -1951,12 +2053,12 @@
     "types": "Removals Service",
     "lat": 51.424542,
     "lng": 0.007718,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and Van UK",
-    "address": "{\"borough\":\"\",\"street\":\"8 Cotswold Gardens\",\"city\":\"London\",\"postal_code\":\"E6 3JA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Cotswold Gardens, London, E6 3JA, GB",
     "phone": "07961 260625",
     "international_phone": "07961 260625",
     "website": "https://www.manandvanuk.co.uk/",
@@ -1968,12 +2070,12 @@
     "types": "Removals company",
     "lat": 51.527873,
     "lng": 0.043228,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "David Alexander Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Wanstead Storage, Hainault Rd\",\"city\":\"Romford\",\"postal_code\":\"RM6 5SS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wanstead Storage, Hainault Rd, Romford, RM6 5SS, GB",
     "phone": "020 8599 5591",
     "international_phone": "020 8599 5591",
     "website": "https://www.da-removals.co.uk/",
@@ -1985,12 +2087,12 @@
     "types": "Removals Service",
     "lat": 51.595357,
     "lng": 0.116156,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "South London Movers",
-    "address": "{\"borough\":\"\",\"street\":\"parkshot house, 5 Kew Rd\",\"city\":\"Richmond\",\"postal_code\":\"TW9 2PR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "parkshot house, 5 Kew Rd, Richmond, TW9 2PR, GB",
     "phone": "020 3858 6993",
     "international_phone": "020 3858 6993",
     "website": "https://www.southlondonmovers.co.uk/?utm_source=gmb%20richmond&utm_medium=organic",
@@ -2002,12 +2104,12 @@
     "types": "Removals Service",
     "lat": 51.463611,
     "lng": -0.302175,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Richmond",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and Van Croydon",
-    "address": "{\"borough\":\"\",\"street\":\"411B Lower Addiscombe Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 6RX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "411B Lower Addiscombe Rd, Croydon, CR0 6RX, GB",
     "phone": "07745 001000",
     "international_phone": "07745 001000",
     "website": "",
@@ -2019,12 +2121,12 @@
     "types": "Removals company",
     "lat": 51.383557,
     "lng": -0.06562,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "R.D.'s Removals Croydon",
-    "address": "{\"borough\":\"\",\"street\":\"68 Hathaway Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 2TP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "68 Hathaway Rd, Croydon, CR0 2TP, GB",
     "phone": "07771 331374",
     "international_phone": "07771 331374",
     "website": "http://www.rdremoval.co.uk/",
@@ -2036,12 +2138,12 @@
     "types": "Removals Service",
     "lat": 51.38329,
     "lng": -0.103877,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Local Removals Romford",
-    "address": "{\"borough\":\"\",\"street\":\"Queens Court, 9-17 Eastern Rd\",\"city\":\"Romford\",\"postal_code\":\"RM1 3NH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Queens Court, 9-17 Eastern Rd, Romford, RM1 3NH, GB",
     "phone": "07533 971241",
     "international_phone": "07533 971241",
     "website": "https://local-removals.co.uk/removals/romford/",
@@ -2053,12 +2155,12 @@
     "types": "Removals company",
     "lat": 51.575956,
     "lng": 0.184909,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "South Park Removals",
-    "address": "{\"borough\":\"\",\"street\":\"284 Green Ln\",\"city\":\"Ilford\",\"postal_code\":\"IG1 1YD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "284 Green Ln, Ilford, IG1 1YD, GB",
     "phone": "020 8478 1258",
     "international_phone": "020 8478 1258",
     "website": "https://www.southparkremovals.co.uk/",
@@ -2070,12 +2172,12 @@
     "types": "Removals Service",
     "lat": 51.559353,
     "lng": 0.09261,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Ilford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and Van London Removals",
-    "address": "{\"borough\":\"Nine Elms\",\"street\":\"119 Carey Gardens\",\"city\":\"London\",\"postal_code\":\"SW8 4HJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "119 Carey Gardens, Nine Elms, London, SW8 4HJ, GB",
     "phone": "07376 540416",
     "international_phone": "07376 540416",
     "website": "https://manandvanlondonremovals.co.uk/",
@@ -2087,12 +2189,12 @@
     "types": "Removals company",
     "lat": 51.472837,
     "lng": -0.136311,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London Man and Van Removals",
-    "address": "{\"borough\":\"\",\"street\":\"14, Mercury Court, 4 Eversholt St\",\"city\":\"London\",\"postal_code\":\"NW1 1BR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14, Mercury Court, 4 Eversholt St, London, NW1 1BR, GB",
     "phone": "07983 513345",
     "international_phone": "07983 513345",
     "website": "https://londonmanandvanremovals.co.uk/",
@@ -2104,12 +2206,12 @@
     "types": "Removals Service",
     "lat": 51.528058,
     "lng": -0.131377,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Right Removals Enfield - Edmonton - Southgate. Man and van",
-    "address": "{\"borough\":\"\",\"street\":\"26 Stanley Rd\",\"city\":\"London\",\"postal_code\":\"N9 9AB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "26 Stanley Rd, London, N9 9AB, GB",
     "phone": "07446 833911",
     "international_phone": "07446 833911",
     "website": "https://right-removals.co.uk/north-london/removals-enfield/",
@@ -2121,12 +2223,29 @@
     "types": "Removals Service",
     "lat": 51.628112,
     "lng": -0.069804,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Neales Removals",
+    "address": "349 S End Rd, Hornchurch, RM12 5NP, GB",
+    "phone": "0800 413335",
+    "international_phone": "0800 413335",
+    "website": "https://www.neales-removals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Neales+Removals/data=!4m7!3m6!1s0x47d8bac5c8e4f4b7:0x1a54737be6715e6a!8m2!3d51.5423745!4d0.2024776!16s%2Fg%2F1tc_7ydk!19sChIJt_TkyMW62EcRal5x5ntzVBo?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 13,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 51.542375,
+    "lng": 0.202478,
+    "found_in_location": "Hornchurch",
+    "found_with_query": "removals london"
   },
   {
     "name": "OPTIMUS REMOVALS # MOVING COMPANY",
-    "address": "{\"borough\":\"\",\"street\":\"9, 17 Eastern Rd\",\"city\":\"Romford\",\"postal_code\":\"RM1 3NH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9, 17 Eastern Rd, Romford, RM1 3NH, GB",
     "phone": "07340 009970",
     "international_phone": "07340 009970",
     "website": "http://www.optimusremovals.co.uk/",
@@ -2138,12 +2257,12 @@
     "types": "Removals company",
     "lat": 51.575958,
     "lng": 0.18475,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "House Removals East London",
-    "address": "{\"borough\":\"\",\"street\":\"90 Nelson St\",\"city\":\"London\",\"postal_code\":\"E6 2QA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "90 Nelson St, London, E6 2QA, GB",
     "phone": "020 3807 0004",
     "international_phone": "020 3807 0004",
     "website": "https://supermanwithavan.com/house-removals-east-london/",
@@ -2155,12 +2274,12 @@
     "types": "Removals company",
     "lat": 51.532817,
     "lng": 0.064889,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Aussie Man and Van Ltd.",
-    "address": "{\"borough\":\"\",\"street\":\"139-141 Acton Ln\",\"city\":\"London\",\"postal_code\":\"NW10 7PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "139-141 Acton Ln, London, NW10 7PB, GB",
     "phone": "020 3763 5900",
     "international_phone": "020 3763 5900",
     "website": "https://aussiegroup.co.uk/?utm_source=Google+Map&utm_campaign=ActonLane+Listing",
@@ -2172,12 +2291,12 @@
     "types": "Removals company",
     "lat": 51.533053,
     "lng": -0.260992,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "LMV Transport Ltd | London Man Van | Removals London",
-    "address": "{\"borough\":\"\",\"street\":\"20-22 Wenlock Rd\",\"city\":\"London\",\"postal_code\":\"N1 7GU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20-22 Wenlock Rd, London, N1 7GU, GB",
     "phone": "020 7060 4743",
     "international_phone": "020 7060 4743",
     "website": "http://www.london-man-van.com/",
@@ -2189,12 +2308,12 @@
     "types": "Removals company",
     "lat": 51.530632,
     "lng": -0.09357,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Gentleman & A Van - Removals & Storage",
-    "address": "{\"borough\":\"Nine Elms\",\"street\":\"40 Portslade Rd\",\"city\":\"London\",\"postal_code\":\"SW8 3DH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "40 Portslade Rd, Nine Elms, London, SW8 3DH, GB",
     "phone": "020 8874 4283",
     "international_phone": "020 8874 4283",
     "website": "https://www.gentlemanandavan.co.uk/",
@@ -2206,12 +2325,12 @@
     "types": "Removals company",
     "lat": 51.47046,
     "lng": -0.139133,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removals Expert Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Trident Business Centre, 89 Bickersteth Rd\",\"city\":\"London\",\"postal_code\":\"SW17 9SH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Trident Business Centre, 89 Bickersteth Rd, London, SW17 9SH, GB",
     "phone": "020 8682 2663",
     "international_phone": "020 8682 2663",
     "website": "https://www.removalsexpert.co.uk/",
@@ -2223,12 +2342,12 @@
     "types": "Removals Service",
     "lat": 51.423782,
     "lng": -0.163566,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "House Movers",
-    "address": "{\"borough\":\"\",\"street\":\"Flat 3, 19, Earls Ct Rd\",\"city\":\"London\",\"postal_code\":\"SW5 9BW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 3, 19, Earls Ct Rd, London, SW5 9BW, GB",
     "phone": "020 3322 6026",
     "international_phone": "020 3322 6026",
     "website": "https://housemovers.co.uk/",
@@ -2240,12 +2359,12 @@
     "types": "Removals company",
     "lat": 51.490662,
     "lng": -0.190817,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Aussie Removals",
-    "address": "{\"borough\":\"\",\"street\":\"139 Acton Ln\",\"city\":\"London\",\"postal_code\":\"NW10 7PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "139 Acton Ln, London, NW10 7PB, GB",
     "phone": "020 8267 6019",
     "international_phone": "020 8267 6019",
     "website": "http://aussieremovals.co.uk/",
@@ -2257,12 +2376,12 @@
     "types": "Removals company",
     "lat": 51.533282,
     "lng": -0.260951,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Octagon Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Office 56, Mill Mead Industrial Centre, Millmead Business Centre, Mill Mead Rd\",\"city\":\"London\",\"postal_code\":\"N17 9QU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 56, Mill Mead Industrial Centre, Millmead Business Centre, Mill Mead Rd, London, N17 9QU, GB",
     "phone": "020 8521 8000",
     "international_phone": "020 8521 8000",
     "website": "http://octagonremovals.co.uk/",
@@ -2274,12 +2393,12 @@
     "types": "Removals company",
     "lat": 51.593518,
     "lng": -0.056391,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "AFS Removals",
-    "address": "{\"borough\":\"\",\"street\":\"160 City Rd\",\"city\":\"London\",\"postal_code\":\"EC1V 2NX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "160 City Rd, London, EC1V 2NX, GB",
     "phone": "0333 772 4714",
     "international_phone": "0333 772 4714",
     "website": "http://www.afsremovals.com/home",
@@ -2291,12 +2410,12 @@
     "types": "Removals company",
     "lat": 51.527364,
     "lng": -0.088916,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Rogers Removals",
-    "address": "{\"borough\":\"\",\"street\":\"239 Acton Ln\",\"city\":\"London\",\"postal_code\":\"NW10 7NP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "239 Acton Ln, London, NW10 7NP, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://www.rogersremovals.co.uk/",
@@ -2308,12 +2427,12 @@
     "types": "Removals company",
     "lat": 51.530196,
     "lng": -0.26672,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "James Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Old Post Office Lane\",\"city\":\"London\",\"postal_code\":\"SE3 9BY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Old Post Office Lane, London, SE3 9BY, GB",
     "phone": "020 8856 5100",
     "international_phone": "020 8856 5100",
     "website": "http://www.jamesremovals.com/",
@@ -2325,12 +2444,12 @@
     "types": "Removals Service",
     "lat": 51.46319,
     "lng": 0.025371,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "F Smith & Son (Croydon)",
-    "address": "{\"borough\":\"\",\"street\":\"5, Mill Lane Trading Estate, Mill Ln\",\"city\":\"Croydon\",\"postal_code\":\"CR0 4AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5, Mill Lane Trading Estate, Mill Ln, Croydon, CR0 4AA, GB",
     "phone": "020 8688 7063",
     "international_phone": "020 8688 7063",
     "website": "https://www.fsmithandson.co.uk/",
@@ -2342,12 +2461,12 @@
     "types": "Removals Service",
     "lat": 51.371658,
     "lng": -0.12091,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Clear Earwax Clinic Bromley",
-    "address": "{\"borough\":\"\",\"street\":\"Red Side Gate on Right, Carlton Chambers, 7 Station Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR2 0EY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Red Side Gate on Right, Carlton Chambers, 7 Station Rd, Bromley, BR2 0EY, GB",
     "phone": "0330 818 3133",
     "international_phone": "0330 818 3133",
     "website": "https://www.clearearwax.co.uk/",
@@ -2359,12 +2478,12 @@
     "types": "Medical centre",
     "lat": 51.40493,
     "lng": 0.004484,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "MH Removals Walthamstow - House Removals",
-    "address": "{\"borough\":\"\",\"street\":\"102 Carlton Rd\",\"city\":\"London\",\"postal_code\":\"E17 5RE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "102 Carlton Rd, London, E17 5RE, GB",
     "phone": "07860 694233",
     "international_phone": "07860 694233",
     "website": "https://mh-removals.co.uk/",
@@ -2376,12 +2495,12 @@
     "types": "Removals company",
     "lat": 51.597471,
     "lng": -0.031459,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "AA Removals UK Ltd",
-    "address": "{\"borough\":\"Seven Kings\",\"street\":\"61 Vernon Rd\",\"city\":\"Ilford\",\"postal_code\":\"IG3 8DJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "61 Vernon Rd, Seven Kings, Ilford, IG3 8DJ, GB",
     "phone": "020 3674 0120",
     "international_phone": "020 3674 0120",
     "website": "http://www.aaremovals.co.uk/",
@@ -2393,12 +2512,12 @@
     "types": "Removals company",
     "lat": 51.563994,
     "lng": 0.101479,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Ilford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Lets Move London LTD",
-    "address": "{\"borough\":\"\",\"street\":\"11 Emma Rd\",\"city\":\"London\",\"postal_code\":\"E13 0DS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Emma Rd, London, E13 0DS, GB",
     "phone": "07712 404112",
     "international_phone": "07712 404112",
     "website": "https://www.letsmovelondon.co.uk/",
@@ -2410,12 +2529,12 @@
     "types": "Removals Service",
     "lat": 51.529063,
     "lng": 0.015578,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "JA Coles Removals",
-    "address": "{\"borough\":\"\",\"street\":\"15 Tottenham Ln, Cranford Way\",\"city\":\"London\",\"postal_code\":\"N8 9DJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15 Tottenham Ln, Cranford Way, London, N8 9DJ, GB",
     "phone": "020 8808 9151",
     "international_phone": "020 8808 9151",
     "website": "https://www.colesremovals.co.uk/",
@@ -2427,12 +2546,12 @@
     "types": "Removals company",
     "lat": 51.58509,
     "lng": -0.11272,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London House Removals-Removals and Storage Services",
-    "address": "{\"borough\":\"Croydon, Thornton Heath\",\"street\":\"St Christopher's Gardens\",\"city\":\"Thornton Heath\",\"postal_code\":\"CR7 7NS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "St Christopher's Gardens, Croydon, Thornton Heath, Thornton Heath, CR7 7NS, GB",
     "phone": "020 3004 6846",
     "international_phone": "020 3004 6846",
     "website": "https://london-houseremovals.co.uk/",
@@ -2444,12 +2563,12 @@
     "types": "Removals company",
     "lat": 51.400973,
     "lng": -0.116681,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Thornton Heath",
+    "found_with_query": "removals london"
   },
   {
     "name": "Golden Eagle Removals",
-    "address": "{\"borough\":\"\",\"street\":\"273 Capworth St\",\"city\":\"London\",\"postal_code\":\"E10 7AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "273 Capworth St, London, E10 7AJ, GB",
     "phone": "07969 629456",
     "international_phone": "07969 629456",
     "website": "https://goldeneagleremovalseast.co.uk/",
@@ -2461,12 +2580,12 @@
     "types": "Removals Service",
     "lat": 51.569232,
     "lng": -0.019503,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "JS Moves Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"18, Bromleigh Court, Sydenham Hill\",\"city\":\"London\",\"postal_code\":\"SE23 3PW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18, Bromleigh Court, Sydenham Hill, London, SE23 3PW, GB",
     "phone": "020 3091 6098",
     "international_phone": "020 3091 6098",
     "website": "http://jsmoves.co.uk/",
@@ -2478,12 +2597,12 @@
     "types": "Removals company",
     "lat": 51.4395,
     "lng": -0.064661,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and Van E14",
-    "address": "{\"borough\":\"\",\"street\":\"Flat 201, Levanter House, 14 Voysey Sq\",\"city\":\"London\",\"postal_code\":\"E3 3FX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 201, Levanter House, 14 Voysey Sq, London, E3 3FX, GB",
     "phone": "07404 146178",
     "international_phone": "07404 146178",
     "website": "https://removals.pro/",
@@ -2495,12 +2614,12 @@
     "types": "Removals company",
     "lat": 51.519884,
     "lng": -0.017122,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "GetGreen Moves | Home Removals London & Croydon",
-    "address": "{\"borough\":\"\",\"street\":\"8 Broadfield Cl\",\"city\":\"Croydon\",\"postal_code\":\"CR0 4XR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Broadfield Cl, Croydon, CR0 4XR, GB",
     "phone": "020 3006 1017",
     "international_phone": "020 3006 1017",
     "website": "https://getgreenmoves.co.uk/",
@@ -2512,12 +2631,12 @@
     "types": "Removals Service",
     "lat": 51.375511,
     "lng": -0.121917,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "man and van",
-    "address": "{\"borough\":\"\",\"street\":\"45 Lavender Hill\",\"city\":\"London\",\"postal_code\":\"SW11 5QW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "45 Lavender Hill, London, SW11 5QW, GB",
     "phone": "020 8087 1817",
     "international_phone": "020 8087 1817",
     "website": "https://manandvan24.com/",
@@ -2529,12 +2648,12 @@
     "types": "Removals Service",
     "lat": 51.46597,
     "lng": -0.15274,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Que removal Ltd - Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"Catherall Rd\",\"city\":\"London\",\"postal_code\":\"N5 2LD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Catherall Rd, London, N5 2LD, GB",
     "phone": "020 3103 6927",
     "international_phone": "020 3103 6927",
     "website": "http://www.queremoval.com/",
@@ -2546,12 +2665,12 @@
     "types": "Removals company",
     "lat": 51.558211,
     "lng": -0.091574,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Sure Removals",
-    "address": "{\"borough\":\"\",\"street\":\"4 Bridge Cl\",\"city\":\"Romford\",\"postal_code\":\"RM7 0AU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Bridge Cl, Romford, RM7 0AU, GB",
     "phone": "020 3887 0840",
     "international_phone": "020 3887 0840",
     "website": "https://www.sureremovals.co.uk/",
@@ -2563,12 +2682,12 @@
     "types": "Removals company",
     "lat": 51.572118,
     "lng": 0.181297,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Rex Removals",
-    "address": "{\"borough\":\"\",\"street\":\"17 Finchley Ln\",\"city\":\"London\",\"postal_code\":\"NW4 1BN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "17 Finchley Ln, London, NW4 1BN, GB",
     "phone": "0800 068 1518",
     "international_phone": "0800 068 1518",
     "website": "http://www.rexremovals.co.uk/",
@@ -2580,12 +2699,12 @@
     "types": "Removals company",
     "lat": 51.589692,
     "lng": -0.220804,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Copsey Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"178 Crow Ln\",\"city\":\"Romford\",\"postal_code\":\"RM7 0ES\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "178 Crow Ln, Romford, RM7 0ES, GB",
     "phone": "01708 724213",
     "international_phone": "01708 724213",
     "website": "http://www.geocopsey.co.uk/",
@@ -2597,12 +2716,12 @@
     "types": "Removals company",
     "lat": 51.568721,
     "lng": 0.157896,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "SD Removals Storage packing Company London House flat Office Furniture Home Clearance Man Van piano Moving service",
-    "address": "{\"borough\":\"London\",\"street\":\"306, London Rd\",\"city\":\"Morden\",\"postal_code\":\"SM4 5BT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "306, London Rd, London, Morden, SM4 5BT, GB",
     "phone": "020 3576 5948",
     "international_phone": "020 3576 5948",
     "website": "http://www.sdremovals.co.uk/",
@@ -2614,12 +2733,12 @@
     "types": "Removals company",
     "lat": 51.403296,
     "lng": -0.193265,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Morden",
+    "found_with_query": "removals london"
   },
   {
     "name": "RSM Services",
-    "address": "{\"borough\":\"\",\"street\":\"Office 14, 12 Farwig Ln\",\"city\":\"Bromley\",\"postal_code\":\"BR1 3RB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 14, 12 Farwig Ln, Bromley, BR1 3RB, GB",
     "phone": "020 3370 4516",
     "international_phone": "020 3370 4516",
     "website": "http://www.rsmservices.co.uk/",
@@ -2631,12 +2750,12 @@
     "types": "Removals company",
     "lat": 51.410635,
     "lng": 0.011281,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "BROMLEY REMOVALS - INEXPENSIVE LOCAL MOVER",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 102, 3 Ravensbourne Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 1HN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 102, 3 Ravensbourne Rd, Bromley, BR1 1HN, GB",
     "phone": "020 8150 3178",
     "international_phone": "020 8150 3178",
     "website": "https://bromleyremovals.net/",
@@ -2648,12 +2767,12 @@
     "types": "Removals company",
     "lat": 51.400713,
     "lng": 0.01634,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Enfield Removals",
-    "address": "{\"borough\":\"\",\"street\":\"146 Magpie Cl\",\"city\":\"Enfield\",\"postal_code\":\"EN1 4JE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "146 Magpie Cl, Enfield, EN1 4JE, GB",
     "phone": "020 3835 4785",
     "international_phone": "020 3835 4785",
     "website": "https://enfieldremovals.net/",
@@ -2665,12 +2784,12 @@
     "types": "Removals Service",
     "lat": 51.663939,
     "lng": -0.060991,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man With Van Harold Wood",
-    "address": "{\"borough\":\"\",\"street\":\"41 Station Rd\",\"city\":\"Romford\",\"postal_code\":\"RM3 0BS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "41 Station Rd, Romford, RM3 0BS, GB",
     "phone": "020 3540 7832",
     "international_phone": "020 3540 7832",
     "website": "http://manwithvanharoldwood.co.uk/",
@@ -2682,12 +2801,12 @@
     "types": "Delivery Company",
     "lat": 51.593818,
     "lng": 0.23445,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Clockwork Removals South London",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 6, Merton Industrial Estate\",\"city\":\"London\",\"postal_code\":\"SW19 3HX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 6, Merton Industrial Estate, London, SW19 3HX, GB",
     "phone": "020 3808 8737",
     "international_phone": "020 3808 8737",
     "website": "https://www.clockworkremovals.co.uk/locations/south-london/?utm_source=gmb&utm_medium=organic",
@@ -2699,12 +2818,12 @@
     "types": "Removals Service",
     "lat": 51.412581,
     "lng": -0.188796,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Alexanders Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 1, Chase Road Trading Estate, 51 Chase Rd\",\"city\":\"London\",\"postal_code\":\"NW10 6LG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1, Chase Road Trading Estate, 51 Chase Rd, London, NW10 6LG, GB",
     "phone": "0333 800 2323",
     "international_phone": "0333 800 2323",
     "website": "https://www.alexandersgroup.co.uk/?utm_source=GMB&utm_medium=Website",
@@ -2716,12 +2835,12 @@
     "types": "Removals company",
     "lat": 51.525834,
     "lng": -0.259671,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "City Removals",
-    "address": "{\"borough\":\"\",\"street\":\"548 Rainham Rd S\",\"city\":\"Dagenham\",\"postal_code\":\"RM10 7XD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "548 Rainham Rd S, Dagenham, RM10 7XD, GB",
     "phone": "020 3583 9034",
     "international_phone": "020 3583 9034",
     "website": "https://www.city-removals.co.uk/",
@@ -2733,12 +2852,12 @@
     "types": "Delivery Company",
     "lat": 51.546774,
     "lng": 0.164828,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Dagenham",
+    "found_with_query": "removals london"
   },
   {
     "name": "East London Removals",
-    "address": "{\"borough\":\"Bushwood\",\"street\":\"253 Joseph Ray Rd\",\"city\":\"London\",\"postal_code\":\"E11 4RA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "253 Joseph Ray Rd, Bushwood, London, E11 4RA, GB",
     "phone": "020 3959 3000",
     "international_phone": "020 3959 3000",
     "website": "https://eastlondonremovals.london/",
@@ -2750,12 +2869,12 @@
     "types": "Removals Service",
     "lat": 51.563709,
     "lng": 0.008982,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "BELLA REMOVAL UK LTD - London (Head Office)",
-    "address": "{\"borough\":\"\",\"street\":\"37, Valley House, Valley House Manor Rd\",\"city\":\"London\",\"postal_code\":\"W13 0EW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37, Valley House, Valley House Manor Rd, London, W13 0EW, GB",
     "phone": "07885 979030",
     "international_phone": "07885 979030",
     "website": "https://www.bellaremovalltd.co.uk/",
@@ -2767,12 +2886,12 @@
     "types": "Removals company",
     "lat": 51.513957,
     "lng": -0.326703,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "A Man with A Van London",
-    "address": "{\"borough\":\"\",\"street\":\"54 Sheringham Ave\",\"city\":\"London\",\"postal_code\":\"N14 4UG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "54 Sheringham Ave, London, N14 4UG, GB",
     "phone": "07702 894895",
     "international_phone": "07702 894895",
     "website": "https://www.amanwithavanlondon.co.uk/",
@@ -2784,12 +2903,12 @@
     "types": "Removals company",
     "lat": 51.64287,
     "lng": -0.124187,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "London & Kent Clearance Services Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"45 Tweedy Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 3NF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "45 Tweedy Rd, Bromley, BR1 3NF, GB",
     "phone": "07970 174055",
     "international_phone": "07970 174055",
     "website": "",
@@ -2801,12 +2920,29 @@
     "types": "Waste Collection Service",
     "lat": 51.409022,
     "lng": 0.014638,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
+  },
+  {
+    "name": "Romford Van Man",
+    "address": "10 Beulah Rd, Hornchurch, RM12 4YR, GB",
+    "phone": "01708 384794",
+    "international_phone": "01708 384794",
+    "website": "http://www.romfordvanman.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Romford+Van+Man/data=!4m7!3m6!1s0x47d8badfb1f0363d:0x76603a597fb9acb1!8m2!3d51.5549382!4d0.2096984!16s%2Fg%2F11clzqksc3!19sChIJPTbwsd-62EcRsay5f1k6YHY?authuser=0&hl=en&rclk=1",
+    "rating": 4.6,
+    "total_reviews": 10,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 51.554938,
+    "lng": 0.209698,
+    "found_in_location": "Hornchurch",
+    "found_with_query": "removals london"
   },
   {
     "name": "Top Removals",
-    "address": "{\"borough\":\"Greater, Purfleet-on-Thames\",\"street\":\"Unit C1A, Thurrock Commercial Centre, Kerry Ave\",\"city\":\"London\",\"postal_code\":\"RM15 4YA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit C1A, Thurrock Commercial Centre, Kerry Ave, Greater, Purfleet-on-Thames, London, RM15 4YA, GB",
     "phone": "020 7205 2525",
     "international_phone": "020 7205 2525",
     "website": "http://www.top-removals.co.uk/",
@@ -2818,12 +2954,12 @@
     "types": "Removals company",
     "lat": 51.495582,
     "lng": 0.231038,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Steve Frieze Removals",
-    "address": "{\"borough\":\"\",\"street\":\"3a Princes Way\",\"city\":\"Croydon\",\"postal_code\":\"CR0 4RD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3a Princes Way, Croydon, CR0 4RD, GB",
     "phone": "020 8680 5235",
     "international_phone": "020 8680 5235",
     "website": "http://www.stevefrieze.co.uk/",
@@ -2835,12 +2971,12 @@
     "types": "Removals company",
     "lat": 51.360717,
     "lng": -0.121334,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and van London",
-    "address": "{\"borough\":\"\",\"street\":\"191 Bromley Rd\",\"city\":\"London\",\"postal_code\":\"SE6 2PG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "191 Bromley Rd, London, SE6 2PG, GB",
     "phone": "020 8004 0932",
     "international_phone": "020 8004 0932",
     "website": "https://www.manvanservices.co.uk/",
@@ -2852,12 +2988,12 @@
     "types": "Removals Service",
     "lat": 51.434466,
     "lng": -0.017567,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Phils removal services",
-    "address": "{\"borough\":\"\",\"street\":\"18 Birkbeck Rd\",\"city\":\"Romford\",\"postal_code\":\"RM7 0QP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18 Birkbeck Rd, Romford, RM7 0QP, GB",
     "phone": "01708 750964",
     "international_phone": "01708 750964",
     "website": "http://www.philsremovals.co.uk/",
@@ -2869,12 +3005,12 @@
     "types": "Removals Service",
     "lat": 51.566231,
     "lng": 0.174975,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Coppards Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2 Scrubs Farm, Lower Gravel Road\",\"city\":\"Bromley\",\"postal_code\":\"BR2 8LL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2 Scrubs Farm, Lower Gravel Road, Bromley, BR2 8LL, GB",
     "phone": "01689 822658",
     "international_phone": "01689 822658",
     "website": "http://www.coppardsremovals.co.uk/",
@@ -2886,12 +3022,12 @@
     "types": "Removals Service",
     "lat": 51.377874,
     "lng": 0.05286,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man and Van London Services",
-    "address": "{\"borough\":\"\",\"street\":\"384A Green Lanes\",\"city\":\"London\",\"postal_code\":\"N13 5PD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "384A Green Lanes, London, N13 5PD, GB",
     "phone": "020 3633 4655",
     "international_phone": "020 3633 4655",
     "website": "https://www.man-van.co.uk/",
@@ -2903,12 +3039,12 @@
     "types": "Removals Service",
     "lat": 51.6213,
     "lng": -0.10574,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "VANONE - INTERNATIONAL MOVERS",
-    "address": "{\"borough\":\"\",\"street\":\"Newman Business Centre, 2 Newman Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 1RJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Newman Business Centre, 2 Newman Rd, Bromley, BR1 1RJ, GB",
     "phone": "0330 113 7939",
     "international_phone": "0330 113 7939",
     "website": "https://www.vanone.co.uk/",
@@ -2920,12 +3056,12 @@
     "types": "Removals Service",
     "lat": 51.407713,
     "lng": 0.018135,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Fast Removal - London Removals Company",
-    "address": "{\"borough\":\"\",\"street\":\"66 Eastbourne Rd\",\"city\":\"London\",\"postal_code\":\"E15 3LJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "66 Eastbourne Rd, London, E15 3LJ, GB",
     "phone": "07957 191134",
     "international_phone": "07957 191134",
     "website": "http://www.fastremoval.com/",
@@ -2937,12 +3073,12 @@
     "types": "Removals Service",
     "lat": 51.533931,
     "lng": 0.007876,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Garrards Removals and Storage.",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 9, Mill Lane Trading Estate, Mill Ln\",\"city\":\"Croydon\",\"postal_code\":\"CR0 4AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 9, Mill Lane Trading Estate, Mill Ln, Croydon, CR0 4AA, GB",
     "phone": "020 8688 4979",
     "international_phone": "020 8688 4979",
     "website": "http://www.garrardsremovals.co.uk/",
@@ -2954,12 +3090,12 @@
     "types": "Removals Service",
     "lat": 51.371658,
     "lng": -0.12091,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Alheavy Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"15 Bates Rd\",\"city\":\"Romford\",\"postal_code\":\"RM3 0JH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15 Bates Rd, Romford, RM3 0JH, GB",
     "phone": "01708 374400",
     "international_phone": "01708 374400",
     "website": "http://alheavy.com/",
@@ -2971,12 +3107,12 @@
     "types": "Removals Service",
     "lat": 51.597866,
     "lng": 0.242079,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Ace Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 3 Willow Way\",\"city\":\"London\",\"postal_code\":\"SE26 4QP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3 Willow Way, London, SE26 4QP, GB",
     "phone": "020 8778 5858",
     "international_phone": "020 8778 5858",
     "website": "https://www.aceremovalservices.co.uk/",
@@ -2988,12 +3124,12 @@
     "types": "Removals company",
     "lat": 51.433097,
     "lng": -0.058938,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Croydon Removals - Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"237 Lower Addiscombe Rd\",\"city\":\"Croydon\",\"postal_code\":\"CR0 6RD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "237 Lower Addiscombe Rd, Croydon, CR0 6RD, GB",
     "phone": "07576 789724",
     "international_phone": "07576 789724",
     "website": "http://click2worldremovals.weebly.com/",
@@ -3005,12 +3141,12 @@
     "types": "Removals company",
     "lat": 51.380529,
     "lng": -0.072856,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Croydon",
+    "found_with_query": "removals london"
   },
   {
     "name": "Casey's Removals",
-    "address": "{\"borough\":\"\",\"street\":\"263 Beckenham Rd\",\"city\":\"Beckenham\",\"postal_code\":\"BR3 4RP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "263 Beckenham Rd, Beckenham, BR3 4RP, GB",
     "phone": "020 8659 6677",
     "international_phone": "020 8659 6677",
     "website": "http://www.caseysremovals.com/",
@@ -3022,12 +3158,12 @@
     "types": "Removals company",
     "lat": 51.410046,
     "lng": -0.04607,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Beckenham",
+    "found_with_query": "removals london"
   },
   {
     "name": "AGS Worldwide Movers - London",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 1, Trade City Business Park, Cowley Mill Rd\",\"city\":\"Uxbridge\",\"postal_code\":\"UB8 2DB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1, Trade City Business Park, Cowley Mill Rd, Uxbridge, UB8 2DB, GB",
     "phone": "01895 201595",
     "international_phone": "01895 201595",
     "website": "https://www.agsmovers.com/branches/movers-europe/united-kingdom/movers-london/",
@@ -3039,12 +3175,12 @@
     "types": "Removals company",
     "lat": 51.537445,
     "lng": -0.48453,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "removals london"
   },
   {
     "name": "Laser Clinics UK - Bromley",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 18, The Glades\",\"city\":\"Bromley\",\"postal_code\":\"BR1 1DD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 18, The Glades, Bromley, BR1 1DD, GB",
     "phone": "020 3745 5430",
     "international_phone": "020 3745 5430",
     "website": "https://www.laserclinics.co.uk/skin-care-clinics/bromley/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page&utm_content=Bromley&utm_term=plcid_5717344521180894791",
@@ -3056,12 +3192,12 @@
     "types": "Laser hair removal service",
     "lat": 51.403891,
     "lng": 0.016582,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "Enfied removals Patrick",
-    "address": "{\"borough\":\"\",\"street\":\"5 martinbridge industrial Estate\",\"city\":\"Enfield\",\"postal_code\":\"EN1 1SP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 martinbridge industrial Estate, Enfield, EN1 1SP, GB",
     "phone": "07448 052153",
     "international_phone": "07448 052153",
     "website": "",
@@ -3073,12 +3209,12 @@
     "types": "Removals company",
     "lat": 51.645594,
     "lng": -0.058005,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "Removals Enfield",
-    "address": "{\"borough\":\"\",\"street\":\"Postal code: 40 Russell Road, Enfield Country:\",\"city\":\"London\",\"postal_code\":\"EN1 4TW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Postal code: 40 Russell Road, Enfield Country:, London, EN1 4TW, GB",
     "phone": "020 3859 1770",
     "international_phone": "020 3859 1770",
     "website": "http://removalsenfield.org.uk/",
@@ -3090,12 +3226,12 @@
     "types": "Storage facility",
     "lat": 51.665922,
     "lng": -0.067805,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man with Van Enfield Ltd.",
-    "address": "{\"borough\":\"\",\"street\":\"8 The Town\",\"city\":\"London\",\"postal_code\":\"EN2 6LE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 The Town, London, EN2 6LE, GB",
     "phone": "020 8610 9268",
     "international_phone": "020 8610 9268",
     "website": "http://manwithvanenfield.org.uk/",
@@ -3107,12 +3243,12 @@
     "types": "Removals company",
     "lat": 51.651921,
     "lng": -0.081814,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "Total Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"28 The Coppice\",\"city\":\"Enfield\",\"postal_code\":\"EN2 7BX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "28 The Coppice, Enfield, EN2 7BX, GB",
     "phone": "020 8367 8348",
     "international_phone": "020 8367 8348",
     "website": "http://total-removals.com/",
@@ -3124,12 +3260,12 @@
     "types": "Packaging company",
     "lat": 51.650358,
     "lng": -0.095104,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Enfield",
+    "found_with_query": "removals london"
   },
   {
     "name": "ManAndVan-Bromley",
-    "address": "{\"borough\":\"\",\"street\":\"2 South St\",\"city\":\"Bromley\",\"postal_code\":\"BR1 1RH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 South St, Bromley, BR1 1RH, GB",
     "phone": "020 3319 5125",
     "international_phone": "020 3319 5125",
     "website": "http://manandvan-bromley.co.uk/",
@@ -3141,12 +3277,12 @@
     "types": "Removals company",
     "lat": 51.406928,
     "lng": 0.016635,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "All Day Removals & Storage Ltd - Bromley",
-    "address": "{\"borough\":\"\",\"street\":\"114 Keedonwood Rd\",\"city\":\"Bromley\",\"postal_code\":\"BR1 4QN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "114 Keedonwood Rd, Bromley, BR1 4QN, GB",
     "phone": "020 3889 1268",
     "international_phone": "020 3889 1268",
     "website": "https://www.alldayremovals.co.uk/",
@@ -3158,12 +3294,12 @@
     "types": "Removals company",
     "lat": 51.424356,
     "lng": 0.006596,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Bromley",
+    "found_with_query": "removals london"
   },
   {
     "name": "SOUTH PARK REMOVAL SERVICE LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Movers House, Mawney Rd\",\"city\":\"Romford\",\"postal_code\":\"RM7 8BX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Movers House, Mawney Rd, Romford, RM7 8BX, GB",
     "phone": "01708 551146",
     "international_phone": "01708 551146",
     "website": "http://www.southparkremovals.co.uk/",
@@ -3175,12 +3311,12 @@
     "types": "Removals Service",
     "lat": 51.582368,
     "lng": 0.164681,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Romford Removals",
-    "address": "{\"borough\":\"\",\"street\":\"4 Vine St\",\"city\":\"Romford\",\"postal_code\":\"RM7 7LH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Vine St, Romford, RM7 7LH, GB",
     "phone": "01708 693151",
     "international_phone": "01708 693151",
     "website": "http://romfordremovals.com/",
@@ -3192,12 +3328,12 @@
     "types": "Removals company",
     "lat": 51.579747,
     "lng": 0.16955,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "Romford",
+    "found_with_query": "removals london"
   },
   {
     "name": "Man With a Van Romford",
-    "address": "{\"borough\":\"\",\"street\":\"10 Western Rd\",\"city\":\"London\",\"postal_code\":\"RM1 3JS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Western Rd, London, RM1 3JS, GB",
     "phone": "020 3198 2276",
     "international_phone": "020 3198 2276",
     "website": "http://manwithavanromford.co.uk/",
@@ -3209,12 +3345,12 @@
     "types": "Removals company",
     "lat": 51.576826,
     "lng": 0.183574,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   },
   {
     "name": "LMV PACKAGING LTD",
-    "address": "{\"borough\":\"\",\"street\":\"20 Wenlock Rd\",\"city\":\"London\",\"postal_code\":\"N1 7GU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20 Wenlock Rd, London, N1 7GU, GB",
     "phone": "020 8099 6982",
     "international_phone": "020 8099 6982",
     "website": "https://www.lmv-packaging.co.uk/",
@@ -3226,7 +3362,7 @@
     "types": "Packaging company",
     "lat": 51.530579,
     "lng": -0.093684,
-    "found_in_location": "london",
-    "found_with_query": "removal companies london"
+    "found_in_location": "London",
+    "found_with_query": "removals london"
   }
 ]

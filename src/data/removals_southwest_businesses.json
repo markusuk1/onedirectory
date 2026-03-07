@@ -1,41 +1,7 @@
 [
   {
-    "name": "Man in Van in Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07597 679837",
-    "international_phone": "07597 679837",
-    "website": "https://maninvaninbristol.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Man+in+Van+in+Bristol/data=!4m7!3m6!1s0x487191e36c3d5ae9:0xf9a424d16b79b4bf!8m2!3d51.528214!4d-2.5255134!16s%2Fg%2F1hc82cwlt!19sChIJ6Vo9bOORcUgRv7R5a9EkpPk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 409,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.528214,
-    "lng": -2.525513,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Sam with a Van - Man with a Van Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07894 207896",
-    "international_phone": "07894 207896",
-    "website": "https://brightideasclub.com/?utm_source=google&utm_medium=organic&utm_campaign=google_maps",
-    "google_maps_url": "https://www.google.com/maps/place/Sam+with+a+Van+-+Man+with+a+Van+Bristol/data=!4m7!3m6!1s0x469cb00d48057f33:0xf362b32209c45442!8m2!3d51.4708184!4d-2.5907175!16s%2Fg%2F11v41rj1jh!19sChIJM38FSA2wnEYRQlTECSKzYvM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 386,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.470818,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
     "name": "DL Removals",
-    "address": "{\"borough\":\"\",\"street\":\"540 Hareclive Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS13 0LX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "540 Hareclive Rd, Bristol, BS13 0LX, GB",
     "phone": "0117 373 9607",
     "international_phone": "0117 373 9607",
     "website": "https://www.dlbristolremovals.com/",
@@ -47,12 +13,12 @@
     "types": "Removals company",
     "lat": 51.406392,
     "lng": -2.596432,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Big Tuna Removals Plymouth",
-    "address": "{\"borough\":\"Saint Budeaux\",\"street\":\"7 Lynher St\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 1QD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 Lynher St, Saint Budeaux, Plymouth, PL5 1QD, GB",
     "phone": "07950 799855",
     "international_phone": "07950 799855",
     "website": "https://bigtunamoving.com/",
@@ -64,12 +30,12 @@
     "types": "Removals company",
     "lat": 50.406265,
     "lng": -4.185747,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Clearance4less Torbay, House Clearance & Waste removal specialists. Covering Torbay, Exeter, Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"33 Broomborough Ct, Kellock Dr\",\"city\":\"Totnes\",\"postal_code\":\"TQ9 5GD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "33 Broomborough Ct, Kellock Dr, Totnes, TQ9 5GD, GB",
     "phone": "0800 001 6839",
     "international_phone": "0800 001 6839",
     "website": "https://clearance4less.co.uk/",
@@ -81,12 +47,12 @@
     "types": "Waste-Management Service",
     "lat": 50.430858,
     "lng": -3.696773,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Totnes",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "houseclearance4u.com",
-    "address": "{\"borough\":\"\",\"street\":\"29 Grantham Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH1 4NW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "29 Grantham Rd, Bournemouth, BH1 4NW, GB",
     "phone": "0800 772 0078",
     "international_phone": "0800 772 0078",
     "website": "https://www.houseclearance4u.com/",
@@ -98,12 +64,12 @@
     "types": "House clearance service",
     "lat": 50.73098,
     "lng": -1.843267,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Go4removals",
-    "address": "{\"borough\":\"\",\"street\":\"10 Tynings Way\",\"city\":\"Bradford-on-Avon\",\"postal_code\":\"BA15 2BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Tynings Way, Bradford-on-Avon, BA15 2BU, GB",
     "phone": "07882 932326",
     "international_phone": "07882 932326",
     "website": "http://go4removals.com/",
@@ -115,12 +81,12 @@
     "types": "Removals company",
     "lat": 51.332545,
     "lng": -2.276655,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bradford-on-Avon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "BM Services 24HR Rescue And Recovery Exeter",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Exeter\",\"postal_code\":\"EX2 9SQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Exeter, EX2 9SQ, GB",
     "phone": "07946 272620",
     "international_phone": "07946 272620",
     "website": "https://bmservicesrecovery.co.uk/",
@@ -132,12 +98,12 @@
     "types": "Towing service",
     "lat": 50.67163,
     "lng": -3.536645,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Moving Professionals Ltd",
-    "address": "{\"borough\":\"Talbot Woods\",\"street\":\"4 Carrbridge Cl\",\"city\":\"Bournemouth\",\"postal_code\":\"BH3 7EQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Carrbridge Cl, Talbot Woods, Bournemouth, BH3 7EQ, GB",
     "phone": "01202 985237",
     "international_phone": "01202 985237",
     "website": "https://movingprofessionals.co.uk/",
@@ -149,29 +115,12 @@
     "types": "Removals company",
     "lat": 50.738153,
     "lng": -1.89446,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Swift Man & Van, Removals & Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07886 313282",
-    "international_phone": "07886 313282",
-    "website": "https://theswiftvan.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Swift+Man+%26+Van,+Removals+%26+Clearance/data=!4m7!3m6!1s0x486c932ecef40b47:0x2d4649ae964c0d6d!8m2!3d52.8378608!4d-2.3276181!16s%2Fg%2F11s67ctplx!19sChIJRwv0zi6TbEgRbQ1Mlq5JRi0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 194,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 52.837861,
-    "lng": -2.327618,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Removal Company",
-    "address": "{\"borough\":\"\",\"street\":\"Cliff Park, Bishopsteignton Rd\",\"city\":\"Teignmouth\",\"postal_code\":\"TQ14 9AD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Cliff Park, Bishopsteignton Rd, Teignmouth, TQ14 9AD, GB",
     "phone": "01626 259027",
     "international_phone": "01626 259027",
     "website": "http://www.theremovalcompany.co.uk/",
@@ -183,12 +132,12 @@
     "types": "Removals company",
     "lat": 50.546219,
     "lng": -3.513137,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Teignmouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Clear & Clean House Clearance",
-    "address": "{\"borough\":\"Highnam\",\"street\":\"Cross Hands Cottage\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 8DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Cross Hands Cottage, Highnam, Gloucester, GL2 8DF, GB",
     "phone": "01452 290086",
     "international_phone": "01452 290086",
     "website": "https://clearandcleancompany.com/",
@@ -200,12 +149,12 @@
     "types": "House clearance service",
     "lat": 51.872526,
     "lng": -2.291103,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Lucky Lukas Removals",
-    "address": "{\"borough\":\"Boscombe\",\"street\":\"28-30 Sea Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH5 1DF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "28-30 Sea Rd, Boscombe, Bournemouth, BH5 1DF, GB",
     "phone": "07778 666499",
     "international_phone": "07778 666499",
     "website": "http://luckylukas-removals.co.uk/",
@@ -217,12 +166,12 @@
     "types": "Removals Service",
     "lat": 50.724284,
     "lng": -1.840155,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man&Van Darios Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Hadow Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH10 5HT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hadow Rd, Bournemouth, BH10 5HT, GB",
     "phone": "07712 568407",
     "international_phone": "07712 568407",
     "website": "https://dorsetremovals.uk/",
@@ -234,29 +183,12 @@
     "types": "Removals company",
     "lat": 50.755756,
     "lng": -1.899318,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Ace Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07501 955938",
-    "international_phone": "07501 955938",
-    "website": "https://www.aceremovalsbusiness.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Ace+Removals/data=!4m7!3m6!1s0x487115b66d23f1f7:0x3ae38c5cb883be75!8m2!3d51.7149797!4d-1.9663071!16s%2Fg%2F11c533ch5w!19sChIJ9_EjbbYVcUgRdb6DuFyM4zo?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 152,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.71498,
-    "lng": -1.966307,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Gloucestershire House Clearances CIC",
-    "address": "{\"borough\":\"Chalford\",\"street\":\"L4 Enterprises, Cirencester Rd\",\"city\":\"Stroud\",\"postal_code\":\"GL6 8PE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "L4 Enterprises, Cirencester Rd, Chalford, Stroud, GL6 8PE, GB",
     "phone": "01453 707403",
     "international_phone": "01453 707403",
     "website": "http://www.gloucestershirehouseclearances.co.uk/",
@@ -268,12 +200,12 @@
     "types": "House clearance service",
     "lat": 51.713695,
     "lng": -2.135694,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Stroud",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "PERERA Movers",
-    "address": "{\"borough\":\"Stonehouse\",\"street\":\"41 Wyndham St E\",\"city\":\"Plymouth\",\"postal_code\":\"PL1 5FA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "41 Wyndham St E, Stonehouse, Plymouth, PL1 5FA, GB",
     "phone": "01752 271812",
     "international_phone": "01752 271812",
     "website": "http://www.pereramovers.co.uk/",
@@ -285,12 +217,12 @@
     "types": "Removals company",
     "lat": 50.374197,
     "lng": -4.149769,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "S&B Services",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 136 Bristol Rd\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 5DH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 136 Bristol Rd, Gloucester, GL2 5DH, GB",
     "phone": "07306 145930",
     "international_phone": "07306 145930",
     "website": "https://www.snbservices.co.uk/",
@@ -302,12 +234,12 @@
     "types": "Removals company",
     "lat": 51.853567,
     "lng": -2.254808,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "wemove",
-    "address": "{\"borough\":\"\",\"street\":\"Store \\u0026 Secure House, 5 Yeomans Way\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 0BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Store & Secure House, 5 Yeomans Way, Bournemouth, BH8 0BL, GB",
     "phone": "01202 287587",
     "international_phone": "01202 287587",
     "website": "http://www.wemovesouth.co.uk/",
@@ -319,12 +251,12 @@
     "types": "Removals company",
     "lat": 50.753956,
     "lng": -1.839375,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bournemouth Rubbish Clearance DMG Waste Management",
-    "address": "{\"borough\":\"\",\"street\":\"Suite 61, 2 Lansdowne Cres\",\"city\":\"Bournemouth\",\"postal_code\":\"BH1 1SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Suite 61, 2 Lansdowne Cres, Bournemouth, BH1 1SA, GB",
     "phone": "07939 150757",
     "international_phone": "07939 150757",
     "website": "http://www.dmgwastemanagement.co.uk/",
@@ -336,12 +268,12 @@
     "types": "Waste-Management Service",
     "lat": 50.722356,
     "lng": -1.866918,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "DragonFly Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Dragonfly Removals Ltd Old Down Business Park Unit 3\",\"city\":\"Radstock\",\"postal_code\":\"BA3 4SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Dragonfly Removals Ltd Old Down Business Park Unit 3, Radstock, BA3 4SA, GB",
     "phone": "01761 412866",
     "international_phone": "01761 412866",
     "website": "http://www.dragonflyremovals.com/",
@@ -353,12 +285,12 @@
     "types": "Removals company",
     "lat": 51.261686,
     "lng": -2.533891,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Radstock",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cotswold Clearance & Removals Ltd",
-    "address": "{\"borough\":\"Toddington\",\"street\":\"Stanway Grounds Farm\",\"city\":\"Cheltenham\",\"postal_code\":\"GL54 5DR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Stanway Grounds Farm, Toddington, Cheltenham, GL54 5DR, GB",
     "phone": "07717 181830",
     "international_phone": "07717 181830",
     "website": "https://www.ccr-limited.co.uk/",
@@ -370,12 +302,12 @@
     "types": "House clearance service",
     "lat": 51.997129,
     "lng": -1.922328,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Tom's Vans Removals Bristol - Your Local Man with a Van",
-    "address": "{\"borough\":\"Southmead\",\"street\":\"14 Kelston Gardens\",\"city\":\"Bristol\",\"postal_code\":\"BS10 5EY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Kelston Gardens, Southmead, Bristol, BS10 5EY, GB",
     "phone": "07734 954263",
     "international_phone": "07734 954263",
     "website": "https://tomsvans.co.uk/bristol-removals-man-and-van/",
@@ -387,12 +319,12 @@
     "types": "Removals company",
     "lat": 51.495112,
     "lng": -2.595864,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Moving On Removals",
-    "address": "{\"borough\":\"Saint Budeaux\",\"street\":\"40 Kathleaven St\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 1PZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "40 Kathleaven St, Saint Budeaux, Plymouth, PL5 1PZ, GB",
     "phone": "01752 296145",
     "international_phone": "01752 296145",
     "website": "https://movingonremovals.co.uk/",
@@ -404,29 +336,12 @@
     "types": "Removals company",
     "lat": 50.404878,
     "lng": -4.184998,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Bristol Removals & Clearances",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07967 819388",
-    "international_phone": "07967 819388",
-    "website": "https://www.bristolremovalsandclearances.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Bristol+Removals+%26+Clearances/data=!4m7!3m6!1s0xaae08595d35d4987:0xc882661753892c4!8m2!3d51.468489!4d-2.5907175!16s%2Fg%2F11rxj88vcj!19sChIJh0ld05WF4KoRxJI4dWEmiAw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 112,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.468489,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "L & J Home Ltd",
-    "address": "{\"borough\":\"Plympton\",\"street\":\"10 Bell Cl\",\"city\":\"Plymouth\",\"postal_code\":\"PL7 4FD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Bell Cl, Plympton, Plymouth, PL7 4FD, GB",
     "phone": "01752 946732",
     "international_phone": "01752 946732",
     "website": "http://www.landjhome.co.uk/",
@@ -438,12 +353,12 @@
     "types": "Logistics service",
     "lat": 50.393558,
     "lng": -4.04119,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Get A Move On Removals",
-    "address": "{\"borough\":\"\",\"street\":\"12 Stadium Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS6 7YE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Stadium Rd, Bristol, BS6 7YE, GB",
     "phone": "0117 332 0128",
     "international_phone": "0117 332 0128",
     "website": "http://www.getamoveonremovals.co.uk/",
@@ -455,12 +370,12 @@
     "types": "Removals company",
     "lat": 51.484111,
     "lng": -2.599409,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Ruby Removals Exeter",
-    "address": "{\"borough\":\"\",\"street\":\"Wichita Works, Water Ln\",\"city\":\"Exeter\",\"postal_code\":\"EX2 8BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wichita Works, Water Ln, Exeter, EX2 8BU, GB",
     "phone": "01392 949070",
     "international_phone": "01392 949070",
     "website": "https://www.rubyvanmanexeter.co.uk/",
@@ -472,12 +387,12 @@
     "types": "Removals company",
     "lat": 50.711388,
     "lng": -3.5268,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Coln Clearances",
-    "address": "{\"borough\":\"\",\"street\":\"Star Lodge, Montpellier Dr\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 1TY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Star Lodge, Montpellier Dr, Cheltenham, GL50 1TY, GB",
     "phone": "01242 830849",
     "international_phone": "01242 830849",
     "website": "https://www.colnclearances.co.uk/",
@@ -489,29 +404,12 @@
     "types": "House clearance service",
     "lat": 51.89467,
     "lng": -2.076905,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Student Express Removals & Transportation",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07985 736455",
-    "international_phone": "07985 736455",
-    "website": "https://studentexpress.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Student+Express+Removals+%26+Transportation/data=!4m7!3m6!1s0x670858d98db11807:0xfd2a3319815a97f8!8m2!3d50.7244282!4d-3.5135475!16s%2Fg%2F11sx55gdsc!19sChIJBxixjdlYCGcR-JdagRkzKv0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 103,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.724428,
-    "lng": -3.513548,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol House Clearance Solutions",
-    "address": "{\"borough\":\"Easton\",\"street\":\"6 Colwyn Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS5 6BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Colwyn Rd, Easton, Bristol, BS5 6BQ, GB",
     "phone": "0117 251 0443",
     "international_phone": "0117 251 0443",
     "website": "http://bristolhouseclearancesolutions.co.uk/",
@@ -523,29 +421,12 @@
     "types": "House clearance service",
     "lat": 51.4654,
     "lng": -2.55934,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Best Rated Removals Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01793 540777",
-    "international_phone": "01793 540777",
-    "website": "http://bestratedremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Best+Rated+Removals+Swindon/data=!4m7!3m6!1s0x230de709e091479:0xc1238422704d3e0e!8m2!3d51.5687628!4d-1.7923051!16s%2Fg%2F11sk8hfx8z!19sChIJeRQJnnDeMAIRDj5NcCKEI8E?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 92,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.568763,
-    "lng": -1.792305,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Macro Removals",
-    "address": "{\"borough\":\"Staple Hill\",\"street\":\"77 Gloucester Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS16 4SL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "77 Gloucester Rd, Staple Hill, Bristol, BS16 4SL, GB",
     "phone": "0117 318 5112",
     "international_phone": "0117 318 5112",
     "website": "https://macroremovals.co.uk/",
@@ -557,12 +438,12 @@
     "types": "Removals company",
     "lat": 51.476923,
     "lng": -2.501592,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cotswold Services Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"246 Bath Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL53 7NB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "246 Bath Rd, Cheltenham, GL53 7NB, GB",
     "phone": "0330 043 9735",
     "international_phone": "0330 043 9735",
     "website": "https://www.cotswoldservicesremovals.co.uk/",
@@ -574,12 +455,12 @@
     "types": "Removals company",
     "lat": 51.887511,
     "lng": -2.079963,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "McBains and Co",
-    "address": "{\"borough\":\"Silverton\",\"street\":\"Babylon Ln\",\"city\":\"Exeter\",\"postal_code\":\"EX5 4DT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Babylon Ln, Silverton, Exeter, EX5 4DT, GB",
     "phone": "07477 650250",
     "international_phone": "07477 650250",
     "website": "http://www.mcbainsandco.co.uk/",
@@ -591,12 +472,12 @@
     "types": "Removals company",
     "lat": 50.807216,
     "lng": -3.484382,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Vandyman Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Conyngham Ct\",\"city\":\"Plymouth\",\"postal_code\":\"PL6 5LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Conyngham Ct, Plymouth, PL6 5LW, GB",
     "phone": "01752 936074",
     "international_phone": "01752 936074",
     "website": "https://vandyman.com/",
@@ -608,12 +489,12 @@
     "types": "Removals company",
     "lat": 50.402579,
     "lng": -4.125902,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "LET'S MOVE WITH MIKE LTD",
-    "address": "{\"borough\":\"Palmerston Mews\",\"street\":\"Bonita Court, 69A Palmerston Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH1 4AZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Bonita Court, 69A Palmerston Rd, Palmerston Mews, Bournemouth, BH1 4AZ, GB",
     "phone": "07950 747320",
     "international_phone": "07950 747320",
     "website": "https://www.checkatrade.com/trades/letsmovewithmikeltd",
@@ -625,29 +506,12 @@
     "types": "Removals company",
     "lat": 50.72871,
     "lng": -1.842983,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Balboa Champion Movers BATH",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01225 375318",
-    "international_phone": "01225 375318",
-    "website": "https://balboachampionmovers.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Balboa+Champion+Movers+BATH/data=!4m7!3m6!1s0xaf530390694ea2d7:0x39948a2eb7c30446!8m2!3d51.3801264!4d-2.3618253!16s%2Fg%2F11vwxq1d3s!19sChIJ16JOaZADU68RRgTDty6KlDk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 83,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.380126,
-    "lng": -2.361825,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "SAS Removals",
-    "address": "{\"borough\":\"\",\"street\":\"24 Allendale Rd\",\"city\":\"Plymouth\",\"postal_code\":\"PL4 6JA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Allendale Rd, Plymouth, PL4 6JA, GB",
     "phone": "01752 298654",
     "international_phone": "01752 298654",
     "website": "https://sasremovalsplymouth.co.uk/",
@@ -659,12 +523,12 @@
     "types": "Removals company",
     "lat": 50.379142,
     "lng": -4.136499,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Click & Move (Swindon) Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"154 Marlborough Rd\",\"city\":\"Swindon\",\"postal_code\":\"SN3 1LU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "154 Marlborough Rd, Swindon, SN3 1LU, GB",
     "phone": "07454 442488",
     "international_phone": "07454 442488",
     "website": "https://www.clickandmoveltd.co.uk/",
@@ -676,12 +540,12 @@
     "types": "Removals company",
     "lat": 51.544768,
     "lng": -1.768675,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Clevedon Man with Van",
-    "address": "{\"borough\":\"Nailsea\",\"street\":\"56 Shaftesbury Cl\",\"city\":\"Bristol\",\"postal_code\":\"BS48 2QJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "56 Shaftesbury Cl, Nailsea, Bristol, BS48 2QJ, GB",
     "phone": "01275 261037",
     "international_phone": "01275 261037",
     "website": "http://www.clevedonmanwithvan.co.uk/",
@@ -693,12 +557,12 @@
     "types": "Waste-Management Service",
     "lat": 51.426457,
     "lng": -2.763934,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Gentleman's Move",
-    "address": "{\"borough\":\"\",\"street\":\"16 Royal Cres\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 3DA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16 Royal Cres, Cheltenham, GL50 3DA, GB",
     "phone": "07375 461293",
     "international_phone": "07375 461293",
     "website": "https://www.gentlemansmove.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3934519825106741520",
@@ -710,29 +574,12 @@
     "types": "Removals company",
     "lat": 51.899534,
     "lng": -2.079363,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Man With A Van Gloucester",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01452 260680",
-    "international_phone": "01452 260680",
-    "website": "https://www.manwithavangloucester.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Man+With+A+Van+Gloucester/data=!4m7!3m6!1s0x4871067ed2bd1069:0x749cc32704747af7!8m2!3d51.8450613!4d-2.1511804!16s%2Fg%2F11gcmq5fws!19sChIJaRC90n4GcUgR93p0BCfDnHQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 69,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.845061,
-    "lng": -2.15118,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Dragon Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Exeter\",\"postal_code\":\"EX5 4EJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Exeter, EX5 4EJ, GB",
     "phone": "07384 339297",
     "international_phone": "07384 339297",
     "website": "https://dragonremovals.com/",
@@ -744,12 +591,12 @@
     "types": "Removals company",
     "lat": 50.771245,
     "lng": -3.506849,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Pack & Go Removals",
-    "address": "{\"borough\":\"Bradley Stoke\",\"street\":\"183 Oaktree Cres\",\"city\":\"Bristol\",\"postal_code\":\"BS32 9AQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "183 Oaktree Cres, Bradley Stoke, Bristol, BS32 9AQ, GB",
     "phone": "07549 090438",
     "international_phone": "07549 090438",
     "website": "https://packandgo-removals.co.uk/",
@@ -761,12 +608,12 @@
     "types": "Removals company",
     "lat": 51.542061,
     "lng": -2.56511,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "JEAM Courier Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"321 Princess Elizabeth Way\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 7PD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "321 Princess Elizabeth Way, Cheltenham, GL51 7PD, GB",
     "phone": "07969 910159",
     "international_phone": "07969 910159",
     "website": "",
@@ -778,12 +625,12 @@
     "types": "Courier service",
     "lat": 51.907684,
     "lng": -2.111958,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Removals & Storage Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"Conyngham Ct\",\"city\":\"Plymouth\",\"postal_code\":\"PL6 5LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Conyngham Ct, Plymouth, PL6 5LW, GB",
     "phone": "01752 936074",
     "international_phone": "01752 936074",
     "website": "http://www.fcremovalsplymouth.co.uk/",
@@ -795,12 +642,12 @@
     "types": "Removals company",
     "lat": 50.402579,
     "lng": -4.125902,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Somerset Removal Company",
-    "address": "{\"borough\":\"\",\"street\":\"High St\",\"city\":\"Taunton\",\"postal_code\":\"TA4 3PR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "High St, Taunton, TA4 3PR, GB",
     "phone": "01823 324315",
     "international_phone": "01823 324315",
     "website": "http://www.thesomersetremovalcompany.co.uk/",
@@ -812,12 +659,12 @@
     "types": "Removals Service",
     "lat": 51.014525,
     "lng": -3.106217,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Magpie Mole Clearance House & Waste Clearance",
-    "address": "{\"borough\":\"Creech Saint Michael\",\"street\":\"32 Leighton Dr\",\"city\":\"Taunton\",\"postal_code\":\"TA3 5DW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32 Leighton Dr, Creech Saint Michael, Taunton, TA3 5DW, GB",
     "phone": "07521 484943",
     "international_phone": "07521 484943",
     "website": "https://m.facebook.com/Magpiemoletreasures/",
@@ -829,12 +676,12 @@
     "types": "Waste Collection Service",
     "lat": 51.02921,
     "lng": -3.044448,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Original Gentle Man & Van",
-    "address": "{\"borough\":\"\",\"street\":\"Conyngham Ct\",\"city\":\"Plymouth\",\"postal_code\":\"PL6 5LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Conyngham Ct, Plymouth, PL6 5LW, GB",
     "phone": "01752 936074",
     "international_phone": "01752 936074",
     "website": "http://theoriginalgentlemanandavan.co.uk/",
@@ -846,12 +693,12 @@
     "types": "Removals Service",
     "lat": 50.402579,
     "lng": -4.125902,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Van Man Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"8 Lowman Units\",\"city\":\"Tiverton\",\"postal_code\":\"EX16 6SR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Lowman Units, Tiverton, EX16 6SR, GB",
     "phone": "01884 665000",
     "international_phone": "01884 665000",
     "website": "http://www.vanmanexeter.co.uk/",
@@ -863,12 +710,12 @@
     "types": "Removals Service",
     "lat": 50.911078,
     "lng": -3.465225,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Tiverton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Rock Steady Removals",
-    "address": "{\"borough\":\"Hinton Blewett\",\"street\":\"3 Glanville Dr\",\"city\":\"Bristol\",\"postal_code\":\"BS39 5GF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3 Glanville Dr, Hinton Blewett, Bristol, BS39 5GF, GB",
     "phone": "07590 069515",
     "international_phone": "07590 069515",
     "website": "https://www.rocksteadyremovals.co.uk/",
@@ -880,12 +727,12 @@
     "types": "Removals company",
     "lat": 51.30684,
     "lng": -2.585866,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Superb Moves Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"95 Eastern Ave\",\"city\":\"Swindon\",\"postal_code\":\"SN3 1AE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "95 Eastern Ave, Swindon, SN3 1AE, GB",
     "phone": "01793 200143",
     "international_phone": "01793 200143",
     "website": "https://swindonmovers.co.uk/",
@@ -897,12 +744,12 @@
     "types": "Removals company",
     "lat": 51.558768,
     "lng": -1.765013,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Glide Removals",
-    "address": "{\"borough\":\"\",\"street\":\"43 Carmarthen Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 3JZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "43 Carmarthen Rd, Cheltenham, GL51 3JZ, GB",
     "phone": "01242 238940",
     "international_phone": "01242 238940",
     "website": "http://www.glideremovals.co.uk/",
@@ -914,12 +761,12 @@
     "types": "Removals Service",
     "lat": 51.884458,
     "lng": -2.118227,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "My Removals and Storage Ltd",
-    "address": "{\"borough\":\"Upper Weston\",\"street\":\"4 Cork St\",\"city\":\"Bath\",\"postal_code\":\"BA1 3BB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Cork St, Upper Weston, Bath, BA1 3BB, GB",
     "phone": "01225 941046",
     "international_phone": "01225 941046",
     "website": "http://www.myremovals.uk/",
@@ -931,29 +778,12 @@
     "types": "Removals company",
     "lat": 51.385555,
     "lng": -2.380809,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "A1 Removals Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01752 968344",
-    "international_phone": "01752 968344",
-    "website": "https://www.a1removalsplymouth.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A1+Removals+Plymouth/data=!4m7!3m6!1s0x486c9391e839152f:0xbcb0388ba57c7afa!8m2!3d50.5143658!4d-4.2829634!16s%2Fg%2F11gmzzzhgy!19sChIJLxU56JGTbEgR-np8pYs4sLw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 53,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.514366,
-    "lng": -4.282963,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Remove & Clear",
-    "address": "{\"borough\":\"\",\"street\":\"53 Ashery Dr\",\"city\":\"Plymouth\",\"postal_code\":\"PL9 9PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "53 Ashery Dr, Plymouth, PL9 9PB, GB",
     "phone": "07956 580911",
     "international_phone": "07956 580911",
     "website": "http://www.removeandclear.com/",
@@ -965,12 +795,12 @@
     "types": "Waste Collection Service",
     "lat": 50.355062,
     "lng": -4.103468,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Job Done Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"392 Swindon Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9JZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "392 Swindon Rd, Cheltenham, GL51 9JZ, GB",
     "phone": "07792 271117",
     "international_phone": "07792 271117",
     "website": "https://jobdoneuk.co.uk/",
@@ -982,12 +812,12 @@
     "types": "House clearance service",
     "lat": 51.9139,
     "lng": -2.092014,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Van Man Removals Exeter",
-    "address": "{\"borough\":\"\",\"street\":\"Van Man Removals, 1 Emperor Way\",\"city\":\"Exeter\",\"postal_code\":\"EX1 3QS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Van Man Removals, 1 Emperor Way, Exeter, EX1 3QS, GB",
     "phone": "01392 956002",
     "international_phone": "01392 956002",
     "website": "https://www.vanmanexeter.co.uk/",
@@ -999,12 +829,12 @@
     "types": "Removals company",
     "lat": 50.726936,
     "lng": -3.47069,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man And Van Kowalski-Bristol",
-    "address": "{\"borough\":\"Avonmouth\",\"street\":\"207b Avonmouth Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS11 9EG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "207b Avonmouth Rd, Avonmouth, Bristol, BS11 9EG, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://manandvankowalski.co.uk/",
@@ -1016,12 +846,12 @@
     "types": "Removals Service",
     "lat": 51.499516,
     "lng": -2.695402,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Abacus Removals Bristol",
-    "address": "{\"borough\":\"Brislington\",\"street\":\"821 Bath Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS4 5NL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "821 Bath Rd, Brislington, Bristol, BS4 5NL, GB",
     "phone": "07572 993767",
     "international_phone": "07572 993767",
     "website": "http://abacusremovalsbristol.co.uk/",
@@ -1033,29 +863,12 @@
     "types": "Removals company",
     "lat": 51.430003,
     "lng": -2.539887,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Just Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07847 599690",
-    "international_phone": "07847 599690",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Just+Removals/data=!4m7!3m6!1s0x48718e718a15f8d3:0x765924b761905e23!8m2!3d47.73855!4d12.5088275!16s%2Fg%2F11b5yq62ly!19sChIJ0_gVinGOcUgRI16QYbckWXY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 47,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 47.73855,
-    "lng": 12.508827,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bournemouth Man And Van",
-    "address": "{\"borough\":\"Boscombe, Bournemouth\",\"street\":\"5 Wolverton Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH7 6HT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Wolverton Rd, Boscombe, Bournemouth, Bournemouth, BH7 6HT, GB",
     "phone": "07786 712784",
     "international_phone": "07786 712784",
     "website": "http://www.bournemouthmanandvan.co.uk/",
@@ -1067,12 +880,12 @@
     "types": "Removals company",
     "lat": 50.7291,
     "lng": -1.833433,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol Man & Van Removals",
-    "address": "{\"borough\":\"Henbury\",\"street\":\"4, Machin Court, 35 Machin Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS10 7FH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4, Machin Court, 35 Machin Rd, Henbury, Bristol, BS10 7FH, GB",
     "phone": "07405 447304",
     "international_phone": "07405 447304",
     "website": "",
@@ -1084,12 +897,12 @@
     "types": "Transportation service",
     "lat": 51.509817,
     "lng": -2.620758,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "HOOPERS MAN WITH A VAN, TAUNTON SOMERSET",
-    "address": "{\"borough\":\"Monkton Heathfield\",\"street\":\"6 the bungalows\",\"city\":\"Taunton\",\"postal_code\":\"TA2 8NY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 the bungalows, Monkton Heathfield, Taunton, TA2 8NY, GB",
     "phone": "07455 674527",
     "international_phone": "07455 674527",
     "website": "https://www.facebook.com/tauntonvanmangary?refid=52&__tn__=*s",
@@ -1101,29 +914,12 @@
     "types": "House clearance service",
     "lat": 51.037466,
     "lng": -3.061773,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Bradley Stoke Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07883 605185",
-    "international_phone": "07883 605185",
-    "website": "http://www.bradleystokeremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bradley+Stoke+Removals/data=!4m7!3m6!1s0x487190595f0af4b9:0xa0bba5eba4e84478!8m2!3d52.8378768!4d-2.3274808!16s%2Fg%2F11b6bf7bmd!19sChIJufQKX1mQcUgReETopOulu6A?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 42,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 52.837877,
-    "lng": -2.327481,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "GP Waste removals Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"37 Weston Mill Rd\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 2AW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37 Weston Mill Rd, Plymouth, PL5 2AW, GB",
     "phone": "07375 709180",
     "international_phone": "07375 709180",
     "website": "https://www.gpwaste.co.uk/",
@@ -1135,12 +931,12 @@
     "types": "Waste-Management Service",
     "lat": 50.404044,
     "lng": -4.178233,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Removals Company Cheltenham Gloucester",
-    "address": "{\"borough\":\"Swindon Village\",\"street\":\"Freedom House, 2 Rutherford Way\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9TU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Freedom House, 2 Rutherford Way, Swindon Village, Cheltenham, GL51 9TU, GB",
     "phone": "01242 701754",
     "international_phone": "01242 701754",
     "website": "https://www.removalscompanycheltenham.co.uk/",
@@ -1152,12 +948,12 @@
     "types": "Removals company",
     "lat": 51.916265,
     "lng": -2.10143,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Rubbish Removal Bournemouth",
-    "address": "{\"borough\":\"\",\"street\":\"16 Southcote Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH1 3SR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16 Southcote Rd, Bournemouth, BH1 3SR, GB",
     "phone": "01202 907975",
     "international_phone": "01202 907975",
     "website": "https://www.rubbish-removal-bournemouth.co.uk/",
@@ -1169,29 +965,12 @@
     "types": "House clearance service",
     "lat": 50.725836,
     "lng": -1.859475,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "JC Man & Van Services",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07763 754780",
-    "international_phone": "07763 754780",
-    "website": "https://www.jcvanremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/JC+Man+%26+Van+Services/data=!4m7!3m6!1s0x8eaff62b60b0af2f:0x2599f5a3375fd31d!8m2!3d51.467338!4d-2.5907175!16s%2Fg%2F11xcvd78lk!19sChIJL6-wYCv2r44RHdNfN6P1mSU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 38,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.467338,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "John Wales Removals & Storage Company - Melksham - Wiltshire",
-    "address": "{\"borough\":\"Bowerhill\",\"street\":\"34 Sunderland Cl\",\"city\":\"Melksham\",\"postal_code\":\"SN12 6TZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Sunderland Cl, Bowerhill, Melksham, SN12 6TZ, GB",
     "phone": "01225 344636",
     "international_phone": "01225 344636",
     "website": "http://www.removalswiltshire.co.uk/",
@@ -1203,46 +982,12 @@
     "types": "Removals company",
     "lat": 51.355797,
     "lng": -2.122677,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Davi's removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07473 405506",
-    "international_phone": "07473 405506",
-    "website": "http://davisremovals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Davi%27s+removals/data=!4m7!3m6!1s0x8ca4acc844992c23:0xcbb0f14dd9208c43!8m2!3d47.73855!4d12.5088275!16s%2Fg%2F11w1jg8_nv!19sChIJIyyZRMispIwRQ4wg2U3xsMs?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 47.73855,
-    "lng": 12.508827,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Man With A Van Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07519 895616",
-    "international_phone": "07519 895616",
-    "website": "http://www.manandvanswindon.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Man+With+A+Van+Swindon/data=!4m7!3m6!1s0x4871444570959c65:0xb2d9a58af3c2b9f2!8m2!3d51.5592071!4d-1.6865392!16s%2Fg%2F11c71bbw1m!19sChIJZZyVcEVEcUgR8rnC84ql2bI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.559207,
-    "lng": -1.686539,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Melksham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cheltenham Spa Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"41 Linwell Cl\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 4SD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "41 Linwell Cl, Cheltenham, GL50 4SD, GB",
     "phone": "07761 839148",
     "international_phone": "07761 839148",
     "website": "",
@@ -1254,12 +999,12 @@
     "types": "House clearance service",
     "lat": 51.916885,
     "lng": -2.091208,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Plymouth Man & Van",
-    "address": "{\"borough\":\"Stonehouse\",\"street\":\"Wyndham Square\",\"city\":\"Plymouth\",\"postal_code\":\"PL1 5EF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wyndham Square, Stonehouse, Plymouth, PL1 5EF, GB",
     "phone": "07506 367479",
     "international_phone": "07506 367479",
     "website": "https://plymouthoceanmanvan.co.uk/",
@@ -1271,12 +1016,12 @@
     "types": "Removals company",
     "lat": 50.373137,
     "lng": -4.155458,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Vinny Van Man Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Meare Rd\",\"city\":\"Bath\",\"postal_code\":\"BA2 5PY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Meare Rd, Bath, BA2 5PY, GB",
     "phone": "07399 211506",
     "international_phone": "07399 211506",
     "website": "https://vinnyvanman.com/",
@@ -1288,12 +1033,12 @@
     "types": "Removals company",
     "lat": 51.363971,
     "lng": -2.359967,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Andrews Removals & Storage Gloucester",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2 Myers Rd\",\"city\":\"Gloucester\",\"postal_code\":\"GL1 3QD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2 Myers Rd, Gloucester, GL1 3QD, GB",
     "phone": "01452 520668",
     "international_phone": "01452 520668",
     "website": "https://www.andrews-removals.com/removals-gloucester/",
@@ -1305,12 +1050,12 @@
     "types": "Removals company",
     "lat": 51.863087,
     "lng": -2.226945,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Jurassic Waste",
-    "address": "{\"borough\":\"Topsham\",\"street\":\"Compound 56, New Court Barton, Clyst Rd\",\"city\":\"Exeter\",\"postal_code\":\"EX3 0DB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Compound 56, New Court Barton, Clyst Rd, Topsham, Exeter, EX3 0DB, GB",
     "phone": "01404 600068",
     "international_phone": "01404 600068",
     "website": "http://www.jurassic-waste.co.uk/",
@@ -1322,12 +1067,12 @@
     "types": "Waste-Management Service",
     "lat": 50.700507,
     "lng": -3.463739,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Big Van Man Removals",
-    "address": "{\"borough\":\"Whitehall\",\"street\":\"21 Gordon Ave\",\"city\":\"Bristol\",\"postal_code\":\"BS5 7DY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21 Gordon Ave, Whitehall, Bristol, BS5 7DY, GB",
     "phone": "07863 700010",
     "international_phone": "07863 700010",
     "website": "http://bvmremovalsbristol.co.uk/",
@@ -1339,12 +1084,12 @@
     "types": "Removals company",
     "lat": 51.465936,
     "lng": -2.545876,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Pro Move Gloucester",
-    "address": "{\"borough\":\"Brockworth\",\"street\":\"14 Westfield Ave\",\"city\":\"Gloucester\",\"postal_code\":\"GL3 4AY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Westfield Ave, Brockworth, Gloucester, GL3 4AY, GB",
     "phone": "01452 470074",
     "international_phone": "01452 470074",
     "website": "https://www.promovegloucester.co.uk/",
@@ -1356,29 +1101,12 @@
     "types": "Removals company",
     "lat": 51.850678,
     "lng": -2.165826,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Big Stuff Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01752 922309",
-    "international_phone": "01752 922309",
-    "website": "http://www.bigstuffremovals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Big+Stuff+Removals/data=!4m7!3m6!1s0x67fc5650d54a3359:0x882c2c2c2cfecc3f!8m2!3d50.3884442!4d-4.11257!16s%2Fg%2F11kq2lthj2!19sChIJWTNK1VBW_GcRP8z-LCwsLIg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 30,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.388444,
-    "lng": -4.11257,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol Man With a Van",
-    "address": "{\"borough\":\"Southville\",\"street\":\"4 Milford St\",\"city\":\"Bristol\",\"postal_code\":\"BS3 1EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Milford St, Southville, Bristol, BS3 1EE, GB",
     "phone": "0117 379 0224",
     "international_phone": "0117 379 0224",
     "website": "https://bristollocalvanman.com/",
@@ -1390,29 +1118,12 @@
     "types": "Waste-Management Service",
     "lat": 51.442968,
     "lng": -2.604593,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Royal Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07562 623678",
-    "international_phone": "07562 623678",
-    "website": "http://www.royalremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Royal+Removals/data=!4m7!3m6!1s0x86b3c096c6f7d55f:0xdebf2ad4555dece2!8m2!3d51.8139423!4d-1.7786013!16s%2Fg%2F11qh2q74gp!19sChIJX9X3xpbAs4YR4uxdVdQqv94?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 28,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.813942,
-    "lng": -1.778601,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "BlueSky Removals Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"Windmill Hill Business Park, Whitehill Way\",\"city\":\"Swindon\",\"postal_code\":\"SN5 6QR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Windmill Hill Business Park, Whitehill Way, Swindon, SN5 6QR, GB",
     "phone": "01793 291039",
     "international_phone": "01793 291039",
     "website": "https://www.blueskyrelocation.co.uk/locations/removals-swindon/",
@@ -1424,12 +1135,12 @@
     "types": "Removals company",
     "lat": 51.550285,
     "lng": -1.848661,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "West Somerset Removals",
-    "address": "{\"borough\":\"Cotford Saint Luke\",\"street\":\"8 Needhams Patch\",\"city\":\"Taunton\",\"postal_code\":\"TA4 1JF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Needhams Patch, Cotford Saint Luke, Taunton, TA4 1JF, GB",
     "phone": "01823 429897",
     "international_phone": "01823 429897",
     "website": "http://westsomersetremovals.co.uk/",
@@ -1441,12 +1152,12 @@
     "types": "Removals company",
     "lat": 51.038639,
     "lng": -3.189445,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bright Move",
-    "address": "{\"borough\":\"\",\"street\":\"24 Great Western Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 3QN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Great Western Rd, Cheltenham, GL50 3QN, GB",
     "phone": "01242 326326",
     "international_phone": "01242 326326",
     "website": "http://www.brightmoveservices.co.uk/",
@@ -1458,63 +1169,12 @@
     "types": "Removals company",
     "lat": 51.902667,
     "lng": -2.084928,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "RM Services",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07930 264021",
-    "international_phone": "07930 264021",
-    "website": "https://rmservicesglos.com/",
-    "google_maps_url": "https://www.google.com/maps/place/RM+Services/data=!4m7!3m6!1s0x4623ef3118fe0a1d:0x69c50c1400be5f32!8m2!3d51.8450613!4d-2.1511804!16s%2Fg%2F11v0l9rnr_!19sChIJHQr-GDHvI0YRMl--ABQMxWk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.845061,
-    "lng": -2.15118,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Vinny Van Man Removals - Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07399 211506",
-    "international_phone": "07399 211506",
-    "website": "https://vinnyvanman.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Vinny+Van+Man+Removals+-+Bristol/data=!4m7!3m6!1s0x413d2ebc22629c67:0x6273799c6064f6df!8m2!3d51.4405523!4d-2.7371424!16s%2Fg%2F11yx7z0q71!19sChIJZ5xiIrwuPUER3_ZkYJx5c2I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.440552,
-    "lng": -2.737142,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Bath Move & Delivery Services - Man With A Van",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07902 955161",
-    "international_phone": "07902 955161",
-    "website": "https://www.bathmovedeliveryservice.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Bath+Move+%26+Delivery+Services+-+Man+With+A+Van/data=!4m7!3m6!1s0x43adc153255f2fcb:0xab738f8aa7f7a926!8m2!3d51.3457081!4d-2.4173648!16s%2Fg%2F11whmn89pf!19sChIJyy9fJVPBrUMRJqn3p4qPc6s?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 22,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.345708,
-    "lng": -2.417365,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Taylor's Removal Services",
-    "address": "{\"borough\":\"Twerton\",\"street\":\"How Hill\",\"city\":\"Bath\",\"postal_code\":\"BA2 1DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "How Hill, Twerton, Bath, BA2 1DL, GB",
     "phone": "07751 788811",
     "international_phone": "07751 788811",
     "website": "https://www.taylorsremovalservices.co.uk/",
@@ -1526,12 +1186,12 @@
     "types": "Removals company",
     "lat": 51.381263,
     "lng": -2.39756,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Kernow Removers Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"25 Lemon St\",\"city\":\"Truro\",\"postal_code\":\"TR1 2LS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 Lemon St, Truro, TR1 2LS, GB",
     "phone": "07411 239827",
     "international_phone": "07411 239827",
     "website": "https://www.kernowremovers.co.uk/",
@@ -1543,29 +1203,12 @@
     "types": "Removals company",
     "lat": 50.261628,
     "lng": -5.051985,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Don Experienced Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07877 885193",
-    "international_phone": "07877 885193",
-    "website": "http://donexperiencedremovals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Don+Experienced+Removals/data=!4m7!3m6!1s0x870c5a50f7c62d65:0x13c5b8848fd2d883!8m2!3d51.8450613!4d-2.1511804!16s%2Fg%2F11kj4qh8ny!19sChIJZS3G91BaDIcRg9jSj4S4xRM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 19,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.845061,
-    "lng": -2.15118,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "All Rubbish Removed",
-    "address": "{\"borough\":\"\",\"street\":\"3a Grevil Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 7JB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3a Grevil Rd, Cheltenham, GL51 7JB, GB",
     "phone": "07891 404542",
     "international_phone": "07891 404542",
     "website": "https://www.allrubbishremoved.co.uk/",
@@ -1577,29 +1220,12 @@
     "types": "House clearance service",
     "lat": 51.909705,
     "lng": -2.103164,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "R REMOVALS",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07746 626341",
-    "international_phone": "07746 626341",
-    "website": "http://www.removals-plymouth.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/R+REMOVALS/data=!4m7!3m6!1s0x486ced328c966ce5:0xdf255b3ecd5a7a0b!8m2!3d47.73855!4d12.5088275!16s%2Fg%2F11g69j7ln1!19sChIJ5WyWjDLtbEgRC3pazT5bJd8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 47.73855,
-    "lng": 12.508827,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Mister Shifter",
-    "address": "{\"borough\":\"South Cerney\",\"street\":\"Unit 1, Downs Farm\",\"city\":\"Cirencester\",\"postal_code\":\"GL7 6DD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1, Downs Farm, South Cerney, Cirencester, GL7 6DD, GB",
     "phone": "01793 726269",
     "international_phone": "01793 726269",
     "website": "http://www.mistershifter.co.uk/",
@@ -1611,12 +1237,12 @@
     "types": "Removals Service",
     "lat": 51.671541,
     "lng": -1.927776,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cirencester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Express Removals and Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2, Glevum Works, Upton St\",\"city\":\"Gloucester\",\"postal_code\":\"GL1 4LA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2, Glevum Works, Upton St, Gloucester, GL1 4LA, GB",
     "phone": "01452 523676",
     "international_phone": "01452 523676",
     "website": "https://express-removals.co.uk/",
@@ -1628,12 +1254,12 @@
     "types": "Removals Service",
     "lat": 51.855488,
     "lng": -2.233042,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Ayrton & Co",
-    "address": "{\"borough\":\"Boscombe\",\"street\":\"1 Horace Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH5 1DY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Horace Rd, Boscombe, Bournemouth, BH5 1DY, GB",
     "phone": "0330 229 5242",
     "international_phone": "0330 229 5242",
     "website": "https://ayrtonco.co.uk/",
@@ -1645,12 +1271,12 @@
     "types": "Removals company",
     "lat": 50.724463,
     "lng": -1.841433,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Robbins Removals Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"41 Richmond Rd\",\"city\":\"Swindon\",\"postal_code\":\"SN2 1LY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "41 Richmond Rd, Swindon, SN2 1LY, GB",
     "phone": "01793 511712",
     "international_phone": "01793 511712",
     "website": "https://www.robbinsremovals.com/",
@@ -1662,12 +1288,12 @@
     "types": "Removals Service",
     "lat": 51.572612,
     "lng": -1.796447,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "All Wright Removals Ltd",
-    "address": "{\"borough\":\"Galmington\",\"street\":\"Unit 1 Cornishway S\",\"city\":\"Taunton\",\"postal_code\":\"TA1 5NQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1 Cornishway S, Galmington, Taunton, TA1 5NQ, GB",
     "phone": "01823 428657",
     "international_phone": "01823 428657",
     "website": "https://allwrightremovals.co.uk/",
@@ -1679,29 +1305,12 @@
     "types": "Removals Service",
     "lat": 51.009508,
     "lng": -3.129916,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Plym Waste Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "",
-    "international_phone": "",
-    "website": "https://plymwasteremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Plym+Waste+Removals/data=!4m7!3m6!1s0x8e73f7a974054687:0x98676a875fcffa0a!8m2!3d50.4045064!4d-4.1551031!16s%2Fg%2F11nxsj16bq!19sChIJh0YFdKn3c44RCvrPX4dqZ5g?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Waste-Management Service",
-    "lat": 50.404506,
-    "lng": -4.155103,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Herbert Davis Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2A Myers Rd\",\"city\":\"Gloucester\",\"postal_code\":\"GL1 3QD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2A Myers Rd, Gloucester, GL1 3QD, GB",
     "phone": "0800 195 8474",
     "international_phone": "0800 195 8474",
     "website": "https://www.herbert-davis-removals.com/",
@@ -1713,12 +1322,12 @@
     "types": "Removals company",
     "lat": 51.863495,
     "lng": -2.227241,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "D.W. Removals & Services in Bournemouth, Christchurch and Poole",
-    "address": "{\"borough\":\"\",\"street\":\"14 Elise Cl\",\"city\":\"Bournemouth\",\"postal_code\":\"BH7 7HQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Elise Cl, Bournemouth, BH7 7HQ, GB",
     "phone": "07972 159625",
     "international_phone": "07972 159625",
     "website": "https://www.dwremovals.uk/",
@@ -1730,12 +1339,12 @@
     "types": "Removals company",
     "lat": 50.742801,
     "lng": -1.82198,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "A P C Removals",
-    "address": "{\"borough\":\"\",\"street\":\"34 Chelmer Cl\",\"city\":\"Taunton\",\"postal_code\":\"TA1 2TB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Chelmer Cl, Taunton, TA1 2TB, GB",
     "phone": "01823 350512",
     "international_phone": "01823 350512",
     "website": "http://apc-removals.co.uk/",
@@ -1747,29 +1356,12 @@
     "types": "Removals Service",
     "lat": 51.01522,
     "lng": -3.077627,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Paul's Man With Van Service",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07950 442094",
-    "international_phone": "07950 442094",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Paul%27s+Man+With+Van+Service/data=!4m7!3m6!1s0x48718e5cbe6ba739:0xad79f0871e74bda9!8m2!3d51.468489!4d-2.5907175!16s%2Fg%2F11cnbvqv_s!19sChIJOadrvlyOcUgRqb10Hofwea0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.468489,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Great Western Clearance",
-    "address": "{\"borough\":\"Highworth\",\"street\":\"6 Folly Cres\",\"city\":\"Swindon\",\"postal_code\":\"SN6 7JW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Folly Cres, Highworth, Swindon, SN6 7JW, GB",
     "phone": "07734 650040",
     "international_phone": "07734 650040",
     "website": "https://www.greatwesternclearance.co.uk/",
@@ -1781,12 +1373,12 @@
     "types": "Waste Collection Service",
     "lat": 51.636214,
     "lng": -1.711052,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Clearance Shop",
-    "address": "{\"borough\":\"\",\"street\":\"30 Suffolk Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 2AQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "30 Suffolk Rd, Cheltenham, GL50 2AQ, GB",
     "phone": "01242 518879",
     "international_phone": "01242 518879",
     "website": "http://www.thehouseclearanceshop.com/",
@@ -1798,12 +1390,12 @@
     "types": "House clearance service",
     "lat": 51.891523,
     "lng": -2.079103,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "SSE Removals",
-    "address": "{\"borough\":\"\",\"street\":\"2 maitland mews\",\"city\":\"Gloucester\",\"postal_code\":\"GL1 1US\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 maitland mews, Gloucester, GL1 1US, GB",
     "phone": "0333 322 2773",
     "international_phone": "0333 322 2773",
     "website": "https://sseremovals.co.uk/",
@@ -1815,12 +1407,12 @@
     "types": "Removals Service",
     "lat": 51.860486,
     "lng": -2.249094,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bath Waste Disposal House Clearance Recycling",
-    "address": "{\"borough\":\"\",\"street\":\"9 Bladud Buildings\",\"city\":\"Bath\",\"postal_code\":\"BA1 5LS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Bladud Buildings, Bath, BA1 5LS, GB",
     "phone": "07902 955171",
     "international_phone": "07902 955171",
     "website": "http://www.bathhouseclearance.com/",
@@ -1832,12 +1424,12 @@
     "types": "Waste Collection Service",
     "lat": 51.385584,
     "lng": -2.360298,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Elite Moving Services",
-    "address": "{\"borough\":\"Bathford\",\"street\":\"Box Rd\",\"city\":\"Bath\",\"postal_code\":\"BA1 7LR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Box Rd, Bathford, Bath, BA1 7LR, GB",
     "phone": "07583 343400",
     "international_phone": "07583 343400",
     "website": "https://www.elitemovingservicesbath.co.uk/",
@@ -1849,12 +1441,12 @@
     "types": "Removals company",
     "lat": 51.405469,
     "lng": -2.296835,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man and Van Bath - iVan",
-    "address": "{\"borough\":\"Bathampton\",\"street\":\"108 Holcombe Vale\",\"city\":\"Bath\",\"postal_code\":\"BA2 6UY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "108 Holcombe Vale, Bathampton, Bath, BA2 6UY, GB",
     "phone": "07803 168989",
     "international_phone": "07803 168989",
     "website": "https://www.facebook.com/iVanmanvan/",
@@ -1866,12 +1458,12 @@
     "types": "Removals Service",
     "lat": 51.393547,
     "lng": -2.326543,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Truro Removals",
-    "address": "{\"borough\":\"\",\"street\":\"9 Trehaverne Ln\",\"city\":\"Truro\",\"postal_code\":\"TR1 3SE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Trehaverne Ln, Truro, TR1 3SE, GB",
     "phone": "01872 241958",
     "international_phone": "01872 241958",
     "website": "http://www.truroremovals.co.uk/",
@@ -1883,12 +1475,12 @@
     "types": "Removals Service",
     "lat": 50.268117,
     "lng": -5.057803,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The handy van man and Van Taunton",
-    "address": "{\"borough\":\"\",\"street\":\"3 Priory Ave\",\"city\":\"Taunton\",\"postal_code\":\"TA1 1QS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3 Priory Ave, Taunton, TA1 1QS, GB",
     "phone": "01823 662963",
     "international_phone": "01823 662963",
     "website": "http://www.thehandyvan.co.uk/",
@@ -1900,12 +1492,12 @@
     "types": "Transportation service",
     "lat": 51.020663,
     "lng": -3.092966,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Clearance Cheltenham",
-    "address": "{\"borough\":\"\",\"street\":\"13 Lansdown Cres Ln\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 2LJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "13 Lansdown Cres Ln, Cheltenham, GL50 2LJ, GB",
     "phone": "07729 573880",
     "international_phone": "07729 573880",
     "website": "https://houseclearancecheltenham.com/",
@@ -1917,12 +1509,12 @@
     "types": "House clearance service",
     "lat": 51.895084,
     "lng": -2.087136,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "J P Townsend & Son",
-    "address": "{\"borough\":\"\",\"street\":\"2 Oxford Cottages, Ullenwood\",\"city\":\"Cheltenham\",\"postal_code\":\"GL53 9QX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Oxford Cottages, Ullenwood, Cheltenham, GL53 9QX, GB",
     "phone": "01242 870169",
     "international_phone": "01242 870169",
     "website": "https://www.jptownsendandson.co.uk/",
@@ -1934,12 +1526,12 @@
     "types": "House clearance service",
     "lat": 51.846712,
     "lng": -2.076865,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Blatchford International Movers",
-    "address": "{\"borough\":\"Alphington\",\"street\":\"Peamore Commercial Centre\",\"city\":\"Exeter\",\"postal_code\":\"EX2 9SL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Peamore Commercial Centre, Alphington, Exeter, EX2 9SL, GB",
     "phone": "01392 833200",
     "international_phone": "01392 833200",
     "website": "http://www.blatchfordsint.com/",
@@ -1951,12 +1543,12 @@
     "types": "Removals Service",
     "lat": 50.679937,
     "lng": -3.529393,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "PLYMOUTH MOVERS",
-    "address": "{\"borough\":\"Stonehouse\",\"street\":\"Flat 2, 59 Cecil St\",\"city\":\"Plymouth\",\"postal_code\":\"PL1 5HP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 2, 59 Cecil St, Stonehouse, Plymouth, PL1 5HP, GB",
     "phone": "07351 731352",
     "international_phone": "07351 731352",
     "website": "http://www.plymouthmovers.co.uk/",
@@ -1968,12 +1560,12 @@
     "types": "Removals company",
     "lat": 50.37432,
     "lng": -4.151595,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Iron Van",
-    "address": "{\"borough\":\"Timsbury\",\"street\":\"19 The Glebe\",\"city\":\"Bath\",\"postal_code\":\"BA2 0LT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "19 The Glebe, Timsbury, Bath, BA2 0LT, GB",
     "phone": "07446 859138",
     "international_phone": "07446 859138",
     "website": "http://ironvan.co.uk/",
@@ -1985,12 +1577,12 @@
     "types": "Transportation service",
     "lat": 51.330658,
     "lng": -2.477097,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Gloucester Removals",
-    "address": "{\"borough\":\"\",\"street\":\"9 St Albans Rd\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 5FW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 St Albans Rd, Gloucester, GL2 5FW, GB",
     "phone": "01452 307070",
     "international_phone": "01452 307070",
     "website": "http://www.gloucesterremovalsandstorage.co.uk/",
@@ -2002,29 +1594,12 @@
     "types": "Removals Service",
     "lat": 51.843306,
     "lng": -2.260813,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Hussar Removals Bournemouth",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07920 347603",
-    "international_phone": "07920 347603",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Hussar+Removals+Bournemouth/data=!4m7!3m6!1s0xa005d7ea09c2a029:0x42f8266973a786de!8m2!3d47.73855!4d12.5088275!16s%2Fg%2F11mrtd3w60!19sChIJKaDCCerXBaAR3oanc2km-EI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 47.73855,
-    "lng": 12.508827,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Nick Trott Man And Van",
-    "address": "{\"borough\":\"\",\"street\":\"6 Mountfields Rd\",\"city\":\"Taunton\",\"postal_code\":\"TA1 3BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Mountfields Rd, Taunton, TA1 3BQ, GB",
     "phone": "07974 410396",
     "international_phone": "07974 410396",
     "website": "",
@@ -2036,12 +1611,12 @@
     "types": "Transportation service",
     "lat": 51.005272,
     "lng": -3.088295,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "TAUNTON TREE SERVICES",
-    "address": "{\"borough\":\"\",\"street\":\"Priory Bridge Rd\",\"city\":\"Taunton\",\"postal_code\":\"TA1 1QB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Priory Bridge Rd, Taunton, TA1 1QB, GB",
     "phone": "07780 927938",
     "international_phone": "07780 927938",
     "website": "http://tauntontreeservices.co.uk/",
@@ -2053,12 +1628,12 @@
     "types": "Tree service",
     "lat": 51.019751,
     "lng": -3.098912,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Man With Van Network",
-    "address": "{\"borough\":\"Horfield\",\"street\":\"35 Quarrington Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS7 9PJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "35 Quarrington Rd, Horfield, Bristol, BS7 9PJ, GB",
     "phone": "0117 951 8619",
     "international_phone": "0117 951 8619",
     "website": "https://www.themanwithvannetwork.com/contact-us",
@@ -2070,12 +1645,12 @@
     "types": "Transportation service",
     "lat": 51.484451,
     "lng": -2.584397,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Smoover Moover",
-    "address": "{\"borough\":\"\",\"street\":\"52 Ramsbury Ave\",\"city\":\"Swindon\",\"postal_code\":\"SN2 5PG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "52 Ramsbury Ave, Swindon, SN2 5PG, GB",
     "phone": "07852 503783",
     "international_phone": "07852 503783",
     "website": "",
@@ -2087,80 +1662,12 @@
     "types": "Delivery Company",
     "lat": 51.595259,
     "lng": -1.789825,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "The Exeter Man And Van",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01392 244989",
-    "international_phone": "01392 244989",
-    "website": "https://www.manvanexeter.com/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Exeter+Man+And+Van/data=!4m7!3m6!1s0x486da58a97346b51:0x225d9504ba5a54d6!8m2!3d50.7324705!4d-3.5764294!16s%2Fg%2F11mvmydrc5!19sChIJUWs0l4qlbUgR1lRaugSVXSI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.73247,
-    "lng": -3.576429,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Plymouth Remover",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07842 561968",
-    "international_phone": "07842 561968",
-    "website": "https://www.plymouth-remover.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Plymouth+Remover/data=!4m7!3m6!1s0x214e4aad4c2c9221:0xa52fd138b8c855fc!8m2!3d50.3884442!4d-4.11257!16s%2Fg%2F11wr67gw4l!19sChIJIZIsTK1KTiER_FXIuDjRL6U?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.388444,
-    "lng": -4.11257,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07488 811702",
-    "international_phone": "07488 811702",
-    "website": "https://www.facebook.com/ManAndVanBristolRemovals",
-    "google_maps_url": "https://www.google.com/maps/place/Man+and+Van/data=!4m7!3m6!1s0x48718e780048a169:0xaee96a8008126cc8!8m2!3d51.468489!4d-2.5907175!16s%2Fg%2F1tczzzfq!19sChIJaaFIAHiOcUgRyGwSCIBq6a4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.468489,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "We Move and Clean Bath",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01225 530142",
-    "international_phone": "01225 530142",
-    "website": "https://www.wemoveandclean.co.uk/removals-bath/",
-    "google_maps_url": "https://www.google.com/maps/place/We+Move+and+Clean+Bath/data=!4m7!3m6!1s0x4871814f29c72c33:0xf826cbec8214c6dc!8m2!3d51.3801264!4d-2.36453!16s%2Fg%2F11hsppfycr!19sChIJMyzHKU-BcUgR3MYUguzLJvg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.380126,
-    "lng": -2.36453,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "WE-DO Removals Bournemouth",
-    "address": "{\"borough\":\"Pokesdown\",\"street\":\"15, Forrest Manor, 106 Seabourne Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH5 2HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15, Forrest Manor, 106 Seabourne Rd, Pokesdown, Bournemouth, BH5 2HY, GB",
     "phone": "01202 366694",
     "international_phone": "01202 366694",
     "website": "http://wedoremovalsbournemouth.co.uk/",
@@ -2172,12 +1679,12 @@
     "types": "Removals Service",
     "lat": 50.728756,
     "lng": -1.820808,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Simon's Van Removals",
-    "address": "{\"borough\":\"\",\"street\":\"59 Belvedere Rd\",\"city\":\"Taunton\",\"postal_code\":\"TA1 1BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "59 Belvedere Rd, Taunton, TA1 1BU, GB",
     "phone": "07731 774883",
     "international_phone": "07731 774883",
     "website": "",
@@ -2189,12 +1696,12 @@
     "types": "Removals Service",
     "lat": 51.021736,
     "lng": -3.107116,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Removals Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"33 Notte St\",\"city\":\"Plymouth\",\"postal_code\":\"PL1 2AZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "33 Notte St, Plymouth, PL1 2AZ, GB",
     "phone": "0871 704 2805",
     "international_phone": "0871 704 2805",
     "website": "http://www.removalsplymouth.org.uk/",
@@ -2206,12 +1713,12 @@
     "types": "Removals Service",
     "lat": 50.36867,
     "lng": -4.141779,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Advanced Removals & Gloucester Removals",
-    "address": "{\"borough\":\"Brockworth\",\"street\":\"Gloucester Business Park, Bamel Way\",\"city\":\"Gloucester\",\"postal_code\":\"GL3 4BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Gloucester Business Park, Bamel Way, Brockworth, Gloucester, GL3 4BH, GB",
     "phone": "01452 617600",
     "international_phone": "01452 617600",
     "website": "http://www.advanced-removals.co.uk/",
@@ -2223,12 +1730,12 @@
     "types": "Removals Service",
     "lat": 51.840496,
     "lng": -2.16586,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol Van Removals Ltd",
-    "address": "{\"borough\":\"Bristol\",\"street\":\"The Steelworks, Netham industrial park, Netham Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS5 9PQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Steelworks, Netham industrial park, Netham Rd, Bristol, Bristol, BS5 9PQ, GB",
     "phone": "0117 902 5985",
     "international_phone": "0117 902 5985",
     "website": "https://bristolvanremovals.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
@@ -2240,12 +1747,12 @@
     "types": "Removals company",
     "lat": 51.45539,
     "lng": -2.552416,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Busy Chaps Removals Exeter",
-    "address": "{\"borough\":\"Marsh Barton\",\"street\":\"Powlesland Rd\",\"city\":\"Exeter\",\"postal_code\":\"EX2 8TT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Powlesland Rd, Marsh Barton, Exeter, EX2 8TT, GB",
     "phone": "01392 680557",
     "international_phone": "01392 680557",
     "website": "http://www.exetermanwithvan.co.uk/",
@@ -2257,12 +1764,12 @@
     "types": "Removals company",
     "lat": 50.701302,
     "lng": -3.530785,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Two Man Removals",
-    "address": "{\"borough\":\"\",\"street\":\"55 Cattedown Rd\",\"city\":\"Plymouth\",\"postal_code\":\"PL4 0PL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "55 Cattedown Rd, Plymouth, PL4 0PL, GB",
     "phone": "01752 936046",
     "international_phone": "01752 936046",
     "website": "https://www.twomanremovals.co.uk/",
@@ -2274,12 +1781,12 @@
     "types": "Removals company",
     "lat": 50.367837,
     "lng": -4.121394,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Smartmove Removals (& Storage) Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"Wainbrook House, 1 Hudds Vale Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS5 7HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wainbrook House, 1 Hudds Vale Rd, Bristol, BS5 7HY, GB",
     "phone": "07714 455000",
     "international_phone": "07714 455000",
     "website": "https://www.smartmovebristol.co.uk/",
@@ -2291,29 +1798,12 @@
     "types": "Removals Service",
     "lat": 51.462809,
     "lng": -2.544374,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "MO Transport - Man with a van in Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07305 185675",
-    "international_phone": "07305 185675",
-    "website": "https://www.motransports.co.uk/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
-    "google_maps_url": "https://www.google.com/maps/place/MO+Transport+-+Man+with+a+van+in+Bristol/data=!4m7!3m6!1s0x487191eec55ce4bd:0x87357a38a3abdffe!8m2!3d51.4719693!4d-2.5907175!16s%2Fg%2F11fmqcqmb7!19sChIJveRcxe6RcUgR_t-rozh6NYc?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 249,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.471969,
-    "lng": -2.590717,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Mr S Removals",
-    "address": "{\"borough\":\"\",\"street\":\"The Summer House Rear of, 150 Taunton Ave\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 4ER\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Summer House Rear of, 150 Taunton Ave, Plymouth, PL5 4ER, GB",
     "phone": "",
     "international_phone": "",
     "website": "https://www.mrsremovals.co.uk/",
@@ -2325,12 +1815,12 @@
     "types": "Removals company",
     "lat": 50.422191,
     "lng": -4.161134,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "AJM Removals Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"569 Fishponds Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS16 3AF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "569 Fishponds Rd, Bristol, BS16 3AF, GB",
     "phone": "0117 251 0113",
     "international_phone": "0117 251 0113",
     "website": "https://ajm-removals-bristol.co.uk/",
@@ -2342,12 +1832,12 @@
     "types": "Removals company",
     "lat": 51.476743,
     "lng": -2.538745,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Move On Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"27-29 Baldwin St\",\"city\":\"Bristol\",\"postal_code\":\"BS1 1LT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "27-29 Baldwin St, Bristol, BS1 1LT, GB",
     "phone": "0117 259 1010",
     "international_phone": "0117 259 1010",
     "website": "http://www.moveonremovalsandstorage.co.uk/",
@@ -2359,12 +1849,12 @@
     "types": "Removals company",
     "lat": 51.453508,
     "lng": -2.594951,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "MVremovals.com",
-    "address": "{\"borough\":\"\",\"street\":\"Unit F2, Mercury Business Park\",\"city\":\"Exeter\",\"postal_code\":\"EX5 4BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit F2, Mercury Business Park, Exeter, EX5 4BL, GB",
     "phone": "01392 969560",
     "international_phone": "01392 969560",
     "website": "http://mvremovals.com/",
@@ -2376,12 +1866,12 @@
     "types": "Removals company",
     "lat": 50.813058,
     "lng": -3.420914,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Thomas Firbank Removals Ltd.",
-    "address": "{\"borough\":\"\",\"street\":\"4 Queen St\",\"city\":\"Bath\",\"postal_code\":\"BA1 1HE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Queen St, Bath, BA1 1HE, GB",
     "phone": "01225 314433",
     "international_phone": "01225 314433",
     "website": "https://www.firbankremovals.co.uk/",
@@ -2393,12 +1883,12 @@
     "types": "Removals company",
     "lat": 51.382966,
     "lng": -2.361855,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "On The Dot Removals Limited",
-    "address": "{\"borough\":\"Saint Werburgh's\",\"street\":\"21 Horley Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS2 9TL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21 Horley Rd, Saint Werburgh's, Bristol, BS2 9TL, GB",
     "phone": "0117 287 2127",
     "international_phone": "0117 287 2127",
     "website": "https://www.onthedotremovals.co.uk/",
@@ -2410,12 +1900,12 @@
     "types": "Removals company",
     "lat": 51.468195,
     "lng": -2.573064,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Removals Exeter, Devon - Man and Van - Ed Kowalski",
-    "address": "{\"borough\":\"\",\"street\":\"63 King Arthurs Rd\",\"city\":\"Exeter\",\"postal_code\":\"EX4 9BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "63 King Arthurs Rd, Exeter, EX4 9BQ, GB",
     "phone": "07949 681113",
     "international_phone": "07949 681113",
     "website": "https://www.edkowalskiremovals.com/",
@@ -2427,12 +1917,12 @@
     "types": "Removals company",
     "lat": 50.739942,
     "lng": -3.502923,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Hintz Removals Bournemouth Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"16B Hadow Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH10 5HT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16B Hadow Rd, Bournemouth, BH10 5HT, GB",
     "phone": "07718 142611",
     "international_phone": "07718 142611",
     "website": "https://hintzremovals.co.uk/",
@@ -2444,12 +1934,12 @@
     "types": "Removals company",
     "lat": 50.755795,
     "lng": -1.900355,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Faye Removals",
-    "address": "{\"borough\":\"Eastville\",\"street\":\"Coleridge Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS5 6SR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Coleridge Rd, Eastville, Bristol, BS5 6SR, GB",
     "phone": "07830 077868",
     "international_phone": "07830 077868",
     "website": "https://www.fayeremovals.com/",
@@ -2461,29 +1951,12 @@
     "types": "Removals Service",
     "lat": 51.47304,
     "lng": -2.559459,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Butlers Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07377 743835",
-    "international_phone": "07377 743835",
-    "website": "https://butlersremovals.ueniweb.com/?utm_campaign=gmb",
-    "google_maps_url": "https://www.google.com/maps/place/Butlers+Removals/data=!4m7!3m6!1s0x486df3746ffa8c41:0x76f61f729eae5bcf!8m2!3d51.07483!4d-3.0421023!16s%2Fg%2F11px9l2qlc!19sChIJQYz6b3TzbUgRz1uunnIf9nY?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 141,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.07483,
-    "lng": -3.042102,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Wilkinsons Removal & Storage of Bristol Ltd",
-    "address": "{\"borough\":\"Winterbourne, Frampton Cotterell\",\"street\":\"Unit 1b, Grange Court Units\",\"city\":\"Bristol\",\"postal_code\":\"BS36 1RY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1b, Grange Court Units, Winterbourne, Frampton Cotterell, Bristol, BS36 1RY, GB",
     "phone": "0117 244 4201",
     "international_phone": "0117 244 4201",
     "website": "http://www.wilkinsonsremovals.co.uk/",
@@ -2495,12 +1968,12 @@
     "types": "Removals company",
     "lat": 51.53892,
     "lng": -2.525192,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "GB Liners Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Blaisdon Way\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 0WH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Blaisdon Way, Cheltenham, GL51 0WH, GB",
     "phone": "01242 523785",
     "international_phone": "01242 523785",
     "website": "https://www.gbliners.com/branch/cheltenham/?utm_source=google&utm_medium=organic&utm_campaign=Google+My+Business&utm_id=Cheltenham&utm_content=Cheltenham",
@@ -2512,12 +1985,12 @@
     "types": "Removals company",
     "lat": 51.915881,
     "lng": -2.114326,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Painless Removals Bristol",
-    "address": "{\"borough\":\"Southmead\",\"street\":\"290-294 Southmead Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS10 5EN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "290-294 Southmead Rd, Southmead, Bristol, BS10 5EN, GB",
     "phone": "0117 287 0082",
     "international_phone": "0117 287 0082",
     "website": "https://painlessremovals.com/",
@@ -2529,12 +2002,12 @@
     "types": "Removals company",
     "lat": 51.496476,
     "lng": -2.597457,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "WhiteMove Removals and Storage",
-    "address": "{\"borough\":\"Swindon Village\",\"street\":\"Freedom House, Rutherford Way\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9TU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Freedom House, Rutherford Way, Swindon Village, Cheltenham, GL51 9TU, GB",
     "phone": "01242 693391",
     "international_phone": "01242 693391",
     "website": "http://www.whitemoveltd.co.uk/",
@@ -2546,12 +2019,12 @@
     "types": "Removals company",
     "lat": 51.916814,
     "lng": -2.10046,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man With Van Removals Bristol",
-    "address": "{\"borough\":\"Montpelier\",\"street\":\"34 Cobourg Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS6 5HX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Cobourg Rd, Montpelier, Bristol, BS6 5HX, GB",
     "phone": "07970 590807",
     "international_phone": "07970 590807",
     "website": "https://www.originalvanmanbristol.co.uk/",
@@ -2563,29 +2036,12 @@
     "types": "Removals Service",
     "lat": 51.468312,
     "lng": -2.582577,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Little White Van Man",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07903 097465",
-    "international_phone": "07903 097465",
-    "website": "https://www.littlewhitevanman.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Little+White+Van+Man/data=!4m7!3m6!1s0x487106151e714b4b:0x2aba0498ffe8d30e!8m2!3d51.8450613!4d-2.1511804!16s%2Fg%2F11g6r5hrr3!19sChIJS0txHhUGcUgRDtPo_5gEuio?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 90,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.845061,
-    "lng": -2.15118,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Van Man Co.",
-    "address": "{\"borough\":\"\",\"street\":\"10 Cotham Park\",\"city\":\"Bristol\",\"postal_code\":\"BS6 6BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Cotham Park, Bristol, BS6 6BU, GB",
     "phone": "0330 043 0885",
     "international_phone": "0330 043 0885",
     "website": "https://www.thevanmanco.co.uk/",
@@ -2597,12 +2053,12 @@
     "types": "Transportation service",
     "lat": 51.464157,
     "lng": -2.597699,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "5 Valleys Removals",
-    "address": "{\"borough\":\"Cambridge\",\"street\":\"Elm Farm\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 7AN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Elm Farm, Cambridge, Gloucester, GL2 7AN, GB",
     "phone": "01452 729056",
     "international_phone": "01452 729056",
     "website": "http://www.5valleysremovals.com/",
@@ -2614,12 +2070,12 @@
     "types": "Removals Service",
     "lat": 51.737212,
     "lng": -2.356908,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cleanfootprints",
-    "address": "{\"borough\":\"\",\"street\":\"33 Mountfields Rd\",\"city\":\"Taunton\",\"postal_code\":\"TA1 3BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "33 Mountfields Rd, Taunton, TA1 3BL, GB",
     "phone": "07814 623718",
     "international_phone": "07814 623718",
     "website": "https://cleanfootprints.co.uk/",
@@ -2631,12 +2087,12 @@
     "types": "Carpet cleaning service",
     "lat": 51.004291,
     "lng": -3.089656,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bournemouth and Poole House Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"502 Holdenhurst Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 9AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "502 Holdenhurst Rd, Bournemouth, BH8 9AJ, GB",
     "phone": "01202 001585",
     "international_phone": "01202 001585",
     "website": "https://www.bournemouthandpoolehouseclearance.com/",
@@ -2648,12 +2104,12 @@
     "types": "House clearance service",
     "lat": 50.735925,
     "lng": -1.843291,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Westbourne Removals Ltd",
-    "address": "{\"borough\":\"Westbourne\",\"street\":\"7 Branksome Hill Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH4 9LD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 Branksome Hill Rd, Westbourne, Bournemouth, BH4 9LD, GB",
     "phone": "0800 321 3965",
     "international_phone": "0800 321 3965",
     "website": "https://westbourneremovals.co.uk/",
@@ -2665,12 +2121,12 @@
     "types": "Removals Service",
     "lat": 50.727936,
     "lng": -1.899112,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Be Laser & Skin Clinic",
-    "address": "{\"borough\":\"\",\"street\":\"1 The Crescent\",\"city\":\"Taunton\",\"postal_code\":\"TA1 4EA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 The Crescent, Taunton, TA1 4EA, GB",
     "phone": "01823 747748",
     "international_phone": "01823 747748",
     "website": "http://www.beaestheticstaunton.com/",
@@ -2682,12 +2138,12 @@
     "types": "Laser hair removal service",
     "lat": 51.013672,
     "lng": -3.105895,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Somerset Man with a Van",
-    "address": "{\"borough\":\"Creech Saint Michael\",\"street\":\"Corner cottage\",\"city\":\"Taunton\",\"postal_code\":\"TA3 5PT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Corner cottage, Creech Saint Michael, Taunton, TA3 5PT, GB",
     "phone": "01823 241212",
     "international_phone": "01823 241212",
     "website": "https://www.somersetmanwithavan.co.uk/",
@@ -2699,12 +2155,12 @@
     "types": "Removals Service",
     "lat": 51.023258,
     "lng": -3.037562,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "RH Removals & Storage",
-    "address": "{\"borough\":\"Royal Wootton Bassett\",\"street\":\"Midge hall Farm\",\"city\":\"Swindon\",\"postal_code\":\"SN4 8ER\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Midge hall Farm, Royal Wootton Bassett, Swindon, SN4 8ER, GB",
     "phone": "01793 297184",
     "international_phone": "01793 297184",
     "website": "http://www.rhremovals.co.uk/",
@@ -2716,12 +2172,12 @@
     "types": "Removals Service",
     "lat": 51.554422,
     "lng": -1.885367,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Afordable Services",
-    "address": "{\"borough\":\"Dunkeswell\",\"street\":\"49 Powells Way\",\"city\":\"Honiton\",\"postal_code\":\"EX14 4XL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "49 Powells Way, Dunkeswell, Honiton, EX14 4XL, GB",
     "phone": "01404 890194",
     "international_phone": "01404 890194",
     "website": "http://www.afordableservices.co.uk/",
@@ -2733,12 +2189,12 @@
     "types": "Removals company",
     "lat": 50.85327,
     "lng": -3.21869,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Honiton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "SLM REMOVALS",
-    "address": "{\"borough\":\"Exmouth\",\"street\":\"6 New St\",\"city\":\"Exmouth\",\"postal_code\":\"EX8 1RT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 New St, Exmouth, Exmouth, EX8 1RT, GB",
     "phone": "07926 373929",
     "international_phone": "07926 373929",
     "website": "http://www.slmremovals.co.uk/",
@@ -2750,12 +2206,12 @@
     "types": "Removals company",
     "lat": 50.621626,
     "lng": -3.412081,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exmouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man with a van",
-    "address": "{\"borough\":\"Hanham\",\"street\":\"101 High St\",\"city\":\"Bristol\",\"postal_code\":\"BS15 3QG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "101 High St, Hanham, Bristol, BS15 3QG, GB",
     "phone": "07443 516773",
     "international_phone": "07443 516773",
     "website": "https://www.bristolmanwithavan.co.uk/",
@@ -2767,12 +2223,12 @@
     "types": "Transportation service",
     "lat": 51.448536,
     "lng": -2.514242,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Knights Removals of Bristol",
-    "address": "{\"borough\":\"\",\"street\":\"White Lodge Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS16 5ND\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "White Lodge Rd, Bristol, BS16 5ND, GB",
     "phone": "0117 956 3119",
     "international_phone": "0117 956 3119",
     "website": "https://www.knightsremovalsofbristol.co.uk/",
@@ -2784,12 +2240,12 @@
     "types": "Removals company",
     "lat": 51.479585,
     "lng": -2.497297,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "ABRACADABRA WASTE DISPOSAL,COLLECTION & RECYCLING SERVICES",
-    "address": "{\"borough\":\"\",\"street\":\"Worcester terrace\",\"city\":\"Bath\",\"postal_code\":\"BA1 6PY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Worcester terrace, Bath, BA1 6PY, GB",
     "phone": "07497 698188",
     "international_phone": "07497 698188",
     "website": "https://www.abracadabrawaste.co.uk/",
@@ -2801,12 +2257,12 @@
     "types": "Waste Collection Service",
     "lat": 51.394364,
     "lng": -2.347314,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Devon Move",
-    "address": "{\"borough\":\"\",\"street\":\"Ground Floor Warehouse Kings Mews Racing\",\"city\":\"Newton Abbot\",\"postal_code\":\"TQ12 2DS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ground Floor Warehouse Kings Mews Racing, Newton Abbot, TQ12 2DS, GB",
     "phone": "01626 363430",
     "international_phone": "01626 363430",
     "website": "http://www.devonmove.com/",
@@ -2818,12 +2274,12 @@
     "types": "Removals company",
     "lat": 50.534843,
     "lng": -3.605492,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Newton Abbot",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "A. Luckes & Son Removals and Storage LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Units 1-3, Marshgate Industrial Estate\",\"city\":\"Swindon\",\"postal_code\":\"SN1 2PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Units 1-3, Marshgate Industrial Estate, Swindon, SN1 2PA, GB",
     "phone": "01793 431431",
     "international_phone": "01793 431431",
     "website": "https://www.removals-swindon.co.uk/",
@@ -2835,12 +2291,12 @@
     "types": "Removals company",
     "lat": 51.570047,
     "lng": -1.759077,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "AB Transport Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"20 Cranmer Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH9 1JU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20 Cranmer Rd, Bournemouth, BH9 1JU, GB",
     "phone": "0330 043 4032",
     "international_phone": "0330 043 4032",
     "website": "http://www.ab-transport.co.uk/",
@@ -2852,12 +2308,12 @@
     "types": "Removals company",
     "lat": 50.743809,
     "lng": -1.876684,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "MiniMoves House Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"7, Bridgend Rd, The Reddings\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 6PB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7, Bridgend Rd, The Reddings, Cheltenham, GL51 6PB, GB",
     "phone": "01242 350018",
     "international_phone": "01242 350018",
     "website": "https://minimoves.co.uk/",
@@ -2869,29 +2325,12 @@
     "types": "Removals company",
     "lat": 51.889741,
     "lng": -2.126121,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "A1 Piano Movers/ Removals | Gloucestershire",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07787 135541",
-    "international_phone": "07787 135541",
-    "website": "https://a1pianoremovals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/A1+Piano+Movers%2F+Removals+%7C+Gloucestershire/data=!4m7!3m6!1s0x48711b70c5c92491:0xf6c762c466ecc137!8m2!3d51.7001443!4d-2.0059797!16s%2Fg%2F1tf5k299!19sChIJkSTJxXAbcUgRN8HsZsRix_Y?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 51,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Piano moving service",
-    "lat": 51.700144,
-    "lng": -2.00598,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Move Team",
-    "address": "{\"borough\":\"\",\"street\":\"1105 Christchurch Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH7 6BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1105 Christchurch Rd, Bournemouth, BH7 6BQ, GB",
     "phone": "01202 037408",
     "international_phone": "01202 037408",
     "website": "https://www.themoveteam.co.uk/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
@@ -2903,12 +2342,12 @@
     "types": "Removals company",
     "lat": 50.734339,
     "lng": -1.81696,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Tom's Vans Removals Bath - Your Local Man with a Van",
-    "address": "{\"borough\":\"\",\"street\":\"Suite 134, 3 Edgar Buildings, George St\",\"city\":\"Bath\",\"postal_code\":\"BA1 2FJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Suite 134, 3 Edgar Buildings, George St, Bath, BA1 2FJ, GB",
     "phone": "07734 954263",
     "international_phone": "07734 954263",
     "website": "http://tomsvans.co.uk/bath-removals-man-and-van/",
@@ -2920,12 +2359,12 @@
     "types": "Removals company",
     "lat": 51.385052,
     "lng": -2.361866,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Reliable van and man",
-    "address": "{\"borough\":\"Yate\",\"street\":\"2 Gathorne Cres\",\"city\":\"Bristol\",\"postal_code\":\"BS37 5EW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Gathorne Cres, Yate, Bristol, BS37 5EW, GB",
     "phone": "07903 120658",
     "international_phone": "07903 120658",
     "website": "https://reliablevanandman.co.uk/",
@@ -2937,12 +2376,12 @@
     "types": "Removals company",
     "lat": 51.542948,
     "lng": -2.422101,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Van Move It",
-    "address": "{\"borough\":\"Southville\",\"street\":\"123 Raleigh Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS3 1QU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "123 Raleigh Rd, Southville, Bristol, BS3 1QU, GB",
     "phone": "07707 888608",
     "international_phone": "07707 888608",
     "website": "https://www.vanmoveit.co.uk/",
@@ -2954,12 +2393,12 @@
     "types": "Removals company",
     "lat": 51.442558,
     "lng": -2.612518,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Mardan Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Lower Bristol Rd\",\"city\":\"Bath\",\"postal_code\":\"BA2 9EU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lower Bristol Rd, Bath, BA2 9EU, GB",
     "phone": "01225 313233",
     "international_phone": "01225 313233",
     "website": "http://www.mardanremovals.co.uk/",
@@ -2971,29 +2410,12 @@
     "types": "Removals Service",
     "lat": 51.3882,
     "lng": -2.409085,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "OnRoad-Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07494 949108",
-    "international_phone": "07494 949108",
-    "website": "http://onroad-removals.co.uk/?utm_source=gmb&utm_medium=referral",
-    "google_maps_url": "https://www.google.com/maps/place/OnRoad-Removals/data=!4m7!3m6!1s0x486df544aaec88cb:0x541a0fde5c9b733a!8m2!3d51.066062!4d-3.0427783!16s%2Fg%2F11kf4tbfmh!19sChIJy4jsqkT1bUgROnObXN4PGlQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 29,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 51.066062,
-    "lng": -3.042778,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Renwick's Removals",
-    "address": "{\"borough\":\"Bishops Lydeard\",\"street\":\"72 Stawell Rd\",\"city\":\"Taunton\",\"postal_code\":\"TA4 3FA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "72 Stawell Rd, Bishops Lydeard, Taunton, TA4 3FA, GB",
     "phone": "07736 669980",
     "international_phone": "07736 669980",
     "website": "http://www.renwicksremovals.co.uk/",
@@ -3005,12 +2427,12 @@
     "types": "Removals Service",
     "lat": 51.052001,
     "lng": -3.181394,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Kingsdown removals",
-    "address": "{\"borough\":\"Blunsdon Saint Andrew\",\"street\":\"Minerva Hts\",\"city\":\"Swindon\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Minerva Hts, Blunsdon Saint Andrew, Swindon, GB",
     "phone": "07932 015843",
     "international_phone": "07932 015843",
     "website": "http://www.kingsdownremovals.co.uk/",
@@ -3022,12 +2444,12 @@
     "types": "Removals company",
     "lat": 51.611645,
     "lng": -1.793509,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Aardvark House Removals of Cheltenham",
-    "address": "{\"borough\":\"\",\"street\":\"19 Medoc Cl\",\"city\":\"Cheltenham\",\"postal_code\":\"GL50 4SW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "19 Medoc Cl, Cheltenham, GL50 4SW, GB",
     "phone": "0800 195 9239",
     "international_phone": "0800 195 9239",
     "website": "http://www.aardvark-removals.co.uk/",
@@ -3039,12 +2461,12 @@
     "types": "Removals Service",
     "lat": 51.916442,
     "lng": -2.089192,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "We Move and Clean",
-    "address": "{\"borough\":\"Westlea\",\"street\":\"24 Birdcombe Rd\",\"city\":\"Swindon\",\"postal_code\":\"SN5 7BL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Birdcombe Rd, Westlea, Swindon, SN5 7BL, GB",
     "phone": "01793 335429",
     "international_phone": "01793 335429",
     "website": "https://www.wemoveandclean.co.uk/",
@@ -3056,12 +2478,12 @@
     "types": "Removals company",
     "lat": 51.558026,
     "lng": -1.824074,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Britannia Lanes Removals Cornwall",
-    "address": "{\"borough\":\"Greenbottom, Chacewater\",\"street\":\"\",\"city\":\"Truro\",\"postal_code\":\"TR4 8QW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Greenbottom, Chacewater, Truro, TR4 8QW, GB",
     "phone": "01872 560147",
     "international_phone": "01872 560147",
     "website": "https://britannialanes.co.uk/locations/cornwall-removals/?utm_source=GBP&utm_medium=organic&utm_campaign=Britannia+Lanes+Removals+Cornwall&utm_id=1",
@@ -3073,12 +2495,12 @@
     "types": "Removals Service",
     "lat": 50.265354,
     "lng": -5.127117,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Now We're Moving (Removals & Storage)",
-    "address": "{\"borough\":\"\",\"street\":\"3 Bloomfield Ave\",\"city\":\"Bath\",\"postal_code\":\"BA2 0LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3 Bloomfield Ave, Bath, BA2 0LW, GB",
     "phone": "01225 684514",
     "international_phone": "01225 684514",
     "website": "http://www.nowweremoving.co.uk/",
@@ -3090,12 +2512,12 @@
     "types": "Removals company",
     "lat": 51.373326,
     "lng": -2.367213,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Rose Removals",
-    "address": "{\"borough\":\"Lapford\",\"street\":\"The Station Business Park\",\"city\":\"Crediton\",\"postal_code\":\"EX17 6AE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Station Business Park, Lapford, Crediton, EX17 6AE, GB",
     "phone": "01363 83700",
     "international_phone": "01363 83700",
     "website": "https://www.roseremovals.co.uk/",
@@ -3107,12 +2529,12 @@
     "types": "Removals company",
     "lat": 50.856181,
     "lng": -3.811236,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Crediton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Fox Group (Moving and Storage) Ltd",
-    "address": "{\"borough\":\"Bristol\",\"street\":\"Albert Cres\",\"city\":\"Bristol\",\"postal_code\":\"BS2 0SU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Albert Cres, Bristol, Bristol, BS2 0SU, GB",
     "phone": "0117 971 9713",
     "international_phone": "0117 971 9713",
     "website": "https://www.fox-moving.com/locations/bristol/?utm_source=google_maps",
@@ -3124,12 +2546,12 @@
     "types": "Removals company",
     "lat": 51.446983,
     "lng": -2.569579,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "RWS Waste Disposal & Removal Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"126 Kelly Cl\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 1DT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "126 Kelly Cl, Plymouth, PL5 1DT, GB",
     "phone": "01752 350881",
     "international_phone": "01752 350881",
     "website": "https://www.rwswaste.co.uk/",
@@ -3141,12 +2563,12 @@
     "types": "Waste Collection Service",
     "lat": 50.395996,
     "lng": -4.192825,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Rubbish Clearance Bournemouth",
-    "address": "{\"borough\":\"\",\"street\":\"105 Richmond Park Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 8UA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "105 Richmond Park Rd, Bournemouth, BH8 8UA, GB",
     "phone": "01202 240587",
     "international_phone": "01202 240587",
     "website": "http://www.rubbishclearancebournemouth.co.uk/",
@@ -3158,12 +2580,12 @@
     "types": "House clearance service",
     "lat": 50.736609,
     "lng": -1.860426,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "BW Removals",
-    "address": "{\"borough\":\"\",\"street\":\"12 Innox Rd\",\"city\":\"Trowbridge\",\"postal_code\":\"BA14 9AT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Innox Rd, Trowbridge, BA14 9AT, GB",
     "phone": "01225 768083",
     "international_phone": "01225 768083",
     "website": "http://www.bwremovals.co.uk/",
@@ -3175,12 +2597,12 @@
     "types": "Removals Service",
     "lat": 51.321174,
     "lng": -2.218375,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Trowbridge",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "We Like 2 Move It Removals Bristol",
-    "address": "{\"borough\":\"Little Stoke\",\"street\":\"31 Wrington Cl\",\"city\":\"Bristol\",\"postal_code\":\"BS34 6EU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "31 Wrington Cl, Little Stoke, Bristol, BS34 6EU, GB",
     "phone": "0117 369 0570",
     "international_phone": "0117 369 0570",
     "website": "http://www.welike2moveit.co.uk/",
@@ -3192,12 +2614,12 @@
     "types": "Removals company",
     "lat": 51.530652,
     "lng": -2.556207,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cambridge Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 4, Joshua Park, 1 Bell Cl\",\"city\":\"Plymouth\",\"postal_code\":\"PL7 4FF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, Joshua Park, 1 Bell Cl, Plymouth, PL7 4FF, GB",
     "phone": "01752 700225",
     "international_phone": "01752 700225",
     "website": "http://www.cambridge-removals.com/",
@@ -3209,12 +2631,12 @@
     "types": "Removals company",
     "lat": 50.396448,
     "lng": -4.042286,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "GB Liners Removals & Storage - Bristol",
-    "address": "{\"borough\":\"Avonmouth\",\"street\":\"Unit 14 Access 18, Kings Weston Ln\",\"city\":\"Bristol\",\"postal_code\":\"BS11 8HT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 14 Access 18, Kings Weston Ln, Avonmouth, Bristol, BS11 8HT, GB",
     "phone": "0117 982 8141",
     "international_phone": "0117 982 8141",
     "website": "https://www.gbliners.com/branch/bristol/?utm_source=google&utm_medium=organic&utm_campaign=Google+My+Business&utm_id=Bristol&utm_content=Bristol",
@@ -3226,12 +2648,12 @@
     "types": "Removals company",
     "lat": 51.505381,
     "lng": -2.681131,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Removals Unlimited",
-    "address": "{\"borough\":\"\",\"street\":\"215 Capstone Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 8SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "215 Capstone Rd, Bournemouth, BH8 8SA, GB",
     "phone": "01202 531391",
     "international_phone": "01202 531391",
     "website": "http://www.removalsunlimited.co.uk/",
@@ -3243,12 +2665,12 @@
     "types": "Removals company",
     "lat": 50.735922,
     "lng": -1.863438,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "East Devon Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Alexandria Rd\",\"city\":\"Sidmouth\",\"postal_code\":\"EX10 9HA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Alexandria Rd, Sidmouth, EX10 9HA, GB",
     "phone": "01404 42886",
     "international_phone": "01404 42886",
     "website": "https://www.eastdevonremovals.co.uk/",
@@ -3260,12 +2682,12 @@
     "types": "Removals Service",
     "lat": 50.691644,
     "lng": -3.242646,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Sidmouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Manley van removals",
-    "address": "{\"borough\":\"\",\"street\":\"8 Ilminster Ave\",\"city\":\"Bristol\",\"postal_code\":\"BS4 1LT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Ilminster Ave, Bristol, BS4 1LT, GB",
     "phone": "07917 843718",
     "international_phone": "07917 843718",
     "website": "",
@@ -3277,12 +2699,12 @@
     "types": "Removals company",
     "lat": 51.427825,
     "lng": -2.585132,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Ark Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"6 Albemarle Ind Est\",\"city\":\"Taunton\",\"postal_code\":\"TA1 1BJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Albemarle Ind Est, Taunton, TA1 1BJ, GB",
     "phone": "01823 256546",
     "international_phone": "01823 256546",
     "website": "http://arkremovals.co.uk/",
@@ -3294,12 +2716,12 @@
     "types": "Removals Service",
     "lat": 51.02303,
     "lng": -3.107152,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "A2B Removals Nationwide LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Stanboro, Stanboro Lane, Tewkesbury Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9TN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Stanboro, Stanboro Lane, Tewkesbury Rd, Cheltenham, GL51 9TN, GB",
     "phone": "01242 681116",
     "international_phone": "01242 681116",
     "website": "https://www.a2bmoving.com/",
@@ -3311,12 +2733,12 @@
     "types": "Removals company",
     "lat": 51.93218,
     "lng": -2.145295,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "MIF Removals Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"Orpen Cl\",\"city\":\"Swindon\",\"postal_code\":\"SN3 1FR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Orpen Cl, Swindon, SN3 1FR, GB",
     "phone": "0800 099 6700",
     "international_phone": "0800 099 6700",
     "website": "http://www.mifremovals.co.uk/",
@@ -3328,12 +2750,12 @@
     "types": "Removals company",
     "lat": 51.543821,
     "lng": -1.769185,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "R & J Removals Ltd",
-    "address": "{\"borough\":\"Yate\",\"street\":\"The Transport Yard, Backfield Farm, Wotton Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS37 9XD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Transport Yard, Backfield Farm, Wotton Rd, Yate, Bristol, BS37 9XD, GB",
     "phone": "0117 961 1112",
     "international_phone": "0117 961 1112",
     "website": "http://www.rjremovals.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website_button",
@@ -3345,29 +2767,12 @@
     "types": "Removals company",
     "lat": 51.557281,
     "lng": -2.452279,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Rps removals Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07732 409456",
-    "international_phone": "07732 409456",
-    "website": "https://www.rpsremovals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Rps+removals+Swindon/data=!4m7!3m6!1s0xacfcf0ddf8e889e5:0xa69e39a6615c4a62!8m2!3d51.5314614!4d-1.92311!16s%2Fg%2F11x7y57qln!19sChIJ5Yno-N3w_KwRYkpcYaY5nqY?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 33,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.531461,
-    "lng": -1.92311,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Coleman Removals Ltd",
-    "address": "{\"borough\":\"Williton\",\"street\":\"52-54 Long St\",\"city\":\"Taunton\",\"postal_code\":\"TA4 4QU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "52-54 Long St, Williton, Taunton, TA4 4QU, GB",
     "phone": "01984 631798",
     "international_phone": "01984 631798",
     "website": "https://www.colemanremovals.co.uk/",
@@ -3379,12 +2784,12 @@
     "types": "Removals Service",
     "lat": 51.162649,
     "lng": -3.317872,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Smart Moving Solutions",
-    "address": "{\"borough\":\"\",\"street\":\"2, Centrum Park, Tewkesbury Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9FD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2, Centrum Park, Tewkesbury Rd, Cheltenham, GL51 9FD, GB",
     "phone": "01242 500445",
     "international_phone": "01242 500445",
     "website": "http://www.smartmovingsolutions.co.uk/",
@@ -3396,12 +2801,12 @@
     "types": "Removals Service",
     "lat": 51.914379,
     "lng": -2.097088,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Park & Sons Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"215 Capstone Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 8SA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "215 Capstone Rd, Bournemouth, BH8 8SA, GB",
     "phone": "01202 397735",
     "international_phone": "01202 397735",
     "website": "http://www.parkandsons.co.uk/",
@@ -3413,29 +2818,12 @@
     "types": "Removals Service",
     "lat": 50.735922,
     "lng": -1.863438,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Bournemouth Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01202 629297",
-    "international_phone": "01202 629297",
-    "website": "https://www.bournemouth-removals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bournemouth+Removals/data=!4m7!3m6!1s0x4873a17937e7d851:0xa1a5bcd122ed223a!8m2!3d50.7392214!4d-1.891271!16s%2Fg%2F11g0vzc5xr!19sChIJUdjnN3mhc0gROiLtItG8paE?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.739221,
-    "lng": -1.891271,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Noblemen Removals LTD",
-    "address": "{\"borough\":\"Southbourne\",\"street\":\"29A Southwood Ave\",\"city\":\"Bournemouth\",\"postal_code\":\"BH6 3QB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "29A Southwood Ave, Southbourne, Bournemouth, BH6 3QB, GB",
     "phone": "07398 001024",
     "international_phone": "07398 001024",
     "website": "http://noblemenremovals.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5111954203605737318",
@@ -3447,12 +2835,12 @@
     "types": "Removals Service",
     "lat": 50.722666,
     "lng": -1.813909,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Now We're Moving Bristol",
-    "address": "{\"borough\":\"Longwell Green\",\"street\":\"5 Stanhope Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS30 9AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Stanhope Rd, Longwell Green, Bristol, BS30 9AJ, GB",
     "phone": "0117 287 0007",
     "international_phone": "0117 287 0007",
     "website": "https://www.nowweremoving.co.uk/",
@@ -3464,12 +2852,12 @@
     "types": "Removals Service",
     "lat": 51.436642,
     "lng": -2.493837,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "W McMullin & Sons",
-    "address": "{\"borough\":\"\",\"street\":\"27 Desborough Ln\",\"city\":\"Plymouth\",\"postal_code\":\"PL4 9PJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "27 Desborough Ln, Plymouth, PL4 9PJ, GB",
     "phone": "01752 660874",
     "international_phone": "01752 660874",
     "website": "http://www.wmcmullinandsons.com/",
@@ -3481,12 +2869,12 @@
     "types": "Removals company",
     "lat": 50.37256,
     "lng": -4.120416,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Roman Removals Bath Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"15 Rowacres\",\"city\":\"Bath\",\"postal_code\":\"BA2 2LH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "15 Rowacres, Bath, BA2 2LH, GB",
     "phone": "07875 383440",
     "international_phone": "07875 383440",
     "website": "https://www.romanremovalsbath.co.uk/",
@@ -3498,12 +2886,12 @@
     "types": "Removals company",
     "lat": 51.365629,
     "lng": -2.392475,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "A J's Man & van Bristol",
-    "address": "{\"borough\":\"Saint Paul's\",\"street\":\"Halston Dr\",\"city\":\"Bristol\",\"postal_code\":\"BS2 9JL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Halston Dr, Saint Paul's, Bristol, BS2 9JL, GB",
     "phone": "07903 047413",
     "international_phone": "07903 047413",
     "website": "",
@@ -3515,12 +2903,12 @@
     "types": "Removals Service",
     "lat": 51.463335,
     "lng": -2.581355,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man with a Bleddy Van Removals & Clearance",
-    "address": "{\"borough\":\"Threemilestone\",\"street\":\"10 Threemilestone Industrial Estate\",\"city\":\"Truro\",\"postal_code\":\"TR4 9LD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Threemilestone Industrial Estate, Threemilestone, Truro, TR4 9LD, GB",
     "phone": "01872 307111",
     "international_phone": "01872 307111",
     "website": "http://manwithableddyvan.com/house-removals-truro-cornwall/",
@@ -3532,12 +2920,12 @@
     "types": "Removals company",
     "lat": 50.262753,
     "lng": -5.122612,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Britannia Lanes Removals Devon",
-    "address": "{\"borough\":\"Marsh Barton\",\"street\":\"Hennock Road East\",\"city\":\"Exeter\",\"postal_code\":\"EX2 8RU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hennock Road East, Marsh Barton, Exeter, EX2 8RU, GB",
     "phone": "01392 494966",
     "international_phone": "01392 494966",
     "website": "https://britannialanes.co.uk/locations/devon-removals/?utm_source=GBP&utm_medium=organic&utm_campaign=Britannia+Lanes+Removals+Devon&utm_id=2",
@@ -3549,12 +2937,12 @@
     "types": "Removals Service",
     "lat": 50.700316,
     "lng": -3.52358,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Weston & Edwards Somerset",
-    "address": "{\"borough\":\"\",\"street\":\"5 Robins Dr\",\"city\":\"Bridgwater\",\"postal_code\":\"TA6 4DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Robins Dr, Bridgwater, TA6 4DL, GB",
     "phone": "01278 425508",
     "international_phone": "01278 425508",
     "website": "http://www.westonandedwards.co.uk/somerset-removals/",
@@ -3566,12 +2954,12 @@
     "types": "Removals company",
     "lat": 51.134518,
     "lng": -2.998636,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bridgwater",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Easymove Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Albert Cres\",\"city\":\"Bristol\",\"postal_code\":\"BS2 0SU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Albert Cres, Bristol, BS2 0SU, GB",
     "phone": "0117 977 1460",
     "international_phone": "0117 977 1460",
     "website": "https://www.easymovebristol.co.uk/",
@@ -3583,12 +2971,12 @@
     "types": "Removals Service",
     "lat": 51.446993,
     "lng": -2.569035,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Ablemove Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Marshall Way\",\"city\":\"Frome\",\"postal_code\":\"BA11 2FE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Marshall Way, Frome, BA11 2FE, GB",
     "phone": "01373 334580",
     "international_phone": "01373 334580",
     "website": "http://www.ablemove.net/",
@@ -3600,12 +2988,12 @@
     "types": "Removals Service",
     "lat": 51.245339,
     "lng": -2.291087,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Frome",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Team Removals & Storage Limited",
-    "address": "{\"borough\":\"Bakers Hill\",\"street\":\"Longdown Rd\",\"city\":\"Exeter\",\"postal_code\":\"EX6 7SR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Longdown Rd, Bakers Hill, Exeter, EX6 7SR, GB",
     "phone": "01392 811877",
     "international_phone": "01392 811877",
     "website": "http://www.teamremovals.co.uk/",
@@ -3617,12 +3005,12 @@
     "types": "Removals Service",
     "lat": 50.707818,
     "lng": -3.58623,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "A Man and Van 247 Bournemouth",
-    "address": "{\"borough\":\"\",\"street\":\"29 Burnham Dr\",\"city\":\"Bournemouth\",\"postal_code\":\"BH8 9EX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "29 Burnham Dr, Bournemouth, BH8 9EX, GB",
     "phone": "01202 974781",
     "international_phone": "01202 974781",
     "website": "https://amanandvan247.com/",
@@ -3634,12 +3022,12 @@
     "types": "Removals company",
     "lat": 50.740312,
     "lng": -1.85515,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Man With A Van Swindon",
-    "address": "{\"borough\":\"Lydiard Millicent\",\"street\":\"37 Stone Ln\",\"city\":\"Swindon\",\"postal_code\":\"SN5 3LD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37 Stone Ln, Lydiard Millicent, Swindon, SN5 3LD, GB",
     "phone": "01793 772888",
     "international_phone": "01793 772888",
     "website": "https://www.themanwithavanswindon.co.uk/",
@@ -3651,12 +3039,12 @@
     "types": "Removals Service",
     "lat": 51.578431,
     "lng": -1.849351,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "King & Kearey",
-    "address": "{\"borough\":\"\",\"street\":\"2 Peamore Commercial Centre, Alphington\",\"city\":\"Exeter\",\"postal_code\":\"EX2 9SL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Peamore Commercial Centre, Alphington, Exeter, EX2 9SL, GB",
     "phone": "01392 833131",
     "international_phone": "01392 833131",
     "website": "http://www.kingandkearey.co.uk/",
@@ -3668,12 +3056,12 @@
     "types": "Removals Service",
     "lat": 50.679311,
     "lng": -3.530731,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol Man with Van",
-    "address": "{\"borough\":\"\",\"street\":\"43 Headley Park Ave\",\"city\":\"Bristol\",\"postal_code\":\"BS13 7NR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "43 Headley Park Ave, Bristol, BS13 7NR, GB",
     "phone": "07872 831418",
     "international_phone": "07872 831418",
     "website": "http://www.bristolmanwithvan.co.uk/",
@@ -3685,12 +3073,12 @@
     "types": "Removals company",
     "lat": 51.419332,
     "lng": -2.609979,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Clearance Bournemouth",
-    "address": "{\"borough\":\"Southbourne\",\"street\":\"6 Ken Rd\",\"city\":\"Bournemouth\",\"postal_code\":\"BH6 3ET\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Ken Rd, Southbourne, Bournemouth, BH6 3ET, GB",
     "phone": "01202 802947",
     "international_phone": "01202 802947",
     "website": "https://www.house-clearance-bournemouth.com/",
@@ -3702,12 +3090,12 @@
     "types": "House clearance service",
     "lat": 50.723683,
     "lng": -1.797981,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Kwik Move - Removals & Storage Bristol",
-    "address": "{\"borough\":\"Brislington\",\"street\":\"Unit 3, Bonville Trading Estate, Bonville Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS4 5QU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3, Bonville Trading Estate, Bonville Rd, Brislington, Bristol, BS4 5QU, GB",
     "phone": "0117 300 5885",
     "international_phone": "0117 300 5885",
     "website": "https://kwik-move-ltd.co.uk/",
@@ -3719,12 +3107,12 @@
     "types": "Removals company",
     "lat": 51.435521,
     "lng": -2.53557,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Pro-Porters (Logistics) Ltd",
-    "address": "{\"borough\":\"Royal Wootton Bassett\",\"street\":\"Spittleborough Farmhouse, Swindon Rd\",\"city\":\"Swindon\",\"postal_code\":\"SN4 8ET\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Spittleborough Farmhouse, Swindon Rd, Royal Wootton Bassett, Swindon, SN4 8ET, GB",
     "phone": "01793 299528",
     "international_phone": "01793 299528",
     "website": "http://www.pro-porters.co.uk/",
@@ -3736,12 +3124,12 @@
     "types": "Removals Service",
     "lat": 51.545688,
     "lng": -1.863559,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Centurion Truck Rental - Taunton",
-    "address": "{\"borough\":\"\",\"street\":\"Galmington Trading Estate, Cornishway E\",\"city\":\"Taunton\",\"postal_code\":\"TA1 5LZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Galmington Trading Estate, Cornishway E, Taunton, TA1 5LZ, GB",
     "phone": "01823 324021",
     "international_phone": "01823 324021",
     "website": "http://www.falconvehiclesolutions.co.uk/",
@@ -3753,12 +3141,12 @@
     "types": "Van rental agency",
     "lat": 51.011067,
     "lng": -3.128214,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "AJ Removals & Deliveries Ltd",
-    "address": "{\"borough\":\"High Littleton\",\"street\":\"Old Station Business Park, Units 1\\u00266, Wells Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS39 6EN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Old Station Business Park, Units 1&6, Wells Rd, High Littleton, Bristol, BS39 6EN, GB",
     "phone": "01225 404060",
     "international_phone": "01225 404060",
     "website": "http://www.ajremovalsbath.co.uk/",
@@ -3770,12 +3158,12 @@
     "types": "Removals company",
     "lat": 51.313237,
     "lng": -2.527965,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "hamptons removals",
-    "address": "{\"borough\":\"\",\"street\":\"34 Lees Hill\",\"city\":\"Bristol\",\"postal_code\":\"BS15 4TN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Lees Hill, Bristol, BS15 4TN, GB",
     "phone": "07941 542414",
     "international_phone": "07941 542414",
     "website": "http://www.hamptonsremovals.com/",
@@ -3787,12 +3175,12 @@
     "types": "Removals Service",
     "lat": 51.353363,
     "lng": -2.545107,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Pickfords",
-    "address": "{\"borough\":\"\",\"street\":\"Lion Works, Business Park, 543 Wallisdown Rd\",\"city\":\"Poole\",\"postal_code\":\"BH12 5AD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lion Works, Business Park, 543 Wallisdown Rd, Poole, BH12 5AD, GB",
     "phone": "0800 019 8556",
     "international_phone": "0800 019 8556",
     "website": "https://www.pickfords.co.uk/",
@@ -3804,12 +3192,12 @@
     "types": "Removals company",
     "lat": 50.750986,
     "lng": -1.926259,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Poole",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bath Man Van Removals with Delivery Service Company",
-    "address": "{\"borough\":\"\",\"street\":\"9 Bladud Buildings\",\"city\":\"Bath\",\"postal_code\":\"BA1 5LS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Bladud Buildings, Bath, BA1 5LS, GB",
     "phone": "07716 899822",
     "international_phone": "07716 899822",
     "website": "http://bathmanandvan.co.uk/",
@@ -3821,12 +3209,12 @@
     "types": "Removals company",
     "lat": 51.385584,
     "lng": -2.360298,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "WHG Removals Ltd Gloucestershire",
-    "address": "{\"borough\":\"\",\"street\":\"46 Willow Ave\",\"city\":\"Gloucester\",\"postal_code\":\"GL4 4NY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "46 Willow Ave, Gloucester, GL4 4NY, GB",
     "phone": "0303 330 0603",
     "international_phone": "0303 330 0603",
     "website": "https://www.gloucestershireremovals.co.uk/",
@@ -3838,12 +3226,12 @@
     "types": "Removals Service",
     "lat": 51.85322,
     "lng": -2.220858,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "South West Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 11, The Loft, Hunthay Business Park\",\"city\":\"Axminster\",\"postal_code\":\"EX13 5RJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 11, The Loft, Hunthay Business Park, Axminster, EX13 5RJ, GB",
     "phone": "0800 054 1172",
     "international_phone": "0800 054 1172",
     "website": "https://www.swremovals.co.uk/",
@@ -3855,12 +3243,12 @@
     "types": "Removals company",
     "lat": 50.781347,
     "lng": -3.017252,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Axminster",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Churchdown Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Canberra House, 34 Pitman Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 7UB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Canberra House, 34 Pitman Rd, Cheltenham, GL51 7UB, GB",
     "phone": "07817 946492",
     "international_phone": "07817 946492",
     "website": "https://cdremovals.com/",
@@ -3872,12 +3260,12 @@
     "types": "Removals Service",
     "lat": 51.899275,
     "lng": -2.116943,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Armstrong Removals & Services",
-    "address": "{\"borough\":\"Upton Saint Leonards\",\"street\":\"Springbank Stables\",\"city\":\"Gloucester\",\"postal_code\":\"GL4 8DA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Springbank Stables, Upton Saint Leonards, Gloucester, GL4 8DA, GB",
     "phone": "07718 235093",
     "international_phone": "07718 235093",
     "website": "https://www.armstrongremovalsandservices.co.uk/",
@@ -3889,12 +3277,12 @@
     "types": "Removals company",
     "lat": 51.829007,
     "lng": -2.205389,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Williams & White Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Unit E, Brunel Park, Vincients Rd\",\"city\":\"Chippenham\",\"postal_code\":\"SN14 6NQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit E, Brunel Park, Vincients Rd, Chippenham, SN14 6NQ, GB",
     "phone": "01249 247250",
     "international_phone": "01249 247250",
     "website": "http://www.williamsandwhite.co.uk/",
@@ -3906,12 +3294,12 @@
     "types": "Removals company",
     "lat": 51.463339,
     "lng": -2.147175,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Chippenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Removals Company Cheltenham Gloucester-Moving Solutions",
-    "address": "{\"borough\":\"\",\"street\":\"St Albans Rd, Empire Way\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 5FW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "St Albans Rd, Empire Way, Gloucester, GL2 5FW, GB",
     "phone": "01452 452627",
     "international_phone": "01452 452627",
     "website": "https://www.removalscompanycheltenham.co.uk/",
@@ -3923,12 +3311,12 @@
     "types": "Removals company",
     "lat": 51.843784,
     "lng": -2.261185,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "AVM Storage and Shipping",
-    "address": "{\"borough\":\"Swindon Village\",\"street\":\"Freedom House, 2 Rutherford Way\",\"city\":\"Cheltenham\",\"postal_code\":\"GL51 9TU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Freedom House, 2 Rutherford Way, Swindon Village, Cheltenham, GL51 9TU, GB",
     "phone": "01242 238277",
     "international_phone": "01242 238277",
     "website": "https://www.avmstorage.com/?utm_source=gmb&utm_medium=organic",
@@ -3940,12 +3328,12 @@
     "types": "Removals Service",
     "lat": 51.916673,
     "lng": -2.101188,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Tripp Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Units 19-20, United Downs Industrial Park, St Day, Cornwall,\",\"city\":\"St Day, nr Truro\",\"postal_code\":\"TR16 5HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Units 19-20, United Downs Industrial Park, St Day, Cornwall,, St Day, nr Truro, TR16 5HY, GB",
     "phone": "01209 822210",
     "international_phone": "01209 822210",
     "website": "http://www.tripp-removals.co.uk/",
@@ -3957,12 +3345,12 @@
     "types": "Removals Service",
     "lat": 50.230581,
     "lng": -5.165545,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "St Day, nr Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Hackworthy and Sons Removals",
-    "address": "{\"borough\":\"Cattedown, Plymouth\",\"street\":\"The Depository, Elliott Rd\",\"city\":\"Plymouth\",\"postal_code\":\"PL4 0SB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Depository, Elliott Rd, Cattedown, Plymouth, Plymouth, PL4 0SB, GB",
     "phone": "01752 228815",
     "international_phone": "01752 228815",
     "website": "https://www.hackworthy.co.uk/",
@@ -3974,12 +3362,12 @@
     "types": "Removals Service",
     "lat": 50.36898,
     "lng": -4.116864,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "White & Company Removals Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"2 North Rd\",\"city\":\"Ivybridge\",\"postal_code\":\"PL21 9GN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 North Rd, Ivybridge, PL21 9GN, GB",
     "phone": "01752 545930",
     "international_phone": "01752 545930",
     "website": "https://www.whiteandcompany.co.uk/removals-plymouth/",
@@ -3991,29 +3379,12 @@
     "types": "Removals Service",
     "lat": 50.38854,
     "lng": -3.955934,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Better Move Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01823 256802",
-    "international_phone": "01823 256802",
-    "website": "http://www.bettermoveonline.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Better+Move+Ltd/data=!4m7!3m6!1s0x486df500f7922eef:0x921f346510e4bbbd!8m2!3d50.7653357!4d-3.2356365!16s%2Fg%2F11b6hy9b61!19sChIJ7y6S9wD1bUgRvbvkEGU0H5I?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 50,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.765336,
-    "lng": -3.235637,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Ivybridge",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Kirtley Removals",
-    "address": "{\"borough\":\"Plymouth\",\"street\":\"Kestrel Park Industrial Estate, 6, Burrington Way\",\"city\":\"Plymouth\",\"postal_code\":\"PL5 3LT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Kestrel Park Industrial Estate, 6, Burrington Way, Plymouth, Plymouth, PL5 3LT, GB",
     "phone": "01752 301177",
     "international_phone": "01752 301177",
     "website": "http://www.kirtley.co.uk/",
@@ -4025,12 +3396,12 @@
     "types": "Removals company",
     "lat": 50.40164,
     "lng": -4.162462,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cheltenham Removal Co.Ltd",
-    "address": "{\"borough\":\"Andoversford\",\"street\":\"andoversford industrial estate, P1, Andoversford Link\",\"city\":\"Cheltenham\",\"postal_code\":\"GL54 4LB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "andoversford industrial estate, P1, Andoversford Link, Andoversford, Cheltenham, GL54 4LB, GB",
     "phone": "01242 820066",
     "international_phone": "01242 820066",
     "website": "https://cheltenhamremoval.co.uk/",
@@ -4042,12 +3413,12 @@
     "types": "Removals company",
     "lat": 51.871693,
     "lng": -1.965652,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "ManVan Plymouth",
-    "address": "{\"borough\":\"\",\"street\":\"Central Park Ave\",\"city\":\"Plymouth\",\"postal_code\":\"PL4 6NW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Central Park Ave, Plymouth, PL4 6NW, GB",
     "phone": "07525 326859",
     "international_phone": "07525 326859",
     "website": "http://www.manvanplymouth.co.uk/",
@@ -4059,12 +3430,12 @@
     "types": "Transportation service",
     "lat": 50.380338,
     "lng": -4.143533,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Rose Removals & Storage of Devon",
-    "address": "{\"borough\":\"\",\"street\":\"West Ave, Pennsylvania Rd\",\"city\":\"Exeter\",\"postal_code\":\"EX4 4SD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "West Ave, Pennsylvania Rd, Exeter, EX4 4SD, GB",
     "phone": "01392 436700",
     "international_phone": "01392 436700",
     "website": "http://www.roseremovals.co.uk/",
@@ -4076,12 +3447,12 @@
     "types": "Removals Service",
     "lat": 50.730925,
     "lng": -3.525707,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bristol Man And Van",
-    "address": "{\"borough\":\"Hambrook\",\"street\":\"Hambrook Business Park, The Stream\",\"city\":\"Bristol\",\"postal_code\":\"BS16 1RQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hambrook Business Park, The Stream, Hambrook, Bristol, BS16 1RQ, GB",
     "phone": "0117 287 2409",
     "international_phone": "0117 287 2409",
     "website": "http://www.bristolmanandvan.com/",
@@ -4093,12 +3464,12 @@
     "types": "Removals company",
     "lat": 51.507426,
     "lng": -2.523418,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "SimplyPro Removal & Storage Ltd",
-    "address": "{\"borough\":\"Hambrook\",\"street\":\"The Stream\",\"city\":\"Bristol\",\"postal_code\":\"BS16 1RQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Stream, Hambrook, Bristol, BS16 1RQ, GB",
     "phone": "0117 287 2152",
     "international_phone": "0117 287 2152",
     "website": "https://www.simplyremovalsbristol.co.uk/",
@@ -4110,12 +3481,12 @@
     "types": "Removals company",
     "lat": 51.506478,
     "lng": -2.520937,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Britannia Movers of Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"Porte Marsh Industrial Estate, 7 Harris Rd\",\"city\":\"Calne\",\"postal_code\":\"SN11 9PT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Porte Marsh Industrial Estate, 7 Harris Rd, Calne, SN11 9PT, GB",
     "phone": "0845 600 6661",
     "international_phone": "0845 600 6661",
     "website": "https://www.britannia-movers.co.uk/",
@@ -4127,12 +3498,12 @@
     "types": "Removals Service",
     "lat": 51.449818,
     "lng": -1.995235,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Calne",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "D.Goodenough Transport & Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Oaklands, Goodenough Yard\",\"city\":\"Swindon\",\"postal_code\":\"SN5 0AN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Oaklands, Goodenough Yard, Swindon, SN5 0AN, GB",
     "phone": "01793 854843",
     "international_phone": "01793 854843",
     "website": "http://www.dgoodenough.co.uk/",
@@ -4144,12 +3515,12 @@
     "types": "Removals company",
     "lat": 51.571841,
     "lng": -1.919724,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Smart Movers Ltd",
-    "address": "{\"borough\":\"Highworth\",\"street\":\"303 The Cullerns\",\"city\":\"Swindon\",\"postal_code\":\"SN6 7NX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "303 The Cullerns, Highworth, Swindon, SN6 7NX, GB",
     "phone": "07941 724138",
     "international_phone": "07941 724138",
     "website": "http://www.smartmovers.co.uk/",
@@ -4161,12 +3532,12 @@
     "types": "Removals Service",
     "lat": 51.633351,
     "lng": -1.70574,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bishop's Move Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"Groundwell Industrial Estate, Unit A2 ,Suite 3, Stephenson Rd\",\"city\":\"Swindon\",\"postal_code\":\"SN25 5AX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Groundwell Industrial Estate, Unit A2 ,Suite 3, Stephenson Rd, Swindon, SN25 5AX, GB",
     "phone": "01793 855865",
     "international_phone": "01793 855865",
     "website": "http://www.bishopsmove.com/removals-swindon/",
@@ -4178,12 +3549,12 @@
     "types": "Removals Service",
     "lat": 51.599213,
     "lng": -1.777382,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Little Removals Company",
-    "address": "{\"borough\":\"\",\"street\":\"unit 2 Fairview St, Fairview Rd\",\"city\":\"Cheltenham\",\"postal_code\":\"GL52 2EX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "unit 2 Fairview St, Fairview Rd, Cheltenham, GL52 2EX, GB",
     "phone": "01242 650110",
     "international_phone": "01242 650110",
     "website": "https://www.cheltenhamhouseremovals.co.uk/",
@@ -4195,12 +3566,12 @@
     "types": "Removals Service",
     "lat": 51.901002,
     "lng": -2.067809,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Taunton Recycling Centre",
-    "address": "{\"borough\":\"Taunton\",\"street\":\"Crown Industrial Estate\",\"city\":\"Taunton\",\"postal_code\":\"TA2 8QY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Crown Industrial Estate, Taunton, Taunton, TA2 8QY, GB",
     "phone": "01823 338615",
     "international_phone": "01823 338615",
     "website": "https://www.somerset.gov.uk/locations/taunton-recycling-centre/",
@@ -4212,46 +3583,12 @@
     "types": "Recycling Centre",
     "lat": 51.027041,
     "lng": -3.078235,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "White & Company Removals Southampton",
-    "address": "{\"borough\":\"Botley\",\"street\":\"Hillsons Rd\",\"city\":\"Southampton\",\"postal_code\":\"SO30 2DY\",\"state\":\"\",\"country\":\"GB\"}",
-    "phone": "01489 858692",
-    "international_phone": "01489 858692",
-    "website": "https://www.whiteandcompany.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/White+%26+Company+Removals+Southampton/data=!4m7!3m6!1s0x48746e7c1b1dca77:0x6da74bc7575d4b09!8m2!3d50.9170115!4d-1.2629342!16s%2Fg%2F1tdqn3g7!19sChIJd8odG3xudEgRCUtdV8dLp20?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 79,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
-    "types": "Removals Service",
-    "lat": 50.917012,
-    "lng": -1.262934,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Luke Edwards Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "01278 321910",
-    "international_phone": "01278 321910",
-    "website": "http://www.luke-edwards-removals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Luke+Edwards+Removals/data=!4m7!3m6!1s0x4872089d0856aab9:0x6cebaaf5718c5a92!8m2!3d51.0311805!4d-2.9299112!16s%2Fg%2F11bbrh0cg9!19sChIJuapWCJ0IckgRklqMcfWq62w?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.03118,
-    "lng": -2.929911,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Get Moved UK Removals",
-    "address": "{\"borough\":\"Saint Werburgh's\",\"street\":\"34 Mogg St\",\"city\":\"Bristol\",\"postal_code\":\"BS2 9UB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "34 Mogg St, Saint Werburgh's, Bristol, BS2 9UB, GB",
     "phone": "0333 041 6998",
     "international_phone": "0333 041 6998",
     "website": "http://www.get-moved.co.uk/",
@@ -4263,12 +3600,12 @@
     "types": "Removals Service",
     "lat": 51.469515,
     "lng": -2.573625,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Dennis's Removals & Storage",
-    "address": "{\"borough\":\"South Marston\",\"street\":\"Thornhill Industrial Estate\",\"city\":\"Swindon\",\"postal_code\":\"SN3 4TA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Thornhill Industrial Estate, South Marston, Swindon, SN3 4TA, GB",
     "phone": "01793 828224",
     "international_phone": "01793 828224",
     "website": "http://www.dennissremovals.co.uk/",
@@ -4280,46 +3617,12 @@
     "types": "Removals Service",
     "lat": 51.585906,
     "lng": -1.728386,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Swindon Man and Van",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07778 889004",
-    "international_phone": "07778 889004",
-    "website": "https://www.swindonmanandvan.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Swindon+Man+and+Van/data=!4m7!3m6!1s0x487145bfd46d174d:0x2ecf618598cb939c!8m2!3d51.5687628!4d-1.7923051!16s%2Fg%2F11b8_nk4fj!19sChIJTRdt1L9FcUgRnJPLmIVhzy4?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.568763,
-    "lng": -1.792305,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
-  },
-  {
-    "name": "Bournemouth moves",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"\"}",
-    "phone": "07758 343228",
-    "international_phone": "07758 343228",
-    "website": "http://www.bhexpress.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bournemouth+moves/data=!4m7!3m6!1s0x4873a21c3ac54f97:0x159ffcc3fb16ca0c!8m2!3d50.750781!4d-1.8792624!16s%2Fg%2F11ysrqh4s!19sChIJl0_FOhyic0gRDMoW-8P8nxU?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 50.750781,
-    "lng": -1.879262,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Simon Long Removals Ltd - Gloucestershire",
-    "address": "{\"borough\":\"\",\"street\":\"Tuffley Trading Estate, Unit 5 Corolin Rd\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 5DQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Tuffley Trading Estate, Unit 5 Corolin Rd, Gloucester, GL2 5DQ, GB",
     "phone": "0800 030 9103",
     "international_phone": "0800 030 9103",
     "website": "https://www.simonlongremovalsgloucestershire.co.uk/?utm_source=GMB&utm_medium=organic",
@@ -4331,12 +3634,12 @@
     "types": "Removals Service",
     "lat": 51.83842,
     "lng": -2.266575,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bishop's Move Exeter",
-    "address": "{\"borough\":\"Woodbury Salterton\",\"street\":\"Unit 10, Greendale Business Park\",\"city\":\"Exeter\",\"postal_code\":\"EX5 1EW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 10, Greendale Business Park, Woodbury Salterton, Exeter, EX5 1EW, GB",
     "phone": "01392 202040",
     "international_phone": "01392 202040",
     "website": "http://www.bishopsmove.com/removals-exeter/",
@@ -4348,12 +3651,12 @@
     "types": "Removals Service",
     "lat": 50.698977,
     "lng": -3.390889,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bishop's Move Truro",
-    "address": "{\"borough\":\"Barncoose\",\"street\":\"Unit 13, Barncoose Industrial Estate\",\"city\":\"Redruth\",\"postal_code\":\"TR15 3RQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 13, Barncoose Industrial Estate, Barncoose, Redruth, TR15 3RQ, GB",
     "phone": "01872 277727",
     "international_phone": "01872 277727",
     "website": "http://www.bishopsmove.com/removals-truro/",
@@ -4365,12 +3668,12 @@
     "types": "Removals Service",
     "lat": 50.227869,
     "lng": -5.252044,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Redruth",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Chris Baker Light Haulage & Removals Ltd",
-    "address": "{\"borough\":\"Cambridge, Slimbridge\",\"street\":\"Unit 1 Wisloe Rd Business Park\",\"city\":\"Gloucester\",\"postal_code\":\"GL2 7AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1 Wisloe Rd Business Park, Cambridge, Slimbridge, Gloucester, GL2 7AJ, GB",
     "phone": "01453 899288",
     "international_phone": "01453 899288",
     "website": "http://www.chrisbakerremovals.co.uk/index.html",
@@ -4382,12 +3685,12 @@
     "types": "Storage facility",
     "lat": 51.723705,
     "lng": -2.370791,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Nightingale Removals and Storage Bath",
-    "address": "{\"borough\":\"\",\"street\":\"1 Queen Square\",\"city\":\"Bath\",\"postal_code\":\"BA1 2HA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Queen Square, Bath, BA1 2HA, GB",
     "phone": "01225 738220",
     "international_phone": "01225 738220",
     "website": "https://nightingaleremovals.com/bath/?utm_source=google&utm_medium=organic&utm_campaign=gbp_bath",
@@ -4399,12 +3702,12 @@
     "types": "Removals Service",
     "lat": 51.382731,
     "lng": -2.361803,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Biffa Waste Management Taunton",
-    "address": "{\"borough\":\"\",\"street\":\"Crown Industrial Estate\",\"city\":\"Taunton\",\"postal_code\":\"TA2 8QY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Crown Industrial Estate, Taunton, TA2 8QY, GB",
     "phone": "0800 307307",
     "international_phone": "0800 307307",
     "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_campaign=google&utm_medium=organic&utm_source=google_business_profile",
@@ -4416,12 +3719,12 @@
     "types": "Waste-Management Service",
     "lat": 51.028226,
     "lng": -3.081151,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Find My Man and Van Bristol",
-    "address": "{\"borough\":\"Henleaze\",\"street\":\"13 Harbury Rd\",\"city\":\"Bristol\",\"postal_code\":\"BS9 4PN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "13 Harbury Rd, Henleaze, Bristol, BS9 4PN, GB",
     "phone": "0333 123 0240",
     "international_phone": "0333 123 0240",
     "website": "https://findmymanandvan.co.uk/man-with-a-van/bristol",
@@ -4433,12 +3736,12 @@
     "types": "Removals company",
     "lat": 51.491488,
     "lng": -2.599437,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Bath Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"1 Queen Square\",\"city\":\"Bath\",\"postal_code\":\"BA1 2HA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Queen Square, Bath, BA1 2HA, GB",
     "phone": "01225 852863",
     "international_phone": "01225 852863",
     "website": "http://bathukremovals.co.uk/",
@@ -4450,12 +3753,12 @@
     "types": "Removals Service",
     "lat": 51.383671,
     "lng": -2.363011,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Pickfords Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 5, Merlin Industrial Park, Venture Way\",\"city\":\"Taunton\",\"postal_code\":\"TA2 8DG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 5, Merlin Industrial Park, Venture Way, Taunton, TA2 8DG, GB",
     "phone": "0800 019 8556",
     "international_phone": "0800 019 8556",
     "website": "https://www.pickfords.co.uk/",
@@ -4467,12 +3770,12 @@
     "types": "Removals Service",
     "lat": 51.025412,
     "lng": -3.086554,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Truro House Clearances",
-    "address": "{\"borough\":\"\",\"street\":\"9 Trehaverne Ter\",\"city\":\"Truro\",\"postal_code\":\"TR1 3SE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Trehaverne Ter, Truro, TR1 3SE, GB",
     "phone": "01872 241958",
     "international_phone": "01872 241958",
     "website": "http://www.trurohouseclearances.co.uk/",
@@ -4484,12 +3787,12 @@
     "types": "House clearance service",
     "lat": 50.268089,
     "lng": -5.057958,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Cooper the Man with a Van",
-    "address": "{\"borough\":\"\",\"street\":\"MacKenzie Cl\",\"city\":\"Swindon\",\"postal_code\":\"SN3 6JR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "MacKenzie Cl, Swindon, SN3 6JR, GB",
     "phone": "07540 524431",
     "international_phone": "07540 524431",
     "website": "",
@@ -4501,12 +3804,12 @@
     "types": "Removals Service",
     "lat": 51.550591,
     "lng": -1.729216,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "Man and Van Swindon",
-    "address": "{\"borough\":\"\",\"street\":\"Flemming Way\",\"city\":\"Swindon\",\"postal_code\":\"SN1 2NG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flemming Way, Swindon, SN1 2NG, GB",
     "phone": "01793 205070",
     "international_phone": "01793 205070",
     "website": "http://themanwithvannetwork.com/",
@@ -4518,7 +3821,7 @@
     "types": "Removals Service",
     "lat": 51.562988,
     "lng": -1.784926,
-    "found_in_location": "southwest",
-    "found_with_query": "removal companies southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "removals southwest"
   }
 ]

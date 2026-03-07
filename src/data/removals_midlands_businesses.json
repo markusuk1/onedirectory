@@ -1,7 +1,24 @@
 [
   {
+    "name": "Slick Removals man and van Leicester shire Ltd",
+    "address": "56 Blaby Rd, South Wigston, Wigston, LE18 4SD, GB",
+    "phone": "07934 722569",
+    "international_phone": "07934 722569",
+    "website": "https://manandvanleicestershire.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Slick+Removals+man+and+van+Leicester+shire+Ltd/data=!4m7!3m6!1s0x487767b4bca45bfd:0x4e7dfb01f582b191!8m2!3d52.580211!4d-1.1310028!16s%2Fg%2F11q2szn2wd!19sChIJ_VukvLRnd0gRkbGC9QH7fU4?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 498,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"5\u202fam\u201311\u202fpm\"],\"Monday\":[\"5\u202fam\u201311\u202fpm\"],\"Saturday\":[\"5\u202fam\u201311\u202fpm\"],\"Sunday\":[\"5\u202fam\u201311\u202fpm\"],\"Thursday\":[\"5\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"5\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"5\u202fam\u201311\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.580211,
+    "lng": -1.131003,
+    "found_in_location": "Wigston",
+    "found_with_query": "removals midlands"
+  },
+  {
     "name": "Leicester Waste Removal",
-    "address": "{\"borough\":\"\",\"street\":\"51 Gopsall St\",\"city\":\"Leicester\",\"postal_code\":\"LE2 0DP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "51 Gopsall St, Leicester, LE2 0DP, GB",
     "phone": "07852 840582",
     "international_phone": "07852 840582",
     "website": "https://leicesterwasteremoval.com/",
@@ -13,12 +30,29 @@
     "types": "Waste Collection Service",
     "lat": 52.631378,
     "lng": -1.114969,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Mannix Brothers Removals & Storage Ltd",
+    "address": "Unit 30, 63 Chartwell Dr, Wigston, LE18 2FS, GB",
+    "phone": "0116 233 6313",
+    "international_phone": "0116 233 6313",
+    "website": "http://www.mannixbrothers.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Mannix+Brothers+Removals+%26+Storage+Ltd/data=!4m7!3m6!1s0x48776725bef01599:0x2cc101dc3c555895!8m2!3d52.5842402!4d-1.1234825!16s%2Fg%2F11gfhyxzkd!19sChIJmRXwviVnd0gRlVhVPNwBwSw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 416,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.58424,
+    "lng": -1.123482,
+    "found_in_location": "Wigston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Mr Van Coventry - Removals / Man & Van Service",
-    "address": "{\"borough\":\"\",\"street\":\"45 Fir Tree Ave\",\"city\":\"Coventry\",\"postal_code\":\"CV4 9FR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "45 Fir Tree Ave, Coventry, CV4 9FR, GB",
     "phone": "07848 881724",
     "international_phone": "07848 881724",
     "website": "https://www.manandvan-coventry.co.uk/",
@@ -30,12 +64,12 @@
     "types": "Removals Service",
     "lat": 52.40739,
     "lng": -1.570364,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Leicester Man & Van Removal",
-    "address": "{\"borough\":\"\",\"street\":\"Robertsbridge Ave\",\"city\":\"Leicester\",\"postal_code\":\"LE4 2FZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Robertsbridge Ave, Leicester, LE4 2FZ, GB",
     "phone": "07754 405283",
     "international_phone": "07754 405283",
     "website": "",
@@ -47,12 +81,12 @@
     "types": "Removals Service",
     "lat": 52.659411,
     "lng": -1.141482,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Shaw's Removals",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV12 5YX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wolverhampton, WV12 5YX, GB",
     "phone": "07968 824147",
     "international_phone": "07968 824147",
     "website": "http://www.shawsremovals.co.uk/",
@@ -64,12 +98,12 @@
     "types": "Removals company",
     "lat": 52.614568,
     "lng": -2.050983,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Student Moving Services|House Move|Storage|Man With Van|Coventry",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 8, 118-132 Red Ln\",\"city\":\"Coventry\",\"postal_code\":\"CV6 5EQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 8, 118-132 Red Ln, Coventry, CV6 5EQ, GB",
     "phone": "07753 457795",
     "international_phone": "07753 457795",
     "website": "http://www.studentmoves.co/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1280401698621584262",
@@ -81,12 +115,12 @@
     "types": "Removals Service",
     "lat": 52.420852,
     "lng": -1.491408,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Mr T's Removals / TEAM T",
-    "address": "{\"borough\":\"Cobridge\",\"street\":\"Unit 4, Progress Foundry, Leek New Rd\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST6 2AS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, Progress Foundry, Leek New Rd, Cobridge, Stoke-on-Trent, ST6 2AS, GB",
     "phone": "07789 267515",
     "international_phone": "07789 267515",
     "website": "http://www.mrtsremovals.co.uk/?utm_source=google&utm_medium=local&utm_campaign=gmb",
@@ -98,12 +132,12 @@
     "types": "Removals company",
     "lat": 53.038912,
     "lng": -2.184186,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "BGP Removals Birmingham - Office, Commercial, Residential",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 30 Bilport Ln\",\"city\":\"Wednesbury\",\"postal_code\":\"WS10 0NT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 30 Bilport Ln, Wednesbury, WS10 0NT, GB",
     "phone": "0121 567 5539",
     "international_phone": "0121 567 5539",
     "website": "http://www.bgpremovals.co.uk/",
@@ -115,12 +149,12 @@
     "types": "Removals Service",
     "lat": 52.543305,
     "lng": -2.022083,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wednesbury",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Tee's Removals Limited",
-    "address": "{\"borough\":\"Colwick, Netherfield\",\"street\":\"Unit 19, Armitage Business Park, Private Road No. 3\",\"city\":\"Nottingham\",\"postal_code\":\"NG4 2TB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 19, Armitage Business Park, Private Road No. 3, Colwick, Netherfield, Nottingham, NG4 2TB, GB",
     "phone": "0115 646 3424",
     "international_phone": "0115 646 3424",
     "website": "https://www.teesremovals.co.uk/",
@@ -132,12 +166,12 @@
     "types": "Removals company",
     "lat": 52.957463,
     "lng": -1.072857,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "BORIS REMOVALS LTD",
-    "address": "{\"borough\":\"\",\"street\":\"4 Tithby Dr\",\"city\":\"Nottingham\",\"postal_code\":\"NG5 3FF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Tithby Dr, Nottingham, NG5 3FF, GB",
     "phone": "07969 307128",
     "international_phone": "07969 307128",
     "website": "http://www.borisremovals.co.uk/",
@@ -149,12 +183,12 @@
     "types": "Removals Service",
     "lat": 52.988515,
     "lng": -1.141471,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Your Moving - Removals Leicester",
-    "address": "{\"borough\":\"\",\"street\":\"Unit S301U, 90 Sanvey Gate\",\"city\":\"Leicester\",\"postal_code\":\"LE1 4BQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit S301U, 90 Sanvey Gate, Leicester, LE1 4BQ, GB",
     "phone": "0116 408 0125",
     "international_phone": "0116 408 0125",
     "website": "http://yourmoving.co.uk/",
@@ -166,12 +200,12 @@
     "types": "Removals company",
     "lat": 52.639301,
     "lng": -1.14041,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A&G House Clearance",
-    "address": "{\"borough\":\"Alvaston\",\"street\":\"32 Mondello Dr\",\"city\":\"Derby\",\"postal_code\":\"DE24 0SN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32 Mondello Dr, Alvaston, Derby, DE24 0SN, GB",
     "phone": "07711 090133",
     "international_phone": "07711 090133",
     "website": "http://www.aandghouseclearance.co.uk/",
@@ -183,12 +217,12 @@
     "types": "House clearance service",
     "lat": 52.889924,
     "lng": -1.416726,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "The Best Rubbish Removal Leicester",
-    "address": "{\"borough\":\"\",\"street\":\"57 Severn St\",\"city\":\"Leicester\",\"postal_code\":\"LE2 1BA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "57 Severn St, Leicester, LE2 1BA, GB",
     "phone": "0116 403 0063",
     "international_phone": "0116 403 0063",
     "website": "https://www.rubbishremovalleicester.co.uk/",
@@ -200,12 +234,12 @@
     "types": "Waste Collection Service",
     "lat": 52.62887,
     "lng": -1.116323,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Jonills Removals & Storage",
-    "address": "{\"borough\":\"Sherwood\",\"street\":\"10 Poplar Ave\",\"city\":\"Nottingham\",\"postal_code\":\"NG5 1DJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Poplar Ave, Sherwood, Nottingham, NG5 1DJ, GB",
     "phone": "07860 493822",
     "international_phone": "07860 493822",
     "website": "http://www.jonills-removals.co.uk/",
@@ -217,12 +251,12 @@
     "types": "Removals Service",
     "lat": 52.977243,
     "lng": -1.161272,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Green4Logistics",
-    "address": "{\"borough\":\"Blythe Bridge\",\"street\":\"10 Midway Dr\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST11 9JY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "10 Midway Dr, Blythe Bridge, Stoke-on-Trent, ST11 9JY, GB",
     "phone": "0800 093 3390",
     "international_phone": "0800 093 3390",
     "website": "https://green4logistics.co.uk/",
@@ -234,12 +268,12 @@
     "types": "Removals company",
     "lat": 52.966088,
     "lng": -2.070401,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "The House Removal Company",
-    "address": "{\"borough\":\"\",\"street\":\"Wollaton St\",\"city\":\"Nottingham\",\"postal_code\":\"NG1 5FW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wollaton St, Nottingham, NG1 5FW, GB",
     "phone": "0115 888 0788",
     "international_phone": "0115 888 0788",
     "website": "https://www.thehouseremovalcompany.co.uk/",
@@ -251,12 +285,12 @@
     "types": "Removals Service",
     "lat": 52.955512,
     "lng": -1.157639,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Meadway Clearance Services",
-    "address": "{\"borough\":\"\",\"street\":\"297 Meadway, Garretts Green Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B33 8NP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "297 Meadway, Garretts Green Ln, Birmingham, B33 8NP, GB",
     "phone": "0121 604 4157",
     "international_phone": "0121 604 4157",
     "website": "http://www.meadwaycs.co.uk/",
@@ -268,12 +302,12 @@
     "types": "House clearance service",
     "lat": 52.477837,
     "lng": -1.782829,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Lincs Man With a Van Ltd",
-    "address": "{\"borough\":\"North Hykeham\",\"street\":\"Unit 1a, Westminster Industrial Estate, Station Rd\",\"city\":\"Lincoln\",\"postal_code\":\"LN6 3QY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1a, Westminster Industrial Estate, Station Rd, North Hykeham, Lincoln, LN6 3QY, GB",
     "phone": "01522 413965",
     "international_phone": "01522 413965",
     "website": "https://www.lincsmanwithavan.co.uk/",
@@ -285,12 +319,12 @@
     "types": "Removals company",
     "lat": 53.198715,
     "lng": -0.597504,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "HIH Removals",
-    "address": "{\"borough\":\"\",\"street\":\"103 The Riddings\",\"city\":\"Birmingham\",\"postal_code\":\"B33 9DG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "103 The Riddings, Birmingham, B33 9DG, GB",
     "phone": "07742 238121",
     "international_phone": "07742 238121",
     "website": "https://hih-removals.co.uk/",
@@ -302,12 +336,12 @@
     "types": "Removals Service",
     "lat": 52.489178,
     "lng": -1.803725,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Waters Removals & Storage",
-    "address": "{\"borough\":\"Ellenhall\",\"street\":\"Unit 4, Grange Farm\",\"city\":\"Stafford\",\"postal_code\":\"ST21 6PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, Grange Farm, Ellenhall, Stafford, ST21 6PA, GB",
     "phone": "01785 291772",
     "international_phone": "01785 291772",
     "website": "https://www.watersremovals.com/",
@@ -319,12 +353,12 @@
     "types": "Removals Service",
     "lat": 52.832168,
     "lng": -2.232809,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "ASP Transport & Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"8 Brook View\",\"city\":\"Northampton\",\"postal_code\":\"NN4 5DR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Brook View, Northampton, NN4 5DR, GB",
     "phone": "07701 367549",
     "international_phone": "07701 367549",
     "website": "https://www.aspremovalsandstorage.co.uk/",
@@ -336,12 +370,12 @@
     "types": "Removals company",
     "lat": 52.190209,
     "lng": -0.884034,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "J & N Waste Removal",
-    "address": "{\"borough\":\"\",\"street\":\"146 Wain Dr\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST4 5LZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "146 Wain Dr, Stoke-on-Trent, ST4 5LZ, GB",
     "phone": "07464 755579",
     "international_phone": "07464 755579",
     "website": "https://jandnrubbishremovals.co.uk/rubbish-removal/",
@@ -353,12 +387,12 @@
     "types": "Waste-Management Service",
     "lat": 52.999227,
     "lng": -2.20547,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Vantazia Removals Stoke-on-Trent",
-    "address": "{\"borough\":\"Talke\",\"street\":\"39 Mitchell Ave\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST7 1JR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "39 Mitchell Ave, Talke, Stoke-on-Trent, ST7 1JR, GB",
     "phone": "07941 358904",
     "international_phone": "07941 358904",
     "website": "http://www.vantazia.co.uk/",
@@ -370,12 +404,12 @@
     "types": "Removals company",
     "lat": 53.082928,
     "lng": -2.2557,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Removall",
-    "address": "{\"borough\":\"Longford\",\"street\":\"Cargill Cl\",\"city\":\"Coventry\",\"postal_code\":\"CV6 6AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Cargill Cl, Longford, Coventry, CV6 6AJ, GB",
     "phone": "07756 266963",
     "international_phone": "07756 266963",
     "website": "https://www.removall.co.uk/",
@@ -387,12 +421,12 @@
     "types": "Removals company",
     "lat": 52.453804,
     "lng": -1.491831,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alexander Removals Nottingham",
-    "address": "{\"borough\":\"\",\"street\":\"Marco Island, 1 Brook St\",\"city\":\"Nottingham\",\"postal_code\":\"NG1 1AR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Marco Island, 1 Brook St, Nottingham, NG1 1AR, GB",
     "phone": "0115 775 1786",
     "international_phone": "0115 775 1786",
     "website": "https://alexanderremovals.co.uk/nottingham/",
@@ -404,12 +438,12 @@
     "types": "Removals company",
     "lat": 52.95575,
     "lng": -1.142143,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Its In Transit Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"18 Kingsway\",\"city\":\"Lincoln\",\"postal_code\":\"LN5 8EU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18 Kingsway, Lincoln, LN5 8EU, GB",
     "phone": "01522 244155",
     "international_phone": "01522 244155",
     "website": "http://www.its-in-transit.co.uk/",
@@ -421,12 +455,12 @@
     "types": "Removals company",
     "lat": 53.219565,
     "lng": -0.535213,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "REMOVALS-BIRMINGHAM",
-    "address": "{\"borough\":\"\",\"street\":\"Office, Izabella House, Removals, 24-26 Regent Pl\",\"city\":\"Birmingham\",\"postal_code\":\"B1 3NJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office, Izabella House, Removals, 24-26 Regent Pl, Birmingham, B1 3NJ, GB",
     "phone": "07491 111518",
     "international_phone": "07491 111518",
     "website": "http://www.removals-birmingham.co.uk/",
@@ -438,12 +472,12 @@
     "types": "Removals company",
     "lat": 52.485993,
     "lng": -1.910142,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bradley Yeomans Removals",
-    "address": "{\"borough\":\"\",\"street\":\"2 Hill Brow, Forester St\",\"city\":\"Derby\",\"postal_code\":\"DE1 1PQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Hill Brow, Forester St, Derby, DE1 1PQ, GB",
     "phone": "01332 589369",
     "international_phone": "01332 589369",
     "website": "http://www.bradley-yeomans-removals.co.uk/",
@@ -455,12 +489,12 @@
     "types": "Removals company",
     "lat": 52.918271,
     "lng": -1.478986,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "BRM Removals Limited",
-    "address": "{\"borough\":\"Wolverhampton, Willenhall\",\"street\":\"Lucknow Rd\",\"city\":\"Willenhall\",\"postal_code\":\"WV12 4QA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lucknow Rd, Wolverhampton, Willenhall, Willenhall, WV12 4QA, GB",
     "phone": "01902 200788",
     "international_phone": "01902 200788",
     "website": "http://www.brmremovals.com/",
@@ -472,12 +506,12 @@
     "types": "Removals Service",
     "lat": 52.59865,
     "lng": -2.047633,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Willenhall",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Stafford Removals Ltd",
-    "address": "{\"borough\":\"Gnosall\",\"street\":\"18 Middlefield\",\"city\":\"Stafford\",\"postal_code\":\"ST20 0LS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18 Middlefield, Gnosall, Stafford, ST20 0LS, GB",
     "phone": "01785 823878",
     "international_phone": "01785 823878",
     "website": "http://www.staffordremovals.com/",
@@ -489,12 +523,12 @@
     "types": "Removals Service",
     "lat": 52.786665,
     "lng": -2.247812,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Holdem Removals",
-    "address": "{\"borough\":\"\",\"street\":\"58 Bunting Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN2 6EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "58 Bunting Rd, Northampton, NN2 6EE, GB",
     "phone": "01604 372373",
     "international_phone": "01604 372373",
     "website": "https://holdemremovals.co.uk/",
@@ -506,12 +540,12 @@
     "types": "Removals Service",
     "lat": 52.251198,
     "lng": -0.894386,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Pro Move Relocation Ltd",
-    "address": "{\"borough\":\"Brixworth\",\"street\":\"25 Stonehill Way\",\"city\":\"Northampton\",\"postal_code\":\"NN6 9LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 Stonehill Way, Brixworth, Northampton, NN6 9LW, GB",
     "phone": "01604 881648",
     "international_phone": "01604 881648",
     "website": "https://www.pro-moverelocation.co.uk/",
@@ -523,12 +557,12 @@
     "types": "Removals company",
     "lat": 52.322608,
     "lng": -0.904995,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "UKmovers storage and shipping",
-    "address": "{\"borough\":\"\",\"street\":\"Kenilworth Rd\",\"city\":\"Solihull\",\"postal_code\":\"B92 0LW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Kenilworth Rd, Solihull, B92 0LW, GB",
     "phone": "07847 204420",
     "international_phone": "07847 204420",
     "website": "http://www.uk-movers.com/",
@@ -540,12 +574,12 @@
     "types": "Removals Service",
     "lat": 52.380686,
     "lng": -1.540435,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Solihull",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Complete Move Solutions",
-    "address": "{\"borough\":\"Great Houghton\",\"street\":\"Lodge Farm\",\"city\":\"Northampton\",\"postal_code\":\"NN4 0AN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Lodge Farm, Great Houghton, Northampton, NN4 0AN, GB",
     "phone": "07982 926084",
     "international_phone": "07982 926084",
     "website": "https://www.completemoveltd.co.uk/",
@@ -557,12 +591,12 @@
     "types": "Removals company",
     "lat": 52.208869,
     "lng": -0.830288,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Safe Hands Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"12 Irwin Dr\",\"city\":\"Nottingham\",\"postal_code\":\"NG6 7BB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Irwin Dr, Nottingham, NG6 7BB, GB",
     "phone": "07557 954914",
     "international_phone": "07557 954914",
     "website": "http://www.safehandsremovalsnottingham.co.uk/",
@@ -574,12 +608,12 @@
     "types": "Removals company",
     "lat": 52.994747,
     "lng": -1.212541,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MAN AND VAN",
-    "address": "{\"borough\":\"Leicester\",\"street\":\"9 Kelbrook Cl\",\"city\":\"Leicester\",\"postal_code\":\"LE4 0US\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Kelbrook Cl, Leicester, Leicester, LE4 0US, GB",
     "phone": "07885 383125",
     "international_phone": "07885 383125",
     "website": "",
@@ -591,12 +625,12 @@
     "types": "Removals Service",
     "lat": 52.664718,
     "lng": -1.157212,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Getting Rid Rubbish Removals",
-    "address": "{\"borough\":\"Hanley\",\"street\":\"83 Upper Hillchurch St\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST1 2HQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "83 Upper Hillchurch St, Hanley, Stoke-on-Trent, ST1 2HQ, GB",
     "phone": "07918 855147",
     "international_phone": "07918 855147",
     "website": "http://www.gettingridrubbishremovals.co.uk/",
@@ -608,12 +642,12 @@
     "types": "Waste Collection Service",
     "lat": 53.028778,
     "lng": -2.171023,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "House to Home Removals Of Derby",
-    "address": "{\"borough\":\"\",\"street\":\"8 Hansard Gate\",\"city\":\"Derby\",\"postal_code\":\"DE21 6AR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Hansard Gate, Derby, DE21 6AR, GB",
     "phone": "01332 672077",
     "international_phone": "01332 672077",
     "website": "http://www.housetohomeremovals.co.uk/",
@@ -625,12 +659,12 @@
     "types": "Removals company",
     "lat": 52.923578,
     "lng": -1.464024,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Wilstones House Clearances & Removals Services",
-    "address": "{\"borough\":\"\",\"street\":\"House Clearances \\u0026 Removals, Wilstones, 194a Narborough Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE3 0DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "House Clearances & Removals, Wilstones, 194a Narborough Rd, Leicester, LE3 0DL, GB",
     "phone": "0116 507 9385",
     "international_phone": "0116 507 9385",
     "website": "https://wilstones.co.uk/",
@@ -642,12 +676,12 @@
     "types": "House clearance service",
     "lat": 52.623919,
     "lng": -1.153153,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Djunk Stoke - Rubbish Removal",
-    "address": "{\"borough\":\"Stoke-on-Trent, Newcastle-under-Lyme\",\"street\":\"63a Lower St\",\"city\":\"Newcastle\",\"postal_code\":\"ST5 2RS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "63a Lower St, Stoke-on-Trent, Newcastle-under-Lyme, Newcastle, ST5 2RS, GB",
     "phone": "01782 228877",
     "international_phone": "01782 228877",
     "website": "https://stoke.djunk.co.uk/",
@@ -659,12 +693,12 @@
     "types": "Waste-Management Service",
     "lat": 53.010841,
     "lng": -2.230845,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Newcastle",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Derby Waste Removal LTD",
-    "address": "{\"borough\":\"\",\"street\":\"8C, Sir Francis, Ley Industrial Park\",\"city\":\"Derby\",\"postal_code\":\"DE23 8XA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8C, Sir Francis, Ley Industrial Park, Derby, DE23 8XA, GB",
     "phone": "07471 233777",
     "international_phone": "07471 233777",
     "website": "https://www.derbywasteremoval.com/",
@@ -676,12 +710,12 @@
     "types": "Waste-Management Service",
     "lat": 52.905867,
     "lng": -1.466144,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A Gentleman and a Van Removals",
-    "address": "{\"borough\":\"Whitley\",\"street\":\"46 Bankside Cl\",\"city\":\"Coventry\",\"postal_code\":\"CV3 4GD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "46 Bankside Cl, Whitley, Coventry, CV3 4GD, GB",
     "phone": "07816 213891",
     "international_phone": "07816 213891",
     "website": "https://www.a-gentleman-and-a-van-removals.com/",
@@ -693,12 +727,12 @@
     "types": "Removals company",
     "lat": 52.389412,
     "lng": -1.487194,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Cov Logistics | Storage | Removals | Man & Van | Courier Service | Coventry",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 8, 118-132 Red Ln\",\"city\":\"Coventry\",\"postal_code\":\"CV6 5EQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 8, 118-132 Red Ln, Coventry, CV6 5EQ, GB",
     "phone": "024 7767 6865",
     "international_phone": "024 7767 6865",
     "website": "http://www.covlogistics.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6275595565066556930",
@@ -710,12 +744,12 @@
     "types": "Courier service",
     "lat": 52.420852,
     "lng": -1.491408,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "City Removals East Midlands Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"25 Newfield Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG5 1HF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 Newfield Rd, Nottingham, NG5 1HF, GB",
     "phone": "07546 493255",
     "international_phone": "07546 493255",
     "website": "https://cityremovalseastmidlands.co.uk/",
@@ -727,12 +761,29 @@
     "types": "Removals company",
     "lat": 52.984425,
     "lng": -1.167372,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Moves4All Removals",
+    "address": "Halfmoon House, Bilborough Road, Trowell, Nottingahm, NG8 4DR, GB",
+    "phone": "0115 775 6757",
+    "international_phone": "0115 775 6757",
+    "website": "https://moves4all-removals-nottingham.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Moves4All+Removals/data=!4m7!3m6!1s0x4879ea2eac40e18f:0x3c62fd541747d78d!8m2!3d52.959081!4d-1.244038!16s%2Fg%2F11dd_ph1bz!19sChIJj-FArC7qeUgRjddHF1T9Yjw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 96,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"6\u202fam\u20138\u202fpm\"],\"Monday\":[\"6\u202fam\u20138\u202fpm\"],\"Saturday\":[\"6\u202fam\u20136\u202fpm\"],\"Sunday\":[\"6\u202fam\u20136\u202fpm\"],\"Thursday\":[\"6\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20138\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.959081,
+    "lng": -1.244038,
+    "found_in_location": "Nottingahm",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Notts Movers",
-    "address": "{\"borough\":\"Wollaton\",\"street\":\"81 Russell Dr\",\"city\":\"Nottingham\",\"postal_code\":\"NG8 2BA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "81 Russell Dr, Wollaton, Nottingham, NG8 2BA, GB",
     "phone": "07891 635795",
     "international_phone": "07891 635795",
     "website": "https://www.nottsmovers.co.uk/",
@@ -744,12 +795,12 @@
     "types": "Removals company",
     "lat": 52.95489,
     "lng": -1.217429,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "McCrorys Removals Ltd",
-    "address": "{\"borough\":\"Gedling\",\"street\":\"12 Carnarvon Grove\",\"city\":\"Nottingham\",\"postal_code\":\"NG4 3HF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Carnarvon Grove, Gedling, Nottingham, NG4 3HF, GB",
     "phone": "0800 542 6093",
     "international_phone": "0800 542 6093",
     "website": "http://www.mccrorys.co.uk/",
@@ -761,12 +812,12 @@
     "types": "Removals company",
     "lat": 52.975168,
     "lng": -1.079282,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "KIM Logistics & Removals",
-    "address": "{\"borough\":\"\",\"street\":\"40 Barker's Butts Ln\",\"city\":\"Coventry\",\"postal_code\":\"CV6 1DT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "40 Barker's Butts Ln, Coventry, CV6 1DT, GB",
     "phone": "024 7736 0236",
     "international_phone": "024 7736 0236",
     "website": "http://www.kimlogistics.co.uk/",
@@ -778,12 +829,12 @@
     "types": "Removals company",
     "lat": 52.415612,
     "lng": -1.524366,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Metcalf & Lee Removals (formerly David C Metcalf Removals)",
-    "address": "{\"borough\":\"Keyworth\",\"street\":\"1 Lowlands Dr\",\"city\":\"Nottingham\",\"postal_code\":\"NG12 5HG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Lowlands Dr, Keyworth, Nottingham, NG12 5HG, GB",
     "phone": "07966 369686",
     "international_phone": "07966 369686",
     "website": "https://www.metcalfremovals.com/",
@@ -795,12 +846,12 @@
     "types": "Removals Service",
     "lat": 52.879723,
     "lng": -1.082922,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "LDE Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 22 Cyan Cl\",\"city\":\"Nottingham\",\"postal_code\":\"NG14 5JX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 22 Cyan Cl, Nottingham, NG14 5JX, GB",
     "phone": "",
     "international_phone": "",
     "website": "http://www.lderemovals.co.uk/",
@@ -812,12 +863,12 @@
     "types": "Removals company",
     "lat": 52.968426,
     "lng": -1.060916,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Military Movers UK",
-    "address": "{\"borough\":\"\",\"street\":\"47 The Riddings\",\"city\":\"Coventry\",\"postal_code\":\"CV5 6AT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "47 The Riddings, Coventry, CV5 6AT, GB",
     "phone": "07568 752330",
     "international_phone": "07568 752330",
     "website": "https://www.militarymoversuk.com/",
@@ -829,12 +880,12 @@
     "types": "Removals company",
     "lat": 52.393428,
     "lng": -1.545934,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MFS Solutions",
-    "address": "{\"borough\":\"\",\"street\":\"27 Kendal Rise\",\"city\":\"Coventry\",\"postal_code\":\"CV5 9JZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "27 Kendal Rise, Coventry, CV5 9JZ, GB",
     "phone": "07511 308025",
     "international_phone": "07511 308025",
     "website": "https://www.mfssolutions.co.uk/",
@@ -846,12 +897,12 @@
     "types": "Removals company",
     "lat": 52.414088,
     "lng": -1.556187,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Removals Birmingham Limited",
-    "address": "{\"borough\":\"Birmingham, Smethwick\",\"street\":\"Office A, 78 High St\",\"city\":\"Smethwick\",\"postal_code\":\"B66 3AD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office A, 78 High St, Birmingham, Smethwick, Smethwick, B66 3AD, GB",
     "phone": "0121 238 0651",
     "international_phone": "0121 238 0651",
     "website": "https://www.iremovalsbirmingham.co.uk/",
@@ -863,12 +914,12 @@
     "types": "Removals company",
     "lat": 52.497501,
     "lng": -1.974206,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Smethwick",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man and van Leicester removal",
-    "address": "{\"borough\":\"\",\"street\":\"35 Elmdale St.\",\"city\":\"Leicester\",\"postal_code\":\"LE4 5JB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "35 Elmdale St., Leicester, LE4 5JB, GB",
     "phone": "07746 068222",
     "international_phone": "07746 068222",
     "website": "",
@@ -880,12 +931,12 @@
     "types": "Removals Service",
     "lat": 52.657192,
     "lng": -1.124289,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Sixtowns Waste Ltd",
-    "address": "{\"borough\":\"Barlaston\",\"street\":\"6a Lakewood Dr\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST12 9BH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6a Lakewood Dr, Barlaston, Stoke-on-Trent, ST12 9BH, GB",
     "phone": "01782 438993",
     "international_phone": "01782 438993",
     "website": "http://www.sixtownswaste.co.uk/",
@@ -897,12 +948,12 @@
     "types": "Waste-Management Service",
     "lat": 52.954389,
     "lng": -2.160722,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "DW Removals of Derby",
-    "address": "{\"borough\":\"Allestree\",\"street\":\"101 Blenheim Dr\",\"city\":\"Derby\",\"postal_code\":\"DE22 2LF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "101 Blenheim Dr, Allestree, Derby, DE22 2LF, GB",
     "phone": "01332 809019",
     "international_phone": "01332 809019",
     "website": "https://www.dwremoval.co.uk/",
@@ -914,12 +965,12 @@
     "types": "Removals company",
     "lat": 52.9511,
     "lng": -1.503273,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "PRESTIGE HOUSE REMOVALS LTD",
-    "address": "{\"borough\":\"\",\"street\":\"14 Hilders Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE3 6HD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Hilders Rd, Leicester, LE3 6HD, GB",
     "phone": "0330 043 4683",
     "international_phone": "0330 043 4683",
     "website": "http://www.prestigehouseremovals.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=517291683922464054",
@@ -931,12 +982,12 @@
     "types": "Removals company",
     "lat": 52.638184,
     "lng": -1.168483,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Location Removals Ltd | Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 4, Diamond Business Park, Diamond Way\",\"city\":\"Stone\",\"postal_code\":\"ST15 0SE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, Diamond Business Park, Diamond Way, Stone, ST15 0SE, GB",
     "phone": "01785 526023",
     "international_phone": "01785 526023",
     "website": "http://locationremovals.co.uk/",
@@ -948,12 +999,12 @@
     "types": "Removals company",
     "lat": 52.887453,
     "lng": -2.140578,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stone",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Need a Hand Movers & Storage",
-    "address": "{\"borough\":\"Dresden\",\"street\":\"Linden House, 95b Trentham Rd\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST3 4EG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Linden House, 95b Trentham Rd, Dresden, Stoke-on-Trent, ST3 4EG, GB",
     "phone": "07950 624935",
     "international_phone": "07950 624935",
     "website": "https://www.needahandmovers.com/",
@@ -965,12 +1016,12 @@
     "types": "Removals company",
     "lat": 52.979236,
     "lng": -2.136658,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Allen Family Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Shepherds Green Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B24, UK\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Shepherds Green Rd, Birmingham, B24, UK, GB",
     "phone": "07990 682840",
     "international_phone": "07990 682840",
     "website": "https://www.allenfamilyremovals.com/?utm_source=yell&utm_medium=refferal&utm_campaign=yell",
@@ -982,12 +1033,12 @@
     "types": "Removals company",
     "lat": 52.512202,
     "lng": -1.844415,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Northants Clearance & Rubbish Removals",
-    "address": "{\"borough\":\"Milton Malsor\",\"street\":\"26 Green St\",\"city\":\"Northampton\",\"postal_code\":\"NN7 3AT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "26 Green St, Milton Malsor, Northampton, NN7 3AT, GB",
     "phone": "07557 961267",
     "international_phone": "07557 961267",
     "website": "https://rubbishremovals.vzy.io/",
@@ -999,12 +1050,12 @@
     "types": "Waste-Management Service",
     "lat": 52.193655,
     "lng": -0.925841,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man With Van (K1) Removals in Birmingham",
-    "address": "{\"borough\":\"\",\"street\":\"flat 1a, 7 High St\",\"city\":\"West Bromwich\",\"postal_code\":\"B70 6PP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "flat 1a, 7 High St, West Bromwich, B70 6PP, GB",
     "phone": "07564 667474",
     "international_phone": "07564 667474",
     "website": "",
@@ -1016,12 +1067,12 @@
     "types": "Removals company",
     "lat": 52.51297,
     "lng": -1.983855,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "West Bromwich",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A. D. Keebles Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"106 Addison Rd\",\"city\":\"Coventry\",\"postal_code\":\"CV6 2JN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "106 Addison Rd, Coventry, CV6 2JN, GB",
     "phone": "024 7633 2889",
     "international_phone": "024 7633 2889",
     "website": "http://www.keeblesremovals.co.uk/",
@@ -1033,12 +1084,29 @@
     "types": "Removals Service",
     "lat": 52.432859,
     "lng": -1.530244,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Reemove Ltd",
+    "address": "Brindley Cl, Rushden, NN10 6EN, GB",
+    "phone": "01908 755655",
+    "international_phone": "01908 755655",
+    "website": "https://reemove.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Reemove+Ltd/data=!4m7!3m6!1s0x4877a391019602a1:0x421d93551ddc65cb!8m2!3d52.3004655!4d-0.613017!16s%2Fg%2F11ghltvyvc!19sChIJoQKWAZGjd0gRy2XcHVWTHUI?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 61,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.300465,
+    "lng": -0.613017,
+    "found_in_location": "Rushden",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Your Man With A Van",
-    "address": "{\"borough\":\"\",\"street\":\"40 Windmill St\",\"city\":\"Birmingham\",\"postal_code\":\"B1 1GA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "40 Windmill St, Birmingham, B1 1GA, GB",
     "phone": "0121 405 1930",
     "international_phone": "0121 405 1930",
     "website": "https://yourmanwithavan.com/birmingham-south/",
@@ -1050,12 +1118,12 @@
     "types": "Removals Service",
     "lat": 52.473293,
     "lng": -1.902241,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bobby's Removals",
-    "address": "{\"borough\":\"\",\"street\":\"181 Winchester Ave\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST2 0LL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "181 Winchester Ave, Stoke-on-Trent, ST2 0LL, GB",
     "phone": "07873 444208",
     "international_phone": "07873 444208",
     "website": "http://www.bobbysremovals.co.uk/",
@@ -1067,12 +1135,12 @@
     "types": "Removals company",
     "lat": 53.013612,
     "lng": -2.126147,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bryan Stevens Removals Ltd",
-    "address": "{\"borough\":\"Binley\",\"street\":\"37 Alex Grierson Cl\",\"city\":\"Coventry\",\"postal_code\":\"CV3 2QJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "37 Alex Grierson Cl, Binley, Coventry, CV3 2QJ, GB",
     "phone": "024 7665 9955",
     "international_phone": "024 7665 9955",
     "website": "https://www.bryanstevensremovals.co.uk/",
@@ -1084,12 +1152,12 @@
     "types": "Removals company",
     "lat": 52.391469,
     "lng": -1.455165,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Crestline Group - Transport, Removals & Property Services",
-    "address": "{\"borough\":\"Leicester\",\"street\":\"Rainsford Cres\",\"city\":\"Leicester\",\"postal_code\":\"LE4 2EW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Rainsford Cres, Leicester, Leicester, LE4 2EW, GB",
     "phone": "07715 815132",
     "international_phone": "07715 815132",
     "website": "https://www.crestline-group-transport-removals.co.uk/",
@@ -1101,12 +1169,12 @@
     "types": "Removals company",
     "lat": 52.661167,
     "lng": -1.139179,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man with van Coventry",
-    "address": "{\"borough\":\"Longford\",\"street\":\"9 Cargill Cl\",\"city\":\"Coventry\",\"postal_code\":\"CV6 6AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "9 Cargill Cl, Longford, Coventry, CV6 6AJ, GB",
     "phone": "07756 266963",
     "international_phone": "07756 266963",
     "website": "http://www.manwithvancoventry.co.uk/",
@@ -1118,12 +1186,12 @@
     "types": "Removals Service",
     "lat": 52.453869,
     "lng": -1.491617,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "GLR House Removals",
-    "address": "{\"borough\":\"Lanesfield\",\"street\":\"Birmingham New Rd\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV4 6BP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Birmingham New Rd, Lanesfield, Wolverhampton, WV4 6BP, GB",
     "phone": "07752 554242",
     "international_phone": "07752 554242",
     "website": "https://www.glrremovals.co.uk/",
@@ -1135,12 +1203,12 @@
     "types": "Removals company",
     "lat": 52.560817,
     "lng": -2.111063,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man Van",
-    "address": "{\"borough\":\"\",\"street\":\"94 Obelisk Rise\",\"city\":\"Northampton\",\"postal_code\":\"NN2 8QU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "94 Obelisk Rise, Northampton, NN2 8QU, GB",
     "phone": "07905 240354",
     "international_phone": "07905 240354",
     "website": "https://www.manvan.co.uk/",
@@ -1152,12 +1220,12 @@
     "types": "Removals company",
     "lat": 52.27868,
     "lng": -0.892723,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "B.R Removals Derby",
-    "address": "{\"borough\":\"\",\"street\":\"4, Store First, Riverside Rd\",\"city\":\"Derby\",\"postal_code\":\"DE24 8HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4, Store First, Riverside Rd, Derby, DE24 8HY, GB",
     "phone": "01332 737100",
     "international_phone": "01332 737100",
     "website": "http://www.br-removals.co.uk/",
@@ -1169,12 +1237,12 @@
     "types": "Removals Service",
     "lat": 52.915293,
     "lng": -1.450716,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MPV Removals",
-    "address": "{\"borough\":\"\",\"street\":\"The Mills, Canal St\",\"city\":\"Derby\",\"postal_code\":\"DE1 2RJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "The Mills, Canal St, Derby, DE1 2RJ, GB",
     "phone": "07964 034262",
     "international_phone": "07964 034262",
     "website": "http://www.manplusvanderbynottingham.co.uk/",
@@ -1186,12 +1254,12 @@
     "types": "Removals company",
     "lat": 52.918047,
     "lng": -1.465645,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Reliable Removals Company",
-    "address": "{\"borough\":\"\",\"street\":\"20a-30 Abington St\",\"city\":\"Northampton\",\"postal_code\":\"NN1 2AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20a-30 Abington St, Northampton, NN1 2AJ, GB",
     "phone": "01604 600566",
     "international_phone": "01604 600566",
     "website": "http://reliableremovalsco.co.uk/",
@@ -1203,12 +1271,12 @@
     "types": "Removals company",
     "lat": 52.238353,
     "lng": -0.893775,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Quickhaul Man and a Van Services",
-    "address": "{\"borough\":\"\",\"street\":\"95 Stuart St\",\"city\":\"Leicester\",\"postal_code\":\"LE3 0DW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "95 Stuart St, Leicester, LE3 0DW, GB",
     "phone": "07377 096805",
     "international_phone": "07377 096805",
     "website": "https://quickhaulmanandavan.co.uk/",
@@ -1220,12 +1288,12 @@
     "types": "Removals Service",
     "lat": 52.623983,
     "lng": -1.149154,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "D & R House Clearance Specialists",
-    "address": "{\"borough\":\"Chaddesden\",\"street\":\"88 Cornwall Rd\",\"city\":\"Derby\",\"postal_code\":\"DE21 6DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "88 Cornwall Rd, Chaddesden, Derby, DE21 6DL, GB",
     "phone": "01332 723357",
     "international_phone": "01332 723357",
     "website": "http://www.drhouseclearance.co.uk/",
@@ -1237,12 +1305,12 @@
     "types": "House clearance service",
     "lat": 52.92823,
     "lng": -1.452392,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Central Removals & Storage Solihull Birmingham & West Midlands",
-    "address": "{\"borough\":\"\",\"street\":\"New Rd\",\"city\":\"Solihull\",\"postal_code\":\"B91 3DL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "New Rd, Solihull, B91 3DL, GB",
     "phone": "0800 233 5673",
     "international_phone": "0800 233 5673",
     "website": "https://www.centralremovals.co.uk/",
@@ -1254,12 +1322,12 @@
     "types": "Removals company",
     "lat": 52.411573,
     "lng": -1.773094,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Solihull",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Stoke On Trent Removals",
-    "address": "{\"borough\":\"Hanley\",\"street\":\"Unit 2, Off Black Horse Ln, Marsh St N\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST1 5HR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2, Off Black Horse Ln, Marsh St N, Hanley, Stoke-on-Trent, ST1 5HR, GB",
     "phone": "01782 479083",
     "international_phone": "01782 479083",
     "website": "https://stokeontrentremovals.co.uk/",
@@ -1271,12 +1339,12 @@
     "types": "Self storage facility",
     "lat": 53.0274,
     "lng": -2.179813,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Black cat removals",
-    "address": "{\"borough\":\"Crewton\",\"street\":\"150 Brighton Rd\",\"city\":\"Derby\",\"postal_code\":\"DE24 8TA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "150 Brighton Rd, Crewton, Derby, DE24 8TA, GB",
     "phone": "07478 374467",
     "international_phone": "07478 374467",
     "website": "http://blackcatremovals.co.uk/",
@@ -1288,12 +1356,12 @@
     "types": "Removals Service",
     "lat": 52.900042,
     "lng": -1.44163,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Leicester House Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"237 Narborough Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE3 2QR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "237 Narborough Rd, Leicester, LE3 2QR, GB",
     "phone": "0116 255 9140",
     "international_phone": "0116 255 9140",
     "website": "https://leicester-houseclearance.co.uk/",
@@ -1305,12 +1373,12 @@
     "types": "House clearance service",
     "lat": 52.622731,
     "lng": -1.155137,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Fast & Friendly Removals",
-    "address": "{\"borough\":\"Chellaston\",\"street\":\"7 Herald Grove\",\"city\":\"Derby\",\"postal_code\":\"DE73 5WE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "7 Herald Grove, Chellaston, Derby, DE73 5WE, GB",
     "phone": "01332 700991",
     "international_phone": "01332 700991",
     "website": "http://www.derbyremovals.co.uk/",
@@ -1322,12 +1390,12 @@
     "types": "Removals Service",
     "lat": 52.864721,
     "lng": -1.446346,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "D&D Removals Derby",
-    "address": "{\"borough\":\"\",\"street\":\"Princess Cl\",\"city\":\"Derby\",\"postal_code\":\"DE75 7TX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Princess Cl, Derby, DE75 7TX, GB",
     "phone": "07787 357316",
     "international_phone": "07787 357316",
     "website": "http://danddremovals-derby.co.uk/",
@@ -1339,12 +1407,12 @@
     "types": "Removals Service",
     "lat": 53.014284,
     "lng": -1.367483,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A2B Fast Removal",
-    "address": "{\"borough\":\"\",\"street\":\"12 Horton St\",\"city\":\"Derby\",\"postal_code\":\"DE23 8LN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Horton St, Derby, DE23 8LN, GB",
     "phone": "07453 187984",
     "international_phone": "07453 187984",
     "website": "https://a2bfastremoval.co.uk/",
@@ -1356,12 +1424,12 @@
     "types": "Removals company",
     "lat": 52.909188,
     "lng": -1.464351,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "SS Van and man",
-    "address": "{\"borough\":\"\",\"street\":\"Manor House Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B26 1PD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Manor House Ln, Birmingham, B26 1PD, GB",
     "phone": "07920 836962",
     "international_phone": "07920 836962",
     "website": "http://ssvanandman.com/",
@@ -1373,12 +1441,12 @@
     "types": "Transportation service",
     "lat": 52.461981,
     "lng": -1.801907,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "KC Removal Solutions of Derby",
-    "address": "{\"borough\":\"\",\"street\":\"Store First, Riverside Rd\",\"city\":\"Derby\",\"postal_code\":\"DE24 8HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Store First, Riverside Rd, Derby, DE24 8HY, GB",
     "phone": "01332 233581",
     "international_phone": "01332 233581",
     "website": "",
@@ -1390,12 +1458,12 @@
     "types": "Removals company",
     "lat": 52.915261,
     "lng": -1.450795,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "PK Removals",
-    "address": "{\"borough\":\"\",\"street\":\"12 Noel St\",\"city\":\"Leicester\",\"postal_code\":\"LE3 0DS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Noel St, Leicester, LE3 0DS, GB",
     "phone": "07717 875587",
     "international_phone": "07717 875587",
     "website": "",
@@ -1407,12 +1475,12 @@
     "types": "Removals company",
     "lat": 52.625186,
     "lng": -1.150653,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alexander Removals Stoke",
-    "address": "{\"borough\":\"Fenton\",\"street\":\"Royal Oak Hotel, 4 Temple St\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST4 4NW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Royal Oak Hotel, 4 Temple St, Fenton, Stoke-on-Trent, ST4 4NW, GB",
     "phone": "01782 944107",
     "international_phone": "01782 944107",
     "website": "https://alexanderremovals.co.uk/areas/stoke-on-trent/",
@@ -1424,12 +1492,12 @@
     "types": "Removals company",
     "lat": 52.999606,
     "lng": -2.166861,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Master Relocations Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"20, 30a Abington St\",\"city\":\"Northampton\",\"postal_code\":\"NN1 2AJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20, 30a Abington St, Northampton, NN1 2AJ, GB",
     "phone": "07497 374352",
     "international_phone": "07497 374352",
     "website": "https://master-relocations.com/",
@@ -1441,12 +1509,12 @@
     "types": "Removals company",
     "lat": 52.238011,
     "lng": -0.894245,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "H DILLON SERVICES",
-    "address": "{\"borough\":\"\",\"street\":\"538 Obelisk Rise\",\"city\":\"Northampton\",\"postal_code\":\"NN2 8SY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "538 Obelisk Rise, Northampton, NN2 8SY, GB",
     "phone": "07905 240354",
     "international_phone": "07905 240354",
     "website": "http://www.manandvanthatcan.co.uk/",
@@ -1458,12 +1526,12 @@
     "types": "Removals Service",
     "lat": 52.276438,
     "lng": -0.894595,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Kuda Waste Services",
-    "address": "{\"borough\":\"\",\"street\":\"Field St\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV10 0JL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Field St, Wolverhampton, WV10 0JL, GB",
     "phone": "07763 274725",
     "international_phone": "07763 274725",
     "website": "https://sites.google.com/view/kuda-waste-services/home",
@@ -1475,12 +1543,12 @@
     "types": "Waste-Management Service",
     "lat": 52.590368,
     "lng": -2.118219,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alexander Removals Wolverhampton",
-    "address": "{\"borough\":\"\",\"street\":\"24 Birch St\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV1 4HY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Birch St, Wolverhampton, WV1 4HY, GB",
     "phone": "01902 595156",
     "international_phone": "01902 595156",
     "website": "https://alexanderremovals.co.uk/areas/wolverhampton-removals/",
@@ -1492,12 +1560,12 @@
     "types": "Removals company",
     "lat": 52.58688,
     "lng": -2.133768,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Digian Transport Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"55 Castlecroft Rd\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV3 8BS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "55 Castlecroft Rd, Wolverhampton, WV3 8BS, GB",
     "phone": "01902 686433",
     "international_phone": "01902 686433",
     "website": "http://www.digianremovalsandstorage.co.uk/",
@@ -1509,12 +1577,12 @@
     "types": "Removals Service",
     "lat": 52.579095,
     "lng": -2.172088,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Pack and Go Removals Northampton",
-    "address": "{\"borough\":\"\",\"street\":\"2 Frosty Hollow\",\"city\":\"Northampton\",\"postal_code\":\"NN4 0SY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Frosty Hollow, Northampton, NN4 0SY, GB",
     "phone": "07928 932111",
     "international_phone": "07928 932111",
     "website": "http://www.packandgonorthampton.co.uk/",
@@ -1526,12 +1594,12 @@
     "types": "Removals company",
     "lat": 52.203508,
     "lng": -0.900969,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man With A Van - G D TRANSPORT",
-    "address": "{\"borough\":\"\",\"street\":\"1 Whateley Cres\",\"city\":\"Birmingham\",\"postal_code\":\"B36 0DN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Whateley Cres, Birmingham, B36 0DN, GB",
     "phone": "07712 159391",
     "international_phone": "07712 159391",
     "website": "",
@@ -1543,12 +1611,12 @@
     "types": "Removals Service",
     "lat": 52.504903,
     "lng": -1.770012,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Get Rapid Removals",
-    "address": "{\"borough\":\"\",\"street\":\"44 Warmley Cl\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV6 0XF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "44 Warmley Cl, Wolverhampton, WV6 0XF, GB",
     "phone": "07778 298447",
     "international_phone": "07778 298447",
     "website": "https://www.getrapidremovals.co.uk/",
@@ -1560,12 +1628,12 @@
     "types": "Removals Service",
     "lat": 52.598306,
     "lng": -2.139919,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alexander Removals Northampton",
-    "address": "{\"borough\":\"\",\"street\":\"28-34 Wellington St\",\"city\":\"Northampton\",\"postal_code\":\"NN1 3AS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "28-34 Wellington St, Northampton, NN1 3AS, GB",
     "phone": "01604 532302",
     "international_phone": "01604 532302",
     "website": "https://alexanderremovals.co.uk/areas/northampton-removals/",
@@ -1577,12 +1645,12 @@
     "types": "Removals company",
     "lat": 52.239703,
     "lng": -0.892726,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "KGB Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit G4 \\u0026 G6, K G House Kingsfield Way\",\"city\":\"Northampton\",\"postal_code\":\"NN5 7QS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit G4 & G6, K G House Kingsfield Way, Northampton, NN5 7QS, GB",
     "phone": "07711 926851",
     "international_phone": "07711 926851",
     "website": "http://www.kgbremovals.co.uk/",
@@ -1594,12 +1662,12 @@
     "types": "Delivery Company",
     "lat": 52.252451,
     "lng": -0.917661,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "UK Removals r us",
-    "address": "{\"borough\":\"Weston Coyney\",\"street\":\"Horton Dr\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST3 5HJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Horton Dr, Weston Coyney, Stoke-on-Trent, ST3 5HJ, GB",
     "phone": "07929 755174",
     "international_phone": "07929 755174",
     "website": "",
@@ -1611,12 +1679,12 @@
     "types": "Delivery Company",
     "lat": 52.994348,
     "lng": -2.100445,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Ptr Removals",
-    "address": "{\"borough\":\"Tunstall\",\"street\":\"418 High St\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST6\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "418 High St, Tunstall, Stoke-on-Trent, ST6, GB",
     "phone": "",
     "international_phone": "",
     "website": "",
@@ -1628,12 +1696,12 @@
     "types": "Delivery Company",
     "lat": 53.064778,
     "lng": -2.213327,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Van4Everyone",
-    "address": "{\"borough\":\"\",\"street\":\"12 Ivy Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN1 4QT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Ivy Rd, Northampton, NN1 4QT, GB",
     "phone": "07577 240354",
     "international_phone": "07577 240354",
     "website": "",
@@ -1645,12 +1713,12 @@
     "types": "Removals Service",
     "lat": 52.247665,
     "lng": -0.878479,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Quest Removals Of Stoke On Trent",
-    "address": "{\"borough\":\"Burslem\",\"street\":\"12 High Ln\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST6 8RU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 High Ln, Burslem, Stoke-on-Trent, ST6 8RU, GB",
     "phone": "01782 301092",
     "international_phone": "01782 301092",
     "website": "https://www.questremovalsofstoke.com/",
@@ -1662,12 +1730,12 @@
     "types": "Removals company",
     "lat": 53.049268,
     "lng": -2.180183,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Greenfrog Movers",
-    "address": "{\"borough\":\"\",\"street\":\"11 Canning Pl\",\"city\":\"Leicester\",\"postal_code\":\"LE1 3ER\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Canning Pl, Leicester, LE1 3ER, GB",
     "phone": "0116 218 1992",
     "international_phone": "0116 218 1992",
     "website": "https://www.greenfrogmovers.com/removals-leicester",
@@ -1679,12 +1747,12 @@
     "types": "Removals company",
     "lat": 52.641249,
     "lng": -1.134878,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Birmingham Removals - House Movers & Rubbish Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"11 St Paul's Square\",\"city\":\"Birmingham\",\"postal_code\":\"B3 1RB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 St Paul's Square, Birmingham, B3 1RB, GB",
     "phone": "07561 120818",
     "international_phone": "07561 120818",
     "website": "https://birminghamremovals.com/",
@@ -1696,12 +1764,12 @@
     "types": "Removals company",
     "lat": 52.485434,
     "lng": -1.904608,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Speedy man and van | House Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 1B, Euro Space Business Park\",\"city\":\"Birmingham\",\"postal_code\":\"B9 4TR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1B, Euro Space Business Park, Birmingham, B9 4TR, GB",
     "phone": "07864 887930",
     "international_phone": "07864 887930",
     "website": "http://speedymanandvan.co.uk/",
@@ -1713,12 +1781,12 @@
     "types": "Removals Service",
     "lat": 52.479035,
     "lng": -1.857844,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man And A Van Sutton Coldfield And Birmingham",
-    "address": "{\"borough\":\"\",\"street\":\"Flat 5, 21 Ludgate Hill\",\"city\":\"Birmingham\",\"postal_code\":\"B5 1DW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Flat 5, 21 Ludgate Hill, Birmingham, B5 1DW, GB",
     "phone": "0121 271 0142",
     "international_phone": "0121 271 0142",
     "website": "",
@@ -1730,12 +1798,12 @@
     "types": "Removals Service",
     "lat": 52.484513,
     "lng": -1.903871,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "H&V House Removals Experts",
-    "address": "{\"borough\":\"Spinney Hill\",\"street\":\"1 Mountfield Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN3 6BE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Mountfield Rd, Spinney Hill, Northampton, NN3 6BE, GB",
     "phone": "07440 056332",
     "international_phone": "07440 056332",
     "website": "https://m.facebook.com/handvremovals/",
@@ -1747,12 +1815,12 @@
     "types": "Removals Service",
     "lat": 52.262541,
     "lng": -0.870459,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "North Staffordshire Removals and Storage Limited",
-    "address": "{\"borough\":\"Cotes Heath\",\"street\":\"Moorfields Industrial Estate, 27 \\u0026 28, Newcastle Rd\",\"city\":\"Stafford\",\"postal_code\":\"ST21 6QY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Moorfields Industrial Estate, 27 & 28, Newcastle Rd, Cotes Heath, Stafford, ST21 6QY, GB",
     "phone": "01782 939124",
     "international_phone": "01782 939124",
     "website": "http://www.northstaffordshireremovals.co.uk/",
@@ -1764,12 +1832,12 @@
     "types": "Removals company",
     "lat": 52.917737,
     "lng": -2.241719,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A Walters & Sons",
-    "address": "{\"borough\":\"\",\"street\":\"4 Netherwood Ct\",\"city\":\"Derby\",\"postal_code\":\"DE22 2NU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Netherwood Ct, Derby, DE22 2NU, GB",
     "phone": "01332 558808",
     "international_phone": "01332 558808",
     "website": "http://www.awaltersandsons.com/",
@@ -1781,12 +1849,12 @@
     "types": "Removals Service",
     "lat": 52.947705,
     "lng": -1.507075,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Rubbish2Go Waste Services Limited",
-    "address": "{\"borough\":\"Roade\",\"street\":\"Unit 11, Cottage Farm, Hartwell Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN7 2NU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 11, Cottage Farm, Hartwell Rd, Roade, Northampton, NN7 2NU, GB",
     "phone": "01604 862233",
     "international_phone": "01604 862233",
     "website": "https://www.rubbish2go.net/",
@@ -1798,12 +1866,12 @@
     "types": "Waste-Management Service",
     "lat": 52.151923,
     "lng": -0.874684,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bell & Sons Removals",
-    "address": "{\"borough\":\"Whetstone\",\"street\":\"Unit 73a, The Whittle Estate, Cambridge Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE8 6LH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 73a, The Whittle Estate, Cambridge Rd, Whetstone, Leicester, LE8 6LH, GB",
     "phone": "0116 284 1085",
     "international_phone": "0116 284 1085",
     "website": "https://www.bellandsons.co.uk/",
@@ -1815,12 +1883,12 @@
     "types": "Removals Service",
     "lat": 52.565314,
     "lng": -1.184034,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Total Moving Solutions Ltd",
-    "address": "{\"borough\":\"Walsall Wood\",\"street\":\"44 Hall Ln\",\"city\":\"Walsall\",\"postal_code\":\"WS9 9AS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "44 Hall Ln, Walsall Wood, Walsall, WS9 9AS, GB",
     "phone": "01922 324032",
     "international_phone": "01922 324032",
     "website": "https://totalmovingsolutions.co.uk/?utm_source=google&utm_medium=organic&utm_content=gmb",
@@ -1832,12 +1900,12 @@
     "types": "Removals company",
     "lat": 52.625923,
     "lng": -1.935125,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Walsall",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Britannia Goodwins International Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Drummond Rd, Astonfields Industrial Estate\",\"city\":\"Stafford\",\"postal_code\":\"ST16 3HJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Drummond Rd, Astonfields Industrial Estate, Stafford, ST16 3HJ, GB",
     "phone": "01785 251161",
     "international_phone": "01785 251161",
     "website": "http://www.goodwinsremovals.co.uk/",
@@ -1849,12 +1917,12 @@
     "types": "Removals Service",
     "lat": 52.820844,
     "lng": -2.116487,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "The Best Rubbish Removal",
-    "address": "{\"borough\":\"\",\"street\":\"1 Aintree Cl\",\"city\":\"Coventry\",\"postal_code\":\"CV6 5QD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1 Aintree Cl, Coventry, CV6 5QD, GB",
     "phone": "024 7736 0038",
     "international_phone": "024 7736 0038",
     "website": "https://www.thebestrubbishremoval.co.uk/",
@@ -1866,12 +1934,12 @@
     "types": "Waste Collection Service",
     "lat": 52.419551,
     "lng": -1.494858,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Near & Far Removals",
-    "address": "{\"borough\":\"Radcliffe on Trent\",\"street\":\"Unit 5, St.James Business Park\",\"city\":\"Nottingham\",\"postal_code\":\"NG12 2JP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 5, St.James Business Park, Radcliffe on Trent, Nottingham, NG12 2JP, GB",
     "phone": "0115 945 6464",
     "international_phone": "0115 945 6464",
     "website": "https://www.nearandfarremovals.co.uk/",
@@ -1883,12 +1951,12 @@
     "types": "Removals Service",
     "lat": 52.953223,
     "lng": -1.01287,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Britannia Bradshaws of Leicester",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2C, 6 Vitruvius Way\",\"city\":\"Leicester\",\"postal_code\":\"LE19 1WA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2C, 6 Vitruvius Way, Leicester, LE19 1WA, GB",
     "phone": "0116 289 9011",
     "international_phone": "0116 289 9011",
     "website": "https://www.bradshawmoving.com/leicester/",
@@ -1900,12 +1968,12 @@
     "types": "Removals company",
     "lat": 52.611478,
     "lng": -1.198603,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man And Van Removals Leicestershire",
-    "address": "{\"borough\":\"\",\"street\":\"24 Aikman Ave\",\"city\":\"Leicester\",\"postal_code\":\"LE3 9JA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 Aikman Ave, Leicester, LE3 9JA, GB",
     "phone": "07864 202591",
     "international_phone": "07864 202591",
     "website": "https://g.co/kgs/HDZpoC",
@@ -1917,12 +1985,12 @@
     "types": "Removals company",
     "lat": 52.638185,
     "lng": -1.162684,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "RobinHood Removals",
-    "address": "{\"borough\":\"Radford\",\"street\":\"59a Alfreton Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG7 3JL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "59a Alfreton Rd, Radford, Nottingham, NG7 3JL, GB",
     "phone": "0115 772 2944",
     "international_phone": "0115 772 2944",
     "website": "http://www.robinhoodremovals.co.uk/",
@@ -1934,12 +2002,12 @@
     "types": "Removals company",
     "lat": 52.956894,
     "lng": -1.164101,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Move My Stuff - Home Removals & Self Storage",
-    "address": "{\"borough\":\"Fenton\",\"street\":\"Unit 3 Victoria Rd\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST4 2HS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 3 Victoria Rd, Fenton, Stoke-on-Trent, ST4 2HS, GB",
     "phone": "01782 287863",
     "international_phone": "01782 287863",
     "website": "https://www.move-my-stuff.co.uk/?UTM_source=GMB_listing&UTM_medium=organic",
@@ -1951,12 +2019,12 @@
     "types": "Removals Service",
     "lat": 53.00884,
     "lng": -2.165115,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Brights Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 2d Knighton Jct Ln\",\"city\":\"Leicester\",\"postal_code\":\"LE2 6AR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2d Knighton Jct Ln, Leicester, LE2 6AR, GB",
     "phone": "0116 240 4733",
     "international_phone": "0116 240 4733",
     "website": "http://www.brightsremovals.co.uk/",
@@ -1968,12 +2036,12 @@
     "types": "Removals company",
     "lat": 52.616024,
     "lng": -1.128128,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Midlands Moves",
-    "address": "{\"borough\":\"\",\"street\":\"60 Stanway Rd\",\"city\":\"Coventry\",\"postal_code\":\"CV5 6PJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "60 Stanway Rd, Coventry, CV5 6PJ, GB",
     "phone": "0800 702 2652",
     "international_phone": "0800 702 2652",
     "website": "http://www.midlands-moves.co.uk/",
@@ -1985,12 +2053,12 @@
     "types": "Removals company",
     "lat": 52.397611,
     "lng": -1.526563,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Leicester Movers and Storers (LMS)",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 11d, Faircharm Industrial Estate, Evelyn Dr\",\"city\":\"Leicester\",\"postal_code\":\"LE3 2BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 11d, Faircharm Industrial Estate, Evelyn Dr, Leicester, LE3 2BU, GB",
     "phone": "0116 430 0047",
     "international_phone": "0116 430 0047",
     "website": "https://www.leicestermoversandstorers.co.uk/",
@@ -2002,12 +2070,12 @@
     "types": "Removals company",
     "lat": 52.618045,
     "lng": -1.150777,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Welland Valley Removals Ltd",
-    "address": "{\"borough\":\"Leicester, Wigston\",\"street\":\"Unit 2, 68 Pullman Rd\",\"city\":\"Wigston\",\"postal_code\":\"LE18 2DB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2, 68 Pullman Rd, Leicester, Wigston, Wigston, LE18 2DB, GB",
     "phone": "0116 243 8619",
     "international_phone": "0116 243 8619",
     "website": "https://www.wellandvalleyremovals.co.uk/",
@@ -2019,12 +2087,12 @@
     "types": "Removals Service",
     "lat": 52.584934,
     "lng": -1.121579,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wigston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alexander Removals Derby",
-    "address": "{\"borough\":\"\",\"street\":\"2nd Floor suite 4, St Andrews House, Vernongate\",\"city\":\"Derby\",\"postal_code\":\"DE1 1UJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2nd Floor suite 4, St Andrews House, Vernongate, Derby, DE1 1UJ, GB",
     "phone": "01332 314500",
     "international_phone": "01332 314500",
     "website": "https://alexanderremovals.co.uk/",
@@ -2036,12 +2104,29 @@
     "types": "Removals company",
     "lat": 52.923213,
     "lng": -1.491453,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Bassy's Removals Notts Ltd",
+    "address": "Awsworth Rd, Ilkeston, DE7 8JF, GB",
+    "phone": "0115 876 6857",
+    "international_phone": "0115 876 6857",
+    "website": "http://www.bassysremovalsltd.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bassy%27s+Removals+Notts+Ltd/data=!4m7!3m6!1s0x4879ec7521bbf0f7:0x9d3bc237616f62c!8m2!3d52.984147!4d-1.301976!16s%2Fg%2F11g65g1vzm!19sChIJ9_C7IXXseUgRLPYWdiO80wk?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 220,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 52.984147,
+    "lng": -1.301976,
+    "found_in_location": "Ilkeston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Eterno Skin Clinic",
-    "address": "{\"borough\":\"\",\"street\":\"26 King St\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV1 1ST\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "26 King St, Wolverhampton, WV1 1ST, GB",
     "phone": "01902 504206",
     "international_phone": "01902 504206",
     "website": "http://www.eternoclinic.com/",
@@ -2053,12 +2138,12 @@
     "types": "Skin care clinic",
     "lat": 52.585862,
     "lng": -2.126122,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A TO B Steve's Removals",
-    "address": "{\"borough\":\"\",\"street\":\"4 Oakdale Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG3 7EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Oakdale Rd, Nottingham, NG3 7EE, GB",
     "phone": "0115 958 2177",
     "international_phone": "0115 958 2177",
     "website": "http://www.atobstevesremovals.co.uk/",
@@ -2070,12 +2155,12 @@
     "types": "Removals company",
     "lat": 52.959286,
     "lng": -1.113896,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Fletcher Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Hawthorne Tree Works, 405 Broad Ln\",\"city\":\"Coventry\",\"postal_code\":\"CV5 7AX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hawthorne Tree Works, 405 Broad Ln, Coventry, CV5 7AX, GB",
     "phone": "024 7775 2657",
     "international_phone": "024 7775 2657",
     "website": "http://www.fletcherremovals.co.uk/",
@@ -2087,12 +2172,12 @@
     "types": "Removals company",
     "lat": 52.411913,
     "lng": -1.583278,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Sandwell Removals Limited",
-    "address": "{\"borough\":\"\",\"street\":\"3 Creed Way\",\"city\":\"West Bromwich\",\"postal_code\":\"B70 9JT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "3 Creed Way, West Bromwich, B70 9JT, GB",
     "phone": "0121 647 7198",
     "international_phone": "0121 647 7198",
     "website": "https://www.sandwellremovals.co.uk/",
@@ -2104,12 +2189,12 @@
     "types": "Removals company",
     "lat": 52.521574,
     "lng": -2.003155,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "West Bromwich",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "United Movers",
-    "address": "{\"borough\":\"\",\"street\":\"145 Foleshill Rd\",\"city\":\"Coventry\",\"postal_code\":\"CV1 4LF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "145 Foleshill Rd, Coventry, CV1 4LF, GB",
     "phone": "024 7775 2715",
     "international_phone": "024 7775 2715",
     "website": "http://www.unitedmovers.co.uk/",
@@ -2121,12 +2206,12 @@
     "types": "Removals Service",
     "lat": 52.41846,
     "lng": -1.508279,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Haul-You-Need Removals",
-    "address": "{\"borough\":\"\",\"street\":\"119A Evington Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE2 1QH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "119A Evington Rd, Leicester, LE2 1QH, GB",
     "phone": "07792 371159",
     "international_phone": "07792 371159",
     "website": "http://www.haulyouneed.co.uk/",
@@ -2138,12 +2223,12 @@
     "types": "Removals Service",
     "lat": 52.626131,
     "lng": -1.111478,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Nash Removals Man and Van Wolverhampton",
-    "address": "{\"borough\":\"\",\"street\":\"Burton Cres\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV10 0EE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Burton Cres, Wolverhampton, WV10 0EE, GB",
     "phone": "07380 496357",
     "international_phone": "07380 496357",
     "website": "https://www.facebook.com/ManAndVanWolverhampton",
@@ -2155,12 +2240,12 @@
     "types": "Removals company",
     "lat": 52.591475,
     "lng": -2.116356,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Northants Removals",
-    "address": "{\"borough\":\"\",\"street\":\"1, Kings Court\",\"city\":\"Northampton\",\"postal_code\":\"NN15 6WJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "1, Kings Court, Northampton, NN15 6WJ, GB",
     "phone": "0800 019 9813",
     "international_phone": "0800 019 9813",
     "website": "http://www.northantsremovals.co.uk/",
@@ -2172,12 +2257,12 @@
     "types": "Removals Service",
     "lat": 52.374454,
     "lng": -0.713154,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Anytime Removal",
-    "address": "{\"borough\":\"Tyseley\",\"street\":\"Unit 14, Bizspace Business Park, Kings Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B11 2AL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 14, Bizspace Business Park, Kings Rd, Tyseley, Birmingham, B11 2AL, GB",
     "phone": "07815 103793",
     "international_phone": "07815 103793",
     "website": "http://www.anytimeremoval.co.uk/",
@@ -2189,12 +2274,12 @@
     "types": "Removals company",
     "lat": 52.458761,
     "lng": -1.839567,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Speedy Shift Removals",
-    "address": "{\"borough\":\"\",\"street\":\"63 Gravelly Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B23 6LX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "63 Gravelly Ln, Birmingham, B23 6LX, GB",
     "phone": "07754 959772",
     "international_phone": "07754 959772",
     "website": "https://speedyshift.co.uk/",
@@ -2206,12 +2291,12 @@
     "types": "Removals company",
     "lat": 52.52824,
     "lng": -1.841335,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bells Of Erdington (1963) Ltd",
-    "address": "{\"borough\":\"Erdington\",\"street\":\"16 Chudleigh Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B23 6HB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16 Chudleigh Rd, Erdington, Birmingham, B23 6HB, GB",
     "phone": "0121 350 9229",
     "international_phone": "0121 350 9229",
     "website": "https://bellsoferdington.co.uk/",
@@ -2223,12 +2308,12 @@
     "types": "Removals company",
     "lat": 52.52624,
     "lng": -1.85248,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Dejunk coventry",
-    "address": "{\"borough\":\"\",\"street\":\"141 Sutherland Ave\",\"city\":\"Coventry\",\"postal_code\":\"CV5 7NH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "141 Sutherland Ave, Coventry, CV5 7NH, GB",
     "phone": "07555 233012",
     "international_phone": "07555 233012",
     "website": "http://www.dejunkcoventry.co.uk/",
@@ -2240,12 +2325,12 @@
     "types": "Waste Collection Service",
     "lat": 52.416022,
     "lng": -1.569302,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Big Red Movers",
-    "address": "{\"borough\":\"West Bridgford\",\"street\":\"14c Ludlow Hill Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG2 6HF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14c Ludlow Hill Rd, West Bridgford, Nottingham, NG2 6HF, GB",
     "phone": "0115 677 9605",
     "international_phone": "0115 677 9605",
     "website": "http://www.bigredmovers.co.uk/",
@@ -2257,12 +2342,12 @@
     "types": "Removals Service",
     "lat": 52.921276,
     "lng": -1.126735,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "HORIZON HOUSE REMOVALS AND COURIER SERVICES",
-    "address": "{\"borough\":\"\",\"street\":\"Springfield Rd\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV10 0LG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Springfield Rd, Wolverhampton, WV10 0LG, GB",
     "phone": "07922 495863",
     "international_phone": "07922 495863",
     "website": "https://www.blessingcourierslimited.com/",
@@ -2274,12 +2359,12 @@
     "types": "Transportation service",
     "lat": 52.594768,
     "lng": -2.119536,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Alan Bosworth Clearing",
-    "address": "{\"borough\":\"Duston\",\"street\":\"279A Main Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN5 6NJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "279A Main Rd, Duston, Northampton, NN5 6NJ, GB",
     "phone": "07988 624909",
     "international_phone": "07988 624909",
     "website": "http://www.clearancenorthampton.com/",
@@ -2291,12 +2376,12 @@
     "types": "Waste-Management Service",
     "lat": 52.257059,
     "lng": -0.952925,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Monster Removals",
-    "address": "{\"borough\":\"\",\"street\":\"115 Cheveral Ave\",\"city\":\"Coventry\",\"postal_code\":\"CV6 3EG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "115 Cheveral Ave, Coventry, CV6 3EG, GB",
     "phone": "07418 632969",
     "international_phone": "07418 632969",
     "website": "https://monsterremovals.co.uk/",
@@ -2308,12 +2393,12 @@
     "types": "House clearance service",
     "lat": 52.423866,
     "lng": -1.518905,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A2B Removals & Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"22 Margaret Ave\",\"city\":\"Bedworth\",\"postal_code\":\"CV12 8ED\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "22 Margaret Ave, Bedworth, CV12 8ED, GB",
     "phone": "07855 765664",
     "international_phone": "07855 765664",
     "website": "http://a2bremovalsandstorage.com/",
@@ -2325,12 +2410,12 @@
     "types": "Removals Service",
     "lat": 52.480811,
     "lng": -1.479749,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Bedworth",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Woollcott Removals And Storage",
-    "address": "{\"borough\":\"Four Ashes\",\"street\":\"Europa House, Four Ashes Industrial Estate, Station Rd\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV10 7DB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Europa House, Four Ashes Industrial Estate, Station Rd, Four Ashes, Wolverhampton, WV10 7DB, GB",
     "phone": "01902 791639",
     "international_phone": "01902 791639",
     "website": "https://www.woollcotts.co.uk/",
@@ -2342,12 +2427,12 @@
     "types": "Removals company",
     "lat": 52.675184,
     "lng": -2.12042,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Whites Removals Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"270 Great Lister St\",\"city\":\"Birmingham\",\"postal_code\":\"B7 4DB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "270 Great Lister St, Birmingham, B7 4DB, GB",
     "phone": "0121 359 3571",
     "international_phone": "0121 359 3571",
     "website": "http://www.whitesremovals.co.uk/",
@@ -2359,12 +2444,12 @@
     "types": "Removals company",
     "lat": 52.48971,
     "lng": -1.883687,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Van-King Removals Limited",
-    "address": "{\"borough\":\"Wollaston\",\"street\":\"18 Council St\",\"city\":\"Wellingborough\",\"postal_code\":\"NN29 7RE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "18 Council St, Wollaston, Wellingborough, NN29 7RE, GB",
     "phone": "01933 563745",
     "international_phone": "01933 563745",
     "website": "https://vankingremovals.co.uk/",
@@ -2376,12 +2461,29 @@
     "types": "Removals company",
     "lat": 52.254391,
     "lng": -0.671607,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wellingborough",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Stokes Removals & Storage",
+    "address": "Unit E, Draper Distribution Centre, Wilson Rd, South Wigston, Wigston, LE18 4TP, GB",
+    "phone": "0116 239 3000",
+    "international_phone": "0116 239 3000",
+    "website": "https://stokesremovals.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Stokes+Removals+%26+Storage/data=!4m7!3m6!1s0x4877671cbbc534eb:0x2f043124b0856bdb!8m2!3d52.5813836!4d-1.1396621!16s%2Fg%2F1tj578nt!19sChIJ6zTFuxxnd0gR22uFsCQxBC8?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 71,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 52.581384,
+    "lng": -1.139662,
+    "found_in_location": "Wigston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A1 removals and deliveries",
-    "address": "{\"borough\":\"\",\"street\":\"Perry Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG5 1GN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Perry Rd, Nottingham, NG5 1GN, GB",
     "phone": "07815 068578",
     "international_phone": "07815 068578",
     "website": "https://a1removals.uk/",
@@ -2393,12 +2495,46 @@
     "types": "Removals company",
     "lat": 52.982005,
     "lng": -1.167205,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Lincolnshire Removals",
+    "address": "Bolingbroke Rd, Louth, LN11 0WE, GB",
+    "phone": "07519 637598",
+    "international_phone": "07519 637598",
+    "website": "https://www.louthremovals.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Lincolnshire+Removals/data=!4m7!3m6!1s0x47d7d5c0785553ff:0x3f73e78c78a2b91f!8m2!3d53.3835092!4d-0.0135327!16s%2Fg%2F11ghlt25b6!19sChIJ_1NVeMDV10cRH7mieIzncz8?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 66,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 53.383509,
+    "lng": -0.013533,
+    "found_in_location": "Louth",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Easy Move of Derby",
+    "address": "Gate house Cat and Fiddle Lane, West Hallam, Ilkeston, DE7 6HE, GB",
+    "phone": "01332 882413",
+    "international_phone": "01332 882413",
+    "website": "https://www.easymoveofderby.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Easy+Move+of+Derby/data=!4m7!3m6!1s0x4879f1f65e3dd471:0xce8ac25c0c05e831!8m2!3d52.9635936!4d-1.3437032!16s%2Fg%2F1q62dtftq!19sChIJcdQ9XvbxeUgRMegFDFzCis4?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 62,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 52.963594,
+    "lng": -1.343703,
+    "found_in_location": "Ilkeston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "AEC Removals",
-    "address": "{\"borough\":\"Balsall Heath\",\"street\":\"Unit 1 Lime Grove\",\"city\":\"Birmingham\",\"postal_code\":\"B12 8SY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 1 Lime Grove, Balsall Heath, Birmingham, B12 8SY, GB",
     "phone": "07448 167375",
     "international_phone": "07448 167375",
     "website": "https://aecremovals.co.uk/",
@@ -2410,12 +2546,12 @@
     "types": "Removals company",
     "lat": 52.457623,
     "lng": -1.884128,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Midlands Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"11-13 Queen Victoria Rd\",\"city\":\"Coventry\",\"postal_code\":\"CV1 3JS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11-13 Queen Victoria Rd, Coventry, CV1 3JS, GB",
     "phone": "07564 580893",
     "international_phone": "07564 580893",
     "website": "http://midlandsremovals.uk/coventry",
@@ -2427,12 +2563,12 @@
     "types": "Removals Service",
     "lat": 52.40558,
     "lng": -1.516382,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Van Man Northampton",
-    "address": "{\"borough\":\"\",\"street\":\"16 Hawkridge\",\"city\":\"Northampton\",\"postal_code\":\"NN4 9YP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "16 Hawkridge, Northampton, NN4 9YP, GB",
     "phone": "07722 752976",
     "international_phone": "07722 752976",
     "website": "http://www.vanmannorthampton.co.uk/",
@@ -2444,12 +2580,12 @@
     "types": "Removals Service",
     "lat": 52.21578,
     "lng": -0.922527,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Dean McKay Moving & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"267 Greenwood Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG3 7FU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "267 Greenwood Rd, Nottingham, NG3 7FU, GB",
     "phone": "07814 618217",
     "international_phone": "07814 618217",
     "website": "http://www.deanmckayremovals.co.uk/",
@@ -2461,12 +2597,12 @@
     "types": "Removals Service",
     "lat": 52.957344,
     "lng": -1.096397,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "J1 Rapid Removals Wolverhampton",
-    "address": "{\"borough\":\"\",\"street\":\"Guy Motors Industrial Park, Park Ln\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV10 9QF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Guy Motors Industrial Park, Park Ln, Wolverhampton, WV10 9QF, GB",
     "phone": "07502 370663",
     "international_phone": "07502 370663",
     "website": "",
@@ -2478,12 +2614,12 @@
     "types": "Removals company",
     "lat": 52.60066,
     "lng": -2.112125,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Moving Ewe Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"238A Frankley Beeches Rd.\",\"city\":\"Birmingham\",\"postal_code\":\"B31 5LY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "238A Frankley Beeches Rd., Birmingham, B31 5LY, GB",
     "phone": "0330 666 5554",
     "international_phone": "0330 666 5554",
     "website": "https://www.movingewe.uk/",
@@ -2495,12 +2631,29 @@
     "types": "Removals company",
     "lat": 52.410269,
     "lng": -1.987144,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "MJ Movers - House and Office Removals & Man with a Van Services",
+    "address": "129 Cotmanhay Rd, Ilkeston, DE7 8NZ, GB",
+    "phone": "0800 112 3060",
+    "international_phone": "0800 112 3060",
+    "website": "http://www.mjmovers.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/MJ+Movers+-+House+and+Office+Removals+%26+Man+with+a+Van+Services/data=!4m7!3m6!1s0x4879ec790a53ca7f:0xe50e17a299bc9135!8m2!3d52.987819!4d-1.307693!16s%2Fg%2F11bxjdqnll!19sChIJf8pTCnnseUgRNZG8maIXDuU?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 37,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals Service",
+    "lat": 52.987819,
+    "lng": -1.307693,
+    "found_in_location": "Ilkeston",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MDL Removals",
-    "address": "{\"borough\":\"Rubery\",\"street\":\"8 Little Cott Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B31 5GD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "8 Little Cott Ln, Rubery, Birmingham, B31 5GD, GB",
     "phone": "07756 279857",
     "international_phone": "07756 279857",
     "website": "https://www.mdlremovals.com/",
@@ -2512,12 +2665,12 @@
     "types": "House clearance service",
     "lat": 52.403745,
     "lng": -2.002958,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Simply Moving Removals",
-    "address": "{\"borough\":\"Great Glen\",\"street\":\"43 Stretton Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE8 9GN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "43 Stretton Rd, Great Glen, Leicester, LE8 9GN, GB",
     "phone": "0800 043 5393",
     "international_phone": "0800 043 5393",
     "website": "https://www.simplymoving.co.uk/",
@@ -2529,12 +2682,12 @@
     "types": "Removals company",
     "lat": 52.577775,
     "lng": -1.030556,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Move Care",
-    "address": "{\"borough\":\"Codsall\",\"street\":\"14 Old Farm Dr\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV8 1GF\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14 Old Farm Dr, Codsall, Wolverhampton, WV8 1GF, GB",
     "phone": "07445 668213",
     "international_phone": "07445 668213",
     "website": "http://movecare.uk/",
@@ -2546,12 +2699,12 @@
     "types": "Removals company",
     "lat": 52.633052,
     "lng": -2.186595,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Bass Removals and storage of Derby",
-    "address": "{\"borough\":\"Mickleover\",\"street\":\"Office 4G, Mickleover, 4 Station Rd\",\"city\":\"Derby\",\"postal_code\":\"DE3 9GH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Office 4G, Mickleover, 4 Station Rd, Mickleover, Derby, DE3 9GH, GB",
     "phone": "01332 602372",
     "international_phone": "01332 602372",
     "website": "http://www.bassremovals.com/",
@@ -2563,12 +2716,12 @@
     "types": "Removals company",
     "lat": 52.905288,
     "lng": -1.543413,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Walkers Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"20 Boultham Pk Rd\",\"city\":\"Lincoln\",\"postal_code\":\"LN6 7AY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "20 Boultham Pk Rd, Lincoln, LN6 7AY, GB",
     "phone": "01522 536935",
     "international_phone": "01522 536935",
     "website": "http://www.walkers-removals.net/",
@@ -2580,12 +2733,29 @@
     "types": "Removals company",
     "lat": 53.219724,
     "lng": -0.553573,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "AGB Removals Ltd",
+    "address": "UNIT 10, Strawberry Lane Industrial Estate, Willenhall, WV13 3RS, GB",
+    "phone": "01902 581224",
+    "international_phone": "01902 581224",
+    "website": "http://www.agbremovals.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/AGB+Removals+Ltd/data=!4m7!3m6!1s0x48709be6b0d6882d:0xca0888a23777d1af!8m2!3d52.5886497!4d-2.0832227!16s%2Fg%2F11b6bl8v3m!19sChIJLYjWsOabcEgRr9F3N6KICMo?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 355,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.58865,
+    "lng": -2.083223,
+    "found_in_location": "Willenhall",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "LV 81 Removals & Waste Management",
-    "address": "{\"borough\":\"\",\"street\":\"11 St Paul's Square\",\"city\":\"Birmingham\",\"postal_code\":\"B3 1RB\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 St Paul's Square, Birmingham, B3 1RB, GB",
     "phone": "",
     "international_phone": "",
     "website": "http://www.lv81van.com/",
@@ -2597,12 +2767,29 @@
     "types": "Removals company",
     "lat": 52.485474,
     "lng": -1.904644,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Britannia Bradshaw International Removals & Storage",
+    "address": "Unit D4A, Business Park East, Coombswood Way, Halesowen, B62 8BH, GB",
+    "phone": "0121 504 0966",
+    "international_phone": "0121 504 0966",
+    "website": "https://bradshawmovingservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Britannia+Bradshaw+International+Removals+%26+Storage/data=!4m7!3m6!1s0x487096ededeec3b9:0x42bfc3c78c1458d6!8m2!3d52.4670146!4d-2.0457693!16s%2Fg%2F1263f9d0j!19sChIJucPu7e2WcEgR1lgUjMfDv0I?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 223,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.467015,
+    "lng": -2.045769,
+    "found_in_location": "Halesowen",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Straight There Removals",
-    "address": "{\"borough\":\"Tividale\",\"street\":\"6 Palmerston Dr\",\"city\":\"Oldbury\",\"postal_code\":\"B69 3NA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Palmerston Dr, Tividale, Oldbury, B69 3NA, GB",
     "phone": "0121 533 1473",
     "international_phone": "0121 533 1473",
     "website": "https://www.straight-there.co.uk/",
@@ -2614,12 +2801,12 @@
     "types": "Removals company",
     "lat": 52.515585,
     "lng": -2.034389,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Oldbury",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "IMG Removals",
-    "address": "{\"borough\":\"Nechells\",\"street\":\"C1, Avenue Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B7 4NT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "C1, Avenue Rd, Nechells, Birmingham, B7 4NT, GB",
     "phone": "0121 628 0014",
     "international_phone": "0121 628 0014",
     "website": "https://www.imgremovals.co.uk/",
@@ -2631,12 +2818,12 @@
     "types": "Removals Service",
     "lat": 52.495257,
     "lng": -1.880502,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "All Moves UK Ltd",
-    "address": "{\"borough\":\"New Basford\",\"street\":\"unit 1, Lewis Industrial Estate, Office 11, Storage King\",\"city\":\"Nottingham\",\"postal_code\":\"NG7 7NQ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "unit 1, Lewis Industrial Estate, Office 11, Storage King, New Basford, Nottingham, NG7 7NQ, GB",
     "phone": "0115 978 1549",
     "international_phone": "0115 978 1549",
     "website": "https://allmovesuk.co.uk/",
@@ -2648,12 +2835,12 @@
     "types": "Removals company",
     "lat": 52.972093,
     "lng": -1.174792,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Hansen Man & Van LTD",
-    "address": "{\"borough\":\"\",\"street\":\"63 Gravelly Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B23 6LR\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "63 Gravelly Ln, Birmingham, B23 6LR, GB",
     "phone": "07754 606785",
     "international_phone": "07754 606785",
     "website": "https://www.hansenmanandvan.com/",
@@ -2665,12 +2852,12 @@
     "types": "Removals company",
     "lat": 52.52824,
     "lng": -1.841322,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "CHEAPEST MAN WITH A VAN COVENTRY",
-    "address": "{\"borough\":\"\",\"street\":\"126 George St\",\"city\":\"Coventry\",\"postal_code\":\"CV1 4HD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "126 George St, Coventry, CV1 4HD, GB",
     "phone": "07884 937658",
     "international_phone": "07884 937658",
     "website": "",
@@ -2682,12 +2869,12 @@
     "types": "Removals Service",
     "lat": 52.41854,
     "lng": -1.5009,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Derby Removals & Storage Ltd",
-    "address": "{\"borough\":\"Boulton Moor\",\"street\":\"11 Pool Cl\",\"city\":\"Derby\",\"postal_code\":\"DE24 5AL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "11 Pool Cl, Boulton Moor, Derby, DE24 5AL, GB",
     "phone": "01332 700991",
     "international_phone": "01332 700991",
     "website": "https://www.derbyremovals.co.uk/",
@@ -2699,12 +2886,12 @@
     "types": "Removals company",
     "lat": 52.884448,
     "lng": -1.418083,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Albany Removals ltd",
-    "address": "{\"borough\":\"West Bridgford\",\"street\":\"Appleton House, 25 Rectory Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG2 6BE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Appleton House, 25 Rectory Rd, West Bridgford, Nottingham, NG2 6BE, GB",
     "phone": "0115 941 2818",
     "international_phone": "0115 941 2818",
     "website": "http://albanyremovals.co.uk/",
@@ -2716,12 +2903,12 @@
     "types": "Removals Service",
     "lat": 52.930067,
     "lng": -1.129497,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Red Top Removals And Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Red Top Removals, Brook House, Edmonds Cl\",\"city\":\"Wellingborough\",\"postal_code\":\"NN8 2QY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Red Top Removals, Brook House, Edmonds Cl, Wellingborough, NN8 2QY, GB",
     "phone": "01933 588008",
     "international_phone": "01933 588008",
     "website": "http://www.redtopremovals.co.uk/",
@@ -2733,12 +2920,12 @@
     "types": "Removals company",
     "lat": 52.289613,
     "lng": -0.689545,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wellingborough",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Albert Miles Removals",
-    "address": "{\"borough\":\"Willenhall\",\"street\":\"Unit J, Key Industrial Park\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV13 3YA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit J, Key Industrial Park, Willenhall, Wolverhampton, WV13 3YA, GB",
     "phone": "0121 679 2511",
     "international_phone": "0121 679 2511",
     "website": "https://albertmiles.com/",
@@ -2750,12 +2937,12 @@
     "types": "Removals company",
     "lat": 52.592117,
     "lng": -2.08048,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man Van Stoke - Removals & Deliveries",
-    "address": "{\"borough\":\"\",\"street\":\"5 Darrall Gardens\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST4 6LN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Darrall Gardens, Stoke-on-Trent, ST4 6LN, GB",
     "phone": "07522 493165",
     "international_phone": "07522 493165",
     "website": "http://www.manvanstoke.co.uk/",
@@ -2767,12 +2954,12 @@
     "types": "Removals company",
     "lat": 52.98624,
     "lng": -2.203798,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Newtons Removals",
-    "address": "{\"borough\":\"Earl Shilton\",\"street\":\"111 Cedar Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE9 7HG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "111 Cedar Rd, Earl Shilton, Leicester, LE9 7HG, GB",
     "phone": "01455 842647",
     "international_phone": "01455 842647",
     "website": "http://www.newtonsremovals.co.uk/",
@@ -2784,12 +2971,12 @@
     "types": "Removals Service",
     "lat": 52.569019,
     "lng": -1.322421,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "My Home Removals",
-    "address": "{\"borough\":\"\",\"street\":\"113 Holloway Head\",\"city\":\"Birmingham\",\"postal_code\":\"B1 1UD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "113 Holloway Head, Birmingham, B1 1UD, GB",
     "phone": "07424 833054",
     "international_phone": "07424 833054",
     "website": "",
@@ -2801,12 +2988,12 @@
     "types": "Removals company",
     "lat": 52.47494,
     "lng": -1.90141,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Greenlab Pestcontrol Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"33 Queen St\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV1 3AP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "33 Queen St, Wolverhampton, WV1 3AP, GB",
     "phone": "01902 475121",
     "international_phone": "01902 475121",
     "website": "http://www.greenlabpestcontrol.co.uk/",
@@ -2818,12 +3005,29 @@
     "types": "Pest control service",
     "lat": 52.585821,
     "lng": -2.124073,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "R P Removals",
+    "address": "Unit 3, Store First, Brindley Cl, Rushden, NN10 6EN, GB",
+    "phone": "0800 368 8859",
+    "international_phone": "0800 368 8859",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/R+P+Removals/data=!4m7!3m6!1s0x4876477501dc7657:0x3559cbf313e9f62d!8m2!3d52.3002881!4d-0.6131455!16s%2Fg%2F11bzzzdq24!19sChIJV3bcAXVHdkgRLfbpE_PLWTU?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 49,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals company",
+    "lat": 52.300288,
+    "lng": -0.613146,
+    "found_in_location": "Rushden",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "KLSN Services Ltd",
-    "address": "{\"borough\":\"Mickleover\",\"street\":\"71 Jackson Ave\",\"city\":\"Derby\",\"postal_code\":\"DE3 9AU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "71 Jackson Ave, Mickleover, Derby, DE3 9AU, GB",
     "phone": "07487 765754",
     "international_phone": "07487 765754",
     "website": "",
@@ -2835,12 +3039,12 @@
     "types": "Waste-Management Service",
     "lat": 52.909111,
     "lng": -1.521383,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Newmans Removals & Storage Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Sigma House, Burnsall Rd\",\"city\":\"Coventry\",\"postal_code\":\"CV5 6BU\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Sigma House, Burnsall Rd, Coventry, CV5 6BU, GB",
     "phone": "024 7646 6034",
     "international_phone": "024 7646 6034",
     "website": "http://www.newmansremovals.co.uk/",
@@ -2852,12 +3056,12 @@
     "types": "Removals company",
     "lat": 52.395978,
     "lng": -1.553507,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MAN AND VAN ADZ-N-VAN PROFESSIONAL REMOVALS",
-    "address": "{\"borough\":\"\",\"street\":\"Ashton Green Rd\",\"city\":\"Leicester\",\"postal_code\":\"LE4 2AD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Ashton Green Rd, Leicester, LE4 2AD, GB",
     "phone": "07305 175384",
     "international_phone": "07305 175384",
     "website": "https://www.manandvanleicester.net/",
@@ -2869,12 +3073,12 @@
     "types": "Removals Service",
     "lat": 52.67778,
     "lng": -1.14779,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Grocotts Removals",
-    "address": "{\"borough\":\"Baddeley Green\",\"street\":\"5 Baddeley Green Ln\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST2 7LL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "5 Baddeley Green Ln, Baddeley Green, Stoke-on-Trent, ST2 7LL, GB",
     "phone": "",
     "international_phone": "",
     "website": "http://www.removalsstokeontrent.co.uk/",
@@ -2886,12 +3090,12 @@
     "types": "Removals company",
     "lat": 53.059345,
     "lng": -2.135549,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A2b Removals Nottingham",
-    "address": "{\"borough\":\"\",\"street\":\"121 Bramcote Ln\",\"city\":\"Nottingham\",\"postal_code\":\"NG8 2NJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "121 Bramcote Ln, Nottingham, NG8 2NJ, GB",
     "phone": "07999 321444",
     "international_phone": "07999 321444",
     "website": "https://a2bremovalsnottingham.co.uk/?utm_source=google+my+business&utm_medium=gmb&utm_campaign=organic+seo",
@@ -2903,12 +3107,12 @@
     "types": "Delivery Company",
     "lat": 52.948846,
     "lng": -1.22706,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man and Van Removals Packing Services Coventry",
-    "address": "{\"borough\":\"\",\"street\":\"21 Victoria St\",\"city\":\"Coventry\",\"postal_code\":\"CV1 5NA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "21 Victoria St, Coventry, CV1 5NA, GB",
     "phone": "07955 882020",
     "international_phone": "07955 882020",
     "website": "http://manandvan-uk.com/",
@@ -2920,12 +3124,12 @@
     "types": "Removals Service",
     "lat": 52.413342,
     "lng": -1.500083,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "The Budget Removals Group - House Removals Nottingham | Office Clearance | Short Notice Removals",
-    "address": "{\"borough\":\"\",\"street\":\"36A Heathcoat St\",\"city\":\"Nottingham\",\"postal_code\":\"NG1 3AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "36A Heathcoat St, Nottingham, NG1 3AA, GB",
     "phone": "07440 576848",
     "international_phone": "07440 576848",
     "website": "https://thebudgetremovalsgroup.com/",
@@ -2937,12 +3141,12 @@
     "types": "Removals company",
     "lat": 52.954987,
     "lng": -1.142827,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Steve's Removals Lincoln",
-    "address": "{\"borough\":\"\",\"street\":\"14b George St\",\"city\":\"Lincoln\",\"postal_code\":\"LN5 8LG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "14b George St, Lincoln, LN5 8LG, GB",
     "phone": "07932 368570",
     "international_phone": "07932 368570",
     "website": "",
@@ -2954,12 +3158,12 @@
     "types": "Removals Service",
     "lat": 53.223446,
     "lng": -0.52357,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Horsleys Removals and Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Tollgate Park, UNIT 2 Paton Dr\",\"city\":\"Stafford\",\"postal_code\":\"ST16 3EG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Tollgate Park, UNIT 2 Paton Dr, Stafford, ST16 3EG, GB",
     "phone": "01785 252121",
     "international_phone": "01785 252121",
     "website": "https://www.horsleys.net/",
@@ -2971,12 +3175,12 @@
     "types": "Removals company",
     "lat": 52.831654,
     "lng": -2.115523,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Derby Movers And Storers",
-    "address": "{\"borough\":\"\",\"street\":\"Unit 4, 31 Shaftesbury St S\",\"city\":\"Derby\",\"postal_code\":\"DE23 8YH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 4, 31 Shaftesbury St S, Derby, DE23 8YH, GB",
     "phone": "01332 411988",
     "international_phone": "01332 411988",
     "website": "http://derbymoversandstorers.co.uk/",
@@ -2988,12 +3192,12 @@
     "types": "Removals company",
     "lat": 52.901602,
     "lng": -1.468382,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Raja Gee Removals",
-    "address": "{\"borough\":\"Yardley\",\"street\":\"25 Gladys Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B25 8BX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "25 Gladys Rd, Yardley, Birmingham, B25 8BX, GB",
     "phone": "07440 222835",
     "international_phone": "07440 222835",
     "website": "https://rajagee.com/",
@@ -3005,12 +3209,12 @@
     "types": "Removals Service",
     "lat": 52.464013,
     "lng": -1.828587,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Ryans Removals",
-    "address": "{\"borough\":\"Hall Green\",\"street\":\"99 York Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B28 8LH\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "99 York Rd, Hall Green, Birmingham, B28 8LH, GB",
     "phone": "0121 706 2777",
     "international_phone": "0121 706 2777",
     "website": "https://www.ryansremovals.co.uk/",
@@ -3022,12 +3226,12 @@
     "types": "Removals Service",
     "lat": 52.439542,
     "lng": -1.841891,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Pickfords",
-    "address": "{\"borough\":\"Giltbrook\",\"street\":\"Unit 13, Giltbrook Industrial Park, 12 Pentrich Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG16 2UZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 13, Giltbrook Industrial Park, 12 Pentrich Rd, Giltbrook, Nottingham, NG16 2UZ, GB",
     "phone": "0800 019 8556",
     "international_phone": "0800 019 8556",
     "website": "https://www.pickfords.co.uk/",
@@ -3039,12 +3243,12 @@
     "types": "Removals company",
     "lat": 53.004102,
     "lng": -1.281158,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "A1 Rubbish Clearance",
-    "address": "{\"borough\":\"\",\"street\":\"2 Park Ln\",\"city\":\"Northampton\",\"postal_code\":\"NN5 6QD\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "2 Park Ln, Northampton, NN5 6QD, GB",
     "phone": "07860 721320",
     "international_phone": "07860 721320",
     "website": "http://www.a1rubbishclearance.co.uk/",
@@ -3056,12 +3260,12 @@
     "types": "Waste-Management Service",
     "lat": 52.252195,
     "lng": -0.952858,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "The Grange Removal Co Ltd",
-    "address": "{\"borough\":\"\",\"street\":\"Tame Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B6 7DG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Tame Rd, Birmingham, B6 7DG, GB",
     "phone": "0121 326 8511",
     "international_phone": "0121 326 8511",
     "website": "https://www.grangeremovals.co.uk/",
@@ -3073,12 +3277,12 @@
     "types": "Removals company",
     "lat": 52.511666,
     "lng": -1.879296,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Butler & Daughter Removals",
-    "address": "{\"borough\":\"The Royal Town of Sutton Coldfield, Birmingham\",\"street\":\"23 Kingston Rd\",\"city\":\"Sutton Coldfield\",\"postal_code\":\"B75 7NY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "23 Kingston Rd, The Royal Town of Sutton Coldfield, Birmingham, Sutton Coldfield, B75 7NY, GB",
     "phone": "0121 350 5883",
     "international_phone": "0121 350 5883",
     "website": "",
@@ -3090,12 +3294,12 @@
     "types": "Removals Service",
     "lat": 52.568733,
     "lng": -1.797256,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Sutton Coldfield",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "S & A Removals & Storage",
-    "address": "{\"borough\":\"Netherfield\",\"street\":\"Victoria Park Way\",\"city\":\"Nottingham\",\"postal_code\":\"NG4 2PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Victoria Park Way, Netherfield, Nottingham, NG4 2PA, GB",
     "phone": "0115 940 4464",
     "international_phone": "0115 940 4464",
     "website": "http://www.saremovalsnottingham.co.uk/",
@@ -3107,12 +3311,12 @@
     "types": "Storage facility",
     "lat": 52.959168,
     "lng": -1.063479,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Walkers Removals",
-    "address": "{\"borough\":\"Little Houghton\",\"street\":\"Mill Ln\",\"city\":\"Northampton\",\"postal_code\":\"NN7 1AL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Mill Ln, Little Houghton, Northampton, NN7 1AL, GB",
     "phone": "01604 891999",
     "international_phone": "01604 891999",
     "website": "http://www.walkersremovals.co.uk/",
@@ -3124,12 +3328,12 @@
     "types": "Removals Service",
     "lat": 52.237136,
     "lng": -0.823379,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "House Removals - Man and Van (Same-Day)",
-    "address": "{\"borough\":\"Oadby\",\"street\":\"6 Newby Gardens\",\"city\":\"Leicester\",\"postal_code\":\"LE2 4UG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "6 Newby Gardens, Oadby, Leicester, LE2 4UG, GB",
     "phone": "0116 271 7472",
     "international_phone": "0116 271 7472",
     "website": "http://www.newbyremovals.co.uk/",
@@ -3141,12 +3345,12 @@
     "types": "Removals company",
     "lat": 52.590652,
     "lng": -1.05778,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Leicester",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Man With A Van (Pete's Removals)",
-    "address": "{\"borough\":\"West Bridgford\",\"street\":\"77A Radcliffe Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG2 5HE\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "77A Radcliffe Rd, West Bridgford, Nottingham, NG2 5HE, GB",
     "phone": "07973 431120",
     "international_phone": "07973 431120",
     "website": "http://www.petesremovalsnottingham.co.uk/",
@@ -3158,12 +3362,12 @@
     "types": "Removals company",
     "lat": 52.93171,
     "lng": -1.113644,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "PAL Removals",
-    "address": "{\"borough\":\"\",\"street\":\"12 Ivy Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN1 4QT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "12 Ivy Rd, Northampton, NN1 4QT, GB",
     "phone": "07423 080524",
     "international_phone": "07423 080524",
     "website": "http://www.palremovals.co.uk/",
@@ -3175,12 +3379,12 @@
     "types": "Removals Service",
     "lat": 52.247665,
     "lng": -0.878479,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Midlands Removals",
-    "address": "{\"borough\":\"Tyseley\",\"street\":\"Fairgate House, 205 Kings Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B11 2AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Fairgate House, 205 Kings Rd, Tyseley, Birmingham, B11 2AA, GB",
     "phone": "0121 604 3280",
     "international_phone": "0121 604 3280",
     "website": "http://www.midlandsremovals.co.uk/",
@@ -3192,12 +3396,12 @@
     "types": "Removals company",
     "lat": 52.455828,
     "lng": -1.839584,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Abbey Removals and Storage of Sutton Coldfield",
-    "address": "{\"borough\":\"\",\"street\":\"Unit A1, Castle Vale Enterprise Park, Park Ln\",\"city\":\"Birmingham\",\"postal_code\":\"B35 6LJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit A1, Castle Vale Enterprise Park, Park Ln, Birmingham, B35 6LJ, GB",
     "phone": "0121 291 4720",
     "international_phone": "0121 291 4720",
     "website": "https://www.abbeyremovalsandstorage.co.uk/?utm_source=gmbcastlevale&utm_medium=organic&utm_content=listing&utm_campaign=local-listing",
@@ -3209,12 +3413,12 @@
     "types": "Removals company",
     "lat": 52.52143,
     "lng": -1.773679,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "B.M.B REMOVALS LTD",
-    "address": "{\"borough\":\"\",\"street\":\"Weedon Road Industrial Estate, Unit 4 Stour Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN5 5AA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Weedon Road Industrial Estate, Unit 4 Stour Rd, Northampton, NN5 5AA, GB",
     "phone": "01604 753259",
     "international_phone": "01604 753259",
     "website": "https://www.bmbremovals.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
@@ -3226,12 +3430,12 @@
     "types": "Removals Service",
     "lat": 52.239603,
     "lng": -0.923463,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Northampton Transport",
-    "address": "{\"borough\":\"\",\"street\":\"65 Kettering Rd\",\"city\":\"Northampton\",\"postal_code\":\"NN1 4AW\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "65 Kettering Rd, Northampton, NN1 4AW, GB",
     "phone": "01604 754557",
     "international_phone": "01604 754557",
     "website": "http://northamptontransport.co.uk/",
@@ -3243,12 +3447,12 @@
     "types": "Removals company",
     "lat": 52.241722,
     "lng": -0.886212,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "MARSTON & PRICE REMOVALS HOUSE CLEARANCES & STORAGE LTD",
-    "address": "{\"borough\":\"Cobridge\",\"street\":\"Autovent Bldg, Sandbach Rd\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST6 2DG\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Autovent Bldg, Sandbach Rd, Cobridge, Stoke-on-Trent, ST6 2DG, GB",
     "phone": "01782 898644",
     "international_phone": "01782 898644",
     "website": "http://www.marstonandprice.co.uk/",
@@ -3260,12 +3464,12 @@
     "types": "Removals Service",
     "lat": 53.039239,
     "lng": -2.183936,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Home2Home Removals Derby",
-    "address": "{\"borough\":\"Chaddesden\",\"street\":\"31 Cavan Dr\",\"city\":\"Derby\",\"postal_code\":\"DE21 6TT\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "31 Cavan Dr, Chaddesden, Derby, DE21 6TT, GB",
     "phone": "07812 130006",
     "international_phone": "07812 130006",
     "website": "http://www.home2homeremovals.co.uk/",
@@ -3277,12 +3481,12 @@
     "types": "Removals company",
     "lat": 52.918147,
     "lng": -1.426825,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "BG Removals & Storage",
-    "address": "{\"borough\":\"Radford\",\"street\":\"252 Alfreton Rd\",\"city\":\"Nottingham\",\"postal_code\":\"NG7 5LS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "252 Alfreton Rd, Radford, Nottingham, NG7 5LS, GB",
     "phone": "0115 882 1436",
     "international_phone": "0115 882 1436",
     "website": "https://www.bg-removals.co.uk/",
@@ -3294,12 +3498,12 @@
     "types": "Removals company",
     "lat": 52.962046,
     "lng": -1.171436,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Nottingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Burke Bros Moving Group",
-    "address": "{\"borough\":\"\",\"street\":\"Burke Bros Trading Estate, Fox's Ln\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV1 1PA\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Burke Bros Trading Estate, Fox's Ln, Wolverhampton, WV1 1PA, GB",
     "phone": "01902 714555",
     "international_phone": "01902 714555",
     "website": "https://www.burkebros.co.uk/",
@@ -3311,12 +3515,12 @@
     "types": "Removals company",
     "lat": 52.599231,
     "lng": -2.127087,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Evans Removals - Stoke on Trent & Staffordshire",
-    "address": "{\"borough\":\"Hixon\",\"street\":\"Unit 2, New Road Industrial Estate\",\"city\":\"Stafford\",\"postal_code\":\"ST18 0PJ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Unit 2, New Road Industrial Estate, Hixon, Stafford, ST18 0PJ, GB",
     "phone": "0808 168 6339",
     "international_phone": "0808 168 6339",
     "website": "https://www.evansremovals.co.uk/",
@@ -3328,12 +3532,12 @@
     "types": "Removals Service",
     "lat": 52.833184,
     "lng": -2.004908,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stafford",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "24/7 Van Man",
-    "address": "{\"borough\":\"Kingstanding\",\"street\":\"124 Kingstanding Rd\",\"city\":\"Birmingham\",\"postal_code\":\"B44 8AY\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "124 Kingstanding Rd, Kingstanding, Birmingham, B44 8AY, GB",
     "phone": "07538 721029",
     "international_phone": "07538 721029",
     "website": "https://www.manwithavanbirmingham.co.uk/",
@@ -3345,12 +3549,12 @@
     "types": "Transportation service",
     "lat": 52.53381,
     "lng": -1.889918,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Birmingham",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "CAME-RO LTD",
-    "address": "{\"borough\":\"Birmingham, Smethwick\",\"street\":\"4 Unett St\",\"city\":\"Smethwick\",\"postal_code\":\"B71 4JZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "4 Unett St, Birmingham, Smethwick, Smethwick, B71 4JZ, GB",
     "phone": "07894 546272",
     "international_phone": "07894 546272",
     "website": "https://cameroremovals.com/",
@@ -3362,12 +3566,12 @@
     "types": "Removals company",
     "lat": 52.490147,
     "lng": -1.951597,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Smethwick",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Lincoln Removals & Light Haulage",
-    "address": "{\"borough\":\"\",\"street\":\"Hillcroft Business Park, Whisby Rd\",\"city\":\"Lincoln\",\"postal_code\":\"LN6 3QL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hillcroft Business Park, Whisby Rd, Lincoln, LN6 3QL, GB",
     "phone": "01522 838225",
     "international_phone": "01522 838225",
     "website": "http://lincoln-removals.co.uk/",
@@ -3379,12 +3583,29 @@
     "types": "Removals Service",
     "lat": 53.20165,
     "lng": -0.598179,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Peak Removals Derby",
+    "address": "8 Ferrers Cres, Duffield, Belper, DE56 4DH, GB",
+    "phone": "01332 417070",
+    "international_phone": "01332 417070",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Peak+Removals+Derby/data=!4m7!3m6!1s0x4879f3868c0b70c3:0xbca4345569e93b8e!8m2!3d52.9858454!4d-1.5011588!16s%2Fg%2F1ptyy29q0!19sChIJw3ALjIbzeUgRjjvpaVU0pLw?authuser=0&hl=en&rclk=1",
+    "rating": 4.3,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 52.985845,
+    "lng": -1.501159,
+    "found_in_location": "Belper",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Rubbish Removal In Wolverhampton",
-    "address": "{\"borough\":\"\",\"street\":\"\",\"city\":\"Wolverhampton\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Wolverhampton, GB",
     "phone": "01902 475191",
     "international_phone": "01902 475191",
     "website": "http://local-rubbish-removal-in-wolverhampton.co.uk/",
@@ -3396,12 +3617,12 @@
     "types": "Waste-Management Service",
     "lat": 52.59103,
     "lng": -2.134169,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Barnes of Lincoln",
-    "address": "{\"borough\":\"North Hykeham\",\"street\":\"Fort Barnes, Freeman Rd\",\"city\":\"Lincoln\",\"postal_code\":\"LN6 9AP\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Fort Barnes, Freeman Rd, North Hykeham, Lincoln, LN6 9AP, GB",
     "phone": "01522 899966",
     "international_phone": "01522 899966",
     "website": "http://www.barnesoflincoln.co.uk/",
@@ -3413,12 +3634,12 @@
     "types": "Removals Service",
     "lat": 53.19421,
     "lng": -0.596671,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "B E Webbe Self-Storage and Removals",
-    "address": "{\"borough\":\"\",\"street\":\"Racecourse Industrial Park, Mansfield Rd.\",\"city\":\"Derby\",\"postal_code\":\"DE21 4SX\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Racecourse Industrial Park, Mansfield Rd., Derby, DE21 4SX, GB",
     "phone": "01332 369721",
     "international_phone": "01332 369721",
     "website": "http://bewebbe-removals.co.uk/",
@@ -3430,12 +3651,12 @@
     "types": "Removals company",
     "lat": 52.937232,
     "lng": -1.462844,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Derby",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Removals Northampton",
-    "address": "{\"borough\":\"\",\"street\":\"Northampton House, Wellington St\",\"city\":\"Northampton\",\"postal_code\":\"NN1 3ND\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Northampton House, Wellington St, Northampton, NN1 3ND, GB",
     "phone": "07767 844118",
     "international_phone": "07767 844118",
     "website": "http://www.removalsnorthampton.org.uk/",
@@ -3447,12 +3668,12 @@
     "types": "Removals Service",
     "lat": 52.2396,
     "lng": -0.893694,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Northampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Adams & Sons Removals & Storage",
-    "address": "{\"borough\":\"\",\"street\":\"Nelson Bank/Acres Nook\",\"city\":\"Stoke-on-Trent\",\"postal_code\":\"ST6 4QL\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Nelson Bank/Acres Nook, Stoke-on-Trent, ST6 4QL, GB",
     "phone": "01782 239469",
     "international_phone": "01782 239469",
     "website": "http://www.nadamsremovals.co.uk/",
@@ -3464,12 +3685,29 @@
     "types": "Removals Service",
     "lat": 53.076032,
     "lng": -2.238633,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "removals midlands"
+  },
+  {
+    "name": "Ashbourne Removals",
+    "address": "19A Stanton Rd, Ashbourne, DE6 1SH, GB",
+    "phone": "01335 345042",
+    "international_phone": "01335 345042",
+    "website": "https://ashbourneremovals.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Ashbourne+Removals/data=!4m7!3m6!1s0x487a18c9781f690f:0xc5802180e61a5c73!8m2!3d53.0089763!4d-1.7184335!16s%2Fg%2F1v_vsfmh!19sChIJD2kfeMkYekgRc1wa5oAhgMU?authuser=0&hl=en&rclk=1",
+    "rating": 4.0,
+    "total_reviews": 5,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "types": "Removals Service",
+    "lat": 53.008976,
+    "lng": -1.718433,
+    "found_in_location": "Ashbourne",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Coventry Removal Company",
-    "address": "{\"borough\":\"\",\"street\":\"Trinity Walk\",\"city\":\"Coventry\",\"postal_code\":\"CV1 3AZ\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Trinity Walk, Coventry, CV1 3AZ, GB",
     "phone": "024 7693 2069",
     "international_phone": "024 7693 2069",
     "website": "",
@@ -3481,12 +3719,12 @@
     "types": "Removals company",
     "lat": 52.408332,
     "lng": -1.509341,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Coventry",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Anderson Removals",
-    "address": "{\"borough\":\"Saxilby\",\"street\":\"24 High St\",\"city\":\"Lincoln\",\"postal_code\":\"LN1 2LN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "24 High St, Saxilby, Lincoln, LN1 2LN, GB",
     "phone": "01522 800981",
     "international_phone": "01522 800981",
     "website": "http://andersonremovals-lincoln.co.uk/",
@@ -3498,12 +3736,12 @@
     "types": "Removals Service",
     "lat": 53.267058,
     "lng": -0.6621,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Lincoln",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Approved Movers",
-    "address": "{\"borough\":\"\",\"street\":\"32 Waterloo Rd\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV1 4BN\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "32 Waterloo Rd, Wolverhampton, WV1 4BN, GB",
     "phone": "0330 223 5064",
     "international_phone": "0330 223 5064",
     "website": "https://approved-movers.com/",
@@ -3515,12 +3753,12 @@
     "types": "Removals company",
     "lat": 52.587007,
     "lng": -2.132253,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   },
   {
     "name": "Son of a gun Removals waste management",
-    "address": "{\"borough\":\"Essington\",\"street\":\"Hill St\",\"city\":\"Wolverhampton\",\"postal_code\":\"WV11 2BS\",\"state\":\"\",\"country\":\"GB\"}",
+    "address": "Hill St, Essington, Wolverhampton, WV11 2BS, GB",
     "phone": "07734 632398",
     "international_phone": "07734 632398",
     "website": "https://www.facebook.com/SonOfAGunRemovals/",
@@ -3532,7 +3770,7 @@
     "types": "Waste Collection Service",
     "lat": 52.62713,
     "lng": -2.061997,
-    "found_in_location": "midlands",
-    "found_with_query": "removal companies midlands"
+    "found_in_location": "Wolverhampton",
+    "found_with_query": "removals midlands"
   }
 ]
