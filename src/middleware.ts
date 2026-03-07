@@ -6,6 +6,7 @@ const STATIC_ROUTES = new Set([
   "guides",
   "get-quotes",
   "quote",
+  "privacy",
   "api",
   "minibus-hire",
   "van-hire",
@@ -20,6 +21,14 @@ const STATIC_ROUTES = new Set([
 ]);
 
 export function middleware(request: NextRequest) {
+  // Defensive URL cleanup: some clients accidentally append a backtick, which shows up as `%60`.
+  // Example: /minibus-hire/events%60
+  if (request.nextUrl.pathname.includes("%60") || request.nextUrl.pathname.includes("`")) {
+    const url = request.nextUrl.clone();
+    url.pathname = url.pathname.replaceAll("%60", "").replaceAll("`", "");
+    return NextResponse.redirect(url, 301);
+  }
+
   const segments = request.nextUrl.pathname.split("/").filter(Boolean);
   if (segments.length === 0) return;
   if (STATIC_ROUTES.has(segments[0])) return;
