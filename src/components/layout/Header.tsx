@@ -29,6 +29,39 @@ export default function Header() {
             </Link>
             <div className="relative group">
               <button className="text-sm text-text-light hover:text-primary transition-colors flex items-center gap-1">
+                Region
+                <svg
+                  className="w-3.5 h-3.5"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+              <div className="absolute left-0 top-full mt-1 bg-white border border-border rounded-lg shadow-lg py-1 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+                {ALL_REGIONS.map((region) => (
+                  <a
+                    key={region.id}
+                    href={`https://${region.domain}`}
+                    className={`block px-4 py-2 text-sm transition-colors ${
+                      region.id === site.id
+                        ? "text-primary font-medium bg-blue-50"
+                        : "text-text-light hover:text-primary hover:bg-surface"
+                    }`}
+                  >
+                    {region.shortName}
+                  </a>
+                ))}
+              </div>
+            </div>
+            <div className="relative group">
+              <button className="text-sm text-text-light hover:text-primary transition-colors flex items-center gap-1">
                 Services
                 <svg
                   className="w-3.5 h-3.5"
@@ -69,39 +102,6 @@ export default function Header() {
             >
               About
             </Link>
-            <div className="relative group">
-              <button className="text-sm text-text-light hover:text-primary transition-colors flex items-center gap-1">
-                {site.shortName}
-                <svg
-                  className="w-3.5 h-3.5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M19 9l-7 7-7-7"
-                  />
-                </svg>
-              </button>
-              <div className="absolute right-0 top-full mt-1 bg-white border border-border rounded-lg shadow-lg py-1 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
-                {ALL_REGIONS.map((region) => (
-                  <a
-                    key={region.id}
-                    href={`https://${region.domain}`}
-                    className={`block px-4 py-2 text-sm transition-colors ${
-                      region.id === site.id
-                        ? "text-primary font-medium bg-blue-50"
-                        : "text-text-light hover:text-primary hover:bg-surface"
-                    }`}
-                  >
-                    {region.shortName}
-                  </a>
-                ))}
-              </div>
-            </div>
           </nav>
 
           <Link
