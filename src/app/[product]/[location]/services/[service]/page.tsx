@@ -8,7 +8,6 @@ import {
 } from "@/lib/data";
 import { getSiteConfig } from "@/lib/siteConfig";
 import {
-  PRODUCT_SLUGS,
   getProductConfig,
   isValidProductSlug,
 } from "@/lib/productConfig";
@@ -18,20 +17,9 @@ import BusinessCard from "@/components/business/BusinessCard";
 
 type Params = { product: string; location: string; service: string };
 
-export async function generateStaticParams() {
-  const params: Params[] = [];
-  for (const product of PRODUCT_SLUGS) {
-    const productId = product as ProductId;
-    const locations = getLocations(productId);
-    const services = getServicePages(productId);
-    for (const loc of locations) {
-      for (const svc of services) {
-        params.push({ product, location: loc.slug, service: svc.slug });
-      }
-    }
-  }
-  return params;
-}
+// Use ISR instead of full SSG to stay within Vercel build size limits
+export const revalidate = 86400; // rebuild once per day
+export const dynamicParams = true;
 
 export async function generateMetadata({
   params,
