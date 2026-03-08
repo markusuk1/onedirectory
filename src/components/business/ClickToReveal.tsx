@@ -6,7 +6,8 @@ import posthog from "posthog-js";
 function maskPhone(phone: string): string {
   const digits = phone.replace(/\D/g, "");
   if (digits.length <= 4) return phone;
-  return phone.slice(0, 4) + "x".repeat(phone.length - 7) + phone.slice(-3);
+  const maskLen = Math.max(0, phone.length - 7);
+  return phone.slice(0, 4) + "x".repeat(maskLen) + phone.slice(-3);
 }
 
 export default function ClickToReveal({
