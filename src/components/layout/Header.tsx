@@ -27,15 +27,36 @@ export default function Header() {
             >
               Home
             </Link>
-            {ALL_PRODUCTS.map((product) => (
-              <Link
-                key={product.id}
-                href={`/${product.slug}`}
-                className="text-sm text-text-light hover:text-primary transition-colors"
-              >
-                {product.shortName}
-              </Link>
-            ))}
+            <div className="relative group">
+              <button className="text-sm text-text-light hover:text-primary transition-colors flex items-center gap-1">
+                Services
+                <svg
+                  className="w-3.5 h-3.5"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+              <div className="absolute left-0 top-full mt-1 bg-white border border-border rounded-lg shadow-lg py-1 w-56 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+                {ALL_PRODUCTS.map((product) => (
+                  <Link
+                    key={product.id}
+                    href={`/${product.slug}`}
+                    className="block px-4 py-2 text-sm text-text-light hover:text-primary hover:bg-surface transition-colors"
+                  >
+                    <span className="mr-2">{product.icon}</span>
+                    {product.shortName}
+                  </Link>
+                ))}
+              </div>
+            </div>
             <Link
               href="/guides"
               className="text-sm text-text-light hover:text-primary transition-colors"
