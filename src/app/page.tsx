@@ -113,19 +113,19 @@ export default async function HomePage() {
           <p className="text-text-light mb-8 text-center">
             Choose a hire category to find operators near you
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
             {productStats.map((product) => (
               <Link
                 key={product.id}
                 href={`/${product.slug}`}
-                className="bg-white border border-border rounded-xl p-8 hover:shadow-lg hover:border-primary-light transition-all duration-200 group text-center"
+                className="bg-white border border-border rounded-xl p-5 hover:shadow-lg hover:border-primary-light transition-all duration-200 group text-center"
               >
                 <img
                   src={product.image}
                   alt={product.imageAlt}
-                  className="h-24 md:h-28 mx-auto mb-4"
+                  className="h-20 md:h-24 mx-auto mb-3"
                 />
-                <h3 className="font-bold text-xl text-text group-hover:text-primary transition-colors mb-2">
+                <h3 className="font-bold text-lg text-text group-hover:text-primary transition-colors mb-1">
                   {product.name}
                 </h3>
                 <p className="text-text-light text-sm">
