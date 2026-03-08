@@ -12,6 +12,11 @@ const STATIC_ROUTES = new Set([
   "van-hire",
   "skip-hire",
   "locksmith",
+  "removal-companies",
+  "bouncy-castle-hire",
+  "limo-hire",
+  "plant-hire",
+  "driving-lessons",
   "_next",
   "images",
   "favicon.ico",
@@ -19,6 +24,7 @@ const STATIC_ROUTES = new Set([
   "sitemap.xml",
   "ads.txt",
   "operator",
+  "terms",
 ]);
 
 export function middleware(request: NextRequest) {
