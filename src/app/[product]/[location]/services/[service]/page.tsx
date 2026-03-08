@@ -6,7 +6,6 @@ import {
   getLocations,
   getLocationBySlugWithCount,
 } from "@/lib/data";
-import { getAllLocationSlugs } from "@/lib/locations";
 import { getSiteConfig } from "@/lib/siteConfig";
 import {
   PRODUCT_SLUGS,
@@ -14,16 +13,21 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { getServicePages, getServicePage } from "@/lib/servicePages";
 import BusinessCard from "@/components/business/BusinessCard";
-import AdBanner from "@/components/ads/AdBanner";
-import { getServicePages } from "@/lib/servicePages";
+
+type Params = { product: string; location: string; service: string };
 
 export async function generateStaticParams() {
-  const params: { product: string; location: string }[] = [];
+  const params: Params[] = [];
   for (const product of PRODUCT_SLUGS) {
-    const locations = getLocations(product as ProductId);
+    const productId = product as ProductId;
+    const locations = getLocations(productId);
+    const services = getServicePages(productId);
     for (const loc of locations) {
-      params.push({ product, location: loc.slug });
+      for (const svc of services) {
+        params.push({ product, location: loc.slug, service: svc.slug });
+      }
     }
   }
   return params;
@@ -32,25 +36,27 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ product: string; location: string }>;
+  params: Promise<Params>;
 }): Promise<Metadata> {
-  const { product, location: locationSlug } = await params;
+  const { product, location: locationSlug, service: serviceSlug } = await params;
   if (!isValidProductSlug(product)) return {};
-  const productConfig = getProductConfig(product)!;
-  const location = getLocationBySlugWithCount(locationSlug, product as ProductId);
+  const productId = product as ProductId;
+  const location = getLocationBySlugWithCount(locationSlug, productId);
   if (!location) return {};
+  const servicePage = getServicePage(productId, serviceSlug);
+  if (!servicePage) return {};
   return {
-    title: `${productConfig.name} ${location.name} | Compare ${location.businessCount} Companies`,
-    description: productConfig.locationDescriptionTemplate(location.name),
+    title: servicePage.metaTitle(location.name),
+    description: servicePage.metaDescription(location.name),
   };
 }
 
-export default async function ProductLocationPage({
+export default async function ServicePage({
   params,
 }: {
-  params: Promise<{ product: string; location: string }>;
+  params: Promise<Params>;
 }) {
-  const { product, location: locationSlug } = await params;
+  const { product, location: locationSlug, service: serviceSlug } = await params;
   if (!isValidProductSlug(product)) notFound();
 
   const productId = product as ProductId;
@@ -58,20 +64,28 @@ export default async function ProductLocationPage({
   const location = getLocationBySlugWithCount(locationSlug, productId);
   if (!location) notFound();
 
-  const businesses = getBusinessesByLocation(locationSlug, productId);
-  const servicePages = getServicePages(productId);
-  const allLocations = getLocations(productId).filter(
-    (l) => l.slug !== locationSlug
-  );
+  const servicePage = getServicePage(productId, serviceSlug);
+  if (!servicePage) notFound();
+
   const site = getSiteConfig();
+  const businesses = getBusinessesByLocation(locationSlug, productId);
+  const otherServices = getServicePages(productId).filter(
+    (s) => s.slug !== serviceSlug
+  );
+
+  const resolve = (
+    fn: string | ((loc: string, region?: string) => string),
+    loc: string,
+    region?: string
+  ) => (typeof fn === "function" ? fn(loc, region) : fn);
 
   const schema = [
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
-      name: `${productConfig.name} in ${location.name}`,
-      description: productConfig.locationDescriptionTemplate(location.name),
-      url: `https://${site.domain}/${product}/${locationSlug}`,
+      name: servicePage.h1(location.name),
+      description: servicePage.metaDescription(location.name),
+      url: `https://${site.domain}/${product}/${locationSlug}/services/${serviceSlug}`,
       about: {
         "@type": "Place",
         name: location.name,
@@ -104,7 +118,25 @@ export default async function ProductLocationPage({
           name: location.name,
           item: `https://${site.domain}/${product}/${locationSlug}`,
         },
+        {
+          "@type": "ListItem",
+          position: 4,
+          name: servicePage.name,
+          item: `https://${site.domain}/${product}/${locationSlug}/services/${serviceSlug}`,
+        },
       ],
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: servicePage.faq.map((f) => ({
+        "@type": "Question",
+        name: resolve(f.question, location.name),
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: resolve(f.answer, location.name),
+        },
+      })),
     },
   ];
 
@@ -125,7 +157,14 @@ export default async function ProductLocationPage({
             {productConfig.name}
           </Link>
           <span className="mx-2">/</span>
-          <span className="text-text font-medium">{location.name}</span>
+          <Link
+            href={`/${product}/${locationSlug}`}
+            className="hover:text-primary"
+          >
+            {location.name}
+          </Link>
+          <span className="mx-2">/</span>
+          <span className="text-text font-medium">{servicePage.name}</span>
         </div>
       </nav>
 
@@ -133,30 +172,45 @@ export default async function ProductLocationPage({
       <section className="bg-white border-b border-border py-8 md:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-2xl md:text-4xl font-bold text-text mb-3">
-            {productConfig.name} in {location.name}
+            {servicePage.h1(location.name)}
           </h1>
-          <p className="text-text-light max-w-2xl">
-            {productConfig.locationDescriptionTemplate(location.name)}
+          <p className="text-text-light max-w-3xl leading-relaxed">
+            {servicePage.intro(location.name, site.shortName)}
           </p>
           <div className="flex items-center gap-6 mt-4 text-sm text-text-light">
             <span>
-              <strong className="text-text">{location.businessCount}</strong>{" "}
-              {location.businessCount === 1 ? "company" : "companies"}
+              <strong className="text-text">{businesses.length}</strong>{" "}
+              {businesses.length === 1 ? "company" : "companies"} in{" "}
+              {location.name}
             </span>
           </div>
         </div>
       </section>
 
-      {/* Sponsored ad */}
-      <section className="py-6">
+      {/* SEO content sections */}
+      <section className="py-8 md:py-12 bg-surface">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <AdBanner site={site.id} placement="location_page" product={product} />
+          <div className="max-w-3xl space-y-8">
+            {servicePage.sections.map((section, i) => (
+              <div key={i}>
+                <h2 className="text-xl font-bold text-text mb-3">
+                  {resolve(section.heading, location.name)}
+                </h2>
+                <p className="text-text-light leading-relaxed">
+                  {resolve(section.content, location.name, site.shortName)}
+                </p>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
       {/* Business listings */}
       <section className="py-8 md:py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-xl font-bold text-text mb-6">
+            {productConfig.name} Companies in {location.name}
+          </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {businesses
               .sort((a, b) => {
@@ -193,15 +247,39 @@ export default async function ProductLocationPage({
         </div>
       </section>
 
-      {/* Service pages */}
-      {servicePages.length > 0 && (
-        <section className="bg-surface py-8 md:py-12 border-t border-border">
+      {/* FAQ */}
+      <section className="py-8 md:py-12 bg-surface border-t border-border">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-xl font-bold text-text mb-6">
+            Frequently Asked Questions
+          </h2>
+          <div className="max-w-3xl space-y-4">
+            {servicePage.faq.map((f, i) => (
+              <details
+                key={i}
+                className="bg-white border border-border rounded-lg group"
+              >
+                <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
+                  {resolve(f.question, location.name)}
+                </summary>
+                <p className="px-4 pb-4 text-text-light leading-relaxed">
+                  {resolve(f.answer, location.name)}
+                </p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Other services */}
+      {otherServices.length > 0 && (
+        <section className="py-8 md:py-12 border-t border-border">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-xl font-bold text-text mb-4">
-              {productConfig.name} Services in {location.name}
+              Other {productConfig.name} Services in {location.name}
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-              {servicePages.map((svc) => (
+              {otherServices.map((svc) => (
                 <Link
                   key={svc.slug}
                   href={`/${product}/${locationSlug}/services/${svc.slug}`}
@@ -216,34 +294,6 @@ export default async function ProductLocationPage({
           </div>
         </section>
       )}
-
-      {/* Related locations */}
-      <section className="bg-surface py-8 md:py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-xl font-bold text-text mb-6">
-            Other Locations in the {site.shortName}
-          </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-            {allLocations
-              .sort((a, b) => b.businessCount - a.businessCount)
-              .slice(0, 8)
-              .map((loc) => (
-                <Link
-                  key={loc.slug}
-                  href={`/${product}/${loc.slug}`}
-                  className="bg-white border border-border rounded-lg p-4 hover:shadow-md hover:border-primary-light transition-all text-sm group"
-                >
-                  <span className="font-medium text-text group-hover:text-primary transition-colors">
-                    {loc.name}
-                  </span>
-                  <span className="text-text-light ml-1">
-                    ({loc.businessCount})
-                  </span>
-                </Link>
-              ))}
-          </div>
-        </div>
-      </section>
 
       {/* CTA */}
       <section className="bg-primary py-10">

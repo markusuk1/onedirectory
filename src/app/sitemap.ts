@@ -4,6 +4,7 @@ import { getAllGuideSlugs } from "@/lib/guides";
 import { getSiteConfig } from "@/lib/siteConfig";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { getServicePages } from "@/lib/servicePages";
 
 const BASE_URL = `https://${getSiteConfig().domain}`;
 
@@ -81,6 +82,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "monthly",
         priority: 0.6,
       });
+    }
+
+    const servicePages = getServicePages(productId);
+    for (const loc of locations) {
+      for (const svc of servicePages) {
+        entries.push({
+          url: `${BASE_URL}/${product.slug}/${loc.slug}/services/${svc.slug}`,
+          lastModified: new Date(),
+          changeFrequency: "monthly",
+          priority: 0.7,
+        });
+      }
     }
   }
 
