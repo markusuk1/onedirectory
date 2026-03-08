@@ -3,6 +3,111 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 
+const SIDEBAR_AD_VARIATIONS = [
+  {
+    label: "Advertise Here",
+    heading: "Is this your business?",
+    description: "Claim your free profile and promote your services to local customers.",
+    cta: "Claim Profile",
+    gradient: "from-primary to-blue-700",
+    labelColor: "text-blue-200",
+    descColor: "text-blue-100",
+  },
+  {
+    label: "Sponsored",
+    heading: "Want more customers?",
+    description: "Get your business featured at the top. Seen by hundreds of local searchers daily.",
+    cta: "Get Featured",
+    gradient: "from-emerald-600 to-teal-700",
+    labelColor: "text-emerald-200",
+    descColor: "text-emerald-100",
+  },
+  {
+    label: "Ad Space",
+    heading: "Your ad could be here",
+    description: "Reach customers actively looking for quotes in your area right now.",
+    cta: "Place Your Ad",
+    gradient: "from-violet-600 to-purple-700",
+    labelColor: "text-violet-200",
+    descColor: "text-violet-100",
+  },
+  {
+    label: "Promote",
+    heading: "Fill your diary faster",
+    description: "Receive quote requests directly to your inbox. No commission, no middleman.",
+    cta: "Start Today",
+    gradient: "from-orange-500 to-red-600",
+    labelColor: "text-orange-200",
+    descColor: "text-orange-100",
+  },
+];
+
+function SidebarHouseAd() {
+  const [current, setCurrent] = useState(0);
+  const [fading, setFading] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setFading(true);
+      setTimeout(() => {
+        setCurrent((prev) => (prev + 1) % SIDEBAR_AD_VARIATIONS.length);
+        setFading(false);
+      }, 400);
+    }, 6000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const v = SIDEBAR_AD_VARIATIONS[current];
+
+  return (
+    <div>
+      <a
+        href="/operator/register"
+        className={`block rounded-xl overflow-hidden border border-white/10 bg-gradient-to-br ${v.gradient} hover:shadow-md transition-shadow`}
+      >
+        <div
+          className={`px-4 py-6 text-center transition-opacity duration-400 ${
+            fading ? "opacity-0" : "opacity-100"
+          }`}
+        >
+          <p
+            className={`${v.labelColor} text-[10px] font-semibold uppercase tracking-wider mb-2`}
+          >
+            {v.label}
+          </p>
+          <h3 className="text-white text-base font-bold mb-1.5">
+            {v.heading}
+          </h3>
+          <p className={`${v.descColor} text-xs leading-relaxed mb-3`}>
+            {v.description}
+          </p>
+          <span className="inline-block bg-white/20 hover:bg-white/30 text-white font-semibold text-xs px-4 py-2 rounded-lg transition-colors backdrop-blur-sm border border-white/20">
+            {v.cta}
+          </span>
+        </div>
+      </a>
+      <div className="flex justify-center gap-1.5 mt-2">
+        {SIDEBAR_AD_VARIATIONS.map((_, i) => (
+          <button
+            key={i}
+            onClick={() => {
+              setFading(true);
+              setTimeout(() => {
+                setCurrent(i);
+                setFading(false);
+              }, 400);
+            }}
+            className={`w-1.5 h-1.5 rounded-full transition-colors ${
+              i === current ? "bg-primary" : "bg-border"
+            }`}
+            aria-label={`Show variation ${i + 1}`}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 interface AdData {
   businessSlug: string;
   businessName: string;
@@ -67,29 +172,9 @@ export default function AdSidebar({ site, product, excludeSlug }: Props) {
     return () => clearInterval(timer);
   }, [ads.length]);
 
-  // Show house ad if no paid ads
+  // Show house ad if no paid ads — cycle through variations
   if (loaded && ads.length === 0) {
-    return (
-      <a
-        href="/operator/register"
-        className="block rounded-xl overflow-hidden border border-primary/20 bg-gradient-to-br from-primary to-blue-700 hover:shadow-md transition-shadow"
-      >
-        <div className="px-4 py-6 text-center">
-          <p className="text-blue-200 text-[10px] font-semibold uppercase tracking-wider mb-2">
-            Advertise Here
-          </p>
-          <h3 className="text-white text-base font-bold mb-1.5">
-            Is this your business?
-          </h3>
-          <p className="text-blue-100 text-xs leading-relaxed mb-3">
-            Claim your free profile and promote your services to local customers.
-          </p>
-          <span className="inline-block bg-accent text-white font-semibold text-xs px-4 py-2 rounded-lg">
-            Claim Profile
-          </span>
-        </div>
-      </a>
-    );
+    return <SidebarHouseAd />;
   }
 
   if (!loaded) return null;

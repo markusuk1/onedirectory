@@ -3,6 +3,120 @@
 import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
 
+const HOUSE_AD_VARIATIONS = [
+  {
+    label: "Sponsored",
+    heading: "Your Business Could Be Here",
+    description:
+      "Get your company in front of thousands of customers actively searching for quotes in your area.",
+    cta: "Advertise Now",
+    gradient: "from-primary to-blue-700",
+    labelColor: "text-blue-200",
+    descColor: "text-blue-100",
+  },
+  {
+    label: "Featured Spot",
+    heading: "Stand Out From The Competition",
+    description:
+      "Promoted listings get up to 5x more views. Claim your free profile and start getting noticed today.",
+    cta: "Get Featured",
+    gradient: "from-emerald-600 to-teal-700",
+    labelColor: "text-emerald-200",
+    descColor: "text-emerald-100",
+  },
+  {
+    label: "Ad Space Available",
+    heading: "Reach Local Customers Instantly",
+    description:
+      "Your ad banner appears right here — seen by hundreds of people looking for services near them every day.",
+    cta: "Place Your Ad",
+    gradient: "from-violet-600 to-purple-700",
+    labelColor: "text-violet-200",
+    descColor: "text-violet-100",
+  },
+  {
+    label: "Promote Your Business",
+    heading: "Fill Your Diary With New Enquiries",
+    description:
+      "Businesses advertising here receive quote requests directly to their inbox. No commission, no middleman.",
+    cta: "Start Advertising",
+    gradient: "from-orange-500 to-red-600",
+    labelColor: "text-orange-200",
+    descColor: "text-orange-100",
+  },
+];
+
+function HouseAd() {
+  const [current, setCurrent] = useState(0);
+  const [fading, setFading] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setFading(true);
+      setTimeout(() => {
+        setCurrent((prev) => (prev + 1) % HOUSE_AD_VARIATIONS.length);
+        setFading(false);
+      }, 400);
+    }, 6000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const v = HOUSE_AD_VARIATIONS[current];
+
+  return (
+    <div className="max-w-4xl mx-auto">
+      <a
+        href="/operator/register"
+        className={`block rounded-xl overflow-hidden border border-white/10 bg-gradient-to-r ${v.gradient} hover:shadow-lg transition-shadow`}
+      >
+        <div
+          className={`px-6 py-8 md:py-10 flex flex-col md:flex-row items-center gap-4 md:gap-8 transition-opacity duration-400 ${
+            fading ? "opacity-0" : "opacity-100"
+          }`}
+        >
+          <div className="flex-1 text-center md:text-left">
+            <p
+              className={`${v.labelColor} text-xs font-semibold uppercase tracking-wider mb-2`}
+            >
+              {v.label}
+            </p>
+            <h3 className="text-white text-xl md:text-2xl font-bold mb-2">
+              {v.heading}
+            </h3>
+            <p className={`${v.descColor} text-sm leading-relaxed`}>
+              {v.description}
+            </p>
+          </div>
+          <div className="shrink-0">
+            <span className="inline-block bg-white/20 hover:bg-white/30 text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors backdrop-blur-sm border border-white/20">
+              {v.cta}
+            </span>
+          </div>
+        </div>
+      </a>
+      {/* Dot indicators */}
+      <div className="flex justify-center gap-1.5 mt-3">
+        {HOUSE_AD_VARIATIONS.map((_, i) => (
+          <button
+            key={i}
+            onClick={() => {
+              setFading(true);
+              setTimeout(() => {
+                setCurrent(i);
+                setFading(false);
+              }, 400);
+            }}
+            className={`w-2 h-2 rounded-full transition-colors ${
+              i === current ? "bg-primary" : "bg-border"
+            }`}
+            aria-label={`Show ad variation ${i + 1}`}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 interface AdData {
   businessSlug: string;
   businessName: string;
@@ -65,36 +179,9 @@ export default function AdBanner({ site, placement, product }: Props) {
     setCurrentImage(index);
   }, []);
 
-  // Show house ad if no paid ads
+  // Show house ad if no paid ads — cycle through variations
   if (loaded && ads.length === 0) {
-    return (
-      <div className="max-w-4xl mx-auto">
-        <a
-          href="/operator/register"
-          className="block rounded-xl overflow-hidden border border-primary/20 bg-gradient-to-r from-primary to-blue-700 hover:shadow-lg transition-shadow"
-        >
-          <div className="px-6 py-8 md:py-10 flex flex-col md:flex-row items-center gap-4 md:gap-8">
-            <div className="flex-1 text-center md:text-left">
-              <p className="text-blue-200 text-xs font-semibold uppercase tracking-wider mb-2">
-                Your Ad Here
-              </p>
-              <h3 className="text-white text-xl md:text-2xl font-bold mb-2">
-                Own a business? Advertise here
-              </h3>
-              <p className="text-blue-100 text-sm leading-relaxed">
-                Claim your free business profile, then promote your services to
-                thousands of local customers searching for quotes.
-              </p>
-            </div>
-            <div className="shrink-0">
-              <span className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors">
-                Claim Your Profile
-              </span>
-            </div>
-          </div>
-        </a>
-      </div>
-    );
+    return <HouseAd />;
   }
 
   if (!loaded) return null;
