@@ -76,6 +76,40 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
           needPacking: getValue("needPacking"),
         },
       };
+    } else if (productId === "bouncy-castle-hire") {
+      data = {
+        ...base,
+        details: {
+          eventType: getValue("eventType"),
+          eventDate: getValue("eventDate"),
+          venue: getValue("venue"),
+          indoorOutdoor: getValue("indoorOutdoor"),
+          ageRange: getValue("ageRange"),
+        },
+      };
+    } else if (productId === "limo-hire") {
+      data = {
+        ...base,
+        details: {
+          occasion: getValue("occasion"),
+          eventDate: getValue("eventDate"),
+          pickupLocation: getValue("pickupLocation"),
+          destination: getValue("destination"),
+          passengers: getValue("passengers"),
+          hours: getValue("hours"),
+        },
+      };
+    } else if (productId === "plant-hire") {
+      data = {
+        ...base,
+        details: {
+          equipmentType: getValue("equipmentType"),
+          startDate: getValue("startDate"),
+          duration: getValue("duration"),
+          siteLocation: getValue("siteLocation"),
+          operatedOrSelfDrive: getValue("operatedOrSelfDrive"),
+        },
+      };
     } else {
       data = {
         ...base,
@@ -115,7 +149,7 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
 
   if (submitted) {
     const productLabel =
-      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : productId === "removal-companies" ? "removal" : "hire";
+      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : productId === "removal-companies" ? "removal" : productId === "bouncy-castle-hire" ? "bouncy castle" : productId === "limo-hire" ? "limo hire" : productId === "plant-hire" ? "plant hire" : "hire";
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -240,6 +274,56 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
               <option value="storage">Moving to Storage</option>
               <option value="international">International Move</option>
               <option value="other">Other</option>
+            </select>
+          </div>
+        )}
+        {productId === "bouncy-castle-hire" && (
+          <div>
+            <label htmlFor="eventType" className="block text-sm font-medium text-text mb-1">
+              Event Type *
+            </label>
+            <select id="eventType" name="eventType" required className={inputClass}>
+              <option value="">Select...</option>
+              <option value="birthday">Birthday Party</option>
+              <option value="school-fete">School Fete / Fair</option>
+              <option value="corporate">Corporate / Fun Day</option>
+              <option value="wedding">Wedding</option>
+              <option value="community">Community Event</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        )}
+        {productId === "limo-hire" && (
+          <div>
+            <label htmlFor="occasion" className="block text-sm font-medium text-text mb-1">
+              Occasion *
+            </label>
+            <select id="occasion" name="occasion" required className={inputClass}>
+              <option value="">Select...</option>
+              <option value="wedding">Wedding</option>
+              <option value="prom">Prom</option>
+              <option value="hen-stag">Hen / Stag Do</option>
+              <option value="birthday">Birthday</option>
+              <option value="night-out">Night Out</option>
+              <option value="corporate">Corporate / Airport Transfer</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        )}
+        {productId === "plant-hire" && (
+          <div>
+            <label htmlFor="equipmentType" className="block text-sm font-medium text-text mb-1">
+              Equipment Needed *
+            </label>
+            <select id="equipmentType" name="equipmentType" required className={inputClass}>
+              <option value="">Select...</option>
+              <option value="mini-digger">Mini Digger</option>
+              <option value="excavator">Excavator</option>
+              <option value="dumper">Dumper</option>
+              <option value="telehandler">Telehandler</option>
+              <option value="cherry-picker">Cherry Picker</option>
+              <option value="roller">Roller / Compactor</option>
+              <option value="other">Other / Multiple</option>
             </select>
           </div>
         )}
@@ -480,6 +564,143 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
         </>
       )}
 
+      {/* Bouncy castle hire specific fields */}
+      {productId === "bouncy-castle-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="eventDate" className="block text-sm font-medium text-text mb-1">
+                Event Date *
+              </label>
+              <input type="date" id="eventDate" name="eventDate" min={minDate} required className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="indoorOutdoor" className="block text-sm font-medium text-text mb-1">
+                Indoor or Outdoor? *
+              </label>
+              <select id="indoorOutdoor" name="indoorOutdoor" required className={inputClass}>
+                <option value="outdoor">Outdoor</option>
+                <option value="indoor">Indoor (village hall, etc.)</option>
+                <option value="either">Either / Not sure</option>
+              </select>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="venue" className="block text-sm font-medium text-text mb-1">
+                Venue / Postcode *
+              </label>
+              <input type="text" id="venue" name="venue" required placeholder="e.g. NE1 4ST or back garden" className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="ageRange" className="block text-sm font-medium text-text mb-1">
+                Age Range of Children
+              </label>
+              <select id="ageRange" name="ageRange" className={inputClass}>
+                <option value="">Any / mixed</option>
+                <option value="under-5">Under 5</option>
+                <option value="5-10">5-10</option>
+                <option value="10-16">10-16</option>
+                <option value="adults">Adults</option>
+              </select>
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Limo hire specific fields */}
+      {productId === "limo-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="eventDate" className="block text-sm font-medium text-text mb-1">
+                Event Date *
+              </label>
+              <input type="date" id="eventDate" name="eventDate" min={minDate} required className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="passengers" className="block text-sm font-medium text-text mb-1">
+                Number of Passengers *
+              </label>
+              <input type="number" id="passengers" name="passengers" min="1" max="30" required className={inputClass} />
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="pickupLocation" className="block text-sm font-medium text-text mb-1">
+                Pickup Location *
+              </label>
+              <input type="text" id="pickupLocation" name="pickupLocation" required placeholder="e.g. Manchester city centre" className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="destination" className="block text-sm font-medium text-text mb-1">
+                Destination
+              </label>
+              <input type="text" id="destination" name="destination" placeholder="e.g. venue name or address" className={inputClass} />
+            </div>
+          </div>
+          <div>
+            <label htmlFor="hours" className="block text-sm font-medium text-text mb-1">
+              Hours Required
+            </label>
+            <select id="hours" name="hours" className={inputClass}>
+              <option value="">Not sure</option>
+              <option value="1-2">1-2 hours</option>
+              <option value="3-4">3-4 hours</option>
+              <option value="5-6">5-6 hours</option>
+              <option value="full-day">Full day</option>
+              <option value="overnight">Overnight</option>
+            </select>
+          </div>
+        </>
+      )}
+
+      {/* Plant hire specific fields */}
+      {productId === "plant-hire" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="startDate" className="block text-sm font-medium text-text mb-1">
+                Start Date *
+              </label>
+              <input type="date" id="startDate" name="startDate" min={minDate} required className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="duration" className="block text-sm font-medium text-text mb-1">
+                Hire Duration *
+              </label>
+              <select id="duration" name="duration" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="1-day">1 day</option>
+                <option value="2-3-days">2-3 days</option>
+                <option value="1-week">1 week</option>
+                <option value="2-weeks">2 weeks</option>
+                <option value="1-month">1 month+</option>
+                <option value="not-sure">Not sure</option>
+              </select>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="siteLocation" className="block text-sm font-medium text-text mb-1">
+                Site Location / Postcode *
+              </label>
+              <input type="text" id="siteLocation" name="siteLocation" required placeholder="e.g. NE1 4ST or site address" className={inputClass} />
+            </div>
+            <div>
+              <label htmlFor="operatedOrSelfDrive" className="block text-sm font-medium text-text mb-1">
+                Operated or Self-Drive? *
+              </label>
+              <select id="operatedOrSelfDrive" name="operatedOrSelfDrive" required className={inputClass}>
+                <option value="self-drive">Self-Drive (I have a CPCS card)</option>
+                <option value="operated">Operated (with driver)</option>
+                <option value="either">Either / Not sure</option>
+              </select>
+            </div>
+          </div>
+        </>
+      )}
+
       {/* Minibus hire specific fields */}
       {productId === "minibus-hire" && (
         <>
@@ -589,7 +810,13 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
                   ? "Describe the issue, e.g. locked out, broken lock, key snapped..."
                   : productId === "removal-companies"
                     ? "Large or specialist items, access issues, floors/lifts, storage needs..."
-                    : "Any special requirements, luggage, accessibility needs..."
+                    : productId === "bouncy-castle-hire"
+                      ? "Number of children, garden size, power supply available..."
+                      : productId === "limo-hire"
+                        ? "Any special requests, decorations, drinks packages..."
+                        : productId === "plant-hire"
+                          ? "Project type, ground conditions, access to site..."
+                          : "Any special requirements, luggage, accessibility needs..."
           }
           className={inputClass}
         />

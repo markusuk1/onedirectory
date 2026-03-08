@@ -42,6 +42,39 @@ import lsSeBusinessesRaw from "@/data/locksmith_southeast_businesses.json";
 import lsSwBusinessesRaw from "@/data/locksmith_southwest_businesses.json";
 import lsWlBusinessesRaw from "@/data/locksmith_wales_businesses.json";
 
+import bcNeBusinessesRaw from "@/data/bouncy_northeast_businesses.json";
+import bcNwBusinessesRaw from "@/data/bouncy_northwest_businesses.json";
+import bcScBusinessesRaw from "@/data/bouncy_scotland_businesses.json";
+import bcMlBusinessesRaw from "@/data/bouncy_midlands_businesses.json";
+import bcYkBusinessesRaw from "@/data/bouncy_yorkshire_businesses.json";
+import bcEaBusinessesRaw from "@/data/bouncy_east_businesses.json";
+import bcLnBusinessesRaw from "@/data/bouncy_london_businesses.json";
+import bcSeBusinessesRaw from "@/data/bouncy_southeast_businesses.json";
+import bcSwBusinessesRaw from "@/data/bouncy_southwest_businesses.json";
+import bcWlBusinessesRaw from "@/data/bouncy_wales_businesses.json";
+
+import lhNeBusinessesRaw from "@/data/limo_northeast_businesses.json";
+import lhNwBusinessesRaw from "@/data/limo_northwest_businesses.json";
+import lhScBusinessesRaw from "@/data/limo_scotland_businesses.json";
+import lhMlBusinessesRaw from "@/data/limo_midlands_businesses.json";
+import lhYkBusinessesRaw from "@/data/limo_yorkshire_businesses.json";
+import lhEaBusinessesRaw from "@/data/limo_east_businesses.json";
+import lhLnBusinessesRaw from "@/data/limo_london_businesses.json";
+import lhSeBusinessesRaw from "@/data/limo_southeast_businesses.json";
+import lhSwBusinessesRaw from "@/data/limo_southwest_businesses.json";
+import lhWlBusinessesRaw from "@/data/limo_wales_businesses.json";
+
+import phNeBusinessesRaw from "@/data/plant_northeast_businesses.json";
+import phNwBusinessesRaw from "@/data/plant_northwest_businesses.json";
+import phScBusinessesRaw from "@/data/plant_scotland_businesses.json";
+import phMlBusinessesRaw from "@/data/plant_midlands_businesses.json";
+import phYkBusinessesRaw from "@/data/plant_yorkshire_businesses.json";
+import phEaBusinessesRaw from "@/data/plant_east_businesses.json";
+import phLnBusinessesRaw from "@/data/plant_london_businesses.json";
+import phSeBusinessesRaw from "@/data/plant_southeast_businesses.json";
+import phSwBusinessesRaw from "@/data/plant_southwest_businesses.json";
+import phWlBusinessesRaw from "@/data/plant_wales_businesses.json";
+
 import rmNeBusinessesRaw from "@/data/removals_northeast_businesses.json";
 import rmNwBusinessesRaw from "@/data/removals_northwest_businesses.json";
 import rmScBusinessesRaw from "@/data/removals_scotland_businesses.json";
@@ -119,6 +152,42 @@ function getRawBusinesses(
     if (id === "southwest") return lsSwBusinessesRaw as BusinessRaw[];
     if (id === "wales") return lsWlBusinessesRaw as BusinessRaw[];
     return lsNeBusinessesRaw as BusinessRaw[];
+  }
+  if (productId === "bouncy-castle-hire") {
+    if (id === "northwest") return bcNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return bcScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return bcMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return bcYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return bcEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return bcLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return bcSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return bcSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return bcWlBusinessesRaw as BusinessRaw[];
+    return bcNeBusinessesRaw as BusinessRaw[];
+  }
+  if (productId === "limo-hire") {
+    if (id === "northwest") return lhNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return lhScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return lhMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return lhYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return lhEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return lhLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return lhSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return lhSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return lhWlBusinessesRaw as BusinessRaw[];
+    return lhNeBusinessesRaw as BusinessRaw[];
+  }
+  if (productId === "plant-hire") {
+    if (id === "northwest") return phNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return phScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return phMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return phYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return phEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return phLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return phSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return phSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return phWlBusinessesRaw as BusinessRaw[];
+    return phNeBusinessesRaw as BusinessRaw[];
   }
   if (productId === "removal-companies") {
     if (id === "northwest") return rmNwBusinessesRaw as BusinessRaw[];

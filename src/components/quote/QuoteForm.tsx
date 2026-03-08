@@ -74,6 +74,40 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
           needPacking: getValue("needPacking"),
         },
       };
+    } else if (productId === "bouncy-castle-hire") {
+      data = {
+        ...base,
+        details: {
+          eventType: getValue("eventType"),
+          eventDate: getValue("eventDate"),
+          venue: getValue("venue"),
+          indoorOutdoor: getValue("indoorOutdoor"),
+          ageRange: getValue("ageRange"),
+        },
+      };
+    } else if (productId === "limo-hire") {
+      data = {
+        ...base,
+        details: {
+          occasion: getValue("occasion"),
+          eventDate: getValue("eventDate"),
+          pickupLocation: getValue("pickupLocation"),
+          destination: getValue("destination"),
+          passengers: getValue("passengers"),
+          hours: getValue("hours"),
+        },
+      };
+    } else if (productId === "plant-hire") {
+      data = {
+        ...base,
+        details: {
+          equipmentType: getValue("equipmentType"),
+          startDate: getValue("startDate"),
+          duration: getValue("duration"),
+          siteLocation: getValue("siteLocation"),
+          operatedOrSelfDrive: getValue("operatedOrSelfDrive"),
+        },
+      };
     } else {
       data = {
         ...base,

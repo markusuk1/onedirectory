@@ -47,7 +47,16 @@ export async function POST(request: NextRequest) {
       const businessLine = body.businessName
         ? `<tr><td style="padding:4px 8px;font-weight:600">Business</td><td style="padding:4px 8px">${body.businessName}</td></tr>`
         : "";
-      const productLabel = body.product === "van-hire" ? "Van Hire" : body.product === "skip-hire" ? "Skip Hire" : body.product === "locksmith" ? "Locksmith" : body.product === "removal-companies" ? "Removal Companies" : "Minibus Hire";
+      const productLabels: Record<string, string> = {
+        "van-hire": "Van Hire",
+        "skip-hire": "Skip Hire",
+        locksmith: "Locksmith",
+        "removal-companies": "Removal Companies",
+        "bouncy-castle-hire": "Bouncy Castle Hire",
+        "limo-hire": "Limo Hire",
+        "plant-hire": "Plant Hire",
+      };
+      const productLabel = productLabels[body.product] || "Minibus Hire";
 
       // Build product-specific detail rows
       let detailRows = "";
@@ -86,6 +95,34 @@ export async function POST(request: NextRequest) {
           <tr><td style="padding:4px 8px;font-weight:600">Moving To</td><td style="padding:4px 8px">${d.movingTo || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Moving Date</td><td style="padding:4px 8px">${d.moveDate || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Packing Service</td><td style="padding:4px 8px">${d.needPacking || "—"}</td></tr>
+        `;
+      } else if (body.product === "bouncy-castle-hire" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Event Type</td><td style="padding:4px 8px">${d.eventType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Event Date</td><td style="padding:4px 8px">${d.eventDate || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Venue</td><td style="padding:4px 8px">${d.venue || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Indoor/Outdoor</td><td style="padding:4px 8px">${d.indoorOutdoor || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Age Range</td><td style="padding:4px 8px">${d.ageRange || "—"}</td></tr>
+        `;
+      } else if (body.product === "limo-hire" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Occasion</td><td style="padding:4px 8px">${d.occasion || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Event Date</td><td style="padding:4px 8px">${d.eventDate || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Pickup</td><td style="padding:4px 8px">${d.pickupLocation || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Destination</td><td style="padding:4px 8px">${d.destination || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Passengers</td><td style="padding:4px 8px">${d.passengers || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Hours</td><td style="padding:4px 8px">${d.hours || "—"}</td></tr>
+        `;
+      } else if (body.product === "plant-hire" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Equipment</td><td style="padding:4px 8px">${d.equipmentType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Start Date</td><td style="padding:4px 8px">${d.startDate || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Duration</td><td style="padding:4px 8px">${d.duration || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Site Location</td><td style="padding:4px 8px">${d.siteLocation || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Operated/Self-Drive</td><td style="padding:4px 8px">${d.operatedOrSelfDrive || "—"}</td></tr>
         `;
       } else {
         detailRows = `

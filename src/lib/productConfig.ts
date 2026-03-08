@@ -1,4 +1,4 @@
-export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies" | "bouncy-castle-hire" | "limo-hire" | "plant-hire";
 
 export interface ProductConfig {
   id: ProductId;
@@ -283,6 +283,166 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Highest rated removal companies in the ${shortName}`,
     browseSubtitle: "Find removal companies near you",
     servicesSubtitle: "Whatever your moving needs, we can help",
+  },
+  "bouncy-castle-hire": {
+    id: "bouncy-castle-hire",
+    slug: "bouncy-castle-hire",
+    name: "Bouncy Castle Hire",
+    shortName: "Bouncy Castles",
+    icon: "🏰",
+    image: "/images/bouncy.png",
+    imageAlt: "Bouncy castle hire illustration",
+    heroTitle: (region) => `Find Bouncy Castle Hire in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ bouncy castle hire companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare bouncy castle hire companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local providers.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides bouncy castle hire in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        title: "Bouncy Castle Hire",
+        desc: "Classic bouncy castles in all sizes for children's parties, fetes and family events.",
+      },
+      {
+        title: "Inflatable Slide Hire",
+        desc: "Giant inflatable slides for outdoor events, school fairs and community gatherings.",
+      },
+      {
+        title: "Soft Play Hire",
+        desc: "Indoor soft play equipment hire for toddler parties and rainy day entertainment.",
+      },
+      {
+        title: "Assault Course Hire",
+        desc: "Inflatable obstacle courses and assault courses for team events and corporate fun days.",
+      },
+      {
+        title: "Disco Dome Hire",
+        desc: "Enclosed bouncy castles with lights and music, perfect for evening parties and teen events.",
+      },
+      {
+        title: "Ball Pool Hire",
+        desc: "Inflatable ball pools with thousands of balls for young children's parties and events.",
+      },
+    ],
+    seoHeading: (shortName) =>
+      `Bouncy Castle Hire Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you need a bouncy castle for a birthday party, an inflatable slide for a school fete, or soft play for a toddler event, our directory connects you with the best local providers across the ${region}.`,
+      `We list over ${count} bouncy castle hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your event details and we'll connect you with suitable companies in your area.`,
+    ],
+    ctaText: (loc) => `Planning a party in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated bouncy castle hire companies in the ${shortName}`,
+    browseSubtitle: "Find bouncy castle hire companies near you",
+    servicesSubtitle: "Whatever your party or event needs, we can help",
+  },
+  "limo-hire": {
+    id: "limo-hire",
+    slug: "limo-hire",
+    name: "Limo Hire",
+    shortName: "Limo Hire",
+    icon: "🚗",
+    image: "/images/limo.png",
+    imageAlt: "Limo hire illustration",
+    heroTitle: (region) => `Find Limo Hire in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ limo hire companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare limo hire companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local providers.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides limo hire in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        title: "Stretch Limo Hire",
+        desc: "Classic stretch limousines for proms, weddings and special occasions. Luxury travel at its finest.",
+      },
+      {
+        title: "Hummer Limo Hire",
+        desc: "Hummer stretch limos for hen and stag parties, birthdays and VIP nights out.",
+      },
+      {
+        title: "Wedding Car Hire",
+        desc: "Elegant wedding cars including Rolls Royce, Bentley and vintage vehicles for your special day.",
+      },
+      {
+        title: "Party Bus Hire",
+        desc: "Party buses with sound systems, lighting and seating for the ultimate group night out.",
+      },
+      {
+        title: "Prom Car Hire",
+        desc: "Make an entrance at prom with a luxury limo, sports car or novelty vehicle.",
+      },
+      {
+        title: "Corporate Chauffeur",
+        desc: "Professional chauffeur services for business meetings, airport transfers and corporate events.",
+      },
+    ],
+    seoHeading: (shortName) => `Limo Hire Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you need a stretch limo for prom night, a wedding car for your big day, or a party bus for a celebration, our directory connects you with the best local limo hire companies across the ${region}.`,
+      `We list over ${count} limo hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your event details and we'll connect you with suitable companies in your area.`,
+    ],
+    ctaText: (loc) => `Need a limo in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated limo hire companies in the ${shortName}`,
+    browseSubtitle: "Find limo hire companies near you",
+    servicesSubtitle: "Whatever your occasion, arrive in style",
+  },
+  "plant-hire": {
+    id: "plant-hire",
+    slug: "plant-hire",
+    name: "Plant Hire",
+    shortName: "Plant Hire",
+    icon: "🏗️",
+    image: "/images/plant.png",
+    imageAlt: "Plant hire illustration",
+    heroTitle: (region) => `Find Plant Hire in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ plant hire companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare plant hire companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local providers.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides plant hire in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        title: "Mini Digger Hire",
+        desc: "Compact excavators for driveways, gardens and small construction projects.",
+      },
+      {
+        title: "Excavator Hire",
+        desc: "Full-size excavators for earthmoving, foundations and large-scale projects.",
+      },
+      {
+        title: "Dumper Hire",
+        desc: "Site dumpers for moving soil, rubble and materials around construction sites.",
+      },
+      {
+        title: "Telehandler Hire",
+        desc: "Telescopic handlers for lifting and placing materials at height on construction and farm sites.",
+      },
+      {
+        title: "Cherry Picker Hire",
+        desc: "Access platforms and cherry pickers for working at height, maintenance and tree surgery.",
+      },
+      {
+        title: "Roller & Compactor Hire",
+        desc: "Road rollers and plate compactors for groundwork, driveways and highway projects.",
+      },
+    ],
+    seoHeading: (shortName) => `Plant Hire Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you need a mini digger for a garden project, an excavator for a building site, or a cherry picker for maintenance work, our directory connects you with trusted local plant hire companies across the ${region}.`,
+      `We list over ${count} plant hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your project requirements and we'll connect you with suitable companies in your area.`,
+    ],
+    ctaText: (loc) => `Need plant hire in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated plant hire companies in the ${shortName}`,
+    browseSubtitle: "Find plant hire companies near you",
+    servicesSubtitle: "Whatever your construction or groundwork needs, we can help",
   },
 };
 

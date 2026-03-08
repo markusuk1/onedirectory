@@ -4,6 +4,9 @@ import { getVanHireGuides } from "./guides-vanhire";
 import { getSkipHireGuides } from "./guides-skiphire";
 import { getLocksmithGuides } from "./guides-locksmith";
 import { getRemovalGuides } from "./guides-removals";
+import { getBouncyGuides } from "./guides-bouncy";
+import { getLimoGuides } from "./guides-limo";
+import { getPlantGuides } from "./guides-plant";
 
 export interface Guide {
   slug: string;
@@ -4458,7 +4461,10 @@ function getGuides(): Guide[] {
   const skip = getSkipHireGuides();
   const locksmith = getLocksmithGuides();
   const removals = getRemovalGuides();
-  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith, ...removals];
+  const bouncy = getBouncyGuides();
+  const limo = getLimoGuides();
+  const plant = getPlantGuides();
+  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith, ...removals, ...bouncy, ...limo, ...plant];
 }
 
 export const GUIDES: Guide[] = getGuides();
