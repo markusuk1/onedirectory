@@ -4,9 +4,11 @@ import pool from "@/lib/db";
 import { initOperatorTables } from "@/lib/db-schema";
 import Link from "next/link";
 import ProfileForm from "@/components/operator/ProfileForm";
+import BadgeEmbed from "@/components/operator/BadgeEmbed";
 import { PRODUCT_CONFIGS } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
 import { getAllBusinesses } from "@/lib/data";
+import { getSiteConfig } from "@/lib/siteConfig";
 
 export default async function EditProfilePage({
   params,
@@ -49,13 +51,14 @@ export default async function EditProfilePage({
 
   // Get current profile overrides
   const profileResult = await pool.query(
-    `SELECT description, phone, email, website, logo_url, tagline, services
+    `SELECT description, phone, email, website, logo_url, tagline, services, backlink_added
      FROM operator_profiles
      WHERE business_slug = $1 AND product = $2 AND site = $3`,
     [slug, product, site]
   );
 
   const profile = profileResult.rows[0] || null;
+  const siteConfig = getSiteConfig();
 
   // Get base business data from JSON
   const allBusinesses = getAllBusinesses(product as ProductId);
@@ -100,6 +103,29 @@ export default async function EditProfilePage({
             website: baseBusiness.website,
             services: baseBusiness.services,
           } : null}
+        />
+      </div>
+
+      {/* Badge / Backlink section */}
+      <div
+        id="badge"
+        className="bg-white border border-border rounded-xl p-6 md:p-8 max-w-2xl mt-6"
+      >
+        <h2 className="text-xl font-bold text-text mb-1">
+          Add Our Badge to Your Website
+        </h2>
+        <p className="text-text-light text-sm mb-5">
+          Display a &quot;Listed on {siteConfig.genericName}&quot; badge on your
+          website and earn <strong>5 bonus free quotes</strong>. It takes 2
+          minutes and works on any website platform.
+        </p>
+        <BadgeEmbed
+          slug={slug}
+          product={product}
+          site={site}
+          domain={siteConfig.domain}
+          siteName={siteConfig.genericName}
+          backlinkAdded={profile?.backlink_added === true}
         />
       </div>
     </div>

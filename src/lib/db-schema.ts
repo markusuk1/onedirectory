@@ -37,6 +37,7 @@ export async function initOperatorTables() {
       logo_url VARCHAR(500),
       tagline VARCHAR(255),
       services TEXT[],
+      backlink_added BOOLEAN DEFAULT false,
       updated_at TIMESTAMPTZ DEFAULT NOW(),
       UNIQUE(business_slug, product, site)
     );
@@ -81,5 +82,7 @@ export async function initOperatorTables() {
       updated_at TIMESTAMPTZ DEFAULT NOW(),
       UNIQUE(business_slug, product, site, placement)
     );
+
+    ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS backlink_added BOOLEAN DEFAULT false;
   `);
 }

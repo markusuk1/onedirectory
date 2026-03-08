@@ -65,8 +65,39 @@ export default function AdBanner({ site, placement, product }: Props) {
     setCurrentImage(index);
   }, []);
 
-  // Don't render anything if no ads or still loading
-  if (!loaded || ads.length === 0) return null;
+  // Show house ad if no paid ads
+  if (loaded && ads.length === 0) {
+    return (
+      <div className="max-w-4xl mx-auto">
+        <a
+          href="/operator/register"
+          className="block rounded-xl overflow-hidden border border-primary/20 bg-gradient-to-r from-primary to-blue-700 hover:shadow-lg transition-shadow"
+        >
+          <div className="px-6 py-8 md:py-10 flex flex-col md:flex-row items-center gap-4 md:gap-8">
+            <div className="flex-1 text-center md:text-left">
+              <p className="text-blue-200 text-xs font-semibold uppercase tracking-wider mb-2">
+                Your Ad Here
+              </p>
+              <h3 className="text-white text-xl md:text-2xl font-bold mb-2">
+                Own a business? Advertise here
+              </h3>
+              <p className="text-blue-100 text-sm leading-relaxed">
+                Claim your free business profile, then promote your services to
+                thousands of local customers searching for quotes.
+              </p>
+            </div>
+            <div className="shrink-0">
+              <span className="inline-block bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors">
+                Claim Your Profile
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+    );
+  }
+
+  if (!loaded) return null;
 
   const ad = ads[currentAd];
   if (!ad || ad.imageUrls.length === 0) return null;

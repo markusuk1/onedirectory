@@ -86,13 +86,24 @@ import rmSeBusinessesRaw from "@/data/removals_southeast_businesses.json";
 import rmSwBusinessesRaw from "@/data/removals_southwest_businesses.json";
 import rmWlBusinessesRaw from "@/data/removals_wales_businesses.json";
 
+import dlNeBusinessesRaw from "@/data/driving_northeast_businesses.json";
+import dlNwBusinessesRaw from "@/data/driving_northwest_businesses.json";
+import dlScBusinessesRaw from "@/data/driving_scotland_businesses.json";
+import dlMlBusinessesRaw from "@/data/driving_midlands_businesses.json";
+import dlYkBusinessesRaw from "@/data/driving_yorkshire_businesses.json";
+import dlEaBusinessesRaw from "@/data/driving_east_businesses.json";
+import dlLnBusinessesRaw from "@/data/driving_london_businesses.json";
+import dlSeBusinessesRaw from "@/data/driving_southeast_businesses.json";
+import dlSwBusinessesRaw from "@/data/driving_southwest_businesses.json";
+import dlWlBusinessesRaw from "@/data/driving_wales_businesses.json";
+
 import type { Business, BusinessRaw, Location } from "@/types";
 import type { ProductId } from "./productConfig";
 import { slugify } from "./slugify";
 import { getLocationConfig, getLocationFromFoundIn } from "./locations";
 import { getSiteId } from "./siteConfig";
-import { getPromotion } from "./promotions";
 import pool from "./db";
+import { initOperatorTables } from "./db-schema";
 
 function transformBusiness(raw: BusinessRaw): Business {
   const locationSlug = getLocationFromFoundIn(raw.found_in_location);
@@ -201,6 +212,18 @@ function getRawBusinesses(
     if (id === "wales") return rmWlBusinessesRaw as BusinessRaw[];
     return rmNeBusinessesRaw as BusinessRaw[];
   }
+  if (productId === "driving-lessons") {
+    if (id === "northwest") return dlNwBusinessesRaw as BusinessRaw[];
+    if (id === "scotland") return dlScBusinessesRaw as BusinessRaw[];
+    if (id === "midlands") return dlMlBusinessesRaw as BusinessRaw[];
+    if (id === "yorkshire") return dlYkBusinessesRaw as BusinessRaw[];
+    if (id === "east") return dlEaBusinessesRaw as BusinessRaw[];
+    if (id === "london") return dlLnBusinessesRaw as BusinessRaw[];
+    if (id === "southeast") return dlSeBusinessesRaw as BusinessRaw[];
+    if (id === "southwest") return dlSwBusinessesRaw as BusinessRaw[];
+    if (id === "wales") return dlWlBusinessesRaw as BusinessRaw[];
+    return dlNeBusinessesRaw as BusinessRaw[];
+  }
   if (productId === "van-hire") {
     if (id === "northwest") return vhNwBusinessesRaw as BusinessRaw[];
     if (id === "scotland") return vhScBusinessesRaw as BusinessRaw[];
@@ -232,14 +255,7 @@ export function getAllBusinesses(
   if (!_businessCache.has(key)) {
     _businessCache.set(
       key,
-      getRawBusinesses(productId).map(transformBusiness).map((b) => {
-        const promo = getPromotion(productId, b.slug);
-        return {
-          ...b,
-          ...(promo.featured && { isFeatured: true }),
-          ...(promo.recommended && { isRecommended: true }),
-        };
-      })
+      getRawBusinesses(productId).map(transformBusiness)
     );
   }
   return _businessCache.get(key)!;
@@ -287,6 +303,48 @@ export function getFeaturedBusinesses(
   ];
 
   return sorted.slice(0, limit);
+}
+
+/**
+ * Enrich businesses with promotion status from the database.
+ * - isRecommended = business has an approved claim (operator claimed their profile)
+ * - isFeatured = business has an active paid advert
+ */
+export async function enrichWithPromotions(
+  businesses: Business[],
+  productSlug: string,
+  site: string
+): Promise<Business[]> {
+  try {
+    await initOperatorTables();
+
+    const [claimsResult, advertsResult] = await Promise.all([
+      pool.query(
+        `SELECT DISTINCT business_slug FROM operator_claims
+         WHERE product = $1 AND site = $2 AND status = 'approved'`,
+        [productSlug, site]
+      ),
+      pool.query(
+        `SELECT DISTINCT business_slug FROM adverts
+         WHERE product = $1 AND site = $2 AND status = 'active'
+           AND (start_date IS NULL OR start_date <= CURRENT_DATE)
+           AND (end_date IS NULL OR end_date >= CURRENT_DATE)`,
+        [productSlug, site]
+      ),
+    ]);
+
+    const claimedSlugs = new Set(claimsResult.rows.map((r: { business_slug: string }) => r.business_slug));
+    const featuredSlugs = new Set(advertsResult.rows.map((r: { business_slug: string }) => r.business_slug));
+
+    return businesses.map((b) => ({
+      ...b,
+      ...(claimedSlugs.has(b.slug) && { isRecommended: true, isClaimed: true }),
+      ...(featuredSlugs.has(b.slug) && { isFeatured: true }),
+    }));
+  } catch {
+    // If DB is unavailable (e.g. during build), return businesses as-is
+    return businesses;
+  }
 }
 
 export function getLocations(
@@ -349,9 +407,22 @@ export async function getBusinessWithOverrides(
     if (result.rows.length === 0) return base;
 
     const override = result.rows[0];
+
+    // Check for active paid advert (= Featured badge)
+    const adResult = await pool.query(
+      `SELECT 1 FROM adverts
+       WHERE business_slug = $1 AND product = $2 AND site = $3 AND status = 'active'
+         AND (start_date IS NULL OR start_date <= CURRENT_DATE)
+         AND (end_date IS NULL OR end_date >= CURRENT_DATE)
+       LIMIT 1`,
+      [businessSlug, productId, siteId]
+    );
+
     return {
       ...base,
       isClaimed: true,
+      isRecommended: true,
+      ...(adResult.rows.length > 0 && { isFeatured: true }),
       ...(override.description && { description: override.description }),
       ...(override.phone && { phone: override.phone }),
       ...(override.email && { email: override.email }),

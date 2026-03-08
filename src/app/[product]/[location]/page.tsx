@@ -5,6 +5,7 @@ import {
   getBusinessesByLocation,
   getLocations,
   getLocationBySlugWithCount,
+  enrichWithPromotions,
 } from "@/lib/data";
 import { getAllLocationSlugs } from "@/lib/locations";
 import { getSiteConfig } from "@/lib/siteConfig";
@@ -58,12 +59,13 @@ export default async function ProductLocationPage({
   const location = getLocationBySlugWithCount(locationSlug, productId);
   if (!location) notFound();
 
-  const businesses = getBusinessesByLocation(locationSlug, productId);
+  const site = getSiteConfig();
+  const rawBusinesses = getBusinessesByLocation(locationSlug, productId);
+  const businesses = await enrichWithPromotions(rawBusinesses, product, site.id);
   const servicePages = getServicePages(productId);
   const allLocations = getLocations(productId).filter(
     (l) => l.slug !== locationSlug
   );
-  const site = getSiteConfig();
 
   const schema = [
     {

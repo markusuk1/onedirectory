@@ -67,7 +67,32 @@ export default function AdSidebar({ site, product, excludeSlug }: Props) {
     return () => clearInterval(timer);
   }, [ads.length]);
 
-  if (!loaded || ads.length === 0) return null;
+  // Show house ad if no paid ads
+  if (loaded && ads.length === 0) {
+    return (
+      <a
+        href="/operator/register"
+        className="block rounded-xl overflow-hidden border border-primary/20 bg-gradient-to-br from-primary to-blue-700 hover:shadow-md transition-shadow"
+      >
+        <div className="px-4 py-6 text-center">
+          <p className="text-blue-200 text-[10px] font-semibold uppercase tracking-wider mb-2">
+            Advertise Here
+          </p>
+          <h3 className="text-white text-base font-bold mb-1.5">
+            Is this your business?
+          </h3>
+          <p className="text-blue-100 text-xs leading-relaxed mb-3">
+            Claim your free profile and promote your services to local customers.
+          </p>
+          <span className="inline-block bg-accent text-white font-semibold text-xs px-4 py-2 rounded-lg">
+            Claim Profile
+          </span>
+        </div>
+      </a>
+    );
+  }
+
+  if (!loaded) return null;
 
   const ad = ads[currentAd];
   if (!ad || ad.imageUrls.length === 0) return null;

@@ -53,5 +53,11 @@ export async function GET(request: NextRequest) {
     altText: row.alt_text,
   }));
 
+  // Shuffle so each page load starts with a random advertiser (fair rotation)
+  for (let i = adverts.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [adverts[i], adverts[j]] = [adverts[j], adverts[i]];
+  }
+
   return NextResponse.json({ adverts });
 }

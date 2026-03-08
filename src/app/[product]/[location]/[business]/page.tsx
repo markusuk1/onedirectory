@@ -8,6 +8,7 @@ import {
   getBusinessesByLocation,
   getBusinessWithOverrides,
   getLocationBySlugWithCount,
+  enrichWithPromotions,
 } from "@/lib/data";
 import StarRating from "@/components/business/StarRating";
 import ClickToReveal from "@/components/business/ClickToReveal";
@@ -73,13 +74,13 @@ export default async function ProductBusinessPage({
   const business = await getBusinessWithOverrides(locationSlug, businessSlug, productId);
   if (!business) notFound();
 
+  const site = getSiteConfig();
   const location = getLocationBySlugWithCount(locationSlug, productId);
-  const nearbyBusinesses = getBusinessesByLocation(locationSlug, productId)
+  const rawNearby = getBusinessesByLocation(locationSlug, productId)
     .filter((b) => b.slug !== business.slug)
     .sort((a, b) => (b.rating || 0) - (a.rating || 0))
     .slice(0, 3);
-
-  const site = getSiteConfig();
+  const nearbyBusinesses = await enrichWithPromotions(rawNearby, product, site.id);
 
   // Schema.org JSON-LD
   const schema = [

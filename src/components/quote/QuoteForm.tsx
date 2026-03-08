@@ -108,6 +108,16 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
           operatedOrSelfDrive: getValue("operatedOrSelfDrive"),
         },
       };
+    } else if (productId === "driving-lessons") {
+      data = {
+        ...base,
+        details: {
+          lessonType: getValue("lessonType"),
+          transmission: getValue("transmission"),
+          experience: getValue("experience"),
+          area: getValue("area"),
+        },
+      };
     } else {
       data = {
         ...base,
@@ -144,7 +154,7 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
 
   if (submitted) {
     const productLabel =
-      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : productId === "removal-companies" ? "removal" : "hire";
+      productId === "skip-hire" ? "skip hire" : productId === "van-hire" ? "van hire" : productId === "locksmith" ? "locksmith" : productId === "removal-companies" ? "removal" : productId === "driving-lessons" ? "driving lesson" : "hire";
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -556,6 +566,64 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
         </>
       )}
 
+      {productId === "driving-lessons" && (
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="lessonType" className="block text-sm font-medium text-text mb-1">
+                Lesson Type *
+              </label>
+              <select id="lessonType" name="lessonType" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="weekly">Weekly Lessons</option>
+                <option value="intensive">Intensive / Crash Course</option>
+                <option value="refresher">Refresher Lessons</option>
+                <option value="pass-plus">Pass Plus</option>
+                <option value="mock-test">Mock Test Preparation</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="transmission" className="block text-sm font-medium text-text mb-1">
+                Transmission *
+              </label>
+              <select id="transmission" name="transmission" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="manual">Manual</option>
+                <option value="automatic">Automatic</option>
+                <option value="no-preference">No Preference</option>
+              </select>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="experience" className="block text-sm font-medium text-text mb-1">
+                Experience Level *
+              </label>
+              <select id="experience" name="experience" required className={inputClass}>
+                <option value="">Select...</option>
+                <option value="complete-beginner">Complete Beginner</option>
+                <option value="some-lessons">Had Some Lessons</option>
+                <option value="test-ready">Nearly Test Ready</option>
+                <option value="full-licence">Full Licence (refresher)</option>
+              </select>
+            </div>
+            <div>
+              <label htmlFor="area" className="block text-sm font-medium text-text mb-1">
+                Pickup Area / Postcode *
+              </label>
+              <input
+                type="text"
+                id="area"
+                name="area"
+                required
+                placeholder="e.g. NE1 4ST or Jesmond, Newcastle"
+                className={inputClass}
+              />
+            </div>
+          </div>
+        </>
+      )}
+
       {/* Common: Message */}
       <div>
         <label htmlFor="message" className="block text-sm font-medium text-text mb-1">
@@ -574,7 +642,9 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
                   ? "Describe the issue, e.g. locked out, broken lock, key snapped..."
                   : productId === "removal-companies"
                     ? "Large or specialist items, access issues, floors/lifts, storage needs..."
-                    : "Any special requirements, luggage, accessibility needs..."
+                    : productId === "driving-lessons"
+                      ? "Preferred days/times, any specific requirements, test date if booked..."
+                      : "Any special requirements, luggage, accessibility needs..."
           }
           className={inputClass}
         />

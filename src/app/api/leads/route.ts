@@ -55,6 +55,7 @@ export async function POST(request: NextRequest) {
         "bouncy-castle-hire": "Bouncy Castle Hire",
         "limo-hire": "Limo Hire",
         "plant-hire": "Plant Hire",
+        "driving-lessons": "Driving Lessons",
       };
       const productLabel = productLabels[body.product] || "Minibus Hire";
 
@@ -123,6 +124,14 @@ export async function POST(request: NextRequest) {
           <tr><td style="padding:4px 8px;font-weight:600">Duration</td><td style="padding:4px 8px">${d.duration || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Site Location</td><td style="padding:4px 8px">${d.siteLocation || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Operated/Self-Drive</td><td style="padding:4px 8px">${d.operatedOrSelfDrive || "—"}</td></tr>
+        `;
+      } else if (body.product === "driving-lessons" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Lesson Type</td><td style="padding:4px 8px">${d.lessonType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Transmission</td><td style="padding:4px 8px">${d.transmission || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Experience</td><td style="padding:4px 8px">${d.experience || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Area</td><td style="padding:4px 8px">${d.area || "—"}</td></tr>
         `;
       } else {
         detailRows = `

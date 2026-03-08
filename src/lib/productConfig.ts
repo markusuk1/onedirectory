@@ -1,4 +1,4 @@
-export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies" | "bouncy-castle-hire" | "limo-hire" | "plant-hire";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies" | "bouncy-castle-hire" | "limo-hire" | "plant-hire" | "driving-lessons";
 
 export interface ProductConfig {
   id: ProductId;
@@ -443,6 +443,60 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Highest rated plant hire companies in the ${shortName}`,
     browseSubtitle: "Find plant hire companies near you",
     servicesSubtitle: "Whatever your construction or groundwork needs, we can help",
+  },
+  "driving-lessons": {
+    id: "driving-lessons",
+    slug: "driving-lessons",
+    name: "Driving Lessons",
+    shortName: "Driving Lessons",
+    icon: "🚗",
+    image: "/images/driving.png",
+    imageAlt: "Driving lessons illustration",
+    heroTitle: (region) => `Find Driving Lessons in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ driving instructors across ${locCount} locations. Read reviews and book lessons today.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare driving instructors in ${loc}. View ratings, reviews and contact details. Find the right instructor for you.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides driving lessons in ${loc}. Contact details, reviews and pricing.`,
+    services: [
+      {
+        title: "Manual Driving Lessons",
+        desc: "Learn to drive in a manual car with a qualified local instructor. Build confidence at your own pace.",
+      },
+      {
+        title: "Automatic Driving Lessons",
+        desc: "Automatic lessons for a simpler learning experience. Ideal if you want to focus on the road, not the gears.",
+      },
+      {
+        title: "Intensive Courses",
+        desc: "Fast-track your learning with intensive or crash courses. Pass your test in days or weeks, not months.",
+      },
+      {
+        title: "Pass Plus",
+        desc: "Post-test training to build confidence on motorways, at night and in all weather conditions. May reduce insurance costs.",
+      },
+      {
+        title: "Refresher Lessons",
+        desc: "Get back behind the wheel with refresher lessons. Perfect if you haven't driven in a while or need to rebuild confidence.",
+      },
+      {
+        title: "Mock Tests",
+        desc: "Practice test routes with your instructor to prepare for the real thing. Reduce nerves and improve your chances.",
+      },
+    ],
+    seoHeading: (shortName) =>
+      `Driving Lessons Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you're a complete beginner, looking for automatic lessons, or need an intensive course to pass quickly, our directory connects you with qualified driving instructors across the ${region}.`,
+      `We list over ${count} driving instructors covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can find the right instructor for you.`,
+      `Browse our directory to compare driving instructors in your area. Check ratings, read reviews and contact instructors directly to book your first lesson.`,
+    ],
+    ctaText: (loc) => `Looking for driving lessons in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated driving instructors in the ${shortName}`,
+    browseSubtitle: "Find driving instructors near you",
+    servicesSubtitle: "Whatever stage of your driving journey, we can help",
   },
 };
 

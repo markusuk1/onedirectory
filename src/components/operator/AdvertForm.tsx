@@ -22,11 +22,13 @@ interface Props {
 }
 
 const PLACEMENTS = [
-  { id: "homepage", label: "Homepage Ad", description: "Shown on the main landing page for your region" },
-  { id: "product_page", label: "Product Page Ad", description: "Shown on the product category page" },
-  { id: "location_page", label: "Location Page Ad", description: "Shown on the location listing page" },
-  { id: "business_sidebar", label: "Business Sidebar Ad", description: "Shown in the sidebar on other business profiles" },
+  { id: "homepage", label: "Homepage Ad", price: "£29/mo", description: "Shown on the main landing page for your region", payLink: "https://pay.sumup.com/b2c/QO7X0DMX" },
+  { id: "product_page", label: "Product Page Ad", price: "£19/mo", description: "Shown on the product category page", payLink: "https://pay.sumup.com/b2c/QE5PCN3V" },
+  { id: "location_page", label: "Location Page Ad", price: "£9/mo", description: "Shown on the location listing page", payLink: "https://pay.sumup.com/b2c/QM4CB3TO" },
+  { id: "business_sidebar", label: "Business Sidebar Ad", price: "£5/mo", description: "Shown in the sidebar on other business profiles", payLink: "https://pay.sumup.com/b2c/QC76K2T5" },
 ];
+
+const BUNDLE_LINK = "https://pay.sumup.com/b2c/QHORWPPZ";
 
 const STATUS_STYLES: Record<string, { bg: string; text: string; label: string }> = {
   pending: { bg: "bg-yellow-50", text: "text-yellow-700", label: "Pending Review" },
@@ -42,7 +44,7 @@ function PlacementCard({
   site,
   existing,
 }: {
-  placement: { id: string; label: string; description: string };
+  placement: { id: string; label: string; price: string; description: string; payLink: string };
   slug: string;
   product: string;
   site: string;
@@ -110,7 +112,12 @@ function PlacementCard({
   return (
     <div className="bg-white border border-border rounded-xl p-5">
       <div className="flex items-start justify-between gap-3 mb-1">
-        <h3 className="font-semibold text-text">{placement.label}</h3>
+        <div className="flex items-center gap-2">
+          <h3 className="font-semibold text-text">{placement.label}</h3>
+          <span className="text-xs font-bold text-primary bg-blue-50 px-2 py-0.5 rounded-full">
+            {placement.price}
+          </span>
+        </div>
         {statusStyle && (
           <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${statusStyle.bg} ${statusStyle.text}`}>
             {statusStyle.label}
@@ -202,6 +209,29 @@ function PlacementCard({
           </button>
         )}
       </div>
+
+      {/* Payment link */}
+      {status !== "active" && hasImages && (
+        <div className="mt-4 pt-4 border-t border-border">
+          <p className="text-sm text-text-light mb-2">
+            Ready to go live? Pay securely via SumUp to activate your ad.
+          </p>
+          <a
+            href={placement.payLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors"
+          >
+            Pay {placement.price}
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+          <p className="text-xs text-text-light mt-2">
+            Your ad will be activated within 24 hours of payment confirmation.
+          </p>
+        </div>
+      )}
     </div>
   );
 }
@@ -211,6 +241,52 @@ export default function AdvertForm({ slug, product, site, adverts }: Props) {
 
   return (
     <div className="space-y-6">
+      {/* Bundle deal banner */}
+      <div className="bg-gradient-to-r from-primary to-blue-700 rounded-xl p-6 text-white">
+        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+          <div>
+            <h2 className="text-lg font-bold mb-1">All 4 Ad Placements — £49/mo</h2>
+            <p className="text-blue-100 text-sm">
+              Save £13/mo vs buying individually. Maximum visibility across every page.
+            </p>
+          </div>
+          <a
+            href={BUNDLE_LINK}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 inline-flex items-center gap-2 bg-accent hover:bg-accent-dark text-white font-semibold text-sm px-5 py-2.5 rounded-lg transition-colors"
+          >
+            Get the Bundle
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      {/* Advertiser perks */}
+      <div className="bg-green-50 border border-green-200 rounded-xl p-5">
+        <h3 className="font-semibold text-text mb-3">Advertiser Perks</h3>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <div className="flex items-start gap-2">
+            <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>
+            <p className="text-sm text-text"><strong>Unlimited free quotes</strong> — no service fee while your ad is active</p>
+          </div>
+          <div className="flex items-start gap-2">
+            <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>
+            <p className="text-sm text-text"><strong>Priority delivery</strong> — your quotes are shown to customers first</p>
+          </div>
+          <div className="flex items-start gap-2">
+            <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>
+            <p className="text-sm text-text"><strong>Up to 4 rotating images</strong> per ad slot</p>
+          </div>
+          <div className="flex items-start gap-2">
+            <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>
+            <p className="text-sm text-text"><strong>Link to any URL</strong> — your website, booking page, or special offers</p>
+          </div>
+        </div>
+      </div>
+
       {PLACEMENTS.map((placement) => (
         <PlacementCard
           key={placement.id}

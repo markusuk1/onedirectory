@@ -18,6 +18,7 @@ const PRODUCTS: { id: ProductId; label: string; icon: string }[] = [
   { id: "bouncy-castle-hire", label: "Bouncy Castles", icon: "🏰" },
   { id: "limo-hire", label: "Limo Hire", icon: "🚗" },
   { id: "plant-hire", label: "Plant Hire", icon: "🏗️" },
+  { id: "driving-lessons", label: "Driving Lessons", icon: "🚗" },
 ];
 
 export default function GetQuotesClient({ defaultProductId }: GetQuotesClientProps) {

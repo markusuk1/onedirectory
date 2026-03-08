@@ -74,6 +74,42 @@ export default async function AutoQuotesPage({
           {businessName} &middot; {product.replace(/-/g, " ")}
         </p>
 
+        {/* How it works callout */}
+        <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 mb-6">
+          <h3 className="font-semibold text-text text-sm mb-2">
+            How auto-quotes earn you money
+          </h3>
+          <ul className="text-sm text-text-light space-y-1.5">
+            <li className="flex items-start gap-2">
+              <span className="text-primary font-bold mt-0.5">•</span>
+              Customers in your area submit a quote request through our site
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-primary font-bold mt-0.5">•</span>
+              Your auto-quote responds instantly — even outside business hours
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-primary font-bold mt-0.5">•</span>
+              If the customer accepts your quote and pays, you get the job
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-primary font-bold mt-0.5">•</span>
+              <strong>Your first 5 quotes are free</strong> — no sign-up
+              needed. Earn up to 15 by claiming your profile and adding our
+              badge to your website
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="text-primary font-bold mt-0.5">•</span>
+              After your free allowance, our small service fee applies only on
+              accepted quotes — you never pay for leads that don&apos;t convert
+            </li>
+          </ul>
+          <p className="text-xs text-text-light mt-3">
+            You receive exactly what you quote. Our fee is added on top and paid
+            by the customer — it never comes out of your pocket.
+          </p>
+        </div>
+
         <AutoQuoteConfig
           slug={slug}
           product={product}
