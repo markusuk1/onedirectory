@@ -388,6 +388,33 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} removal companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple removal companies by using our quote request form. Simply tell us your moving details and we'll connect you with suitable operators in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Removal Companies in ${loc}`,
+      paragraphs: [
+        `Looking for a reliable removal company in ${loc}? Our directory lists ${count} verified removal companies serving ${loc} and the surrounding ${region} area. Whether you need a full house move, office relocation, man and van or specialist item transport, you can compare companies side by side.`,
+        `All removal companies in our ${loc} directory include verified contact details, genuine Google ratings and reviews, and information about the services they offer. Comparing multiple companies is the best way to find competitive prices and reliable service.`,
+        `Removal costs in ${loc} vary depending on the size of your move, distance, and time of year. A typical 2-3 bedroom house move within the local area costs between £400 and £1,200. Long-distance moves and larger properties will cost more. We recommend getting at least three quotes to compare prices.`,
+        `Common reasons people hire removal companies in ${loc} include moving house, downsizing, relocating for work, student moves, office relocations and furniture deliveries. Many operators also offer packing services and short-term storage if you need somewhere to keep your belongings during the transition.`,
+      ],
+    }),
+    locationFaqs: (loc) => [
+      {
+        question: `How much do removal companies charge in ${loc}?`,
+        answer: `Prices depend on the size of your move and distance. A 1-2 bedroom local move typically costs £300-£600. A 3-4 bedroom house move costs £600-£1,200. Long-distance moves cost more. Get at least three quotes to compare.`,
+      },
+      {
+        question: `How far in advance should I book a removal company?`,
+        answer: `Book at least 2-4 weeks ahead for weekday moves. For end-of-month dates and weekends (the busiest times), book 4-6 weeks in advance. Summer months and school holidays are peak moving season.`,
+      },
+      {
+        question: `Are my belongings insured during the move?`,
+        answer: `Most professional removal companies carry goods-in-transit insurance, but cover levels vary. Ask what is included and whether you need additional cover for high-value items. Check whether the policy covers accidental damage as well as loss.`,
+      },
+      {
+        question: `Should I pack myself or use a packing service?`,
+        answer: `Packing yourself saves money but takes time. Professional packing services cost extra but are faster and usually covered by the company insurance. For fragile or valuable items, professional packing is recommended.`,
+      },
+    ],
     ctaText: (loc) => `Moving in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated removal companies in the ${shortName}`,
@@ -442,6 +469,33 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} bouncy castle hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your event details and we'll connect you with suitable companies in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Bouncy Castle Hire in ${loc}`,
+      paragraphs: [
+        `Looking for bouncy castle hire in ${loc}? Our directory lists ${count} providers serving ${loc} and the surrounding ${region} area. From classic bouncy castles and inflatable slides to assault courses and soft play packages, you can compare local companies and find the right option for your event.`,
+        `Every provider in our ${loc} directory includes verified contact details, Google ratings and reviews. Whether it is a children's birthday party, school fete, community event or corporate fun day, comparing multiple providers helps you find the best deal.`,
+        `Bouncy castle hire prices in ${loc} typically range from £60 to £150 per day for a standard castle. Larger inflatables, obstacle courses and specialist items cost more. Most providers deliver, set up and collect the equipment as part of the price.`,
+        `Popular reasons to hire a bouncy castle in ${loc} include birthday parties, christenings, school events, summer fairs, corporate family days and garden parties. Many providers also offer add-ons like candy floss machines, popcorn carts and disco domes.`,
+      ],
+    }),
+    locationFaqs: (loc) => [
+      {
+        question: `How much does bouncy castle hire cost in ${loc}?`,
+        answer: `Standard bouncy castles cost £60-£150 per day. Larger inflatables and obstacle courses cost £100-£250. Prices usually include delivery, setup and collection within a local radius. Weekend bookings may cost slightly more.`,
+      },
+      {
+        question: `Can I hire a bouncy castle for a garden party?`,
+        answer: `Yes, most providers deliver to private gardens. You will need a flat area of suitable size, access for the equipment and a power supply within 25 metres. The provider will check suitability during booking.`,
+      },
+      {
+        question: `What happens if it rains on the day?`,
+        answer: `Most providers will still set up in light rain, as inflatables can be used wet. In heavy rain or high winds, the provider may postpone or cancel for safety reasons. Check the cancellation and weather policy when booking.`,
+      },
+      {
+        question: `Do I need insurance to hire a bouncy castle?`,
+        answer: `The hire company should carry public liability insurance covering the equipment. You do not usually need your own insurance for a private party. For commercial events or school bookings, check whether additional cover is required by the venue.`,
+      },
+    ],
     ctaText: (loc) => `Planning a party in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated bouncy castle hire companies in the ${shortName}`,
@@ -494,6 +548,33 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Whether you need a stretch limo for prom night, a wedding car for your big day, or a party bus for a celebration, our directory connects you with the best local limo hire companies across the ${region}.`,
       `We list over ${count} limo hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your event details and we'll connect you with suitable companies in your area.`,
+    ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Limo Hire in ${loc}`,
+      paragraphs: [
+        `Looking for limo hire in ${loc}? Our directory lists ${count} limousine and luxury vehicle hire companies serving ${loc} and the wider ${region} area. From stretch limos and Hummers to vintage cars and supercars, you can compare providers and find the perfect vehicle for your occasion.`,
+        `Every provider in our ${loc} directory includes verified contact details, Google ratings and reviews. Whether you are planning a prom, wedding, birthday, hen or stag night, or corporate event, comparing multiple operators helps you find the best vehicle and price.`,
+        `Limo hire prices in ${loc} typically start from £150-£300 for a 2-3 hour hire of a standard stretch limo. Hummer limos, party buses and exotic vehicles cost more. Most packages include a professional chauffeur, red carpet service and complimentary drinks.`,
+        `Popular occasions for limo hire in ${loc} include proms, weddings, milestone birthdays, hen and stag parties, race days, Christmas party nights and corporate hospitality. Booking early is recommended as the best vehicles get reserved quickly, especially during prom and wedding season.`,
+      ],
+    }),
+    locationFaqs: (loc) => [
+      {
+        question: `How much does limo hire cost in ${loc}?`,
+        answer: `A standard stretch limo costs £150-£300 for 2-3 hours. Hummer limos cost £250-£500. Prices vary by vehicle type, day of the week and time of year. Prom season and December are the most expensive periods.`,
+      },
+      {
+        question: `How many people can fit in a limo?`,
+        answer: `A standard stretch limo seats 8-10 passengers. Hummer and SUV limos seat 12-16. Party bus limos can carry up to 24. Always confirm the exact capacity with the operator before booking.`,
+      },
+      {
+        question: `What is included in limo hire?`,
+        answer: `Most packages include a professional chauffeur, fuel, insurance, red carpet arrival and a drinks selection (usually bubbly). Some operators offer extras like custom playlists, decorations and photo ops. Check what is included when comparing quotes.`,
+      },
+      {
+        question: `How far in advance should I book a limo?`,
+        answer: `For proms, book 2-3 months ahead as vehicles sell out quickly. For weddings, 3-6 months is recommended. For other occasions, 2-4 weeks is usually sufficient. Peak dates like New Year Eve should be booked months in advance.`,
+      },
     ],
     ctaText: (loc) => `Need a limo in ${loc}?`,
     featuredSubtitle: (shortName) =>
@@ -548,6 +629,33 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `We list over ${count} plant hire companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
       `Get free, no-obligation quotes from multiple providers by using our quote request form. Simply tell us your project requirements and we'll connect you with suitable companies in your area.`,
     ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Plant Hire in ${loc}`,
+      paragraphs: [
+        `Need plant hire in ${loc}? Our directory lists ${count} plant and equipment hire companies serving ${loc} and the surrounding ${region} area. From mini diggers and dumpers to cherry pickers and rollers, you can compare local plant hire companies and get quotes for your project.`,
+        `Every company in our ${loc} directory includes verified contact details, Google ratings and reviews. Whether you need equipment for a construction project, landscaping job, groundworks or DIY project, comparing multiple providers helps you find the right equipment at the best price.`,
+        `Plant hire prices in ${loc} depend on the equipment type and hire period. A mini digger typically costs £100-£200 per day. Larger excavators, telehandlers and cranes cost significantly more. Most companies offer daily, weekly and monthly rates with discounts for longer hire periods.`,
+        `Common reasons for plant hire in ${loc} include house extensions, driveways, landscaping, drainage work, demolition, site clearance and agricultural projects. Many companies offer both operated (with a driver) and self-drive options depending on the equipment and your qualifications.`,
+      ],
+    }),
+    locationFaqs: (loc) => [
+      {
+        question: `How much does plant hire cost in ${loc}?`,
+        answer: `Prices depend on the equipment. A mini digger costs £100-£200 per day, a 3-tonne excavator £150-£300 per day, and a cherry picker £100-£250 per day. Weekly rates offer better value. Delivery and collection are usually extra.`,
+      },
+      {
+        question: `Do I need a licence to operate hired plant?`,
+        answer: `For self-drive hire of items like mini diggers and dumpers, you do not need a formal licence for use on private land. For road use or larger equipment, a CPCS or NPORS card may be required. Operated hire includes a qualified driver.`,
+      },
+      {
+        question: `Is delivery included in plant hire?`,
+        answer: `Delivery and collection are usually charged separately, typically £50-£150 depending on distance and equipment size. Some companies offer free delivery within a local radius. Always confirm delivery costs when getting a quote.`,
+      },
+      {
+        question: `What insurance do I need for hired plant?`,
+        answer: `Most hire companies include basic insurance but with an excess of £500-£2,000. You can usually pay for additional damage waiver to reduce the excess. Check the terms carefully and consider your own plant hire insurance if you hire equipment regularly.`,
+      },
+    ],
     ctaText: (loc) => `Need plant hire in ${loc}?`,
     featuredSubtitle: (shortName) =>
       `Highest rated plant hire companies in the ${shortName}`,
@@ -601,6 +709,33 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       `Whether you're a complete beginner, looking for automatic lessons, or need an intensive course to pass quickly, our directory connects you with qualified driving instructors across the ${region}.`,
       `We list over ${count} driving instructors covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can find the right instructor for you.`,
       `Browse our directory to compare driving instructors in your area. Check ratings, read reviews and contact instructors directly to book your first lesson.`,
+    ],
+    locationSeoContent: (loc, count, region) => ({
+      heading: `Driving Lessons in ${loc}`,
+      paragraphs: [
+        `Looking for driving lessons in ${loc}? Our directory lists ${count} driving instructors and schools serving ${loc} and the surrounding ${region} area. Whether you are a complete beginner, want to switch to automatic, or need an intensive course to pass quickly, you can compare local instructors by ratings, reviews and services.`,
+        `Every instructor in our ${loc} directory includes verified contact details, Google ratings and reviews. Compare lesson prices, check availability and find an instructor whose teaching style suits you. Many offer a discounted first lesson so you can try before committing to a block.`,
+        `Driving lesson prices in ${loc} typically range from £28 to £40 per hour for manual lessons. Automatic lessons are usually £2-£5 more per hour. Intensive courses (crash courses) cost £800-£1,500 for a week of concentrated tuition plus test. Block booking discounts of 10-20% are common.`,
+        `Popular services include weekly lessons for beginners, automatic-only tuition, intensive courses for fast passes, motorway lessons, refresher lessons for lapsed drivers, and pass-plus courses for newly qualified drivers wanting to reduce insurance costs.`,
+      ],
+    }),
+    locationFaqs: (loc) => [
+      {
+        question: `How much do driving lessons cost in ${loc}?`,
+        answer: `Manual lessons typically cost £28-£40 per hour. Automatic lessons are £30-£45 per hour. Block bookings of 10 lessons usually offer a 10-20% discount. Intensive courses cost £800-£1,500 for a full week.`,
+      },
+      {
+        question: `Should I learn in a manual or automatic?`,
+        answer: `An automatic licence only allows you to drive automatics. A manual licence covers both. However, automatics are easier to learn and you may pass sooner. With more cars now automatic, it is a perfectly valid choice. Consider your needs and budget.`,
+      },
+      {
+        question: `How many lessons will I need to pass?`,
+        answer: `The average learner takes 45 hours of professional tuition plus 22 hours of private practice before passing. Some people pass in fewer lessons, others need more. Your instructor will give you an honest assessment after a few lessons.`,
+      },
+      {
+        question: `How do I choose a good driving instructor?`,
+        answer: `Look for ADI (Approved Driving Instructor) qualification, strong Google reviews, and a good first-lesson offer. Ask about their pass rate and teaching approach. A good instructor will be patient, clear and adapt to your learning style.`,
+      },
     ],
     ctaText: (loc) => `Looking for driving lessons in ${loc}?`,
     featuredSubtitle: (shortName) =>
