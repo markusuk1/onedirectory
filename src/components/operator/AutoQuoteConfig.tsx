@@ -100,7 +100,7 @@ export default function AutoQuoteConfig({
               placeholder="Thanks for your enquiry! We can provide..."
             />
             <p className="text-xs text-text-light mt-1">
-              Use placeholders like {"{price}"}, {"{date}"}, {"{passengers}"} etc.
+              Use placeholders like {"{price}"}, {"{date}"}, {"{passengers}"} etc. Don’t include phone numbers, email addresses, or website links — customers must reply to us to proceed.
             </p>
           </div>
         </div>

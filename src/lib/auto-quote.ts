@@ -79,21 +79,23 @@ export async function processAutoQuotes(lead: LeadData): Promise<void> {
       const quote = generateQuote(lead, config);
       if (!quote) continue;
 
-      // Send quote email to customer
-      const businessName = config.business_slug.replace(/-/g, " ");
-      const capitalizedName = businessName.replace(/\b\w/g, (c: string) => c.toUpperCase());
+      // Do not expose operator identity or contact details to customers.
+      const sanitizedMessage = redactOperatorIdentifiers({
+        text: quote.message,
+        businessSlug: config.business_slug,
+      });
 
       await sendEmail({
-        from: `${capitalizedName} via ${site.genericName} <notify@hirenortheast.co.uk>`,
+        from: `${site.genericName} Quotes <notify@hirenortheast.co.uk>`,
         to: lead.email,
         replyTo: "mark@hirenortheast.co.uk",
-        subject: `Quote from ${capitalizedName} — ${quote.summary}`,
+        subject: `New quote — ${quote.summary}`,
         html: `
           <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto">
-            <h2 style="margin:0 0 16px;color:#1a1a1a">Quote from ${capitalizedName}</h2>
-            <p style="margin:0 0 12px;color:#444;line-height:1.5">${quote.message}</p>
+            <h2 style="margin:0 0 16px;color:#1a1a1a">New quote received</h2>
+            <p style="margin:0 0 12px;color:#444;line-height:1.5">${sanitizedMessage}</p>
             ${quote.price ? `<p style="margin:12px 0;font-size:20px;font-weight:bold;color:#1a1a1a">${quote.price}</p>` : ""}
-            <p style="margin:16px 0 0;color:#666;font-size:14px">This is an automated quote. For questions, reply to this email.</p>
+            <p style="margin:16px 0 0;color:#666;font-size:14px">For questions or to proceed, reply to this email and we’ll coordinate everything for you.</p>
             <p style="margin:8px 0 0;color:#666;font-size:14px">— ${site.name}</p>
           </div>
         `,
@@ -108,7 +110,7 @@ export async function processAutoQuotes(lead: LeadData): Promise<void> {
           config.id,
           config.business_slug,
           quote.amount || null,
-          JSON.stringify({ summary: quote.summary, message: quote.message }),
+          JSON.stringify({ summary: quote.summary, message: sanitizedMessage }),
         ]
       );
     } catch (err) {
@@ -249,4 +251,34 @@ function generateLocksmithQuote(
     price: `From £${fee}`,
     amount: fee,
   };
+}
+
+function redactOperatorIdentifiers({
+  text,
+  businessSlug,
+}: {
+  text: string;
+  businessSlug: string;
+}): string {
+  let out = String(text || "").trim();
+  if (!out) return out;
+
+  // URLs (http/https/www)
+  out = out.replace(/\bhttps?:\/\/\S+/gi, "[link removed]");
+  out = out.replace(/\bwww\.\S+/gi, "[link removed]");
+
+  // Emails
+  out = out.replace(/\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi, "[email removed]");
+
+  // UK-style phone numbers (best-effort; avoids stripping prices like "£250")
+  out = out.replace(/\b(\+?44\s?7\d{3}|\(?0?7\d{3}\)?|\(?0\d{3,5}\)?)\s?\d{3}\s?\d{3,4}\b/g, "[phone removed]");
+
+  // Remove business name if it appears (slug -> words)
+  const guess = businessSlug.replace(/-/g, " ").trim();
+  if (guess) {
+    const escaped = guess.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    out = out.replace(new RegExp(`\\b${escaped}\\b`, "gi"), "[operator removed]");
+  }
+
+  return out;
 }
