@@ -34,6 +34,9 @@ export async function generateMetadata({
   return {
     title: `${productConfig.name} ${site.shortName} | Compare ${totalBusinesses}+ Companies`,
     description: `Compare ${productConfig.name.toLowerCase()} companies across ${site.region}. Get free quotes from trusted operators.`,
+    alternates: {
+      canonical: `https://${site.domain}/${product}`,
+    },
   };
 }
 

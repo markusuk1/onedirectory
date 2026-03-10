@@ -51,12 +51,16 @@ export async function generateMetadata({
   const productConfig = getProductConfig(product)!;
   const biz = getBusinessBySlug(location, businessSlug, product as ProductId);
   if (!biz) return {};
+  const site = getSiteConfig();
   const ratingStr = biz.rating
     ? ` | ${biz.rating}/5 (${biz.totalReviews} reviews)`
     : "";
   return {
     title: `${biz.name} - ${biz.locationName}${ratingStr}`,
     description: biz.description || productConfig.metaDescriptionTemplate(biz.name, biz.locationName),
+    alternates: {
+      canonical: `https://${site.domain}/${product}/${location}/${businessSlug}`,
+    },
   };
 }
 

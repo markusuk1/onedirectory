@@ -40,9 +40,13 @@ export async function generateMetadata({
   const productConfig = getProductConfig(product)!;
   const location = getLocationBySlugWithCount(locationSlug, product as ProductId);
   if (!location) return {};
+  const site = getSiteConfig();
   return {
     title: `${productConfig.name} ${location.name} | Compare ${location.businessCount} Companies`,
     description: productConfig.locationDescriptionTemplate(location.name),
+    alternates: {
+      canonical: `https://${site.domain}/${product}/${locationSlug}`,
+    },
   };
 }
 

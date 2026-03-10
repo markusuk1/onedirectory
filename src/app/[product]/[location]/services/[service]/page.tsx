@@ -34,9 +34,13 @@ export async function generateMetadata({
   if (!location) return {};
   const servicePage = getServicePage(productId, serviceSlug);
   if (!servicePage) return {};
+  const site = getSiteConfig();
   return {
     title: servicePage.metaTitle(location.name),
     description: servicePage.metaDescription(location.name),
+    alternates: {
+      canonical: `https://${site.domain}/${product}/${locationSlug}/services/${serviceSlug}`,
+    },
   };
 }
 
