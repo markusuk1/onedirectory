@@ -19,7 +19,7 @@ export default function GuidesPage() {
     return acc;
   }, {});
 
-  const productOrder: ProductId[] = ["minibus-hire", "van-hire", "skip-hire", "locksmith"];
+  const productOrder: ProductId[] = ["minibus-hire", "van-hire", "skip-hire", "locksmith", "removal-companies", "bouncy-castle-hire", "limo-hire", "plant-hire"];
   const sections = productOrder.filter((p) => grouped[p]?.length);
 
   return (
