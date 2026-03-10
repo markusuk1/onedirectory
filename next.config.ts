@@ -30,6 +30,20 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/skip-hire/newcastle/annfield-plain-hwrc-tip",
+        destination: "/skip-hire/newcastle",
+        permanent: true,
+      },
+      {
+        source: "/stockton-on-tees/leisure-time-north-east",
+        destination: "/minibus-hire/stockton-on-tees",
+        permanent: true,
+      },
+    ];
+  },
   async rewrites() {
     return [
       {
