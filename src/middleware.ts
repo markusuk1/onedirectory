@@ -41,6 +41,9 @@ export function middleware(request: NextRequest) {
   if (segments.length === 0) return;
   if (STATIC_ROUTES.has(segments[0])) return;
 
+  // Skip files with extensions (e.g. icon.svg, manifest.json)
+  if (segments[segments.length - 1].includes(".")) return;
+
   // Old URL pattern: /{location} or /{location}/{business}
   // Redirect to /minibus-hire/...
   const url = request.nextUrl.clone();
