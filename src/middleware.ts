@@ -25,6 +25,7 @@ const STATIC_ROUTES = new Set([
   "ads.txt",
   "operator",
   "terms",
+  "contact",
 ]);
 
 export function middleware(request: NextRequest) {
