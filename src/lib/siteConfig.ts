@@ -226,7 +226,16 @@ const SITE_CONFIGS: Record<SiteId, SiteConfig> = {
 };
 
 export function getSiteId(): SiteId {
-  const site = process.env.NEXT_PUBLIC_SITE || "northeast";
+  const site = process.env.NEXT_PUBLIC_SITE;
+  const isVercelBuild = process.env.VERCEL === "1";
+
+  if (!site) {
+    if (isVercelBuild) {
+      throw new Error("NEXT_PUBLIC_SITE must be set for production builds");
+    }
+    return "northeast";
+  }
+
   if (site === "northwest") return "northwest";
   if (site === "scotland") return "scotland";
   if (site === "midlands") return "midlands";
@@ -236,6 +245,11 @@ export function getSiteId(): SiteId {
   if (site === "southeast") return "southeast";
   if (site === "southwest") return "southwest";
   if (site === "wales") return "wales";
+
+  if (isVercelBuild) {
+    throw new Error(`Unsupported NEXT_PUBLIC_SITE value: ${site}`);
+  }
+
   return "northeast";
 }
 

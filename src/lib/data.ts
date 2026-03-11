@@ -105,12 +105,88 @@ import { getSiteId } from "./siteConfig";
 import pool from "./db";
 import { initOperatorTables } from "./db-schema";
 
-function transformBusiness(raw: BusinessRaw): Business {
-  const locationSlug = getLocationFromFoundIn(raw.found_in_location);
-  const config = getLocationConfig();
+const DAY_ORDER = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+
+interface BusinessSeed {
+  raw: BusinessRaw;
+  baseSlug: string;
+  locationSlug: string;
+  locationName: string;
+  openingHours: string[];
+}
+
+function parseOpeningHours(raw: string): string[] {
+  // Google Places format: "Monday: 9am-5pm; Tuesday: 9am-5pm"
+  if (!raw.startsWith("{")) {
+    return raw.split("; ").filter(Boolean);
+  }
+  // Gosom JSON format: {"Monday":["9 am–5 pm"],"Tuesday":["9 am–5 pm"]}
+  try {
+    const parsed = JSON.parse(raw) as Record<string, string[]>;
+    return DAY_ORDER
+      .filter((day) => day in parsed)
+      .map((day) => `${day}: ${parsed[day].join(", ")}`);
+  } catch {
+    return [];
+  }
+}
+
+function normalizeUrl(value: string | null | undefined): string {
+  return (value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/^https?:\/\/(www\.)?/, "")
+    .replace(/\/+$/, "");
+}
+
+function normalizePhone(value: string | null | undefined): string {
+  return (value || "").replace(/\D+/g, "");
+}
+
+function normalizeText(value: string | null | undefined): string {
+  return (value || "").trim().toLowerCase();
+}
+
+function extractPostcodeSlug(address: string | null | undefined): string | null {
+  const match = address
+    ?.toUpperCase()
+    .match(/\b[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}\b/);
+
+  return match ? slugify(match[0]) : null;
+}
+
+function compareBusinessSeeds(a: BusinessSeed, b: BusinessSeed): number {
+  const reviewDiff = (b.raw.total_reviews || 0) - (a.raw.total_reviews || 0);
+  if (reviewDiff !== 0) return reviewDiff;
+
+  const ratingDiff = (b.raw.rating || 0) - (a.raw.rating || 0);
+  if (ratingDiff !== 0) return ratingDiff;
+
+  return [
+    a.raw.name,
+    a.raw.address,
+    a.raw.google_maps_url,
+    a.raw.website,
+    a.raw.phone,
+  ]
+    .join("|")
+    .localeCompare(
+      [
+        b.raw.name,
+        b.raw.address,
+        b.raw.google_maps_url,
+        b.raw.website,
+        b.raw.phone,
+      ].join("|")
+    );
+}
+
+function createBusiness(seed: BusinessSeed, slug: string): Business {
+  const { raw } = seed;
+
   return {
     name: raw.name,
-    slug: slugify(raw.name),
+    slug,
     address: raw.address,
     phone: raw.phone || null,
     internationalPhone: raw.international_phone || null,
@@ -123,14 +199,108 @@ function transformBusiness(raw: BusinessRaw): Business {
     rating: raw.rating,
     totalReviews: raw.total_reviews || 0,
     businessStatus: raw.business_status,
-    openingHours: raw.opening_hours
-      ? raw.opening_hours.split("; ").filter(Boolean)
-      : [],
+    openingHours: seed.openingHours,
     types: raw.types ? raw.types.split(", ").filter(Boolean) : [],
     lat: raw.lat,
     lng: raw.lng,
-    locationSlug,
-    locationName: config[locationSlug]?.name || raw.found_in_location,
+    locationSlug: seed.locationSlug,
+    locationName: seed.locationName,
+  };
+}
+
+function buildBusinesses(rawBusinesses: BusinessRaw[]): Business[] {
+  const config = getLocationConfig();
+  const seen = new Set<string>();
+  const grouped = new Map<string, BusinessSeed[]>();
+
+  for (const raw of rawBusinesses) {
+    const baseSlug = slugify(raw.name);
+    const locationSlug = getLocationFromFoundIn(raw.found_in_location);
+    if (!baseSlug || !locationSlug) continue;
+
+    const seed: BusinessSeed = {
+      raw,
+      baseSlug,
+      locationSlug,
+      locationName: config[locationSlug]?.name || raw.found_in_location,
+      openingHours: raw.opening_hours ? parseOpeningHours(raw.opening_hours) : [],
+    };
+
+    const dedupeKey = [
+      seed.locationSlug,
+      seed.baseSlug,
+      normalizeText(raw.address),
+      normalizePhone(raw.international_phone || raw.phone),
+      normalizeUrl(raw.website),
+      normalizeUrl(raw.google_maps_url),
+    ].join("|");
+
+    if (seen.has(dedupeKey)) continue;
+    seen.add(dedupeKey);
+
+    const groupKey = `${seed.locationSlug}::${seed.baseSlug}`;
+    const group = grouped.get(groupKey) || [];
+    group.push(seed);
+    grouped.set(groupKey, group);
+  }
+
+  const businesses: Business[] = [];
+
+  for (const group of grouped.values()) {
+    const sorted = [...group].sort(compareBusinessSeeds);
+    const usedSlugs = new Set<string>();
+
+    sorted.forEach((seed, index) => {
+      let slug = seed.baseSlug;
+
+      if (index > 0) {
+        const postcodeSlug = extractPostcodeSlug(seed.raw.address);
+        if (postcodeSlug) {
+          slug = `${seed.baseSlug}-${postcodeSlug}`;
+        }
+
+        if (usedSlugs.has(slug)) {
+          let suffix = 2;
+          slug = `${seed.baseSlug}-${suffix}`;
+          while (usedSlugs.has(slug)) {
+            suffix += 1;
+            slug = `${seed.baseSlug}-${suffix}`;
+          }
+        }
+      }
+
+      usedSlugs.add(slug);
+      businesses.push(createBusiness(seed, slug));
+    });
+  }
+
+  return businesses;
+}
+
+function buildLocationFromBusinesses(
+  slug: string,
+  businesses: Business[],
+  configLocation?: Location
+): Location {
+  const validCoords = businesses.filter(
+    (business) =>
+      Number.isFinite(business.lat) && Number.isFinite(business.lng)
+  );
+  const name = configLocation?.name || businesses[0]?.locationName || slug;
+  const average = (values: number[]) =>
+    values.length > 0
+      ? values.reduce((sum, value) => sum + value, 0) / values.length
+      : 0;
+
+  return {
+    slug,
+    name,
+    description:
+      configLocation?.description ||
+      `Find local businesses in ${name}. Compare companies, reviews and quotes in one place.`,
+    lat: configLocation?.lat || average(validCoords.map((business) => business.lat)),
+    lng: configLocation?.lng || average(validCoords.map((business) => business.lng)),
+    businessCount: businesses.length,
   };
 }
 
@@ -253,10 +423,7 @@ export function getAllBusinesses(
 ): Business[] {
   const key = `${productId}:${getSiteId()}`;
   if (!_businessCache.has(key)) {
-    _businessCache.set(
-      key,
-      getRawBusinesses(productId).map(transformBusiness)
-    );
+    _businessCache.set(key, buildBusinesses(getRawBusinesses(productId)));
   }
   return _businessCache.get(key)!;
 }
@@ -352,33 +519,48 @@ export function getLocations(
 ): Location[] {
   const businesses = getAllBusinesses(productId);
   const config = getLocationConfig();
-  return Object.entries(config)
-    .map(([slug, loc]) => ({
-      slug,
-      name: loc.name,
-      description: loc.description,
-      lat: loc.lat,
-      lng: loc.lng,
-      businessCount: businesses.filter((b) => b.locationSlug === slug).length,
-    }))
-    .filter((loc) => loc.businessCount > 0);
+  const bySlug = new Map<string, Business[]>();
+
+  for (const business of businesses) {
+    const group = bySlug.get(business.locationSlug) || [];
+    group.push(business);
+    bySlug.set(business.locationSlug, group);
+  }
+
+  const locations: Location[] = [];
+
+  for (const [slug, location] of Object.entries(config)) {
+    const matches = bySlug.get(slug);
+    if (!matches || matches.length === 0) continue;
+    locations.push(buildLocationFromBusinesses(slug, matches, { slug, ...location, businessCount: matches.length }));
+    bySlug.delete(slug);
+  }
+
+  const dynamicLocations = Array.from(bySlug.entries())
+    .sort((a, b) => a[1][0].locationName.localeCompare(b[1][0].locationName))
+    .map(([slug, matches]) => buildLocationFromBusinesses(slug, matches));
+
+  return [...locations, ...dynamicLocations];
 }
 
 export function getLocationBySlugWithCount(
   slug: string,
   productId: ProductId = "minibus-hire"
 ): Location | null {
+  const businesses = getBusinessesByLocation(slug, productId);
+  if (businesses.length === 0) return null;
+
   const config = getLocationConfig();
   const loc = config[slug];
-  if (!loc) return null;
-  return {
-    slug,
-    name: loc.name,
-    description: loc.description,
-    lat: loc.lat,
-    lng: loc.lng,
-    businessCount: getBusinessesByLocation(slug, productId).length,
-  };
+  if (loc) {
+    return buildLocationFromBusinesses(slug, businesses, {
+      slug,
+      ...loc,
+      businessCount: businesses.length,
+    });
+  }
+
+  return buildLocationFromBusinesses(slug, businesses);
 }
 
 /**

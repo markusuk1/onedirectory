@@ -1,10 +1,68 @@
 import type { Location } from "@/types";
-import { getSiteId } from "./siteConfig";
+import { slugify } from "./slugify";
+import { getSiteId, type SiteId } from "./siteConfig";
 
 type LocationConfig = Record<
   string,
   { name: string; lat: number; lng: number; description: string }
 >;
+
+function createFallbackLocation(name: string, lat: number, lng: number) {
+  return {
+    name,
+    lat,
+    lng,
+    description: `Find local businesses in ${name}. Compare companies, reviews and quotes in one place.`,
+  };
+}
+
+const LOCATION_OVERRIDES: Partial<Record<SiteId, LocationConfig>> = {
+  london: {
+    chiswick: createFallbackLocation("Chiswick", 51.462, -0.316),
+    croydon: createFallbackLocation("Croydon", 51.3683, -0.094),
+    finchley: createFallbackLocation("Finchley", 51.6148, -0.1991),
+    harrow: createFallbackLocation("Harrow", 51.5922, -0.3422),
+    heathrow: createFallbackLocation("Heathrow", 51.4572, -0.3896),
+    luton: createFallbackLocation("Luton", 51.8461, -0.4008),
+    southall: createFallbackLocation("Southall", 51.5181, -0.3705),
+    southgate: createFallbackLocation("Southgate", 51.5926, -0.0391),
+    wandsworth: createFallbackLocation("Wandsworth", 51.4427, -0.1884),
+  },
+  midlands: {
+    corby: createFallbackLocation("Corby", 52.5034, -0.6991),
+    kidderminster: createFallbackLocation("Kidderminster", 52.375, -2.2631),
+    redditch: createFallbackLocation("Redditch", 52.2971, -1.9386),
+    wellingborough: createFallbackLocation("Wellingborough", 52.2953, -0.6738),
+  },
+  northeast: {
+    "bishop-auckland": createFallbackLocation("Bishop Auckland", 54.6555, -1.6771),
+    blyth: createFallbackLocation("Blyth", 55.1269, -1.5086),
+    consett: createFallbackLocation("Consett", 54.8544, -1.8316),
+    hexham: createFallbackLocation("Hexham", 54.9733, -2.101),
+  },
+  southeast: {
+    "bognor-regis": createFallbackLocation("Bognor Regis", 50.7989, -0.633),
+    gravesend: createFallbackLocation("Gravesend", 51.4252, 0.3572),
+    reigate: createFallbackLocation("Reigate", 51.2348, -0.2827),
+    staines: createFallbackLocation("Staines", 51.412, -0.4591),
+    swanley: createFallbackLocation("Swanley", 51.3896, 0.1879),
+    waterlooville: createFallbackLocation("Waterlooville", 50.9151, -1.0027),
+  },
+  southwest: {
+    ferndown: createFallbackLocation("Ferndown", 50.8085, -1.9151),
+    frome: createFallbackLocation("Frome", 51.2174, -2.3556),
+    liskeard: createFallbackLocation("Liskeard", 50.4484, -4.4791),
+    melksham: createFallbackLocation("Melksham", 51.3554, -2.1193),
+    paignton: createFallbackLocation("Paignton", 50.3928, -3.5195),
+    "st-austell": createFallbackLocation("St Austell", 50.3662, -4.8034),
+  },
+  wales: {
+    bala: createFallbackLocation("Bala", 52.9091, -3.599),
+    corwen: createFallbackLocation("Corwen", 53.0885, -3.2257),
+    cwmbran: createFallbackLocation("Cwmbran", 51.6611, -3.0375),
+    usk: createFallbackLocation("Usk", 51.6903, -3.0842),
+  },
+};
 
 const NE_LOCATIONS: LocationConfig = {
   newcastle: {
@@ -2068,16 +2126,31 @@ const WL_LOCATION_MAP: Record<string, string> = {
 
 export function getLocationConfig(): LocationConfig {
   const id = getSiteId();
-  if (id === "northwest") return NW_LOCATIONS;
-  if (id === "scotland") return SC_LOCATIONS;
-  if (id === "midlands") return ML_LOCATIONS;
-  if (id === "yorkshire") return YK_LOCATIONS;
-  if (id === "east") return EA_LOCATIONS;
-  if (id === "london") return LN_LOCATIONS;
-  if (id === "southeast") return SE_LOCATIONS;
-  if (id === "southwest") return SW_LOCATIONS;
-  if (id === "wales") return WL_LOCATIONS;
-  return NE_LOCATIONS;
+  const baseConfig =
+    id === "northwest"
+      ? NW_LOCATIONS
+      : id === "scotland"
+        ? SC_LOCATIONS
+        : id === "midlands"
+          ? ML_LOCATIONS
+          : id === "yorkshire"
+            ? YK_LOCATIONS
+            : id === "east"
+              ? EA_LOCATIONS
+              : id === "london"
+                ? LN_LOCATIONS
+                : id === "southeast"
+                  ? SE_LOCATIONS
+                  : id === "southwest"
+                    ? SW_LOCATIONS
+                    : id === "wales"
+                      ? WL_LOCATIONS
+                      : NE_LOCATIONS;
+
+  return {
+    ...baseConfig,
+    ...(LOCATION_OVERRIDES[id] || {}),
+  };
 }
 
 export const LOCATION_CONFIG = getLocationConfig();
@@ -2095,7 +2168,22 @@ export function getLocationFromFoundIn(foundIn: string): string {
   else if (id === "southwest") mapping = SW_LOCATION_MAP;
   else if (id === "wales") mapping = WL_LOCATION_MAP;
   else mapping = NE_LOCATION_MAP;
-  return mapping[foundIn] || Object.values(mapping)[0];
+
+  if (mapping[foundIn]) return mapping[foundIn];
+
+  const normalized = slugify(foundIn);
+  if (!normalized) return "unknown";
+
+  const config = getLocationConfig();
+  if (config[normalized]) return normalized;
+
+  for (const [slug, location] of Object.entries(config)) {
+    if (slugify(location.name) === normalized) {
+      return slug;
+    }
+  }
+
+  return normalized;
 }
 
 export function getAllLocationSlugs(): string[] {

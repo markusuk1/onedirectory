@@ -7,48 +7,51 @@ import type { ProductId } from "@/lib/productConfig";
 import { getServicePages } from "@/lib/servicePages";
 
 const BASE_URL = `https://${getSiteConfig().domain}`;
+const LAST_MODIFIED = process.env.VERCEL_GIT_COMMIT_DATE
+  ? new Date(process.env.VERCEL_GIT_COMMIT_DATE)
+  : new Date();
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [
     {
       url: BASE_URL,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "weekly",
       priority: 1.0,
     },
     {
       url: `${BASE_URL}/quote`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${BASE_URL}/get-quotes`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
       url: `${BASE_URL}/about`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.3,
     },
     {
       url: `${BASE_URL}/contact`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.4,
     },
     {
       url: `${BASE_URL}/privacy`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.3,
     },
     {
       url: `${BASE_URL}/terms`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.3,
     },
@@ -60,8 +63,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const businesses = getAllBusinesses(productId);
 
     entries.push({
-      url: `${BASE_URL}/${product.slug}`,
-      lastModified: new Date(),
+        url: `${BASE_URL}/${product.slug}`,
+        lastModified: LAST_MODIFIED,
       changeFrequency: "weekly",
       priority: 0.9,
     });
@@ -69,7 +72,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const loc of locations) {
       entries.push({
         url: `${BASE_URL}/${product.slug}/${loc.slug}`,
-        lastModified: new Date(),
+        lastModified: LAST_MODIFIED,
         changeFrequency: "weekly",
         priority: 0.8,
       });
@@ -78,7 +81,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const b of businesses) {
       entries.push({
         url: `${BASE_URL}/${product.slug}/${b.locationSlug}/${b.slug}`,
-        lastModified: new Date(),
+        lastModified: LAST_MODIFIED,
         changeFrequency: "monthly",
         priority: 0.6,
       });
@@ -89,7 +92,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       for (const svc of servicePages) {
         entries.push({
           url: `${BASE_URL}/${product.slug}/${loc.slug}/services/${svc.slug}`,
-          lastModified: new Date(),
+          lastModified: LAST_MODIFIED,
           changeFrequency: "monthly",
           priority: 0.7,
         });
@@ -99,7 +102,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   entries.push({
     url: `${BASE_URL}/guides`,
-    lastModified: new Date(),
+    lastModified: LAST_MODIFIED,
     changeFrequency: "weekly",
     priority: 0.7,
   });
@@ -107,7 +110,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const slug of getAllGuideSlugs()) {
     entries.push({
       url: `${BASE_URL}/guides/${slug}`,
-      lastModified: new Date(),
+      lastModified: LAST_MODIFIED,
       changeFrequency: "monthly",
       priority: 0.7,
     });

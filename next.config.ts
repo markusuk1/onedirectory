@@ -20,11 +20,20 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
-        source: '/ads.txt',
+        source: "/ads.txt",
         headers: [
           {
-            key: 'Content-Type',
-            value: 'text/plain',
+            key: "Content-Type",
+            value: "text/plain",
+          },
+        ],
+      },
+      {
+        source: "/operator/:path*",
+        headers: [
+          {
+            key: "X-Robots-Tag",
+            value: "noindex, nofollow, noarchive",
           },
         ],
       },
