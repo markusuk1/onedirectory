@@ -236,6 +236,7 @@ export function getSiteId(): SiteId {
     return "northeast";
   }
 
+  if (site === "northeast") return "northeast";
   if (site === "northwest") return "northwest";
   if (site === "scotland") return "scotland";
   if (site === "midlands") return "midlands";
