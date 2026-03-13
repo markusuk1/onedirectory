@@ -93,7 +93,13 @@ export default async function ProductBusinessPage({
       "@type": "LocalBusiness",
       name: business.name,
       address: business.address,
-      telephone: business.internationalPhone || business.phone,
+      telephone:
+        business.internationalMobilePhone ||
+        business.internationalLandlinePhone ||
+        business.internationalPhone ||
+        business.mobilePhone ||
+        business.landlinePhone ||
+        business.phone,
       ...(business.email && { email: business.email }),
       ...(business.description && { description: business.description }),
       ...(business.services.length > 0 && {
@@ -414,7 +420,25 @@ export default async function ProductBusinessPage({
                   Contact {business.name}
                 </h2>
 
-                {business.phone && (
+                {business.landlinePhone && (
+                  <ClickToReveal
+                    label="Landline"
+                    phone={business.landlinePhone}
+                    internationalPhone={business.internationalLandlinePhone}
+                    businessSlug={business.slug}
+                  />
+                )}
+
+                {business.mobilePhone && (
+                  <ClickToReveal
+                    label="Mobile"
+                    phone={business.mobilePhone}
+                    internationalPhone={business.internationalMobilePhone}
+                    businessSlug={business.slug}
+                  />
+                )}
+
+                {!business.landlinePhone && !business.mobilePhone && business.phone && (
                   <ClickToReveal
                     phone={business.phone}
                     internationalPhone={business.internationalPhone}

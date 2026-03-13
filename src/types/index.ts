@@ -3,6 +3,10 @@ export interface BusinessRaw {
   address: string;
   phone: string;
   international_phone: string;
+  landline_phone?: string;
+  international_landline_phone?: string;
+  mobile_phone?: string;
+  international_mobile_phone?: string;
   website: string;
   google_maps_url: string;
   rating: number | null;
@@ -27,6 +31,10 @@ export interface Business {
   address: string;
   phone: string | null;
   internationalPhone: string | null;
+  landlinePhone: string | null;
+  internationalLandlinePhone: string | null;
+  mobilePhone: string | null;
+  internationalMobilePhone: string | null;
   website: string | null;
   email: string | null;
   description: string | null;

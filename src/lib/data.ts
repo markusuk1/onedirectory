@@ -143,6 +143,16 @@ function normalizePhone(value: string | null | undefined): string {
   return (value || "").replace(/\D+/g, "");
 }
 
+function toInternationalPhone(value: string | null | undefined): string | null {
+  if (!value) return null;
+  const normalized = value.replace(/[^\d+]/g, "");
+  if (!normalized) return null;
+  if (normalized.startsWith("+")) return normalized;
+  if (normalized.startsWith("44")) return `+${normalized}`;
+  if (normalized.startsWith("0")) return `+44${normalized.slice(1)}`;
+  return normalized;
+}
+
 function normalizeText(value: string | null | undefined): string {
   return (value || "").trim().toLowerCase();
 }
@@ -183,13 +193,31 @@ function compareBusinessSeeds(a: BusinessSeed, b: BusinessSeed): number {
 
 function createBusiness(seed: BusinessSeed, slug: string): Business {
   const { raw } = seed;
+  const landlinePhone = raw.landline_phone || raw.phone || null;
+  const mobilePhone = raw.mobile_phone || null;
+  const internationalLandlinePhone =
+    raw.international_landline_phone ||
+    (!raw.mobile_phone ? raw.international_phone || null : null) ||
+    toInternationalPhone(landlinePhone);
+  const internationalMobilePhone =
+    raw.international_mobile_phone || toInternationalPhone(mobilePhone);
+  const primaryPhone = mobilePhone || landlinePhone;
+  const primaryInternational =
+    raw.international_phone ||
+    internationalMobilePhone ||
+    internationalLandlinePhone ||
+    toInternationalPhone(primaryPhone);
 
   return {
     name: raw.name,
     slug,
     address: raw.address,
-    phone: raw.phone || null,
-    internationalPhone: raw.international_phone || null,
+    phone: primaryPhone,
+    internationalPhone: primaryInternational,
+    landlinePhone,
+    internationalLandlinePhone,
+    mobilePhone,
+    internationalMobilePhone,
     website: raw.website || null,
     email: raw.email || null,
     description: raw.description || null,
@@ -578,7 +606,7 @@ export async function getBusinessWithOverrides(
   try {
     const siteId = getSiteId();
     const result = await pool.query(
-      `SELECT op.description, op.phone, op.email, op.website, op.logo_url, op.tagline, op.services
+      `SELECT op.description, op.phone, op.landline_phone, op.mobile_phone, op.email, op.website, op.logo_url, op.tagline, op.services
        FROM operator_profiles op
        JOIN operator_claims oc ON oc.business_slug = op.business_slug
          AND oc.product = op.product AND oc.site = op.site AND oc.status = 'approved'
@@ -589,6 +617,19 @@ export async function getBusinessWithOverrides(
     if (result.rows.length === 0) return base;
 
     const override = result.rows[0];
+    const landlinePhone =
+      override.landline_phone || override.phone || base.landlinePhone || base.phone;
+    const mobilePhone = override.mobile_phone || base.mobilePhone || null;
+    const internationalLandlinePhone =
+      base.internationalLandlinePhone || toInternationalPhone(landlinePhone);
+    const internationalMobilePhone =
+      base.internationalMobilePhone || toInternationalPhone(mobilePhone);
+    const primaryPhone = mobilePhone || landlinePhone || base.phone;
+    const primaryInternational =
+      internationalMobilePhone ||
+      internationalLandlinePhone ||
+      base.internationalPhone ||
+      toInternationalPhone(primaryPhone);
 
     // Check for active paid advert (= Featured badge)
     const adResult = await pool.query(
@@ -605,8 +646,13 @@ export async function getBusinessWithOverrides(
       isClaimed: true,
       isRecommended: true,
       ...(adResult.rows.length > 0 && { isFeatured: true }),
+      phone: primaryPhone,
+      internationalPhone: primaryInternational,
+      landlinePhone,
+      internationalLandlinePhone,
+      mobilePhone,
+      internationalMobilePhone,
       ...(override.description && { description: override.description }),
-      ...(override.phone && { phone: override.phone }),
       ...(override.email && { email: override.email }),
       ...(override.website && { website: override.website }),
       ...(override.logo_url && { logoUrl: override.logo_url }),

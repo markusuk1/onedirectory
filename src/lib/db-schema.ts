@@ -32,6 +32,8 @@ export async function initOperatorTables() {
       site VARCHAR(50) NOT NULL,
       description TEXT,
       phone VARCHAR(50),
+      landline_phone VARCHAR(50),
+      mobile_phone VARCHAR(50),
       email VARCHAR(255),
       website VARCHAR(500),
       logo_url VARCHAR(500),
@@ -84,5 +86,7 @@ export async function initOperatorTables() {
     );
 
     ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS backlink_added BOOLEAN DEFAULT false;
+    ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS landline_phone VARCHAR(50);
+    ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS mobile_phone VARCHAR(50);
   `);
 }

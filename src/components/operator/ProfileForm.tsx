@@ -6,6 +6,8 @@ import LogoUpload from "./LogoUpload";
 interface ProfileData {
   description: string | null;
   phone: string | null;
+  landline_phone: string | null;
+  mobile_phone: string | null;
   email: string | null;
   website: string | null;
   logo_url: string | null;
@@ -16,6 +18,8 @@ interface ProfileData {
 interface BaseData {
   description: string | null;
   phone: string | null;
+  landlinePhone: string | null;
+  mobilePhone: string | null;
   email: string | null;
   website: string | null;
   services: string[];
@@ -40,7 +44,12 @@ export default function ProfileForm({
 }: Props) {
   const [tagline, setTagline] = useState(profile?.tagline || "");
   const [description, setDescription] = useState(profile?.description || baseData?.description || "");
-  const [phone, setPhone] = useState(profile?.phone || baseData?.phone || "");
+  const [landlinePhone, setLandlinePhone] = useState(
+    profile?.landline_phone || profile?.phone || baseData?.landlinePhone || baseData?.phone || ""
+  );
+  const [mobilePhone, setMobilePhone] = useState(
+    profile?.mobile_phone || baseData?.mobilePhone || ""
+  );
   const [email, setEmail] = useState(profile?.email || baseData?.email || "");
   const [website, setWebsite] = useState(profile?.website || baseData?.website || "");
   const [services, setServices] = useState<string[]>(
@@ -66,7 +75,9 @@ export default function ProfileForm({
         site,
         tagline: tagline || null,
         description: description || null,
-        phone: phone || null,
+        phone: landlinePhone || mobilePhone || null,
+        landlinePhone: landlinePhone || null,
+        mobilePhone: mobilePhone || null,
         email: email || null,
         website: website || null,
         services: services.length > 0 ? services : null,
@@ -152,20 +163,38 @@ export default function ProfileForm({
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div>
           <label
-            htmlFor="phone"
+            htmlFor="landlinePhone"
             className="block text-sm font-medium text-text mb-1"
           >
-            Phone
+            Landline
           </label>
           <input
-            id="phone"
+            id="landlinePhone"
             type="tel"
-            value={phone}
-            onChange={(e) => setPhone(e.target.value)}
+            value={landlinePhone}
+            onChange={(e) => setLandlinePhone(e.target.value)}
             className="w-full border border-border rounded-lg px-4 py-2.5 text-text focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
-            placeholder="01onal 234 5678"
+            placeholder="0191 222 1234"
           />
         </div>
+        <div>
+          <label
+            htmlFor="mobilePhone"
+            className="block text-sm font-medium text-text mb-1"
+          >
+            Mobile / WhatsApp
+          </label>
+          <input
+            id="mobilePhone"
+            type="tel"
+            value={mobilePhone}
+            onChange={(e) => setMobilePhone(e.target.value)}
+            className="w-full border border-border rounded-lg px-4 py-2.5 text-text focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
+            placeholder="07346 623061"
+          />
+        </div>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div>
           <label
             htmlFor="email"

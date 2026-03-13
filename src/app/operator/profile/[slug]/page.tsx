@@ -51,7 +51,7 @@ export default async function EditProfilePage({
 
   // Get current profile overrides
   const profileResult = await pool.query(
-    `SELECT description, phone, email, website, logo_url, tagline, services, backlink_added
+    `SELECT description, phone, landline_phone, mobile_phone, email, website, logo_url, tagline, services, backlink_added
      FROM operator_profiles
      WHERE business_slug = $1 AND product = $2 AND site = $3`,
     [slug, product, site]
@@ -99,6 +99,8 @@ export default async function EditProfilePage({
           baseData={baseBusiness ? {
             description: baseBusiness.description,
             phone: baseBusiness.phone,
+            landlinePhone: baseBusiness.landlinePhone,
+            mobilePhone: baseBusiness.mobilePhone,
             email: baseBusiness.email,
             website: baseBusiness.website,
             services: baseBusiness.services,
