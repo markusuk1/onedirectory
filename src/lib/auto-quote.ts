@@ -25,6 +25,7 @@ interface AutoQuoteConfig {
   id: string;
   business_slug: string;
   config: Record<string, unknown>;
+  operator_services: string[] | null;
 }
 
 /**
@@ -44,7 +45,7 @@ export async function processAutoQuotes(lead: LeadData): Promise<void> {
     const result = await pool.query(
       `SELECT aqc.id, aqc.business_slug, aqc.config,
               op.email as operator_email, op.name as operator_name,
-              opr.phone as profile_phone
+              opr.phone as profile_phone, opr.services as operator_services
        FROM auto_quote_configs aqc
        JOIN operators op ON op.id = aqc.operator_id
        LEFT JOIN operator_profiles opr ON opr.business_slug = aqc.business_slug
@@ -59,7 +60,7 @@ export async function processAutoQuotes(lead: LeadData): Promise<void> {
     const result = await pool.query(
       `SELECT aqc.id, aqc.business_slug, aqc.config,
               op.email as operator_email, op.name as operator_name,
-              opr.phone as profile_phone
+              opr.phone as profile_phone, opr.services as operator_services
        FROM auto_quote_configs aqc
        JOIN operators op ON op.id = aqc.operator_id
        LEFT JOIN operator_profiles opr ON opr.business_slug = aqc.business_slug
@@ -71,6 +72,19 @@ export async function processAutoQuotes(lead: LeadData): Promise<void> {
   }
 
   if (configs.length === 0) return;
+
+  // Filter by service match if the customer specified a service type.
+  // Only excludes operators who have explicitly declared services that
+  // don't include the requested one. Operators without declared services
+  // (legacy) still receive all leads.
+  const requestedService = lead.details?.serviceType || null;
+  if (requestedService) {
+    configs = configs.filter((c) => {
+      if (!c.operator_services || c.operator_services.length === 0) return true;
+      return c.operator_services.includes(requestedService);
+    });
+    if (configs.length === 0) return;
+  }
 
   const site = getSiteConfig();
 
@@ -144,6 +158,21 @@ function generateQuote(
   }
   if (lead.product === "locksmith") {
     return generateLocksmithQuote(lead, c, template);
+  }
+  if (lead.product === "removal-companies") {
+    return generateRemovalsQuote(lead, c, template);
+  }
+  if (lead.product === "bouncy-castle-hire") {
+    return generateBouncyCastleQuote(lead, c, template);
+  }
+  if (lead.product === "limo-hire") {
+    return generateLimoQuote(lead, c, template);
+  }
+  if (lead.product === "plant-hire") {
+    return generatePlantQuote(lead, c, template);
+  }
+  if (lead.product === "driving-lessons") {
+    return generateDrivingQuote(lead, c, template);
   }
 
   return null;
@@ -250,6 +279,152 @@ function generateLocksmithQuote(
     message,
     price: `From £${fee}`,
     amount: fee,
+  };
+}
+
+function generateRemovalsQuote(
+  lead: LeadData,
+  config: Record<string, unknown>,
+  template: string
+): QuoteResult | null {
+  const d = lead.details || {};
+  const bedrooms = parseInt(d.bedrooms || "2", 10);
+  const basePrice = (config.basePrice as number) || 300;
+  const bedroomMultiplier = (config.bedroomMultiplier as number) || 100;
+  const packingFee = (config.packingFee as number) || 150;
+  const needsPacking = d.needPacking === "yes" || d.needPacking === "Yes";
+  const price = basePrice + bedrooms * bedroomMultiplier + (needsPacking ? packingFee : 0);
+
+  const message =
+    template
+      .replace("{moveType}", d.moveType || "house move")
+      .replace("{bedrooms}", String(bedrooms))
+      .replace("{movingFrom}", d.movingFrom || "origin")
+      .replace("{movingTo}", d.movingTo || "destination")
+      .replace("{date}", d.moveDate || "your requested date")
+      .replace("{price}", `£${price}`) ||
+    `We can help with your ${d.moveType || "house"} move (${bedrooms} bed). Estimated from £${price}.`;
+
+  return {
+    summary: `${bedrooms}-bed ${d.moveType || "house"} move — from £${price}`,
+    message,
+    price: `From £${price}`,
+    amount: price,
+  };
+}
+
+function generateBouncyCastleQuote(
+  lead: LeadData,
+  config: Record<string, unknown>,
+  template: string
+): QuoteResult | null {
+  const d = lead.details || {};
+  const basePrice = (config.basePrice as number) || 80;
+  const setupFee = (config.setupFee as number) || 0;
+  const price = basePrice + setupFee;
+
+  const message =
+    template
+      .replace("{eventType}", d.eventType || "party")
+      .replace("{eventDate}", d.eventDate || "your requested date")
+      .replace("{venue}", d.venue || "your venue")
+      .replace("{ageRange}", d.ageRange || "all ages")
+      .replace("{price}", `£${price}`) ||
+    `We can provide a bouncy castle for your ${d.eventType || "event"}. Price from £${price}.`;
+
+  return {
+    summary: `bouncy castle for ${d.eventType || "event"} — from £${price}`,
+    message,
+    price: `From £${price}`,
+    amount: price,
+  };
+}
+
+function generateLimoQuote(
+  lead: LeadData,
+  config: Record<string, unknown>,
+  template: string
+): QuoteResult | null {
+  const d = lead.details || {};
+  const hours = parseInt(d.hours || "3", 10);
+  const hourlyRate = (config.hourlyRate as number) || 100;
+  const minimumHours = (config.minimumHours as number) || 2;
+  const price = Math.max(minimumHours, hours) * hourlyRate;
+
+  const message =
+    template
+      .replace("{occasion}", d.occasion || "event")
+      .replace("{eventDate}", d.eventDate || "your requested date")
+      .replace("{pickupLocation}", d.pickupLocation || "pickup")
+      .replace("{destination}", d.destination || "destination")
+      .replace("{passengers}", d.passengers || "your group")
+      .replace("{hours}", String(hours))
+      .replace("{price}", `£${price}`) ||
+    `We can provide a limo for your ${d.occasion || "event"} (${hours}hrs). Price from £${price}.`;
+
+  return {
+    summary: `limo hire (${hours}hrs) — from £${price}`,
+    message,
+    price: `From £${price}`,
+    amount: price,
+  };
+}
+
+function generatePlantQuote(
+  lead: LeadData,
+  config: Record<string, unknown>,
+  template: string
+): QuoteResult | null {
+  const d = lead.details || {};
+  const equipmentType = d.equipmentType || "general";
+  const dailyRates = (config.dailyRates as Record<string, number>) || {};
+  const rate = dailyRates[equipmentType] || dailyRates.general || 150;
+  const operatedSurcharge = (config.operatedSurcharge as number) || 100;
+  const isOperated = d.operatedOrSelfDrive === "operated";
+  const price = rate + (isOperated ? operatedSurcharge : 0);
+
+  const message =
+    template
+      .replace("{equipmentType}", equipmentType)
+      .replace("{startDate}", d.startDate || "your requested date")
+      .replace("{duration}", d.duration || "your required period")
+      .replace("{siteLocation}", d.siteLocation || "your site")
+      .replace("{price}", `£${price}`) ||
+    `We have ${equipmentType} equipment available. Daily rate: £${price}${isOperated ? " (operated)" : ""}.`;
+
+  return {
+    summary: `${equipmentType} — £${price}/day`,
+    message,
+    price: `£${price}/day`,
+    amount: price,
+  };
+}
+
+function generateDrivingQuote(
+  lead: LeadData,
+  config: Record<string, unknown>,
+  template: string
+): QuoteResult | null {
+  const d = lead.details || {};
+  const lessonType = d.lessonType || "standard";
+  const hourlyRate = (config.hourlyRate as number) || 35;
+  const packageRates = (config.packageRates as Record<string, number>) || {};
+  const price = packageRates[lessonType] || hourlyRate;
+
+  const message =
+    template
+      .replace("{lessonType}", lessonType)
+      .replace("{transmission}", d.transmission || "manual")
+      .replace("{experience}", d.experience || "beginner")
+      .replace("{area}", d.area || "your area")
+      .replace("{price}", `£${price}`) ||
+    `We offer ${lessonType} ${d.transmission || "manual"} driving lessons. Price from £${price}/hr.`;
+
+  return {
+    summary: `${d.transmission || "manual"} ${lessonType} lesson — £${price}/hr`,
+    message,
+    price: `£${price}/hr`,
+    amount: price,
   };
 }
 

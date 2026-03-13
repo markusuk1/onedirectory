@@ -14,7 +14,17 @@
     "lat": 55.841417,
     "lng": -4.396112,
     "found_in_location": "Paisley",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Scotland's premiere chauffeur drive company offering discreet, executive service for corporate travel, airport transfers and events",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gibbs Limo Hire & Wedding Cars",
@@ -26,12 +36,21 @@
     "rating": 5.0,
     "total_reviews": 212,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"7\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"7 am–11 pm\"],\"Saturday\":[\"7 am–11 pm\"],\"Sunday\":[\"7 am–11 pm\"],\"Thursday\":[\"7 am–11 pm\"],\"Tuesday\":[\"7 am–11 pm\"],\"Wednesday\":[\"7 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 56.083162,
     "lng": -3.375149,
-    "found_in_location": "Cowdenbeath",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Dunfermline",
+    "found_with_query": "limo scotland",
+    "description": "Our limos and party bus have wireless tablets with spotify connected to the vehicle sound system:",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "EOSCS LIMITED",
@@ -48,7 +67,17 @@
     "lat": 55.899457,
     "lng": -3.137409,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "travel@eoscs.co.uk",
+    "emails": [
+      "travel@eoscs.co.uk"
+    ],
+    "description": "Award winning chauffeur services. Private luxury transport for vip’s, business execs, individual travellers & family/friend group vacations.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Edinburgh Classic Wedding Cars",
@@ -64,8 +93,17 @@
     "types": "Limousine service",
     "lat": 55.838938,
     "lng": -3.146802,
-    "found_in_location": "Rosewell",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "limo scotland",
+    "email": "info@edinburghclassicweddingcars.co.uk",
+    "emails": [
+      "info@edinburghclassicweddingcars.co.uk"
+    ],
+    "description": "Edinburgh Classic Wedding Cars, beautiful and unique classic cars driven by professional, experienced chauffeurs, covering Edinburgh, Lothians , Fife, the Borders and Central Scotland.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Saltire Executive Transport",
@@ -77,12 +115,21 @@
     "rating": 5.0,
     "total_reviews": 104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Transportation service",
     "lat": 56.116592,
     "lng": -3.918243,
     "found_in_location": "Stirling",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "saltireexecutivetransport@outlook.com",
+    "emails": [
+      "saltireexecutivetransport@outlook.com"
+    ],
+    "description": "We areSaltire Executive Transport, Scotland’s elite personal chauffeur service – with us, your comfort, safety and privacy are guaranteed.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Exquisite Limousines",
@@ -99,7 +146,17 @@
     "lat": 56.058793,
     "lng": -3.418392,
     "found_in_location": "Dunfermline",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "exquisitelimousines@hotmail.co.uk",
+    "emails": [
+      "exquisitelimousines@hotmail.co.uk"
+    ],
+    "description": "Limo Hire Edinburgh, Fife Limos for Hire, Exquisite Limousines, Wedding Limo Hire, Birthday Limo Hire, School Prom Limo Hire, m.07879 257 291",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Aberdeen Minibus Services",
@@ -111,12 +168,20 @@
     "rating": 5.0,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u201310\u202fpm\"],\"Monday\":[\"7:30\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201310\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–10 pm\"],\"Monday\":[\"7:30 am–10 pm\"],\"Saturday\":[\"7:30 am–10 pm\"],\"Sunday\":[\"7:30 am–8 pm\"],\"Thursday\":[\"7:30 am–10 pm\"],\"Tuesday\":[\"7:30 am–10 pm\"],\"Wednesday\":[\"7:30 am–10 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 57.193972,
     "lng": -2.112253,
     "found_in_location": "Aberdeen",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "eddie@aberdeenminibusservices.com",
+    "emails": [
+      "eddie@aberdeenminibusservices.com"
+    ],
+    "description": "Airport transfers, sporting events, weddings, whisky tours – we’ve got you covered with professional drivers and modern minibuses.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Scotland's Chauffeur, Transfers & Tours",
@@ -133,7 +198,16 @@
     "lat": 55.567885,
     "lng": -4.600404,
     "found_in_location": "Kilmarnock",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "travel@scotlandschauffeur.com",
+    "emails": [
+      "travel@scotlandschauffeur.com"
+    ],
+    "description": "Scotland’s Chauffeur is an independent family-run luxury Glasgow chauffeur company. We provide confidential, executive transfers for business and pleasure.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Rennicks Wedding Cars",
@@ -145,12 +219,18 @@
     "rating": 5.0,
     "total_reviews": 58,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 55.803574,
     "lng": -4.323341,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Rennick's Wedding Cars in Glasgow. A family-run business that takes great pride in delivering an excellent wedding car hire service at competitive prices.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Edi Chauffeurs",
@@ -162,12 +242,21 @@
     "rating": 5.0,
     "total_reviews": 56,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u201310\u202fpm\"],\"Monday\":[\"6\u202fam\u201310\u202fpm\"],\"Saturday\":[\"6\u202fam\u201310\u202fpm\"],\"Sunday\":[\"6\u202fam\u201310\u202fpm\"],\"Thursday\":[\"6\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"6\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"6\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–10 pm\"],\"Monday\":[\"6 am–10 pm\"],\"Saturday\":[\"6 am–10 pm\"],\"Sunday\":[\"6 am–10 pm\"],\"Thursday\":[\"6 am–10 pm\"],\"Tuesday\":[\"6 am–10 pm\"],\"Wednesday\":[\"6 am–10 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.944888,
     "lng": -3.232486,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@edichauffeurs.co.uk",
+    "emails": [
+      "enquiries@edichauffeurs.co.uk"
+    ],
+    "description": "Your journey through Scotland begins with Edinburgh Chauffeurs. Premium transport solutions from luxury cars to minibuses & coaches, serving Edinburgh, Glasgow, the Highlands, and nationwide with expert local guides.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Fifty Six Events",
@@ -179,12 +268,17 @@
     "rating": 5.0,
     "total_reviews": 56,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 56.495386,
     "lng": -3.003499,
     "found_in_location": "Dundee",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "hello@fiftysixevents.co.uk",
+    "emails": [
+      "hello@fiftysixevents.co.uk"
+    ],
+    "description": "Wedding Prop Hire & Styling in Dundee, Fife & Perthshire, Scotland."
   },
   {
     "name": "Palladium Executive Hire",
@@ -201,7 +295,19 @@
     "lat": 55.862236,
     "lng": -4.370273,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@palladiumexecutivehire.com",
+    "emails": [
+      "info@palladiumexecutivehire.com"
+    ],
+    "description": "At Palladium Executive Hire we specialise in providing luxury car hire, Whether you wish to be driven for business, pleasure or to simply enjoy a special touch of luxury. You can be assured that we will take the stress away from driving We pride ourselves on the world-class service that we...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "SO CAL LIMOS PERTH",
@@ -213,11 +319,11 @@
     "rating": 5.0,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": -32.084685,
     "lng": 115.763584,
-    "found_in_location": "Hamilton Hill",
+    "found_in_location": "Aberdeen",
     "found_with_query": "limo scotland"
   },
   {
@@ -235,7 +341,11 @@
     "lat": 55.794654,
     "lng": -4.194431,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@toddstravel.co.uk",
+    "emails": [
+      "info@toddstravel.co.uk"
+    ]
   },
   {
     "name": "Glasgow Luxury Transfer",
@@ -247,12 +357,22 @@
     "rating": 5.0,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Transportation service",
     "lat": 55.886697,
     "lng": -4.092664,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "booking@glasgowluxurytransfer.co.uk",
+    "emails": [
+      "booking@glasgowluxurytransfer.co.uk"
+    ],
+    "description": "Executive Chauffeur Services Glasgow 1st class service, Glasgow Luxury Transfer Mercedes S-Class business class ensures you arrive in style",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Butler's Chauffeur Drive",
@@ -264,12 +384,22 @@
     "rating": 5.0,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10:30 pm\"],\"Monday\":[\"7 am–10:30 pm\"],\"Saturday\":[\"7 am–10:30 pm\"],\"Sunday\":[\"7 am–10:30 pm\"],\"Thursday\":[\"7 am–10:30 pm\"],\"Tuesday\":[\"7 am–10:30 pm\"],\"Wednesday\":[\"7 am–10:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.942511,
     "lng": -3.360855,
-    "found_in_location": "Newbridge",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "limo scotland",
+    "email": "contact@butlerschauffeurdrive.com",
+    "emails": [
+      "contact@butlerschauffeurdrive.com"
+    ],
+    "description": "Butler’s Luxury Chauffeur Driven Edinburgh Airport Chauffeur & Edinburgh airport transfer Services is a well-established business with its head office situated within 2 minutes’ drive away from Edinburgh Airport terminal. We have been providing chauffeur driven executive car hire services in...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "RLC Travel Services Ltd",
@@ -281,12 +411,20 @@
     "rating": 5.0,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 55.943673,
     "lng": -4.152615,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@rlctravelservices.co.uk",
+    "emails": [
+      "info@rlctravelservices.co.uk"
+    ],
+    "description": "Experience seamless airport transfers, private event hires, and business transportation with RLC Travel Services. Your trusted travel partner in Scotland for reliable and comfortable travel solutions.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Coopers Wedding Cars",
@@ -298,12 +436,23 @@
     "rating": 5.0,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u201312\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–12 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.874855,
     "lng": -4.143001,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@coopersweddingcars.co.uk",
+    "emails": [
+      "info@coopersweddingcars.co.uk"
+    ],
+    "description": "Glasgow Wedding Cars, we pride in ourselves in our down to earth friendly service, we believe we have the drivers to make your day perfect.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "EET Group Ltd",
@@ -320,7 +469,17 @@
     "lat": 55.911775,
     "lng": -3.311182,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "contact@eetgrp.com",
+    "emails": [
+      "contact@eetgrp.com",
+      "reservations@eetgrp.com"
+    ],
+    "description": "A venerable and reliable provider of chauffeur-driven transport that is tailored to each and every person who steps into our fleet of prestigious vehicles across the UK.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ashgrove Chauffeur Services",
@@ -337,7 +496,16 @@
     "lat": 57.157321,
     "lng": -2.137164,
     "found_in_location": "Aberdeen",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@aberdeenchauffeur.co.uk",
+    "emails": [
+      "info@aberdeenchauffeur.co.uk"
+    ],
+    "description": "Ashgrove Chauffeur Services. Highly experienced, high quality chauffeur service. Corporate, Business, Weddings, Private, & VIP in Scotland.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "SR Wedding Cars n Cabs",
@@ -354,7 +522,17 @@
     "lat": 55.910593,
     "lng": -3.287406,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "robertsonscott1@sky.com",
+    "emails": [
+      "robertsonscott1@sky.com"
+    ],
+    "description": "SR Wedding Cars n Cabs provide a luxury wedding taxi service in Edinburgh and further for The Lothians and Fife",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Chauffeurs of Carnoustie Wedding Cars",
@@ -370,8 +548,13 @@
     "types": "Limousine service",
     "lat": 56.500674,
     "lng": -2.722453,
-    "found_in_location": "Carnoustie",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "limo scotland",
+    "description": "With Chauffeurs of Carnoustie wedding dreams come true with award-winning wedding cars available for hire in Scotland.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "White Diamond",
@@ -387,8 +570,20 @@
     "types": "Limousine service",
     "lat": 55.860997,
     "lng": -3.999844,
-    "found_in_location": "Airdrie",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "limo scotland",
+    "email": "enquiries@whitediamondweddingcars.co.uk",
+    "emails": [
+      "enquiries@whitediamondweddingcars.co.uk"
+    ],
+    "description": "Wedding Car Hire Airdrie | Wedding Car Hire Scotland",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "NATA",
@@ -405,7 +600,15 @@
     "lat": 55.870821,
     "lng": -4.231452,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@natatransport.co.uk",
+    "emails": [
+      "info@natatransport.co.uk"
+    ],
+    "description": "North Area Transport Association (NATA) has been catering for group travel needs since 2004. We provide minibuses for private hire, community transport and minibus driver training.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Private Driver Club Chauffeur Services (Glasgow Airport)",
@@ -422,7 +625,16 @@
     "lat": 55.85247,
     "lng": -4.44218,
     "found_in_location": "Paisley",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@privatedriver.club",
+    "emails": [
+      "info@privatedriver.club"
+    ],
+    "description": "We provide business services and our own vehicle fleet so that you can reach your destination safely, in comfort and always on time",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Private Driver Club Chauffeur Services UK",
@@ -439,7 +651,16 @@
     "lat": 55.902542,
     "lng": -4.365376,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@privatedriver.club",
+    "emails": [
+      "info@privatedriver.club"
+    ],
+    "description": "We provide business services and our own vehicle fleet so that you can reach your destination safely, in comfort and always on time",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Glasgow Chauffeur Company",
@@ -456,7 +677,17 @@
     "lat": 55.81835,
     "lng": -4.472031,
     "found_in_location": "Paisley",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@glasgowchauffeurcompany.co.uk",
+    "emails": [
+      "info@glasgowchauffeurcompany.co.uk"
+    ],
+    "description": "Glasgow Chauffeur Company are one of Glasgow most prestigious & premier executive airport transfer based in the Glasgow City Centre",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Highlandexecutivetravel",
@@ -468,12 +699,21 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9:30 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–9:30 pm\"],\"Tuesday\":[\"9 am–9:30 pm\"],\"Wednesday\":[\"9 am–9:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 57.461526,
     "lng": -4.205052,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@highlandexecutivetravel.com",
+    "emails": [
+      "enquiries@highlandexecutivetravel.com"
+    ],
+    "description": "WorldHost is an internationally recognised programme for promoting quality customer service within the service sector. It is designed to give staff the skills and knowledge to deliver excellent customer service to enhance our reputation and build respect.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Silverlink Tours",
@@ -485,12 +725,20 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–7 pm\"],\"Monday\":[\"9:30 am–7 pm\"],\"Saturday\":[\"9:30 am–7 pm\"],\"Sunday\":[\"9:30 am–7 pm\"],\"Thursday\":[\"9:30 am–7 pm\"],\"Tuesday\":[\"9:30 am–7 pm\"],\"Wednesday\":[\"9:30 am–7 pm\"]}",
     "types": "Tours",
     "lat": 55.834848,
     "lng": -4.090062,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@silverlinktours.co.uk",
+    "emails": [
+      "info@silverlinktours.co.uk"
+    ],
+    "description": "The best private tours Scotland has to offer. Enjoy private chauffeur tours of scotland in complete luxury and privacy. Call today for private guided tours.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Transvercia Chauffeur Drive",
@@ -502,12 +750,22 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20138:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–8:30 pm\"],\"Monday\":[\"8:30 am–8:30 pm\"],\"Saturday\":[\"9:30 am–6:30 pm\"],\"Sunday\":[\"9:30 am–6:30 pm\"],\"Thursday\":[\"8:30 am–8:30 pm\"],\"Tuesday\":[\"8:30 am–8:30 pm\"],\"Wednesday\":[\"8:30 am–8:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.966544,
     "lng": -3.184201,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "chauffeurservices@transvercia.com",
+    "emails": [
+      "chauffeurservices@transvercia.com"
+    ],
+    "description": "Transvercia is the premier chauffeur hire company in Edinburgh. An established company with fantastic reviews. For excellent bespoke services at the best prices call 0800 334 5825.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "MET Chauffeur Services",
@@ -524,7 +782,17 @@
     "lat": 55.858099,
     "lng": -4.367192,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@metchauffeurservices.com",
+    "emails": [
+      "info@metchauffeurservices.com"
+    ],
+    "description": "MET Chauffeur Services are one of Scotland's premier chauffeur and ground transport companies offering luxury chauffeur hire in Glasgow & West Central Scotland. Professional and discreet service, corporate travel, private tours, transfers, private aviation specialists.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "MacNeil Coaches Ltd",
@@ -536,12 +804,20 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 57.603448,
     "lng": -4.430745,
-    "found_in_location": "Dingwall",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "limo scotland",
+    "email": "info@macneilcoaches.com",
+    "emails": [
+      "info@macneilcoaches.com"
+    ],
+    "description": "With over 35 year of experience, MacNeil Coaches provides all your coach hire, tour and transport needs in the Scottish Highlands.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ferguson Mini Bus Hire",
@@ -558,7 +834,15 @@
     "lat": 56.106936,
     "lng": -3.92653,
     "found_in_location": "Stirling",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "fergusonminibushire@outlook.com",
+    "emails": [
+      "fergusonminibushire@outlook.com"
+    ],
+    "description": "Small and friendly family company with over 40 years experience in group transport.Travel with our family and you will be well looked after.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "PCL Live",
@@ -587,7 +871,7 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–6 pm\"],\"Sunday\":[\"8:30 am–6 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.86205,
     "lng": -4.253171,
@@ -609,7 +893,16 @@
     "lat": 55.828207,
     "lng": -4.206996,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "booking@scotlandexecutivehire.co.uk",
+    "emails": [
+      "booking@scotlandexecutivehire.co.uk"
+    ],
+    "description": "Executive Hire provides luxury chauffeur services in Glasgow and across Scotland. Executive airport transfers, corporate travel & premium chauffeur driven cars.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Top Class",
@@ -638,7 +931,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding Shop",
     "lat": 55.858486,
     "lng": -4.26912,
@@ -660,7 +953,14 @@
     "lat": -31.954947,
     "lng": 115.858637,
     "found_in_location": "Perth",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Perth’s top praised premierlimousine hire and service company",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Little's Chauffeur Drive",
@@ -677,7 +977,15 @@
     "lat": 55.943818,
     "lng": -3.286512,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@littles.co.uk",
+    "emails": [
+      "enquiries@littles.co.uk"
+    ],
+    "description": "We manage your transport needs globally. Book a chauffeur anywhere in the world, we’ll manage the rest.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Discreet chauffeur",
@@ -694,7 +1002,16 @@
     "lat": 55.848701,
     "lng": -4.380353,
     "found_in_location": "Paisley",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@discreetchauffeur.com",
+    "emails": [
+      "info@discreetchauffeur.com"
+    ],
+    "description": "Corporate and private event transfers, leisure and sporting transfers and executive and private transport using our fleet of luxury transportation.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Staffords Buddie Buses",
@@ -706,7 +1023,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 55.849043,
     "lng": -4.436305,
@@ -728,7 +1045,16 @@
     "lat": 55.92145,
     "lng": -4.442708,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@smcchauffeurdrive.co.uk",
+    "emails": [
+      "info@smcchauffeurdrive.co.uk"
+    ],
+    "description": "Step into the world ofOutlanderwith our specially designed Outlander Experience Tours. Visit key filming locations such as Doune Castle (Castle Leoch), Falkland, Culross, and Blackness Castle. Feel the history and romance of the Jacobite era as your private chauffeur shares stories, local...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Ness Mini Coaches",
@@ -745,7 +1071,15 @@
     "lat": 57.479743,
     "lng": -4.23803,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@nessminicoaches.com",
+    "emails": [
+      "info@nessminicoaches.com"
+    ],
+    "description": "Enjoy personalised golf tours, golf transfers & airport pickups. Book your adventure today!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Elegant Beau Cars",
@@ -757,7 +1091,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Chauffeur service",
     "lat": 57.142889,
     "lng": -2.101027,
@@ -774,12 +1108,23 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 55.886768,
     "lng": -4.425186,
-    "found_in_location": "Renfrew",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "limo scotland",
+    "email": "driveninstyle@gmail.com",
+    "emails": [
+      "driveninstyle@gmail.com"
+    ],
+    "description": "Driven In Style provides a professional chauffeur drive, executive hire, corporate car and wedding car service to customers in Glasgow and throughout central Scotland.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Platinum Select Chauffeurs",
@@ -791,7 +1136,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 55.957048,
     "lng": -3.193059,
@@ -808,12 +1153,20 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 55.85907,
     "lng": -4.246216,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@theglasgowbus.com",
+    "emails": [
+      "info@theglasgowbus.com"
+    ],
+    "description": "Our genuine 1959 Glasgow Corporation Double Decker Daimler Bus, affectionately named ‘The Old Daim’ is available for Weddings, Corporate Events, Private Functions, Retirement Party’s and much more.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Extra Mile Coaches",
@@ -830,7 +1183,15 @@
     "lat": 55.852174,
     "lng": -4.28218,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@extramilecoaches.co.uk",
+    "emails": [
+      "info@extramilecoaches.co.uk"
+    ],
+    "description": "For more than ten years, we have been providing the highest quality minibus hire with driver services throughout Central Scotland.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Enchanted Limousines & Wedding Cars",
@@ -846,8 +1207,13 @@
     "types": "Limousine service",
     "lat": 55.723965,
     "lng": -3.961819,
-    "found_in_location": "Larkhall",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Hamilton",
+    "found_with_query": "limo scotland",
+    "description": "Enchanted Limousines offers the finest limousine transportation in Lanarkshire and the surrounding area.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Fever",
@@ -864,7 +1230,18 @@
     "lat": 56.009234,
     "lng": -3.765105,
     "found_in_location": "Falkirk",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "debbie@pinklimoco.com",
+    "emails": [
+      "debbie@pinklimoco.com"
+    ],
+    "description": "Pink Limo Co provides luxury transport for All Occasions, let our Male & Female professional suited Chauffeurs cruise you in comfort to your destination.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus"
+    ]
   },
   {
     "name": "D&E Prestige",
@@ -898,7 +1275,12 @@
     "lat": 56.466967,
     "lng": -2.862607,
     "found_in_location": "Dundee",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "From business meetings to special occasions, our professional chauffeurs ensure a smooth, stress-free ride every time.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Eagle Wedding Cars",
@@ -914,7 +1296,7 @@
     "types": "Limousine service",
     "lat": 57.071055,
     "lng": -2.116389,
-    "found_in_location": "Portlethen",
+    "found_in_location": "Aberdeen",
     "found_with_query": "limo scotland"
   },
   {
@@ -932,7 +1314,17 @@
     "lat": 55.813567,
     "lng": -3.944368,
     "found_in_location": "Motherwell",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@rockstarpartybus.co.uk",
+    "emails": [
+      "info@rockstarpartybus.co.uk",
+      "info@rockstarvipbus.co.uk"
+    ],
+    "description": "Rockstar VIP Bus Hire Glasgow Edinburgh Scotland Lanarkshire Ayr Fife Party Bus",
+    "services": [
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Happy Tours Scotland Ltd",
@@ -944,12 +1336,17 @@
     "rating": 4.9,
     "total_reviews": 189,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–8 pm\"],\"Monday\":[\"7:30 am–8 pm\"],\"Saturday\":[\"7:30 am–8 pm\"],\"Sunday\":[\"7:30 am–8 pm\"],\"Thursday\":[\"7:30 am–8 pm\"],\"Tuesday\":[\"7:30 am–8 pm\"],\"Wednesday\":[\"7:30 am–8 pm\"]}",
     "types": "Tour operator",
     "lat": 57.476563,
     "lng": -4.22834,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "tours@happy-tours.biz",
+    "emails": [
+      "tours@happy-tours.biz"
+    ],
+    "description": "Isle of Skye tours, Loch Ness tours, Glenfinnan Viaduct and whisky distilleries. Private tours from Inverness through the Scottish Highlands."
   },
   {
     "name": "Jack's Self Drive",
@@ -961,12 +1358,17 @@
     "rating": 4.9,
     "total_reviews": 153,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 57.491276,
     "lng": -4.226351,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@jacksselfdrive.co.uk",
+    "emails": [
+      "info@jacksselfdrive.co.uk"
+    ],
+    "description": "Reliable, Cost Effective Car, Van, Lorry, Minibus and Pickup Rental Services in Inverness from Jacks Self Drive - Trading for over 40 years"
   },
   {
     "name": "MET Wedding Cars",
@@ -983,7 +1385,18 @@
     "lat": 55.858057,
     "lng": -4.367069,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@metweddingcars.co.uk",
+    "emails": [
+      "info@metweddingcars.co.uk"
+    ],
+    "description": "MET Wedding Cars offer stunning selection of vintage and modern wedding cars to complement your special day. Available to hire throughout all of West and Central Scotland and beyond.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Glasgow-Chauffeur Ltd",
@@ -999,8 +1412,17 @@
     "types": "Chauffeur service",
     "lat": 55.871569,
     "lng": -4.375805,
-    "found_in_location": "Renfrew",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "limo scotland",
+    "email": "info@glasgow-chauffeur.co.uk",
+    "emails": [
+      "info@glasgow-chauffeur.co.uk"
+    ],
+    "description": "Glasgow Chauffeur Ltd. Over 20 years of experience. High quality chauffeur service. Corporate, Business, Wedding, Private, & VIP. Glasgow, Scotland and the UK throughout.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Majestic Wedding Cars Edinburgh",
@@ -1012,12 +1434,22 @@
     "rating": 4.9,
     "total_reviews": 32,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 55.971115,
     "lng": -2.960646,
-    "found_in_location": "Prestonpans",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "limo scotland",
+    "email": "info@majesticweddingcarsedinburgh.co.uk",
+    "emails": [
+      "info@majesticweddingcarsedinburgh.co.uk"
+    ],
+    "description": "Majestic Wedding Cars Edinburgh, the wedding specialists for a truly professional service on your special day",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Stravaigin Mini Coaches",
@@ -1029,12 +1461,24 @@
     "rating": 4.9,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"12 am–11:59 pm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Coach and minibus hire",
     "lat": 55.895784,
     "lng": -4.343568,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@stravaigin-minicoaches.com",
+    "emails": [
+      "enquiries@stravaigin-minicoaches.com",
+      "enquiry@stravaigin-minicoaches.com",
+      "enquiries@stravaiginminicoaches.com",
+      "enquiry@stravaiginminicoaches.com"
+    ],
+    "description": "Stravaigin Minicoaches offers top-quality Mini Coaches & Mini Buses across Glasgow. Our luxury fleet is perfect for group events, tours, and airport transfers. Enjoy a seamless and stylish journey with us. Call +447817546139 to reserve your coach today.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "AK Stretch Limousines",
@@ -1051,7 +1495,18 @@
     "lat": 55.883717,
     "lng": -3.50946,
     "found_in_location": "Livingston",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@aklimos.com",
+    "emails": [
+      "info@aklimos.com"
+    ],
+    "description": "Wedding cars are decorated with flowers and white ribbon (or colour of your choice).",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lothian Classic Wedding Cars",
@@ -1063,12 +1518,24 @@
     "rating": 4.9,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 55.885541,
     "lng": -3.065959,
-    "found_in_location": "Dalkeith",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "limo scotland",
+    "email": "info@lothianclassicweddingcars.co.uk",
+    "emails": [
+      "info@lothianclassicweddingcars.co.uk",
+      "lothianclassicweddingcars@gmail.com"
+    ],
+    "description": "Lothian Classic Wedding Cars is a family run business providing chauffeur driven vintage and classic cars for weddings in Edinburgh and the Lothians. We understand that your wedding day is the most important day of your life and we will do everything we can to make your experience as special and...",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Triple Hummer Limos",
@@ -1080,12 +1547,21 @@
     "rating": 4.8,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Monday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–10 pm\"],\"Monday\":[\"8:30 am–10 pm\"],\"Saturday\":[\"8:30 am–10 pm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"8:30 am–10 pm\"],\"Wednesday\":[\"8:30 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": -37.91527,
     "lng": 145.109704,
-    "found_in_location": "Oakleigh South",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "limo scotland",
+    "email": "bookings@triplehummerlimos.com.au",
+    "emails": [
+      "bookings@triplehummerlimos.com.au"
+    ],
+    "description": "Welcome to Triple Hummer Limos! For over 10 years we have been providing professional Stretch Hummer hire services for people of all ages throughout Melbourne, Geelong and the Mornington Peninsula areas. Hiring a Stretch Hummer limo for your next special occasion is a way of helping to ensure...",
+    "services": [
+      "Airport Transfer",
+      "Hummer Limo"
+    ]
   },
   {
     "name": "Highland Chauffeur Drive",
@@ -1097,7 +1573,7 @@
     "rating": 4.8,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20137\u202fpm\"],\"Sunday\":[\"8\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–7 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Transportation service",
     "lat": 57.476713,
     "lng": -4.24091,
@@ -1119,7 +1595,16 @@
     "lat": 55.812646,
     "lng": -3.971641,
     "found_in_location": "Motherwell",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@b-line-travel.co.uk",
+    "emails": [
+      "info@b-line-travel.co.uk"
+    ],
+    "description": "Coach Hire Glasgow from B-Line Travel in Motherwell offerd coach hire and mini bus hire throughout Scotland including airport transfers, wedding cars, executive travel, school contracts and taxis in their quality coaches and minibuses",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Hummer City Limousines Perth",
@@ -1136,7 +1621,19 @@
     "lat": -31.946272,
     "lng": 115.856672,
     "found_in_location": "Perth",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@hummercitylimos.com.au",
+    "emails": [
+      "info@hummercitylimos.com.au",
+      "info@hummercitylimousines.com.au"
+    ],
+    "description": "Luxury Limousine Hire Services in Perth | Weddings, school balls, kids parties, Hens & Bucks nights & wine tours with 24/7 service.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Glasgow Hummers",
@@ -1148,12 +1645,13 @@
     "rating": 4.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 55.891472,
     "lng": -4.390375,
-    "found_in_location": "Clydebank",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "limo scotland",
+    "description": "We are taking a well deserved break see you soon"
   },
   {
     "name": "KA LIMO HIRE",
@@ -1165,12 +1663,25 @@
     "rating": 4.8,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11:30 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"9 am–11:30 pm\"],\"Thursday\":[\"9 am–11:30 pm\"],\"Tuesday\":[\"9 am–11:30 pm\"],\"Wednesday\":[\"9 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 55.445177,
     "lng": -4.603866,
     "found_in_location": "Ayr",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@kalimohire.com",
+    "emails": [
+      "enquiries@kalimohire.com"
+    ],
+    "description": "KA Limo Hire Are The No1 Limousine & Wedding Car Hire Company in Ayrshire KA Limo Hire cover all areas of Ayrshire, Glasgow and beyond for your Limo or Wedding Car Hire. We are the longest running limousine operator in Ayrshire and with over 13 years experience we are the number one choice to cater",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Chauffeur Drive Scotland Ltd",
@@ -1186,8 +1697,17 @@
     "types": "Taxi service",
     "lat": 55.876762,
     "lng": -3.155583,
-    "found_in_location": "Loanhead",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "limo scotland",
+    "email": "chris.chauffeurdrive@gmail.com",
+    "emails": [
+      "chris.chauffeurdrive@gmail.com"
+    ],
+    "description": "Chauffeur Drive Scotland Ltd in Loanhead for affordable chauffeur services. From airport transfers to wheelchair-accessible taxis, we’ve got you covered.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Aberdeen Chauffeur Services",
@@ -1204,7 +1724,12 @@
     "lat": 57.139477,
     "lng": -2.125707,
     "found_in_location": "Aberdeen",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Aberdeen Chauffeur Service offers Vehicles and Tours covering all Scotland. Based in Aberdeenshire Our Drivers are Always Discreet & Professional.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Invergordon Bus Tours",
@@ -1220,8 +1745,13 @@
     "types": "Tour operator",
     "lat": 57.688359,
     "lng": -4.168895,
-    "found_in_location": "Invergordon",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "limo scotland",
+    "email": "info@invergordon-bustours.com",
+    "emails": [
+      "info@invergordon-bustours.com"
+    ],
+    "description": "Invergordon Bus Tours is the original and leading independent bus/coach tour operator providing shore excursions to independent minded cruise ship guests visiting the port of Invergordon on the northeast coast of the Scottish Highland mainland."
   },
   {
     "name": "Clyde Valley Limousine & Party Bus Hire",
@@ -1233,12 +1763,21 @@
     "rating": 4.7,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 55.734268,
     "lng": -3.891284,
-    "found_in_location": "Carluke",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "limo scotland",
+    "description": "Party Bus and Limo Hire Glasgow from Clyde Valley Limos - party bus and limo hire in Glasgow and Lanarkshire serving central Scotland",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Little's Chauffeur Drive Glasgow",
@@ -1255,7 +1794,15 @@
     "lat": 55.84779,
     "lng": -4.323669,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@littles.co.uk",
+    "emails": [
+      "enquiries@littles.co.uk"
+    ],
+    "description": "We manage your transport needs globally. Book a chauffeur anywhere in the world, we’ll manage the rest.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "City Halls & Old Fruitmarket",
@@ -1272,7 +1819,12 @@
     "lat": 55.859036,
     "lng": -4.245153,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@glasgowlife.org.uk",
+    "emails": [
+      "info@glasgowlife.org.uk"
+    ],
+    "description": "Iconic concert venue in the Merchant City"
   },
   {
     "name": "Edinburgh Bus Tours",
@@ -1284,12 +1836,13 @@
     "rating": 4.6,
     "total_reviews": 1285,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Tour operator",
     "lat": 55.953684,
     "lng": -3.186862,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Hop-on, Hop-off and discover the best of Edinburgh with Edinburgh Bus Tours."
   },
   {
     "name": "Glasgow Chauffeur Hire Ltd",
@@ -1306,7 +1859,12 @@
     "lat": 55.86205,
     "lng": -4.253171,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Explore premium chauffeur services with Glasgow Chauffeur Hire Ltd. Experience luxury and comfort for all your travel needs in Glasgow.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Scotia Chauffeur Services Ltd",
@@ -1323,7 +1881,17 @@
     "lat": 55.858612,
     "lng": -4.38155,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@scotiachauffeur.co.uk",
+    "emails": [
+      "info@scotiachauffeur.co.uk"
+    ],
+    "description": "Welcome to Scotia Chauffeur, one of Scotland’s top luxury private travel companies. Discover the vast range of services we provide, here.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Elite Cars Glasgow",
@@ -1340,7 +1908,18 @@
     "lat": 55.847715,
     "lng": -4.266232,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@elitecarsglasgow.co.uk",
+    "emails": [
+      "info@elitecarsglasgow.co.uk",
+      "john@doe.com"
+    ],
+    "description": "Elite Cars Glasgow provides premium taxi services Glasgow. Enjoy reliable, safe, and comfortable rides for city travel, airport transfers, and more. Book now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Scotty Tours",
@@ -1357,7 +1936,11 @@
     "lat": 55.833535,
     "lng": -4.228752,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Thank you for taking time out to have a look at our website. We pride ourselves in offering a first class service at a competitive price",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Luxe Charters",
@@ -1369,7 +1952,7 @@
     "rating": 4.6,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20135\u202fam\"],\"Monday\":[\"6\u202fam\u20135\u202fam\"],\"Saturday\":[\"6\u202fam\u20135\u202fam\"],\"Sunday\":[\"6\u202fam\u20135\u202fam\"],\"Thursday\":[\"6\u202fam\u20135\u202fam\"],\"Tuesday\":[\"6\u202fam\u20135\u202fam\"],\"Wednesday\":[\"6\u202fam\u20135\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–5 am\"],\"Monday\":[\"6 am–5 am\"],\"Saturday\":[\"6 am–5 am\"],\"Sunday\":[\"6 am–5 am\"],\"Thursday\":[\"6 am–5 am\"],\"Tuesday\":[\"6 am–5 am\"],\"Wednesday\":[\"6 am–5 am\"]}",
     "types": "Limousine service",
     "lat": -31.954231,
     "lng": 115.856404,
@@ -1391,7 +1974,21 @@
     "lat": 57.0989,
     "lng": -2.080818,
     "found_in_location": "Aberdeen",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@rainbowprestige.co.uk",
+    "emails": [
+      "enquiries@rainbowprestige.co.uk",
+      "coaches@rainbowprestige.co.uk",
+      "gary@rainbowprestige.co.uk",
+      "julie@rainbowprestige.co.uk",
+      "richard@rainbowprestige.co.uk"
+    ],
+    "description": "Rainbow Prestige Aberdeen offering wedding cars and chauffeur services. We have a large fleet of luxury wedding cars available, with full trained chauffeurs.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Stirling Alba Cabs",
@@ -1408,7 +2005,11 @@
     "lat": 56.10395,
     "lng": -3.872986,
     "found_in_location": "Stirling",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Need a Taxi/Cab for local hire, airport transfer or for long journey then call 01786 595025 and we can send you a cab in 10-15 minutes anywhere in Stirling.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Doigs Of Glasgow",
@@ -1425,7 +2026,12 @@
     "lat": 55.858134,
     "lng": -4.231257,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Doigs of Glasgow provide Luxury Coach Hire in Glasgow. We also cover wedding & corporate coach hire, Glasgow Airport Transfer. We provide coach services in Glasgow, Edinburgh, Scotland & All of the UK",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Shuttle Coaches",
@@ -1441,8 +2047,16 @@
     "types": "Coach and minibus hire",
     "lat": 55.644504,
     "lng": -4.700793,
-    "found_in_location": "Kilwinning",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Kilmarnock",
+    "found_with_query": "limo scotland",
+    "email": "enquiries@shuttlecoaches.co.uk",
+    "emails": [
+      "enquiries@shuttlecoaches.co.uk"
+    ],
+    "description": "Shuttle Coaches provide high quality private coach hire based in Ayrshire, Scotland. Find out more information about our services here.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Carrs Loch Lomond Ltd",
@@ -1458,8 +2072,19 @@
     "types": "Wedding service",
     "lat": 55.993484,
     "lng": -4.576713,
-    "found_in_location": "Alexandria",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Greenock",
+    "found_with_query": "limo scotland",
+    "email": "info@carrslochlomond.co.uk",
+    "emails": [
+      "info@carrslochlomond.co.uk"
+    ],
+    "description": "Carrs for wedding cars in Glasgow, chauffeur in Glasgow and executive airport transfers in Glasgow and through the central belt of Scotland",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Satina Luxury Cars",
@@ -1471,12 +2096,22 @@
     "rating": 4.5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Transportation service",
     "lat": -31.952854,
     "lng": 115.857339,
     "found_in_location": "Perth",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@satinaluxurycars.com.au",
+    "emails": [
+      "info@satinaluxurycars.com.au"
+    ],
+    "description": "Satina Luxury Cars | Perth's Premium Chauffeur | Cars, Limo, van | Ride in Style, Enjoy the difference | Call us now on 0417 174 100",
+    "services": [
+      "Chauffeur Service",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Happy Highland Campers",
@@ -1510,7 +2145,12 @@
     "lat": 57.492303,
     "lng": -4.223886,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "D&E Coaches is the Highlands’ largest coach and minibus operator with 25+ years’ experience. Reliable private hire for any occasion – contact us today for a free quote.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Ghost Bus Tours Edinburgh",
@@ -1522,12 +2162,16 @@
     "rating": 4.3,
     "total_reviews": 1339,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Tours",
     "lat": 55.948329,
     "lng": -3.192135,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Edinburgh, London & York Welcome dear mourner to the world’s ONLY comedy horror theatre show on wheels, Great Britains must do, number one attraction. But beware…",
+    "services": [
+      "Rolls Royce"
+    ]
   },
   {
     "name": "City Sightseeing Glasgow",
@@ -1539,12 +2183,17 @@
     "rating": 4.3,
     "total_reviews": 764,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Sightseeing Tour Agency",
     "lat": 55.861475,
     "lng": -4.249248,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@citysightseeingglasgow.co.uk",
+    "emails": [
+      "info@citysightseeingglasgow.co.uk"
+    ],
+    "description": "City Sightseeing Glasgow offer amazing guided bus tours with 7 language audio tour Get the Glasgow open top experience and book tickets today"
   },
   {
     "name": "Pollokshaws Burgh Hall",
@@ -1561,7 +2210,12 @@
     "lat": 55.825489,
     "lng": -4.298533,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "enquiries@pollokshawsburghhall.org",
+    "emails": [
+      "enquiries@pollokshawsburghhall.org"
+    ],
+    "description": "The hidden gem of Glasgow's Southside | Wedding packages available | Various halls and rooms for hire | Home of the Wurlitzer Organ"
   },
   {
     "name": "Focus Vehicle Rental (Railway)",
@@ -1578,7 +2232,12 @@
     "lat": 57.47979,
     "lng": -4.223397,
     "found_in_location": "Inverness",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@focusvehiclerental.co.uk",
+    "emails": [
+      "info@focusvehiclerental.co.uk"
+    ],
+    "description": "For all your car, van and 4x4 hire requirements in Inverness and the Highlands."
   },
   {
     "name": "Avantgarde Bridal Cars",
@@ -1595,7 +2254,13 @@
     "lat": 55.962561,
     "lng": -3.247232,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Chauffeur Drive in Edinburgh and Central Scotland, Airport transfers, Financial Roadshows, Wedding Cars Edinburgh, Bridal Cars Edinburgh",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Marleigh Hire",
@@ -1629,7 +2294,8 @@
     "lat": 55.859476,
     "lng": -4.242612,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Experience unique Edinburgh and Glasgow red bus tours with afternoon tea, gin tour or sightseeing on a vintage red bus. Book a big bus tour with style."
   },
   {
     "name": "Popworld Glasgow",
@@ -1641,12 +2307,13 @@
     "rating": 4.2,
     "total_reviews": 151,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fpm\u20133\u202fam\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"7\u202fpm\u20133\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"8 pm–3 am\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"7 pm–3 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Nightclub",
     "lat": 55.862398,
     "lng": -4.256174,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Join us at Popworld Newcastle Upon Tyne for the most pop-tastic parties! Where all your favourite current hits and pop classics are the soundtrack to your night."
   },
   {
     "name": "Bothwell Bridal Cars",
@@ -1658,7 +2325,7 @@
     "rating": 4.2,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8 am–4:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Limousine service",
     "lat": 55.787997,
     "lng": -4.054556,
@@ -1675,12 +2342,18 @@
     "rating": 4.1,
     "total_reviews": 83,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 55.856117,
     "lng": -3.967453,
-    "found_in_location": "Airdrie",
-    "found_with_query": "limo scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "limo scotland",
+    "description": "Aﬀordable and professional coach and bus hire across Airdrie, Lanarkshireand Central Scotland. From private to contract hire, we’ve got you covered.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Coach Drop off / Pick up Point",
@@ -1713,7 +2386,7 @@
     "types": "Limousine service",
     "lat": 55.890803,
     "lng": -3.878585,
-    "found_in_location": "Airdrie",
+    "found_in_location": "Cumbernauld",
     "found_with_query": "limo scotland"
   },
   {
@@ -1726,7 +2399,7 @@
     "rating": 4.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": -31.951399,
     "lng": 115.850674,
@@ -1743,11 +2416,11 @@
     "rating": 3.8,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 55.895822,
     "lng": -4.043075,
-    "found_in_location": "Coatbridge",
+    "found_in_location": "Cumbernauld",
     "found_with_query": "limo scotland"
   },
   {
@@ -1765,10 +2438,20 @@
     "lat": 55.841414,
     "lng": -4.396299,
     "found_in_location": "Paisley",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Scotland's premiere chauffeur drive company offering discreet, executive service for corporate travel, airport transfers and events",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
-    "name": "Ann\u2019s Coaches",
+    "name": "Ann’s Coaches",
     "address": "1A Pit Rd, Waterside, Glasgow, G66 3ND, GB",
     "phone": "0141 776 7416",
     "international_phone": "0141 776 7416",
@@ -1799,7 +2482,15 @@
     "lat": 55.803206,
     "lng": -4.330383,
     "found_in_location": "Glasgow",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "abbeycoaches@hotmail.com",
+    "emails": [
+      "abbeycoaches@hotmail.com"
+    ],
+    "description": "Abbey Coaches mini bus hire coach hire glasgow",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "All stretched out - (Dundee limousine hire)",
@@ -1828,7 +2519,7 @@
     "rating": 2.1,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Sunday\":[\"11\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:45\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:45 pm\"],\"Monday\":[\"9 am–5:45 pm\"],\"Saturday\":[\"9 am–5:45 pm\"],\"Sunday\":[\"11 am–4:30 pm\"],\"Thursday\":[\"9 am–5:45 pm\"],\"Tuesday\":[\"9 am–5:45 pm\"],\"Wednesday\":[\"9 am–5:45 pm\"]}",
     "types": "Car rental company",
     "lat": 55.852518,
     "lng": -4.320318,
@@ -1845,7 +2536,7 @@
     "rating": 1.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u201312\u202fam\"],\"Monday\":[\"7:30\u202fam\u201312\u202fam\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u201312\u202fam\"],\"Tuesday\":[\"7:30\u202fam\u201312\u202fam\"],\"Wednesday\":[\"7:30\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–12 am\"],\"Monday\":[\"7:30 am–12 am\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"7:30 am–12 am\"],\"Tuesday\":[\"7:30 am–12 am\"],\"Wednesday\":[\"7:30 am–12 am\"]}",
     "types": "Limousine service",
     "lat": 57.141304,
     "lng": -2.104185,
@@ -1879,7 +2570,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 55.853943,
     "lng": -4.191073,
@@ -1901,7 +2592,11 @@
     "lat": 57.172926,
     "lng": -2.116264,
     "found_in_location": "Aberdeen",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Party Bus Hire in Aberdeen. Get a quote for limo bus and party bus hire from Cars for Stars Aberdeen, and save money. Also view a huge range of other transport.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Bentley Chauffeur Drive Glasgow",
@@ -1930,7 +2625,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"12\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"12\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12 am–11:30 pm\"],\"Monday\":[\"12 am–11:30 pm\"],\"Saturday\":[\"12 am–11:30 pm\"],\"Sunday\":[\"12 am–11:30 pm\"],\"Thursday\":[\"12 am–11:30 pm\"],\"Tuesday\":[\"12 am–11:30 pm\"],\"Wednesday\":[\"12 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 55.872833,
     "lng": -4.340969,
@@ -1947,12 +2642,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 55.950882,
     "lng": -3.205761,
     "found_in_location": "Edinburgh",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "description": "Discover unforgettable travels with our premium chauffeur service.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Scotbus Ltd",
@@ -2015,12 +2715,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 56.461016,
     "lng": -3.013411,
     "found_in_location": "Dundee",
-    "found_with_query": "limo scotland"
+    "found_with_query": "limo scotland",
+    "email": "info@claracampers.com",
+    "emails": [
+      "info@claracampers.com"
+    ],
+    "description": "Welcome to Clara Campers We Cater for Weddings and Special Days Out across Scotland Meet Clara – Our Gorgeous VW Campervan: Clara is available … \"Home\"",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Black Hummer Hire Perth",
@@ -2036,7 +2745,7 @@
     "types": "Limousine service",
     "lat": -31.960084,
     "lng": 115.873159,
-    "found_in_location": "East Perth",
+    "found_in_location": "Aberdeen",
     "found_with_query": "limo scotland"
   }
 ]

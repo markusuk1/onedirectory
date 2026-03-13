@@ -9,7 +9,7 @@
     "rating": 5.0,
     "total_reviews": 58,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.558928,
     "lng": -1.300081,
@@ -30,8 +30,16 @@
     "types": "Equipment rental agency",
     "lat": 54.507819,
     "lng": -1.696225,
-    "found_in_location": "Richmond",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "plant northeast",
+    "email": "james@genhire.biz",
+    "emails": [
+      "james@genhire.biz"
+    ],
+    "description": "We are an award-winning generator hire company in the north of England. We only supply modern, reliable, well-maintained, quality equipment!",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Tyne & Wear Access ne ltd",
@@ -47,12 +55,21 @@
     "types": "Plant and machinery hire",
     "lat": 54.984256,
     "lng": -1.508827,
-    "found_in_location": "Hebburn",
-    "found_with_query": "plant northeast"
+    "found_in_location": "South Shields",
+    "found_with_query": "plant northeast",
+    "email": "tyneandwearaccess@outlook.com",
+    "emails": [
+      "tyneandwearaccess@outlook.com"
+    ],
+    "description": "Tyne and Wear Access: IPAF & PASMA training, plant and machine hire, and first aid courses in Tyne and Wear. Expert trainers, flexible hire, call 0191 483 3700.",
+    "services": [
+      "Cherry Picker",
+      "Telehandler"
+    ]
   },
   {
     "name": "Phelan Haulage and Hiab Hire | North East",
-    "address": "Unit N, O\u2019Brien Business Park, Park, Birtley, Durham, DH3 2TB, GB",
+    "address": "Unit N, O’Brien Business Park, Park, Birtley, Durham, DH3 2TB, GB",
     "phone": "07541 224207",
     "international_phone": "07541 224207",
     "website": "http://www.phelanhaulage.com/",
@@ -65,7 +82,18 @@
     "lat": 54.886147,
     "lng": -1.579855,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@phelanhaulage.com",
+    "emails": [
+      "info@phelanhaulage.com",
+      "peter@phelanhaulage.com"
+    ],
+    "description": "Phelan Haulage and Hiab Hire | North East | Lorry Mounted Crane | Contract Lifting | HIAB | Tyne and Wear | UK and Ireland Quick Response",
+    "services": [
+      "Compressor",
+      "Excavator",
+      "Generator"
+    ]
   },
   {
     "name": "Forklifts and Access Ltd",
@@ -77,12 +105,28 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Forklift rental service",
     "lat": 54.900507,
     "lng": -1.493782,
     "found_in_location": "Washington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "contact@forkliftsandaccess.co.uk",
+    "emails": [
+      "contact@forkliftsandaccess.co.uk",
+      "david@forkliftsandaccess.co.uk",
+      "karen@forkliftsandaccess.co.uk",
+      "kraig@forkliftsandaccess.co.uk",
+      "peter@forkliftsandaccess.co.uk",
+      "contact@forkliftandaccess.co.uk"
+    ],
+    "description": "We are a rapidly expanding company based in the North East of England, who believe in offering all our customers a personal, efficient and local service at affordable prices. Our highly skilled and certified team have been handpicked and have over 65yrs combined experience in the Material...",
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Northumberland digger and trailer hire",
@@ -111,12 +155,26 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.040183,
     "lng": -1.525969,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "birmingham@uktool.co.uk",
+    "emails": [
+      "birmingham@uktool.co.uk",
+      "hiredesk@uktool.co.uk",
+      "huntingdon@uktool.co.uk",
+      "newcastle@uktool.co.uk",
+      "vehicles@uktool.co.uk",
+      "you@website.com"
+    ],
+    "description": "Specialists in access platform hire, IPAF & PASMA training and safety equipment. We provide bespoke solutions to your work at height needs.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Diggers 2U",
@@ -128,12 +186,22 @@
     "rating": 5.0,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.604357,
     "lng": -1.601728,
-    "found_in_location": "Newton Aycliffe",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "plant northeast",
+    "email": "info@diggers2u.co.uk",
+    "emails": [
+      "info@diggers2u.co.uk"
+    ],
+    "description": "Diggers 2U is the specialist when it comes to reliable micro and mini digger and driver hire and JCB 3CX backhoe loaders with CPCS-qualified operators.",
+    "services": [
+      "Breaker",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Lawson Micro And Mini Digger Hire",
@@ -149,7 +217,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.885512,
     "lng": -1.57725,
-    "found_in_location": "Chester-le-Street",
+    "found_in_location": "Washington",
     "found_with_query": "plant northeast"
   },
   {
@@ -162,12 +230,23 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Repair service",
     "lat": 54.570783,
     "lng": -1.222562,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "jess@macservicesltd.com",
+    "emails": [
+      "jess@macservicesltd.com",
+      "michael@macservicesltd.com",
+      "912emailjess@macservicesltd.comor"
+    ],
+    "description": "Serving the UK with Access Platforms, Platforms for Sale, Platforms for Hire, Scissor Lifts, Loler Inspections, Platform Services, Scissor Lift Servicing, Lifts for Hire, Lifts for Sale, Powered Access Solutions and Service and Repairs on Lifts.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "The Colton Group",
@@ -179,12 +258,17 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.872819,
     "lng": -1.585263,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "enquiries@coltonplanthire.co.uk",
+    "emails": [
+      "enquiries@coltonplanthire.co.uk"
+    ],
+    "description": "The Colton Group is a family run business with over 45 years experience in Earthmoving and Civil Engineering. We also offer Skip Hire, Demolition, Haulage and Site Clearance. Based in the North East."
   },
   {
     "name": "MP Plant Training",
@@ -196,12 +280,21 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4 pm\"],\"Monday\":[\"8:30 am–4 pm\"],\"Saturday\":[\"8:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4 pm\"],\"Tuesday\":[\"8:30 am–4 pm\"],\"Wednesday\":[\"8:30 am–4 pm\"]}",
     "types": "Construction Company",
     "lat": 54.570347,
     "lng": -1.293579,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "nichola.bruce@mpplanttraining.com",
+    "emails": [
+      "nichola.bruce@mpplanttraining.com",
+      "paul.cockburn@mpplanttraining.com"
+    ],
+    "description": "MP Plant Group specializes in delivering high-quality training and certification for operators in the construction, plant, and machinery industries. Our comprehensive courses",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "DE Plant Hire Ltd",
@@ -213,12 +306,26 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"7 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.571212,
     "lng": -1.222425,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@deplanthire.co.uk",
+    "emails": [
+      "info@deplanthire.co.uk"
+    ],
+    "description": "DE Plant Hire Ltd specialises in Plant And Tool Hire across the north east of England including Teesside, Tyneside, County Durham and North Yorkshire.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Halt Hire Ltd",
@@ -230,7 +337,7 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.575541,
     "lng": -1.284251,
@@ -247,11 +354,11 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.655266,
     "lng": -1.800326,
-    "found_in_location": "Bishop Auckland",
+    "found_in_location": "Durham",
     "found_with_query": "plant northeast"
   },
   {
@@ -264,12 +371,22 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Material handling equipment supplier",
     "lat": 54.942069,
     "lng": -1.624665,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@alcorhs.co.uk",
+    "emails": [
+      "info@alcorhs.co.uk",
+      "dee@hunterjohnstone.co.uk",
+      "john@company.com"
+    ],
+    "description": "Reliable forklift servicing in Newcastle with expert maintenance. Keep your fleet running safely and efficiently—book your service today!",
+    "services": [
+      "Forklift"
+    ]
   },
   {
     "name": "Abbey PLant Ltd",
@@ -281,11 +398,11 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.975143,
     "lng": -2.093072,
-    "found_in_location": "Hexham",
+    "found_in_location": "Northumberland",
     "found_with_query": "plant northeast"
   },
   {
@@ -298,12 +415,17 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.929916,
     "lng": -1.625945,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "As specialist suppliers of plant equipment for hire and sale, Broughton is here to help the heating, ventilation and fire protection trades.",
+    "services": [
+      "Forklift",
+      "Roller"
+    ]
   },
   {
     "name": "Pools Tools Ltd",
@@ -315,7 +437,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.673918,
     "lng": -1.207416,
@@ -336,7 +458,7 @@
     "types": "Tool rental service",
     "lat": 54.678832,
     "lng": -1.582163,
-    "found_in_location": "Spennymoor",
+    "found_in_location": "Durham",
     "found_with_query": "plant northeast"
   },
   {
@@ -349,12 +471,20 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Forklift rental service",
     "lat": 54.954939,
     "lng": -1.65394,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "enquiries@forkliftsolutions.info",
+    "emails": [
+      "enquiries@forkliftsolutions.info"
+    ],
+    "description": "Forklift Solutions offer Forklift Trucks for Hire and Sale in Newcastle, Sunderland & throughout the North East. View stock online or call 0191 461 1587.",
+    "services": [
+      "Forklift"
+    ]
   },
   {
     "name": "Complete Material Handling",
@@ -366,12 +496,21 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Industrial equipment supplier",
     "lat": 54.965598,
     "lng": -1.586609,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@completemh.co.uk",
+    "emails": [
+      "sales@completemh.co.uk"
+    ],
+    "description": "Home | Complete Material Handling | 0191 271 0899 | Committed to supplying the best new and used forklift trucks, warehouse and access equipment from the worlds best known and trusted brands.",
+    "services": [
+      "Cherry Picker",
+      "Forklift"
+    ]
   },
   {
     "name": "ECFS Plant Hire",
@@ -383,12 +522,23 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.57297,
     "lng": -1.189079,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@ecfsgroup.co.uk",
+    "emails": [
+      "sales@ecfsgroup.co.uk",
+      "hires@ecfsgroup.co.uk"
+    ],
+    "description": "ECFS Plant Hire supply a wide range of services to the Construction Industry and Plant Hire Solutions",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Kingfisher Plant Hire",
@@ -400,12 +550,24 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20134\u202fpm\"],\"Sunday\":[\"8\u202fam\u20134\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"8 am–4 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.701518,
     "lng": -1.246867,
     "found_in_location": "Hartlepool",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@kingfisherplanthire.co.uk",
+    "emails": [
+      "info@kingfisherplanthire.co.uk"
+    ],
+    "description": "Kingfisher Plant Hire is a family run business based in the North East of England, offering a range of self drive or operated plant.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Huws Gray Plant & Tool Hire Sunderland",
@@ -417,12 +579,99 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.899031,
     "lng": -1.365333,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "alford@huwsgrayplantandtoolhire.co.uk",
+    "emails": [
+      "alford@huwsgrayplantandtoolhire.co.uk",
+      "barnsley@huwsgrayplantandtoolhire.co.uk",
+      "basingstoke@huwsgrayplantandtoolhire.co.uk",
+      "belper@huwsgrayplantandtoolhire.co.uk",
+      "bolton@huwsgrayplantandtoolhire.co.uk",
+      "boston@huwsgrayplantandtoolhire.co.uk",
+      "bow@huwsgrayplantandtoolhire.co.uk",
+      "braintree@huwsgrayplantandtoolhire.co.uk",
+      "bristol@huwsgrayplantandtoolhire.co.uk",
+      "calne@huwsgrayplantandtoolhire.co.uk",
+      "chesterfield@huwsgrayplantandtoolhire.co.uk",
+      "corby@huwsgrayplantandtoolhire.co.uk",
+      "crawley@huwsgrayplantandtoolhire.co.uk",
+      "croydon@huwsgrayplantandtoolhire.co.uk",
+      "derby@huwsgrayplantandtoolhire.co.uk",
+      "dover@huwsgrayplantandtoolhire.co.uk",
+      "epsom@huwsgrayplantandtoolhire.co.uk",
+      "exeter@huwsgrayplantandtoolhire.co.uk",
+      "farnham@huwsgrayplantandtoolhire.co.uk",
+      "flint@huwsgrayplantandtoolhire.co.uk",
+      "gainsborough@huwsgrayplantandtoolhire.co.uk",
+      "gateshead@huwsgrayplantandtoolhire.co.uk",
+      "gloucester@huwsgrayplantandtoolhire.co.uk",
+      "grantham@huwsgrayplantandtoolhire.co.uk",
+      "grimsby@huwsgrayplantandtoolhire.co.uk",
+      "hadleigh@huwsgrayplantandtoolhire.co.uk",
+      "harlow@huwsgrayplantandtoolhire.co.uk",
+      "haverhill@huwsgrayplantandtoolhire.co.uk",
+      "herne.bay@huwsgrayplantandtoolhire.co.uk",
+      "highgate@huwsgrayplantandtoolhire.co.uk",
+      "highwycombe@huwsgrayplantandtoolhire.co.uk",
+      "holbrooks@huwsgrayplantandtoolhire.co.uk",
+      "horncastle@huwsgrayplantandtoolhire.co.uk",
+      "ipswich@huwsgrayplantandtoolhire.co.uk",
+      "kenilworth@huwsgrayplantandtoolhire.co.uk",
+      "leicester@huwsgrayplantandtoolhire.co.uk",
+      "lincoln@huwsgrayplantandtoolhire.co.uk",
+      "louth@huwsgrayplantandtoolhire.co.uk",
+      "maidstone@huwsgrayplantandtoolhire.co.uk",
+      "marketdrayton@huwsgrayplantandtoolhire.co.uk",
+      "marketrasen@huwsgrayplantandtoolhire.co.uk",
+      "melksham@huwsgrayplantandtoolhire.co.uk",
+      "miltonkeynes@huwsgrayplantandtoolhire.co.uk",
+      "nantwich@huwsgrayplantandtoolhire.co.uk",
+      "newark@huwsgrayplantandtoolhire.co.uk",
+      "newbury@huwsgrayplantandtoolhire.co.uk",
+      "newsouthgate@huwsgrayplantandtoolhire.co.uk",
+      "northwich@huwsgrayplantandtoolhire.co.uk",
+      "norwich@huwsgrayplantandtoolhire.co.uk",
+      "nottingham@huwsgrayplantandtoolhire.co.uk",
+      "nuneaton@huwsgrayplantandtoolhire.co.uk",
+      "oxford@huwsgrayplantandtoolhire.co.uk",
+      "peckham@huwsgrayplantandtoolhire.co.uk",
+      "portsmouth@huwsgrayplantandtoolhire.co.uk",
+      "redditch@huwsgrayplantandtoolhire.co.uk",
+      "rotherham@huwsgrayplantandtoolhire.co.uk",
+      "rushden@huwsgrayplantandtoolhire.co.uk",
+      "sandy@huwsgrayplantandtoolhire.co.uk",
+      "scunthorpe@huwsgrayplantandtoolhire.co.uk",
+      "shetland@huwsgrayplantandtoolhire.co.uk",
+      "shrewsbury@huwsgrayplantandtoolhire.co.uk",
+      "skegness@huwsgrayplantandtoolhire.co.uk",
+      "sleaford@huwsgrayplantandtoolhire.co.uk",
+      "stafford@huwsgrayplantandtoolhire.co.uk",
+      "stamford@huwsgrayplantandtoolhire.co.uk",
+      "stevenage@huwsgrayplantandtoolhire.co.uk",
+      "stoke@huwsgrayplantandtoolhire.co.uk",
+      "stowmarket@huwsgrayplantandtoolhire.co.uk",
+      "stratford@huwsgrayplantandtoolhire.co.uk",
+      "sudbury@huwsgrayplantandtoolhire.co.uk",
+      "sunderland@huwsgrayplantandtoolhire.co.uk",
+      "suttoninashfield@huwsgrayplantandtoolhire.co.uk",
+      "swansea@huwsgrayplantandtoolhire.co.uk",
+      "swindon@huwsgrayplantandtoolhire.co.uk",
+      "swinton@huwsgrayplantandtoolhire.co.uk",
+      "wellington@huwsgrayplantandtoolhire.co.uk",
+      "welwyngardencity@huwsgrayplantandtoolhire.co.uk",
+      "westonsupermare@huwsgrayplantandtoolhire.co.uk",
+      "whitburn@huwsgrayplantandtoolhire.co.uk",
+      "wigan@huwsgrayplantandtoolhire.co.uk",
+      "wisbech@huwsgrayplantandtoolhire.co.uk",
+      "wrightington@huwsgrayplantandtoolhire.co.uk",
+      "nuffield@hirebase.co.uk"
+    ],
+    "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
     "name": "R K P Access Platforms Ltd",
@@ -434,12 +683,21 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Industrial equipment supplier",
     "lat": 54.89474,
     "lng": -1.583323,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "enquiries@rkpaccess.co.uk",
+    "emails": [
+      "enquiries@rkpaccess.co.uk",
+      "sales@rkpaccess.co.uk"
+    ],
+    "description": "With years of industry experience our highly trained team maintain a professional attitude and approach with the highest level of workmanship.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Reuben Smith Plant Hire Ltd",
@@ -451,7 +709,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.753504,
     "lng": -1.608364,
@@ -468,12 +726,22 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.893674,
     "lng": -1.560796,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "sales@emyhire.co.uk",
+    "emails": [
+      "sales@emyhire.co.uk"
+    ],
+    "description": "Nationwide plant machinery hire: EMY Hire offers a wide range including powered access, site accommodation, lighting & power, and lots more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Total Tool Services",
@@ -506,8 +774,13 @@
     "types": "Crane service",
     "lat": 54.981989,
     "lng": -1.446632,
-    "found_in_location": "Port of Tyne",
-    "found_with_query": "plant northeast"
+    "found_in_location": "South Shields",
+    "found_with_query": "plant northeast",
+    "email": "enquiries@mpne.co.uk",
+    "emails": [
+      "enquiries@mpne.co.uk"
+    ],
+    "description": "Mechplant North East provide various hire services relating to our company’s 3 core focuses, which are mobile cranes, platform hoists and Hiab transport."
   },
   {
     "name": "UK MEWPS Ltd",
@@ -519,12 +792,23 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.636283,
     "lng": -1.361472,
-    "found_in_location": "Billingham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "plant northeast",
+    "email": "support@mewps.uk",
+    "emails": [
+      "support@mewps.uk"
+    ],
+    "description": "Hire or buy MEWPs from UK MEWPS Ltd. Explore our MEWPS Marketplace for cherry pickers, scissor lifts and powered access platforms for sale and hire across the UK.",
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "G R Potter Plant Hire Ltd",
@@ -536,12 +820,24 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20137\u202fpm\"],\"Monday\":[\"6\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–7 pm\"],\"Monday\":[\"6 am–7 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–7 pm\"],\"Tuesday\":[\"6 am–7 pm\"],\"Wednesday\":[\"6 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.008666,
     "lng": -1.665466,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "accounts@potterplanthire.co.uk",
+    "emails": [
+      "accounts@potterplanthire.co.uk",
+      "charlie@potterplanthire.co.uk",
+      "lee@potterplanthire.co.uk"
+    ],
+    "description": "We are willing to taylor the spec of any item of plant to suit customers specific requirement.",
+    "services": [
+      "Excavator",
+      "Roller",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Sandhurst Ltd",
@@ -553,12 +849,21 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.046919,
     "lng": -1.642529,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@vpgroundforce.com",
+    "emails": [
+      "info@vpgroundforce.com",
+      "groundforceireland@vpplc.com"
+    ],
+    "description": "Groundforce offer total solutions to the construction industry dealing in shoring equipment, piling equipment, pipe stoppers, air pressure testing, pump hire and sale, trenchless technology, temporary bridges, and excavation training.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Dolan Plant Hire",
@@ -574,7 +879,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.955108,
     "lng": -1.86643,
-    "found_in_location": "Prudhoe",
+    "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "plant northeast"
   },
   {
@@ -604,12 +909,27 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.801514,
     "lng": -1.672773,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "credit.control@heservices.co.uk",
+    "emails": [
+      "credit.control@heservices.co.uk",
+      "invoice.queries@heservices.co.uk",
+      "nhc@heservices.co.uk"
+    ],
+    "description": "The largest specialist UK Plant Hire Company, providing all types of plant with 11 strategically located depots nationwide. Call 0208 804 2000",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "J & J Plant Hire N E Ltd",
@@ -638,7 +958,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "",
     "lat": 54.591015,
     "lng": -1.089832,
@@ -655,7 +975,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 54.896002,
     "lng": -1.584189,
@@ -672,12 +992,22 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 54.955885,
     "lng": -1.655541,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "highdrive@heightforhire.com",
+    "emails": [
+      "highdrive@heightforhire.com",
+      "website.general@heightforhire.com"
+    ],
+    "description": "Access hire depot in Dunston (Metro Centre), United Kingdom",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Total Rental Solutions",
@@ -689,12 +1019,17 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.53363,
     "lng": -1.526411,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@trs-hire.com",
+    "emails": [
+      "info@trs-hire.com"
+    ],
+    "description": "We provide a comprehensive range of tools and equipment for rental into various industry sectors. Whether you’re an individual contractor or principle owner/operator requiring occasional use or large-volume long-term hire, we can accommodate you."
   },
   {
     "name": "Peterlee JCB Hire",
@@ -710,8 +1045,18 @@
     "types": "Plant and machinery hire",
     "lat": 54.738173,
     "lng": -1.376898,
-    "found_in_location": "Wingate",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "plant northeast",
+    "email": "peterleejcbhire@gmail.com",
+    "emails": [
+      "peterleejcbhire@gmail.com"
+    ],
+    "description": "JCB Digger Hire | Peterlee JCB Hire | Snow Clearing",
+    "services": [
+      "Breaker",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Synergy Lifting",
@@ -740,7 +1085,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 54.914581,
     "lng": -1.438392,
@@ -762,7 +1107,13 @@
     "lat": 54.962918,
     "lng": -1.692313,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Our experience and expertise in the access hire industry means we can supply you with the most appropriate powered access equipment at the most competitive price. We have a wide range of secondhand access platforms available and with our corporate buying power can offer you an excellent price on...",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Hewitson Plant Hire Ltd",
@@ -774,12 +1125,25 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"6:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"6:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.518654,
     "lng": -1.394148,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "enquiries@hewitsonlimited.co.uk",
+    "emails": [
+      "enquiries@hewitsonlimited.co.uk",
+      "admin@hewitson.co.uk"
+    ],
+    "description": "Hewitson Plant Hire Ltd are a leading independent family run company that deliver a fast, reliable service throughout the North East & Yorkshire.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Foster Plant Hire Ltd",
@@ -795,7 +1159,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.492742,
     "lng": -1.358825,
-    "found_in_location": "Yarm",
+    "found_in_location": "Stockton-on-Tees",
     "found_with_query": "plant northeast"
   },
   {
@@ -812,8 +1176,17 @@
     "types": "Plant and machinery hire",
     "lat": 54.482524,
     "lng": -1.281924,
-    "found_in_location": "Yarm",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "plant northeast",
+    "email": "info@jjplant.co.uk",
+    "emails": [
+      "info@jjplant.co.uk",
+      "a.hughes@jjplant.co.uk",
+      "j.finch@jjplant.co.uk",
+      "jason.f@jjplant.co.uk",
+      "p.axford@jjplant.co.uk"
+    ],
+    "description": "J&J Plant & Electrical provide high voltage cable installation, jointing, termination, switchgear removal, plant hire & civil services both in Teesside and nationally throughout the UK."
   },
   {
     "name": "AD Plant Hire",
@@ -825,7 +1198,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.576306,
     "lng": -1.224137,
@@ -847,7 +1220,15 @@
     "lat": 54.67269,
     "lng": -1.206492,
     "found_in_location": "Hartlepool",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@marshallgreen.co.uk",
+    "emails": [
+      "sales@marshallgreen.co.uk"
+    ],
+    "description": "Marshall Green the UK generator specialists, offer a wide range of quality diesel generators for sale & hire along with servicing & repair.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Kramar Plant",
@@ -859,7 +1240,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.648865,
     "lng": -1.502723,
@@ -876,12 +1257,13 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fam\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fam\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fam\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–12 pm\"],\"Monday\":[\"7:30 am–4:30 am\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 am\"],\"Tuesday\":[\"7:30 am–4:30 am\"],\"Wednesday\":[\"7:30 am–4:30 am\"]}",
     "types": "Machining manufacturer",
     "lat": 54.522552,
     "lng": -1.284577,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "LH Quarry Plant Ltd supplies services and spare parts to the quarrying, recycling, demolition, and dredging industries in the UK, Europe, the Americas, and Africa with rapid expansion in Asia."
   },
   {
     "name": "J&E Plant & Machinery Ltd",
@@ -897,8 +1279,20 @@
     "types": "Plant and machinery hire",
     "lat": 54.818067,
     "lng": -1.595187,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "email": "filler@godaddy.com",
+    "emails": [
+      "filler@godaddy.com"
+    ],
+    "description": "For all your plant machinery hire, repairs, maintenance, servicing and sales requirements",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Generator",
+      "Mini Digger",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Yarwoods Excavator Attachments Ltd",
@@ -910,12 +1304,22 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 am\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.9691,
     "lng": -1.689448,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@yarwoods.com",
+    "emails": [
+      "info@yarwoods.com"
+    ],
+    "description": "Yarwoods excavator attachment specialists. Sales, Repairs & Hire. Hydraulic Hammer, Multi Quick Processors, Pulverisers, Dedicated Sheers, Rakes, Compaction Plates, Riddle buckets, Augers, Selecta Grabs, Clam Shell Buckets, Pallet Forks, Magnets, Crusher Buckets and more.",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Excavator"
+    ]
   },
   {
     "name": "G M H Mini Plant Hire & Groundworks",
@@ -931,8 +1335,13 @@
     "types": "Demolition Contractor",
     "lat": 54.846685,
     "lng": -1.466063,
-    "found_in_location": "Houghton le Spring",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "gmhplant@gmail.com",
+    "emails": [
+      "gmhplant@gmail.com"
+    ],
+    "description": "G M H Mini Plant Hire & Groundworks offers high-quality plant hire and groundworks in Newcastle and nearby areas. Call us for all your equipment needs."
   },
   {
     "name": "M.A Stanton & Sons Ltd",
@@ -949,7 +1358,8 @@
     "lat": 54.87939,
     "lng": -1.3762,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Road surfacing company Stanton NE are an Asphalt Contractor based in Sunderland offering Tarmac Road Surfacing in Middlesbrough, Sunderland and throughout Northeast Yorkshire."
   },
   {
     "name": "NGJ plant & tool hire",
@@ -961,11 +1371,11 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.676803,
     "lng": -1.596697,
-    "found_in_location": "Spennymoor",
+    "found_in_location": "Durham",
     "found_with_query": "plant northeast"
   },
   {
@@ -978,7 +1388,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20133\u202fpm\"],\"Sunday\":[\"8\u202fam\u201312\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"8 am–12 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.664031,
     "lng": -1.214671,
@@ -1012,12 +1422,13 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 54.816439,
     "lng": -1.439899,
-    "found_in_location": "Houghton le Spring",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
   },
   {
     "name": "Platform Rentals Ltd",
@@ -1029,12 +1440,21 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.85128,
     "lng": -1.790427,
-    "found_in_location": "Consett",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "email": "info@platformrentalsltd.co.uk",
+    "emails": [
+      "info@platformrentalsltd.co.uk"
+    ],
+    "description": "Established in 2011, Platform Rentals is headed up by Ross Thompson (Managing Director). Having served a recognised industry apprenticeship, Ross has over 22 years of experience as an engineer. Ross is also Managing Director of a sister company RMT Access Ltd which he established in 2005. We...",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Summit Platforms",
@@ -1046,12 +1466,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.893018,
     "lng": -1.560291,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "description": "Summit Platforms, a part of Summit Rentals Group, is a national provider of powered access and telescopic handler hire, as well as machine sales, contract hire and associated training. We are dedicated to providing the latest in modern equipment accompanied with the highest levels of customer...",
+    "services": [
+      "Cherry Picker",
+      "Generator",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Durham Vehicle Hire",
@@ -1063,12 +1490,17 @@
     "rating": 4.9,
     "total_reviews": 707,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Van rental agency",
     "lat": 54.762163,
     "lng": -1.606245,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@durhamvehiclehire.co.uk",
+    "emails": [
+      "info@durhamvehiclehire.co.uk"
+    ],
+    "description": "Rent a car or hire a van, no deposit. Hire for the day in Durham, Chester-le-street, Houghton, Consett, Lanchester, Spennymoor, Coxhoe, Bishop Auckland, Aycliffe"
   },
   {
     "name": "James Middlemiss Ltd",
@@ -1080,12 +1512,13 @@
     "rating": 4.9,
     "total_reviews": 61,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–7 pm\"],\"Monday\":[\"7:30 am–7 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–7 pm\"],\"Tuesday\":[\"7:30 am–7 pm\"],\"Wednesday\":[\"7:30 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.491083,
     "lng": -1.519331,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "A large selection of fencing and garden timber and aggregates available now for collection or local delivery"
   },
   {
     "name": "Rock Rental",
@@ -1097,12 +1530,29 @@
     "rating": 4.9,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u201311:30\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30–11:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.587399,
     "lng": -1.254119,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hire@rockrental.co.uk",
+    "emails": [
+      "hire@rockrental.co.uk",
+      "falling@happyleaves.com"
+    ],
+    "description": "Rock Rental - Tool Hire Middlesbrough. Local Tool Shop in Middlesbrough. Long & Short Term Tool Hire Services. Delivery Available. Hire Tools Today!",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Birtley Hire",
@@ -1114,15 +1564,26 @@
     "rating": 4.9,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20133:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–3:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.89801,
     "lng": -1.580802,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "info@birtleyhire.co.uk",
+    "emails": [
+      "info@birtleyhire.co.uk",
+      "birtleyhire@live.co.uk"
+    ],
+    "description": "Tool hire, plant hire and equipment hire. Competitive prices, knowledgeable staff and impressive delivery times. Find out more.",
+    "services": [
+      "Cherry Picker",
+      "Excavator",
+      "Generator"
+    ]
   },
   {
-    "name": "Digger and Driver Hire/ Groundwork\u2019s/ Landscaping / Utilities",
+    "name": "Digger and Driver Hire/ Groundwork’s/ Landscaping / Utilities",
     "address": "32 Hallgarth, Kirk Merrington, Spennymoor, DL16 7HR, GB",
     "phone": "07534 415967",
     "international_phone": "07534 415967",
@@ -1131,12 +1592,20 @@
     "rating": 4.9,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.6769,
     "lng": -1.592912,
-    "found_in_location": "Spennymoor",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "email": "cjtdodds@gmail.com",
+    "emails": [
+      "cjtdodds@gmail.com"
+    ],
+    "description": "Hire a local driver with either a 2.6 or 14 tonne digger and dumper. All small domestic or light industrial jobs undertaken. Footings, groundworks and paths/drives all undertaken. Fully insured.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Andy Hire",
@@ -1148,7 +1617,7 @@
     "rating": 4.9,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4 pm\"],\"Monday\":[\"8:30 am–4 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4 pm\"],\"Tuesday\":[\"8:30 am–4 pm\"],\"Wednesday\":[\"8:30 am–4 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.5701,
     "lng": -1.312455,
@@ -1186,7 +1655,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.849814,
     "lng": -1.37229,
-    "found_in_location": "Seaham",
+    "found_in_location": "Sunderland",
     "found_with_query": "plant northeast"
   },
   {
@@ -1199,12 +1668,16 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Forklift dealer",
     "lat": 54.525186,
     "lng": -1.507591,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "When you need forklift truck experts contact DFL Materials Handling Ltd. Fork lift hire specialists, covering Bishop Aukland and surrounding areas.",
+    "services": [
+      "Forklift"
+    ]
   },
   {
     "name": "Hire Me",
@@ -1216,12 +1689,13 @@
     "rating": 4.8,
     "total_reviews": 145,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.866908,
     "lng": -1.485343,
-    "found_in_location": "Houghton le Spring",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "description": "Hire Me Tool Hire Ltd: Quality tool rental, equipment hire, and hardware supply services since 1985."
   },
   {
     "name": "R M Services (Tool Hire) Ltd",
@@ -1233,12 +1707,21 @@
     "rating": 4.8,
     "total_reviews": 69,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.062152,
     "lng": -1.592696,
     "found_in_location": "Cramlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "john@doe.com",
+    "emails": [
+      "john@doe.com",
+      "rmstoolhireltd@gmail.com"
+    ],
+    "description": "RM Services is a family run independent tool hire company based in Cramlington. Started in 1992 by Richard Moffit, we specialise in the hire, service and sale of tools and machinery.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Redcar Garden Machinery & Plant",
@@ -1250,12 +1733,13 @@
     "rating": 4.8,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Garden machinery supplier",
     "lat": 54.592009,
     "lng": -1.087531,
     "found_in_location": "Redcar",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Cheap garden equipment and plant hire available across Redcar. Commercial and domestic equipment available. Call on 01642 937 760"
   },
   {
     "name": "Allen Hire Ltd",
@@ -1267,12 +1751,24 @@
     "rating": 4.8,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.545815,
     "lng": -1.313562,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@allenhireuk.com",
+    "emails": [
+      "sales@allenhireuk.com"
+    ],
+    "description": "Our full range of plant, equipment and tool hire is available in Stockton on Tees, Middlesbrough and surrounding areas. Request a free quote.",
+    "services": [
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Forklift",
+      "Generator"
+    ]
   },
   {
     "name": "Brandon Hire Station Middlesbrough",
@@ -1284,12 +1780,13 @@
     "rating": 4.8,
     "total_reviews": 33,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.575411,
     "lng": -1.247208,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "A T & P Rentals Ltd",
@@ -1301,12 +1798,21 @@
     "rating": 4.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.533277,
     "lng": -1.006094,
-    "found_in_location": "Guisborough",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Redcar",
+    "found_with_query": "plant northeast",
+    "email": "atprentals1@gmail.com",
+    "emails": [
+      "atprentals1@gmail.com"
+    ],
+    "description": "Long or short term hire available service the North East of England.",
+    "services": [
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "JC Tools limited (JC Toolhire)",
@@ -1318,7 +1824,7 @@
     "rating": 4.8,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u201311\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8–11 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.526524,
     "lng": -1.546547,
@@ -1335,12 +1841,25 @@
     "rating": 4.8,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction machine dealer",
     "lat": 54.571499,
     "lng": -1.28187,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@northedgemachinery.com",
+    "emails": [
+      "info@northedgemachinery.com"
+    ],
+    "description": "Stay Up To Date View All Posts New Equipment Proud suppliers and dealers of Wacker Neuson machinery, MAGNI Roto, Heavy Lift and standard telescopic handlers ...",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "CLS Self Drive",
@@ -1356,7 +1875,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.569959,
     "lng": -1.071342,
-    "found_in_location": "Guisborough",
+    "found_in_location": "Redcar",
     "found_with_query": "plant northeast"
   },
   {
@@ -1369,12 +1888,16 @@
     "rating": 4.8,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction machine rental service",
     "lat": 54.93335,
     "lng": -1.6256,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Nixon Hire",
@@ -1386,12 +1909,16 @@
     "rating": 4.8,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 54.965408,
     "lng": -1.659179,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "We're Pleased To Provide A Full Range Of Site Equipment, Available Nationwide, To Ensure You Have The Facilities You Need To Run Your Projects Smoothly.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "CW Plant Hire",
@@ -1403,12 +1930,27 @@
     "rating": 4.8,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.893928,
     "lng": -1.566329,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "plant northeast",
+    "email": "instanthire@cwplant.co.uk",
+    "emails": [
+      "instanthire@cwplant.co.uk"
+    ],
+    "description": "Looking for quality equipment hire? CW Plant Hire has depots nationwide. From tools to telehandlers, we offer a local service on a national basis.",
+    "services": [
+      "Cherry Picker",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "TA Plant & Tool Hire",
@@ -1420,12 +1962,24 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building equipment hire service",
     "lat": 54.529837,
     "lng": -1.35901,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@taplanthire.co.uk",
+    "emails": [
+      "sales@taplanthire.co.uk"
+    ],
+    "description": "TA Plant & Tool Hire is the North East's newest equipment hire company",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "North East Plant Hire",
@@ -1437,7 +1991,7 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u201311\u202fpm\"],\"Monday\":[\"6\u202fam\u201311\u202fpm\"],\"Saturday\":[\"6\u202fam\u201311\u202fpm\"],\"Sunday\":[\"6\u202fam\u201311\u202fpm\"],\"Thursday\":[\"6\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"6\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"6\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–11 pm\"],\"Monday\":[\"6 am–11 pm\"],\"Saturday\":[\"6 am–11 pm\"],\"Sunday\":[\"6 am–11 pm\"],\"Thursday\":[\"6 am–11 pm\"],\"Tuesday\":[\"6 am–11 pm\"],\"Wednesday\":[\"6 am–11 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.026291,
     "lng": -1.532283,
@@ -1454,12 +2008,16 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 54.790731,
     "lng": -1.532316,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "MEP Hire: Mechanical, Electrical and Low Level Access Specialists providing rental products nationally to the UK’s building services trades.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Sunbelt Rentals Gateshead - White Rose Way",
@@ -1471,7 +2029,7 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 54.935791,
     "lng": -1.517091,
@@ -1488,12 +2046,18 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.940934,
     "lng": -1.516986,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Access Platforms Powered Access Machine Hire, scissor lift and boom lift hire, powered access rental and cherry picker hire.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Eco-Hire",
@@ -1505,7 +2069,7 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.637826,
     "lng": -1.200911,
@@ -1522,12 +2086,23 @@
     "rating": 4.7,
     "total_reviews": 90,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–5:30 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Tool Shop",
     "lat": 54.530961,
     "lng": -1.552122,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "darlington@machinemart.co.uk",
+    "emails": [
+      "darlington@machinemart.co.uk"
+    ],
+    "description": "Darlington Machine Mart - Britain’s No.1 Specialist Tools and Machinery Superstores",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Generator",
+      "Roller"
+    ]
   },
   {
     "name": "Watson Tool Hire",
@@ -1539,12 +2114,20 @@
     "rating": 4.7,
     "total_reviews": 50,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.974011,
     "lng": -1.445869,
     "found_in_location": "South Shields",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "gordon@watsontoolhire.co.uk",
+    "emails": [
+      "gordon@watsontoolhire.co.uk"
+    ],
+    "description": "Watson Tool Hire specialise in the supply and hire of quality tools and building products. We also offer tool repairs to most makes of power tools and garden machinery, from drills to lawnmowers to diggers!",
+    "services": [
+      "Compressor"
+    ]
   },
   {
     "name": "Max Hire Ltd",
@@ -1556,12 +2139,22 @@
     "rating": 4.7,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.162547,
     "lng": -1.673042,
     "found_in_location": "Morpeth",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@maxhire.co.uk",
+    "emails": [
+      "info@maxhire.co.uk"
+    ],
+    "description": "In need of power tools & equipment for your home, garden, or company? Maxhire offers quality tools for hire or for sale, repair services & more. Call now.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Generator"
+    ]
   },
   {
     "name": "Tool Time Ltd",
@@ -1573,11 +2166,11 @@
     "rating": 4.7,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.646041,
     "lng": -1.663513,
-    "found_in_location": "Bishop Auckland",
+    "found_in_location": "Durham",
     "found_with_query": "plant northeast"
   },
   {
@@ -1590,12 +2183,16 @@
     "rating": 4.7,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.955043,
     "lng": -1.654927,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Braddan Plant Hire Ltd",
@@ -1607,12 +2204,23 @@
     "rating": 4.7,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.536441,
     "lng": -1.547671,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "office@braddanplanthire.co.uk",
+    "emails": [
+      "office@braddanplanthire.co.uk"
+    ],
+    "description": "Braddan Plant Hire offers reliable plant, scissor-lift and boom-lift hire across the North East - rapid delivery, LOLER-certified equipment and flexible hire periods. Contact us for a competitive quote today.",
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Sunbelt Rentals Traffic Management",
@@ -1641,12 +2249,21 @@
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–5 pm\"],\"Sunday\":[\"7:30 am–5 pm\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.506723,
     "lng": -1.386936,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hire@herringplant.co.uk",
+    "emails": [
+      "hire@herringplant.co.uk"
+    ],
+    "description": "Welcome to Herring Plant Hire Ltd! Your go-to source for construction equipment plant hire in Teesside and North East England. Discover a diverse range of machinery for all your project needs. Explore our high-quality rentals today.",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Hewitson Ltd",
@@ -1658,12 +2275,36 @@
     "rating": 4.6,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "General Contractor",
     "lat": 54.518732,
     "lng": -1.393955,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "aiden@hewitsonlimited.co.uk",
+    "emails": [
+      "aiden@hewitsonlimited.co.uk",
+      "brian@hewitsonlimited.co.uk",
+      "craig@hewitsonlimited.co.uk",
+      "gjones@hewitsonlimited.co.uk",
+      "henry@hewitsonlimited.co.uk",
+      "jonathan@hewitsonlimited.co.uk",
+      "kerry@hewitsonlimited.co.uk",
+      "kevin@hewitsonlimited.co.uk",
+      "michael@hewitsonlimited.co.uk",
+      "mick@hewitsonlimited.co.uk",
+      "p.blewitt@hewitsonlimited.co.uk",
+      "paul@hewitsonlimited.co.uk",
+      "pete@hewitsonlimited.co.uk",
+      "robert@hewitsonlimited.co.uk",
+      "sam@hewitsonlimited.co.uk",
+      "simon@hewitsonlimited.co.uk",
+      "tom@hewitsonlimited.co.uk"
+    ],
+    "description": "Hewitson Limited is a family run business at the forefront of Civil Engineering and Groundworks, based in the North East, offering services throughout the United Kingdom.",
+    "services": [
+      "Roller"
+    ]
   },
   {
     "name": "MAC Plant & Tool Hire Ltd",
@@ -1675,12 +2316,17 @@
     "rating": 4.6,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.412126,
     "lng": -1.745028,
-    "found_in_location": "Richmond",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "plant northeast",
+    "email": "info@macplanthire.co.uk",
+    "emails": [
+      "info@macplanthire.co.uk"
+    ],
+    "description": "Mac Plant Tool Hire Ltd is a Plant Hire in Richmond specialising in Tool Hire,Plant Hire and Tarmac Driveways. Covering Richmond and North Yorkshire we can cater to all your needs including Tool Hire and Plant Hire"
   },
   {
     "name": "GAP Hire Solutions - Middlesbrough",
@@ -1692,12 +2338,16 @@
     "rating": 4.6,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.570884,
     "lng": -1.197627,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Sunbelt Rentals Test & Monitoring - Stokesley",
@@ -1709,12 +2359,17 @@
     "rating": 4.6,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 54.46449,
     "lng": -1.175189,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Sunbelt Rentals Test & Monitoring are Europe's leading test equipment hire supplier. Hire test equipment at low prices. Next day delivery on all Inlec test equipment, order online today!",
+    "services": [
+      "Compressor",
+      "Generator"
+    ]
   },
   {
     "name": "AK Micro Plant Hire",
@@ -1726,12 +2381,23 @@
     "rating": 4.6,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20138\u202fpm\"],\"Monday\":[\"7\u202fam\u20138\u202fpm\"],\"Saturday\":[\"7\u202fam\u20138\u202fpm\"],\"Sunday\":[\"7\u202fam\u20138\u202fpm\"],\"Thursday\":[\"7\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–8 pm\"],\"Monday\":[\"7 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"7 am–8 pm\"],\"Thursday\":[\"7 am–8 pm\"],\"Tuesday\":[\"7 am–8 pm\"],\"Wednesday\":[\"7 am–8 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.674876,
     "lng": -1.557225,
-    "found_in_location": "Ferryhill",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "email": "akmicrohire@gmail.com",
+    "emails": [
+      "akmicrohire@gmail.com"
+    ],
+    "description": "Micro Plant Hire Durham, Mini Digger Durham, Groundworks and Excavation Durham, Operator Hire Durham",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "MGF",
@@ -1743,12 +2409,17 @@
     "rating": 4.6,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.751506,
     "lng": -1.604669,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "support@mgf.co.uk",
+    "emails": [
+      "support@mgf.co.uk"
+    ],
+    "description": "MGF have a rich history in providing excavation support, lifting and safety and structural support solutions. We're industry innovators."
   },
   {
     "name": "AQ-RENT UK",
@@ -1760,12 +2431,20 @@
     "rating": 4.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Industrial vacuum equipment supplier",
     "lat": 54.610893,
     "lng": -1.261269,
-    "found_in_location": "Billingham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "plant northeast",
+    "email": "sales@doornbosequipment.co.uk",
+    "emails": [
+      "sales@doornbosequipment.co.uk",
+      "hiredesk@doornbosequipment.co.uk",
+      "parts@doornbosequipment.co.uk",
+      "hp@doornbosequipment.com"
+    ],
+    "description": "Doornbos Equipment specailise in the rental and sales of High/Ultra-High pressure Water Jetting Equipment & Vacuum Tankers"
   },
   {
     "name": "One Stop Hire",
@@ -1777,12 +2456,21 @@
     "rating": 4.5,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.909486,
     "lng": -1.430371,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "national@onestophire.com",
+    "emails": [
+      "national@onestophire.com",
+      "national@onestophire.co.uk"
+    ],
+    "description": "Serving London With Expert Hire SolutionsProviding expert hire solutions, now with two depots in the beating heart of the capital. Our Locations Contact Us Join The One Stop Hire FamilyLook out for exciting career opportunities and become part of our fast-growing company. LATEST VACANCIES...",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Teward Bros Ltd",
@@ -1794,12 +2482,25 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.573375,
     "lng": -1.818677,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "jeffrey@tewardbros.co.uk",
+    "emails": [
+      "jeffrey@tewardbros.co.uk",
+      "info@tewardrecycling.co.uk"
+    ],
+    "description": "Teward Bros Ltd provides access to a fully-maintained, state-of-the-art fleet of vehicles and plant – designed with your demands in mind",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "TUC Plant Hire",
@@ -1815,7 +2516,7 @@
     "types": "Plant and machinery hire",
     "lat": 54.890099,
     "lng": -1.717718,
-    "found_in_location": "Stanley",
+    "found_in_location": "Gateshead",
     "found_with_query": "plant northeast"
   },
   {
@@ -1828,12 +2529,22 @@
     "rating": 4.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4 pm\"],\"Monday\":[\"7:30 am–4 pm\"],\"Saturday\":[\"7:30 am–4 pm\"],\"Sunday\":[\"7:30 am–4 pm\"],\"Thursday\":[\"7:30 am–4 pm\"],\"Tuesday\":[\"7:30 am–4 pm\"],\"Wednesday\":[\"7:30 am–4 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.969362,
     "lng": -1.688668,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "kelly.plant@zen.co.uk",
+    "emails": [
+      "kelly.plant@zen.co.uk"
+    ],
+    "description": "Call Kelly Plant Hire Ltd on 0191 275 3339 for machinery hire in Newcastle upon Tyne. We offer operated plant hire to customers across Tyne and Wear.",
+    "services": [
+      "Breaker",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Machine Mart Gateshead",
@@ -1845,12 +2556,23 @@
     "rating": 4.4,
     "total_reviews": 118,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–5:30 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Tool Shop",
     "lat": 54.94975,
     "lng": -1.61988,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "darlington@machinemart.co.uk",
+    "emails": [
+      "darlington@machinemart.co.uk"
+    ],
+    "description": "Darlington Machine Mart - Britain’s No.1 Specialist Tools and Machinery Superstores",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Generator",
+      "Roller"
+    ]
   },
   {
     "name": "Northgate Vehicle Hire - Stockton-On-Tees",
@@ -1862,12 +2584,17 @@
     "rating": 4.4,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 54.547485,
     "lng": -1.311691,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "rental.ipswich@northgatevehiclehire.co.uk",
+    "emails": [
+      "rental.ipswich@northgatevehiclehire.co.uk"
+    ],
+    "description": "Find a wide range of fleet vehicles at our Northgate Ipswich branch. Our van rental in Ipswich offers flexible hire options and more! Call today."
   },
   {
     "name": "Huws Gray Sunderland",
@@ -1879,12 +2606,13 @@
     "rating": 4.4,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 54.899033,
     "lng": -1.365414,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Visit our Huws Gray Sunderland branch for all your building and DIY needs. Open to the Trade & Public."
   },
   {
     "name": "Atkinsons Skips",
@@ -1896,12 +2624,13 @@
     "rating": 4.4,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Waste Collection Service",
     "lat": 54.952093,
     "lng": -1.546777,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Looking for the most competitive priced Skip Hire in Gateshead, Newcastle and surrounding areas? You can rely on us! Call 0191 469 5227"
   },
   {
     "name": "Northumbria Plant Hire",
@@ -1930,12 +2659,17 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.395645,
     "lng": -1.161798,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "sales@uhireltd.com",
+    "emails": [
+      "sales@uhireltd.com"
+    ],
+    "description": "U Hire Limited is a local plant hire business operating in the North East and North Yorkshire. Exceptional customer service and competitive pricing on a wide range of excavators, dumpers, tracked barrows, rollers, compaction plates, telehandlers and associated equipment."
   },
   {
     "name": "Scott Bros Ltd",
@@ -1947,12 +2681,20 @@
     "rating": 4.3,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–4 pm\"]}",
     "types": "Recycling Centre",
     "lat": 54.590946,
     "lng": -1.261168,
-    "found_in_location": "Billingham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "plant northeast",
+    "email": "info@scottbros.com",
+    "emails": [
+      "info@scottbros.com",
+      "peter@scottbros.com",
+      "skips@scottbros.com",
+      "transport@scottbros.com"
+    ],
+    "description": "Scott Bros. group of companies are a large haulage and plant hire, recycling and aggregate company based in the North East of England. We are a family-owned and family-grown business, having been founded by owner David Scott in Thornaby in 1972. Industry-leading, we provide state of the art..."
   },
   {
     "name": "Addison Plant Ltd",
@@ -1964,12 +2706,18 @@
     "rating": 4.3,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Civil engineering company",
     "lat": 54.558853,
     "lng": -1.296882,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "enquiries@addisonplantltd.co.uk",
+    "emails": [
+      "enquiries@addisonplantltd.co.uk",
+      "contact@pokota.com"
+    ],
+    "description": "We work swiftly without compromising quality - delivering results on time, every time."
   },
   {
     "name": "Advanced Material Handling Limited - Forklift Dealer Middlesbrough",
@@ -1981,12 +2729,25 @@
     "rating": 4.3,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Forklift dealer",
     "lat": 54.586649,
     "lng": -1.247407,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hire@advancedmhl.com",
+    "emails": [
+      "hire@advancedmhl.com",
+      "sales@advancedmhl.com",
+      "accounts@advancedmhl.com",
+      "service@advancedmhl.com"
+    ],
+    "description": "CAT® Konecranes, Volvo Penta Agents for the Northeast. New & Used Sales, Hire, Service, Parts, Engines, Transport & more. Tel: 01642 459545",
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Eddie's",
@@ -1998,7 +2759,7 @@
     "rating": 4.3,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.954856,
     "lng": -1.560709,
@@ -2015,7 +2776,7 @@
     "rating": 4.2,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.963491,
     "lng": -1.629636,
@@ -2037,7 +2798,8 @@
     "lat": 54.542718,
     "lng": -1.569823,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "TM Ward (Darlington) Ltd, established in 1974 by Thomas M Ward, now focuses on transport logistics, low loader and tipper transport, HGV maintenance and repairs from an IRTEC-accredited workshop, plus storage and rental at Faverdale."
   },
   {
     "name": "JR Butterfield Ltd",
@@ -2049,7 +2811,7 @@
     "rating": 4.2,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20139\u202fpm\"],\"Monday\":[\"6\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"6\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–9 pm\"],\"Monday\":[\"6 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"6 am–9 pm\"],\"Tuesday\":[\"6 am–9 pm\"],\"Wednesday\":[\"6 am–9 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.607931,
     "lng": -1.681173,
@@ -2083,7 +2845,7 @@
     "rating": 4.1,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 54.921776,
     "lng": -1.421348,
@@ -2100,12 +2862,13 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.980169,
     "lng": -1.538119,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Hubbway Plant Hire",
@@ -2117,12 +2880,18 @@
     "rating": 4.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"8 am–12 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.089072,
     "lng": -1.606785,
     "found_in_location": "Cramlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Hubbway Plant Hire. New and Used Plant Hire & Sales, self drive and operated hire, all regularly serviced and maintained. Contact Hubbway Plant Hire today.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Sunbelt Rentals Newcastle",
@@ -2134,7 +2903,7 @@
     "rating": 4.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 55.045925,
     "lng": -1.639698,
@@ -2155,8 +2924,16 @@
     "types": "Plant and machinery hire",
     "lat": 54.563731,
     "lng": -1.404758,
-    "found_in_location": "Stockton",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "plant northeast",
+    "email": "info@cgrobinson.co.uk",
+    "emails": [
+      "info@cgrobinson.co.uk"
+    ],
+    "description": "C.G. Robinson & Sons LTD. is a nationally recognised family-run business with over 30 years experience specialising in Plant Hire across the North East, including Teesside, Darlington, Durham, Newcastle and North Yorkshire.",
+    "services": [
+      "Telehandler"
+    ]
   },
   {
     "name": "Highway Service",
@@ -2168,12 +2945,19 @@
     "rating": 4.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.952837,
     "lng": -1.634314,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@highwayservice.co.uk",
+    "emails": [
+      "info@highwayservice.co.uk",
+      "jennifer@highwayservice.co.uk",
+      "lee@highwayservice.co.uk"
+    ],
+    "description": "For service and repair of road construction equipment."
   },
   {
     "name": "Premier Plant & Civil Engineering (UK) Limited",
@@ -2189,8 +2973,13 @@
     "types": "Construction Company",
     "lat": 55.154931,
     "lng": -1.541195,
-    "found_in_location": "Bedlington",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Cramlington",
+    "found_with_query": "plant northeast",
+    "email": "enquiries@premierplant.ltd",
+    "emails": [
+      "enquiries@premierplant.ltd"
+    ],
+    "description": "Delivering reliable, high-quality Civil Engineering and Surfacing Services with our own in-house management, workforce, plant and equipment."
   },
   {
     "name": "KD Plant Services",
@@ -2207,7 +2996,16 @@
     "lat": 54.824012,
     "lng": -1.63651,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "kevin.devereux@kdplantservices.com",
+    "emails": [
+      "kevin.devereux@kdplantservices.com"
+    ],
+    "description": "Nationwide short & long term hire of heavy plant Excavators, Dozers and Dumpers to the construction industry",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Nationwide Platforms",
@@ -2219,12 +3017,18 @@
     "rating": 3.9,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.776569,
     "lng": -1.533763,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Powered Access Hire from the UK's market leading provider. Our huge range of access platforms includes cherry pickers, scissor lifts and tracked booms.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Bryn Thomas Cranes Ltd",
@@ -2241,7 +3045,19 @@
     "lat": 54.95943,
     "lng": -1.571022,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@brynthomascranes.com",
+    "emails": [
+      "info@brynthomascranes.com",
+      "durham@brynthomascranes.com",
+      "flint@brynthomascranes.com",
+      "manchester@brynthomascranes.com",
+      "office@bjwcranes.co.uk"
+    ],
+    "description": "Bryn Thomas Cranes are one of the UK's leading Crane Hire Companies. We have depots operating across areas such as Liverpool, Manchester and Newcastle.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Groundwork Services (Durham) Ltd",
@@ -2253,15 +3069,20 @@
     "rating": 3.8,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Civil Engineering",
     "lat": 54.752093,
     "lng": -1.604382,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@gwsdurham.co.uk",
+    "emails": [
+      "info@gwsdurham.co.uk"
+    ],
+    "description": "We are a leading civil engineering company based in County Durham, which operates across a number of sectors and locations throughout the UK"
   },
   {
-    "name": "O\u2019Brien Demolition",
+    "name": "O’Brien Demolition",
     "address": "Ferryboat Ln, Sunderland, SR5 3JN, GB",
     "phone": "0191 537 4332",
     "international_phone": "0191 537 4332",
@@ -2275,7 +3096,8 @@
     "lat": 54.91477,
     "lng": -1.459005,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Innovation, expertise and leadership for Demolition, Crane Disposal, Dismantling, Plant Removal, Asset Recovery, Asbestos, Excavation & Remediation."
   },
   {
     "name": "Speedy Services - Teesside Power Multi-Service Centre",
@@ -2287,7 +3109,7 @@
     "rating": 3.8,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 54.556345,
     "lng": -1.312638,
@@ -2304,12 +3126,16 @@
     "rating": 3.8,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction machine rental service",
     "lat": 54.78772,
     "lng": -1.53521,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Chippindale Plant Newcastle",
@@ -2321,12 +3147,22 @@
     "rating": 3.7,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.951959,
     "lng": -1.690927,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Our plant hire in Newcastle has an extensive range of machinery and attachments, to help you find a solution for every job. Visit our Newcastle plant hire.",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "TCC Plant Ltd",
@@ -2338,12 +3174,23 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.581576,
     "lng": -1.16642,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hire@tccplant.com",
+    "emails": [
+      "hire@tccplant.com",
+      "accounts@tccplant.com"
+    ],
+    "description": "We offer reliable, expert plant hire services across the UK, supporting construction, demolition, and haulage projects with quality machines and skilled operators.",
+    "services": [
+      "Cherry Picker",
+      "Excavator",
+      "Forklift"
+    ]
   },
   {
     "name": "Finning (UK) Ltd",
@@ -2355,12 +3202,16 @@
     "rating": 3.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u201311:30\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30–11:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 54.935884,
     "lng": -1.518096,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "partsdirectuk@finning.com",
+    "emails": [
+      "partsdirectuk@finning.com"
+    ]
   },
   {
     "name": "CRH Plant Ltd",
@@ -2372,12 +3223,20 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–4:30 pm\"],\"Monday\":[\"7 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–4:30 pm\"],\"Tuesday\":[\"7 am–4:30 pm\"],\"Wednesday\":[\"7 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.885507,
     "lng": -1.703615,
-    "found_in_location": "Stanley",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "plant northeast",
+    "email": "evesham@crhplant.co.uk",
+    "emails": [
+      "evesham@crhplant.co.uk"
+    ],
+    "description": "Cotswold Roller Hire was founded in 1965, since then we have grown to a nationwide supplier of non-operated plant.",
+    "services": [
+      "Roller"
+    ]
   },
   {
     "name": "Plant hire",
@@ -2389,7 +3248,7 @@
     "rating": 1.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9\u201310:30\u202fam\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9–10:30 am\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.003153,
     "lng": -1.69547,
@@ -2406,12 +3265,99 @@
     "rating": 1.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.940498,
     "lng": -1.627689,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "alford@huwsgrayplantandtoolhire.co.uk",
+    "emails": [
+      "alford@huwsgrayplantandtoolhire.co.uk",
+      "barnsley@huwsgrayplantandtoolhire.co.uk",
+      "basingstoke@huwsgrayplantandtoolhire.co.uk",
+      "belper@huwsgrayplantandtoolhire.co.uk",
+      "bolton@huwsgrayplantandtoolhire.co.uk",
+      "boston@huwsgrayplantandtoolhire.co.uk",
+      "bow@huwsgrayplantandtoolhire.co.uk",
+      "braintree@huwsgrayplantandtoolhire.co.uk",
+      "bristol@huwsgrayplantandtoolhire.co.uk",
+      "calne@huwsgrayplantandtoolhire.co.uk",
+      "chesterfield@huwsgrayplantandtoolhire.co.uk",
+      "corby@huwsgrayplantandtoolhire.co.uk",
+      "crawley@huwsgrayplantandtoolhire.co.uk",
+      "croydon@huwsgrayplantandtoolhire.co.uk",
+      "derby@huwsgrayplantandtoolhire.co.uk",
+      "dover@huwsgrayplantandtoolhire.co.uk",
+      "epsom@huwsgrayplantandtoolhire.co.uk",
+      "exeter@huwsgrayplantandtoolhire.co.uk",
+      "farnham@huwsgrayplantandtoolhire.co.uk",
+      "flint@huwsgrayplantandtoolhire.co.uk",
+      "gainsborough@huwsgrayplantandtoolhire.co.uk",
+      "gateshead@huwsgrayplantandtoolhire.co.uk",
+      "gloucester@huwsgrayplantandtoolhire.co.uk",
+      "grantham@huwsgrayplantandtoolhire.co.uk",
+      "grimsby@huwsgrayplantandtoolhire.co.uk",
+      "hadleigh@huwsgrayplantandtoolhire.co.uk",
+      "harlow@huwsgrayplantandtoolhire.co.uk",
+      "haverhill@huwsgrayplantandtoolhire.co.uk",
+      "herne.bay@huwsgrayplantandtoolhire.co.uk",
+      "highgate@huwsgrayplantandtoolhire.co.uk",
+      "highwycombe@huwsgrayplantandtoolhire.co.uk",
+      "holbrooks@huwsgrayplantandtoolhire.co.uk",
+      "horncastle@huwsgrayplantandtoolhire.co.uk",
+      "ipswich@huwsgrayplantandtoolhire.co.uk",
+      "kenilworth@huwsgrayplantandtoolhire.co.uk",
+      "leicester@huwsgrayplantandtoolhire.co.uk",
+      "lincoln@huwsgrayplantandtoolhire.co.uk",
+      "louth@huwsgrayplantandtoolhire.co.uk",
+      "maidstone@huwsgrayplantandtoolhire.co.uk",
+      "marketdrayton@huwsgrayplantandtoolhire.co.uk",
+      "marketrasen@huwsgrayplantandtoolhire.co.uk",
+      "melksham@huwsgrayplantandtoolhire.co.uk",
+      "miltonkeynes@huwsgrayplantandtoolhire.co.uk",
+      "nantwich@huwsgrayplantandtoolhire.co.uk",
+      "newark@huwsgrayplantandtoolhire.co.uk",
+      "newbury@huwsgrayplantandtoolhire.co.uk",
+      "newsouthgate@huwsgrayplantandtoolhire.co.uk",
+      "northwich@huwsgrayplantandtoolhire.co.uk",
+      "norwich@huwsgrayplantandtoolhire.co.uk",
+      "nottingham@huwsgrayplantandtoolhire.co.uk",
+      "nuneaton@huwsgrayplantandtoolhire.co.uk",
+      "oxford@huwsgrayplantandtoolhire.co.uk",
+      "peckham@huwsgrayplantandtoolhire.co.uk",
+      "portsmouth@huwsgrayplantandtoolhire.co.uk",
+      "redditch@huwsgrayplantandtoolhire.co.uk",
+      "rotherham@huwsgrayplantandtoolhire.co.uk",
+      "rushden@huwsgrayplantandtoolhire.co.uk",
+      "sandy@huwsgrayplantandtoolhire.co.uk",
+      "scunthorpe@huwsgrayplantandtoolhire.co.uk",
+      "shetland@huwsgrayplantandtoolhire.co.uk",
+      "shrewsbury@huwsgrayplantandtoolhire.co.uk",
+      "skegness@huwsgrayplantandtoolhire.co.uk",
+      "sleaford@huwsgrayplantandtoolhire.co.uk",
+      "stafford@huwsgrayplantandtoolhire.co.uk",
+      "stamford@huwsgrayplantandtoolhire.co.uk",
+      "stevenage@huwsgrayplantandtoolhire.co.uk",
+      "stoke@huwsgrayplantandtoolhire.co.uk",
+      "stowmarket@huwsgrayplantandtoolhire.co.uk",
+      "stratford@huwsgrayplantandtoolhire.co.uk",
+      "sudbury@huwsgrayplantandtoolhire.co.uk",
+      "sunderland@huwsgrayplantandtoolhire.co.uk",
+      "suttoninashfield@huwsgrayplantandtoolhire.co.uk",
+      "swansea@huwsgrayplantandtoolhire.co.uk",
+      "swindon@huwsgrayplantandtoolhire.co.uk",
+      "swinton@huwsgrayplantandtoolhire.co.uk",
+      "wellington@huwsgrayplantandtoolhire.co.uk",
+      "welwyngardencity@huwsgrayplantandtoolhire.co.uk",
+      "westonsupermare@huwsgrayplantandtoolhire.co.uk",
+      "whitburn@huwsgrayplantandtoolhire.co.uk",
+      "wigan@huwsgrayplantandtoolhire.co.uk",
+      "wisbech@huwsgrayplantandtoolhire.co.uk",
+      "wrightington@huwsgrayplantandtoolhire.co.uk",
+      "nuffield@hirebase.co.uk"
+    ],
+    "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
     "name": "Ashtead Plant Hire",
@@ -2423,7 +3369,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.573033,
     "lng": -1.278328,
@@ -2444,8 +3390,14 @@
     "types": "Plant and machinery hire",
     "lat": 54.493609,
     "lng": -1.365298,
-    "found_in_location": "Yarm",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "plant northeast",
+    "description": "Empowering construction through expertise and superior machinery.",
+    "services": [
+      "Compactor",
+      "Concrete Mixer",
+      "Excavator"
+    ]
   },
   {
     "name": "Thomas Plant Hire Ltd",
@@ -2461,8 +3413,22 @@
     "types": "Plant and machinery hire",
     "lat": 54.606676,
     "lng": -1.268771,
-    "found_in_location": "Billingham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "plant northeast",
+    "email": "hiredesk@thomasplanthireltd.com",
+    "emails": [
+      "hiredesk@thomasplanthireltd.com"
+    ],
+    "description": "Thomas Plant Hire est. in 2000 is a family run business. We provide market leading equipment and professional advice for our customers.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Arrowhaul & Plant Hire Ltd",
@@ -2474,12 +3440,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Construction machine dealer",
     "lat": 54.587666,
     "lng": -1.269536,
-    "found_in_location": "Billingham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "plant northeast",
+    "email": "info@arrowhaul.co.uk",
+    "emails": [
+      "info@arrowhaul.co.uk"
+    ],
+    "description": "For Commercial and Private Clients The North Easts Leading Haulage and Plant Hire Provider Contact Us For Commercial and Private Clients The North Easts Leading Haulage and Plant Hire Provider Contact Us North East Haulage Services ABOUT US Welcome To Arrowhaul At Arrowhaul & Plant Hire Ltd, we..."
   },
   {
     "name": "NCE Plant Hire Ltd",
@@ -2491,7 +3462,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.968429,
     "lng": -1.690956,
@@ -2508,12 +3479,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.013211,
     "lng": -1.437273,
-    "found_in_location": "North Shields",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Tynemouth",
+    "found_with_query": "plant northeast",
+    "email": "info@pattersonplant.co.uk",
+    "emails": [
+      "info@pattersonplant.co.uk"
+    ],
+    "description": "We are a long established family run company specialising in the hire of operated and non-operated plant machinery and equipment.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "easyToolhire - Newcastle - Diesel & Petrol Generators, Access Equipment, Mini Diggers For Your Projects",
@@ -2525,12 +3505,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.980141,
     "lng": -1.575492,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hire@easytoolhire.com",
+    "emails": [
+      "hire@easytoolhire.com"
+    ],
+    "description": "We're not accepting any new hire orders at the moment and apologise for any inconvenience."
   },
   {
     "name": "Location One Ltd",
@@ -2542,12 +3527,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.146151,
     "lng": -1.591122,
-    "found_in_location": "Bedlington",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Cramlington",
+    "found_with_query": "plant northeast",
+    "email": "bristol@locationone.co.uk",
+    "emails": [
+      "bristol@locationone.co.uk",
+      "liverpool@locationone.co.uk",
+      "london@locationone.co.uk",
+      "manchester@locationone.co.uk",
+      "newcastle@locationone.co.uk",
+      "scotland@locationone.co.uk",
+      "wales@locationone.co.uk"
+    ],
+    "description": "Branches in London & Manchester, Same-Day or Next Day Nationwide Coverage, Location One offers a punctual, satellite trackable delivery service of ﬁrst class production equipment"
   },
   {
     "name": "Safer Plant Ltd",
@@ -2559,11 +3555,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.989436,
     "lng": -1.489547,
-    "found_in_location": "Wallsend",
+    "found_in_location": "South Shields",
     "found_with_query": "plant northeast"
   },
   {
@@ -2576,12 +3572,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"8 am–5:30 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.920242,
     "lng": -1.412285,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "jdord@outlook.com",
+    "emails": [
+      "jdord@outlook.com"
+    ],
+    "description": "Home page for JD Ord Plant Hire who offers the opportunity to hire mini excavators, 2cx JCB’s and 3cx JCB's with a range of attachments including breakers, buckets and more to clients in Sunderland, County Durham and surrounding areas.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "Cullen Plant Hire",
@@ -2614,8 +3619,17 @@
     "types": "Excavating contractor",
     "lat": 54.821882,
     "lng": -1.384614,
-    "found_in_location": "Seaham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Sunderland",
+    "found_with_query": "plant northeast",
+    "email": "gt.groundwork@btinternet.com",
+    "emails": [
+      "gt.groundwork@btinternet.com"
+    ],
+    "description": "For all your- Groundwork: Plant Hire: Mini Digger Hire: Drainage Installation: Building Work and so much more in Sunderland and Durham, Then look no further than G.T. Groundworks - Plant Hire",
+    "services": [
+      "Breaker",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Best at hire",
@@ -2627,12 +3641,19 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.901782,
     "lng": -1.367784,
     "found_in_location": "Sunderland",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "Low Prices - National Tool Hire in Norwich . Click & Collect from 120+ depots. Cheap Next Day Delivery. Call 01603 523 220 / Hire Online",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Generator"
+    ]
   },
   {
     "name": "JC Plant and Tool Hire Ltd",
@@ -2644,12 +3665,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.621151,
     "lng": -1.556577,
-    "found_in_location": "Newton Aycliffe",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Darlington",
+    "found_with_query": "plant northeast",
+    "email": "karl.jcplant@gmail.com",
+    "emails": [
+      "karl.jcplant@gmail.com"
+    ],
+    "description": "tool hire near me, jc plant and tool hire ltd www.jcplantandtoolhire.com diggers, generators,",
+    "services": [
+      "Concrete Mixer",
+      "Dumper",
+      "Generator",
+      "Mini Digger",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "North East Plant Specialists Ltd",
@@ -2666,7 +3699,11 @@
     "lat": 54.57812,
     "lng": -1.154967,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "ross@ne-ps.co.uk",
+    "emails": [
+      "ross@ne-ps.co.uk"
+    ]
   },
   {
     "name": "North East hire Ltd",
@@ -2678,12 +3715,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.571212,
     "lng": -1.222425,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "jess@macservicesltd.com",
+    "emails": [
+      "jess@macservicesltd.com",
+      "michael@macservicesltd.com",
+      "912emailjess@macservicesltd.comor"
+    ],
+    "description": "Serving the UK with Access Platforms, Platforms for Sale, Platforms for Hire, Scissor Lifts, Loler Inspections, Platform Services, Scissor Lift Servicing, Lifts for Hire, Lifts for Sale, Powered Access Solutions and Service and Repairs on Lifts.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "pro construction and plant hire",
@@ -2699,7 +3747,7 @@
     "types": "Construction Company",
     "lat": 54.893683,
     "lng": -1.577825,
-    "found_in_location": "Chester-le-Street",
+    "found_in_location": "Washington",
     "found_with_query": "plant northeast"
   },
   {
@@ -2717,7 +3765,15 @@
     "lat": 54.94246,
     "lng": -1.617523,
     "found_in_location": "Gateshead",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "jl@lowther-industries.co.uk",
+    "emails": [
+      "jl@lowther-industries.co.uk"
+    ],
+    "description": "We pride ourselves in our friendly, knowledgeable staff and fast, reliable service. Hire equipment can be delivered direct to site with a swift same day drop off and collection service and purchases can be delivered direct to any customer in the UK by the next working day. We sell all...",
+    "services": [
+      "Compressor"
+    ]
   },
   {
     "name": "Sunbelt Rentals Gateshead - Stoneygate Lane",
@@ -2729,7 +3785,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 54.952975,
     "lng": -1.561464,
@@ -2746,12 +3802,25 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.534525,
     "lng": -1.527027,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "hiredesk@mobrienplanthire.co.uk",
+    "emails": [
+      "hiredesk@mobrienplanthire.co.uk",
+      "accountsreceivable@mobrienplanthireltd.co.uk",
+      "hiredesk@mobrienplanthireltd.co.uk"
+    ],
+    "description": "M O'Brien Plant Hire is one of the UK's leading Operated and self drive Plant Hire providers. Known for our high quality equipment and exceptional plant operators, we have worked with clients across the UK on some of the most prestigious infrastructure projects and are proud of the way these...",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "JD Mini Digger Hire",
@@ -2763,12 +3832,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.980822,
     "lng": -1.525944,
-    "found_in_location": "Hebburn",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "plant northeast",
+    "email": "jdixonlandscapes@yahoo.co.uk",
+    "emails": [
+      "jdixonlandscapes@yahoo.co.uk"
+    ],
+    "description": "JD Mini Digger Hire - Specialist Digger Hire & Excavation Work in Tyne and Wear - 07947 524 814 | jdixonlandscapes@yahoo.co.uk",
+    "services": [
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "B&A mini digger hire ltd",
@@ -2780,12 +3858,22 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.664046,
     "lng": -1.557193,
-    "found_in_location": "Ferryhill",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Durham",
+    "found_with_query": "plant northeast",
+    "email": "hire@b-aminidigger.co.uk",
+    "emails": [
+      "hire@b-aminidigger.co.uk"
+    ],
+    "description": "Explore our plant hire services across County Durham & the North East. Digger, dumper & roller hire for builders, landscapers & DIY projects. Flexible terms & fast delivery.",
+    "services": [
+      "Dumper",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "Gen-Rent UK",
@@ -2797,12 +3885,16 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.514711,
     "lng": -1.4314,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "For all of yout temporary power requirements contactGEN-RENTnow",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "KC's HGV & PLANT DRIVER HIRE",
@@ -2819,7 +3911,13 @@
     "lat": 54.737789,
     "lng": -1.423459,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "description": "We are a family owned company, committed to becoming the contractor of choice, pursuing excellence through dedication, experience and disciplined employees with an ongoing passion to deliver quality, timely and profitable projects.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Turbo Tool Hire",
@@ -2831,11 +3929,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 54.587567,
     "lng": -1.269562,
-    "found_in_location": "Billingham",
+    "found_in_location": "Middlesbrough",
     "found_with_query": "plant northeast"
   },
   {
@@ -2853,7 +3951,16 @@
     "lat": 54.527722,
     "lng": -1.305674,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@kubotakeys.co.uk",
+    "emails": [
+      "info@kubotakeys.co.uk",
+      "ianidor@me.com"
+    ],
+    "description": "Kubota Keys specialises in providing complete key replacement services for Kubota mini diggers, offering fast, reliable solutions to keep your machinery running without delays. Whether you’ve lost your keys, need spares, or require programming for advanced key systems, we’ve got you covered. Our...",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "North Tyne Tracked Dumper Hire",
@@ -2865,12 +3972,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Machine Construction",
     "lat": 55.083291,
     "lng": -2.217114,
-    "found_in_location": "Hexham",
-    "found_with_query": "plant northeast"
+    "found_in_location": "Northumberland",
+    "found_with_query": "plant northeast",
+    "email": "steven@sjpigg.co.uk",
+    "emails": [
+      "steven@sjpigg.co.uk"
+    ],
+    "description": "Discover unique tracked dumper hire services in North East England. Contact us for specifications and hire details. Quality equipment for your construction needs.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Durham Rent a Skip",
@@ -2882,12 +3997,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Household waste recycling centre",
     "lat": 54.793276,
     "lng": -1.582254,
     "found_in_location": "Durham",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@ukrentaskip.co.uk",
+    "emails": [
+      "info@ukrentaskip.co.uk"
+    ],
+    "description": "Discover skip hire services in Durham tailored to streamline your waste disposal. Our reliable solutions ensure hassle-free debris removal."
   },
   {
     "name": "G A Smith Ltd",
@@ -2904,7 +4024,17 @@
     "lat": 54.973648,
     "lng": -1.445755,
     "found_in_location": "South Shields",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "info@gasmithplant.co.uk",
+    "emails": [
+      "info@gasmithplant.co.uk",
+      "emma.linskey@gasmithplant.co.uk"
+    ],
+    "description": "North East based company specialising in plant hire, bulk handling, bulk haulage and earthworks, operating from 3 depots – Birtley, Cramlington and Felton.",
+    "services": [
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "MSD Cranes",
@@ -2921,6 +4051,16 @@
     "lat": 54.535777,
     "lng": -1.545542,
     "found_in_location": "Darlington",
-    "found_with_query": "plant northeast"
+    "found_with_query": "plant northeast",
+    "email": "office@synergy-lifting.co.uk",
+    "emails": [
+      "office@synergy-lifting.co.uk"
+    ],
+    "description": "MSD Crane Hire provide crane hire, contract lifts, machine movements, and more site services on both small and large scale projects.",
+    "services": [
+      "Forklift",
+      "Generator",
+      "Telehandler"
+    ]
   }
 ]

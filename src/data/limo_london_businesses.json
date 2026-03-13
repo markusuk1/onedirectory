@@ -13,8 +13,16 @@
     "types": "Chauffeur service",
     "lat": 51.444041,
     "lng": 0.087992,
-    "found_in_location": "Sidcup",
-    "found_with_query": "limo london"
+    "found_in_location": "Bromley",
+    "found_with_query": "limo london",
+    "description": "Three Kings Wedding Cars, in Sidcup, Kent, provide a prestigious, chauffeur driven, luxury car service with professional drivers for that special occasion.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "London Bus 4 Hire - London",
@@ -30,8 +38,17 @@
     "types": "Bus company",
     "lat": 51.462896,
     "lng": -0.187891,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "info@londonbus4hire.com",
+    "emails": [
+      "info@londonbus4hire.com"
+    ],
+    "description": "We offer vintage Routemaster London Bus hire. Our buses can be used for weddings, proms, corporate hires etc. We also have wedding cars for hire.",
+    "services": [
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Banana Bus",
@@ -43,12 +60,20 @@
     "rating": 5.0,
     "total_reviews": 162,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20133:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"10\u202fam\u20133\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–3:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"10 am–3 pm\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
     "types": "Children's party service",
     "lat": 51.585522,
     "lng": -0.204139,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Camden",
+    "found_with_query": "limo london",
+    "email": "hello@bananabus.co.uk",
+    "emails": [
+      "hello@bananabus.co.uk"
+    ],
+    "description": "Kids Are Going To Go Bananas For Our Monkey Themed Banana Bus. Next Stop London! Our Childrens Party Bus Is Perfect For Birthday Parties, School Events & More!",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Just Wedding Cars",
@@ -64,8 +89,25 @@
     "types": "Wedding service",
     "lat": 51.563284,
     "lng": 0.132293,
-    "found_in_location": "Dagenham",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@justweddingcars.co.uk",
+    "emails": [
+      "info@justweddingcars.co.uk",
+      "contact@justweddingcards.co.uk"
+    ],
+    "description": "Wedding cars for hire across the UK. Luxury Rolls Royce, vintage & modern vehicles with professional chauffeurs. 20+ years experience. Get a quote.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Nandra Chauffeur Services",
@@ -81,8 +123,21 @@
     "types": "Chauffeur service",
     "lat": 51.419797,
     "lng": 0.255461,
-    "found_in_location": "Dartford",
-    "found_with_query": "limo london"
+    "found_in_location": "Bromley",
+    "found_with_query": "limo london",
+    "email": "nandrachauffeur@gmail.com",
+    "emails": [
+      "nandrachauffeur@gmail.com",
+      "nandraservices@outlook.com"
+    ],
+    "description": "Nandra Chauffeur Services provides professional executive chauffeur transport services. Based in Bexleyheath, Kent. Your local 5 star transport service provider",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Luxlane London",
@@ -98,8 +153,21 @@
     "types": "Transportation service",
     "lat": 51.512638,
     "lng": -0.040871,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Hackney",
+    "found_with_query": "limo london",
+    "email": "bookings@luxlanelondon.com",
+    "emails": [
+      "bookings@luxlanelondon.com",
+      "enquiries@luxlanegroup.co.uk"
+    ],
+    "description": "Experience the ultimate in luxury transportation with Luxlane Chauffeurs. Hire premium cars for weddings, Airport Transfers, events, sports, or business in London. Our fleet of exotic vehicles and professional drivers will make your special occasion unforgettable.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The White Van Wedding Company",
@@ -111,12 +179,24 @@
     "rating": 5.0,
     "total_reviews": 71,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 51.465787,
     "lng": 0.116,
-    "found_in_location": "Welling",
-    "found_with_query": "limo london"
+    "found_in_location": "Greenwich",
+    "found_with_query": "limo london",
+    "email": "enquiries@thewhitevanwedding.com",
+    "emails": [
+      "enquiries@thewhitevanwedding.com"
+    ],
+    "description": "Arrive in style with our iconic VW campervan wedding hire. Chauffeur-driven, photo-ready and perfect for relaxed, unforgettable wedding days across Kent, Essex & London.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "A.T Beauford Wedding Cars London",
@@ -128,12 +208,26 @@
     "rating": 5.0,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"10\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.610181,
     "lng": -0.158628,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Barnet",
+    "found_with_query": "limo london",
+    "email": "info@atbeauford.co.uk",
+    "emails": [
+      "info@atbeauford.co.uk"
+    ],
+    "description": "Wedding Car Hire London with luxury vintage & Rolls Royce cars. Chauffeur driven, immaculately presented and trusted across Greater London.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "VIP Luxury Chauffeur",
@@ -149,8 +243,25 @@
     "types": "Limousine service",
     "lat": 51.514842,
     "lng": -0.463081,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "limo london",
+    "email": "info@vipluxurychauffeur.com",
+    "emails": [
+      "info@vipluxurychauffeur.com",
+      "accounts@vipluxurychauffeur.com"
+    ],
+    "description": "Best Chauffeur Driven Executive Car Service Company London. Find & Book Your Ride From Airport Transfer, Group Travel, Event Hire To Special Occasion & Executive Chauffeur Service. Get Fixed Fares At Low Cost & Affordable Prices With VIP Luxury Chauffeur. Book Online Today !",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Phantom Hire London",
@@ -166,8 +277,19 @@
     "types": "Limousine service",
     "lat": 51.525056,
     "lng": -0.265621,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@phantomhirelondon.co.uk",
+    "emails": [
+      "info@phantomhirelondon.co.uk"
+    ],
+    "description": "A Rolls‑Royce Chauffeur like no other. Serving clients from London including Buckinghamshire, High Wycombe, Slough, Luton, Oxfordshire, Southall, West London, Reading and we can take you to any of the wedding venues within these areas. Phantom Hire London recognise that every occasion is a...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "LDNChauffeur Worldwide",
@@ -183,8 +305,19 @@
     "types": "Limousine service",
     "lat": 51.51758,
     "lng": -0.180429,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "info@ldnchauffeur.co.uk",
+    "emails": [
+      "info@ldnchauffeur.co.uk",
+      "career@ldnchauffeur.co.uk"
+    ],
+    "description": "Premium chauffeur and concierge service based in London, delivering bespoke limousine transfers, private jet ground support, and elite global transport solutions with absolute discretion and excellence.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "FLS Chauffeurs",
@@ -201,7 +334,20 @@
     "lat": 51.568491,
     "lng": 0.118088,
     "found_in_location": "Romford",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "example@gmail.com",
+    "emails": [
+      "example@gmail.com"
+    ],
+    "description": "FLS Chauffeurs offers luxury chauffeur service in London with professional drivers andpremium vehicles. Book airport transfers, VIP chauffeur hire, or hourly service near you.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "JV Chauffeur Services",
@@ -213,12 +359,20 @@
     "rating": 5.0,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–8 pm\"],\"Monday\":[\"8:30 am–8 pm\"],\"Saturday\":[\"8:30 am–8 pm\"],\"Sunday\":[\"8:30 am–8 pm\"],\"Thursday\":[\"8:30 am–8 pm\"],\"Tuesday\":[\"8:30 am–8 pm\"],\"Wednesday\":[\"8:30 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.582668,
     "lng": 0.183854,
     "found_in_location": "Romford",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@jvchauffeur.com",
+    "emails": [
+      "info@jvchauffeur.com"
+    ],
+    "description": "Based in Essex and established in 2001, J V Chauffeur Services provide ground transportation anywhere in the United Kingdom. Our professionally trained chauffeurs use the finest executive cars and people carriers, available at competitive prices.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Mercedes Chauffeur Hire",
@@ -230,12 +384,25 @@
     "rating": 5.0,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 51.51837,
     "lng": -0.112311,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "info@mercedeschauffeurhire.co.uk",
+    "emails": [
+      "info@mercedeschauffeurhire.co.uk"
+    ],
+    "description": "Mercedes Chauffeur Hire provides the finest chauffeur service in London and UK. Efficiency, Luxury, Etiquette - the kind of service you have forgotten to expect",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lady R Wedding & Chauffeur Hire",
@@ -247,12 +414,23 @@
     "rating": 5.0,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"12\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"12–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.445518,
     "lng": 0.240801,
-    "found_in_location": "Dartford",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@ladyr.co.uk",
+    "emails": [
+      "info@ladyr.co.uk"
+    ],
+    "description": "Luxury wedding car hire in Kent with chauffeur-driven Rolls-Royce and Bentley. Boutique, owner-led service delivering refined wedding journeys.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "First Choice Limo Hire",
@@ -264,12 +442,22 @@
     "rating": 5.0,
     "total_reviews": 36,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–6:30 pm\"],\"Wednesday\":[\"10 am–6:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.651404,
     "lng": 0.0831,
-    "found_in_location": "Loughton",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@firstchoicelimohire.com",
+    "emails": [
+      "info@firstchoicelimohire.com",
+      "%20info@firstchoicelimohire.com"
+    ],
+    "description": "Enjoy the comfort and style of our limousines for all occasions. First Choice Limo Hire offers high quality limousine hire services at competitive prices. First Choice Limo Hire provides the only ultimate limousine hire service in the UK. Our customers are treated to a world of luxury, every...",
+    "services": [
+      "Chauffeur Service",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "The Stretch Limo Co",
@@ -281,12 +469,19 @@
     "rating": 5.0,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.292276,
     "lng": -0.086964,
-    "found_in_location": "Caterham",
-    "found_with_query": "limo london"
+    "found_in_location": "Croydon",
+    "found_with_query": "limo london",
+    "description": "Since 1998 our door to door limo service has enabled our customers to travel in style. Make your special day or night truly unforgettable. Contact us!",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Voyage London",
@@ -302,8 +497,17 @@
     "types": "Chauffeur service",
     "lat": 51.545247,
     "lng": -0.00039,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "email": "hello@voyage.london",
+    "emails": [
+      "hello@voyage.london"
+    ],
+    "description": "Experience opulence in motion with our premium chauffeuring services, featuring the iconic Rolls-Royce Phantom. Elevate your journey. Elevate your style.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "CB Wedding Cars",
@@ -315,12 +519,20 @@
     "rating": 5.0,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.613134,
     "lng": -0.276998,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Wembley",
+    "found_with_query": "limo london",
+    "email": "cb.weddingcars@gmail.com",
+    "emails": [
+      "cb.weddingcars@gmail.com"
+    ],
+    "description": "On CB Wedding Cars we provide a professional and personal wedding car hire to make your special day day truly memorable.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "London Elite Chauffeurs",
@@ -332,7 +544,7 @@
     "rating": 5.0,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7\u202fam\u201310\u202fpm\"],\"Sunday\":[\"7\u202fam\u201310\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"7 am–10 pm\"],\"Sunday\":[\"7 am–10 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.379482,
     "lng": 0.043715,
@@ -349,12 +561,23 @@
     "rating": 5.0,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 51.550078,
     "lng": 0.047461,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "email": "info@luxechauffeurs.com",
+    "emails": [
+      "info@luxechauffeurs.com"
+    ],
+    "description": "Luxe Chauffeurs is one of the leading providers of luxury chauffeur services in London. We have a range of prestige vehicles for every need including Rolls Royce Phantom, Hummer Limousines, Mercedes Benz S-Class and the Vintage Viscount for our Brides. Whether your special day is a wedding or...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Langley Chauffeurs",
@@ -370,7 +593,7 @@
     "types": "Chauffeur service",
     "lat": 51.366137,
     "lng": 0.004161,
-    "found_in_location": "West Wickham",
+    "found_in_location": "Bromley",
     "found_with_query": "limo london"
   },
   {
@@ -383,12 +606,24 @@
     "rating": 5.0,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 51.457595,
     "lng": 0.228772,
-    "found_in_location": "Dartford",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "manjee_malhotra26@yahoo.com",
+    "emails": [
+      "manjee_malhotra26@yahoo.com",
+      "theauburnweb@proton.me"
+    ],
+    "description": "Experience luxury Limousine Hire London with Mayfair Limousines. Weddings, proms, corporate events, and airport transfers, book today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Airport Car Service Ltd",
@@ -404,8 +639,17 @@
     "types": "Taxi service",
     "lat": 51.405571,
     "lng": -0.137102,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Croydon",
+    "found_with_query": "limo london",
+    "email": "admin@airportcs.co.uk",
+    "emails": [
+      "admin@airportcs.co.uk"
+    ],
+    "description": "Airport Car Service Ltd is a luxury car hire company providing Croydon airport cab service to Heathrow, Gatwick, Stansted, London City & Luton. Open 24/7!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "LuxeLimo - Chauffeur Service London",
@@ -421,8 +665,19 @@
     "types": "Chauffeur service",
     "lat": 51.446595,
     "lng": -0.236206,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Wimbledon",
+    "found_with_query": "limo london",
+    "email": "info@luxelimo.co.uk",
+    "emails": [
+      "info@luxelimo.co.uk"
+    ],
+    "description": "Looking for a premium chauffeur service in London, UK? Luxelimo brings you the best London chauffeurs for a luxury travel.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "DANMAC COACHES",
@@ -434,12 +689,21 @@
     "rating": 5.0,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"10 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.372422,
     "lng": -0.129483,
     "found_in_location": "Croydon",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@danmaccoaches.com",
+    "emails": [
+      "info@danmaccoaches.com",
+      "danmaccoaches@outlook.com"
+    ],
+    "description": "Make Danmac Coaches your first choice for reliable minicoach and minibus hire. Contact us to discuss your requirements.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mark Clover Wedding Cars",
@@ -451,12 +715,22 @@
     "rating": 5.0,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.350344,
     "lng": -0.501335,
-    "found_in_location": "Addlestone",
-    "found_with_query": "limo london"
+    "found_in_location": "Kingston",
+    "found_with_query": "limo london",
+    "email": "info@markcloverweddingcars.com",
+    "emails": [
+      "info@markcloverweddingcars.com"
+    ],
+    "description": "Mark Clover Wedding Cars' collection of classic and vintage cars provides exceptional quality wedding car hire throughout Surrey.",
+    "services": [
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Deluxe Drive London - Premium Chauffeur Service in London.",
@@ -468,12 +742,21 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"10:30 am–5 pm\"],\"Thursday\":[\"8 am–11:30 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.495604,
     "lng": -0.101484,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "bookings@deluxedrivelondon.com",
+    "emails": [
+      "bookings@deluxedrivelondon.com"
+    ],
+    "description": "Book a luxury chauffeur service in London for airport transfers, corporate events, and special occasions. Experience comfort and style with professional drivers.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "BAR Minibuses",
@@ -489,7 +772,7 @@
     "types": "Coach and minibus hire",
     "lat": 51.437967,
     "lng": -0.51453,
-    "found_in_location": "Staines",
+    "found_in_location": "Hounslow",
     "found_with_query": "limo london"
   },
   {
@@ -502,12 +785,22 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 51.38253,
     "lng": -0.042607,
     "found_in_location": "Croydon",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "morsecars@gmail.com",
+    "emails": [
+      "morsecars@gmail.com"
+    ],
+    "description": "Elegant classic wedding car hire in South London, Kent & Sussex, with professional chauffeur services and customised wedding transportation options.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bromley Mini Coaches",
@@ -524,7 +817,16 @@
     "lat": 51.410387,
     "lng": 0.024587,
     "found_in_location": "Bromley",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "bromleyminicoaches@hotmail.co.uk",
+    "emails": [
+      "bromleyminicoaches@hotmail.co.uk"
+    ],
+    "description": "Mini coach hire & mini bus hire Covering Bromley, Beckenham, West wickham, Chislehurst and Orpington. Let us get you to your destination comfortably and safely We are a family run business and have been operating in the bromley and surrounding areas for over 20 years.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Rickshaw Hire London",
@@ -540,8 +842,13 @@
     "types": "Media company",
     "lat": 51.52418,
     "lng": -0.112893,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "ukrickshaws@gmail.com",
+    "emails": [
+      "ukrickshaws@gmail.com"
+    ],
+    "description": "Rickshaw Hire specialist London. Rickshaw Advertising, Shuttle service Films and Wedding TukTuk. Fast Service, ExCel, Olympia London, Wimbledon and the UK."
   },
   {
     "name": "Mash Limousines",
@@ -553,12 +860,22 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.384775,
     "lng": -0.089802,
     "found_in_location": "Croydon",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "mashlimousines@outlook.com",
+    "emails": [
+      "mashlimousines@outlook.com"
+    ],
+    "description": "We are a family run business which sets to achieve transportation by offering our clientele the most luxurious, reliable and safe rides around town.",
+    "services": [
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "London Limo Hire",
@@ -574,8 +891,20 @@
     "types": "Limousine service",
     "lat": 51.375226,
     "lng": -0.284465,
-    "found_in_location": "Surbiton",
-    "found_with_query": "limo london"
+    "found_in_location": "Kingston",
+    "found_with_query": "limo london",
+    "description": "Find your perfect Hummer Limo Hire London! We offer the UK's biggest selection of stretch and 4x4 models in white, silver, black, pink, and more.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Surrey Limo Hire",
@@ -591,8 +920,18 @@
     "types": "Limousine service",
     "lat": 51.516134,
     "lng": -0.291131,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@booklimo.co.uk",
+    "emails": [
+      "info@booklimo.co.uk",
+      "booklimolondon@gmail.com"
+    ],
+    "description": "Get the luxurious Limousine transport in LONDON feeling with our wide range of finest limousine cars at SURREY LIMO HIRE. Book Now at +44 7889889886",
+    "services": [
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Limo Hire London - L.A. Stretch Limos",
@@ -608,8 +947,18 @@
     "types": "Limousine service",
     "lat": 51.517909,
     "lng": -0.125526,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "description": "Experience first-class travel with our luxury limo hire in London. Perfect for weddings, proms, airport transfers & corporate events. Arrive in style—book now!",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "party bus",
@@ -625,8 +974,21 @@
     "types": "Car rental company",
     "lat": 51.563893,
     "lng": -0.203757,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Camden",
+    "found_with_query": "limo london",
+    "email": "booklimolondon@gmail.com",
+    "emails": [
+      "booklimolondon@gmail.com"
+    ],
+    "description": "Luxury with affordability is our motto. We aim to enhance the experience of your mega-events manifold by giving you Limousine service in London and its surrounding areas.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Knights Wedding Cars",
@@ -638,12 +1000,18 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 51.370117,
     "lng": -0.264268,
-    "found_in_location": "Worcester Park",
-    "found_with_query": "limo london"
+    "found_in_location": "Kingston",
+    "found_with_query": "limo london",
+    "description": "Classic Wedding Transport from Knights Wedding Cars. Covering Surrey and the South East of England. Transport as unique as your day.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ashanti Limousine Services",
@@ -655,7 +1023,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"11\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–7 pm\"],\"Monday\":[\"9:30 am–7 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"11 am–5 pm\"],\"Thursday\":[\"9:30 am–7 pm\"],\"Tuesday\":[\"9:30 am–7 pm\"],\"Wednesday\":[\"9:30 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.385609,
     "lng": -0.074838,
@@ -676,8 +1044,20 @@
     "types": "Wedding service",
     "lat": 51.478456,
     "lng": -0.189111,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "john@englishweddingcars.com",
+    "emails": [
+      "john@englishweddingcars.com",
+      "john@doe.com"
+    ],
+    "description": "Welcome to English Wedding Cars At English Wedding Cars, we believe your entrance should be as unforgettable as your vows. Our collection of vintage and classic cars are lovingly maintained and chauffeur-driven to provide a truly luxurious experience on your…",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo hire in London",
@@ -689,12 +1069,29 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.396644,
     "lng": -0.378456,
-    "found_in_location": "West Molesey",
-    "found_with_query": "limo london"
+    "found_in_location": "Kingston",
+    "found_with_query": "limo london",
+    "email": "info@limohire-in-london.co.uk",
+    "emails": [
+      "info@limohire-in-london.co.uk"
+    ],
+    "description": "For limo hire services in London, Hummer and stretch limousines. We provide the cheapest limo hire prices for the best service.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "JB Limousines",
@@ -710,7 +1107,7 @@
     "types": "Limousine service",
     "lat": 51.413578,
     "lng": 0.108852,
-    "found_in_location": "Orpington",
+    "found_in_location": "Bromley",
     "found_with_query": "limo london"
   },
   {
@@ -723,12 +1120,21 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 52.820767,
     "lng": -2.114869,
-    "found_in_location": "Stafford",
-    "found_with_query": "limo london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "limo london",
+    "email": "info@staffordweddingcars.co.uk",
+    "emails": [
+      "info@staffordweddingcars.co.uk"
+    ],
+    "description": "Our gorgeous 6 & 7 seater chauffeur driven Vintage style Wedding Cars are available in Stafford, Staffordshire to transport the Bride & Groom on their first journey as a married couple. Get an Instant Wedding Car Hire Quote for your seven seater wedding transport.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Aspire Prestige",
@@ -744,8 +1150,19 @@
     "types": "Chauffeur service",
     "lat": 51.512513,
     "lng": -0.149834,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "contact@aspireprestige.com",
+    "emails": [
+      "contact@aspireprestige.com",
+      "accounts@aspireprestige.com"
+    ],
+    "description": "Aspire Prestige is London’s leading luxury chauffeur service, offering Rolls Royce, Mercedes, and VIP transfers for business, weddings, and airport travel.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Premier Carriage Wedding Cars",
@@ -757,12 +1174,27 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 51.516537,
     "lng": -0.093935,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "enquiries@premiercarriage.co.uk",
+    "emails": [
+      "enquiries@premiercarriage.co.uk"
+    ],
+    "description": "Choose a luxe wedding car for hire in London. Over 23,500 couples chauffeured. Classic, modern &amp; novelty vehicles. Call Premier Carriage for a bespoke package.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Hire North London",
@@ -795,8 +1227,22 @@
     "types": "Limousine service",
     "lat": 51.516134,
     "lng": -0.291131,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@limohireweddings.co.uk",
+    "emails": [
+      "info@limohireweddings.co.uk",
+      "info@booklimo.co.uk"
+    ],
+    "description": "You Will Get The Best Prices & Vehicles, Along With Friendly, Helpful Advice!",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "AC Limo",
@@ -825,11 +1271,11 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"12\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Sunday\":[\"10\u202fpm\u201312\u202fam\"],\"Thursday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9:30 pm\"],\"Monday\":[\"12 am–9:30 pm\"],\"Saturday\":[\"9 am–9:30 pm\"],\"Sunday\":[\"10 pm–12 am\"],\"Thursday\":[\"9 am–9:30 pm\"],\"Tuesday\":[\"9 am–9:30 pm\"],\"Wednesday\":[\"9 am–9:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.340162,
     "lng": 0.052544,
-    "found_in_location": "Orpington",
+    "found_in_location": "Bromley",
     "found_with_query": "limo london"
   },
   {
@@ -846,7 +1292,7 @@
     "types": "Wedding service",
     "lat": 51.590988,
     "lng": 0.068152,
-    "found_in_location": "Ilford",
+    "found_in_location": "Stratford",
     "found_with_query": "limo london"
   },
   {
@@ -859,12 +1305,30 @@
     "rating": 4.9,
     "total_reviews": 895,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–7 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.396644,
     "lng": -0.378456,
-    "found_in_location": "West Molesey",
-    "found_with_query": "limo london"
+    "found_in_location": "Kingston",
+    "found_with_query": "limo london",
+    "email": "enquiries@limotek.co.uk",
+    "emails": [
+      "enquiries@limotek.co.uk"
+    ],
+    "description": "Limotek offer limousine hire, wedding car hire and more nationwide. Call Limotek today to book.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "London Bus Hire",
@@ -880,8 +1344,13 @@
     "types": "Coach and minibus hire",
     "lat": 51.504407,
     "lng": -0.452094,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "limo london",
+    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also",
+    "services": [
+      "Airport Transfer",
+      "Party Bus"
+    ]
   },
   {
     "name": "Wedding Cars for Hire London",
@@ -897,8 +1366,23 @@
     "types": "Car rental company",
     "lat": 51.510143,
     "lng": -0.044448,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Hackney",
+    "found_with_query": "limo london",
+    "email": "info@weddingcarsforhire.com",
+    "emails": [
+      "info@weddingcarsforhire.com"
+    ],
+    "description": "Wedding Car Hire offer a professional, friendly, courteous Wedding car hire London service. Luxury fleet of Wedding cars for hire London",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "RR Phantom Cars",
@@ -910,12 +1394,20 @@
     "rating": 4.9,
     "total_reviews": 242,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Car rental company",
     "lat": 51.493079,
     "lng": -0.37054,
-    "found_in_location": "Southall",
-    "found_with_query": "limo london"
+    "found_in_location": "Hounslow",
+    "found_with_query": "limo london",
+    "description": "Wedding Car Hire in West London. The best for wedding chauffeur hire in West London with a luxury fleet of cars for your special day. RR Phantom Cars specialises in Rolls Royce Wedding Cars.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Palmer & Martin Vehicle Hire ltd - Bishop's Stortford",
@@ -927,12 +1419,13 @@
     "rating": 4.9,
     "total_reviews": 237,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"9\u20139:30\u202fam\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"9–9:30 am\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 51.858261,
     "lng": 0.16621,
-    "found_in_location": "Bishop's Stortford",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "description": "Providing a one-stop-shop for all of your Hire requirements."
   },
   {
     "name": "Minibus It",
@@ -949,7 +1442,16 @@
     "lat": 51.570037,
     "lng": 0.184686,
     "found_in_location": "Romford",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@minibus-it.co.uk",
+    "emails": [
+      "info@minibus-it.co.uk"
+    ],
+    "description": "Reliable Coach & Minibus Hire with driver Essex. Various Minibus Sizes Available. Call us on 020 3576 2009 for bookings.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Imperial Ride - VIP Chauffeur Service London UK",
@@ -966,7 +1468,18 @@
     "lat": 51.535839,
     "lng": -0.459574,
     "found_in_location": "Uxbridge",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@imperialride.com",
+    "emails": [
+      "info@imperialride.com",
+      "hadi@imperialride.com"
+    ],
+    "description": "Experience premium chauffeur services in London UK with our top-rated chauffeurs, offering comfort, reliability, and luxury for all your transportation needs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Party Bus London",
@@ -982,8 +1495,18 @@
     "types": "Bus company",
     "lat": 51.523856,
     "lng": -0.140502,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Camden",
+    "found_with_query": "limo london",
+    "email": "info@londonclubsbusparty.com",
+    "emails": [
+      "info@londonclubsbusparty.com"
+    ],
+    "description": "TWO HOURS DOUBLE DECKER 2 HOURS HIRE",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "JD Prestige Cars",
@@ -995,12 +1518,27 @@
     "rating": 4.9,
     "total_reviews": 111,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"7\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"7 am–11 pm\"],\"Saturday\":[\"7 am–11 pm\"],\"Sunday\":[\"7 am–11 pm\"],\"Thursday\":[\"7 am–11 pm\"],\"Tuesday\":[\"7 am–11 pm\"],\"Wednesday\":[\"7 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 51.456109,
     "lng": -0.426816,
-    "found_in_location": "Feltham",
-    "found_with_query": "limo london"
+    "found_in_location": "Hounslow",
+    "found_with_query": "limo london",
+    "email": "info@jdprestigecars.com",
+    "emails": [
+      "info@jdprestigecars.com"
+    ],
+    "description": "Hire luxury chauffeur cars for weddings near you with JD Prestige Cars. Offering executive cars and luxury cars for rental in London for your special occasions.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "EG Chauffeurs - London & UK",
@@ -1012,12 +1550,22 @@
     "rating": 4.9,
     "total_reviews": 110,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.463616,
     "lng": -0.302193,
-    "found_in_location": "Richmond",
-    "found_with_query": "limo london"
+    "found_in_location": "Hounslow",
+    "found_with_query": "limo london",
+    "email": "info@egchauffeurs.com",
+    "emails": [
+      "info@egchauffeurs.com"
+    ],
+    "description": "London's No.1 rated chauffeur company for business and leisure travel. Executive chauffeur services and luxury car hire in London and UK-Wide. Book Online!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "HR Carriages",
@@ -1033,8 +1581,16 @@
     "types": "Chauffeur service",
     "lat": 51.509361,
     "lng": -0.146599,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "description": "For professional luxury chauffeur service London with cars at affordable prices. we have a large luxury fleet of cars and private jets for you to choose from.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Supercar Hire"
+    ]
   },
   {
     "name": "American Limousines LTD",
@@ -1063,12 +1619,21 @@
     "rating": 4.9,
     "total_reviews": 55,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.571222,
     "lng": 0.185191,
     "found_in_location": "Romford",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@eliteessexminibuses.co.uk",
+    "emails": [
+      "info@eliteessexminibuses.co.uk"
+    ],
+    "description": "24 hour Minibus Hire & Coach Hire Essex. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 07599 754 444.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Darsons Minibuses",
@@ -1084,8 +1649,12 @@
     "types": "Coach and minibus hire",
     "lat": 51.496797,
     "lng": -0.017722,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Greenwich",
+    "found_with_query": "limo london",
+    "description": "Time of pick up*-00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:0006:3007:0007:3008:0008:3009:0009:3010:0010:3011:0011:3012:0012:3013:0013:3014:0014:3015:0015:3016:0016:3017:0017:3018:0018:3019:0019:3020:0020:3021:0021:3022:0022:3023:0023:30",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Elegance Wedding Cars",
@@ -1097,12 +1666,19 @@
     "rating": 4.9,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.583045,
     "lng": 0.03341,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "Elegance Wedding Cars Wedding Car Hire London. A family run business with Vintage & Classic Wedding Cars in London, East London, Romford.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GB Limousines",
@@ -1114,12 +1690,24 @@
     "rating": 4.9,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.651953,
     "lng": -0.047756,
     "found_in_location": "Enfield",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@gblimousines.com",
+    "emails": [
+      "info@gblimousines.com"
+    ],
+    "description": "GB Limousines provides the best Wedding Limo Hire, Chrysler limos, North London, Essex, Brentwood, Broxbourne, Potters Bar, Epping, Barnet",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Platinum Ride Limo",
@@ -1131,12 +1719,24 @@
     "rating": 4.9,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u201311\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–10 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–11 pm\"],\"Sunday\":[\"10:30 am–7 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.400439,
     "lng": -0.12523,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Croydon",
+    "found_with_query": "limo london",
+    "email": "sales@platinumride.co.uk",
+    "emails": [
+      "sales@platinumride.co.uk"
+    ],
+    "description": "Hire hummer, pink, stretch limousines in Croydon, London, Surrey, Bromley, Brighton and Guildford. We offer limos to hire for visits south & central London, airport, markets & many more.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Gold Chauffeur Services",
@@ -1148,15 +1748,29 @@
     "rating": 4.9,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–5:30 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Transportation service",
     "lat": 51.551691,
     "lng": -0.481719,
     "found_in_location": "Uxbridge",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@goldweddingcars.co.uk",
+    "emails": [
+      "info@goldweddingcars.co.uk"
+    ],
+    "description": "Gold Wedding Cars are a family run business established for 25 years that specialise in wedding cars for hire. Friendly and professional, with reliability and customer care as our number one priority – We really do take the time and effort required to ensure that you will receive the best...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
-    "name": "London prestige Chauffeurs, Luxury chauffeur Service, Chauffeur airport transfers \u062a\u0623\u062c\u064a\u0631 \u0633\u064a\u0627\u0631\u0627\u062a \u0645\u0639 \u0633\u0627\u0626\u0642",
+    "name": "London prestige Chauffeurs, Luxury chauffeur Service, Chauffeur airport transfers تأجير سيارات مع سائق",
     "address": "52 Westbourne Terrace, London, W2 3UJ, GB",
     "phone": "07875 127110",
     "international_phone": "07875 127110",
@@ -1169,8 +1783,19 @@
     "types": "Chauffeur service",
     "lat": 51.514877,
     "lng": -0.178583,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "email@domain.com",
+    "emails": [
+      "email@domain.com"
+    ],
+    "description": "Personal chauffeur driven luxury car hire services from prestige chauffeurs. In London & the UK for business, airport transfers & special occasions.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Herts & Essex Wedding Cars On Budget",
@@ -1182,11 +1807,11 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7:30 pm\"],\"Monday\":[\"9 am–7:30 pm\"],\"Saturday\":[\"9 am–7:30 pm\"],\"Sunday\":[\"9 am–7:30 pm\"],\"Thursday\":[\"9 am–7:30 pm\"],\"Tuesday\":[\"9 am–7:30 pm\"],\"Wednesday\":[\"9 am–7:30 pm\"]}",
     "types": "Wedding service",
     "lat": 51.681659,
     "lng": -0.042813,
-    "found_in_location": "Hoddesdon",
+    "found_in_location": "Enfield",
     "found_with_query": "limo london"
   },
   {
@@ -1199,12 +1824,23 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9:30 am–9 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.512696,
     "lng": -0.321037,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@booklimo.co.uk",
+    "emails": [
+      "info@booklimo.co.uk",
+      "booklimolondon@gmail.com"
+    ],
+    "description": "Limos Hire London offers Luxury and finest Hire Services of Limousine, wedding Limo, Party bus Limo, Hummer Limo in UK. Call Us at +44 7889889886",
+    "services": [
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Big Baller Bus",
@@ -1220,8 +1856,22 @@
     "types": "Limousine service",
     "lat": 51.398468,
     "lng": 0.30059,
-    "found_in_location": "Longfield",
-    "found_with_query": "limo london"
+    "found_in_location": "Bromley",
+    "found_with_query": "limo london",
+    "email": "info@bigballerbus.com",
+    "emails": [
+      "info@bigballerbus.com"
+    ],
+    "description": "Kick off your celebration with our premium party bus hire services. Experience luxury and comfort while traveling with friends. Book now at Big Baller Bus!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Champagne Tours London | Party Bus London",
@@ -1233,12 +1883,21 @@
     "rating": 4.8,
     "total_reviews": 195,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20133\u202fam\"],\"Monday\":[\"8\u202fam\u20133\u202fam\"],\"Saturday\":[\"8\u202fam\u20133\u202fam\"],\"Sunday\":[\"8\u202fam\u20133\u202fam\"],\"Thursday\":[\"8\u202fam\u20133\u202fam\"],\"Tuesday\":[\"8\u202fam\u20133\u202fam\"],\"Wednesday\":[\"8\u202fam\u20133\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–3 am\"],\"Monday\":[\"8 am–3 am\"],\"Saturday\":[\"8 am–3 am\"],\"Sunday\":[\"8 am–3 am\"],\"Thursday\":[\"8 am–3 am\"],\"Tuesday\":[\"8 am–3 am\"],\"Wednesday\":[\"8 am–3 am\"]}",
     "types": "Events Venue",
     "lat": 51.514267,
     "lng": -0.111757,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "enquiries@champagnetours.london",
+    "emails": [
+      "enquiries@champagnetours.london",
+      "help@buses4homeless.org"
+    ],
+    "description": "Luxury Party Bus Hire London, from £45pp. Host up to 70 guests in style. Perfect for Private, Corporate events and so much more. Get your FREE quote now.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Fox Limousines",
@@ -1250,12 +1909,26 @@
     "rating": 4.8,
     "total_reviews": 183,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 51.393702,
     "lng": -0.087912,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Croydon",
+    "found_with_query": "limo london",
+    "email": "info@foxlimousines.co.uk",
+    "emails": [
+      "info@foxlimousines.co.uk"
+    ],
+    "description": "Choose Fox Limousines for limo hire in Sussex, Surrey & across London. Lady drivers for children’s parties, hen nights, hummer hire & a range of other services.",
+    "services": [
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "OH Snazzy - Mobile Spa Party Bus",
@@ -1267,12 +1940,20 @@
     "rating": 4.8,
     "total_reviews": 94,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20135\u202fpm\"],\"Monday\":[\"12\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"12\u20135\u202fpm\"],\"Tuesday\":[\"12\u20135\u202fpm\"],\"Wednesday\":[\"12\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–5 pm\"],\"Monday\":[\"12–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"12–5 pm\"],\"Tuesday\":[\"12–5 pm\"],\"Wednesday\":[\"12–5 pm\"]}",
     "types": "Party planner",
     "lat": 51.376675,
     "lng": 0.047473,
     "found_in_location": "Bromley",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@snazzyspabus.co.uk",
+    "emails": [
+      "info@snazzyspabus.co.uk"
+    ],
+    "description": "Oh Snazzy Party Buses – Kids Spa Party Bus Near Me! 🎉 Luxury spa, UV glow & crafty fun at your doorstep. Book your child’s dream party today",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Luxury Minibus London",
@@ -1284,12 +1965,20 @@
     "rating": 4.8,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.503989,
     "lng": -0.451816,
-    "found_in_location": "West Drayton",
-    "found_with_query": "limo london"
+    "found_in_location": "Uxbridge",
+    "found_with_query": "limo london",
+    "email": "info@luxuryminibuslondon.co.uk",
+    "emails": [
+      "info@luxuryminibuslondon.co.uk"
+    ],
+    "description": "Luxury Minibus Hire London/UK with Driver! Our Mercedes Luxury Minibuses hires with friendly drivers, there around London and UK Tours or Corporate VIP events.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Crystal Chauffeurs",
@@ -1301,12 +1990,21 @@
     "rating": 4.8,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Car rental company",
     "lat": 51.510623,
     "lng": -0.145994,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "description": "Mayfair, Kensington, Soho, Westminster, Camden, Hampstead, Central London, The City, Canary Wharf, Knightsbridge, Chelsea, Battersea, Edgware, Reading, Fulham, Slough, Buckinghamshire, Wembley, Chigwell, Essex, Hertfordshire, Kent, North London, South London, West London, and all surrounding areas.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "UK Wedding Cars",
@@ -1318,12 +2016,18 @@
     "rating": 4.8,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9:30 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 51.514144,
     "lng": 0.035544,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "wedding cars hire London. vintage wedding cars hire. classic wedding cars hire. chauffeur service. cheap wedding car hire. Luxury wedding car hire London.",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dharma Hall",
@@ -1340,7 +2044,14 @@
     "lat": 51.664835,
     "lng": -0.044302,
     "found_in_location": "Enfield",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "info@dharmamandir.com",
+    "emails": [
+      "info@dharmamandir.com",
+      "info@dharmahallhire.co.uk",
+      "dharmahallhire@gmail.com"
+    ],
+    "description": "Learn more about how you can hire the Dharma Hall for your special events."
   },
   {
     "name": "Limo Hire Essex - L.A. Stretch Limos",
@@ -1356,8 +2067,18 @@
     "types": "Limousine service",
     "lat": 51.575893,
     "lng": 0.06052,
-    "found_in_location": "Ilford",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "Experience first-class travel with our luxury limo hire in London. Perfect for weddings, proms, airport transfers & corporate events. Arrive in style—book now!",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Perfect Limos",
@@ -1369,12 +2090,17 @@
     "rating": 4.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11:30 pm\"],\"Tuesday\":[\"9 am–11:30 pm\"],\"Wednesday\":[\"9 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.540835,
     "lng": -0.182478,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Camden",
+    "found_with_query": "limo london",
+    "description": "Perfectlimos.co.uk is an excellent limo hire service that is very popular in London. It is available across the United Kingdom. However, it is most widely used in London. They provide hummer limos and limo buses as well.",
+    "services": [
+      "Hummer Limo",
+      "Party Bus"
+    ]
   },
   {
     "name": "Limousines in London",
@@ -1386,12 +2112,30 @@
     "rating": 4.8,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 51.569067,
     "lng": -0.126054,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Camden",
+    "found_with_query": "limo london",
+    "email": "info@limousinesinlondon.com",
+    "emails": [
+      "info@limousinesinlondon.com"
+    ],
+    "description": "LIMOUSINES IN LONDON have an outstanding reputation for providing the best quality chauffeur service, in an impressive fleet of stretch limos and wedding cars, at unbeatable limo hire prices in London and the surrounding areas. All Limousines in London limos have stunning world-renowned...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "THE OUT",
@@ -1403,12 +2147,16 @@
     "rating": 4.7,
     "total_reviews": 579,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.524749,
     "lng": -0.089092,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "description": "THE OUT delivers luxury car rental in the UK with uncompromising service. Delivery & collection to your door with all-inclusive pricing.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Express Rent a Car",
@@ -1420,12 +2168,20 @@
     "rating": 4.7,
     "total_reviews": 184,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"9\u202fam\u20131\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"9 am–1 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.519205,
     "lng": -0.162169,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "info@expressrentacar.co.uk",
+    "emails": [
+      "info@expressrentacar.co.uk"
+    ],
+    "description": "Car Hire in London with Express Rent a Car Ltd Established 1983. Affordable to Luxury Car Rental in London & UK at Great Prices with Bespoke Hire Packages.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "London Vintage Bus Hire Ltd",
@@ -1441,8 +2197,13 @@
     "types": "Bus company",
     "lat": 51.452143,
     "lng": 0.318113,
-    "found_in_location": "Gravesend",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@thelondonbuscompany.co.uk",
+    "emails": [
+      "info@thelondonbuscompany.co.uk"
+    ],
+    "description": "Operating the largest fleet in the region for weddings or corporate use. We can offer classic red, green, white and red & white or red & cream Routemaster buses, single deckers (RF Type) along with open top and part open top vehicles. All our buses are available for private hire offering..."
   },
   {
     "name": "Platinum Cars London - Luxury Chauffeur Service in London",
@@ -1458,8 +2219,20 @@
     "types": "Chauffeur service",
     "lat": 51.506432,
     "lng": -0.143119,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "info@platinumcarservice.co.uk",
+    "emails": [
+      "info@platinumcarservice.co.uk"
+    ],
+    "description": "Private Chauffeur Service in London with Platinum Cars London Ltd. Luxury Chauffeur Driven Cars across London, Kent, Essex & Surrey for Executive Travel, Weddings, Events, Funerals & more.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Bus London",
@@ -1471,12 +2244,18 @@
     "rating": 4.7,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.501558,
     "lng": -0.278595,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "description": "Limos are a staple of class, elegance, and luxury. If you want to travel around the city or go to a wedding or a party with a group of people, you should consider hiring a limo. Arriving in a limo is all about making a statement. People will take notice and turn their heads. A limo is not all...",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Capel Manor Gardens",
@@ -1488,12 +2267,16 @@
     "rating": 4.6,
     "total_reviews": 1493,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5:30 pm\"],\"Monday\":[\"10 am–5:30 pm\"],\"Saturday\":[\"10 am–5:30 pm\"],\"Sunday\":[\"10 am–5:30 pm\"],\"Thursday\":[\"10 am–5:30 pm\"],\"Tuesday\":[\"10 am–5:30 pm\"],\"Wednesday\":[\"10 am–5:30 pm\"]}",
     "types": "Park and Garden",
     "lat": 51.680121,
     "lng": -0.055343,
-    "found_in_location": "Waltham Cross",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "description": "Enjoy a day out for all the family in the heart of North London. Have fun exploring our Gardens and make sure to say hello to the animals in our mini zoo!",
+    "services": [
+      "Classic & Vintage"
+    ]
   },
   {
     "name": "Beckenham Place Mansion",
@@ -1509,8 +2292,9 @@
     "types": "Events Venue",
     "lat": 51.418605,
     "lng": -0.018748,
-    "found_in_location": "Beckenham",
-    "found_with_query": "limo london"
+    "found_in_location": "Lewisham",
+    "found_with_query": "limo london",
+    "description": "For the first time in decades, Beckenham Place Park's beautiful Georgian mansion is open daily to the public as an arts, cultural and community centre."
   },
   {
     "name": "Bustronome London",
@@ -1522,12 +2306,17 @@
     "rating": 4.6,
     "total_reviews": 506,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20132\u202fpm\",\"7\u201310\u202fpm\"],\"Monday\":[\"12\u20132\u202fpm\",\"7\u201310\u202fpm\"],\"Saturday\":[\"12\u20132\u202fpm\",\"7\u201310\u202fpm\"],\"Sunday\":[\"12\u20132\u202fpm\",\"7\u201310\u202fpm\"],\"Thursday\":[\"12\u20133\u202fpm\",\"7\u201310\u202fpm\"],\"Tuesday\":[\"12\u20133\u202fpm\",\"7\u201310\u202fpm\"],\"Wednesday\":[\"12\u20133\u202fpm\",\"7\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–2 pm\",\"7–10 pm\"],\"Monday\":[\"12–2 pm\",\"7–10 pm\"],\"Saturday\":[\"12–2 pm\",\"7–10 pm\"],\"Sunday\":[\"12–2 pm\",\"7–10 pm\"],\"Thursday\":[\"12–3 pm\",\"7–10 pm\"],\"Tuesday\":[\"12–3 pm\",\"7–10 pm\"],\"Wednesday\":[\"12–3 pm\",\"7–10 pm\"]}",
     "types": "Restaurant",
     "lat": 51.508006,
     "lng": -0.121469,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "london@bustronome.com",
+    "emails": [
+      "london@bustronome.com"
+    ],
+    "description": "Enjoy a unique gastronomic experience in London aboard the Bustronome, a glass double-decker bus. Enjoy exceptional dishes with a panoramic view."
   },
   {
     "name": "Royal Rentals",
@@ -1543,8 +2332,16 @@
     "types": "Car rental company",
     "lat": 51.510098,
     "lng": -0.147354,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "description": "Welcome to Royal Rentals, the UK's leading car hire service for luxury supercars and 4x4 vehicles. Call our team for the experience of a lifetime.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "East London Limos & Wedding Cars",
@@ -1556,12 +2353,24 @@
     "rating": 4.6,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 51.537388,
     "lng": 0.024987,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "email": "limos@live.co.uk",
+    "emails": [
+      "limos@live.co.uk"
+    ],
+    "description": "Wedding car hire, Limo hire London, Hummer Limousine Rolls Royce Phantom, Ghost, Bentley, Chrysler Limo, Classic Cars, Lincoln, VIP Travel, Birthday",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "book limo",
@@ -1573,12 +2382,27 @@
     "rating": 4.6,
     "total_reviews": 71,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"10 am–11:30 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"10 am–11:30 pm\"],\"Thursday\":[\"10 am–11:30 pm\"],\"Tuesday\":[\"10 am–11:30 pm\"],\"Wednesday\":[\"10 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.566263,
     "lng": -0.228756,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Wembley",
+    "found_with_query": "limo london",
+    "email": "info@booklimo.co.uk",
+    "emails": [
+      "info@booklimo.co.uk"
+    ],
+    "description": "Up to 40% DISCOUNT on every H2 Hummer Limousine Booking + One hour FREE of charge + special discounts for any limo hire - Only with BookLimo.co.uk, the reference business for limousine hire in London",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lux Limo",
@@ -1590,12 +2414,26 @@
     "rating": 4.6,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 51.527385,
     "lng": -0.089117,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "info@lux-limo.co.uk",
+    "emails": [
+      "info@lux-limo.co.uk"
+    ],
+    "description": "Lux Limo is a leading company offer Limo Hire services in UK. We have wide range of limousines for hire. Call us at 0800 002 9475 or 0845 055 0740 today.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "London Classic Bus Hire Ltd.",
@@ -1611,8 +2449,18 @@
     "types": "Bus charter",
     "lat": 51.441947,
     "lng": 0.385904,
-    "found_in_location": "Gravesend",
-    "found_with_query": "limo london"
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@brianjonescoaches.com",
+    "emails": [
+      "info@brianjonescoaches.com"
+    ],
+    "description": "London Classic Bus Hire Ltd, Vintage Routemaster Bus available for various occasions, weddings, prom, corporate hire etc",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Minibus London",
@@ -1628,8 +2476,13 @@
     "types": "Coach and minibus hire",
     "lat": 51.51811,
     "lng": -0.127677,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "info@minibuslondon.org",
+    "emails": [
+      "info@minibuslondon.org"
+    ],
+    "description": "Intro page to GB Coach Hire. GB Coach Hire has been providing professional coach hire to private and corporate customers for many years. We’ve built up a fantastic reputation, becoming renowned throughout the UK for our commitment to comfort, safety and value for money."
   },
   {
     "name": "Shirley Chauffeurs",
@@ -1641,12 +2494,17 @@
     "rating": 4.6,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 51.370918,
     "lng": -0.038372,
     "found_in_location": "Croydon",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "description": "If you are looking for something special for your wedding day transport, and maybe something a little different, you have come to the right place.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Chauffeur Ride",
@@ -1662,8 +2520,19 @@
     "types": "Taxi service",
     "lat": 51.527331,
     "lng": -0.088853,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "info@chauffeurrideltd.co.uk",
+    "emails": [
+      "info@chauffeurrideltd.co.uk"
+    ],
+    "description": "Established Over 13 Years With Outstanding Reviews",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Oh Cars - Wedding Cars & Chauffeuring",
@@ -1675,12 +2544,29 @@
     "rating": 4.5,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"10\u202fam\u20131\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6:30 pm\"],\"Monday\":[\"9:30 am–6:30 pm\"],\"Saturday\":[\"9:30 am–1 pm\"],\"Sunday\":[\"10 am–1 pm\"],\"Thursday\":[\"9:30 am–6:30 pm\"],\"Tuesday\":[\"9:30 am–6:30 pm\"],\"Wednesday\":[\"9:30 am–6:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.353267,
     "lng": -0.091933,
-    "found_in_location": "South Croydon",
-    "found_with_query": "limo london"
+    "found_in_location": "Croydon",
+    "found_with_query": "limo london",
+    "email": "info@ohcars.co.uk",
+    "emails": [
+      "info@ohcars.co.uk"
+    ],
+    "description": "OH Cars is a London-based luxury chauffeur and prestige car hire company, providing high-end chauffeur-driven vehicles for weddings, airport transfers, corporate travel, proms, sightseeing tours,",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "B & L COACHES",
@@ -1692,12 +2578,22 @@
     "rating": 4.5,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.682069,
     "lng": -0.076919,
     "found_in_location": "Enfield",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "office@bandlcoaches.co.uk",
+    "emails": [
+      "office@bandlcoaches.co.uk"
+    ],
+    "description": "When you need to hire a minibus, coach hire or car for a journey from North London, choose B&L Coaches & Car Hire. Call now on 020 8364 6417",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Brigit's Bakery & Afternoon Tea Bus Tours",
@@ -1709,12 +2605,17 @@
     "rating": 4.4,
     "total_reviews": 1642,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Bakery",
     "lat": 51.510077,
     "lng": -0.124553,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "info@b-bakery.com",
+    "emails": [
+      "info@b-bakery.com"
+    ],
+    "description": "Brigit’s Bakery is one of the best places for Afternoon Tea London. Hop aboard our Afternoon Tea Sightseeing Bus Tours or visit the relaxing sanctuary of Brigit’s Bakery Covent Garden."
   },
   {
     "name": "The Ghost Bus Tours",
@@ -1726,12 +2627,16 @@
     "rating": 4.4,
     "total_reviews": 794,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Tour operator",
     "lat": 51.506935,
     "lng": -0.126012,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "description": "Edinburgh, London & York Welcome dear mourner to the world’s ONLY comedy horror theatre show on wheels, Great Britains must do, number one attraction. But beware…",
+    "services": [
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Keston Village Hall",
@@ -1743,12 +2648,13 @@
     "rating": 4.4,
     "total_reviews": 112,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Village hall",
     "lat": 51.356403,
     "lng": 0.031988,
-    "found_in_location": "Keston",
-    "found_with_query": "limo london"
+    "found_in_location": "Bromley",
+    "found_with_query": "limo london",
+    "description": "The Main Hall (27ft x 55ft (8.3m x 16.8m)) is a large bright space with wooden sprung flooring marked out for badminton. At one end is a raised stage of 65 sqm, perfect for amateur dramatics, with a manual curtain with stage lighting plugs. At the other end is a storeroom (adjacent to the..."
   },
   {
     "name": "DING DONG FUN BUS",
@@ -1760,12 +2666,16 @@
     "rating": 4.4,
     "total_reviews": 109,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Monday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Saturday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Sunday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Thursday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Tuesday\":[\"10:15\u202fam\u20135:15\u202fpm\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10:15 am–5:15 pm\"],\"Monday\":[\"10:15 am–5:15 pm\"],\"Saturday\":[\"10:15 am–5:15 pm\"],\"Sunday\":[\"10:15 am–5:15 pm\"],\"Thursday\":[\"10:15 am–5:15 pm\"],\"Tuesday\":[\"10:15 am–5:15 pm\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.607559,
     "lng": -0.079411,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "description": "Play. explore. celebrate. London’s Most Fun-Filled Soft Play & Party Bus Experience! Safe, stress-free fun for kids. Easy, reliable booking for parents.” Book",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Limo Hire London Central London",
@@ -1781,8 +2691,21 @@
     "types": "Transportation service",
     "lat": 51.478077,
     "lng": -0.184209,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "description": "Indulge in unmatched elegance and comfort with Premier Limousine Hire in Chelsea. Discover bespoke packages for weddings, proms, and more. Book yours today!Limo Hire London!",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Monstar Stretch",
@@ -1798,8 +2721,20 @@
     "types": "Limousine service",
     "lat": 51.709462,
     "lng": -0.053881,
-    "found_in_location": "Waltham Cross",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "description": "Welcome to Monstar Stretch, the leading limo hire company in Hertfordshire, Herts. Click here for Limo Hire Hertfordshire",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "TMJ Limos UK",
@@ -1816,7 +2751,17 @@
     "lat": 51.428802,
     "lng": 0.008091,
     "found_in_location": "Bromley",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "tmjbusinessenterprise@yahoo.co.uk",
+    "emails": [
+      "tmjbusinessenterprise@yahoo.co.uk"
+    ],
+    "description": "LONDON LIMOUSINE AND EXECUTIVE PRIVATE HIRE CHAUFFEUR SERVICES FOR WEDDING, BIRTHDAYS, SCHOOL PROM, PARTIES AND OTHER EVENTS",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Manhattan Limousines",
@@ -1845,12 +2790,23 @@
     "rating": 4.1,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.43929,
     "lng": -0.022845,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Lewisham",
+    "found_with_query": "limo london",
+    "email": "office@greenscarriages.com",
+    "emails": [
+      "office@greenscarriages.com",
+      "accounts@greenscarriages.com",
+      "office@greeenscarriages.com",
+      "accounts@greeenscarriages.com"
+    ],
+    "description": "We are an independent family-run business, based in South East London, providing a diverse range of Limousines and Hearses to the funeral trade nationwide",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limos & Cars Hire London",
@@ -1862,12 +2818,28 @@
     "rating": 4.0,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 51.574559,
     "lng": -0.010723,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "email": "bookings@limoandcarhire.co.uk",
+    "emails": [
+      "bookings@limoandcarhire.co.uk",
+      "%20bookings@limoandcarhire.co.uk"
+    ],
+    "description": "For limo hire London, Hummer hire London or wedding limos, call us at 020 8988 0004. We offer cheap limo hire service all over the London.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Atlantic Limousine",
@@ -1879,11 +2851,11 @@
     "rating": 4.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11:30 pm\"],\"Monday\":[\"8 am–11:30 pm\"],\"Saturday\":[\"8 am–11:30 pm\"],\"Sunday\":[\"8 am–11:30 pm\"],\"Thursday\":[\"8 am–11:30 pm\"],\"Tuesday\":[\"8 am–11:30 pm\"],\"Wednesday\":[\"8 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.379506,
     "lng": -0.023401,
-    "found_in_location": "West Wickham",
+    "found_in_location": "Bromley",
     "found_with_query": "limo london"
   },
   {
@@ -1900,8 +2872,24 @@
     "types": "Limousine service",
     "lat": 51.709563,
     "lng": -0.05591,
-    "found_in_location": "Waltham Cross",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "email": "info@rentalimo.co.uk",
+    "emails": [
+      "info@rentalimo.co.uk",
+      "info@rentalimo.com"
+    ],
+    "description": "Luxury chauffeur-driven limo, party bus and wedding car hire across London, Hertfordshire, Essex and the South East. Get a fast, no-obligation quote.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Easy Limo",
@@ -1913,12 +2901,20 @@
     "rating": 3.8,
     "total_reviews": 369,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201312\u202fam\"],\"Monday\":[\"9\u202fam\u201312\u202fam\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9\u202fam\u201312\u202fam\"],\"Tuesday\":[\"9\u202fam\u201312\u202fam\"],\"Wednesday\":[\"9\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–12 am\"],\"Monday\":[\"9 am–12 am\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"9 am–12 am\"]}",
     "types": "Limousine service",
     "lat": 51.51619,
     "lng": -0.291263,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@easylimo.co.uk",
+    "emails": [
+      "info@easylimo.co.uk"
+    ],
+    "services": [
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo hire london",
@@ -1934,8 +2930,25 @@
     "types": "Limousine service",
     "lat": 51.491439,
     "lng": -0.231624,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Kensington",
+    "found_with_query": "limo london",
+    "email": "info@limohire-in-london.co.uk",
+    "emails": [
+      "info@limohire-in-london.co.uk"
+    ],
+    "description": "For limo hire services in London, Hummer and stretch limousines. We provide the cheapest limo hire prices for the best service.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "La Limo's Ltd",
@@ -1947,12 +2960,21 @@
     "rating": 3.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.721817,
     "lng": -0.095371,
-    "found_in_location": "Goffs Oak",
-    "found_with_query": "limo london"
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "email": "info@lalimousines.co.uk",
+    "emails": [
+      "info@lalimousines.co.uk"
+    ],
+    "description": "LA Limos | Stretch limousines rental | 07956 595428 | Luxury Cars | Limos for all occasions in London | Hertfordshire and surrounding areas | Proms | Race Days| weddings",
+    "services": [
+      "Chauffeur Service",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "ABBEY WEDDINGS",
@@ -1969,7 +2991,19 @@
     "lat": 51.597725,
     "lng": 0.226587,
     "found_in_location": "Romford",
-    "found_with_query": "limo london"
+    "found_with_query": "limo london",
+    "email": "gary@weddingcaressex.co.uk",
+    "emails": [
+      "gary@weddingcaressex.co.uk",
+      "garyd24@hotmail.com"
+    ],
+    "description": "Abbey Weddings supply top quality wedding photography, video, cars and DJ's at very reasonable prices. Over 36 years experience for your perfect day.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ace Mini Bus Hire",
@@ -1981,11 +3015,11 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.527251,
     "lng": -0.011943,
-    "found_in_location": "London",
+    "found_in_location": "Stratford",
     "found_with_query": "limo london"
   },
   {
@@ -2002,7 +3036,7 @@
     "types": "Limousine service",
     "lat": 51.580391,
     "lng": -0.158522,
-    "found_in_location": "London",
+    "found_in_location": "Camden",
     "found_with_query": "limo london"
   },
   {
@@ -2015,7 +3049,7 @@
     "rating": 2.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 51.384158,
     "lng": -0.089507,
@@ -2036,8 +3070,17 @@
     "types": "Bus tour agency",
     "lat": 51.529112,
     "lng": -0.087595,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "hello@londonbusparty.co.uk",
+    "emails": [
+      "hello@londonbusparty.co.uk"
+    ],
+    "description": "London Bus Party—your private double-decker rave on wheels! Perfect for birthdays, hen/stag parties, and corporate events. Let's roll!",
+    "services": [
+      "Airport Transfer",
+      "Party Bus"
+    ]
   },
   {
     "name": "Limousine Hires",
@@ -2053,8 +3096,21 @@
     "types": "Limousine service",
     "lat": 51.538702,
     "lng": 0.052048,
-    "found_in_location": "London",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "Discover top-notch limo hire in the UK for every occasion. Travel in style with luxurious Rides Call us today! 7893946619",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "G and R limousines",
@@ -2121,7 +3177,12 @@
     "types": "Limousine service",
     "lat": 51.529248,
     "lng": 0.101598,
-    "found_in_location": "Barking",
-    "found_with_query": "limo london"
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "Limousine service in Essex that gets you there in style - HK Limos",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   }
 ]

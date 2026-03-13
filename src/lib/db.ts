@@ -38,4 +38,10 @@ export async function initDb() {
   await pool.query(`
     ALTER TABLE leads ADD COLUMN IF NOT EXISTS details JSONB;
   `);
+  await pool.query(`
+    ALTER TABLE leads ADD COLUMN IF NOT EXISTS allow_direct_contact BOOLEAN DEFAULT false;
+  `);
+  await pool.query(`
+    ALTER TABLE leads ADD COLUMN IF NOT EXISTS contact_methods TEXT[];
+  `);
 }

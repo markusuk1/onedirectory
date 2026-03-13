@@ -14,7 +14,11 @@
     "lat": 53.335513,
     "lng": -1.34652,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "When it comes to minibus hire, Minibus Master is among Sheffield's best. We offer affordable 8 and 16 seater minibus hire for airport transfers, corporate travel, weddings, sports events, concerts, festivals and much more!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Majestic Drive",
@@ -31,7 +35,18 @@
     "lat": 53.760185,
     "lng": -1.791781,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@majesticdrive.co.uk",
+    "emails": [
+      "info@majesticdrive.co.uk"
+    ],
+    "description": "We offer wedding car hire services in Bradford, Leeds, Halifax, Huddersfield, Dewsbury, Manchester, Oldham, Rochdale, Liverpool. Book the Rolls Royce Ghost now.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Sure Travel York",
@@ -48,7 +63,11 @@
     "lat": 53.957695,
     "lng": -1.137466,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "We are a York-based minibus company specializing in Airport Transfers and bespoke Day Trips around Yorkshire.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Potter Chauffeurs York",
@@ -60,12 +79,23 @@
     "rating": 5.0,
     "total_reviews": 116,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.953082,
     "lng": -1.118901,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@potter-chauffeurs.co.uk",
+    "emails": [
+      "info@potter-chauffeurs.co.uk"
+    ],
+    "description": "York chauffeurs specialising in Airport Transfers, Weddings Cars and Executive Cars. We offer our executive car service to both private and business clients for a wide range of occasions. Take a look at what our customers say and get a quote online today!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Platinum Limousines",
@@ -82,7 +112,18 @@
     "lat": 53.792141,
     "lng": -1.742409,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Platinum Limo Hire Bradford is one of the UKs largest limo hire companies that covers, Limo Hire Bradford and the whole of West Yorkshire",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Executive Cars York - Chauffeur Service York",
@@ -99,7 +140,16 @@
     "lat": 53.95578,
     "lng": -1.09204,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "executivecarsyork2@gmail.com",
+    "emails": [
+      "executivecarsyork2@gmail.com"
+    ],
+    "description": "Professional chauffeur services in York for business travel, weddings, and airport transfers. Book luxury vehicles with expert drivers today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Privilege Executive Cars",
@@ -116,7 +166,17 @@
     "lat": 53.831621,
     "lng": -1.438569,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "bookings@privilegeexecutivecars.com",
+    "emails": [
+      "bookings@privilegeexecutivecars.com"
+    ],
+    "description": "Luxury travel throughout Yorkshire, Leeds & Manchester. Premium airport transfers with first-class chauffeurs, comfort & service. Book now.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GLD Travel York",
@@ -133,7 +193,16 @@
     "lat": 53.970575,
     "lng": -1.080135,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@gldtravelyork.co.uk",
+    "emails": [
+      "info@gldtravelyork.co.uk",
+      "gldtravelyork@gmail.com"
+    ],
+    "description": "York minibus hire transfers service for up to 8 persons. Professional drivers for our minibus hire service for york and surrounding area",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Steel city minibus",
@@ -150,7 +219,16 @@
     "lat": 53.476437,
     "lng": -1.488663,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "inquiries@steelcityminibus.co.uk",
+    "emails": [
+      "inquiries@steelcityminibus.co.uk"
+    ],
+    "description": "Book your customized trips for safe, secure, and reliable transport to any event. Whether for business, leisure, or special occasions, we’re here to provide the best minibus hire . Get a quote now!",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ford Mustang Wedding",
@@ -162,12 +240,25 @@
     "rating": 5.0,
     "total_reviews": 87,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5\u20139\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u201312\u202fpm\"],\"Thursday\":[\"5\u20139\u202fpm\"],\"Tuesday\":[\"5\u20139\u202fpm\"],\"Wednesday\":[\"5\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"5–9 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–12 pm\"],\"Thursday\":[\"5–9 pm\"],\"Tuesday\":[\"5–9 pm\"],\"Wednesday\":[\"5–9 pm\"]}",
     "types": "Wedding planner",
     "lat": 53.719565,
     "lng": -1.857402,
     "found_in_location": "Halifax",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "hello@fordmustangwedding.co.uk",
+    "emails": [
+      "hello@fordmustangwedding.co.uk"
+    ],
+    "description": "Welcome to Ford Mustang Wedding, the UKs largest and best selection of Ford Mustangs and American Muscle cars available for Wedding car hire across the UK!",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tropical Limo Hire - Executive Chauffeur service",
@@ -184,7 +275,20 @@
     "lat": 53.794286,
     "lng": -1.762428,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Travel in style - Premium limo hire, chauffeur services & luxury Rolls-Royce wedding car hire in Nottingham, Derby, Leicester & Bradford.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Wedding Card Company",
@@ -196,12 +300,20 @@
     "rating": 5.0,
     "total_reviews": 78,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20135\u202fpm\"],\"Monday\":[\"12\u20135\u202fpm\"],\"Saturday\":[\"12\u20135\u202fpm\"],\"Sunday\":[\"12\u20135\u202fpm\"],\"Thursday\":[\"12\u20135\u202fpm\"],\"Tuesday\":[\"12\u20135\u202fpm\"],\"Wednesday\":[\"12\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–5 pm\"],\"Monday\":[\"12–5 pm\"],\"Saturday\":[\"12–5 pm\"],\"Sunday\":[\"12–5 pm\"],\"Thursday\":[\"12–5 pm\"],\"Tuesday\":[\"12–5 pm\"],\"Wednesday\":[\"12–5 pm\"]}",
     "types": "Invitation printing service",
     "lat": 53.789553,
     "lng": -1.77546,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@theweddingcardco.co.uk",
+    "emails": [
+      "info@theweddingcardco.co.uk"
+    ],
+    "description": "Here at The Wedding Card Company, with over 15 years of first hand industry experience, we design and create bespoke wedding stationary...",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Driven Executive Cars",
@@ -218,7 +330,16 @@
     "lat": 53.657921,
     "lng": -1.550998,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "richard@dec365.co.uk",
+    "emails": [
+      "richard@dec365.co.uk"
+    ],
+    "description": "A trustworthy chauffeur setting the highest standards. 15 years of exemplary military service with Advanced Driver qualifications. Call on 07881917261.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Mini Travel Executive",
@@ -234,8 +355,18 @@
     "types": "Coach and minibus hire",
     "lat": 53.705958,
     "lng": -1.630606,
-    "found_in_location": "Batley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@minitravelexecutive.co.uk",
+    "emails": [
+      "info@minitravelexecutive.co.uk"
+    ],
+    "description": "At Mini Travel Executive, we offer minibus hire at great prices to customers in Batley and across West Yorkshire. Contact us today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Huddersfield Travel",
@@ -252,7 +383,15 @@
     "lat": 53.63634,
     "lng": -1.814036,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "huddersfieldtravel@gmail.com",
+    "emails": [
+      "huddersfieldtravel@gmail.com"
+    ],
+    "description": "For UK Airport Transfers in Huddersfield and West Yorkshire, call the experts at Airports 4U.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Brighouse Minicoaches",
@@ -264,12 +403,20 @@
     "rating": 5.0,
     "total_reviews": 51,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.683851,
     "lng": -1.751463,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "zid@minibusdirect4u.co.uk",
+    "emails": [
+      "zid@minibusdirect4u.co.uk"
+    ],
+    "description": "Do you need minibus hire in the Calderdale/Kirklees area?",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "2AM Travel York",
@@ -286,7 +433,15 @@
     "lat": 53.933922,
     "lng": -1.137203,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "minibushireyork@gmail.com",
+    "emails": [
+      "minibushireyork@gmail.com"
+    ],
+    "description": "We are a well established York minibus hire Company with 16 seater minibuses available. We can accommodate you and your party with all your travel needs within the UK",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Domino Transfer - Chauffeur Services & Airport Transfers",
@@ -303,7 +458,16 @@
     "lat": 53.436552,
     "lng": -1.10196,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "bookings@dominotransfer.com",
+    "emails": [
+      "bookings@dominotransfer.com"
+    ],
+    "description": "Domino Transfer provide executive chauffeur services & airport transfers from Doncaster, Sheffield or Worksop for business & private clients. Trained VIP Security Chauffeurs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Silver Star Wedding Cars",
@@ -315,12 +479,22 @@
     "rating": 5.0,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.635991,
     "lng": -0.950734,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "silverstarweddingcars@gmail.com",
+    "emails": [
+      "silverstarweddingcars@gmail.com"
+    ],
+    "description": "Beautiful silver chauffeur driven vintage style wedding car hire Doncaster, wedding car hire in Scunthorpe, Selby, York, Rotherham, Pontefract, Retford and many other areas.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mistral Executive Chauffeurs",
@@ -337,7 +511,16 @@
     "lat": 53.965527,
     "lng": -1.502077,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "office@mecexec.com",
+    "emails": [
+      "office@mecexec.com"
+    ],
+    "description": "Premium chauffeur services in the UK for business, airport transfers, and special events. Travel in comfort and style with MEC Exec.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Vienna's Wedding Cars",
@@ -349,12 +532,23 @@
     "rating": 5.0,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 53.453749,
     "lng": -1.346699,
     "found_in_location": "Rotherham",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@southyorkshireweddingcars.com",
+    "emails": [
+      "info@southyorkshireweddingcars.com",
+      "info@infosouthyorkshireweddingcars.com"
+    ],
+    "description": "Fabulous Executive & Vintage styles of Wedding Car. Local supplier of wedding transport in South Yorkshire. Family business. Online availability. Competitive Prices. Low Deposit.",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Candeo Wedding Cars Ltd",
@@ -366,12 +560,23 @@
     "rating": 5.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Corporate office",
     "lat": 53.503228,
     "lng": -1.440481,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@candeoweddingcarriages.co.uk",
+    "emails": [
+      "info@candeoweddingcarriages.co.uk"
+    ],
+    "description": "Candeo Wedding Cars. Based in Barnsley we cover all of Yorkshire, North Derbyshire and North Nottinghamshire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tyson Wedding cars Doncaster",
@@ -383,12 +588,21 @@
     "rating": 5.0,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139\u202fpm\"],\"Monday\":[\"10\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"10\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"10 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"10 am–9 pm\"],\"Tuesday\":[\"10 am–9 pm\"],\"Wednesday\":[\"10 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.55013,
     "lng": -1.197772,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "rtyson56@btinternet.com",
+    "emails": [
+      "rtyson56@btinternet.com"
+    ],
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GB One Chauffeur Tours Ltd",
@@ -405,7 +619,17 @@
     "lat": 53.77322,
     "lng": -1.626107,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@gb-1.biz",
+    "emails": [
+      "info@gb-1.biz"
+    ],
+    "description": "GB One Chauffeur Tours offers a range of executive chauffeur services from Leeds, West Yorks covering throughout the UK, using modern luxurious Mercedes vehicles.",
+    "services": [
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bygone Classics",
@@ -417,12 +641,20 @@
     "rating": 5.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"9\u202fam\u20133\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"9 am–3 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 53.84323,
     "lng": -1.513422,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "hire-me@bygoneclassics.co.uk",
+    "emails": [
+      "hire-me@bygoneclassics.co.uk"
+    ],
+    "description": "Classic car hire in Yorkshire from Bygone Classics. Choose from our wide range of classic cars to rent/hire.",
+    "services": [
+      "Classic & Vintage"
+    ]
   },
   {
     "name": "Chariots of Huddersfield",
@@ -439,7 +671,16 @@
     "lat": 53.680866,
     "lng": -1.747922,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "chariotsofhuddersfield@gmail.com",
+    "emails": [
+      "chariotsofhuddersfield@gmail.com"
+    ],
+    "description": "Whether you are looking to travel to a party or you need to go on a business trip, we will ensure that you reach your destination in time. Why take on the stress of driving after a long day at work? We provide excellent pre-arranged, chauffeured travel. Make use of our services in Huddersfield,...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "BB Wedding Cars Ltd",
@@ -451,12 +692,23 @@
     "rating": 5.0,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.676168,
     "lng": -1.692155,
-    "found_in_location": "Mirfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Huddersfield",
+    "found_with_query": "limo yorkshire",
+    "email": "support@bbweddingcarhire.co.uk",
+    "emails": [
+      "support@bbweddingcarhire.co.uk"
+    ],
+    "description": "Chauffeur-driven wedding cars across Yorkshire and the North West. Classic, vintage and luxury cars with professional chauffeurs. Enquire to check availability and get a tailored quote.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Direct Limo Hire",
@@ -468,12 +720,28 @@
     "rating": 5.0,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.775048,
     "lng": -1.746628,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "directlimohireservice@gmail.com",
+    "emails": [
+      "directlimohireservice@gmail.com"
+    ],
+    "description": "Our beautiful vintage cars are perfect for weddings.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dallas limousines ltd",
@@ -485,11 +753,11 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11:30 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"10 am–10:30 pm\"],\"Thursday\":[\"9 am–11:30 pm\"],\"Tuesday\":[\"9 am–11:30 pm\"],\"Wednesday\":[\"9 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 53.804426,
     "lng": -1.687712,
-    "found_in_location": "Pudsey",
+    "found_in_location": "Bradford",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -502,12 +770,22 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.696181,
     "lng": -1.515383,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "max@maxweddingcars.co.uk",
+    "emails": [
+      "max@maxweddingcars.co.uk"
+    ],
+    "description": "Wedding Cars Leeds with Maxweddingcars. We supply only the very best wedding cars including our Vintage style Tourer, 6 seater Viscount, and Range Rover Vogue.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Vulcan wedding cars & Photo Booths",
@@ -519,12 +797,16 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 53.505231,
     "lng": -1.059448,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "silver wedding car hire doncaster photo booth hire doncaster",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Luxe Travel Solutions - Executive Chauffeur",
@@ -541,7 +823,17 @@
     "lat": 53.490471,
     "lng": -1.144193,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "luxe.org@gmail.com",
+    "emails": [
+      "luxe.org@gmail.com"
+    ],
+    "description": "Airport Transfers - At Luxe Travel solutions we offer a tailored and efficient executive airport shuttle transfer service covering most of the UK airports.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Oakley Wedding Cars",
@@ -553,12 +845,23 @@
     "rating": 5.0,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 53.240538,
     "lng": -1.439917,
-    "found_in_location": "Chesterfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Sheffield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@oakleyweddingcars.co.uk",
+    "emails": [
+      "info@oakleyweddingcars.co.uk"
+    ],
+    "description": "Wedding cars Chesterfield. Chauffeur driven Rolls Royce wedding cars for your special day. Rolls-Royce wedding car hire Chesterfield.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "York Chauffeurs",
@@ -570,7 +873,7 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.958361,
     "lng": -1.081904,
@@ -592,7 +895,13 @@
     "lat": 53.736466,
     "lng": -0.351082,
     "found_in_location": "Hull",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Professional executive chauffeur service in Hull and East Yorkshire. Airport transfers, business travel and private journeys.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Roaring 30s Automobiles has now moved to Hull",
@@ -604,11 +913,11 @@
     "rating": 5.0,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.739764,
     "lng": -0.570958,
-    "found_in_location": "Brough",
+    "found_in_location": "Hull",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -621,12 +930,13 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–9 pm\"],\"Sunday\":[\"8:30 am–9 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 54.031557,
     "lng": -0.883751,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "We're under construction.Please check back for an update soon."
   },
   {
     "name": "Scunthorpe Wedding Cars",
@@ -638,12 +948,21 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 53.494188,
     "lng": -0.781221,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@scunthorpeweddingcars.co.uk",
+    "emails": [
+      "info@scunthorpeweddingcars.co.uk"
+    ],
+    "description": "Scunthorpe Wedding Cars offer bespoke wedding car hire in Scunthorpe and the wider area. We are a family-run business not a broker or agency. We guarantee to beat any like-for-like quote",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Elite Voyager (part of Privilege Executive cars)",
@@ -660,7 +979,17 @@
     "lat": 53.671197,
     "lng": -1.826921,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "bookings@privilegeexecutivecars.com",
+    "emails": [
+      "bookings@privilegeexecutivecars.com"
+    ],
+    "description": "Luxury travel throughout Yorkshire, Leeds & Manchester. Premium airport transfers with first-class chauffeurs, comfort & service. Book now.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "All Luv'Dub",
@@ -676,8 +1005,17 @@
     "types": "Wedding service",
     "lat": 53.717028,
     "lng": -1.635083,
-    "found_in_location": "Batley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "michaeld1710@gmail.com",
+    "emails": [
+      "michaeld1710@gmail.com"
+    ],
+    "description": "Our Classic and Vintage Wedding cars are available in Batley, West Yorkshire. Dressed in Ribbons and Bows, our Chauffeur driven Camper Vans, Jaguar and Triumph will complete your day. Get an Instant quote.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "East Yorkshire Wedding Cars",
@@ -693,7 +1031,7 @@
     "types": "Wedding service",
     "lat": 54.021634,
     "lng": -0.390559,
-    "found_in_location": "Driffield",
+    "found_in_location": "Scarborough",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -711,7 +1049,21 @@
     "lat": 53.706313,
     "lng": -1.475777,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@limotime.com",
+    "emails": [
+      "sales@limotime.com"
+    ],
+    "description": "Limousine Hire provided by Limo Time is second to none! We can provide you with a limo hire service that makes the right impression on arrival at your event",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Sherwood Mini Buses & P'n'P Coaches",
@@ -727,8 +1079,16 @@
     "types": "Bus company",
     "lat": 54.223714,
     "lng": -1.326215,
-    "found_in_location": "Thirsk",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Harrogate",
+    "found_with_query": "limo yorkshire",
+    "email": "info@sherwoodsbus.com",
+    "emails": [
+      "info@sherwoodsbus.com"
+    ],
+    "description": "Do you need a minibus for a trip out or even your wedding day? Sherwoods Minibus Hire based in Ripon are here for you. Please call 01765 635 262 for more info",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kirkgateminibuses Wakefield",
@@ -762,7 +1122,21 @@
     "lat": 53.719672,
     "lng": -1.462745,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@bluecrushlimo.co.uk",
+    "emails": [
+      "sales@bluecrushlimo.co.uk"
+    ],
+    "description": "Arrive in style with our premium limousine service. Perfect for weddings, birthdays, corporate events, proms, and all special occasions across Yorkshire. Book your chauffeur-driven limo today for a first-class experience with Blue Crush Limo Hire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Halifax Wedding Cars",
@@ -774,7 +1148,7 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.732208,
     "lng": -1.891543,
@@ -791,12 +1165,27 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.796807,
     "lng": -1.556173,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@ferrarilimohire.com",
+    "emails": [
+      "info@ferrarilimohire.com"
+    ],
+    "description": "Limo and Wedding Car hire services available nationwide for all occasions.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GROUNDLINK TRAVEL",
@@ -808,12 +1197,21 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u201312\u202fam\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12 am–11 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"9 am–10:30 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.805563,
     "lng": -1.686807,
-    "found_in_location": "Pudsey",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "groundlink247@gmail.com",
+    "emails": [
+      "groundlink247@gmail.com"
+    ],
+    "description": "Luxury Mini Bus, Limousine, and Chauffeur Services Hire Across the UK. Your Premier Choice for Comfort,Style, and Reliability in Group Transportation and Executive Travel.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Laura's Vintage Limousines",
@@ -825,7 +1223,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.551662,
     "lng": -1.668533,
@@ -847,7 +1245,15 @@
     "lat": 53.811666,
     "lng": -1.831561,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Welcome to Emerald Cars, your premium chauffeur-driven car service. With a commitment to excellence, we strive to make your travel experience as comfortable and stress-free as possible. Sit back, relax, and enjoy the ride with our professional chauffeurs and luxurious fleet of vehicles.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Stephens Mini Bus Hire",
@@ -876,12 +1282,17 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.089363,
     "lng": -1.699272,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "enquiries@ascoaches.co.uk",
+    "emails": [
+      "enquiries@ascoaches.co.uk"
+    ],
+    "description": "Nidderdale basedMini Coach Hire(19 to 22 seat coaches) company working in Harrogate, Knaresborough, Ripon, Boroughbridge, Masham, Grassington, Skipton and throughout North Yorkshire."
   },
   {
     "name": "DubTrips",
@@ -893,7 +1304,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Vehicle Hire",
     "lat": 53.997851,
     "lng": -1.516349,
@@ -931,7 +1342,7 @@
     "types": "Limousine service",
     "lat": 53.719311,
     "lng": -1.720363,
-    "found_in_location": "Cleckheaton",
+    "found_in_location": "Bradford",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -982,7 +1393,7 @@
     "types": "Chauffeur service",
     "lat": 53.722838,
     "lng": -1.714298,
-    "found_in_location": "Cleckheaton",
+    "found_in_location": "Bradford",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -1000,7 +1411,17 @@
     "lat": 53.965684,
     "lng": -1.120628,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sssingo@hotmail.co.uk",
+    "emails": [
+      "sssingo@hotmail.co.uk"
+    ],
+    "description": "Precision Chauffeurs is a private chauffeur service in York. Arrive in style and luxury to Weddings, Airport Transfers, Corporate Events and Group Trips.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limousine Hire",
@@ -1017,7 +1438,17 @@
     "lat": 53.798158,
     "lng": -1.760447,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@limousine-hire.com",
+    "emails": [
+      "info@limousine-hire.com"
+    ],
+    "description": "At Limousine Hire, we specialise in providing premium transportation services across the UK, including limousine hire, Rolls Royce hire, airport transfers, and coach hire. Whether it’s a wedding, prom, corporate event, or a special celebration, our fleet of stylish and meticulously maintained...",
+    "services": [
+      "Airport Transfer",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "City Limo",
@@ -1029,12 +1460,26 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.746259,
     "lng": -1.769287,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "citylimo.co.uk@gmail.com",
+    "emails": [
+      "citylimo.co.uk@gmail.com"
+    ],
+    "description": "Our Services wedding cars Arrive in style on your big day with our timeless fleet of wedding cars. Limo Hire Book a Limo, Elevate Your Celebration on Wheels. Vintage cars Journey through time in style with our vintage cars – your",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "J J Silver Limos",
@@ -1068,7 +1513,21 @@
     "lat": 53.719736,
     "lng": -1.462849,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@bluecrushlimo.co.uk",
+    "emails": [
+      "sales@bluecrushlimo.co.uk"
+    ],
+    "description": "Arrive in style with our premium limousine service. Perfect for weddings, birthdays, corporate events, proms, and all special occasions across Yorkshire. Book your chauffeur-driven limo today for a first-class experience with Blue Crush Limo Hire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "SLS Limousines & Wedding Cars",
@@ -1085,7 +1544,18 @@
     "lat": 53.618745,
     "lng": -1.566466,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@slslimousines.co.uk",
+    "emails": [
+      "info@slslimousines.co.uk"
+    ],
+    "description": "Limo Hire Huddersfield | Wedding Cars West Yorkshire. Vintage Wedding Car Hire. VW Campervan Weddings in West Yorkshire & South Yorkshire.",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Marshalls Wedding Cars",
@@ -1118,7 +1588,7 @@
     "types": "Limousine service",
     "lat": 53.799849,
     "lng": -1.666259,
-    "found_in_location": "Pudsey",
+    "found_in_location": "Bradford",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -1153,7 +1623,18 @@
     "lat": 53.999264,
     "lng": -1.416386,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@yorkshireweddingcars.com",
+    "emails": [
+      "info@yorkshireweddingcars.com"
+    ],
+    "description": "Yorkshire Wedding Cars offer the premier selection of Luxury wedding cars for hire Yorkshire, including a rare Rolls Royce Phantom, choice of 2 Bentley Turbo RL's, iconic Rolls Royce Silver Cloud, convertible Porsche Boxster or Range Rover Vogue. Based near Harrogate, North Yorkshire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "SLS Wedding Cars Barnsley",
@@ -1170,7 +1651,18 @@
     "lat": 53.552684,
     "lng": -1.488067,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@slslimousines.co.uk",
+    "emails": [
+      "info@slslimousines.co.uk"
+    ],
+    "description": "Limo Hire Huddersfield | Wedding Cars West Yorkshire. Vintage Wedding Car Hire. VW Campervan Weddings in West Yorkshire & South Yorkshire.",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "ASL Wedding Cars",
@@ -1182,12 +1674,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 53.412518,
     "lng": -1.501641,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Make your big day unforgettable with ASL Wedding Cars. Discover our fleet of vintage and modern luxury wedding cars, all chauffeur-driven and available throughout Sheffield, Rotherham, Doncaster, and beyond.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Yorkshire Dales Vintage Wedding Car Company",
@@ -1199,12 +1698,23 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"9 am–5:30 pm\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.930525,
     "lng": -1.988756,
-    "found_in_location": "Keighley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "info@theyorkshiredalesvintageweddingcarcompany.co.uk",
+    "emails": [
+      "info@theyorkshiredalesvintageweddingcarcompany.co.uk"
+    ],
+    "description": "Classic, rustic and vintage wedding car hire Skipton, The Yorkshire Dales. Vintage Rolls Royce, classic MG convertible, rustic Land Rover. Tel 07801 534739",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ribbon & Ride",
@@ -1221,7 +1731,16 @@
     "lat": 53.984523,
     "lng": -1.574989,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@ribbonandride.com",
+    "emails": [
+      "info@ribbonandride.com"
+    ],
+    "description": "Your wedding day is one of the most memorable moments of your life, and every detail should be nothing short of perfect, including your journey to the venue. Luxury wedding car available for hire with chauffeur.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ace Party",
@@ -1233,12 +1752,17 @@
     "rating": 4.9,
     "total_reviews": 133,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"7\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"7 am–11 pm\"],\"Saturday\":[\"7 am–11 pm\"],\"Sunday\":[\"7 am–11 pm\"],\"Thursday\":[\"7 am–11 pm\"],\"Tuesday\":[\"7 am–11 pm\"],\"Wednesday\":[\"7 am–11 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 53.422651,
     "lng": -1.239245,
     "found_in_location": "Rotherham",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@aceparty.co",
+    "emails": [
+      "info@aceparty.co"
+    ],
+    "description": "Learn more about our superb product range including Fun Casino Hire, Crazy Golf Hire and Light Up Number Hire, perfect for the most glamorous of occasions!"
   },
   {
     "name": "Travel Xpress",
@@ -1250,12 +1774,20 @@
     "rating": 4.9,
     "total_reviews": 131,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.837961,
     "lng": -1.771519,
-    "found_in_location": "Shipley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "admin@travelxpress.co.uk",
+    "emails": [
+      "admin@travelxpress.co.uk"
+    ],
+    "description": "Trading for over 20 years, Travel Xpress is a family run minibus and coach hire business. We provide a wide range of services to all segments of the market including schools, social clubs, airport transfers and private hires.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Gamezstation",
@@ -1271,8 +1803,9 @@
     "types": "Children's party service",
     "lat": 53.806151,
     "lng": -1.664836,
-    "found_in_location": "Pudsey",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "description": "The ultimate video game party in the north of England, hassle free and straight to your door! Our gaming vans cater for children and adults and have a vast range of games available."
   },
   {
     "name": "FD LUXURY - LUXURY TRANSPORT SERVICE",
@@ -1289,7 +1822,21 @@
     "lat": 53.79135,
     "lng": -1.742715,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@fdlux.co.uk",
+    "emails": [
+      "sales@fdlux.co.uk"
+    ],
+    "description": "Hire chauffeur driven coaches & minibuses, luxury VIP minibuses, supercar rental, bespoke travel, airport transfers, concierge, city to city travel and more",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Star Limos",
@@ -1301,12 +1848,25 @@
     "rating": 4.9,
     "total_reviews": 81,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.58322,
     "lng": -1.484906,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@starlimos.co.uk",
+    "emails": [
+      "info@starlimos.co.uk"
+    ],
+    "description": "Star Limos is a premier limo hire provider in Leeds, Bradford, & Wakefield. We offer a range of services for birthdays, weddings, & other special occasions.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Affordable Day Trips Limited",
@@ -1340,7 +1900,16 @@
     "lat": 53.685595,
     "lng": -1.509763,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@chicotravelgroup.co.uk",
+    "emails": [
+      "sales@chicotravelgroup.co.uk",
+      "email@domain.co.uk"
+    ],
+    "description": "Looking for 8 to 72 seater minibus or coach hire in Wakefield, Pontefract, Castleford or Yorkshire? No matter the journey, Chico Travel Group has the vehicle for you! Affordable, comfortable and reliable",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "1st Class Minibus Travel",
@@ -1357,7 +1926,15 @@
     "lat": 53.37461,
     "lng": -1.449424,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "firstclassminibustravel@gmail.com",
+    "emails": [
+      "firstclassminibustravel@gmail.com"
+    ],
+    "description": "FIRST CLASS MINIBUS TRAVEL YOUR JOURNEY, OUR PASSION Discover 1st Class Minibus Travel, your premier destination for minibus hire in South Yorkshire. Experience the best travel at affordable prices, our reputation as Sheffield's leading minibus operator is built on reliability, punctuality, and...",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Love Me Do Wedding Cars",
@@ -1374,7 +1951,16 @@
     "lat": 53.74556,
     "lng": -1.532809,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@lovemedoweddingcars.co.uk",
+    "emails": [
+      "info@lovemedoweddingcars.co.uk"
+    ],
+    "description": "Choose a Wedding Car from our award winning bridal cars. Competitive prices for wedding transport in Leeds, Wakefield, Huddersfield, Batley, Bradford West Yorks",
+    "services": [
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cartwright's Wedding Cars",
@@ -1386,7 +1972,7 @@
     "rating": 4.9,
     "total_reviews": 32,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 53.650827,
     "lng": -1.735853,
@@ -1403,12 +1989,25 @@
     "rating": 4.9,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.412358,
     "lng": -1.501748,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@asllimousines.co.uk",
+    "emails": [
+      "info@asllimousines.co.uk"
+    ],
+    "description": "Limousine Hire with cars that contain a range of different features to cater for all in and around the Sheffield area. CALL TODAY",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Yorkshire Bridal Cars",
@@ -1420,12 +2019,22 @@
     "rating": 4.9,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.695599,
     "lng": -1.400086,
-    "found_in_location": "Normanton",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "alan@yorkshirebridalcars.co.uk",
+    "emails": [
+      "alan@yorkshirebridalcars.co.uk"
+    ],
+    "description": "Hire affordable wedding cars in Normanton, West Yorkshire. Classic Beauford for the Bride and Groom , White London Taxi and Chrysler Baby Bentley. Family run business. 5* reviews. Get a quote online..",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "TJs Travel Ltd",
@@ -1442,7 +2051,16 @@
     "lat": 53.686608,
     "lng": -1.490971,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@tjstravel.co.uk",
+    "emails": [
+      "info@tjstravel.co.uk",
+      "sales@tjstravel.co.uk"
+    ],
+    "description": "Modern coach & minibus hire in Leeds, Wakefield & across Yorkshire. Explore our 8-72 seater coaches & minibuses. Book your safe, reliable travel. TJs Travel: Ready for the journey ahead!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Hunters Coaches Ltd",
@@ -1458,8 +2076,12 @@
     "types": "Bus company",
     "lat": 53.804596,
     "lng": -1.657268,
-    "found_in_location": "Pudsey",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "sales@huntercoaches.co.uk",
+    "emails": [
+      "sales@huntercoaches.co.uk"
+    ]
   },
   {
     "name": "Denroyd Farm Weddings & Events Limited",
@@ -1471,12 +2093,17 @@
     "rating": 4.8,
     "total_reviews": 110,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20132\u202fpm\"],\"Monday\":[\"9\u202fam\u20132\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20132\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20132\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20132\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–2 pm\"],\"Monday\":[\"9 am–2 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–2 pm\"],\"Tuesday\":[\"9 am–2 pm\"],\"Wednesday\":[\"9 am–2 pm\"]}",
     "types": "Wedding venue",
     "lat": 53.562218,
     "lng": -1.649457,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "enquiries@denroydfarm.co.uk",
+    "emails": [
+      "enquiries@denroydfarm.co.uk"
+    ],
+    "description": "Based in Huddersfield Denroyd Farm hosts regular tribute nights, private functions, weddings and more."
   },
   {
     "name": "Regency Wedding Cars",
@@ -1488,12 +2115,21 @@
     "rating": 4.8,
     "total_reviews": 69,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.266307,
     "lng": -1.32589,
-    "found_in_location": "Chesterfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Sheffield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@regencyweddingcars.co.uk",
+    "emails": [
+      "info@regencyweddingcars.co.uk"
+    ],
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Executive UK Travel",
@@ -1505,12 +2141,21 @@
     "rating": 4.8,
     "total_reviews": 59,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.79704,
     "lng": -1.76835,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "enquiries@executiveuktravel.com",
+    "emails": [
+      "enquiries@executiveuktravel.com"
+    ],
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Advanced Travel",
@@ -1527,7 +2172,17 @@
     "lat": 53.438118,
     "lng": -1.349152,
     "found_in_location": "Rotherham",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@advanced-travel.co.uk",
+    "emails": [
+      "info@advanced-travel.co.uk"
+    ],
+    "description": "Trust Advanced Travel for reliable Minibus & Coach Hire in South Yorkshire. Ride in comfort in our 16-24 seat minibuses and 49-61 seat coaches",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mon Amour",
@@ -1539,7 +2194,7 @@
     "rating": 4.8,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"2\u201311\u202fpm\"],\"Monday\":[\"11\u202fam\u201311\u202fpm\"],\"Saturday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"11\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"11\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"2–11 pm\"],\"Monday\":[\"11 am–11 pm\"],\"Saturday\":[\"10 am–11:30 pm\"],\"Sunday\":[\"11 am–11:30 pm\"],\"Thursday\":[\"11 am–11 pm\"],\"Tuesday\":[\"11 am–11 pm\"],\"Wednesday\":[\"11 am–11 pm\"]}",
     "types": "Wedding venue",
     "lat": 53.379244,
     "lng": -1.410356,
@@ -1556,12 +2211,23 @@
     "rating": 4.8,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 53.838645,
     "lng": -1.927758,
-    "found_in_location": "Keighley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "yesteryearcoaches@gmail.com",
+    "emails": [
+      "yesteryearcoaches@gmail.com"
+    ],
+    "description": "Yesteryear Cars were established 20 years ago in 1996 and provide vintage bus tour yorkshire, vintage wedding bus baildon, vintage double deck buses yorkshire and more..",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Men In White Limos",
@@ -1573,12 +2239,22 @@
     "rating": 4.8,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20138:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8:30 pm\"],\"Monday\":[\"9 am–8:30 pm\"],\"Saturday\":[\"9 am–8:30 pm\"],\"Sunday\":[\"9 am–2 pm\"],\"Thursday\":[\"9 am–8:30 pm\"],\"Tuesday\":[\"9 am–8:30 pm\"],\"Wednesday\":[\"9 am–8:30 pm\"]}",
     "types": "Limousine service",
     "lat": 53.984177,
     "lng": -1.117243,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@miwlimos.co.uk",
+    "emails": [
+      "info@miwlimos.co.uk"
+    ],
+    "description": "Limo hire, Hummers, Party Buses and Executive Vehicles for hire in York and Yorkshire for your Wedding, Prom, Night out, Trip to the Races",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "UK Luxury Travel LTD",
@@ -1590,7 +2266,7 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"10:30\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"10:30\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10:30 am–10:30 pm\"],\"Monday\":[\"10:30 am–10:30 pm\"],\"Saturday\":[\"10:30 am–10:30 pm\"],\"Sunday\":[\"10:30 am–10:30 pm\"],\"Thursday\":[\"10:30 am–10:30 pm\"],\"Tuesday\":[\"10:30 am–10:30 pm\"],\"Wednesday\":[\"10:30 am–10:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.792827,
     "lng": -1.76943,
@@ -1607,12 +2283,22 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.968218,
     "lng": -1.298429,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@dovecoteweddingcars.co.uk",
+    "emails": [
+      "info@dovecoteweddingcars.co.uk"
+    ],
+    "description": "Welcome to Dovecote Wedding Cars Wedding car hire York, Leeds, Harrogate, Wetherby, Tadcaster, Ripon, Selby. Providing a bespoke quality service whatever the occasion.",
+    "services": [
+      "Bentley",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Best Friends Wedding Cars",
@@ -1624,12 +2310,25 @@
     "rating": 4.8,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.661485,
     "lng": -1.77716,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@bestfriendsweddingcars.co.uk",
+    "emails": [
+      "info@bestfriendsweddingcars.co.uk",
+      "info@slslimousines.co.uk"
+    ],
+    "description": "Vintage, Classic, Modern Wedding Car Hire throughout Yorkshire | Vintage VW Campervan | Wedding Limousines | Convertible Wedding Cars | Transport",
+    "services": [
+      "Airport Transfer",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Maxfields Travel",
@@ -1641,12 +2340,17 @@
     "rating": 4.7,
     "total_reviews": 165,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20132\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–2 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–3 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.370104,
     "lng": -1.320124,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@maxfieldstravel.co.uk",
+    "emails": [
+      "info@maxfieldstravel.co.uk"
+    ],
+    "description": "Maxfields Executive Travel provide affordable, high quality tours and holidays across the United Kingdom, Maxfields Travel is based in Rotherham near Sheffield, in South Yorkshire. We specialise in holidays and day trips for families, individuals and couples to great UK destinations such as..."
   },
   {
     "name": "Travel Direct Minibus Services Ltd",
@@ -1658,12 +2362,21 @@
     "rating": 4.7,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–7 pm\"],\"Saturday\":[\"8:30 am–6 pm\"],\"Sunday\":[\"8:30 am–5 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.370735,
     "lng": -1.416789,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@traveldirectminibusservices.co.uk",
+    "emails": [
+      "info@traveldirectminibusservices.co.uk"
+    ],
+    "description": "Welcome to Travel Direct Minibus Services the home of mini-bus hire in Sheffield, we offer top quality minibuses at an affordable price.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Barnsley Minibuses",
@@ -1680,7 +2393,16 @@
     "lat": 53.526707,
     "lng": -1.388442,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@barnsley-minibuses.co.uk",
+    "emails": [
+      "info@barnsley-minibuses.co.uk"
+    ],
+    "description": "Expert minibus hire services in Barnsley. Professional, reliable, and affordable transport solutions for all occasions. Get your free quote today!",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Fairytale Wedding Cars",
@@ -1692,12 +2414,19 @@
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Monday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Saturday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Thursday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Tuesday\":[\"10:30\u202fam\u20137:30\u202fpm\"],\"Wednesday\":[\"10:30\u202fam\u20137:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10:30 am–7:30 pm\"],\"Monday\":[\"10:30 am–7:30 pm\"],\"Saturday\":[\"10:30 am–7:30 pm\"],\"Sunday\":[\"10:30 am–7:30 pm\"],\"Thursday\":[\"10:30 am–7:30 pm\"],\"Tuesday\":[\"10:30 am–7:30 pm\"],\"Wednesday\":[\"10:30 am–7:30 pm\"]}",
     "types": "Wedding service",
     "lat": 53.567343,
     "lng": -1.527436,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Fairytale Wedding Car Hire for your special day. Our vintage limousines and unique wedding bus provide luxury and style across Barnsley, Wakefield, Rotherham And Sheffield",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "All Travel York",
@@ -1714,7 +2443,17 @@
     "lat": 53.965592,
     "lng": -1.120673,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sssingo@hotmail.co.uk",
+    "emails": [
+      "sssingo@hotmail.co.uk"
+    ],
+    "description": "Looking for affordable mini bus hire in York? Discover how All Travel York is a reliable and cost-effective mini bus hire service, perfect for your transportation needs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dolan Green Travel Services",
@@ -1731,7 +2470,11 @@
     "lat": 53.675074,
     "lng": -1.495911,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Based in Wakefield close to The Hepworth, Dolan Green Travel (Wakefield Minibus Hire) offers an unrivaled car, mini bus, mini-coach service by our family-run business.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "CitySightseeing York",
@@ -1748,7 +2491,12 @@
     "lat": 53.963018,
     "lng": -1.086252,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "yorkcitysightseeing@transdevbus.co.uk",
+    "emails": [
+      "yorkcitysightseeing@transdevbus.co.uk"
+    ],
+    "description": "The Citysightseeing York tour will capture the hearts of all ages! With so many things to do and attractions to see, York is the perfect place to hop-on to one of our open top buses and explore the English heritage. We’ll take you to the finest attractions that this thriving city has to offer!..."
   },
   {
     "name": "Star Coaches",
@@ -1760,12 +2508,17 @@
     "rating": 4.6,
     "total_reviews": 257,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.710916,
     "lng": -1.633117,
-    "found_in_location": "Batley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@star-coaches.com",
+    "emails": [
+      "info@star-coaches.com"
+    ],
+    "description": "Established in 1982, Star Coaches is amongst the longest serving minibus and coach hire providers in West Yorkshire. Get a quote >>"
   },
   {
     "name": "Tetley's Motor Services",
@@ -1777,12 +2530,21 @@
     "rating": 4.6,
     "total_reviews": 150,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20139\u202fpm\"],\"Monday\":[\"6\u202fam\u20139\u202fpm\"],\"Saturday\":[\"6\u202fam\u20132\u202fpm\"],\"Sunday\":[\"6\u202fam\u20132\u202fpm\"],\"Thursday\":[\"6\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–9 pm\"],\"Monday\":[\"6 am–9 pm\"],\"Saturday\":[\"6 am–2 pm\"],\"Sunday\":[\"6 am–2 pm\"],\"Thursday\":[\"6 am–9 pm\"],\"Tuesday\":[\"6 am–9 pm\"],\"Wednesday\":[\"6 am–9 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.784229,
     "lng": -1.525479,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@tetleyscoaches.co.uk",
+    "emails": [
+      "sales@tetleyscoaches.co.uk",
+      "accounts@tetleyscoaches.co.uk"
+    ],
+    "description": "Established in 1949, Tetley's Coaches is Leeds' oldest coach company and has provided safe and reliable coach hire in Leeds, Yorkshire, and beyond for over 75 years.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Wood Lane Countryside Centre",
@@ -1794,7 +2556,7 @@
     "rating": 4.6,
     "total_reviews": 136,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Events Venue",
     "lat": 53.398322,
     "lng": -1.51762,
@@ -1811,12 +2573,18 @@
     "rating": 4.6,
     "total_reviews": 130,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20134\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Events Venue",
     "lat": 53.783793,
     "lng": -1.541697,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@newcravenhall.co.uk",
+    "emails": [
+      "info@newcravenhall.co.uk",
+      "styling@newcravenhall.co.uk"
+    ],
+    "description": "Located in the heart of Leeds City Centre, New Craven Hall is an industrial, urban luxe events venue for wedding and corporate hire."
   },
   {
     "name": "Abbie Limos Hull and Grimsby",
@@ -1845,15 +2613,26 @@
     "rating": 4.6,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 53.691452,
     "lng": -1.631357,
-    "found_in_location": "Dewsbury",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@idrive-prestigecars.co.uk",
+    "emails": [
+      "info@idrive-prestigecars.co.uk"
+    ],
+    "description": "Our fleet of finest cars, are all ready and available for you to drive.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce"
+    ]
   },
   {
-    "name": "Yorkshire Elite Chauffeurs \u2013 Executive Chauffeur Service Harrogate | Airport Transfer Harrogate",
+    "name": "Yorkshire Elite Chauffeurs – Executive Chauffeur Service Harrogate | Airport Transfer Harrogate",
     "address": "27 Hilltop Rise, Harrogate, HG1 3BW, Harrogate, HG1 1UF, GB",
     "phone": "01423 313563",
     "international_phone": "01423 313563",
@@ -1867,7 +2646,17 @@
     "lat": 54.011496,
     "lng": -1.536004,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@yechauffeurs.co.uk",
+    "emails": [
+      "info@yechauffeurs.co.uk"
+    ],
+    "description": "Choose ourluxury chauffeur Harrogateservice for an executive travel experience marked by professionalism, privacy, and comfort.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Yorkshire Wedding Car Company Ltd",
@@ -1879,12 +2668,23 @@
     "rating": 4.6,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.676264,
     "lng": -1.691864,
-    "found_in_location": "Mirfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Huddersfield",
+    "found_with_query": "limo yorkshire",
+    "email": "support@theyorkshireweddingcarcompany.co.uk",
+    "emails": [
+      "support@theyorkshireweddingcarcompany.co.uk"
+    ],
+    "description": "Classic and Vintage wedding cars and VW campervan hire. Wedding cars available for hire in Yorkshire, including Leeds, York, Wakefield, Harrogate, Bradford",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "West Yorkshire Travel",
@@ -1901,7 +2701,15 @@
     "lat": 53.823172,
     "lng": -1.898128,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@westyorkshiretravel.co.uk",
+    "emails": [
+      "info@westyorkshiretravel.co.uk"
+    ],
+    "description": "Reliable coach and minibus hire across West Yorkshire. Clean vehicles, experienced drivers, and clear quotes for all group sizes. Get your journey sorted today.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Falcon Travel (Wakefield) Ltd",
@@ -1918,7 +2726,12 @@
     "lat": 53.631184,
     "lng": -1.525927,
     "found_in_location": "Wakefield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "falcontltd@talktalk.net",
+    "emails": [
+      "falcontltd@talktalk.net"
+    ],
+    "description": "Falcon Travel Wakefield Ltd is a coach hire and minibus hire company operating throughout the Wakefield, West Yorkshire area."
   },
   {
     "name": "Great Yorkshire Events Centre",
@@ -1930,12 +2743,18 @@
     "rating": 4.5,
     "total_reviews": 2079,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"8:30 am–5 pm\"],\"Sunday\":[\"8:30 am–5 pm\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Events Venue",
     "lat": 53.982705,
     "lng": -1.5071,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "enquiries@eventscentre.co.uk",
+    "emails": [
+      "enquiries@eventscentre.co.uk",
+      "enquiries@thegreatyorkshireeventscentre.co.uk"
+    ],
+    "description": "The Great Yorkshire Events Centre comprises of The Halls, The Pavilions of Harrogate and The Grounds located on the Great Yorkshire Showground in Harrogate"
   },
   {
     "name": "The Ghost Bus Tours York",
@@ -1947,12 +2766,16 @@
     "rating": 4.5,
     "total_reviews": 765,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Sightseeing Tour Agency",
     "lat": 53.958434,
     "lng": -1.091804,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Edinburgh, London & York Welcome dear mourner to the world’s ONLY comedy horror theatre show on wheels, Great Britains must do, number one attraction. But beware…",
+    "services": [
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Mirage Banqueting Suite",
@@ -1964,7 +2787,7 @@
     "rating": 4.5,
     "total_reviews": 670,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20138\u202fpm\"],\"Monday\":[\"11\u202fam\u20138\u202fpm\"],\"Saturday\":[\"11\u202fam\u20138\u202fpm\"],\"Sunday\":[\"11\u202fam\u20138\u202fpm\"],\"Thursday\":[\"11\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"11\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"11\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–8 pm\"],\"Monday\":[\"11 am–8 pm\"],\"Saturday\":[\"11 am–8 pm\"],\"Sunday\":[\"11 am–8 pm\"],\"Thursday\":[\"11 am–8 pm\"],\"Tuesday\":[\"11 am–8 pm\"],\"Wednesday\":[\"11 am–8 pm\"]}",
     "types": "Banquet hall",
     "lat": 53.791882,
     "lng": -1.774373,
@@ -1981,12 +2804,13 @@
     "rating": 4.5,
     "total_reviews": 66,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u201311\u202fpm\"],\"Monday\":[\"1\u201311\u202fpm\"],\"Saturday\":[\"12\u201311\u202fpm\"],\"Sunday\":[\"12\u201311\u202fpm\"],\"Thursday\":[\"1\u201311\u202fpm\"],\"Tuesday\":[\"1\u201311\u202fpm\"],\"Wednesday\":[\"1\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–11 pm\"],\"Monday\":[\"1–11 pm\"],\"Saturday\":[\"12–11 pm\"],\"Sunday\":[\"12–11 pm\"],\"Thursday\":[\"1–11 pm\"],\"Tuesday\":[\"1–11 pm\"],\"Wednesday\":[\"1–11 pm\"]}",
     "types": "Social club",
     "lat": 53.995562,
     "lng": -1.538439,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "The Londesborough Club, Harrogate, offers kicking live music, SKY & TNT Sports, snooker, pool & darts, and a fantastic range of beers, lagers, wines and spirits. New members welcome."
   },
   {
     "name": "Prime Cars Huddersfield",
@@ -2015,7 +2839,7 @@
     "rating": 4.5,
     "total_reviews": 50,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u201311\u202fpm\"],\"Monday\":[\"4\u201311\u202fpm\"],\"Saturday\":[\"12\u201311\u202fpm\"],\"Sunday\":[\"12\u201311\u202fpm\"],\"Thursday\":[\"4\u201311\u202fpm\"],\"Tuesday\":[\"4\u201311\u202fpm\"],\"Wednesday\":[\"4\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4–11 pm\"],\"Monday\":[\"4–11 pm\"],\"Saturday\":[\"12–11 pm\"],\"Sunday\":[\"12–11 pm\"],\"Thursday\":[\"4–11 pm\"],\"Tuesday\":[\"4–11 pm\"],\"Wednesday\":[\"4–11 pm\"]}",
     "types": "Club",
     "lat": 53.981138,
     "lng": -1.556483,
@@ -2032,12 +2856,21 @@
     "rating": 4.5,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"11\u202fam\u20132\u202fpm\"],\"Sunday\":[\"11\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"11 am–2 pm\"],\"Sunday\":[\"11 am–2 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.705128,
     "lng": -1.434715,
-    "found_in_location": "Normanton",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "info@tstravels.co.uk",
+    "emails": [
+      "info@tstravels.co.uk"
+    ],
+    "description": "Reliable and affordable coach hire in Leeds with TS Travel. Modern coaches, professional drivers, and tailored travel solutions for any group size. Book today!",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Falcon Travel Bradford Ltd",
@@ -2054,7 +2887,14 @@
     "lat": 53.789032,
     "lng": -1.784574,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@bdfalcontravel.co.uk",
+    "emails": [
+      "info@bdfalcontravel.co.uk"
+    ],
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Premier Limousines",
@@ -2066,12 +2906,25 @@
     "rating": 4.5,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.525383,
     "lng": -1.418565,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@premier-limousines.co.uk",
+    "emails": [
+      "sales@premier-limousines.co.uk"
+    ],
+    "description": "Limo Hire Barnsley, Premier Limousine Hire is you’re local Barnsley Limo Hire Company. We specialise in Limo Hire Barnsley, Limo Hire and Wedding Car Hire",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Hilife Limousines",
@@ -2083,12 +2936,25 @@
     "rating": 4.5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.703202,
     "lng": -1.431207,
-    "found_in_location": "Normanton",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Wakefield",
+    "found_with_query": "limo yorkshire",
+    "email": "bill.bowling70@gmail.com",
+    "emails": [
+      "bill.bowling70@gmail.com"
+    ],
+    "description": "Yorkshire HiLife Limousineswe have a superb range of Limos and Luxury cars for hire in based in Wakefield West Yorkshire serving South and West Yorkshire and East Lancashire.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wharfedale Wedding Cars",
@@ -2100,12 +2966,21 @@
     "rating": 4.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.893491,
     "lng": -1.717249,
-    "found_in_location": "Ilkley",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Bradford",
+    "found_with_query": "limo yorkshire",
+    "email": "david@wharfedaleweddingcars.co.uk",
+    "emails": [
+      "david@wharfedaleweddingcars.co.uk"
+    ],
+    "description": "Welcome to Wharfedale Wedding Cars, feel free to browse the site, take a look in 'The Car' section to view more images of our beautiful 1930's style Beauford tourer with Ivory body work and a luxury burgundy interior. Wharfedale Wedding Cars are based in Menston, West Yorkshire making them ideal...",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "City Cruises - King's Staith Landing",
@@ -2117,12 +2992,13 @@
     "rating": 4.4,
     "total_reviews": 1969,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–10:30 pm\"],\"Monday\":[\"10 am–10:30 pm\"],\"Saturday\":[\"10 am–10:30 pm\"],\"Sunday\":[\"10 am–10:30 pm\"],\"Thursday\":[\"10 am–10:30 pm\"],\"Tuesday\":[\"10 am–10:30 pm\"],\"Wednesday\":[\"10 am–10:30 pm\"]}",
     "types": "Boat tour agency",
     "lat": 53.956314,
     "lng": -1.082876,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Browse York’s offerings of sightseeing, dining, and private event cruises for your perfect time on the River Ouse."
   },
   {
     "name": "Oasis Limousines",
@@ -2134,12 +3010,22 @@
     "rating": 4.4,
     "total_reviews": 265,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20133\u202fam\"],\"Monday\":[\"9\u202fam\u20133\u202fam\"],\"Saturday\":[\"9\u202fam\u20133\u202fam\"],\"Sunday\":[\"9\u202fam\u20133\u202fam\"],\"Thursday\":[\"9\u202fam\u20133\u202fam\"],\"Tuesday\":[\"9\u202fam\u20133\u202fam\"],\"Wednesday\":[\"9\u202fam\u20133\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–3 am\"],\"Monday\":[\"9 am–3 am\"],\"Saturday\":[\"9 am–3 am\"],\"Sunday\":[\"9 am–3 am\"],\"Thursday\":[\"9 am–3 am\"],\"Tuesday\":[\"9 am–3 am\"],\"Wednesday\":[\"9 am–3 am\"]}",
     "types": "Limousine service",
     "lat": 53.808585,
     "lng": -1.759163,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Experience Luxury Car Hire with Oasis Limousines – Exclusive vehicles for weddings, parties, and VIP journeys.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Trafalgar Warehouse",
@@ -2156,7 +3042,14 @@
     "lat": 53.3777,
     "lng": -1.475547,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "enquire@trafalgarwarehouse.co.uk",
+    "emails": [
+      "enquire@trafalgarwarehouse.co.uk",
+      "info@la-studioweb.com",
+      "trafalgarwarehouse@gmail.com"
+    ],
+    "description": "Trafalgar Warehouse, sits nestled in the heart of Sheffield city centre offering a distinct yet flexible event and wedding space which seamlessly blends 1930’s industrial charm with modern versatility, catering for a variety of celebrations and events."
   },
   {
     "name": "White Line Limos",
@@ -2173,7 +3066,11 @@
     "lat": 53.375956,
     "lng": -1.388511,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Book the best party bus hire service for your next event with White Line Limos. Our party buses are equipped with all the amenities to make your party a memorable one.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "York Pullman Bus Co Ltd",
@@ -2185,12 +3082,20 @@
     "rating": 4.4,
     "total_reviews": 67,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.9544,
     "lng": -1.180848,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@yorkpullmanbus.co.uk",
+    "emails": [
+      "sales@yorkpullmanbus.co.uk"
+    ],
+    "description": "York Pullman Bus Company is York’s largest privately owned coach and bus operator with a rich heritage of serving the local area since the 1920s. With an award winning fleet of more than 100 coaches operating from bases in York, Strensall, Boroughbridge and Market Weighton, we can cater for your...",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "MURGATROYD OF HARROGATE LTD",
@@ -2206,7 +3111,7 @@
     "types": "Bus company",
     "lat": 53.916164,
     "lng": -1.3121,
-    "found_in_location": "Wetherby",
+    "found_in_location": "York",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -2219,7 +3124,7 @@
     "rating": 4.3,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 53.58323,
     "lng": -1.484943,
@@ -2240,7 +3145,7 @@
     "types": "Limousine service",
     "lat": 53.289007,
     "lng": -1.299392,
-    "found_in_location": "Chesterfield",
+    "found_in_location": "Sheffield",
     "found_with_query": "limo yorkshire"
   },
   {
@@ -2258,7 +3163,15 @@
     "lat": 53.367357,
     "lng": -1.484723,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "europeantravel@hotmail.co.uk",
+    "emails": [
+      "europeantravel@hotmail.co.uk"
+    ],
+    "description": "• Corporate Travel: Impress clients or transport your team with style and efficiency.• Airport Transfers: Timely drop-offs and pick-ups to all major airports.• School & College Transport: Safe and reliable travel for students and staff.• Private Hire: Weddings, family gatherings, nights out, or...",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Aspire",
@@ -2270,12 +3183,17 @@
     "rating": 4.2,
     "total_reviews": 255,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Events Venue",
     "lat": 53.797432,
     "lng": -1.548827,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "events@aspire-leeds.co.uk",
+    "emails": [
+      "events@aspire-leeds.co.uk"
+    ],
+    "description": "Discover Leeds' Award-Winning Event Venue with exclusive meeting rooms & venue hire. Host your next event in style at Aspire Leeds."
   },
   {
     "name": "Spire Limousines",
@@ -2287,12 +3205,23 @@
     "rating": 4.2,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.235244,
     "lng": -1.309446,
-    "found_in_location": "Chesterfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Sheffield",
+    "found_with_query": "limo yorkshire",
+    "email": "spirelimo@aol.com",
+    "emails": [
+      "spirelimo@aol.com"
+    ],
+    "description": "Chesterfields Largest Limousine & Chauffeur Driven Car Hire",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Legends Wedding Services",
@@ -2338,12 +3267,18 @@
     "rating": 4.0,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.389451,
     "lng": -1.405353,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@linburg.co.uk",
+    "emails": [
+      "info@linburg.co.uk",
+      "sales@linburg.co.uk"
+    ],
+    "description": "Coach Hire Sheffield & Derby - Coach Hire in Sheffield & Derby from Linburg Coach Company. Get a free quote today!"
   },
   {
     "name": "Vintage Vehicle Hire",
@@ -2355,12 +3290,17 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Vehicle Hire",
     "lat": 53.379017,
     "lng": -1.515652,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "hire@vintagevehiclehire.co.uk",
+    "emails": [
+      "hire@vintagevehiclehire.co.uk"
+    ],
+    "description": "Classic Double Decker Red Bus available to hire for your Special Occasion. Add a Bit of Fun and Nostalgia to Your Wedding Day."
   },
   {
     "name": "Abbey Executive Cars",
@@ -2377,7 +3317,13 @@
     "lat": 54.012667,
     "lng": -1.5443,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Abbey Executive Cars offers chauffeur services and airport transfers in Harrogate. Book your executive car with fixed pricing and professional drivers.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Stars & Stripes Limousines",
@@ -2406,12 +3352,13 @@
     "rating": 4.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Monday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Saturday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Sunday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Thursday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Tuesday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Wednesday\":[\"12\u202fam\u201311:59\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12 am–11:59 pm\"],\"Monday\":[\"12 am–11:59 pm\"],\"Saturday\":[\"12 am–11:59 pm\"],\"Sunday\":[\"12 am–11:59 pm\"],\"Thursday\":[\"12 am–11:59 pm\"],\"Tuesday\":[\"12 am–11:59 pm\"],\"Wednesday\":[\"12 am–11:59 pm\"]}",
     "types": "Limousine service",
     "lat": 53.805983,
     "lng": -1.771281,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "To change this page, upload your website into the public_html directory."
   },
   {
     "name": "Top Limo Bradford",
@@ -2428,7 +3375,20 @@
     "lat": 44.116171,
     "lng": -79.589408,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@toplimo.ca",
+    "emails": [
+      "info@toplimo.ca"
+    ],
+    "description": "Choose Top Limo, For unparalleled luxury limo service. Experience elite travel and book the best limousine service near you.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ready rent a Car",
@@ -2440,12 +3400,21 @@
     "rating": 3.9,
     "total_reviews": 51,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Van rental agency",
     "lat": 53.532536,
     "lng": -1.125503,
     "found_in_location": "Doncaster",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "doncaster@readyrentacar.co.uk",
+    "emails": [
+      "doncaster@readyrentacar.co.uk",
+      "grimsby@readyrentacar.co.uk",
+      "hull@readyrentacar.co.uk",
+      "lincoln@readyrentacar.co.uk",
+      "scunthorpe@readyrentacar.co.uk"
+    ],
+    "description": "Rent a car and explore Lincoln, Hull, Grimsby, Scunthorpe, and Doncaster. Contact one of the Ready Rent A Car locations today!"
   },
   {
     "name": "Ultimate Coaches",
@@ -2457,12 +3426,17 @@
     "rating": 3.9,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Transportation service",
     "lat": 53.576046,
     "lng": -1.476806,
     "found_in_location": "Barnsley",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "office@ultimatecoaches.co.uk",
+    "emails": [
+      "office@ultimatecoaches.co.uk"
+    ],
+    "description": "ultimatecoaches ultimate coaches coach hire minibus barnsley sheffield south yorkshire west yorkshire wakefield leeds huddersfield wakefield doncaster rotherham"
   },
   {
     "name": "The Harrogate Bus Company",
@@ -2479,7 +3453,8 @@
     "lat": 53.996858,
     "lng": -1.500232,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "We run over 500 buses from 9 bases across the north of England, enabling nearly 40 million journeys each year - all thanks to the commitment of our 1,400 colleagues. We create buses that people are proud to be seen on, and our aim is to make the bus integral to the towns and cities we serve."
   },
   {
     "name": "Limo Hire Huddersfield",
@@ -2496,7 +3471,21 @@
     "lat": 53.624283,
     "lng": -1.718016,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "acestarlimousines@gmail.com",
+    "emails": [
+      "acestarlimousines@gmail.com"
+    ],
+    "description": "UK limo hire company Ace Star Limousine Hire have the largest fleet of Limos for Hire in Yorkshire & UK. Contact us today for a Free Online Quote..",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ultimate Limos Harrogate",
@@ -2513,7 +3502,15 @@
     "lat": 53.997724,
     "lng": -1.501644,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Ultimate limo hire throughout Yorkshire, quality limousines for hire with best limo quotes guaranteed in Yorkshire",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Central Travel Sheffield Ltd",
@@ -2547,7 +3544,8 @@
     "lat": 54.002427,
     "lng": -1.522386,
     "found_in_location": "Harrogate",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Specialists in promotional vehicle hire. Custom branded buses and mobile experiences for product launches, parades and events across the UK."
   },
   {
     "name": "The Yorkshire Party Bus",
@@ -2581,7 +3579,18 @@
     "lat": 53.800685,
     "lng": -1.550613,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Best Limo Hire, Hummer Hire, Stretch Limousine Service in Leeds, West Yorkshire. Call 0113 320 3616 for a professional affordable first choice for limo hire in Leeds. Excellent customer service and large fleet of Limos, Hummers and Wedding Cars.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Platinum Limo Hire",
@@ -2598,7 +3607,8 @@
     "lat": 53.807751,
     "lng": -1.578037,
     "found_in_location": "Leeds",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Cheap Limo Hire in Leeds,Adel,Alwoodley,Armley,Barwick-in-Elmet,Beeston,Bramhope,Bramley,Chapel Allerton,Cross Gates,Farsley,Garforth,Guiseley,Harehills,Harewood,Headingley,Holbeck,Horsforth,Morley,Pudsey& all surounding areas inWest Yorkshire"
   },
   {
     "name": "Wedding Cars of Wakefield f",
@@ -2618,7 +3628,7 @@
     "found_with_query": "limo yorkshire"
   },
   {
-    "name": "\u200bSheffield Limo Home",
+    "name": "​Sheffield Limo Home",
     "address": "112, 88 Queen St, Sheffield City Centre, Sheffield, S1 2FW, GB",
     "phone": "0114 303 1540",
     "international_phone": "0114 303 1540",
@@ -2649,7 +3659,18 @@
     "lat": 53.591353,
     "lng": -1.698155,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@slslimousines.co.uk",
+    "emails": [
+      "info@slslimousines.co.uk"
+    ],
+    "description": "Limo Hire Huddersfield | Wedding Cars West Yorkshire. Vintage Wedding Car Hire. VW Campervan Weddings in West Yorkshire & South Yorkshire.",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Novelty Limo Hire",
@@ -2678,7 +3699,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.777367,
     "lng": -0.388611,
@@ -2700,7 +3721,16 @@
     "lat": 53.803177,
     "lng": -1.760007,
     "found_in_location": "Bradford",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@globalmedicals.co.uk",
+    "emails": [
+      "info@globalmedicals.co.uk",
+      "enquiries@globalmedicals.co.uk",
+      "accounts@globalmedicals.co.uk",
+      "instructions@globalmedicals.co.uk",
+      "marketing@globalmedicals.co.uk"
+    ],
+    "description": "We are a large well established and trustedmedico legalreportingagency in the Uk. We are committed as a medico legal agency to provide independentmedico legalevidence to facilitate the Courts for the settlement of personal injury claims and medical negligence etc. We are delighted to announce..."
   },
   {
     "name": "Bradford Wedding Cars",
@@ -2729,7 +3759,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 54.015166,
     "lng": -1.532448,
@@ -2751,7 +3781,18 @@
     "lat": 53.979711,
     "lng": -1.06627,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@transporthubuk.co.uk",
+    "emails": [
+      "sales@transporthubuk.co.uk",
+      "faz@transporthubuk.co.uk"
+    ],
+    "description": "Transport Hub offers outstanding travel services to all travellers heading to different cities and regions across the United Kingdom. Minibus Hire York have been serving this region, as well as London in general,",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Hopwood Coaches",
@@ -2768,7 +3809,12 @@
     "lat": 53.930208,
     "lng": -1.1542,
     "found_in_location": "York",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "pricequote@yorkcoachhire.co.uk",
+    "emails": [
+      "pricequote@yorkcoachhire.co.uk"
+    ],
+    "description": "York coach hire offers you best rates on minibuses and coaches across North Yorkshire.We as a company deal with many business clients."
   },
   {
     "name": "Wedding Cars Hire Sheffield",
@@ -2780,12 +3826,25 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 53.384543,
     "lng": -1.471643,
     "found_in_location": "Sheffield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Sheffield and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Pure Wedding Cars",
@@ -2797,7 +3856,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20133:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–3:30 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 53.786423,
     "lng": -0.3855,
@@ -2831,7 +3890,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding venue",
     "lat": 53.763179,
     "lng": -0.709165,
@@ -2870,7 +3929,14 @@
     "lat": 53.620794,
     "lng": -1.78843,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "description": "Weddings, Prom, and executive events. Great Selection of Chauffeur driven Classic American Hot rod vehicles. Specialist cars in Huddersfield.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Scotts Wedding Cars",
@@ -2882,12 +3948,18 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.676207,
     "lng": -1.692165,
-    "found_in_location": "Mirfield",
-    "found_with_query": "limo yorkshire"
+    "found_in_location": "Huddersfield",
+    "found_with_query": "limo yorkshire",
+    "description": "Wedding Cars Leeds. Classic & Vintage Wedding Cars available to hire throughout Leeds and surrounding areas of West Yorkshire. Get Instant prices and see LIVE availability. 100’s 5 Star reviews.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Westfield Chauffeur Drive",
@@ -2904,7 +3976,18 @@
     "lat": 53.628657,
     "lng": -1.806777,
     "found_in_location": "Huddersfield",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "info@westfieldchauffeurdrive.co.uk",
+    "emails": [
+      "info@westfieldchauffeurdrive.co.uk"
+    ],
+    "description": "Wedding Car Hire in Huddersfield. Westfield Chauffeur Drive have the perfect vintage or modern wedding car for your special day.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mayfair Wedding Cars",
@@ -2921,6 +4004,15 @@
     "lat": 53.701043,
     "lng": -1.8557,
     "found_in_location": "Halifax",
-    "found_with_query": "limo yorkshire"
+    "found_with_query": "limo yorkshire",
+    "email": "sales@luxuryweddingcarhire.co.uk",
+    "emails": [
+      "sales@luxuryweddingcarhire.co.uk"
+    ],
+    "description": "Welcome to Luxury Wedding Car Hire the home to the most prestigious Wedding cars and Wedding Limousines for hire in the UK",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   }
 ]

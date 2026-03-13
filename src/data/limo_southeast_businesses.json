@@ -9,12 +9,22 @@
     "rating": 5.0,
     "total_reviews": 252,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201312\u202fam\"],\"Monday\":[\"8\u202fam\u201312\u202fam\"],\"Saturday\":[\"8\u202fam\u20131\u202fam\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u201312\u202fam\"],\"Tuesday\":[\"8\u202fam\u201312\u202fam\"],\"Wednesday\":[\"8\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–12 am\"],\"Monday\":[\"8 am–12 am\"],\"Saturday\":[\"8 am–1 am\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–12 am\"],\"Tuesday\":[\"8 am–12 am\"],\"Wednesday\":[\"8 am–12 am\"]}",
     "types": "Wedding service",
     "lat": 51.324249,
     "lng": 0.870491,
-    "found_in_location": "Faversham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "email": "jasper@arriveinstylecars.com",
+    "emails": [
+      "jasper@arriveinstylecars.com",
+      "sam@arriveinstylecars.com"
+    ],
+    "description": "Call Arrive in Style Cars for luxury chauffeur services in the southeast. Prestige corporate & personal travel & superior wedding transport. 07736 241461",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Oasis Limos Kent",
@@ -31,7 +41,19 @@
     "lat": 51.262885,
     "lng": 0.511486,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "oasislimos@aol.com",
+    "emails": [
+      "oasislimos@aol.com"
+    ],
+    "description": "Limo hire in Kent. Experience the height of style and comfort with our unbeatable limo hire services. Contact us today for a quote.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Non Stop Gaming",
@@ -47,8 +69,13 @@
     "types": "Children's party service",
     "lat": 50.812725,
     "lng": -0.365851,
-    "found_in_location": "Worthing",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "nonstopgamingbizuk@gmail.com",
+    "emails": [
+      "nonstopgamingbizuk@gmail.com"
+    ],
+    "description": "Epic gaming, non-stop fun, and unforgettable memories — delivered straight to your doorstep."
   },
   {
     "name": "Shadow Carriage",
@@ -64,8 +91,19 @@
     "types": "Transportation service",
     "lat": 51.527895,
     "lng": -0.726337,
-    "found_in_location": "Maidenhead",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "sales@shadowcarriage.co.uk",
+    "emails": [
+      "sales@shadowcarriage.co.uk"
+    ],
+    "description": "Luxury chauffeur services in Maidenhead, Reading, Windsor & London. Airport transfers, business travel, weddings & executive minibus hire.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Glitter Pop Parties",
@@ -77,12 +115,17 @@
     "rating": 5.0,
     "total_reviews": 166,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"11\u202fam\u20132\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11\u202fam\u20132\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"11\u202fam\u20132\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"11 am–2 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11 am–2 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"11 am–2 pm\"]}",
     "types": "Children's party service",
     "lat": 51.240921,
     "lng": -0.54548,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@glitterpopparties.co.uk",
+    "emails": [
+      "enquiries@glitterpopparties.co.uk"
+    ],
+    "description": "Children's Pamper & Slime Parties in Surrey Bring the sparkle to your child's special day with GlitterPop Parties - the 5* rated team behind the most fabulous pamper parties and slime- making parties for kids aged 5 and up. We create beautifully styled setups right in your home or chosen venue."
   },
   {
     "name": "Luxury Executive Cars",
@@ -98,8 +141,18 @@
     "types": "Taxi service",
     "lat": 51.480785,
     "lng": -0.637382,
-    "found_in_location": "Windsor",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "info@luxuryexecutivecars.com",
+    "emails": [
+      "info@luxuryexecutivecars.com",
+      "bookings@luxuryexecutivecars.com"
+    ],
+    "description": "We provide affordable safe & clean windsor airport taxi service and airport transfers to suite all your business and personal needs",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Aarion Wedding Cars",
@@ -111,12 +164,22 @@
     "rating": 5.0,
     "total_reviews": 135,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–5:30 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.360955,
     "lng": 0.514099,
-    "found_in_location": "Rochester",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "glynnewm24@gmail.com",
+    "emails": [
+      "glynnewm24@gmail.com"
+    ],
+    "description": "We are an independent family-run wedding car hire business covering Kent, Medway, and South East London.Our Vintage, Classic and Modern wedding cars are meticulously well-presented.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Air2Port Chauffeurs & Taxis Southampton",
@@ -133,7 +196,16 @@
     "lat": 50.936292,
     "lng": -1.303575,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@air2portsouthampton.co.uk",
+    "emails": [
+      "info@air2portsouthampton.co.uk"
+    ],
+    "description": "Private Hire Transport Service for any journey, occasion or event based in Southampton",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Coastal Wedding Cars",
@@ -145,12 +217,23 @@
     "rating": 5.0,
     "total_reviews": 125,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 50.885203,
     "lng": -1.294787,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "coastalweddingcars@icloud.com",
+    "emails": [
+      "coastalweddingcars@icloud.com"
+    ],
+    "description": "Coastal Wedding Cars Southampton have an exceptional fleet of wedding cars in Southampton - arrive to your wedding in style.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "DB Executive Travel & Wedding Cars Ltd",
@@ -166,8 +249,13 @@
     "types": "Transportation service",
     "lat": 51.837154,
     "lng": -1.531033,
-    "found_in_location": "Witney",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Oxford",
+    "found_with_query": "limo southeast",
+    "description": "The highest quality chauffeur services for all journeys; business travel, airport transfers, Jaguar wedding cars. Oxfordshire based chauffeur company for all your travel needs.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Brighton Eagle Chauffeur & Taxi",
@@ -183,8 +271,17 @@
     "types": "Chauffeur service",
     "lat": 50.828804,
     "lng": -0.200148,
-    "found_in_location": "Hove",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "info@brightoneaglechauffeur.com",
+    "emails": [
+      "info@brightoneaglechauffeur.com"
+    ],
+    "description": "Are you looking for Brighton to Gatwick Airport Transfers, Chauffer Driven Executive Travel, Wedding Car Hire. We can customize our services to meet your needs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Hampshire Executive Chauffeurs Ltd",
@@ -201,7 +298,16 @@
     "lat": 50.864956,
     "lng": -1.266639,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@hampshireexecchauffeurs.co.uk",
+    "emails": [
+      "info@hampshireexecchauffeurs.co.uk"
+    ],
+    "description": "Hampshire Executive Chauffeurs: Luxury Chauffeur and Travel Services for Hampshire, Southampton, Portsmouth, and the South Coast. Airport Transfers, Cruise Transfers, Business Travel, Weddings, Proms, Events & Tours.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Britannia Chauffeurs",
@@ -213,12 +319,21 @@
     "rating": 5.0,
     "total_reviews": 107,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u201310\u202fpm\"],\"Monday\":[\"12\u201310\u202fpm\"],\"Saturday\":[\"12\u201310\u202fpm\"],\"Sunday\":[\"1\u201310\u202fpm\"],\"Thursday\":[\"12\u201310\u202fpm\"],\"Tuesday\":[\"12\u201310\u202fpm\"],\"Wednesday\":[\"12\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–10 pm\"],\"Monday\":[\"12–10 pm\"],\"Saturday\":[\"12–10 pm\"],\"Sunday\":[\"1–10 pm\"],\"Thursday\":[\"12–10 pm\"],\"Tuesday\":[\"12–10 pm\"],\"Wednesday\":[\"12–10 pm\"]}",
     "types": "Limousine service",
     "lat": 50.899756,
     "lng": -1.395348,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@britanniachauffeurs.com",
+    "emails": [
+      "info@britanniachauffeurs.com"
+    ],
+    "description": "Supplying You With Best Chauffeurs In The United Kingdom.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "DIAMOND CHAUFFEUR",
@@ -235,7 +350,16 @@
     "lat": 51.457448,
     "lng": -0.979553,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@diamondchauffeur.co.uk",
+    "emails": [
+      "info@diamondchauffeur.co.uk"
+    ],
+    "description": "Welcome To Our Premium Chauffeur Services Where Luxury And Comfort Are Just A Ride Away! Book Your Next Adventure Please Complete The Form Few Words About Us Travel in style and comfort with our outstanding Chauffeur Services. We provide a unique and varied service which caters for both business...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Moonlight Limos",
@@ -247,12 +371,21 @@
     "rating": 5.0,
     "total_reviews": 104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 51.068652,
     "lng": 0.701569,
-    "found_in_location": "Tenterden",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "alanslimos@gmail.com",
+    "emails": [
+      "alanslimos@gmail.com"
+    ],
+    "description": "Moonlight Limos is a trusted, family-run, fully licensed and 100% legal luxury limo hire kent and party bus company throughout the South East.",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Plus Chauffeurs Limited",
@@ -264,12 +397,21 @@
     "rating": 5.0,
     "total_reviews": 102,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"7\u202fam\u20139\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.932747,
     "lng": -1.506197,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@pluschauffeurs.co.uk",
+    "emails": [
+      "enquiries@pluschauffeurs.co.uk"
+    ],
+    "description": "Experience professional chauffeur services in a BMW i7 or Mercedes V-Class vehicles, perfect for business clients and private airport transfers.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "5 Star Oxford Ltd",
@@ -281,12 +423,21 @@
     "rating": 5.0,
     "total_reviews": 102,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.76568,
     "lng": -1.182337,
     "found_in_location": "Oxford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@5staroxford.com",
+    "emails": [
+      "info@5staroxford.com"
+    ],
+    "description": "5 Star Oxford has cemented its reputation as Oxford’s finest luxury chauffeur company and takes pride in being the market leader in executive transport. Throughout the South East and Oxfordshire in particular, our name is synonymous with quality, comfort, reliability and punctuality.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Blueline Chauffeurs",
@@ -298,12 +449,22 @@
     "rating": 5.0,
     "total_reviews": 74,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.807698,
     "lng": -1.194476,
-    "found_in_location": "Lee-on-the-Solent",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "info@bluelinechauffeurs.co.uk",
+    "emails": [
+      "info@bluelinechauffeurs.co.uk",
+      "bluelinechauffeurs@outlook.com"
+    ],
+    "description": "Discover premium luxury chauffeur services with Blueline Chauffeurs in the United Kingdom. Book now for an exceptional journey.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Molly's Classic Wedding Cars",
@@ -315,12 +476,22 @@
     "rating": 5.0,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Monday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311:45\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311:45\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11:45 pm\"],\"Monday\":[\"7 am–11:45 pm\"],\"Saturday\":[\"7 am–11:45 pm\"],\"Sunday\":[\"7 am–11:45 pm\"],\"Thursday\":[\"7 am–11:45 pm\"],\"Tuesday\":[\"7 am–11:45 pm\"],\"Wednesday\":[\"7 am–11:45 pm\"]}",
     "types": "Wedding service",
     "lat": 51.350384,
     "lng": 1.319937,
-    "found_in_location": "Ramsgate",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "email": "hello@mollysclassicweddingcars.com",
+    "emails": [
+      "hello@mollysclassicweddingcars.com"
+    ],
+    "description": "Discover a selection of beautifully restored classic and vintage wedding cars in Kent. Molly’s Classic Wedding Cars offers luxurious Rolls Royce Silver Shadows and fun VW Campervans to make your special day unforgettable.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bus and Bug",
@@ -332,12 +503,20 @@
     "rating": 5.0,
     "total_reviews": 62,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20133\u202fpm\"],\"Monday\":[\"9\u202fam\u20133:09\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–3 pm\"],\"Monday\":[\"9 am–3:09 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–3 pm\"],\"Tuesday\":[\"9 am–3 pm\"],\"Wednesday\":[\"9 am–3 pm\"]}",
     "types": "Car Rental Service",
     "lat": 50.990694,
     "lng": -0.273177,
-    "found_in_location": "Horsham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Crawley",
+    "found_with_query": "limo southeast",
+    "email": "hello@busandbug.co.uk",
+    "emails": [
+      "hello@busandbug.co.uk"
+    ],
+    "description": "Bus & Bug offers VW Campervan and Beetle hire across Sussex, Surrey and beyond, plus photobooth hire, ice cream van hire and coffee van hire - delivering retro fun to every event and occasion!",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Surrey Minibus",
@@ -353,8 +532,9 @@
     "types": "Minibus taxi service",
     "lat": 51.229028,
     "lng": -0.336777,
-    "found_in_location": "Dorking",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "description": "Let me take you to Ascot, Goodwood Sandown Park or even Cheltenham."
   },
   {
     "name": "Pamper Me Pretty Spa Bus",
@@ -366,12 +546,20 @@
     "rating": 5.0,
     "total_reviews": 62,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"3\u20138\u202fpm\"],\"Monday\":[\"3\u20138\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Thursday\":[\"3\u20138\u202fpm\"],\"Tuesday\":[\"3\u20138\u202fpm\"],\"Wednesday\":[\"3\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"3–8 pm\"],\"Monday\":[\"3–8 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–8 pm\"],\"Thursday\":[\"3–8 pm\"],\"Tuesday\":[\"3–8 pm\"],\"Wednesday\":[\"3–8 pm\"]}",
     "types": "Children's party service",
     "lat": 51.382438,
     "lng": -0.229604,
-    "found_in_location": "Worcester Park",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "email": "info@pampermeprettyspabus.co.uk",
+    "emails": [
+      "info@pampermeprettyspabus.co.uk"
+    ],
+    "description": "Welcome to Pamper Me Pretty Spa Bus where beauty, fun and unforgettable memories roll up in style! We’re a luxury mobile spa experience designed for anyone who love all things glam. At Pamper Me Pretty we believe everyone deserves to feel pretty, pampered, and powerful. Our team is passionate...",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Brooklands Wedding Cars Sussex",
@@ -387,8 +575,16 @@
     "types": "Wedding service",
     "lat": 50.958808,
     "lng": -0.15074,
-    "found_in_location": "Burgess Hill",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "enquiries@brooklandsweddingcarssussex.com",
+    "emails": [
+      "enquiries@brooklandsweddingcarssussex.com"
+    ],
+    "description": "Brooklands Wedding Cars Sussex offers superb quality, traditional wedding car hire in Sussex. Mark 2 Jaguar, Beauford, Campervan, Regent and Beetle for hire based in Sussex. Brighton, West Sussex. Getting you together on your big day.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Royal County Wedding Cars",
@@ -400,12 +596,24 @@
     "rating": 5.0,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 51.375606,
     "lng": -1.230366,
-    "found_in_location": "Thatcham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Basingstoke",
+    "found_with_query": "limo southeast",
+    "email": "info@rcweddingcars.co.uk",
+    "emails": [
+      "info@rcweddingcars.co.uk"
+    ],
+    "description": "Wedding Car transport in Berkshire, Hampshire, Oxfordshire and Wiltshire featuring luxurious Rolls Royce and Aston Martin cars.",
+    "services": [
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lukso Travel - Chauffeur Service",
@@ -421,8 +629,20 @@
     "types": "Chauffeur service",
     "lat": 50.869561,
     "lng": -1.024632,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "contact@lukso.co.uk",
+    "emails": [
+      "contact@lukso.co.uk",
+      "%20contact@lukso.co.uk"
+    ],
+    "description": "Executive chauffeur hire for Portsmouth, Southampton and Hampshire. 24/7 airport, seaport & corporate transfers with fixed prices. Book online in 60 seconds.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Sprint Travel Ltd",
@@ -434,12 +654,22 @@
     "rating": 5.0,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.324232,
     "lng": -0.538528,
-    "found_in_location": "Woking",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "email": "info@sprint-travel.com",
+    "emails": [
+      "info@sprint-travel.com"
+    ],
+    "description": "Welcome to Sprint Travel Ltd; the home of transport for every occasion. We have been providing Minicoach services for over 18 years in around Surrey, London and the surrounding areas. Have a look atOur Servicesto see what we can offer you.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Southampton Chauffeur Hire",
@@ -451,12 +681,23 @@
     "rating": 5.0,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.93705,
     "lng": -1.414187,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@southamptonchauffeurhire.co.uk",
+    "emails": [
+      "enquiries@southamptonchauffeurhire.co.uk"
+    ],
+    "description": "5 Star Review Endorsed: Southampton Chauffeur Hire. London Chauffeur Services. Hampshire and London luxury car service. Private and business clients.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bells Buses",
@@ -472,8 +713,9 @@
     "types": "Coach and minibus hire",
     "lat": 51.381223,
     "lng": -0.216262,
-    "found_in_location": "Sutton",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "description": "As specialists in minibuses across Surrey & London we offer minibus hire, self drive, lease and buy options, we combine high-quality vehicles with excellent customer service and competitive rates."
   },
   {
     "name": "Lady R Wedding & Chauffeur Hire",
@@ -485,12 +727,23 @@
     "rating": 5.0,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"12\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"12–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.445518,
     "lng": 0.240801,
-    "found_in_location": "Dartford",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "info@ladyr.co.uk",
+    "emails": [
+      "info@ladyr.co.uk"
+    ],
+    "description": "Luxury wedding car hire in Kent with chauffeur-driven Rolls-Royce and Bentley. Boutique, owner-led service delivering refined wedding journeys.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "First Class Chauffeurs",
@@ -502,12 +755,23 @@
     "rating": 5.0,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Transportation service",
     "lat": 51.451511,
     "lng": -0.573878,
-    "found_in_location": "Windsor",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "info@fcchauffeurs.co.uk",
+    "emails": [
+      "info@fcchauffeurs.co.uk"
+    ],
+    "description": "Premium chauffeur services across London & the UK. ✓ Travel in comfort, style & reliability with professional drivers. ✓ Book Online.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "AV Chauffeurs",
@@ -523,8 +787,18 @@
     "types": "Chauffeur service",
     "lat": 50.864475,
     "lng": -0.962718,
-    "found_in_location": "Havant",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "info@avchauffeurs.co.uk",
+    "emails": [
+      "info@avchauffeurs.co.uk"
+    ],
+    "description": "AV Executive Cars provide Chauffer services such as Airport shuttle cars, Corporate Executive cars, Wedding Car Hire and Prom Car Hire. We are based in Havant Hampshire and are commited to providing a luxury, professional, and personalised service",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Guide Star Chauffeurs",
@@ -541,7 +815,16 @@
     "lat": 50.84736,
     "lng": -1.0312,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "guidestarchauffeurs@gmail.com",
+    "emails": [
+      "guidestarchauffeurs@gmail.com"
+    ],
+    "description": "Premier chauffeur hire services in Southampton & Portsmouth for airport, seaport, business, and bespoke tours with luxury Mercedes-Benz vehicles.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Link Chauffeurs",
@@ -553,12 +836,21 @@
     "rating": 5.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.929406,
     "lng": -1.505844,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@linkchauffeurs.com",
+    "emails": [
+      "info@linkchauffeurs.com"
+    ],
+    "description": "Professional executive chauffeur service by Link Chauffeurs. Door-to-door transfers for airports, seaports, weddings & events. Comfort, style & reliability.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Craneswater Wedding Cars",
@@ -570,12 +862,22 @@
     "rating": 5.0,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 50.784969,
     "lng": -1.07126,
-    "found_in_location": "Southsea",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "enquiries@craneswaterweddingcars.co.uk",
+    "emails": [
+      "enquiries@craneswaterweddingcars.co.uk",
+      "jasper@craneswaterweddingcars.co.uk"
+    ],
+    "description": "The CompanyWe have been involved in providing wedding cars for the last 36 years. We operate a service that matches your needs. We plan your Wedding car hire for your special day and provide you in advance with an itinerary of your requirements. We only book one Wedding per car per day; we do...",
+    "services": [
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "KLM Chauffeurs",
@@ -592,7 +894,14 @@
     "lat": 51.713274,
     "lng": -1.198265,
     "found_in_location": "Oxford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Experience professional chauffeur-driven tours, luxury airport transfers, wedding car hire and executive travel in London & Oxford. Book KLM Chauffeurs today.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mark Clover Wedding Cars",
@@ -604,12 +913,22 @@
     "rating": 5.0,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.350344,
     "lng": -0.501335,
-    "found_in_location": "Addlestone",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "email": "info@markcloverweddingcars.com",
+    "emails": [
+      "info@markcloverweddingcars.com"
+    ],
+    "description": "Mark Clover Wedding Cars' collection of classic and vintage cars provides exceptional quality wedding car hire throughout Surrey.",
+    "services": [
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Game Busta's Mobile Gaming Party",
@@ -621,12 +940,20 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Children's party service",
     "lat": 50.928126,
     "lng": -1.468787,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "party@gamebustas.co.uk",
+    "emails": [
+      "party@gamebustas.co.uk"
+    ],
+    "description": "Game Bustas is an Ultimate Mobile Gaming Party.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "BAR Minibuses",
@@ -642,7 +969,7 @@
     "types": "Coach and minibus hire",
     "lat": 51.437967,
     "lng": -0.51453,
-    "found_in_location": "Staines",
+    "found_in_location": "Slough",
     "found_with_query": "limo southeast"
   },
   {
@@ -660,10 +987,18 @@
     "lat": 50.912681,
     "lng": -1.392341,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "operations@idacab.com",
+    "emails": [
+      "operations@idacab.com"
+    ],
+    "description": "Arrive In Style With Idacab Welcome to Idacab – Your Local Taxi Service in Southampton We GUARANTEE No […]",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
-    "name": "Dickie\u2019s Classics Chauffeured Cars",
+    "name": "Dickie’s Classics Chauffeured Cars",
     "address": "Ramsgate Rd, Margate, CT9 4DT, GB",
     "phone": "07867 562745",
     "international_phone": "07867 562745",
@@ -672,12 +1007,23 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 51.372596,
     "lng": 1.39305,
-    "found_in_location": "Margate",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "email": "contact@dickiescars.co.uk",
+    "emails": [
+      "contact@dickiescars.co.uk"
+    ],
+    "description": "Wedding Cars in East Kent - Vintage & Classic Cars | Our unique and exceptional cars are now available for 2025/26. Tel | 07867 562745",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Southdown Executive Cars",
@@ -693,8 +1039,17 @@
     "types": "Limousine service",
     "lat": 50.86968,
     "lng": -0.014086,
-    "found_in_location": "Lewes",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "info@sdxcars.co.uk",
+    "emails": [
+      "info@sdxcars.co.uk"
+    ],
+    "description": "Southdown Executive Cars (SDX Cars): We are a premium Executive Chauffeur driven car service based in Southern England with an excellent reputation for our high quality and above all reliable service. Airport Transfers, Business Travel, Taxi, Driver and Corporate Travel using luxury Mercedes and...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Goldstream VIP Chauffeur Services",
@@ -706,12 +1061,22 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.984144,
     "lng": -1.395905,
-    "found_in_location": "Eastleigh",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Southampton",
+    "found_with_query": "limo southeast",
+    "email": "info@goldstreamvip.com",
+    "emails": [
+      "info@goldstreamvip.com",
+      "filler@godaddy.com"
+    ],
+    "description": "Luxury Southampton chauffeur service for airport and cruise transfers. Book now for a premium travel experience!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Ridgmont Classics",
@@ -727,8 +1092,14 @@
     "types": "Limousine service",
     "lat": 52.116971,
     "lng": -0.414044,
-    "found_in_location": "Bedford",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Milton Keynes",
+    "found_with_query": "limo southeast",
+    "description": "Ridgmont Classics in Bedford provide chauffeur driven classic wedding cars in Bedford, Herts, Milton Keynes, Luton and the surrounding areas. Hire a Jaguar or Daimler luxury classic car today!",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Classic and Vintage Car Company",
@@ -740,12 +1111,19 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–9 pm\"],\"Sunday\":[\"8:30 am–9 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.169643,
     "lng": -0.797399,
-    "found_in_location": "Farnham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "description": "The Classic & Vintage Car Company specialise in the hire of chauffeur-driven classic and vintage wedding cars in Surrey, Hampshire, West Sussex & Berkshire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "IMPERIAL VIP",
@@ -762,7 +1140,16 @@
     "lat": 50.89758,
     "lng": -1.397284,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "anthony@imperialvip.co.uk",
+    "emails": [
+      "anthony@imperialvip.co.uk"
+    ],
+    "description": "Imperial Cars offer Chauffeur Services for business, executive VIP\\'s,Corporate Events, Airport and Cruise Ship Transfers,Wedding Days and Sporting & Special Occasions",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Flying Lady Cars",
@@ -774,12 +1161,22 @@
     "rating": 5.0,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"8\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10:30 pm\"],\"Monday\":[\"8 am–10:30 pm\"],\"Saturday\":[\"8:30 am–10:30 pm\"],\"Sunday\":[\"9 am–10:30 pm\"],\"Thursday\":[\"8 am–10:30 pm\"],\"Tuesday\":[\"8 am–10:30 pm\"],\"Wednesday\":[\"8 am–10:30 pm\"]}",
     "types": "Wedding service",
     "lat": 51.356658,
     "lng": -0.806823,
-    "found_in_location": "Sandhurst",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Reading",
+    "found_with_query": "limo southeast",
+    "email": "steve@flyingladycars.com",
+    "emails": [
+      "steve@flyingladycars.com"
+    ],
+    "description": "Wedding Cars Transport Rolls Royce wedding car hire Berkshire,Surrey Hampshire Uniformed chauffeur classic Rolls Royce Silver Shadow, Silver Cloud's www.flyingladycars.com",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "All About Classics Ltd",
@@ -791,12 +1188,21 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Car rental company",
     "lat": 50.791241,
     "lng": -1.057282,
-    "found_in_location": "Southsea",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "name@email.com",
+    "emails": [
+      "name@email.com",
+      "tonywiltshire_45@msn.com"
+    ],
+    "description": "full range of vintage vehicles you can hire",
+    "services": [
+      "Classic & Vintage"
+    ]
   },
   {
     "name": "East Sussex Classic Wedding Cars",
@@ -808,12 +1214,22 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 50.845662,
     "lng": -0.133043,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "peter@peterjfox.com",
+    "emails": [
+      "peter@peterjfox.com"
+    ],
+    "description": "Classic Wedding Car Hire in East Sussex Are you planning a wedding in East Sussex and looking to add a touch of elegance and sophistication to your special day? Look no further than our new company offering classic wedding car rentals in the area. About us After two long years the restoration of...",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Fareham Wedding Cars",
@@ -825,11 +1241,11 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6:30 pm\"],\"Monday\":[\"8:30 am–6:30 pm\"],\"Saturday\":[\"8:30 am–6:30 pm\"],\"Sunday\":[\"8:30 am–6:30 pm\"],\"Thursday\":[\"8:30 am–6:30 pm\"],\"Tuesday\":[\"8:30 am–6:30 pm\"],\"Wednesday\":[\"8:30 am–6:30 pm\"]}",
     "types": "Limousine service",
     "lat": 50.818776,
     "lng": -1.217731,
-    "found_in_location": "Fareham",
+    "found_in_location": "Portsmouth",
     "found_with_query": "limo southeast"
   },
   {
@@ -842,12 +1258,21 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 50.826978,
     "lng": -0.068111,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@eclh.co.uk",
+    "emails": [
+      "info@eclh.co.uk"
+    ],
+    "description": "Take advantage of Executive Car & Limousine Hire premium chauffeur driven car hire services in Brighton today? Complete chauffeur driven car hire packages",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kent and Coastal Wedding Cars",
@@ -859,12 +1284,22 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.275747,
     "lng": 0.516247,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@kentandcoastalweddingcars.co.uk",
+    "emails": [
+      "info@kentandcoastalweddingcars.co.uk"
+    ],
+    "description": "[iq_pagemeta description=Wedding cars in Kent at very competitive prices. 7 Seater Limousine, Beauford, Morris 1000 & Taxi Wedding cars. Get a Quote & check availability on website]",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Range Riders",
@@ -881,7 +1316,19 @@
     "lat": 51.458694,
     "lng": -0.924058,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "range.riders@hotmail.co.uk",
+    "emails": [
+      "range.riders@hotmail.co.uk",
+      "range.riders@hotmail.com",
+      "rangerider@rangerider.com"
+    ],
+    "description": "Experience first-class travel with our luxury chauffeur service. Professional drivers, premium vehicles, and exceptional service for every occasion. Book now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "CARTEL DIRECT LTD",
@@ -898,7 +1345,16 @@
     "lat": 51.471458,
     "lng": -0.516353,
     "found_in_location": "Slough",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@carteldirect.com",
+    "emails": [
+      "info@carteldirect.com"
+    ],
+    "description": "Cartel Direct have over 35 years in the Chauffeur-drive industry, providing luxury cars and professional chauffeurs for all your ground transportation needs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Silver Lady Hire",
@@ -910,12 +1366,18 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.176534,
     "lng": -1.559926,
-    "found_in_location": "Andover",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Southampton",
+    "found_with_query": "limo southeast",
+    "description": "We believe your whole wedding day experience should be a memorable and magical day. Feel special in our luxury chauffeur driven wedding cars.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lawnswood Limousines",
@@ -927,11 +1389,11 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Transportation service",
     "lat": 50.836199,
     "lng": -1.209793,
-    "found_in_location": "Fareham",
+    "found_in_location": "Portsmouth",
     "found_with_query": "limo southeast"
   },
   {
@@ -949,7 +1411,15 @@
     "lat": 50.860712,
     "lng": -0.153484,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@nothing-too-minor.co.uk",
+    "emails": [
+      "info@nothing-too-minor.co.uk"
+    ],
+    "description": "Sussex based Morris minor and chauffeur hire for weddings and other events",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Wedding car for sale",
@@ -961,11 +1431,11 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 52.00262,
     "lng": -0.506398,
-    "found_in_location": "Bedford",
+    "found_in_location": "Milton Keynes",
     "found_with_query": "limo southeast"
   },
   {
@@ -982,8 +1452,14 @@
     "types": "Airport shuttle service",
     "lat": 51.497254,
     "lng": -0.708698,
-    "found_in_location": "Maidenhead",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "description": "We are known for our exclusive fleet of vehicles. At Colnside Executive Cars, we ensure a flawless service, providing a reliable and timely journey.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bespoke Elite Travel",
@@ -1017,7 +1493,18 @@
     "lat": 51.307521,
     "lng": 0.512888,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@weddingcarskentmedway.co.uk",
+    "emails": [
+      "info@weddingcarskentmedway.co.uk",
+      "caroline@weddingcarskentmedway.co.uk"
+    ],
+    "description": "Choose from our selection of classic & vintage wedding cars for hire in Kent & Medway, trusted and reliable chauffeur-driven wedding cars. Book yours today!",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "G&J Premium Travel Limited",
@@ -1029,12 +1516,21 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.913345,
     "lng": -1.438685,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@gjpremiumtravellimited.co.uk",
+    "emails": [
+      "info@gjpremiumtravellimited.co.uk"
+    ],
+    "description": "G&J Premium Travel are Southampton’s 1st choice for luxury chauffeured services, VIP airport transfers, and bespoke travel solutions tailored for every occasion",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "J.W.'s Executive Cars",
@@ -1046,12 +1542,22 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"3\u202fam\u20132:30\u202fam\"],\"Monday\":[\"3\u202fam\u20132:30\u202fam\"],\"Saturday\":[\"3\u202fam\u20132:30\u202fam\"],\"Sunday\":[\"3\u202fam\u20132:30\u202fam\"],\"Thursday\":[\"3\u202fam\u20132:30\u202fam\"],\"Tuesday\":[\"3\u202fam\u20132:30\u202fam\"],\"Wednesday\":[\"3\u202fam\u20132:30\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"3 am–2:30 am\"],\"Monday\":[\"3 am–2:30 am\"],\"Saturday\":[\"3 am–2:30 am\"],\"Sunday\":[\"3 am–2:30 am\"],\"Thursday\":[\"3 am–2:30 am\"],\"Tuesday\":[\"3 am–2:30 am\"],\"Wednesday\":[\"3 am–2:30 am\"]}",
     "types": "Chauffeur service",
     "lat": 51.415979,
     "lng": -0.96505,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "jimmy@jwexeccars.co.uk",
+    "emails": [
+      "jimmy@jwexeccars.co.uk"
+    ],
+    "description": "JWs are a professional executive and chauffeur car travel business in Reading serving London, the Thames Valley and the Berkshire area.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "AKM Limousines Ltd",
@@ -1063,12 +1569,23 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 50.8476,
     "lng": -1.098619,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "akmlimousines@aol.com",
+    "emails": [
+      "akmlimousines@aol.com"
+    ],
+    "description": "Welcome to AKM Limos your specialist for Limousines in Hampshire, Surrey, Dorset and West Sussex. If your looking for a Chauffeur Driven Limousine Hummer, Town Car, Stretch Limousine or party limo with the highest service across the South Coast then you are in the right place!",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "UK Chauffeur Hire Ltd",
@@ -1084,8 +1601,20 @@
     "types": "Chauffeur service",
     "lat": 51.45751,
     "lng": -0.577731,
-    "found_in_location": "Windsor",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "info@ukchauffeur.co.uk",
+    "emails": [
+      "info@ukchauffeur.co.uk",
+      "admin@ukchauffeur.co.uk"
+    ],
+    "description": "Enjoy luxury chauffeur services in London. Professional, discreet and reliable UK Chauffeur for business & airport transfers. Book your chauffeur now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Party Bus Kent",
@@ -1101,7 +1630,7 @@
     "types": "Party equipment rental service",
     "lat": 51.368566,
     "lng": 1.108468,
-    "found_in_location": "Herne Bay",
+    "found_in_location": "Canterbury",
     "found_with_query": "limo southeast"
   },
   {
@@ -1135,8 +1664,14 @@
     "types": "Limousine service",
     "lat": 50.910038,
     "lng": -1.001926,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Finishing Touch Limousines are based in Portsmouth and offer Limousine hire throughout the south coast area covering all of Hampshire, Sussex and Surrey. Our Limousines will take you and your friends to any destination in the UK.",
+    "services": [
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kent Classic Wedding Cars",
@@ -1152,8 +1687,14 @@
     "types": "Wedding service",
     "lat": 51.342419,
     "lng": 1.017171,
-    "found_in_location": "Whitstable",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "description": "We have a range of classic cars based in Kent for your wedding day. Our cars for hire include Rolls Royce, Bentley, Jaguar, Mercedes and a Wedding Taxi.",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Oasis Limos",
@@ -1165,12 +1706,24 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201312\u202fam\"],\"Monday\":[\"9\u202fam\u201312\u202fam\"],\"Saturday\":[\"9\u202fam\u201312\u202fam\"],\"Sunday\":[\"9\u202fam\u201312\u202fam\"],\"Thursday\":[\"9\u202fam\u201312\u202fam\"],\"Tuesday\":[\"9\u202fam\u201312\u202fam\"],\"Wednesday\":[\"9\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–12 am\"],\"Monday\":[\"9 am–12 am\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"9 am–12 am\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"9 am–12 am\"]}",
     "types": "Limousine service",
     "lat": 51.208288,
     "lng": 0.279732,
-    "found_in_location": "Tonbridge",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "oasislimos@aol.com",
+    "emails": [
+      "oasislimos@aol.com"
+    ],
+    "description": "Limo hire in Kent. Experience the height of style and comfort with our unbeatable limo hire services. Contact us today for a quote.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Perfect Day Wedding Car",
@@ -1182,12 +1735,22 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8:30 pm\"],\"Monday\":[\"8 am–8:30 pm\"],\"Saturday\":[\"8 am–8:30 pm\"],\"Sunday\":[\"8 am–8:30 pm\"],\"Thursday\":[\"8 am–8:30 pm\"],\"Tuesday\":[\"8 am–8:30 pm\"],\"Wednesday\":[\"8 am–8:30 pm\"]}",
     "types": "Limousine service",
     "lat": 50.861908,
     "lng": -1.27654,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@perfectdayweddingcar.com",
+    "emails": [
+      "info@perfectdayweddingcar.com"
+    ],
+    "description": "Arrive in style in our immaculately presented, chauffer driven, 1930’s vintage styled Beauford Open Tourer wedding car in Piano Black over Ivory coachwork, complemented by black leather upholstery with white piping along with a mulberry red Wilton wool carpet.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Luminus Kent Minibuses",
@@ -1204,7 +1767,16 @@
     "lat": 51.268419,
     "lng": 0.567095,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@luminuskentminibushire.co.uk",
+    "emails": [
+      "info@luminuskentminibushire.co.uk"
+    ],
+    "description": "24 hr Minibus Hire & Coach Hire Kent. We pride ourselves on quality service and have vehicles to suit all budgets. Call for bookings at 02034882526.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "The Pamper Bus",
@@ -1220,8 +1792,13 @@
     "types": "Children's party service",
     "lat": 51.353514,
     "lng": 0.716167,
-    "found_in_location": "Sittingbourne",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "contact@pamperbus.co.uk",
+    "emails": [
+      "contact@pamperbus.co.uk"
+    ],
+    "description": "Pamper Bus Parties for Girls offering Pamper Bus Parties, Bell Tent Pamper Parties, Pamper Parties in your house. Tailored for your birthday girl."
   },
   {
     "name": "Limo Hire Portsmouth",
@@ -1237,8 +1814,14 @@
     "types": "Limousine service",
     "lat": 50.909593,
     "lng": -1.000988,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Finishing Touch Limousines are based in Portsmouth and offer Limousine hire throughout the south coast area covering all of Hampshire, Sussex and Surrey. Our Limousines will take you and your friends to any destination in the UK.",
+    "services": [
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "arrive in style",
@@ -1250,12 +1833,18 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 50.82158,
     "lng": -1.084653,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Finishing Touch Limousines are based in Portsmouth and offer Limousine hire throughout the south coast area covering all of Hampshire, Sussex and Surrey. Our Limousines will take you and your friends to any destination in the UK.",
+    "services": [
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "A11 Pink Limos",
@@ -1288,8 +1877,14 @@
     "types": "Limousine service",
     "lat": 51.331844,
     "lng": 0.804709,
-    "found_in_location": "Sittingbourne",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "description": "Mac's Amercian Classic Wedding Car Hire is based in Dunkirk, near Canterbury, Kent and we cover most of the South East area. Based on a four hour hire our wedding car service offers:-",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Luxurious Limousines",
@@ -1318,12 +1913,21 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 50.823516,
     "lng": -1.180355,
-    "found_in_location": "Gosport",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "info@boat32.com",
+    "emails": [
+      "info@boat32.com"
+    ],
+    "description": "A classic cream 1948 Riley RMA lovenly restored wedding car for hire in Hampshire, covering Gosport, Fareham, Portsmouth, Southampton prices starting at £150",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Party Bus Oxford",
@@ -1357,7 +1961,8 @@
     "lat": 51.442629,
     "lng": -0.999905,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Mini bus hire in Berkshire and North Hampshire. Cheap, clean, reliable and efficient. All jobs quoted for by this established business."
   },
   {
     "name": "Wight 2cv Wedding",
@@ -1369,12 +1974,20 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Limousine service",
     "lat": 50.731185,
     "lng": -1.162712,
-    "found_in_location": "Ryde",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "oldtinderbox@gmail.com",
+    "emails": [
+      "oldtinderbox@gmail.com"
+    ],
+    "description": "Invite an incurable romantic to your island wedding!",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Something borrowed",
@@ -1391,7 +2004,11 @@
     "lat": 51.743796,
     "lng": -1.227078,
     "found_in_location": "Oxford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Click on the photos below to view larger images. Also don’t miss the video below that our car starred in! Read more...",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Charismatic Cars",
@@ -1403,12 +2020,20 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.432161,
     "lng": -0.828152,
-    "found_in_location": "Wokingham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Reading",
+    "found_with_query": "limo southeast",
+    "description": "Chauffeur driven luxury wedding car(s) for special day in Berkshire & beyond.4 Bentleys & 4 Rolls-Royces, 1 Daimler & a London Taxi available.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limotek",
@@ -1420,12 +2045,30 @@
     "rating": 4.9,
     "total_reviews": 895,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–7 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.396644,
     "lng": -0.378456,
-    "found_in_location": "West Molesey",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "enquiries@limotek.co.uk",
+    "emails": [
+      "enquiries@limotek.co.uk"
+    ],
+    "description": "Limotek offer limousine hire, wedding car hire and more nationwide. Call Limotek today to book.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Winters Barns",
@@ -1437,12 +2080,13 @@
     "rating": 4.9,
     "total_reviews": 424,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201312\u202fam\"],\"Monday\":[\"8\u202fam\u201312\u202fam\"],\"Saturday\":[\"8\u202fam\u201312\u202fam\"],\"Sunday\":[\"8\u202fam\u201312\u202fam\"],\"Thursday\":[\"8\u202fam\u201312\u202fam\"],\"Tuesday\":[\"8\u202fam\u201312\u202fam\"],\"Wednesday\":[\"8\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–12 am\"],\"Monday\":[\"8 am–12 am\"],\"Saturday\":[\"8 am–12 am\"],\"Sunday\":[\"8 am–12 am\"],\"Thursday\":[\"8 am–12 am\"],\"Tuesday\":[\"8 am–12 am\"],\"Wednesday\":[\"8 am–12 am\"]}",
     "types": "Wedding venue",
     "lat": 51.255452,
     "lng": 1.086559,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "For a wedding celebration to remember Winters Barns has all that you and your guests will need in one exclusive, romantic country setting."
   },
   {
     "name": "Nova Bussing Limited",
@@ -1458,8 +2102,16 @@
     "types": "Coach and minibus hire",
     "lat": 50.946582,
     "lng": 0.730824,
-    "found_in_location": "Rye",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "info@novabussing.com",
+    "emails": [
+      "info@novabussing.com"
+    ],
+    "description": "Nova Bussing is one of the leading minibus and coach hire companies in London and the surrounding counties such as Kent, Sussex, and Surrey. Receive an email quotation today or call our dedicated team.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Brighton City Chauffeur",
@@ -1476,7 +2128,17 @@
     "lat": 50.87013,
     "lng": -0.12847,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@brightoncitychauffeur.com",
+    "emails": [
+      "info@brightoncitychauffeur.com"
+    ],
+    "description": "Brighton’s leading chauffeur service for airport transfers and executive car hire. Travel in comfort and style with professional drivers. Book online today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "MK Minibuses",
@@ -1488,12 +2150,20 @@
     "rating": 4.9,
     "total_reviews": 140,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20138:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20138:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–8:30 pm\"],\"Monday\":[\"8:30 am–8:30 pm\"],\"Saturday\":[\"8:30 am–8:30 pm\"],\"Sunday\":[\"8:30 am–8:30 pm\"],\"Thursday\":[\"8:30 am–8:30 pm\"],\"Tuesday\":[\"8:30 am–8:30 pm\"],\"Wednesday\":[\"8:30 am–8:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 52.032016,
     "lng": -0.763789,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@mk-minibuses.com",
+    "emails": [
+      "info@mk-minibuses.com"
+    ],
+    "description": "MK minibuses offer a reliable and punctual executive & standard minibus hire with driver for all occasions - 5 star customer ratings.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Premier Carriage Wedding Cars",
@@ -1505,12 +2175,27 @@
     "rating": 4.9,
     "total_reviews": 126,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 50.914598,
     "lng": -1.40291,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@premiercarriage.co.uk",
+    "emails": [
+      "enquiries@premiercarriage.co.uk"
+    ],
+    "description": "Choose a luxe wedding car for hire in London. Over 23,500 couples chauffeured. Classic, modern &amp; novelty vehicles. Call Premier Carriage for a bespoke package.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gaming Warriors Party Bus",
@@ -1522,12 +2207,20 @@
     "rating": 4.9,
     "total_reviews": 108,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.429272,
     "lng": -0.495473,
-    "found_in_location": "Staines",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "sales@gamingwarriorspartybus.co.uk",
+    "emails": [
+      "sales@gamingwarriorspartybus.co.uk"
+    ],
+    "description": "Looking to Hire Gaming Bus Surrey? Our Gaming van experience is the best in Surrey, London. Perfect for childrens parties, birthdays/weddings",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Surrey Executive Cars",
@@ -1544,7 +2237,15 @@
     "lat": 51.246764,
     "lng": -0.600194,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "reservations@surreyexecutivecars.co.uk",
+    "emails": [
+      "reservations@surreyexecutivecars.co.uk"
+    ],
+    "description": "Surrey Executive Cars is a new local iconic Taxi Company with one aim in mind, to cater for all your travelling needs. We offer a professional, safe and most importantly cost effective Cab service.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Platinum Cars- Luxury Chauffeur Services in Kent",
@@ -1561,7 +2262,19 @@
     "lat": 51.279773,
     "lng": 0.549201,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@platinumcarservice.co.uk",
+    "emails": [
+      "info@platinumcarservice.co.uk"
+    ],
+    "description": "Private Chauffeur Service in London with Platinum Cars London Ltd. Luxury Chauffeur Driven Cars across London, Kent, Essex & Surrey for Executive Travel, Weddings, Events, Funerals & more.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "TCC SOUTHAMPTON",
@@ -1578,7 +2291,16 @@
     "lat": 50.898269,
     "lng": -1.443689,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "bookings@tccsouthampton.co.uk",
+    "emails": [
+      "bookings@tccsouthampton.co.uk"
+    ],
+    "description": "TCC Southampton Ltd provide Airport Taxis and Cars to all major UK airports and transfers to cruise ports. Based in Southampton, Hampshire.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "New Forest Limousines",
@@ -1595,10 +2317,21 @@
     "lat": 50.926161,
     "lng": -1.518231,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "newforestlimos@gmail.com",
+    "emails": [
+      "newforestlimos@gmail.com"
+    ],
+    "description": "Getting married, entertaining business clients or having a prom, stag or hen do? our Luxury Limousine hire in Southampton is here to help!",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
-    "name": "Berkshire\u2019s Big Red Bus Company",
+    "name": "Berkshire’s Big Red Bus Company",
     "address": "35 Rosedale Cres, Earley, Reading, RG6 1AS, GB",
     "phone": "0118 952 6941",
     "international_phone": "0118 952 6941",
@@ -1612,7 +2345,11 @@
     "lat": 51.45874,
     "lng": -0.930176,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Book a vintage London double decker bus for that special day: Wedding, proms, an anniversary, a corporate event or even better, just for fun.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Empire Limousine",
@@ -1629,10 +2366,21 @@
     "lat": 51.495869,
     "lng": -0.143075,
     "found_in_location": "Slough",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@empirelimousine.net",
+    "emails": [
+      "info@empirelimousine.net"
+    ],
+    "description": "Empire Limousine provides Luxury Limousine Services in the United States. Empire Limousines serves all major Cities and Airports Worldwide.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
-    "name": "St. Martin\u2019s Priory",
+    "name": "St. Martin’s Priory",
     "address": "St Martin's Priory, N Holmes Rd, Canterbury, CT1 1PW, GB",
     "phone": "0800 456 1116",
     "international_phone": "0800 456 1116",
@@ -1658,12 +2406,17 @@
     "rating": 4.9,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Mobile caterer",
     "lat": 50.824319,
     "lng": -0.140073,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@oldskoolbusevents.com",
+    "emails": [
+      "enquiries@oldskoolbusevents.com"
+    ],
+    "description": "SUSSEX BASED CATERERS & EVENT MANAGEMENT Event Catering & Food Trucks Event Catering & Food Trucks Our two original American school buses are available to hire for TV, film, photoshoots and events. ENQUIRE HERE Previous Clients & Events"
   },
   {
     "name": "The Funky Playbus",
@@ -1679,8 +2432,12 @@
     "types": "Children's party service",
     "lat": 50.960001,
     "lng": -1.347135,
-    "found_in_location": "Eastleigh",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Southampton",
+    "found_with_query": "limo southeast",
+    "description": "Play bus based in Southampton, Hampshire, that supplies fun, safe mobile soft play, discos, arts and crafts for childrens birthday parties and other events.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Abbey Limos",
@@ -1697,7 +2454,11 @@
     "lat": 50.917273,
     "lng": -1.373169,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Based in SOUTHAMPTON, Abbey Limos provide a luxury limousine service for all occasions at very competitive rates.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Coachpoint Ltd",
@@ -1713,8 +2474,9 @@
     "types": "Coach and minibus hire",
     "lat": 51.282754,
     "lng": -0.78165,
-    "found_in_location": "Farnborough",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "description": "Friendly and efficient coach hire offered across the South East. From minibuses to double deck luxury coaches, we can supply transport for your next journey."
   },
   {
     "name": "Calibar Events",
@@ -1726,12 +2488,18 @@
     "rating": 4.8,
     "total_reviews": 287,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "DJ",
     "lat": 51.51365,
     "lng": -0.598883,
     "found_in_location": "Slough",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@calibar.co.uk",
+    "emails": [
+      "enquiries@calibar.co.uk",
+      "johndoe@gmail.com"
+    ],
+    "description": "We specialise in Asian bollywood wedding Djs. Rock your party with the finest Indian bollywood wedding Djs. To know more call us @ 01753 644 648."
   },
   {
     "name": "Big Baller Bus",
@@ -1747,8 +2515,22 @@
     "types": "Limousine service",
     "lat": 51.398468,
     "lng": 0.30059,
-    "found_in_location": "Longfield",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "info@bigballerbus.com",
+    "emails": [
+      "info@bigballerbus.com"
+    ],
+    "description": "Kick off your celebration with our premium party bus hire services. Experience luxury and comfort while traveling with friends. Book now at Big Baller Bus!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Butlers with Bums",
@@ -1760,12 +2542,13 @@
     "rating": 4.8,
     "total_reviews": 187,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Entertainment agency",
     "lat": 50.831016,
     "lng": -0.211273,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Book the original UK Buff Butlers for hen parties, birthdays, and events across the United Kingdom. Fun, friendly, and professional service nationwide."
   },
   {
     "name": "The Night Yard",
@@ -1777,12 +2560,17 @@
     "rating": 4.8,
     "total_reviews": 173,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.240058,
     "lng": 1.148092,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@thenightyard.com",
+    "emails": [
+      "info@thenightyard.com"
+    ],
+    "description": "The Night Yard in Bridge, Canterbury is an award-winning wedding and events venue set in beautiful Kent countryside."
   },
   {
     "name": "Crown Carz",
@@ -1799,7 +2587,17 @@
     "lat": 51.457574,
     "lng": -1.032007,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@crowncarz.com",
+    "emails": [
+      "info@crowncarz.com"
+    ],
+    "description": "Book reliable taxi, cab, minicab & private hire services in London and Heathrow. Affordable airport transfers, professional drivers, 24/7 cab booking across the UK.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Black Tie Limos",
@@ -1811,12 +2609,26 @@
     "rating": 4.8,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:45\u202fam\u20137\u202fpm\"],\"Monday\":[\"8:45\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:45\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8:45\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8:45\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:45 am–7 pm\"],\"Monday\":[\"8:45 am–7 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:45 am–7 pm\"],\"Tuesday\":[\"8:45 am–7 pm\"],\"Wednesday\":[\"8:45 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 50.822965,
     "lng": -0.415797,
-    "found_in_location": "Worthing",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "info@blacktielimos.co.uk",
+    "emails": [
+      "info@blacktielimos.co.uk"
+    ],
+    "description": "Looking for a Limo? Choose Sussex's #1 Limo Company ✅ Immaculate High Tech Limo's ✅ Amazing Value ✅ Licenced & Fully Insured ✅ Covering Worthing, Brighton & the South East",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kent Limos",
@@ -1833,7 +2645,18 @@
     "lat": 51.228499,
     "lng": 0.637,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "alanslimos@gmail.com",
+    "emails": [
+      "alanslimos@gmail.com",
+      "oasislimos@aol.com"
+    ],
+    "description": "Kent limo hire, covering Kent & the South East. Affordable Limo Hire service in London, Ashford, Brighton, Maidstone, Hastings, Sittingbourne & Canterbury.",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "West Sussex Classic Wedding Cars",
@@ -1845,12 +2668,20 @@
     "rating": 4.8,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 50.832409,
     "lng": -0.611138,
-    "found_in_location": "Arundel",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "description": "Located near Arundel. Classic Cars for Weddings, Special Occasions, Events, Film. Rolls Royce, Bentley, Austin, Mercedes, Vw camper. Local West Sussex Company own all 9 Cars Available. Ring to arrange a viewing of our Cars. classic & vintage cars, classi",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Krazykidzpartybus Ltd T/A Frankies Funbus",
@@ -1862,12 +2693,20 @@
     "rating": 4.8,
     "total_reviews": 50,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Children's party service",
     "lat": 51.129707,
     "lng": 0.860363,
-    "found_in_location": "Ashford",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "email": "info@krazykidzpartybus.co.uk",
+    "emails": [
+      "info@krazykidzpartybus.co.uk"
+    ],
+    "description": "We Have A Double Decker Bus Kitted Out With Softplay & Diner Upstairs",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "The Vintage Red Bus Company Ltd",
@@ -1883,8 +2722,16 @@
     "types": "Bus charter",
     "lat": 51.665422,
     "lng": -0.732113,
-    "found_in_location": "High Wycombe",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "enquiries@thevintageredbuscompany.co.uk",
+    "emails": [
+      "enquiries@thevintageredbuscompany.co.uk"
+    ],
+    "description": "The Vintage Red Bus Company - We provide vintage bus hire for weddings, parties, corporate events, tours and advertising/film in London. We have double decker routemasters to single decker coaches.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Quirky Wedding Cars",
@@ -1900,8 +2747,17 @@
     "types": "Limousine service",
     "lat": 51.082435,
     "lng": 1.158001,
-    "found_in_location": "Folkestone",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Canterbury",
+    "found_with_query": "limo southeast",
+    "email": "contact@quirkyweddingcars.co.uk",
+    "emails": [
+      "contact@quirkyweddingcars.co.uk"
+    ],
+    "description": "Looking for Wedding Car Hire in Kent? You have found the place to look Quirky Wedding Car Hire offers wedding cars at affordable prices.",
+    "services": [
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gatwick Links Minibuses",
@@ -1913,12 +2769,20 @@
     "rating": 4.8,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"5\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"5\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"5\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"5\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"5\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"5\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"5 am–11:30 pm\"],\"Monday\":[\"5 am–11:30 pm\"],\"Saturday\":[\"5 am–11:30 pm\"],\"Sunday\":[\"5 am–11:30 pm\"],\"Thursday\":[\"5 am–11 pm\"],\"Tuesday\":[\"5 am–11:30 pm\"],\"Wednesday\":[\"5 am–11:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.122912,
     "lng": -0.142926,
     "found_in_location": "Crawley",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@gatwick-links.co.uk",
+    "emails": [
+      "info@gatwick-links.co.uk"
+    ],
+    "description": "Gatwick Links offers reliable and comfortable minibus hire services across Sussex, Surrey, and Kent. Perfect for airport transfers, events, and corporate transport.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "AKM Limousines",
@@ -1930,12 +2794,23 @@
     "rating": 4.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 50.873848,
     "lng": -1.035353,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "akmlimousines@aol.com",
+    "emails": [
+      "akmlimousines@aol.com"
+    ],
+    "description": "AKM LIMOUSINES,pink hummer,limousine hire portsmouth,hummer portsmouth,hummer ,limos,hire,portsmouth,limo,portsmouth,hampshire,hummer hire southampton,hummerzines,portsmouth,portsmouth",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Golden Executive",
@@ -1951,8 +2826,20 @@
     "types": "Chauffeur service",
     "lat": 51.535272,
     "lng": -0.737656,
-    "found_in_location": "Maidenhead",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Slough",
+    "found_with_query": "limo southeast",
+    "email": "%20reservation@goldenexecutive.co.uk",
+    "emails": [
+      "%20reservation@goldenexecutive.co.uk",
+      "reservation@goldenexecutive.co.uk"
+    ],
+    "description": "Golden Executive (Private Hire & Minibus Services) is premier transportation providers dedicated to meeting the diverse needs of our valued customers.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Allenby Cars",
@@ -1964,12 +2851,24 @@
     "rating": 4.8,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.958,
     "lng": -1.104929,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@allenbycars.com",
+    "emails": [
+      "info@allenbycars.com"
+    ],
+    "description": "We supply Wedding cars, Prom cars, Cruise Ship Transfers & Airport Transfers plus many other occasions!! Our fleet includes a 1930’s style Beauford Convertible, a 1930’s style Branford, a 1930’s style Asquith 8 seater bus a 7 Seater Executive Tourneo Minibus and a modern Jaguar XJ Lwb Portfolio...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tollgate Limos",
@@ -1981,11 +2880,11 @@
     "rating": 4.8,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10:30 pm\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Limousine service",
     "lat": 51.417607,
     "lng": 0.360508,
-    "found_in_location": "Gravesend",
+    "found_in_location": "Maidstone",
     "found_with_query": "limo southeast"
   },
   {
@@ -1998,12 +2897,21 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.799533,
     "lng": -1.09046,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "pricequote@portsmouthminibus.co.uk",
+    "emails": [
+      "pricequote@portsmouthminibus.co.uk"
+    ],
+    "description": "Portsmouth Minibus has great quotes and cheap prices, amazing minibusses and coaches with drivers well-maintained vehicles 8,12,16,24,33,49 seater, A great service to travel with to Portsmouth and adjoining areas. Book now to find out how we can make your journey more special.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Westgate Hall",
@@ -2032,12 +2940,17 @@
     "rating": 4.7,
     "total_reviews": 71,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.235003,
     "lng": 1.048142,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "hello@swarlingmanor.com",
+    "emails": [
+      "hello@swarlingmanor.com"
+    ],
+    "description": "Swarling Manor is known as the most picturesque outdoor wedding venue in the whole of Kent, over 80 acres of beautiful Kentish countryside, landscaped gardens and lakes, a collection of enchanting barns and the 17th century manor house the grounds surround."
   },
   {
     "name": "Airport Seaport Pickups London",
@@ -2054,7 +2967,12 @@
     "lat": 50.910358,
     "lng": -1.406902,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Your Premier Choice for Efficient and Reliable Transportation in United Kingdom Welcome to Airport Seaport Pickups London, where excellence meets convenience. With our luxurious chauffeur and taxi services, we ensure seamless and reliable airport and Seaport transfers for a truly elevated travel...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "London Vintage Bus Hire Ltd",
@@ -2070,8 +2988,13 @@
     "types": "Bus company",
     "lat": 51.452143,
     "lng": 0.318113,
-    "found_in_location": "Gravesend",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "info@thelondonbuscompany.co.uk",
+    "emails": [
+      "info@thelondonbuscompany.co.uk"
+    ],
+    "description": "Operating the largest fleet in the region for weddings or corporate use. We can offer classic red, green, white and red & white or red & cream Routemaster buses, single deckers (RF Type) along with open top and part open top vehicles. All our buses are available for private hire offering..."
   },
   {
     "name": "Hi-Profile Limousines & Wedding Cars",
@@ -2083,12 +3006,22 @@
     "rating": 4.7,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Sunday\":[\"11\u202fam\u20139:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20139:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9:30 pm\"],\"Monday\":[\"10 am–9:30 pm\"],\"Saturday\":[\"10 am–9:30 pm\"],\"Sunday\":[\"11 am–9:30 pm\"],\"Thursday\":[\"10 am–9:30 pm\"],\"Tuesday\":[\"10 am–9:30 pm\"],\"Wednesday\":[\"10 am–9:30 pm\"]}",
     "types": "Wedding service",
     "lat": 50.902445,
     "lng": -1.37464,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "hi-profile@hotmail.co.uk",
+    "emails": [
+      "hi-profile@hotmail.co.uk"
+    ],
+    "description": "Please Note: The Vintage Rover, Cadillac VW Camper & Daimler are not fitted with seatbelts so we are unable to carry children under the age of 3.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Sovereign Executive Chauffeurs",
@@ -2117,11 +3050,11 @@
     "rating": 4.7,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5 pm\"],\"Monday\":[\"9:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5 pm\"],\"Tuesday\":[\"9:30 am–5 pm\"],\"Wednesday\":[\"9:30 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 50.855098,
     "lng": -1.010377,
-    "found_in_location": "Havant",
+    "found_in_location": "Portsmouth",
     "found_with_query": "limo southeast"
   },
   {
@@ -2139,7 +3072,16 @@
     "lat": 50.958588,
     "lng": -1.422009,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@vip-chauffeurs.org",
+    "emails": [
+      "info@vip-chauffeurs.org"
+    ],
+    "description": "Get to Your Destination by Hiring Us. Bespoke Chauffeur Service & Hampshire Airport Transfer & Today. Book now for a memorable journey.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Berkshire Cars",
@@ -2156,7 +3098,8 @@
     "lat": 51.462493,
     "lng": -1.007248,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Choose from a selection of vehicles ranging from luxury motor cars to classic private hire cars. We also take custom orders and will help you hire a specific vehicle. We do not currently provide black cabs or disabled vehicles."
   },
   {
     "name": "Airport Travels(Reading)Ltd",
@@ -2173,7 +3116,17 @@
     "lat": 51.462581,
     "lng": -1.007242,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@airporttravelsreading.com",
+    "emails": [
+      "info@airporttravelsreading.com",
+      "bookings@airporttravelsreading.com"
+    ],
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tower House",
@@ -2190,7 +3143,8 @@
     "lat": 51.280895,
     "lng": 1.074723,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Thank you for being patient. We are doing some work on the site and will be back shortly."
   },
   {
     "name": "London Classic Bus Hire Ltd.",
@@ -2206,8 +3160,18 @@
     "types": "Bus charter",
     "lat": 51.441947,
     "lng": 0.385904,
-    "found_in_location": "Gravesend",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "email": "info@brianjonescoaches.com",
+    "emails": [
+      "info@brianjonescoaches.com"
+    ],
+    "description": "London Classic Bus Hire Ltd, Vintage Routemaster Bus available for various occasions, weddings, prom, corporate hire etc",
+    "services": [
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "D J Carz",
@@ -2236,12 +3200,18 @@
     "rating": 4.6,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Monday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Saturday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Sunday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Thursday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Tuesday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Wednesday\":[\"12:01\u202fam\u201311:59\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12:01 am–11:59 pm\"],\"Monday\":[\"12:01 am–11:59 pm\"],\"Saturday\":[\"12:01 am–11:59 pm\"],\"Sunday\":[\"12:01 am–11:59 pm\"],\"Thursday\":[\"12:01 am–11:59 pm\"],\"Tuesday\":[\"12:01 am–11:59 pm\"],\"Wednesday\":[\"12:01 am–11:59 pm\"]}",
     "types": "Limousine service",
     "lat": 50.863758,
     "lng": -1.043652,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Finishing Touch Limousines are based in Portsmouth and offer Limousine hire throughout the south coast area covering all of Hampshire, Sussex and Surrey. Our Limousines will take you and your friends to any destination in the UK.",
+    "services": [
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kendall Cars - Guildford",
@@ -2253,12 +3223,20 @@
     "rating": 4.5,
     "total_reviews": 327,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.250138,
     "lng": -0.590842,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@kendallcars.com",
+    "emails": [
+      "info@kendallcars.com"
+    ],
+    "description": "Low cost quality Car Hire, Van and Minibus Rental for London, South East England, Heathrow Airport and Gatwick Airport.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Fairlands Community Centre",
@@ -2270,12 +3248,17 @@
     "rating": 4.5,
     "total_reviews": 138,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u201311\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"7:30\u201311\u202fpm\"],\"Sunday\":[\"12\u20134\u202fpm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30–11 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"7:30–11 pm\"],\"Sunday\":[\"12–4 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Community centre",
     "lat": 51.262684,
     "lng": -0.622233,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "membership@fairlands.org.uk",
+    "emails": [
+      "membership@fairlands.org.uk"
+    ],
+    "description": "Fairlands, Liddington Hall, Gravetts Lane Community Association situated in Fairlands Avenue in Fairlands. GU3 3NA"
   },
   {
     "name": "OMC Global",
@@ -2291,8 +3274,17 @@
     "types": "Coach and minibus hire",
     "lat": 51.746978,
     "lng": -1.407516,
-    "found_in_location": "Witney",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Oxford",
+    "found_with_query": "limo southeast",
+    "email": "sales@omcglobal.co.uk",
+    "emails": [
+      "sales@omcglobal.co.uk"
+    ],
+    "description": "Looking for reliable coach and minibus hire company? OMC Global offers affordable and luxury transportation options for all travel needs.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GoldCarz Ltd",
@@ -2309,7 +3301,17 @@
     "lat": 51.436585,
     "lng": -0.967261,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@gold-cars.co.uk",
+    "emails": [
+      "info@gold-cars.co.uk"
+    ],
+    "description": "Gold Carz offers the best Taxi Service in Reading, affordable airport transfers, executive car hire & 24/7 taxi bookings. Ride today!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Southern Transit Bus Company",
@@ -2325,8 +3327,16 @@
     "types": "Bus company",
     "lat": 50.952238,
     "lng": -0.128605,
-    "found_in_location": "Burgess Hill",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Brighton",
+    "found_with_query": "limo southeast",
+    "email": "info@southerntransit.co.uk",
+    "emails": [
+      "info@southerntransit.co.uk"
+    ],
+    "description": "Based near Brighton in Sussex, Southern Transit are an independent bus and coach company that offers an affordable wide range of modern state of the art and iconic vehicles for private and corporate hire and group travel.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "New Forest Classic Hire Ltd",
@@ -2338,12 +3348,21 @@
     "rating": 4.5,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 50.963712,
     "lng": -1.56565,
-    "found_in_location": "Romsey",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Southampton",
+    "found_with_query": "limo southeast",
+    "email": "help@newforestclassichire.co.uk",
+    "emails": [
+      "help@newforestclassichire.co.uk"
+    ],
+    "description": "New Forest Classic and Sports Car Hire - A great selection of classic and sports cars available for self drive hire! MG, Morgan, Alfa Romeo!",
+    "services": [
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "HireYourTransport",
@@ -2359,8 +3378,17 @@
     "types": "Coach and minibus hire",
     "lat": 51.294841,
     "lng": -0.211489,
-    "found_in_location": "Tadworth",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Crawley",
+    "found_with_query": "limo southeast",
+    "email": "info@hireyourtransport.com",
+    "emails": [
+      "info@hireyourtransport.com",
+      "info@thememove.com"
+    ],
+    "description": "Hireyourtransport.com provide high quality executive coach and bus hire in London and the surrounding area.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "TMD LIMOS",
@@ -2372,7 +3400,7 @@
     "rating": 4.5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 50.89451,
     "lng": -1.35242,
@@ -2393,7 +3421,7 @@
     "types": "Limousine service",
     "lat": 51.345727,
     "lng": 0.599577,
-    "found_in_location": "Gillingham",
+    "found_in_location": "Maidstone",
     "found_with_query": "limo southeast"
   },
   {
@@ -2406,12 +3434,16 @@
     "rating": 4.4,
     "total_reviews": 136,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"12\u202fam\u201311:59\u202fpm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"12 am–11:59 pm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.146047,
     "lng": -0.181129,
     "found_in_location": "Crawley",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "United Minibuses & Coaches carry out Minibus & Coach hire with professional drivers. Our services include Airport Transfers at London Gatwick, London Heathrow as well as all other major airports. We also provide Hotel Transfers in London, Sussex, Surrey, Kent and over the South East of England....",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Kendall Cars - Canterbury",
@@ -2423,12 +3455,20 @@
     "rating": 4.4,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.274572,
     "lng": 1.07469,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@kendallcars.com",
+    "emails": [
+      "info@kendallcars.com"
+    ],
+    "description": "Low cost quality Car Hire, Van and Minibus Rental for London, South East England, Heathrow Airport and Gatwick Airport.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Oakley Limos",
@@ -2440,11 +3480,11 @@
     "rating": 4.4,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 51.298804,
     "lng": -1.190597,
-    "found_in_location": "Tadley",
+    "found_in_location": "Basingstoke",
     "found_with_query": "limo southeast"
   },
   {
@@ -2457,12 +3497,13 @@
     "rating": 4.3,
     "total_reviews": 618,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6:30 pm\"],\"Monday\":[\"8:30 am–6:30 pm\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"9:30 am–4 pm\"],\"Thursday\":[\"8:30 am–6:30 pm\"],\"Tuesday\":[\"8:30 am–6:30 pm\"],\"Wednesday\":[\"8:30 am–6:30 pm\"]}",
     "types": "Travel Agent",
     "lat": 50.82279,
     "lng": -0.140475,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Connect with the people and places you value most. We do this safely, reliably, and sustainably and provide excellent value for money."
   },
   {
     "name": "YMS Travel Ltd",
@@ -2479,7 +3520,11 @@
     "lat": 51.274249,
     "lng": 1.071311,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "YMS Travel is a Private Hire, Coach and Bus hire company, our fleet of all shapes and sizes of vehicles and can cater for all requirements. High capacity vehicles means you can reduce your passenger transport costs with YMS Travel.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Viceroy Chauffeurs",
@@ -2496,7 +3541,17 @@
     "lat": 51.460048,
     "lng": -0.933647,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "bookings@viceroycars.co.uk",
+    "emails": [
+      "bookings@viceroycars.co.uk"
+    ],
+    "description": "Viceroy Chauffeur Services, the top chauffeur company in Berkshire, Essex, Buckinghamshire & The Home Counties. Specialists in Airport transfers, weddings, business, personal travel, sporting events, concerts etc",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Jet Connect Ltd",
@@ -2508,12 +3563,13 @@
     "rating": 4.2,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.847589,
     "lng": -1.059494,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Jet Connect is a family run business based in Portsmouth that’s been operating since 2009.We have minibuses and coaches to cater for group travel 16 to 49 seater executive coaches."
   },
   {
     "name": "Regency Executive Travel - Chauffeur Services Milton Keynes",
@@ -2530,7 +3586,18 @@
     "lat": 52.052523,
     "lng": -0.757525,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@regencyexectravel.co.uk",
+    "emails": [
+      "info@regencyexectravel.co.uk",
+      "info@amasci.co.uk"
+    ],
+    "description": "Regency Executive Travel provide high class chauffeuring services as well as airport transfers and wedding cars. Click here for more on our executive car hire in Milton Keynes.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Starline Coaches",
@@ -2542,12 +3609,17 @@
     "rating": 4.1,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.257945,
     "lng": 0.396354,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@starlinecoaches.co.uk",
+    "emails": [
+      "info@starlinecoaches.co.uk"
+    ],
+    "description": "Based just outside Maidstone, Starline Coaches offer a private coach hire in Maidstone, Tonbridge, Tunbridge Wells, Sevenoaks and throughout the surrounding areas. We boast an extensive fleet of high-quality vehicles with capacities ranging from 16 – 70 seats."
   },
   {
     "name": "1st class limos ltd",
@@ -2559,12 +3631,26 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 51.688424,
     "lng": -1.201024,
     "found_in_location": "Oxford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@1stclasslimosltd.com",
+    "emails": [
+      "info@1stclasslimosltd.com"
+    ],
+    "description": "At 1st Class Limousine hire Oxford, Swindon, Reading, Gloucester, Banbury and surrounding areas we offer a wide range of chauffeur driven rental / hire vehicles to suit all your transport needs at very competitive and affordable prices. Our fleet boasts stretched Hummer limos and Chrysler...",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Veezu (The new name for Aqua Cars)",
@@ -2580,8 +3666,13 @@
     "types": "Taxi service",
     "lat": 50.798798,
     "lng": -1.068191,
-    "found_in_location": "Southsea",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Need to book a taxi in Portsmouth? Book a smarter local ride with Veezu and travel with the biggest private hire cab service in Portsmouth. Call 02392 654 321.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "DRAG BUS",
@@ -2593,12 +3684,13 @@
     "rating": 4.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Tourist attraction",
     "lat": 50.819975,
     "lng": -0.138208,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "DRAGBUS - THE ULTIMATE PARTY EXPERIENCE has taken the UK by storm! Join our fabulous queens for a sightseeing tour across your chosen city (Brighton, London, Bournemouth, Bristol, Liverpool, Blackpool) with drinks, games, performances and a generally amazing time! Perfect for a hen party,..."
   },
   {
     "name": "Specialist Vehicle Hire",
@@ -2610,12 +3702,17 @@
     "rating": 4.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 50.798541,
     "lng": -1.087228,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "bookings@svh.uk.com",
+    "emails": [
+      "bookings@svh.uk.com"
+    ],
+    "description": "Specialist Vehicle Hire is based in Portsmouth, Hampshire offering a range of cars & commercial vehicles for rental to businesses & individuals nationwide."
   },
   {
     "name": "Berkshire Limos",
@@ -2627,7 +3724,7 @@
     "rating": 4.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u201311\u202fpm\"],\"Monday\":[\"6\u202fam\u201311\u202fpm\"],\"Saturday\":[\"6\u202fam\u201311\u202fpm\"],\"Sunday\":[\"6\u202fam\u201311\u202fpm\"],\"Thursday\":[\"6\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"6\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"6\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–11 pm\"],\"Monday\":[\"6 am–11 pm\"],\"Saturday\":[\"6 am–11 pm\"],\"Sunday\":[\"6 am–11 pm\"],\"Thursday\":[\"6 am–11 pm\"],\"Tuesday\":[\"6 am–11 pm\"],\"Wednesday\":[\"6 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 51.27959,
     "lng": -1.097423,
@@ -2644,12 +3741,13 @@
     "rating": 3.9,
     "total_reviews": 248,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 50.836015,
     "lng": -0.139653,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "East Sussex Vehicle Hire in Brighton, Hove, Hassocks, Crawley, Uckfield & Eastbourne. Choice Vehicle Rentals have a wide range of Cars, Vans & Trucks, MPV's, Minibuses, Tippers and Dropsides available for hire."
   },
   {
     "name": "Ross Boats",
@@ -2661,12 +3759,17 @@
     "rating": 3.9,
     "total_reviews": 117,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Tour operator",
     "lat": 50.811991,
     "lng": -0.103004,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "rossboats21@gmail.com",
+    "emails": [
+      "rossboats21@gmail.com"
+    ],
+    "description": "rossboats.co.uk Rampion Windfarm Tours from Brighton Marina also pleasure boat trips to view Brighton the piers and the i360. Power boat rides, fishing trips."
   },
   {
     "name": "FD Travels Ltd t/a Spark Cars Reading",
@@ -2683,7 +3786,16 @@
     "lat": 51.425084,
     "lng": -0.987894,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@sparkcarsuk.co.uk",
+    "emails": [
+      "info@sparkcarsuk.co.uk"
+    ],
+    "description": "At Spark Cars, we provide an exceptional travel experience with the help of our team of professional drivers and a fleet of the most luxurious vehicles.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Kent Minibuses",
@@ -2699,8 +3811,16 @@
     "types": "Coach and minibus hire",
     "lat": 51.346362,
     "lng": 0.59293,
-    "found_in_location": "Gillingham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "description": "24hr Minibus Hire Kent with driver services with us from £10 per person. Give a call on 0203 4757 567 to make the bookings.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "VW Brides",
@@ -2712,12 +3832,21 @@
     "rating": 3.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9:30 am–5 pm\"],\"Sunday\":[\"9:30 am–5 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Wedding service",
     "lat": 51.24876,
     "lng": 1.023719,
     "found_in_location": "Canterbury",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@vwbrides.co.uk",
+    "emails": [
+      "enquiries@vwbrides.co.uk"
+    ],
+    "description": "VW Brides is Kent's longest established Volkswagen Beetle wedding car hire company. Arrive to your special day in true vintage style with our stunning 1973 white Karmann Cabriolet Beetle. Available for weddings, events, film and promotional hire.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Windsor Cars",
@@ -2734,7 +3863,16 @@
     "lat": 51.484037,
     "lng": -0.580628,
     "found_in_location": "Slough",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "bookings@windsorcars.com",
+    "emails": [
+      "bookings@windsorcars.com"
+    ],
+    "description": "Privately owned and with over 30 years experience, we have grown through our good reputation to the point where we now operate 250 cars and fulfil 3,000 airport transfers a week. This scope and our ability to co-ordinate arrivals and departures, means that we can not only offer a quality,...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Newtons Coaches",
@@ -2746,12 +3884,21 @@
     "rating": 3.7,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4:30 pm\"],\"Tuesday\":[\"9 am–4:30 pm\"],\"Wednesday\":[\"9 am–4:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.329609,
     "lng": -0.656795,
-    "found_in_location": "Woking",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "email": "info@newtonscoaches.co.uk",
+    "emails": [
+      "info@newtonscoaches.co.uk"
+    ],
+    "description": "Newtons Coaches are a coach hire company serving Woking, Guildford, Farnham & Surrey. Private coach hire, rail replacment, School Services & wedding hire.",
+    "services": [
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Milan's Limo's",
@@ -2767,7 +3914,7 @@
     "types": "Limousine service",
     "lat": 51.505644,
     "lng": -0.744743,
-    "found_in_location": "Maidenhead",
+    "found_in_location": "Slough",
     "found_with_query": "limo southeast"
   },
   {
@@ -2785,7 +3932,18 @@
     "lat": 50.816181,
     "lng": -0.10561,
     "found_in_location": "Brighton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "hello@thebiglemon.com",
+    "emails": [
+      "hello@thebiglemon.com",
+      "hellobath@thebiglemon.com",
+      "hellobristol@thebiglemon.com",
+      "money@thebiglemon.com",
+      "hello@brightonhorizoncoaches.com",
+      "mammafrancescaitalia@gmail.com",
+      "margaretbrisley@hotmail.com"
+    ],
+    "description": "Friendly, affordable bus and coach services in Brighton & Hove, using zero-emissions electric buses, powered by renewable energy and owned by the local community"
   },
   {
     "name": "Capital Cars",
@@ -2802,7 +3960,16 @@
     "lat": 51.462581,
     "lng": -1.007242,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "sales@capitalcarsreading.co.uk",
+    "emails": [
+      "sales@capitalcarsreading.co.uk"
+    ],
+    "description": "Looking for a dependable Reading taxi service? Capital Cars delivers punctual, eco-friendly and stylish rides—from local trips to airport transfers.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Safeguard Coaches",
@@ -2814,12 +3981,18 @@
     "rating": 3.3,
     "total_reviews": 86,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.268594,
     "lng": -0.565122,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@safeguardcoaches.co.uk",
+    "emails": [
+      "info@safeguardcoaches.co.uk",
+      "sales@safeguardcoaches.co.uk"
+    ],
+    "description": "Coach Hire in Surrey & Hampshire │49 -70 seat Coach │Vintage Bus | Coach Hire in Surrey & Hampshire"
   },
   {
     "name": "Wedding Wheels",
@@ -2848,12 +4021,13 @@
     "rating": 2.8,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.350664,
     "lng": -0.478259,
-    "found_in_location": "West Byfleet",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Guildford",
+    "found_with_query": "limo southeast",
+    "description": "Coach Hire Company from Surrey. Operating 8-55 seat coaches and mini coaches in Surrey and London. Coaches for Hire @ Low Prices. School and Company events In Weybridge, Chertsey, Woking, Byfleet, Kingston, Richmond and Twickenham. Heathrow Transfers for Groups"
   },
   {
     "name": "Wildstretch Limos",
@@ -2865,12 +4039,24 @@
     "rating": 2.8,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"7\u202fam\u20139\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.450801,
     "lng": 0.324178,
-    "found_in_location": "Gravesend",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Maidstone",
+    "found_with_query": "limo southeast",
+    "description": "Wild Stretch offers luxury vehicle hire across the UK with limos, party buses, wedding cars and chauffeur options. Trusted operators and clear, simple booking for any occasion.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "1st Class Cars",
@@ -2887,7 +4073,20 @@
     "lat": 51.46351,
     "lng": -1.038767,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "admin@1stclasscars.com",
+    "emails": [
+      "admin@1stclasscars.com",
+      "admin@www.1stclasscars.com"
+    ],
+    "description": "Airport Transfers Reading Taxi And Chauffeur Company based In Reading And London specializing in Executive Cars, Limousines And Minibuses up to 16 Seats",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "BR Prestige",
@@ -2899,7 +4098,7 @@
     "rating": 2.3,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Monday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–11 pm\"],\"Monday\":[\"7:30 am–11 pm\"],\"Saturday\":[\"7:30 am–11 pm\"],\"Sunday\":[\"7:30 am–11 pm\"],\"Thursday\":[\"7:30 am–11 pm\"],\"Tuesday\":[\"7:30 am–11 pm\"],\"Wednesday\":[\"7:30 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 52.051662,
     "lng": -0.702098,
@@ -2933,12 +4132,16 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 50.87932,
     "lng": -1.351147,
     "found_in_location": "Southampton",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Based in SOUTHAMPTON, Abbey Limos provide a luxury limousine service for all occasions at very competitive rates.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "southcoast limousines",
@@ -2955,7 +4158,18 @@
     "lat": 50.823507,
     "lng": -1.085088,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "akmlimousines@aol.com",
+    "emails": [
+      "akmlimousines@aol.com"
+    ],
+    "description": "AKM LIMOUSINES,pink hummer,limousine hire portsmouth,hummer portsmouth,hummer ,limos,hire,portsmouth,limo,portsmouth,hampshire,hummer hire southampton,hummerzines,portsmouth,portsmouth",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Affordable Limousine and partybus hire",
@@ -2967,12 +4181,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 50.910169,
     "lng": -1.001948,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Hampshire Limo Hire - Limo and Party Bus Hire in Portsmouth.",
+    "services": [
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Party Bus Portsmouth",
@@ -2988,8 +4207,17 @@
     "types": "Limousine service",
     "lat": 50.795524,
     "lng": -1.056655,
-    "found_in_location": "Southsea",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Book reliable party bus hire in Portsmouth and across Southampton, Brighton & Hove, London, Bath, St Albans. Transparent limo bus hire prices and excellent service—reserve today.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire"
+    ]
   },
   {
     "name": "Cheap Hummer Hire",
@@ -3006,7 +4234,19 @@
     "lat": 50.823817,
     "lng": -1.085069,
     "found_in_location": "Portsmouth",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "enquiries@cheaphummerhire.co.uk",
+    "emails": [
+      "enquiries@cheaphummerhire.co.uk",
+      "akmlimousines@aol.com"
+    ],
+    "description": "cheap hummer hire in the portsmouth area, southsea area, southampton limousine, fareham limousine, stretched hummer, pink hummer, pink limousine",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Hummer Limo",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Milton Keynes Limo Hire",
@@ -3023,7 +4263,21 @@
     "lat": 52.069544,
     "lng": -0.75705,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@miltonkeynes-limos.co.uk",
+    "emails": [
+      "info@miltonkeynes-limos.co.uk"
+    ],
+    "description": "Experience an exciting Limousine experience like no other, indulge yourself in a world of luxuries and royalty and enjoy yourself in the best Limos available in the Midlands. Choose Milton Keynes Limo Hire for all your luxurious traveling needs, we cater for a wide variety of events and offer...",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Hire Oxford",
@@ -3035,7 +4289,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 51.746064,
     "lng": -1.232449,
@@ -3052,12 +4306,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.458154,
     "lng": -0.977075,
     "found_in_location": "Reading",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Reading and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "FULLY LICENSED LIMOUSINE & HUMMER",
@@ -3069,12 +4335,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11:30 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"9 am–11:30 pm\"],\"Thursday\":[\"9 am–11:30 pm\"],\"Tuesday\":[\"9 am–11:30 pm\"],\"Wednesday\":[\"9 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.26273,
     "lng": 0.512044,
     "found_in_location": "Maidstone",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "oasislimos@aol.com",
+    "emails": [
+      "oasislimos@aol.com"
+    ],
+    "description": "Limo hire in Kent. Experience the height of style and comfort with our unbeatable limo hire services. Contact us today for a quote.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "6 Star Limos",
@@ -3124,8 +4402,9 @@
     "types": "Limousine service",
     "lat": 50.78047,
     "lng": -1.079034,
-    "found_in_location": "Southsea",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "description": "Limo hire portsmouth Limousine hire"
   },
   {
     "name": "The Oxford Wedding Car Company",
@@ -3137,7 +4416,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.76111,
     "lng": -1.351548,
@@ -3188,12 +4467,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 50.885405,
     "lng": -1.035409,
-    "found_in_location": "Waterlooville",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "akmlimousines@aol.com",
+    "emails": [
+      "akmlimousines@aol.com"
+    ],
+    "description": "AKM LIMOUSINES,pink hummer,limousine hire portsmouth,hummer portsmouth,hummer ,limos,hire,portsmouth,limo,portsmouth,hampshire,hummer hire southampton,hummerzines,portsmouth,portsmouth",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Party Bus Milton Keynes",
@@ -3226,7 +4516,7 @@
     "types": "Limousine service",
     "lat": 51.233687,
     "lng": -0.191062,
-    "found_in_location": "Reigate",
+    "found_in_location": "Crawley",
     "found_with_query": "limo southeast"
   },
   {
@@ -3243,8 +4533,15 @@
     "types": "Limousine service",
     "lat": 50.986101,
     "lng": -1.374475,
-    "found_in_location": "Eastleigh",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Southampton",
+    "found_with_query": "limo southeast",
+    "description": "Experience elegance and comfort with our premier Hampshire Limo Hire. Quality service for any occasion. Your journey to sophistication starts here.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Chauffeur Cars Guildford",
@@ -3261,7 +4558,16 @@
     "lat": 51.246066,
     "lng": -0.587272,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "email": "info@chauffeurcarsguildford.co.uk",
+    "emails": [
+      "info@chauffeurcarsguildford.co.uk"
+    ],
+    "description": "Discover luxury travel in Guildford with Chauffeur Cars Guildford. From chauffeur services to airport transfers, tours, and corporate travel, experience comfort and sophistication on every journey. Call us 07497 778078",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Unique Wedding Cars Fareham",
@@ -3273,11 +4579,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–4 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 50.853153,
     "lng": -1.206496,
-    "found_in_location": "Fareham",
+    "found_in_location": "Portsmouth",
     "found_with_query": "limo southeast"
   },
   {
@@ -3294,8 +4600,17 @@
     "types": "Limousine service",
     "lat": 50.853965,
     "lng": -1.12981,
-    "found_in_location": "Fareham",
-    "found_with_query": "limo southeast"
+    "found_in_location": "Portsmouth",
+    "found_with_query": "limo southeast",
+    "email": "marriedinamoggy@outlook.com",
+    "emails": [
+      "marriedinamoggy@outlook.com"
+    ],
+    "description": "Dreaming of the perfect transport for your wedding day? Say hello to Ruby, our 1966 Morris Minor full of charm and character.",
+    "services": [
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars Milton Keynes",
@@ -3307,12 +4622,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"9:30 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 52.059637,
     "lng": -0.763392,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Milton Keynes and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars Oxford",
@@ -3324,12 +4650,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.750524,
     "lng": -1.239698,
     "found_in_location": "Oxford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire oxford and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars",
@@ -3346,6 +4683,15 @@
     "lat": 51.231585,
     "lng": -0.56632,
     "found_in_location": "Guildford",
-    "found_with_query": "limo southeast"
+    "found_with_query": "limo southeast",
+    "description": "We have an extensive fleet of exclusive vintage and classic wedding car hire available for you to travel in style on your big day.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   }
 ]

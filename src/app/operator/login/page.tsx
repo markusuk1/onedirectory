@@ -3,9 +3,11 @@
 import { useState } from "react";
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
+import { getSiteConfig } from "@/lib/siteConfig";
 
 export default function OperatorLoginPage() {
   const router = useRouter();
+  const site = getSiteConfig();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -33,8 +35,23 @@ export default function OperatorLoginPage() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-surface px-4">
-      <div className="bg-white border border-border rounded-xl p-8 w-full max-w-md">
-        <h1 className="text-2xl font-bold text-text mb-2">Operator Login</h1>
+      <div className="bg-white border border-border rounded-2xl shadow-xl p-8 w-full max-w-md">
+        {/* Branding */}
+        <div className="flex items-center justify-center gap-3 mb-8">
+          <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center">
+            <span className="text-white font-bold text-sm">
+              {site.logoPrefix}
+            </span>
+          </div>
+          <div>
+            <span className="font-bold text-text text-lg block leading-tight">
+              {site.genericName}
+            </span>
+            <span className="text-xs text-text-light">Operator Portal</span>
+          </div>
+        </div>
+
+        <h1 className="text-2xl font-bold text-text mb-2">Sign In</h1>
         <p className="text-text-light mb-6">
           Sign in to manage your business profile
         </p>

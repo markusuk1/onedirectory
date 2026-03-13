@@ -45,22 +45,24 @@ export default async function MetricsPage({
 
   return (
     <div>
-      <div className="flex items-center gap-2 text-sm text-text-light mb-6">
-        <Link href="/operator/dashboard" className="hover:text-primary">
+      <div className="flex items-center gap-1.5 text-sm text-text-light mb-6">
+        <Link href="/operator/dashboard" className="hover:text-primary transition-colors">
           Dashboard
         </Link>
-        <span>/</span>
+        <svg className="w-4 h-4 text-text-light/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
         <span className="text-text font-medium capitalize">{businessName}</span>
-        <span>/</span>
+        <svg className="w-4 h-4 text-text-light/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
         <span className="text-text font-medium">Metrics</span>
       </div>
 
-      <h1 className="text-2xl font-bold text-text mb-1 capitalize">
-        {businessName}
-      </h1>
-      <p className="text-text-light mb-6 capitalize">
-        {product.replace(/-/g, " ")} &middot; {site}
-      </p>
+      <div className="bg-gradient-to-r from-primary-dark to-primary rounded-2xl px-6 py-5 mb-6 shadow-sm">
+        <h1 className="text-xl font-bold text-white capitalize">
+          {businessName}
+        </h1>
+        <p className="text-white/70 text-sm capitalize">
+          {product.replace(/-/g, " ")} &middot; {site}
+        </p>
+      </div>
 
       <MetricsDashboard slug={slug} product={product} site={site} />
     </div>

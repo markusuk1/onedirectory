@@ -14,7 +14,16 @@
     "lat": 51.481438,
     "lng": -2.526035,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@bristolexecutivecars.com",
+    "emails": [
+      "info@bristolexecutivecars.com"
+    ],
+    "description": "Bristol executive chauffeur car hire & airport transfer service. Reliable chauffeur hire & Airport Transfer Services.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Swindon Executive Cars",
@@ -31,7 +40,13 @@
     "lat": 51.572541,
     "lng": -1.80959,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Swindon Executive Cars - offering Executive Cars, Airport Transfers, and Wedding Hire based in the Swindon area.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Samuel Steel Travel Ltd",
@@ -43,12 +58,13 @@
     "rating": 5.0,
     "total_reviews": 124,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.975981,
     "lng": -2.155448,
-    "found_in_location": "Tewkesbury",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Minibus Hire Cheltenham Gloucestershire from Samuel Steel Travel Ltd. For a professional Service. Please visit our site..."
   },
   {
     "name": "New Century Chauffeurs Club",
@@ -65,7 +81,19 @@
     "lat": 50.722282,
     "lng": -1.870197,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@newcenturychauffeurs.club",
+    "emails": [
+      "info@newcenturychauffeurs.club",
+      "bookings@newcenturychauffeurs.club"
+    ],
+    "description": "New Century Chauffeurs are the leading providers in luxury travel. We pride ourselves in quality and professionalism when meeting your travel needs.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Exe Exec",
@@ -77,7 +105,7 @@
     "rating": 5.0,
     "total_reviews": 96,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.720326,
     "lng": -3.531086,
@@ -99,7 +127,12 @@
     "lat": 50.260022,
     "lng": -5.098241,
     "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "hello@cornwallhire.co.uk",
+    "emails": [
+      "hello@cornwallhire.co.uk"
+    ],
+    "description": "Welcome to Cornwall Hire! We offer hire-out giant lawn games to weddings, parties, and festivals. Lawn games packages available!"
   },
   {
     "name": "Bristol Wedding Cars",
@@ -111,12 +144,24 @@
     "rating": 5.0,
     "total_reviews": 94,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.462865,
     "lng": -2.490714,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@bristolweddingcars.com",
+    "emails": [
+      "info@bristolweddingcars.com"
+    ],
+    "description": "Bristol Wedding Car Hire - luxury modern & vintage wedding car hire in Bristol, Bath & Somerset, book online with Bristol Wedding Cars.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Sybaris Chauffeurs",
@@ -133,7 +178,16 @@
     "lat": 51.47414,
     "lng": -2.639855,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@sybarischauffeurs.com",
+    "emails": [
+      "info@sybarischauffeurs.com"
+    ],
+    "description": "Sybaris Chauffeurs offer impeccable chauffeur car hire & airport transfer services in Bristol. Personalised chauffeur hire services to meet your needs & preferences.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Platinum Executive Transfers",
@@ -150,7 +204,16 @@
     "lat": 51.564047,
     "lng": -1.75638,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@platinumtransfers.uk",
+    "emails": [
+      "info@platinumtransfers.uk"
+    ],
+    "description": "Looking for reliable private car hire in Swindon? Platinum Transfers offers professional Swindon private transport, airport transfers & executive cars available 24/7.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Cordial Cars",
@@ -167,7 +230,17 @@
     "lat": 50.362998,
     "lng": -4.114532,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "contact@cordialcars.com",
+    "emails": [
+      "contact@cordialcars.com"
+    ],
+    "description": "Looking for a luxury airport transfer service in Plymouth - Devon you can rely on? Try us—we won’t disappoint. We’re eager to work with you. Contact us today!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bristol Chauffeur Cars",
@@ -184,7 +257,12 @@
     "lat": 51.475654,
     "lng": -2.542436,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Luxury chauffeur service in Bristol for airport transfers, events, weddings, tours, and business travel. Professional chauffeurs serving Bristol, Bath, London, and beyond.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Cadbury Cars Ltd",
@@ -200,8 +278,18 @@
     "types": "Transportation service",
     "lat": 51.364004,
     "lng": -2.929446,
-    "found_in_location": "Weston-super-Mare",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "enquiries@cadburycars.co.uk",
+    "emails": [
+      "enquiries@cadburycars.co.uk"
+    ],
+    "description": "Executive chauffeur services in Bristol and the South West with an outstanding reputation for professional, reliable service with the personal touch.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dorset Dubhire",
@@ -213,12 +301,22 @@
     "rating": 5.0,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–6:30 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.814989,
     "lng": -1.953265,
-    "found_in_location": "Wimborne",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "catherine@dorsetdubhire.com",
+    "emails": [
+      "catherine@dorsetdubhire.com"
+    ],
+    "description": "Chauffeur-driven VW Wedding Campervan Hire and Wedding Beetle Car Hire in Dorset and the surrounding areas.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ultimate Gamerz Party Hire",
@@ -230,12 +328,13 @@
     "rating": 5.0,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Children's party service",
     "lat": 51.401214,
     "lng": -2.341639,
     "found_in_location": "Bath",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Ultimategamerzpartyhire is a gaming van company, that comes to you for a stress free party. Birthdays, weddings, social events and much more."
   },
   {
     "name": "Sherford Transfers",
@@ -252,7 +351,15 @@
     "lat": 50.36687,
     "lng": -4.048549,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@sherfordtransfers.com",
+    "emails": [
+      "info@sherfordtransfers.com"
+    ],
+    "description": "Sherford Transfers offers reliable airport transfers in Plymouth and across the UK. Travel stress-free with professional drivers and well-maintained vehicles.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "RubyWeddingsxx",
@@ -264,12 +371,19 @@
     "rating": 5.0,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–9 pm\"],\"Sunday\":[\"8:30 am–9 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 50.81045,
     "lng": -1.878985,
-    "found_in_location": "Ferndown",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "jgs1@me.com",
+    "emails": [
+      "jgs1@me.com"
+    ],
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Function Cars Of Purton",
@@ -281,12 +395,21 @@
     "rating": 5.0,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 51.585114,
     "lng": -1.88505,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "enquiries@functioncars.co.uk",
+    "emails": [
+      "enquiries@functioncars.co.uk"
+    ],
+    "description": "Welcome to Function Cars. Quality Wedding Car Hire, based near Swindon, Wiltshire. Our aim is to make your day truly special.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cornwall Transfers & Tours",
@@ -303,7 +426,17 @@
     "lat": 50.261212,
     "lng": -5.062172,
     "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "hello@cornwalltransfers.co.uk",
+    "emails": [
+      "hello@cornwalltransfers.co.uk",
+      "hello@explorecornwall.uk"
+    ],
+    "description": "Reliable airport transfers and long-distance taxi to and from Cornwall for up to 8 passengers with plenty of room for your luggage…",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Xplus Chauffeurs Ltd",
@@ -320,7 +453,17 @@
     "lat": 51.527994,
     "lng": -2.56329,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@xpluschauffeurs.co.uk",
+    "emails": [
+      "info@xpluschauffeurs.co.uk"
+    ],
+    "description": "Bristol Taxi A to B Taxi and Chauffering, Airport Transfers, Business Travel, Wedding Service. A top class customer service",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "MohSaf Cars - Luxury Chauffeur Service in Bristol",
@@ -353,8 +496,17 @@
     "types": "Transportation service",
     "lat": 51.578313,
     "lng": -2.314169,
-    "found_in_location": "Badminton",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "email": "info@cotswoldvwweddings.co.uk",
+    "emails": [
+      "info@cotswoldvwweddings.co.uk"
+    ],
+    "description": "Meet Bertie and Betty, our vintage Volkswagen chauffeur driven vehicles. Available to book to transport you to your upcoming Cotswolds wedding",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Abacus Wedding Cars",
@@ -366,12 +518,21 @@
     "rating": 5.0,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.449457,
     "lng": -2.502756,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@abacusweddingcars.com",
+    "emails": [
+      "info@abacusweddingcars.com"
+    ],
+    "description": "Abacus Wedding Cars Bristol - Modern, traditional and vintage wedding cars for hire in and around Bristol. Affordable car hire with driver for any wedding.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cotswold Wedding Car Service",
@@ -388,7 +549,17 @@
     "lat": 51.880696,
     "lng": -2.062206,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@cotswoldweddingcarservice.com",
+    "emails": [
+      "info@cotswoldweddingcarservice.com"
+    ],
+    "description": "The home for the the finest wedding cars - Bentley, Maserati, Range Rover. Fantastic Cotswold chauffeur service",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Plymouth Travel",
@@ -405,7 +576,15 @@
     "lat": 50.390873,
     "lng": -4.121277,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@plymouthtravel.co.uk",
+    "emails": [
+      "info@plymouthtravel.co.uk"
+    ],
+    "description": "Plymouth Travel is currently owned by Gary Scotchmer and has been since 2021. Gary and his team of drivers (Paul, Paul and Steve) provide a reliable, friendly service to begin your trip.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Bristol and Weston Executive Chauffeurs Ltd",
@@ -417,12 +596,22 @@
     "rating": 5.0,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.3676,
     "lng": -2.914206,
-    "found_in_location": "Weston-super-Mare",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "enquiries@bawchauffeurs.co.uk",
+    "emails": [
+      "enquiries@bawchauffeurs.co.uk"
+    ],
+    "description": "Bristol and Weston Chauffeurs are based in Weston super Mare and provide a professional, confidential and unique quality driven chauffeur experience for clients across Bristol, Somerset and the rest of the UK.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "JCT Luxury Car Service",
@@ -439,7 +628,15 @@
     "lat": 50.697434,
     "lng": -3.513975,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "JCT Travel is a Luxury chauffeur service for both Business and Personal Clients. Based in Exeter we strive to be the best door-to-door service in the UK.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "VW Black Betty Wedding Hire Campervan",
@@ -451,12 +648,20 @@
     "rating": 5.0,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 50.61896,
     "lng": -3.406233,
-    "found_in_location": "Exmouth",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "limo southwest",
+    "email": "info@vwblackbetty.co.uk",
+    "emails": [
+      "info@vwblackbetty.co.uk"
+    ],
+    "description": "Wedding car services in Exeter and Devon area 1965 VW Campervan is a classic rare found vehicle for your special day. We call her Black Betty",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Valkyrie Chauffeurs Ltd",
@@ -472,8 +677,14 @@
     "types": "Chauffeur service",
     "lat": 51.983068,
     "lng": -2.140956,
-    "found_in_location": "Tewkesbury",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Premier Chauffeur Car Service based in Tewkesbury Gloucestershire, near Cheltenham. Family Run Business Est in 2014. Our Services include Airport Transfers, Bespoke Chauffeur Services for Meetings or Events and Wedding Cars. Call us now on 01684 335012 to book your car",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "GloucesterMinibus.com",
@@ -490,7 +701,16 @@
     "lat": 51.854385,
     "lng": -2.248302,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@gloucesterminibus.com",
+    "emails": [
+      "info@gloucesterminibus.com"
+    ],
+    "description": "Looking for minibus or coach hire in Gloucester? We offer minibus hire for groups, tours, weddings, and more at competitive prices. Book your Gloucester minibus today.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Vintage Wedding Cars",
@@ -502,12 +722,22 @@
     "rating": 5.0,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–7 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Wedding service",
     "lat": 51.443094,
     "lng": -2.793459,
-    "found_in_location": "Clevedon",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "info@vintagewedding-cars.co.uk",
+    "emails": [
+      "info@vintagewedding-cars.co.uk"
+    ],
+    "description": "A Somerset-based company supplying vintage cars and vintage wedding cars to the wedding and film industries, our cars provide sophistication, elegance & class.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "North Somerset Wedding And Events)",
@@ -519,12 +749,22 @@
     "rating": 5.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–7 pm\"],\"Monday\":[\"8:30 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"8:30 am–7 pm\"],\"Tuesday\":[\"8:30 am–7 pm\"],\"Wednesday\":[\"8:30 am–7 pm\"]}",
     "types": "Transportation service",
     "lat": 51.390751,
     "lng": -2.776283,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "northsomerseteventcars@yahoo.com",
+    "emails": [
+      "northsomerseteventcars@yahoo.com"
+    ],
+    "description": "Wedding Transport requests are coming in very quickly for 2025 and 2026. Get in touch now for us to look after your day. Packages are advertised on the menu. Please also note Executive Transfers in the menu.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Spirit Wedding Cars",
@@ -536,12 +776,24 @@
     "rating": 5.0,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Wedding service",
     "lat": 51.349674,
     "lng": -2.91729,
-    "found_in_location": "Weston-super-Mare",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "info@spiritweddingcars.co.uk",
+    "emails": [
+      "info@spiritweddingcars.co.uk",
+      "info@spiritweddingcards.co.uk",
+      "spiritweddingcars@hotmail.co.uk"
+    ],
+    "description": "Spirit Wedding Cars, Near Bristol - Wedding car service based Near Bristol - our Beauford, Rolls Royce and Jaguar Wedding Cars are perfect for your Wedding Day",
+    "services": [
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Choice Chauffeurs",
@@ -558,11 +810,20 @@
     "lat": 50.726654,
     "lng": -1.877484,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "enquiries@choice-chauffeurs.co.uk",
+    "emails": [
+      "enquiries@choice-chauffeurs.co.uk"
+    ],
+    "description": "Chauffeur Service Bournemouth, Poole & Dorset. Chauffeur Driven Cars. Wedding Cars, Holiday Travel & Business Travel. Call 01202 798958.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Green Chauffeuring Service",
-    "address": "North Warehouse, \u26c9, The Docks, Gloucester, GL1 2EP, GB",
+    "address": "North Warehouse, ⛉, The Docks, Gloucester, GL1 2EP, GB",
     "phone": "01452 530997",
     "international_phone": "01452 530997",
     "website": "http://www.gloucesterchauffeur.co.uk/",
@@ -575,7 +836,12 @@
     "lat": 51.864171,
     "lng": -2.252034,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Green Chauffeur Service Ltd offers Chauffeur Services, Airport Transfers, Student Chaperone Services, Weddings Cars and Transport in UK including Bristol, Birmingham, Swindon, Gloucester, Gloucestershire and South West.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Christchurch Wedding Cars",
@@ -587,11 +853,11 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 50.737919,
     "lng": -1.74234,
-    "found_in_location": "Christchurch",
+    "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
   },
   {
@@ -609,7 +875,13 @@
     "lat": 51.862218,
     "lng": -2.248679,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Welcome to JONNY-ROCKS Chauffeurs, we specialise in Luxury chauffeur services using the Luxury MERCEDES S-CLASS, BMW 7 SERIES & MERCEDES V-CLASS MPV vehicles. Specialising in executive business and private VIP travel, covering Gloucester, Cheltenham, Cirencester, Stroud, Tewkesbury and The South...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cotswold Chauffeur Services",
@@ -621,12 +893,17 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 52.002842,
     "lng": -2.126898,
-    "found_in_location": "Tewkesbury",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Luxury Cotswold chauffeur service, a carbon neutral company. Mercedes S-Class vehicles and the new Mercedes EQV",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Happy Ever After - Wedding car Plymouth",
@@ -638,12 +915,22 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 50.368232,
     "lng": -4.157507,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@wedding-car-plymouth.co.uk",
+    "emails": [
+      "info@wedding-car-plymouth.co.uk"
+    ],
+    "description": "Plymouth wedding car. Covering Devon and Cornwall weddings. Classic Vintage 1930’s style wedding car, wedding car hire Plymouth.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bristol vintage wedding cars - Kens Kars",
@@ -655,12 +942,16 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 51.533713,
     "lng": -2.383391,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Kens Kars - Vintage wedding cars in Bristol. Providing wedding transport since 1983 in the Bristol and Bath area. Our cars are genuine 1920's and 30's vintage cars in a choice of attractive colours.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dorset Carriage Masters",
@@ -672,12 +963,13 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 50.741389,
     "lng": -1.880854,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Professional limo hire in Bournemouth for funerals,offering unique hearses andluxury vehicles like Mercedes limousines and Routemaster buses.Free quotes"
   },
   {
     "name": "Quest Cars Ltd",
@@ -694,7 +986,15 @@
     "lat": 51.020711,
     "lng": -3.249327,
     "found_in_location": "Taunton",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@questcars.co.uk",
+    "emails": [
+      "info@questcars.co.uk"
+    ],
+    "description": "Airport taxi service providing airport transfers from Taunton, Yeovil, Exeter, Bridgwater to major airports such as Heathrow, Gatwick, Stanstead and Bristol",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Just Married Beetle Hire",
@@ -706,12 +1006,17 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 50.750107,
     "lng": -1.724268,
-    "found_in_location": "Christchurch",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "justmarriedbeetlehire@hotmail.com",
+    "emails": [
+      "justmarriedbeetlehire@hotmail.com"
+    ],
+    "description": "©2019 By Lisa Oliver @ Just Married Beetle Hire. Proudly created with Wix.com"
   },
   {
     "name": "A Class Cars",
@@ -727,8 +1032,18 @@
     "types": "Limousine service",
     "lat": 51.428753,
     "lng": -2.2022,
-    "found_in_location": "Corsham",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "email": "nick@a-classcars.co.uk",
+    "emails": [
+      "nick@a-classcars.co.uk"
+    ],
+    "description": "Chauffeur Driven Cars in Bath, Bristol, Somerset, Devon and the West Country. Luxury executive car service for airport transfers, corporate travel and personal chauffeur.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Starprime Chauffeurs Ltd",
@@ -745,7 +1060,17 @@
     "lat": 51.452389,
     "lng": -2.599267,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@starprimechauffeurs.co.uk",
+    "emails": [
+      "info@starprimechauffeurs.co.uk"
+    ],
+    "description": "Looking for Airport Transfers, Limousine Hire, Taxis and Private Hire Vehicles in BRISTOL, south west england, united kingdom? Contact us today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "the chauffeur",
@@ -762,7 +1087,16 @@
     "lat": 51.900464,
     "lng": -2.052945,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "hello@the-chauffeur.uk",
+    "emails": [
+      "hello@the-chauffeur.uk"
+    ],
+    "description": "Discover Cheltenham’s premier luxury chauffeur service. Discreet, professional travel for executives and events. Experience The Chauffeur difference.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Home James Hire Class Travel Ltd",
@@ -779,7 +1113,17 @@
     "lat": 51.388362,
     "lng": -2.666192,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "hello@homejames.info",
+    "emails": [
+      "hello@homejames.info"
+    ],
+    "description": "Home James Chauffeurs offer luxury Mercedes, chauffeur driven cars. Providing chauffeur services across all of Bristol and the UK. We provide unforgettable chauffeur services from executive cars, wedding cars, airport transfers and VIP chauffeur travel. We combine the highest level of...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Big Black Cars",
@@ -791,12 +1135,22 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7\u202fam\u201310\u202fpm\"],\"Sunday\":[\"7\u202fam\u201310\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"7 am–10 pm\"],\"Sunday\":[\"7 am–10 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Transportation service",
     "lat": 51.547306,
     "lng": -1.854805,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "enquiries@bigblackcars.com",
+    "emails": [
+      "enquiries@bigblackcars.com"
+    ],
+    "description": "Executive and VIP Chauffeur Travel for Swindon, Bristol, Oxford and Reading. 01793-631188 for Chauffeured Big Black Cars throughout the UK. Airport Transfers. Hotel Car Service. Weddings, Functions and Events.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Devondubweddings",
@@ -825,12 +1179,22 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.799273,
     "lng": -1.945995,
-    "found_in_location": "Wimborne",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "contact@digiwow.co.uk",
+    "emails": [
+      "contact@digiwow.co.uk",
+      "hello@wimbornecolehillweddingcars.co.uk"
+    ],
+    "description": "Wedding Car Hire and Chauffeur in Wimborne, Dorset with over 15 years experience and pricing starting from £300.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "S J PEARCE TRANSPORT LTD",
@@ -842,12 +1206,20 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 50.394254,
     "lng": -4.046362,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "sptransport7@gmail.com",
+    "emails": [
+      "sptransport7@gmail.com"
+    ],
+    "description": "SJ Pearce Transport LTD are an independent mini bus operator that offer superb mini bus hire services. Our fleet comprises of quality vehicles ranging from 16 to 33 seats so we can work with you to offer a personalised experiences. We have fully wheelchair accessible vehicles to carry up to 6",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Chauffeur Elite",
@@ -864,7 +1236,16 @@
     "lat": 51.49544,
     "lng": -2.618431,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@chauffeurelite.co.uk",
+    "emails": [
+      "info@chauffeurelite.co.uk"
+    ],
+    "description": "Experience the comfort and elegance of our chauffeur driven Mercedes-Benz long wheelbase S-Class. Bristol chauffeur hire with core values of quality, service excellence, and trust. Airport transfers from Bristol, corporate travel, sporting event chauffeur hire, sightseeing chauffeur services, chauff",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Southwest Chauffeur, Auto and Driver Services LTD",
@@ -880,8 +1261,17 @@
     "types": "Limousine service",
     "lat": 51.362703,
     "lng": -2.93205,
-    "found_in_location": "Weston-super-Mare",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "swchauffeurservices@live.co.uk",
+    "emails": [
+      "swchauffeurservices@live.co.uk"
+    ],
+    "description": "Southwest Chauffeur services are experts in providing a variety of transportation to TV and Film productions. We can offer Unit Cars, Minibuses, People Carriers, Vans, 4x4 Generators and more.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "New Forest Wedding Cars",
@@ -893,12 +1283,23 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 50.924724,
     "lng": -1.755376,
-    "found_in_location": "Fordingbridge",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "chrissy@kingfisher-retreat.co.uk",
+    "emails": [
+      "chrissy@kingfisher-retreat.co.uk"
+    ],
+    "description": "New Forest Wedding Cars have 3 vintage cars available to hire in Hampshire...",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "TJ's Wedding Cars",
@@ -914,7 +1315,7 @@
     "types": "Limousine service",
     "lat": 50.420727,
     "lng": -5.057138,
-    "found_in_location": "Newquay",
+    "found_in_location": "Truro",
     "found_with_query": "limo southwest"
   },
   {
@@ -932,7 +1333,17 @@
     "lat": 51.891563,
     "lng": -2.066493,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@majesticchauffeurs.com",
+    "emails": [
+      "info@majesticchauffeurs.com"
+    ],
+    "description": "Chauffeur Service Worcester - Airport Transfers, Wedding Car Hire, Business Travel, Corporate Transfers. Majestic Chauffeurs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars Hire Cheltenham",
@@ -944,12 +1355,23 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.89852,
     "lng": -2.073288,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Cheltenham and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Somerset Limos",
@@ -965,7 +1387,7 @@
     "types": "Limousine service",
     "lat": 51.130146,
     "lng": -2.99377,
-    "found_in_location": "Bridgwater",
+    "found_in_location": "Taunton",
     "found_with_query": "limo southwest"
   },
   {
@@ -983,7 +1405,11 @@
     "lat": 51.437146,
     "lng": -2.604807,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Get full access to this domain. Easy, seamless transactions. Zero percent financing available.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Harvey's Bus",
@@ -999,8 +1425,17 @@
     "types": "Automative",
     "lat": 50.657125,
     "lng": -3.756623,
-    "found_in_location": "Newton Abbot",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Exeter",
+    "found_with_query": "limo southwest",
+    "email": "info@harveysbus.com",
+    "emails": [
+      "info@harveysbus.com",
+      "195264info@harveysbus.com"
+    ],
+    "description": "Welcome to Harveys bus ltd Harveys bus Ltd, serve all over Devon and the South West of England with a high quality, reliable service, and our modern fleet",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Adventure Bus Dorset",
@@ -1016,8 +1451,16 @@
     "types": "Party equipment rental service",
     "lat": 50.740809,
     "lng": -1.913698,
-    "found_in_location": "Poole",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "thedriver.abd@gmail.com",
+    "emails": [
+      "thedriver.abd@gmail.com"
+    ],
+    "description": "Adventure Bus Dorset specialises in unique celebrations that combine creativity and wonder with high levels of personal service.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Richmond Wedding Cars",
@@ -1046,12 +1489,21 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.218814,
     "lng": -5.311643,
-    "found_in_location": "Camborne",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest",
+    "email": "cornishbay@hotmail.com",
+    "emails": [
+      "cornishbay@hotmail.com"
+    ],
+    "description": "Offering chauffeur driven, classic VW wedding car hire in Cornwall",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "JCT Travel - Luxury Car Service",
@@ -1068,7 +1520,15 @@
     "lat": 50.727509,
     "lng": -3.467078,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "JCT Travel is a Luxury chauffeur service for both Business and Personal Clients. Based in Exeter we strive to be the best door-to-door service in the UK.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "DCS Limos",
@@ -1080,12 +1540,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"11\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"11 am–7 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 50.84233,
     "lng": -1.863531,
-    "found_in_location": "Wimborne",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "description": "Hummers and Baby Bentley Limos now in and ready for hire",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bathl Hex Chauffeurs Service",
@@ -1102,7 +1569,16 @@
     "lat": 51.422617,
     "lng": -2.591763,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "contact@hexcars.co.uk",
+    "emails": [
+      "contact@hexcars.co.uk"
+    ],
+    "description": "Book Airport Transfers, Taxi Service, Shuttle, Business Trips, Pet Taxi Service, Private Luxury Chauffeur, Minibus, and Executive Hire With Hexcars.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Al's Classic Cars & Chauffeur Service",
@@ -1148,7 +1624,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.482705,
     "lng": -3.561975,
@@ -1170,7 +1646,10 @@
     "lat": 50.717345,
     "lng": -1.897586,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Waterside Wedding Cars",
@@ -1186,7 +1665,7 @@
     "types": "Wedding service",
     "lat": 51.092799,
     "lng": -2.266278,
-    "found_in_location": "Warminster",
+    "found_in_location": "Bath",
     "found_with_query": "limo southwest"
   },
   {
@@ -1203,11 +1682,11 @@
     "types": "Car rental company",
     "lat": 50.798598,
     "lng": -1.986227,
-    "found_in_location": "Wimborne",
+    "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
   },
   {
-    "name": "\ud835\udc00\ud835\udc22\ud835\udc2b\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d \ud835\udc13\ud835\udc1a\ud835\udc31\ud835\udc22 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc21\ud835\udc1a\ud835\udc26",
+    "name": "𝐀𝐢𝐫𝐩𝐨𝐫𝐭 𝐓𝐚𝐱𝐢 𝐂𝐡𝐞𝐥𝐭𝐞𝐧𝐡𝐚𝐦",
     "address": "Harley House, 29 Cambray Pl, Cheltenham, GL50 1JN, GB",
     "phone": "01242 851915",
     "international_phone": "01242 851915",
@@ -1221,7 +1700,12 @@
     "lat": 51.89852,
     "lng": -2.073288,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Need a trustworthy taxi service for Cheltenham to airport, seaport, or city-to-city transfers? Click above or call 01242851915 for a quote!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "1st Call Auto Rentals",
@@ -1233,12 +1717,17 @@
     "rating": 4.9,
     "total_reviews": 235,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u20139\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8–9 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.8596,
     "lng": -2.260878,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@1stcallautorentals.co.uk",
+    "emails": [
+      "info@1stcallautorentals.co.uk"
+    ],
+    "description": "1st Call Auto Rentals are Gloucestershire's leading independant car and van hire specialists with offices in Gloucester and Stroud. Our highly skilled team are committed to providing the highest standards of service to all our customers."
   },
   {
     "name": "CDEC Wedding Cars",
@@ -1250,12 +1739,21 @@
     "rating": 4.9,
     "total_reviews": 70,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 50.404961,
     "lng": -4.111856,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "james@luxurydrive.co.uk",
+    "emails": [
+      "james@luxurydrive.co.uk"
+    ],
+    "description": "CDEC Wedding Cars for Genuine Vintage Wedding Cars - 1929 Buick, 1927 & 1930 Franklin for hire in Plymouth, Devon & Cornwall. Online booking available",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cheema Fleet Ltd",
@@ -1272,7 +1770,18 @@
     "lat": 51.465809,
     "lng": -2.560457,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@cheemafleetltd.com",
+    "emails": [
+      "info@cheemafleetltd.com"
+    ],
+    "description": "Get the luxury of comfortable travel with best chauffeur company in Bristol. Cheema Fleet Ltd provides reliable and efficient transportation solutions.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Luxury VIP Partybus & Limos",
@@ -1289,7 +1798,8 @@
     "lat": 51.566924,
     "lng": -1.751094,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Buy luxuryviplimos.com for 395 on GoDaddy via ExpiredDomains.com. This premium expired .com domain is ideal for Limo Service projects. Secure it today!"
   },
   {
     "name": "Boss executive cars",
@@ -1301,12 +1811,16 @@
     "rating": 4.9,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20138\u202fpm\"],\"Monday\":[\"7\u202fam\u20138\u202fpm\"],\"Saturday\":[\"7\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"7\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–8 pm\"],\"Monday\":[\"7 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"7 am–8 pm\"],\"Tuesday\":[\"7 am–8 pm\"],\"Wednesday\":[\"7 am–8 pm\"]}",
     "types": "Transportation service",
     "lat": 51.091569,
     "lng": -3.016803,
-    "found_in_location": "Bridgwater",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Taunton",
+    "found_with_query": "limo southwest",
+    "description": "Somerset executive cars in taunton",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "ANB Ferns - Wedding Car & Florist Swindon Wiltshire",
@@ -1323,7 +1837,16 @@
     "lat": 51.589744,
     "lng": -1.76169,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "anb.ferns@outlook.com",
+    "emails": [
+      "anb.ferns@outlook.com"
+    ],
+    "description": "Wedding Florist & Car Hire|Fresh, dried, artificial faux silk flowers|Prices for most budgets|Swindon - Wiltshire and surrounding counties.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tally Ho! Coaches Plymouth",
@@ -1335,12 +1858,13 @@
     "rating": 4.9,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.386376,
     "lng": -3.955554,
-    "found_in_location": "Ivybridge",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest",
+    "description": "Bonded coach holidays and day trips from Plymouth, Torbay, Kingsbridge and South Devon"
   },
   {
     "name": "Troopers Lodge Motor Services",
@@ -1356,8 +1880,12 @@
     "types": "Bus company",
     "lat": 51.996934,
     "lng": -1.78354,
-    "found_in_location": "Moreton-in-Marsh",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Buses are not just a source of income for us, they are our hobby and passion. We spend many days throughout the year going to different venues, running days and rallies offering a free bus service for other enthusiasts and communities.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "VW Wedding Campervans",
@@ -1369,12 +1897,21 @@
     "rating": 4.8,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9 pm\"],\"Monday\":[\"8:30 am–9 pm\"],\"Saturday\":[\"8:30 am–9 pm\"],\"Sunday\":[\"8:30 am–9 pm\"],\"Thursday\":[\"8:30 am–9 pm\"],\"Tuesday\":[\"8:30 am–9 pm\"],\"Wednesday\":[\"8:30 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 51.511781,
     "lng": -2.582746,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "lois@vwweddingcampervans.co.uk",
+    "emails": [
+      "lois@vwweddingcampervans.co.uk"
+    ],
+    "description": "When booking one of VW Wedding Camper Vans you can be assured that you will receive a friendly and personal service. We only carry out one wedding per day per vehicle.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Saints Funeral Services",
@@ -1390,8 +1927,13 @@
     "types": "Funeral director",
     "lat": 50.214096,
     "lng": -5.483751,
-    "found_in_location": "Saint Ives",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest",
+    "email": "info@saintsfunerals.co.uk",
+    "emails": [
+      "info@saintsfunerals.co.uk"
+    ],
+    "description": "Saints Funeral Services provide a unique funeral director and transport service covering Penzance, St Ives & Hayle in Cornwall with unique hearses & limousines"
   },
   {
     "name": "Chauffeurline Executive Limousines",
@@ -1403,12 +1945,19 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 51.588148,
     "lng": -1.970133,
-    "found_in_location": "Malmesbury",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Swindon",
+    "found_with_query": "limo southwest",
+    "description": "Are you looking for executive limousines? Get in touch with Chauffeurline Executive Limousines today. We provide limousine hire across Swindon and the surrounding areas.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "No Hassle Travel Plymouth",
@@ -1425,7 +1974,15 @@
     "lat": 50.375781,
     "lng": -4.158977,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@plymouthtravel.co.uk",
+    "emails": [
+      "info@plymouthtravel.co.uk"
+    ],
+    "description": "Plymouth Travel is currently owned by Gary Scotchmer and has been since 2021. Gary and his team of drivers (Paul, Paul and Steve) provide a reliable, friendly service to begin your trip.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Exec Cars Exeter",
@@ -1437,12 +1994,17 @@
     "rating": 4.7,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.715087,
     "lng": -3.479527,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Specialising in Chauffeur Airport, Seaport transfers, weddings, business meetings, corporate events and long distance journeys. Based in Exeter.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Prestige Supercar",
@@ -1454,12 +2016,22 @@
     "rating": 4.7,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 50.522264,
     "lng": -3.589765,
-    "found_in_location": "Newton Abbot",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Torquay",
+    "found_with_query": "limo southwest",
+    "email": "info@prestigesupercar.com",
+    "emails": [
+      "info@prestigesupercar.com"
+    ],
+    "description": "It’s your big day, a surprise treat for someone you love or you’d just like to make a lasting impression. Welcome to the Prestige Supercar. We offer the ultimate in making an entrance with our cars, Something Vintage Classic, Luxury Modern & Mustang Muscle.",
+    "services": [
+      "Chauffeur Service",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The King's Cars",
@@ -1476,7 +2048,15 @@
     "lat": 51.899085,
     "lng": -2.100107,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@thekingscars.co.uk",
+    "emails": [
+      "info@thekingscars.co.uk"
+    ],
+    "description": "Airport Taxi Transfers Cheltenham To & From Birmingham, Bristol, Heathrow, Gatwick, Manchester Airport Provided by The Kings Cars.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "RR Elite Wedding Cars",
@@ -1488,12 +2068,18 @@
     "rating": 4.7,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20137:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20137:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–7:30 pm\"],\"Monday\":[\"9:30 am–7:30 pm\"],\"Saturday\":[\"9:30 am–7:30 pm\"],\"Sunday\":[\"9:30 am–7:30 pm\"],\"Thursday\":[\"9:30 am–7:30 pm\"],\"Tuesday\":[\"9:30 am–7:30 pm\"],\"Wednesday\":[\"9:30 am–7:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.068127,
     "lng": -2.369753,
-    "found_in_location": "Wincanton",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "description": "Wedding Car Hire with RR Elite, wedding cars for hire across Dorset in Bournemouth, Christchurch, Poole and surrounding areas, Cars like Classic, Vintage, Sports, Rolls Royce and more. weddings, proms and private executive hire.",
+    "services": [
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Abbey Wedding Cars",
@@ -1505,12 +2091,21 @@
     "rating": 4.7,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 50.472197,
     "lng": -3.532331,
     "found_in_location": "Torquay",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "abbeytravel@mail.com",
+    "emails": [
+      "abbeytravel@mail.com"
+    ],
+    "description": "Abbey Wedding Cars - THE Classic Jaguar Wedding Car Specialists based in Torbay Devon. Covering Torquay, Paignton and Brixham and all of South Devon",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Club Class Chauffeurs",
@@ -1527,7 +2122,11 @@
     "lat": 51.899686,
     "lng": -2.100921,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "webmaster@ccchauffeurs.co.uk",
+    "emails": [
+      "webmaster@ccchauffeurs.co.uk"
+    ]
   },
   {
     "name": "Plymouth Boat Trips",
@@ -1539,12 +2138,17 @@
     "rating": 4.6,
     "total_reviews": 235,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Boat tour agency",
     "lat": 50.365654,
     "lng": -4.134083,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@plymouthboattrips.co.uk",
+    "emails": [
+      "info@plymouthboattrips.co.uk"
+    ],
+    "description": "Take to the Water in Plymouth Set sail with Plymouth Boat Trips, the South West’s premier cruising and ferry company. From sight-seeing cruises, private charters and party nights to connecting ferries – there’s something for everyone. Download our brochure"
   },
   {
     "name": "J2 Luxury Transport",
@@ -1560,8 +2164,18 @@
     "types": "Wedding service",
     "lat": 51.458181,
     "lng": -2.11357,
-    "found_in_location": "Chippenham",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "email": "weddings@mail.com",
+    "emails": [
+      "weddings@mail.com"
+    ],
+    "description": "J2 sets the gold standard for luxury wedding car hire in Chippenham, Wiltshire. Our collection of Modern & Vintage wedding cars combined with our Professional Chauffeurs cannot be beaten for style or service. Get an Instant online Quote.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "HexChauffeurs Luxury Chauffeur Service",
@@ -1578,7 +2192,11 @@
     "lat": 51.452262,
     "lng": -2.596612,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Travel in style with HexChauffeurs. Reliable, elegant, and professional transportation services.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Centurion Travel Ltd",
@@ -1590,12 +2208,20 @@
     "rating": 4.6,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.292813,
     "lng": -2.478764,
-    "found_in_location": "Radstock",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "email": "coach-hire@centuriontravel.co.uk",
+    "emails": [
+      "coach-hire@centuriontravel.co.uk"
+    ],
+    "description": "Centurion Travel offering service routes, excursions and tours, private executive coach hire, mini bus hire, school bus hire, wedding cars & limousine hire.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Truronian Coaches",
@@ -1607,7 +2233,7 @@
     "rating": 4.6,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 50.251182,
     "lng": -5.043373,
@@ -1624,12 +2250,17 @@
     "rating": 4.6,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.440446,
     "lng": -4.010748,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "lynne.johns86@yahoo.com",
+    "emails": [
+      "lynne.johns86@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Westcountry Wedding Cars",
@@ -1641,12 +2272,21 @@
     "rating": 4.5,
     "total_reviews": 92,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 50.39461,
     "lng": -4.050742,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@westweddingcars.co.uk",
+    "emails": [
+      "info@westweddingcars.co.uk"
+    ],
+    "description": "wedding car hire,wedding car company,wedding car companies,limousine hire,chauffeur driven,car hire",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bennetts Coaches Ltd",
@@ -1658,12 +2298,16 @@
     "rating": 4.5,
     "total_reviews": 73,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.859157,
     "lng": -2.217704,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Bennetts Coaches(operating from Gloucester,Gloucestershire)",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "A L Bennetts Transport Ltd",
@@ -1680,7 +2324,15 @@
     "lat": 50.737308,
     "lng": -1.874146,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@albennetts.co.uk",
+    "emails": [
+      "info@albennetts.co.uk"
+    ],
+    "description": "A L Bennetts provide Minibus Hire in Bournemouth and Poole. Contact us today to find out more about our transport services.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Truro District Conservative Club",
@@ -1692,7 +2344,7 @@
     "rating": 4.5,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11:30\u202fam\u201312\u202fam\"],\"Monday\":[\"11:30\u202fam\u201311\u202fpm\"],\"Saturday\":[\"11\u202fam\u201312\u202fam\"],\"Sunday\":[\"11\u202fam\u20137\u202fpm\"],\"Thursday\":[\"11:30\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"11:30\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"11:30\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11:30 am–12 am\"],\"Monday\":[\"11:30 am–11 pm\"],\"Saturday\":[\"11 am–12 am\"],\"Sunday\":[\"11 am–7 pm\"],\"Thursday\":[\"11:30 am–11 pm\"],\"Tuesday\":[\"11:30 am–11 pm\"],\"Wednesday\":[\"11:30 am–11 pm\"]}",
     "types": "Association / Organization",
     "lat": 50.262488,
     "lng": -5.051486,
@@ -1709,12 +2361,17 @@
     "rating": 4.5,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 50.696283,
     "lng": -3.516514,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "hire@daysrental.co.uk",
+    "emails": [
+      "hire@daysrental.co.uk"
+    ],
+    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
   },
   {
     "name": "Elite Fleet (South West) Ltd",
@@ -1726,12 +2383,23 @@
     "rating": 4.5,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 51.488869,
     "lng": -2.540096,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@elitefleetsouthwest.co.uk",
+    "emails": [
+      "info@elitefleetsouthwest.co.uk"
+    ],
+    "description": "Want a stress-free, stylish ride in Bristol? Trust Elite Fleet (South West) Ltd for elite chauffeur services and superior comfort. Book your ride today!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Truro Minibus Services",
@@ -1747,8 +2415,13 @@
     "types": "Coach and minibus hire",
     "lat": 50.1433,
     "lng": -5.35842,
-    "found_in_location": "Hayle",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest",
+    "email": "lynne.johns86@yahoo.com",
+    "emails": [
+      "lynne.johns86@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "1st Stretch",
@@ -1760,7 +2433,7 @@
     "rating": 4.4,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 51.583091,
     "lng": -1.828593,
@@ -1781,8 +2454,18 @@
     "types": "Limousine service",
     "lat": 50.528862,
     "lng": -3.610481,
-    "found_in_location": "Newton Abbot",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Torquay",
+    "found_with_query": "limo southwest",
+    "email": "newtonabbotlimohire@aol.com",
+    "emails": [
+      "newtonabbotlimohire@aol.com"
+    ],
+    "description": "Newton Abbot Limo Hire has a variety of limousines to choose from amongst our impressive fleet. Call us today Abbotskerswell, Newton Abbot, for more information about our limo hire services.",
+    "services": [
+      "Hummer Limo",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "John Dix Travel",
@@ -1794,12 +2477,17 @@
     "rating": 4.4,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.789783,
     "lng": -2.304215,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@johndixtravel.co.uk",
+    "emails": [
+      "info@johndixtravel.co.uk"
+    ],
+    "description": "John Dix Travel a family owned business supplying competitively priced passenger transport including Minibus hire and coach hire Gloucester & Gloucestershire."
   },
   {
     "name": "Superwed Cars",
@@ -1816,7 +2504,16 @@
     "lat": 50.736493,
     "lng": -1.813475,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "allaspects@btinternet.com",
+    "emails": [
+      "allaspects@btinternet.com",
+      "superwedenquiries@btinternet.com"
+    ],
+    "description": "Superwed Wedding Car Hire Company in Bournemouth has a wide range of wedding cars for hire in Bournemouth, Christchurch, Poole and surrounding areas. Cars include Classic, Vintage, Limousines, London Routemaster and American cars to name a few.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Devon Classic Wedding Cars",
@@ -1828,12 +2525,18 @@
     "rating": 4.4,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 50.324976,
     "lng": -3.802794,
-    "found_in_location": "Kingsbridge",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest",
+    "description": "Based in South Devon, we offer a unique collection of wonderful and very individual classic wedding cars for your special day.",
+    "services": [
+      "Classic & Vintage",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Chauffeur Travel",
@@ -1850,7 +2553,17 @@
     "lat": 51.384071,
     "lng": -2.398647,
     "found_in_location": "Bath",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "enquiries@chauffeurtravel.co.uk",
+    "emails": [
+      "enquiries@chauffeurtravel.co.uk"
+    ],
+    "description": "To get a quote or book a journey, simply click the start button below, enter your journey details and at the final step you can save your quote or make a booking.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Premier Coaches Cornwall",
@@ -1862,12 +2575,20 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.414746,
     "lng": -5.074141,
-    "found_in_location": "Newquay",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest",
+    "email": "contact@premiercoachescornwall.com",
+    "emails": [
+      "contact@premiercoachescornwall.com"
+    ],
+    "description": "Reliable coach and minibus hire in Cornwall for tours, weddings, events, airport transfers, and group travel. Comfortable, stress-free transport.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "U-Drive Limited",
@@ -1879,12 +2600,13 @@
     "rating": 4.3,
     "total_reviews": 128,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 50.724633,
     "lng": -3.464588,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "U-Drive Exeter provides flexible car hire, van rental, truck & minibus hire for Exeter and nearby areas. Book online today for reliable, convenient vehicle rental."
   },
   {
     "name": "Avon Minibuses",
@@ -1901,7 +2623,15 @@
     "lat": 51.445992,
     "lng": -2.523701,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@avonminibuses.co.uk",
+    "emails": [
+      "info@avonminibuses.co.uk"
+    ],
+    "description": "For reliable and professional minibus transport services, contact Avon Minibuses in Bristol for airport transfers, wedding transport, and general minibus hire.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Hollywood Limos - Wedding Cars, Classic & Vintage Weddings Cars Exeter",
@@ -1918,7 +2648,18 @@
     "lat": 50.674191,
     "lng": -3.397971,
     "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@limohireuk.co.uk",
+    "emails": [
+      "info@limohireuk.co.uk"
+    ],
+    "description": "Devon's leading wedding car hire company in vintage and classic show cars, and Hollywood stretch limos for hen nights and occasions",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "P and C.J Travel",
@@ -1935,7 +2676,11 @@
     "lat": 50.417497,
     "lng": -4.181858,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "We are a small local family run business operating a small fleet of 16 seater minibuses for most occasions from:",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Cotswold Chauffeured Cars",
@@ -1968,7 +2713,7 @@
     "types": "Transportation service",
     "lat": 50.376745,
     "lng": -4.224604,
-    "found_in_location": "Cornwall",
+    "found_in_location": "Plymouth",
     "found_with_query": "limo southwest"
   },
   {
@@ -1986,7 +2731,15 @@
     "lat": 50.758079,
     "lng": -1.841395,
     "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "sct@southcoasttravel.co.uk",
+    "emails": [
+      "sct@southcoasttravel.co.uk"
+    ],
+    "description": "Discover premier coach travel along the stunning South Coast with South Coast Travel. Book now for comfort, and unforgettable journeys!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Tally Ho! Coaches Limited",
@@ -1998,12 +2751,13 @@
     "rating": 4.2,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.283274,
     "lng": -3.781798,
-    "found_in_location": "Kingsbridge",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Torquay",
+    "found_with_query": "limo southwest",
+    "description": "Bonded coach holidays and day trips from Plymouth, Torbay, Kingsbridge and South Devon"
   },
   {
     "name": "Tuksy Chauffeurs Ltd Bristol",
@@ -2020,7 +2774,16 @@
     "lat": 51.453509,
     "lng": -2.594946,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "bookings@tuksy.co.uk",
+    "emails": [
+      "bookings@tuksy.co.uk"
+    ],
+    "description": "As your chosen Transport Team we take care of all the planning, with a dedicated Transport Captain taking all the stress off Production. We provide Unit Cars, MPVs, Minibuses, Coaches, 4x4s, Quads, Trailers and Swing drivers.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Taunton Minibuses",
@@ -2037,7 +2800,17 @@
     "lat": 51.033577,
     "lng": -3.141551,
     "found_in_location": "Taunton",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@tauntonminibuses.co.uk",
+    "emails": [
+      "info@tauntonminibuses.co.uk"
+    ],
+    "description": "Modern Minibus Hire At Affordable Rates In Taunton Are you in need of transport for your upcoming event? Do you need a minibus or coach? If so, consider Taunton Minibuses. Whether you need it for a one-off event, daily, weekly, or monthly travel, we can tailor a plan to match your requirements...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Fleetway Vehicle Rental",
@@ -2049,12 +2822,17 @@
     "rating": 4.0,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u201310:30\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30–10:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 51.815125,
     "lng": -2.273107,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "dailyrentals@fleetwayrentals.co.uk",
+    "emails": [
+      "dailyrentals@fleetwayrentals.co.uk"
+    ],
+    "description": "Great Choice if you are looking for agreat deal!By choosingFleetway Rentalsyou can be sure we have you covered!"
   },
   {
     "name": "Travel Cornwall",
@@ -2070,8 +2848,9 @@
     "types": "Taxi service",
     "lat": 50.364934,
     "lng": -4.966642,
-    "found_in_location": "Newquay",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest",
+    "description": "BOOK YOUR TRANSFER Reliable Service at the Best Value Rates BOOK NOW Wheelchair Access We can provide a large selection of wheelchair accessible vehicles, including taxis and minibuses. We’re happy to quote for any size group, large or small. LEARN MORE Executive Travel A quality fleet of 4, 6..."
   },
   {
     "name": "Sterling Cars Limited",
@@ -2088,7 +2867,16 @@
     "lat": 51.576162,
     "lng": -1.767229,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@flightlink.biz",
+    "emails": [
+      "info@flightlink.biz",
+      "info@flightlinkchauffeurs.co.uk"
+    ],
+    "description": "Welcome to Flightlink Chauffeurs",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Redvers Limousine",
@@ -2151,12 +2939,22 @@
     "rating": 3.8,
     "total_reviews": 152,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.894966,
     "lng": -1.752146,
     "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@pulhams.co.uk",
+    "emails": [
+      "info@pulhams.co.uk",
+      "gbt@fortitudecommunications.com",
+      "name@company.com"
+    ],
+    "description": "Executive coach travel and bus company",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Cottons Mini Coaches",
@@ -2172,7 +2970,7 @@
     "types": "Coach and minibus hire",
     "lat": 50.412333,
     "lng": -4.211318,
-    "found_in_location": "Saltash",
+    "found_in_location": "Plymouth",
     "found_with_query": "limo southwest"
   },
   {
@@ -2189,8 +2987,18 @@
     "types": "Limousine service",
     "lat": 50.505336,
     "lng": -3.622893,
-    "found_in_location": "Newton Abbot",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Torquay",
+    "found_with_query": "limo southwest",
+    "email": "newtonabbotlimohire@aol.com",
+    "emails": [
+      "newtonabbotlimohire@aol.com"
+    ],
+    "description": "Newton Abbot Limo Hire has a variety of limousines to choose from amongst our impressive fleet. Call us today Abbotskerswell, Newton Abbot, for more information about our limo hire services.",
+    "services": [
+      "Hummer Limo",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dartline",
@@ -2202,7 +3010,7 @@
     "rating": 3.6,
     "total_reviews": 93,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 50.708054,
     "lng": -3.44089,
@@ -2219,12 +3027,17 @@
     "rating": 3.6,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.749962,
     "lng": -2.337451,
-    "found_in_location": "Stonehouse",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Gloucester",
+    "found_with_query": "limo southwest",
+    "email": "kbcoaches@yahoo.co.uk",
+    "emails": [
+      "kbcoaches@yahoo.co.uk"
+    ],
+    "description": "Leaders in Travel at KB Coaches of Gloucestershire"
   },
   {
     "name": "Bournemouth Limos",
@@ -2258,7 +3071,15 @@
     "lat": 50.386038,
     "lng": -3.982277,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "geoffrey.johns@btconnect.com",
+    "emails": [
+      "geoffrey.johns@btconnect.com"
+    ],
+    "description": "Discover the services of GPJ MINIBUS HIRE, Smithaleigh;Plymouth",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Family Wedding Cars",
@@ -2274,8 +3095,18 @@
     "types": "Limousine service",
     "lat": 51.458181,
     "lng": -2.11357,
-    "found_in_location": "Chippenham",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "email": "weddings@mail.com",
+    "emails": [
+      "weddings@mail.com"
+    ],
+    "description": "Locally based 5 Star Wedding Car Hire in Chippenham, Wiltshire. ✓ Competitive prices, ✓ highly recommended service. ✓ Online quote. ✓ Low Deposit. ✓ Superb service.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "A2B Coach Travel Cornwall",
@@ -2292,7 +3123,15 @@
     "lat": 50.305166,
     "lng": -5.031917,
     "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "enquiries@a2btaxistruro.com",
+    "emails": [
+      "enquiries@a2btaxistruro.com"
+    ],
+    "description": "A2B Coach & Minibus Hire are an exciting new addition to A2B Transport Services Cornwall and A2B Taxis (Truro & Falmouth) Ltd.",
+    "services": [
+      "Prom Transport"
+    ]
   },
   {
     "name": "Bath Limousines Ltd",
@@ -2308,7 +3147,7 @@
     "types": "Limousine service",
     "lat": 51.292859,
     "lng": -2.478527,
-    "found_in_location": "Radstock",
+    "found_in_location": "Bath",
     "found_with_query": "limo southwest"
   },
   {
@@ -2326,7 +3165,12 @@
     "lat": 51.849078,
     "lng": -2.242568,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Green Chauffeur Service Ltd offers Chauffeur Services, Airport Transfers, Student Chaperone Services, Weddings Cars and Transport in UK including Bristol, Birmingham, Swindon, Gloucester, Gloucestershire and South West.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Limousine",
@@ -2343,7 +3187,17 @@
     "lat": 51.548206,
     "lng": -1.791322,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "We are a well established, family owned and operated chauffeur company offering the best limo hire Swindon, Reading, Gloucester, Bath, Oxford, Marlborough, Hungerford, Cirencester, Chippenham and Newbury has available! Our extensive fleet of stretched and saloon length chauffeur cars in Swindon...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Pink Limo 4 U",
@@ -2393,8 +3247,15 @@
     "types": "Limousine service",
     "lat": 51.056596,
     "lng": -2.215997,
-    "found_in_location": "Shaftesbury",
-    "found_with_query": "limo southwest"
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "description": "Hummer Limo Hire offers the biggest choice of stretch Hummer limos and 4x4 limos for hire throughout the UK. From white, silver, black and even pink Hummer limos.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Wedding Cars Hire Bristol",
@@ -2406,12 +3267,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.453509,
     "lng": -2.594946,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Bristol and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Campervan Weddings Bath",
@@ -2423,7 +3295,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5:30 pm\"]}",
     "types": "Limousine service",
     "lat": 51.398747,
     "lng": -2.395588,
@@ -2496,7 +3368,15 @@
     "lat": 50.371282,
     "lng": -4.138812,
     "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@investravel.com",
+    "emails": [
+      "info@investravel.com"
+    ],
+    "description": "Minibus Hire Plymouth. Cheap Airport Transfers. Professional & Reliable Service. Meet & Greet Included · Qualified, Skilled Drivers. Taxi Hire.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Wedding Cars Gloucester",
@@ -2508,12 +3388,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.862163,
     "lng": -2.248726,
     "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Gloucestershire and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Abacus Cars",
@@ -2530,7 +3422,16 @@
     "lat": 51.488108,
     "lng": -2.503558,
     "found_in_location": "Bristol",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "info@abacusweddingcars.com",
+    "emails": [
+      "info@abacusweddingcars.com"
+    ],
+    "description": "Abacus Wedding Cars Bristol - Modern, traditional and vintage wedding cars for hire in and around Bristol. Affordable car hire with driver for any wedding.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Purrfect wedding car",
@@ -2542,7 +3443,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.482794,
     "lng": -2.749011,
@@ -2559,12 +3460,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"9:30 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.564068,
     "lng": -1.783648,
     "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Swindon and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Devon Wedding Cars",
@@ -2580,7 +3492,7 @@
     "types": "Wedding service",
     "lat": 50.807179,
     "lng": -3.296769,
-    "found_in_location": "Honiton",
+    "found_in_location": "Exeter",
     "found_with_query": "limo southwest"
   },
   {
@@ -2597,7 +3509,7 @@
     "types": "Limousine service",
     "lat": 50.72481,
     "lng": -1.930198,
-    "found_in_location": "Poole",
+    "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
   },
   {
@@ -2615,6 +3527,18 @@
     "lat": 50.956896,
     "lng": -3.027038,
     "found_in_location": "Taunton",
-    "found_with_query": "limo southwest"
+    "found_with_query": "limo southwest",
+    "email": "rupert@carsofclass.co.uk",
+    "emails": [
+      "rupert@carsofclass.co.uk",
+      "johndoe@company.com"
+    ],
+    "description": "A TOUCH OF STYLE A TOUCH OF STYLE Luxury Wedding Car Hire UK Welcome to Rupert Ryall's Cars of Class. We are a luxury wedding car hire company, dedicated to providing exceptional transportation services for your special day. Based in the South West",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   }
 ]

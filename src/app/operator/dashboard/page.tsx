@@ -42,9 +42,14 @@ export default async function OperatorDashboard() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-text mb-6">
-        Welcome, {session.user.name}
-      </h1>
+      <div className="bg-gradient-to-br from-primary-dark via-primary to-primary-light rounded-2xl p-8 mb-8 shadow-lg">
+        <h1 className="text-2xl font-bold text-white mb-1">
+          Welcome back, {session.user.name}
+        </h1>
+        <p className="text-white/70">
+          Manage your business profiles, configure auto-quotes, and track performance
+        </p>
+      </div>
 
       {pendingClaims.length > 0 && (
         <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6">
@@ -64,7 +69,7 @@ export default async function OperatorDashboard() {
       )}
 
       {approvedClaims.length > 0 && (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           {approvedClaims.map(
             (claim: {
               business_slug: string;
@@ -74,42 +79,63 @@ export default async function OperatorDashboard() {
             }) => (
               <div
                 key={`${claim.business_slug}-${claim.product}-${claim.site}`}
-                className="bg-white border border-border rounded-xl p-6"
+                className="bg-white border border-border rounded-2xl p-6 hover:shadow-lg hover:border-primary/20 transition-all duration-200"
               >
-                <h3 className="font-semibold text-text mb-1">
-                  {claim.business_slug.replace(/-/g, " ")}
-                </h3>
-                <p className="text-sm text-text-light mb-1 capitalize">
-                  {claim.product.replace(/-/g, " ")} &middot; {claim.site}
-                </p>
-                {claim.tagline && (
-                  <p className="text-sm text-text-light italic mb-3">
-                    {claim.tagline}
-                  </p>
-                )}
-                <div className="flex gap-2 mt-4">
+                <div className="flex items-start gap-4 mb-5">
+                  <div className="w-12 h-12 bg-gradient-to-br from-primary to-primary-light rounded-xl flex items-center justify-center shrink-0">
+                    <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                    </svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <h3 className="font-bold text-text text-lg capitalize">
+                      {claim.business_slug.replace(/-/g, " ")}
+                    </h3>
+                    <p className="text-sm text-text-light capitalize">
+                      {claim.product.replace(/-/g, " ")} &middot; {claim.site}
+                    </p>
+                    {claim.tagline && (
+                      <p className="text-sm text-text-light italic mt-1 truncate">
+                        {claim.tagline}
+                      </p>
+                    )}
+                  </div>
+                </div>
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
                   <Link
                     href={`/operator/profile/${claim.business_slug}?product=${claim.product}&site=${claim.site}`}
-                    className="text-sm bg-primary text-white px-3 py-1.5 rounded-lg hover:bg-primary-dark transition-colors"
+                    className="flex items-center justify-center gap-1.5 text-sm bg-primary text-white px-3 py-2.5 rounded-xl hover:bg-primary-dark transition-colors font-medium"
                   >
-                    Edit Profile
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                    </svg>
+                    Profile
                   </Link>
                   <Link
                     href={`/operator/auto-quotes/${claim.business_slug}?product=${claim.product}&site=${claim.site}`}
-                    className="text-sm bg-surface text-text px-3 py-1.5 rounded-lg hover:bg-surface-dark transition-colors border border-border"
+                    className="flex items-center justify-center gap-1.5 text-sm bg-surface text-text px-3 py-2.5 rounded-xl hover:bg-surface-dark transition-colors border border-border font-medium"
                   >
-                    Auto-Quotes
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                    Quotes
                   </Link>
                   <Link
                     href={`/operator/adverts/${claim.business_slug}?product=${claim.product}&site=${claim.site}`}
-                    className="text-sm bg-surface text-text px-3 py-1.5 rounded-lg hover:bg-surface-dark transition-colors border border-border"
+                    className="flex items-center justify-center gap-1.5 text-sm bg-surface text-text px-3 py-2.5 rounded-xl hover:bg-surface-dark transition-colors border border-border font-medium"
                   >
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                    </svg>
                     Adverts
                   </Link>
                   <Link
                     href={`/operator/metrics/${claim.business_slug}?product=${claim.product}&site=${claim.site}`}
-                    className="text-sm bg-surface text-text px-3 py-1.5 rounded-lg hover:bg-surface-dark transition-colors border border-border"
+                    className="flex items-center justify-center gap-1.5 text-sm bg-surface text-text px-3 py-2.5 rounded-xl hover:bg-surface-dark transition-colors border border-border font-medium"
                   >
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                    </svg>
                     Metrics
                   </Link>
                 </div>
@@ -132,7 +158,7 @@ export default async function OperatorDashboard() {
           const pct = q.total > 0 ? Math.min(100, Math.round((q.used / q.total) * 100)) : 0;
           return (
             <div key={`quota-${key}`} className="mt-8 max-w-3xl">
-              <div className="bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200 rounded-xl p-6">
+              <div className="bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200 rounded-2xl p-6 shadow-sm">
                 <div className="flex items-center justify-between mb-1">
                   <h2 className="text-lg font-bold text-text">
                     Free Quote Allowance
@@ -260,7 +286,7 @@ export default async function OperatorDashboard() {
         <h2 className="text-xl font-bold text-text mb-4">
           How Our Quote System Works
         </h2>
-        <div className="bg-white border border-border rounded-xl divide-y divide-border">
+        <div className="bg-white border border-border rounded-2xl shadow-sm divide-y divide-border">
           <div className="p-5">
             <div className="flex items-start gap-3">
               <span className="shrink-0 w-7 h-7 rounded-full bg-primary text-white text-sm font-bold flex items-center justify-center">
@@ -339,7 +365,7 @@ export default async function OperatorDashboard() {
           Frequently Asked Questions
         </h2>
         <div className="space-y-3">
-          <details className="bg-white border border-border rounded-xl group">
+          <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
               Is there any cost to claim my business profile?
             </summary>
@@ -350,7 +376,7 @@ export default async function OperatorDashboard() {
               5 bonus free quotes.
             </p>
           </details>
-          <details className="bg-white border border-border rounded-xl group">
+          <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
               How many free quotes do I get?
             </summary>
@@ -362,7 +388,7 @@ export default async function OperatorDashboard() {
               that, our standard service fee applies only on accepted quotes.
             </p>
           </details>
-          <details className="bg-white border border-border rounded-xl group">
+          <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
               What is the service fee?
             </summary>
@@ -373,7 +399,7 @@ export default async function OperatorDashboard() {
               never reduces your earnings.
             </p>
           </details>
-          <details className="bg-white border border-border rounded-xl group">
+          <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
               How do auto-quotes work?
             </summary>
@@ -384,7 +410,7 @@ export default async function OperatorDashboard() {
               even outside business hours.
             </p>
           </details>
-          <details className="bg-white border border-border rounded-xl group">
+          <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
               Can I advertise my business on the site?
             </summary>

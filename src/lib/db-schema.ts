@@ -90,3 +90,97 @@ export async function initOperatorTables() {
     ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS mobile_phone VARCHAR(50);
   `);
 }
+
+export async function initTrackingTables() {
+  await pool.query(`
+    ALTER TABLE leads ADD COLUMN IF NOT EXISTS status VARCHAR(30) DEFAULT 'new';
+    CREATE INDEX IF NOT EXISTS idx_leads_status ON leads(status);
+
+    CREATE TABLE IF NOT EXISTS outreach_log (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      lead_id UUID REFERENCES leads(id),
+      channel VARCHAR(20) NOT NULL,
+      operator_phone VARCHAR(50),
+      operator_email VARCHAR(255),
+      operator_name VARCHAR(255),
+      product VARCHAR(50),
+      message_id VARCHAR(255),
+      wa_status VARCHAR(20) DEFAULT 'pending',
+      wa_status_at TIMESTAMPTZ,
+      sent_at TIMESTAMPTZ DEFAULT NOW(),
+      error_message TEXT,
+      metadata JSONB
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_outreach_lead ON outreach_log(lead_id);
+    CREATE INDEX IF NOT EXISTS idx_outreach_phone ON outreach_log(operator_phone);
+    CREATE INDEX IF NOT EXISTS idx_outreach_email ON outreach_log(operator_email);
+    CREATE INDEX IF NOT EXISTS idx_outreach_wa_msgid ON outreach_log(message_id);
+    CREATE INDEX IF NOT EXISTS idx_outreach_sent ON outreach_log(sent_at);
+
+    CREATE TABLE IF NOT EXISTS operator_responses (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      outreach_id UUID REFERENCES outreach_log(id),
+      lead_id UUID REFERENCES leads(id),
+      channel VARCHAR(20) NOT NULL,
+      operator_phone VARCHAR(50),
+      operator_email VARCHAR(255),
+      operator_name VARCHAR(255),
+      raw_message TEXT,
+      prices JSONB,
+      vehicle_info TEXT,
+      availability VARCHAR(30),
+      match_confidence VARCHAR(20) DEFAULT 'unmatched',
+      response_time_minutes INTEGER,
+      received_at TIMESTAMPTZ DEFAULT NOW(),
+      ack_sent BOOLEAN DEFAULT false,
+      ack_sent_at TIMESTAMPTZ,
+      metadata JSONB
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_responses_lead ON operator_responses(lead_id);
+    CREATE INDEX IF NOT EXISTS idx_responses_outreach ON operator_responses(outreach_id);
+    CREATE INDEX IF NOT EXISTS idx_responses_received ON operator_responses(received_at);
+
+    CREATE TABLE IF NOT EXISTS lead_events (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      lead_id UUID REFERENCES leads(id) NOT NULL,
+      event_type VARCHAR(50) NOT NULL,
+      old_value VARCHAR(100),
+      new_value VARCHAR(100),
+      notes TEXT,
+      created_at TIMESTAMPTZ DEFAULT NOW()
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_lead_events_lead ON lead_events(lead_id);
+  `);
+}
+
+export async function initLeadBuyTables() {
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS lead_buy_tokens (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      lead_id UUID REFERENCES leads(id) NOT NULL,
+      token VARCHAR(64) NOT NULL UNIQUE,
+      product VARCHAR(50) NOT NULL,
+      price_pence INTEGER NOT NULL,
+      created_at TIMESTAMPTZ DEFAULT NOW()
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_lead_buy_token ON lead_buy_tokens(token);
+
+    CREATE TABLE IF NOT EXISTS lead_purchases (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      lead_id UUID REFERENCES leads(id) NOT NULL,
+      token_id UUID REFERENCES lead_buy_tokens(id),
+      operator_hash VARCHAR(20) NOT NULL,
+      operator_email VARCHAR(255),
+      operator_name VARCHAR(255),
+      paid_amount_pence INTEGER NOT NULL,
+      purchased_at TIMESTAMPTZ DEFAULT NOW()
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_lead_purchases_lead ON lead_purchases(lead_id);
+    CREATE INDEX IF NOT EXISTS idx_lead_purchases_operator ON lead_purchases(operator_hash);
+  `);
+}

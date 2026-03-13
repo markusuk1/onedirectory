@@ -17,3 +17,9 @@ body {
   color: var(--color-text);
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
+
+/* Hide root Header/Footer on hosted subdomain mini-sites */
+body:has(.hosted-site) > header,
+body:has(.hosted-site) > footer {
+  display: none;
+}

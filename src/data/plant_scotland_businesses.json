@@ -9,12 +9,17 @@
     "rating": 5.0,
     "total_reviews": 258,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20132\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Van rental agency",
     "lat": 56.116595,
     "lng": -3.918246,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "enquiry@centralvehiclerentals.co.uk",
+    "emails": [
+      "enquiry@centralvehiclerentals.co.uk"
+    ],
+    "description": "Central Vehicle Rentals offer a range of premium rental cars & vans for hire in Stirling. Fantastic prices. Open 7 days a week. Book online or by phone."
   },
   {
     "name": "Wise Hire",
@@ -26,12 +31,17 @@
     "rating": 5.0,
     "total_reviews": 162,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.236342,
     "lng": -2.411686,
-    "found_in_location": "Inverurie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "hire@wise-hire.co.uk",
+    "emails": [
+      "hire@wise-hire.co.uk"
+    ],
+    "description": "Convenient tool, equipment and trailer hire in Aberdeen and Aberdeenshire. Call 07730 886117."
   },
   {
     "name": "HEAVYLIFT GROUP SCOTLAND - Construction Equipment",
@@ -43,12 +53,25 @@
     "rating": 5.0,
     "total_reviews": 107,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 55.865387,
     "lng": -4.269643,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@heavyliftgroup.co.uk",
+    "emails": [
+      "info@heavyliftgroup.co.uk"
+    ],
+    "description": "We offer complete project handling for Wind Energy, Heavy Lifting, Import-Export, and Construction Equipment Rental in Scotland and Middle East. Contact now!",
+    "services": [
+      "Cherry Picker",
+      "Concrete Mixer",
+      "Excavator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Hire It Plant & Tool Hire Ltd",
@@ -60,12 +83,17 @@
     "rating": 5.0,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 56.012557,
     "lng": -3.784051,
     "found_in_location": "Falkirk",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@hireitplantandtool.com",
+    "emails": [
+      "info@hireitplantandtool.com"
+    ],
+    "description": "Plant and Tool Hire, Tool Hire, Tool Servicing and Repairs, Calor Gas, Tool Consumables, Landscape Supplier"
   },
   {
     "name": "Diggermate Mini Excavator Hire Canberra",
@@ -77,12 +105,22 @@
     "rating": 5.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Excavating contractor",
     "lat": -35.325414,
     "lng": 149.184342,
-    "found_in_location": "Fyshwick",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "admin@diggermate.com.au",
+    "emails": [
+      "admin@diggermate.com.au",
+      "support@diggermate.com.au"
+    ],
+    "description": "Mini excavator hire in Canterbury. Diggermate is Australia's leading earth moving and excavator hire specialists. Call 0429 724 202 or enquire online now!",
+    "services": [
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Lothian Hire Centre",
@@ -94,12 +132,23 @@
     "rating": 5.0,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20133:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–3:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.937623,
     "lng": -3.057768,
-    "found_in_location": "Musselburgh",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "margaret@lothianhirecentre.com",
+    "emails": [
+      "margaret@lothianhirecentre.com",
+      "lothianhiredesk@outlook.com"
+    ],
+    "description": "For tool and small plant hire with the widest range of tools and small plant in Lothian and Borders call us on 0131 665 6674 today!",
+    "services": [
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Glasgow Tool Library",
@@ -111,12 +160,17 @@
     "rating": 5.0,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"12\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"12–7 pm\"]}",
     "types": "Library",
     "lat": 55.87958,
     "lng": -4.270221,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "hello@glasgowtoollibrary.com",
+    "emails": [
+      "hello@glasgowtoollibrary.com"
+    ],
+    "description": "Glasgow Tool Library is an affordable, sustainable, community-run hire service, providing access to tools and equipment for your home, garden and hobbies."
   },
   {
     "name": "L & J Plant Ltd",
@@ -128,12 +182,20 @@
     "rating": 5.0,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.962354,
     "lng": -2.235434,
-    "found_in_location": "Stonehaven",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@ljplant.co.uk",
+    "emails": [
+      "info@ljplant.co.uk"
+    ],
+    "description": "Choose L&J Plant Digger Hire for affordable, hassle-free digger hire across Aberdeenshire. We try our best to accommodate your needs.",
+    "services": [
+      "Skid Steer"
+    ]
   },
   {
     "name": "Dial a dig fife",
@@ -149,8 +211,17 @@
     "types": "Plant and machinery hire",
     "lat": 56.279791,
     "lng": -3.212739,
-    "found_in_location": "Cupar",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Perth",
+    "found_with_query": "plant scotland",
+    "email": "name@email.com",
+    "emails": [
+      "name@email.com",
+      "od.bldr@gmail.com"
+    ],
+    "description": "Man with a digger. Operated plant hire. Dial a dig. Digger and operator. Digger hire Fife.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "G w T Plant Hire Ltd",
@@ -162,12 +233,17 @@
     "rating": 5.0,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.99442,
     "lng": -2.287756,
-    "found_in_location": "Stonehaven",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@gwtplanthire.co.uk",
+    "emails": [
+      "info@gwtplanthire.co.uk"
+    ],
+    "description": "toro service centre for aberdeen and aberdeenshire , toro parts,toro mowers,new and used groundcare machinery"
   },
   {
     "name": "Groundworx Grabhire Ltd",
@@ -179,12 +255,17 @@
     "rating": 5.0,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20133\u202fpm\"],\"Sunday\":[\"8\u202fam\u201312\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"8 am–12 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Waste-Management Service",
     "lat": 56.100324,
     "lng": -3.841484,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@groundworxgrabhire.com",
+    "emails": [
+      "info@groundworxgrabhire.com"
+    ],
+    "description": "Efficient Grab Hire and Aggregate Solutions for Every Project At Groundworx Grabhire, we are committed to delivering efficient, reliable, and sustainable waste disposal and aggregate supply services, utilising our modern fleet of grab vehicles to meet your project requirements. Our Services..."
   },
   {
     "name": "Rod Munro Ltd",
@@ -200,8 +281,13 @@
     "types": "Demolition Contractor",
     "lat": 57.678219,
     "lng": -4.300652,
-    "found_in_location": "Dingwall",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "email": "rodmunroltd@gmail.com",
+    "emails": [
+      "rodmunroltd@gmail.com"
+    ],
+    "description": "We provide professional asbestos removal, demolition and salvage contractor services. Based in Highlands."
   },
   {
     "name": "C H C Plant Hire Ltd",
@@ -217,7 +303,7 @@
     "types": "Plant and machinery hire",
     "lat": 55.852482,
     "lng": -3.772529,
-    "found_in_location": "Shotts",
+    "found_in_location": "Motherwell",
     "found_with_query": "plant scotland"
   },
   {
@@ -230,12 +316,21 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.938149,
     "lng": -3.451171,
-    "found_in_location": "Broxburn",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "sales@fieldandforestltd.co.uk",
+    "emails": [
+      "sales@fieldandforestltd.co.uk"
+    ],
+    "description": "Field & Forest Machinery the UK's leading supplier of specialist forestry machinery and attachments. We stock NEW and USED machinery, as well as UK wide machinery hire from our two strategically located depots.",
+    "services": [
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Emco Services",
@@ -247,12 +342,20 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.216192,
     "lng": -2.191938,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@emcoservices.co.uk",
+    "emails": [
+      "info@emcoservices.co.uk"
+    ],
+    "description": "Discover seamless access solutions with our platform hire services in Aberdeen. At EMCO, we specialise in providing the best access equipment to meet the diverse needs of your projects.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Kinglassie Plant and Tool Hire",
@@ -264,11 +367,11 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9\u202fam\u201312\u202fam\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9 am–12 am\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.173895,
     "lng": -3.240656,
-    "found_in_location": "Lochgelly",
+    "found_in_location": "Kirkcaldy",
     "found_with_query": "plant scotland"
   },
   {
@@ -281,12 +384,25 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.60851,
     "lng": -2.78759,
-    "found_in_location": "Galashiels",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "description": "T: 0131 669 7660 for Plant Hire & Tool Hire in Edinburgh, Lothians, Scottish Borders, Fife, Berwick & Central Scotland or visit the Hireline website for info.",
+    "services": [
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Scissor Lift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Rcr Scaffolding Solutions",
@@ -320,7 +436,15 @@
     "lat": 55.946868,
     "lng": -3.234775,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "donroc99@hotmail.com",
+    "emails": [
+      "donroc99@hotmail.com"
+    ],
+    "description": "Cherry Picker Hire Edinburgh, we provide safe and reliable operated access solutions for working at height across Edinburgh and the Central Belt of Scotland.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Gray Material Handling",
@@ -332,12 +456,21 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.48843,
     "lng": -4.222914,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@graymaterial.co.uk",
+    "emails": [
+      "info@graymaterial.co.uk"
+    ],
+    "description": "As the main Mitsubishi dealer servicing the Highlands and holding the largest fleet of JCB telehandlers, we can supply all your material handling needs from a full range of counterbalance trucks to specialised warehouse equipment.",
+    "services": [
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Thomas Plant Hire Ltd",
@@ -349,12 +482,26 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.857488,
     "lng": -3.560408,
-    "found_in_location": "West Calder",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "hiredesk@thomasplanthireltd.com",
+    "emails": [
+      "hiredesk@thomasplanthireltd.com"
+    ],
+    "description": "Thomas Plant Hire est. in 2000 is a family run business. We provide market leading equipment and professional advice for our customers.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "JMS Equipment",
@@ -366,12 +513,25 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Metal machinery supplier",
     "lat": 57.220947,
     "lng": -2.072485,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "sales@jmsequipment.co.uk",
+    "emails": [
+      "sales@jmsequipment.co.uk",
+      "neil.scott@jmsequipment.co.uk",
+      "stephen.sharp@jmsequipment.co.uk"
+    ],
+    "description": "Official dealers for Takeuchi excavators and Indeco Attachments for the North of Scotland, Highlands, Shetlands and Orkney. Stocking used and New Machinery from Micro and Mini Diggers to Large Excavators.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Access Plus Scotland Ltd",
@@ -383,12 +543,21 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.934164,
     "lng": -3.455034,
-    "found_in_location": "Broxburn",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "sales@accessplus.com",
+    "emails": [
+      "sales@accessplus.com"
+    ],
+    "description": "At Access Plus we provide powered access hire throughout the UK, supported by the very best customer service.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "INVICTA Access",
@@ -400,12 +569,21 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8:30 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.480018,
     "lng": -3.002994,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@invictascotland.co.uk",
+    "emails": [
+      "info@invictascotland.co.uk"
+    ],
+    "description": "INVICTA offers full-day & half-day hires in Dundee, Perthshire & Scotland with an experienced IPAF trained operator.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Marshall Plant",
@@ -417,11 +595,11 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.154568,
     "lng": -3.82586,
-    "found_in_location": "Alva",
+    "found_in_location": "Stirling",
     "found_with_query": "plant scotland"
   },
   {
@@ -434,12 +612,17 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20134:30\u202fam\"],\"Monday\":[\"6\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–4:30 am\"],\"Monday\":[\"6 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–5 pm\"],\"Tuesday\":[\"6 am–5 pm\"],\"Wednesday\":[\"6 am–5 pm\"]}",
     "types": "Pile driving service",
     "lat": 55.766619,
     "lng": -4.214372,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "enquiries@burnsideplant.co.uk",
+    "emails": [
+      "enquiries@burnsideplant.co.uk"
+    ],
+    "description": "Burnside Plant Ltd: UK-wide experts in all types of Piling and Plant Hire services, committed to enhancing your construction success."
   },
   {
     "name": "C Roy Plant Hire LTD",
@@ -455,8 +638,9 @@
     "types": "Plant and machinery hire",
     "lat": 55.903676,
     "lng": -2.824553,
-    "found_in_location": "Tranent",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "description": "Our website is coming soon. In the meantime, contact us via the methods below:"
   },
   {
     "name": "Excavator Hire Scotland",
@@ -468,7 +652,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"10 am–8 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"10 am–8 pm\"],\"Wednesday\":[\"10 am–8 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.12657,
     "lng": -3.15199,
@@ -489,8 +673,18 @@
     "types": "Plant and machinery hire",
     "lat": 56.659562,
     "lng": -2.909156,
-    "found_in_location": "Forfar",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "adgplanthire@gmail.com",
+    "emails": [
+      "adgplanthire@gmail.com"
+    ],
+    "description": "ADG Plant Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
+    "services": [
+      "Dumper",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Angus Mini Digger Hire",
@@ -506,8 +700,18 @@
     "types": "Plant and machinery hire",
     "lat": 56.571626,
     "lng": -2.604645,
-    "found_in_location": "Arbroath",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "angusminidiggerhire@gmail.com",
+    "emails": [
+      "angusminidiggerhire@gmail.com"
+    ],
+    "description": "Angus Mini Digger Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Best at hire",
@@ -519,12 +723,19 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.852653,
     "lng": -4.27452,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Low Prices - National Tool Hire in Norwich . Click & Collect from 120+ depots. Cheap Next Day Delivery. Call 01603 523 220 / Hire Online",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Generator"
+    ]
   },
   {
     "name": "Nationwide Platforms",
@@ -536,12 +747,18 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.48484,
     "lng": -3.01063,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Powered Access Hire from the UK's market leading provider. Our huge range of access platforms includes cherry pickers, scissor lifts and tracked booms.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "PTM Plant Ltd",
@@ -557,8 +774,18 @@
     "types": "Plant and machinery hire",
     "lat": 57.335268,
     "lng": -2.332588,
-    "found_in_location": "Inverurie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@ptmplant.co.uk",
+    "emails": [
+      "info@ptmplant.co.uk",
+      "greig@ptmplant.co.uk",
+      "paul@ptmplant.co.uk"
+    ],
+    "description": "PTM Plant is a fast growing business with several full time employees, depending on your project scope we will draft in and manage additional sub-contractors as required to meet the demands and deliver the project to the customers’ expectations and satisfaction.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "iTool and Plant",
@@ -570,12 +797,25 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.192712,
     "lng": -2.555908,
-    "found_in_location": "Inverurie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@itoolandplant.co.uk",
+    "emails": [
+      "info@itoolandplant.co.uk"
+    ],
+    "description": "iTool and Plant is an access hire in Aberdeenshire, covering Inverurie and Sauchen. They specialise in Cherry picker hire, Access hire and Mewp hire.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "R B S Muir Plant Hire",
@@ -608,8 +848,21 @@
     "types": "Quarry",
     "lat": 57.505573,
     "lng": -4.452272,
-    "found_in_location": "Muir of Ord",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "email": "info@garriock.co.uk",
+    "emails": [
+      "info@garriock.co.uk",
+      "a.gifford@garriock.co.uk",
+      "adminom@garriock.co.uk",
+      "b.buchan@garriock.co.uk",
+      "info.brae@garriock.co.uk"
+    ],
+    "description": "Garriock Bros. Ltd. is a private limited company registered in Scotland in 1975. Since then the company has grown, diversified and matured into one of the biggest privately owned companies in Shetland.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "Neil Reid Plant Hire",
@@ -625,7 +878,7 @@
     "types": "Plant and machinery hire",
     "lat": 57.077185,
     "lng": -4.053507,
-    "found_in_location": "Kingussie",
+    "found_in_location": "Inverness",
     "found_with_query": "plant scotland"
   },
   {
@@ -638,12 +891,16 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 56.048603,
     "lng": -3.439003,
     "found_in_location": "Dunfermline",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "MEP Hire: Mechanical, Electrical and Low Level Access Specialists providing rental products nationally to the UK’s building services trades.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Reid Contracts Hire",
@@ -655,7 +912,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20133:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–3:30 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.470155,
     "lng": -2.970214,
@@ -672,12 +929,99 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.858757,
     "lng": -3.700806,
-    "found_in_location": "Bathgate",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "alford@huwsgrayplantandtoolhire.co.uk",
+    "emails": [
+      "alford@huwsgrayplantandtoolhire.co.uk",
+      "barnsley@huwsgrayplantandtoolhire.co.uk",
+      "basingstoke@huwsgrayplantandtoolhire.co.uk",
+      "belper@huwsgrayplantandtoolhire.co.uk",
+      "bolton@huwsgrayplantandtoolhire.co.uk",
+      "boston@huwsgrayplantandtoolhire.co.uk",
+      "bow@huwsgrayplantandtoolhire.co.uk",
+      "braintree@huwsgrayplantandtoolhire.co.uk",
+      "bristol@huwsgrayplantandtoolhire.co.uk",
+      "calne@huwsgrayplantandtoolhire.co.uk",
+      "chesterfield@huwsgrayplantandtoolhire.co.uk",
+      "corby@huwsgrayplantandtoolhire.co.uk",
+      "crawley@huwsgrayplantandtoolhire.co.uk",
+      "croydon@huwsgrayplantandtoolhire.co.uk",
+      "derby@huwsgrayplantandtoolhire.co.uk",
+      "dover@huwsgrayplantandtoolhire.co.uk",
+      "epsom@huwsgrayplantandtoolhire.co.uk",
+      "exeter@huwsgrayplantandtoolhire.co.uk",
+      "farnham@huwsgrayplantandtoolhire.co.uk",
+      "flint@huwsgrayplantandtoolhire.co.uk",
+      "gainsborough@huwsgrayplantandtoolhire.co.uk",
+      "gateshead@huwsgrayplantandtoolhire.co.uk",
+      "gloucester@huwsgrayplantandtoolhire.co.uk",
+      "grantham@huwsgrayplantandtoolhire.co.uk",
+      "grimsby@huwsgrayplantandtoolhire.co.uk",
+      "hadleigh@huwsgrayplantandtoolhire.co.uk",
+      "harlow@huwsgrayplantandtoolhire.co.uk",
+      "haverhill@huwsgrayplantandtoolhire.co.uk",
+      "herne.bay@huwsgrayplantandtoolhire.co.uk",
+      "highgate@huwsgrayplantandtoolhire.co.uk",
+      "highwycombe@huwsgrayplantandtoolhire.co.uk",
+      "holbrooks@huwsgrayplantandtoolhire.co.uk",
+      "horncastle@huwsgrayplantandtoolhire.co.uk",
+      "ipswich@huwsgrayplantandtoolhire.co.uk",
+      "kenilworth@huwsgrayplantandtoolhire.co.uk",
+      "leicester@huwsgrayplantandtoolhire.co.uk",
+      "lincoln@huwsgrayplantandtoolhire.co.uk",
+      "louth@huwsgrayplantandtoolhire.co.uk",
+      "maidstone@huwsgrayplantandtoolhire.co.uk",
+      "marketdrayton@huwsgrayplantandtoolhire.co.uk",
+      "marketrasen@huwsgrayplantandtoolhire.co.uk",
+      "melksham@huwsgrayplantandtoolhire.co.uk",
+      "miltonkeynes@huwsgrayplantandtoolhire.co.uk",
+      "nantwich@huwsgrayplantandtoolhire.co.uk",
+      "newark@huwsgrayplantandtoolhire.co.uk",
+      "newbury@huwsgrayplantandtoolhire.co.uk",
+      "newsouthgate@huwsgrayplantandtoolhire.co.uk",
+      "northwich@huwsgrayplantandtoolhire.co.uk",
+      "norwich@huwsgrayplantandtoolhire.co.uk",
+      "nottingham@huwsgrayplantandtoolhire.co.uk",
+      "nuneaton@huwsgrayplantandtoolhire.co.uk",
+      "oxford@huwsgrayplantandtoolhire.co.uk",
+      "peckham@huwsgrayplantandtoolhire.co.uk",
+      "portsmouth@huwsgrayplantandtoolhire.co.uk",
+      "redditch@huwsgrayplantandtoolhire.co.uk",
+      "rotherham@huwsgrayplantandtoolhire.co.uk",
+      "rushden@huwsgrayplantandtoolhire.co.uk",
+      "sandy@huwsgrayplantandtoolhire.co.uk",
+      "scunthorpe@huwsgrayplantandtoolhire.co.uk",
+      "shetland@huwsgrayplantandtoolhire.co.uk",
+      "shrewsbury@huwsgrayplantandtoolhire.co.uk",
+      "skegness@huwsgrayplantandtoolhire.co.uk",
+      "sleaford@huwsgrayplantandtoolhire.co.uk",
+      "stafford@huwsgrayplantandtoolhire.co.uk",
+      "stamford@huwsgrayplantandtoolhire.co.uk",
+      "stevenage@huwsgrayplantandtoolhire.co.uk",
+      "stoke@huwsgrayplantandtoolhire.co.uk",
+      "stowmarket@huwsgrayplantandtoolhire.co.uk",
+      "stratford@huwsgrayplantandtoolhire.co.uk",
+      "sudbury@huwsgrayplantandtoolhire.co.uk",
+      "sunderland@huwsgrayplantandtoolhire.co.uk",
+      "suttoninashfield@huwsgrayplantandtoolhire.co.uk",
+      "swansea@huwsgrayplantandtoolhire.co.uk",
+      "swindon@huwsgrayplantandtoolhire.co.uk",
+      "swinton@huwsgrayplantandtoolhire.co.uk",
+      "wellington@huwsgrayplantandtoolhire.co.uk",
+      "welwyngardencity@huwsgrayplantandtoolhire.co.uk",
+      "westonsupermare@huwsgrayplantandtoolhire.co.uk",
+      "whitburn@huwsgrayplantandtoolhire.co.uk",
+      "wigan@huwsgrayplantandtoolhire.co.uk",
+      "wisbech@huwsgrayplantandtoolhire.co.uk",
+      "wrightington@huwsgrayplantandtoolhire.co.uk",
+      "nuffield@hirebase.co.uk"
+    ],
+    "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
     "name": "Russell Plant & Vehicle Services",
@@ -689,11 +1033,11 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.99826,
     "lng": -3.87781,
-    "found_in_location": "Bonnybridge",
+    "found_in_location": "Falkirk",
     "found_with_query": "plant scotland"
   },
   {
@@ -706,12 +1050,13 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 57.25079,
     "lng": -2.356914,
-    "found_in_location": "Inverurie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "description": "ESS deliver leading project support rental services and solutions to our customers, who rely on ESS as a trusted partner to deliver their works on time and within budget."
   },
   {
     "name": "Alastair Anderson Plant Hire",
@@ -744,7 +1089,7 @@
     "types": "Plant and machinery hire",
     "lat": 55.837862,
     "lng": -4.495951,
-    "found_in_location": "Johnstone",
+    "found_in_location": "Paisley",
     "found_with_query": "plant scotland"
   },
   {
@@ -757,12 +1102,21 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.749613,
     "lng": -4.163378,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@sgplanthire.co.uk",
+    "emails": [
+      "info@sgplanthire.co.uk"
+    ],
+    "description": "SG Plant Hire Ltd is a nationwide Plant Hire, Earthworks, Haulage & Rail industry contractor located in Glasgow Scotland. successfully serving the Construction Industry throughout the UK. SG Plant Hire Ltd provides quality plant machinery & fully accredited plant operators to a wide range of...",
+    "services": [
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "R Tough Plant Hire",
@@ -778,8 +1132,12 @@
     "types": "Plant and machinery hire",
     "lat": 55.733448,
     "lng": -3.793571,
-    "found_in_location": "Carluke",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "plant scotland",
+    "description": "Looking for help with your construction project? For plant hire equipment based in Central Scotland, call R Tough Plant Hire Ltd on 0773 413 0299",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "PR Plant Hire",
@@ -791,12 +1149,17 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fpm\u201312\u202fam\"],\"Sunday\":[\"12\u202fam\u20131\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 pm–12 am\"],\"Sunday\":[\"12 am–1 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.813031,
     "lng": -4.217306,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "office@prcivilsltd.com",
+    "emails": [
+      "office@prcivilsltd.com"
+    ],
+    "description": "We specialise in providing comprehensive civil engineering solutions tailored to meet the unique needs of each project."
   },
   {
     "name": "Blantyre Plant Hire Ltd",
@@ -813,7 +1176,12 @@
     "lat": 55.86212,
     "lng": -4.253234,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "ronan@blantyreplanthire.com",
+    "emails": [
+      "ronan@blantyreplanthire.com"
+    ],
+    "description": "Blantyre Plant Hire is a dedicated civil engineering firm providing reliable solutions for site works, surveying, and drainage. With the right tools, experience, and attention to detail, we help keep your projects on track."
   },
   {
     "name": "easyToolhire Glasgow - Tool Hire, Scaffolding, Scissor Lift, Working Platforms & Digger Hire",
@@ -825,12 +1193,20 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.861793,
     "lng": -4.312371,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@easyskip.uk",
+    "emails": [
+      "info@easyskip.uk"
+    ],
+    "description": "Make space in Glasgow—ordered delivery slots, fair pricing, and skips sized for everything from declutters to renovations. Permit help included. Quick online booking.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Cameron Plant Hire",
@@ -859,7 +1235,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.487622,
     "lng": -4.217925,
@@ -876,12 +1252,23 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 57.484574,
     "lng": -4.22475,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "angus@csmachinerysales.com",
+    "emails": [
+      "angus@csmachinerysales.com",
+      "name@email.com"
+    ],
+    "description": "CSM Sales Ltd specialise in supplying and sourcing used equipment, plant sales, plant hire, construction machinery new and Volvo Construction Utility products. We offer MB crushing and screening buckets for sale and hire, Kaeser portable compressors, Thwaites Dumpers, Hamm Compaction Equipment,...",
+    "services": [
+      "Compressor",
+      "Dumper",
+      "Roller"
+    ]
   },
   {
     "name": "2020 Plant Hire (scotland)",
@@ -898,7 +1285,11 @@
     "lat": 56.106248,
     "lng": -3.804512,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Plant Hire & Tool Hire for the Public & Trade",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Gardner Plant Hire",
@@ -915,7 +1306,11 @@
     "lat": 56.154483,
     "lng": -3.955702,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Gardner Plant, in Stirling, is a family business offering plant machinery hire across Central Scotland. Est. in 1973, we provide a range of plant machinery.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Scr Plant Hire Ltd",
@@ -931,7 +1326,7 @@
     "types": "Plant and machinery hire",
     "lat": 56.069636,
     "lng": -3.717092,
-    "found_in_location": "Alloa",
+    "found_in_location": "Falkirk",
     "found_with_query": "plant scotland"
   },
   {
@@ -944,12 +1339,22 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.999348,
     "lng": -3.877113,
-    "found_in_location": "Bonnybridge",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Falkirk",
+    "found_with_query": "plant scotland",
+    "email": "info@mcinallyplant.co.uk",
+    "emails": [
+      "info@mcinallyplant.co.uk",
+      "info@mcinallyplant.com"
+    ],
+    "description": "From mini diggers to 22t excavators, telehandlers and rough terrain forklifts to site dumpers and McInally Plant Hire, Falkirk have all the tools you need.",
+    "services": [
+      "Excavator",
+      "Generator"
+    ]
   },
   {
     "name": "Tweed Digger Hire",
@@ -961,15 +1366,15 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.701388,
     "lng": -2.210314,
-    "found_in_location": "Ladykirkshiels",
+    "found_in_location": "Edinburgh",
     "found_with_query": "plant scotland"
   },
   {
-    "name": "Sean\u2019s Plant Hire Ltd",
+    "name": "Sean’s Plant Hire Ltd",
     "address": "60 Cairnwell Pl, Kirkcaldy, KY2 6BJ, GB",
     "phone": "07539 291300",
     "international_phone": "07539 291300",
@@ -999,7 +1404,7 @@
     "types": "Plant and machinery hire",
     "lat": 56.033187,
     "lng": -3.827801,
-    "found_in_location": "Larbert",
+    "found_in_location": "Falkirk",
     "found_with_query": "plant scotland"
   },
   {
@@ -1016,7 +1421,7 @@
     "types": "Plant and machinery hire",
     "lat": 57.266609,
     "lng": -3.666494,
-    "found_in_location": "Nethy Bridge",
+    "found_in_location": "Inverness",
     "found_with_query": "plant scotland"
   },
   {
@@ -1046,7 +1451,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Forklift dealer",
     "lat": 57.142692,
     "lng": -2.107609,
@@ -1063,12 +1468,23 @@
     "rating": 4.9,
     "total_reviews": 125,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 56.134634,
     "lng": -3.828019,
-    "found_in_location": "Alloa",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "email": "info@ahctoolhire.co.uk",
+    "emails": [
+      "info@ahctoolhire.co.uk"
+    ],
+    "description": "AHC Tool Hire - the online resource for all your tool hire & rental needs. We offer a vast range of tools and equipment",
+    "services": [
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "ZELVi Equipment",
@@ -1080,12 +1496,28 @@
     "rating": 4.9,
     "total_reviews": 79,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": -32.140751,
     "lng": 115.963951,
-    "found_in_location": "Forrestdale",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "hire@zelvi.com.au",
+    "emails": [
+      "hire@zelvi.com.au"
+    ],
+    "description": "Earthmoving Equipment - HIRE or BUY Skid Steers, Excavators, Rollers, Water Carts in Perth. Quality Low Houred Machines for Short and Long Term Hire",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Plant & Fixings Ltd",
@@ -1097,12 +1529,17 @@
     "rating": 4.9,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
     "types": "Building materials supplier",
     "lat": 57.484447,
     "lng": -4.203182,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "sales@plantandfixings.co.uk",
+    "emails": [
+      "sales@plantandfixings.co.uk",
+      "admin@reidnutsandbolts.co.uk"
+    ]
   },
   {
     "name": "Extreme Plant Hire - Mini Digger Hire West Lothian",
@@ -1114,12 +1551,13 @@
     "rating": 4.9,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.834289,
     "lng": -3.547215,
-    "found_in_location": "West Calder",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "description": "Buy extremeplanthire.co.uk for 100 on GoDaddy via ExpiredDomains.com. This premium expired .co.uk domain is ideal for establishing a strong online identity."
   },
   {
     "name": "Hire Centre Fort William Ltd.",
@@ -1131,12 +1569,24 @@
     "rating": 4.9,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 56.825363,
     "lng": -5.08461,
     "found_in_location": "Fort William",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@hirecentreltd.com",
+    "emails": [
+      "info@hirecentreltd.com"
+    ],
+    "description": "Whatever you need to hire equipment for, get in touch and we’ll be delighted to help.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Alba Platforms",
@@ -1148,12 +1598,20 @@
     "rating": 4.9,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.489435,
     "lng": -3.448347,
     "found_in_location": "Perth",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@albahire.co.uk",
+    "emails": [
+      "info@albahire.co.uk"
+    ],
+    "description": "Alba Platforms - Cherry Picker and Access Hire based in Perth, covering Tayside and Fife including Dundee, Stirling, Dunfermline and Perth, Scotland.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "GM Leitch Ltd",
@@ -1165,12 +1623,17 @@
     "rating": 4.9,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.490637,
     "lng": -4.224708,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Forklift hire in Inverness. Short & long term hire available. Spare Parts, Used Equipment, Sales & Servicing Packages also available.",
+    "services": [
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Highland Plant Hire Ltd",
@@ -1182,11 +1645,11 @@
     "rating": 4.8,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.960918,
     "lng": -2.943272,
-    "found_in_location": "Longniddry",
+    "found_in_location": "Edinburgh",
     "found_with_query": "plant scotland"
   },
   {
@@ -1199,12 +1662,21 @@
     "rating": 4.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.845464,
     "lng": -5.153272,
     "found_in_location": "Fort William",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@campbellplant.co.uk",
+    "emails": [
+      "info@campbellplant.co.uk"
+    ],
+    "description": "Small Plant, Plant and Tool Hire Services in Fort William and the Highlands of Scotland, including Excavators, Tele-Handlers, Rollers, Dumpers, Compressors, Generators, Wood Chippers, Bowsers, Mixers, Disc Cutters, Belle Mixers, Vibrating Plates and Power Tools",
+    "services": [
+      "Cherry Picker",
+      "Dumper"
+    ]
   },
   {
     "name": "KSA Tool Hire",
@@ -1233,12 +1705,17 @@
     "rating": 4.8,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.188699,
     "lng": -2.265044,
-    "found_in_location": "2650635",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "kph.hire@gmail.com",
+    "emails": [
+      "kph.hire@gmail.com"
+    ],
+    "description": "Commercial and Domestic Tool, Plant & Grab hire based in Kinellar Aberdeenshire offering a first class service VIEW EQUIPMENT HIRE VIEW GRAB HIRE Local self drive family owned plant & tool hire company based out of Kinellar Aberdeenshire browse our equipment catagories for our selection of tools..."
   },
   {
     "name": "Aerial Platforms Scotland",
@@ -1250,12 +1727,22 @@
     "rating": 4.8,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.81684,
     "lng": -3.940174,
     "found_in_location": "Motherwell",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@aerialplatforms.co.uk",
+    "emails": [
+      "info@aerialplatforms.co.uk"
+    ],
+    "description": "APL are the market leaders in powered access platform hire in north west region of UK. We provide MEWP hire, boom lifts, small cherry pickers, aerial lifts, scissor lifts, and more. We always deliver on time in different of Cheshire, Cumbria, Lancashire, Merseyside & Greater Manchester.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Drumclog Plant",
@@ -1271,8 +1758,12 @@
     "types": "Plant and machinery hire",
     "lat": 55.621687,
     "lng": -4.16101,
-    "found_in_location": "Strathaven",
-    "found_with_query": "plant scotland"
+    "found_in_location": "East Kilbride",
+    "found_with_query": "plant scotland",
+    "description": "Our Services Low Ground Pressure Excavator We have the largest fleet of Low Ground Pressure Excavators in the UK. These machines can be used on a wide variety of projects on soft ground or where environmental impact needs to be kept to a minimum. Learn",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Centurion Power & Equipment",
@@ -1284,12 +1775,17 @@
     "rating": 4.8,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20135\u202fpm\"],\"Monday\":[\"6\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6\u202fam\u201312\u202fam\"],\"Tuesday\":[\"6\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–5 pm\"],\"Monday\":[\"6 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–12 am\"],\"Tuesday\":[\"6 am–5 pm\"],\"Wednesday\":[\"6 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 57.197531,
     "lng": -2.092767,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Centurion Power & Equipment provides power, lifting and tooling solutions to critical industries around the world.",
+    "services": [
+      "Breaker",
+      "Compressor"
+    ]
   },
   {
     "name": "Dave Edgar & Sons Digger Hire",
@@ -1318,12 +1814,22 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Contractor",
     "lat": 56.577722,
     "lng": -3.41091,
-    "found_in_location": "Blairgowrie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Perth",
+    "found_with_query": "plant scotland",
+    "email": "steve@bryancontractors.co.uk",
+    "emails": [
+      "steve@bryancontractors.co.uk",
+      "bryancontractors@hotmail.co.uk"
+    ],
+    "description": "Bryan Contractors (based in Perthshire, Scotland) specialise in providing plant hire, road construction, groundworks, demolition, renewables, drainage and flood prevention for our agriculture, construction and private customers.",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Redhill Machinery Sales",
@@ -1340,7 +1846,13 @@
     "lat": 57.510324,
     "lng": -4.133753,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "bobbyross25@btinternet.com",
+    "emails": [
+      "bobbyross25@btinternet.com",
+      "ivan@redhillmachinerysales.co.uk"
+    ],
+    "description": "Construction, Plant Hire, Redhill Machinery Sales"
   },
   {
     "name": "Stirling Trailer Centre",
@@ -1352,12 +1864,19 @@
     "rating": 4.7,
     "total_reviews": 197,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Vehicle Repair",
     "lat": 56.140046,
     "lng": -3.983959,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "admin@stirlingtrailercentre.co.uk",
+    "emails": [
+      "admin@stirlingtrailercentre.co.uk",
+      "sales@stirlingtrailercentre.co.uk",
+      "parts@stirlingtrailercentre.co.uk"
+    ],
+    "description": "We are Scotland's main dealership for Ifor Williams trailers covering Central, west of Scotland and Fife."
   },
   {
     "name": "Basically Tool Hire",
@@ -1369,12 +1888,22 @@
     "rating": 4.7,
     "total_reviews": 110,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.879291,
     "lng": -3.069863,
-    "found_in_location": "Dalkeith",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "contact@basicallytoolhire.com",
+    "emails": [
+      "contact@basicallytoolhire.com",
+      "parts@basicallytoolhire.com"
+    ],
+    "description": "Tool & Plant Machinery Hire in Edinburgh, the Lothians & Borders",
+    "services": [
+      "Compactor",
+      "Mini Digger"
+    ]
   },
   {
     "name": "ILH Groundcare Machinery",
@@ -1386,12 +1915,20 @@
     "rating": 4.7,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.932968,
     "lng": -4.046852,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "contact@ilhgroundcare.com",
+    "emails": [
+      "contact@ilhgroundcare.com"
+    ],
+    "description": "At ILH Groundcare Machinery, we specialise in supplying the highest quality arb machinery, including Mini loaders, Wood Chippers, and Stump Grinders. With over two decades of experience, our family-run business strives to exceed your expectations with the utmost care. We offer an extensive...",
+    "services": [
+      "Roller"
+    ]
   },
   {
     "name": "Haddington Hire Centre Ltd",
@@ -1403,12 +1940,13 @@
     "rating": 4.7,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.956407,
     "lng": -2.792115,
-    "found_in_location": "Haddington",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "description": "Established in 2001, Haddington Hire Centre Ltd, is a family run business with an emphasis on quality hire products with competitive rates and excellent service. We are constantly updating our hire products, expanding the range and improving customer service."
   },
   {
     "name": "Miniquip",
@@ -1420,12 +1958,13 @@
     "rating": 4.7,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": -32.126996,
     "lng": 115.955008,
-    "found_in_location": "Forrestdale",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "description": "Comprehensive fleet of mini Earthmoving & Construction Equipment, attachments and on-road tip trucks, available for dry hire daily, weekly or monthly."
   },
   {
     "name": "Lomond Plant Ltd",
@@ -1442,7 +1981,13 @@
     "lat": 56.014,
     "lng": -3.78103,
     "found_in_location": "Falkirk",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Thank you for taking a few moments to visit our website. Lomond Plant is a 100% family owned business, established in 1988 offering a fully accredited friendly and professional service to all our customers nationwide.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "Brandon Hire Station Glasgow - Darnley",
@@ -1454,12 +1999,13 @@
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.810705,
     "lng": -4.351803,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Murray Plant",
@@ -1471,12 +2017,22 @@
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Hydraulic equipment supplier",
     "lat": 56.108299,
     "lng": -3.918929,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "office@murrayplanthire.co.uk",
+    "emails": [
+      "office@murrayplanthire.co.uk",
+      "murrayplant@bluegroup.co.uk"
+    ],
+    "description": "We are the UK’s sales agents for Rammer Breakers, Kenguru Compactors and Allu processing buckets.",
+    "services": [
+      "Breaker",
+      "Compactor"
+    ]
   },
   {
     "name": "Mactech Europe",
@@ -1488,12 +2044,17 @@
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.208446,
     "lng": -2.216906,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "example@company.com",
+    "emails": [
+      "example@company.com"
+    ],
+    "description": "PortableMachining Solutions Reliable Rapid Portable Equipment Purchase or Hire Services On Site Services Decommissioning Services On Site or Remote Since its establishment, Mactech Europe has grown to become recognised as a leading provider of the world’s foremost portable precision machinery...."
   },
   {
     "name": "Celmisa Plant Hire",
@@ -1510,7 +2071,16 @@
     "lat": 55.798377,
     "lng": -4.485328,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@celmisaplant.com",
+    "emails": [
+      "info@celmisaplant.com",
+      "celmisaplant@aol.com"
+    ],
+    "description": "Celmisa Plant Hire Ltd is a leading Plant Hire, Earthworks and Drainage Contractor located in Central Scotland that has been established since 1978 serving the Construction Industry in Scotland and across the UK successfully for the past 44 years.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "HSS Training",
@@ -1522,12 +2092,21 @@
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Training provider",
     "lat": 56.484628,
     "lng": -3.012272,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "We offer a wide range of health and safety training courses at 60+ locations nationwide. Check availability on our live schedule and enjoy exclusive online discounts.",
+    "services": [
+      "Cherry Picker",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Akro Multi Hire",
@@ -1539,12 +2118,17 @@
     "rating": 4.6,
     "total_reviews": 167,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.904358,
     "lng": -3.498531,
     "found_in_location": "Livingston",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "you@email.com",
+    "emails": [
+      "you@email.com"
+    ],
+    "description": "Browse Hire CatalogBrowse Sale ProductsSearch CatalogWatch Videos"
   },
   {
     "name": "Webster Power Products",
@@ -1556,12 +2140,24 @@
     "rating": 4.6,
     "total_reviews": 134,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.790009,
     "lng": -3.91417,
-    "found_in_location": "Wishaw",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "plant scotland",
+    "email": "hiredesk@websterpowertools.com",
+    "emails": [
+      "hiredesk@websterpowertools.com"
+    ],
+    "description": "Here at Webster Power Products we pride ourselves on having a huge range of hire machinery. From Alloy towers, chippers, Space Heaters, Lawnmowers, Ride On Lawnmowers, Excavators, Generators and a whole lotmore. All our hire equipment is ready to go and is available to pick up or for delivery.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Generator"
+    ]
   },
   {
     "name": "Tool & Plant Services",
@@ -1573,12 +2169,18 @@
     "rating": 4.6,
     "total_reviews": 89,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.942819,
     "lng": -3.227297,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "sales@toolandplantservices.co.uk",
+    "emails": [
+      "sales@toolandplantservices.co.uk",
+      "innes@toolandplantservices.co.uk"
+    ],
+    "description": "The Edinburgh Stihl Centre Save up to £600 when you buy an iMOW for 2026 Offer valid on selected models for a limited time. Contact us now for more details. We pride ourselves on great customer service. All products purchased in store are built up, tested, fueled and ready to use - and we dispose"
   },
   {
     "name": "Robert Purvis Plant Hire Ltd",
@@ -1590,12 +2192,27 @@
     "rating": 4.6,
     "total_reviews": 50,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.127059,
     "lng": -3.287736,
-    "found_in_location": "Lochgelly",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Kirkcaldy",
+    "found_with_query": "plant scotland",
+    "email": "purvis@purvisgroup.co.uk",
+    "emails": [
+      "purvis@purvisgroup.co.uk"
+    ],
+    "description": "Committed to providing our customers with the best materials, support and service using our expert knowledge based on years of experience.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Brandon Hire Station Edinburgh",
@@ -1607,12 +2224,13 @@
     "rating": 4.6,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.92541,
     "lng": -3.303815,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "A.T. Best Handlers Ltd (Airdrie)",
@@ -1624,12 +2242,24 @@
     "rating": 4.6,
     "total_reviews": 32,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Forklift dealer",
     "lat": 55.856162,
     "lng": -3.965974,
-    "found_in_location": "Airdrie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "plant scotland",
+    "email": "info@atbesthandlers.co.uk",
+    "emails": [
+      "info@atbesthandlers.co.uk",
+      "macmerry@atbesthandlers.co.uk"
+    ],
+    "description": "A. T. Best Handlers Supply Manitou Telehandlers, Takeuchi Excavators & BOMAG Compaction Equipment, Tel: 01236 607 077 for Sales, Hire & Repairs or Parts",
+    "services": [
+      "Cherry Picker",
+      "Excavator",
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Palmaris Plant Hire Limited",
@@ -1641,12 +2271,13 @@
     "rating": 4.6,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20134\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–4 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.070942,
     "lng": -2.159498,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Palmaris Plant Hire Ltd, established in 1995, is a leading provider of self-drive and operated plant hire, accommodation, and equipment services across Scotland. We offer a comprehensive ‘one-stop shop’ for the construction and civil engineering industries, with a modern fleet of plant and..."
   },
   {
     "name": "Sunbelt Rentals Glasgow - Govan",
@@ -1658,7 +2289,7 @@
     "rating": 4.6,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 55.854509,
     "lng": -4.312353,
@@ -1680,7 +2311,16 @@
     "lat": 56.108488,
     "lng": -3.917984,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "shona@stirlingtrainingservices.co.uk",
+    "emails": [
+      "shona@stirlingtrainingservices.co.uk"
+    ],
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Buckhurst plant hire",
@@ -1692,12 +2332,27 @@
     "rating": 4.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.880707,
     "lng": -3.631051,
-    "found_in_location": "Bathgate",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "aberdeen@bphsp.com",
+    "emails": [
+      "aberdeen@bphsp.com",
+      "bathgate@bphsp.com",
+      "chester@bphsp.com",
+      "leeds@bphsp.com",
+      "rossendale@bphsp.com",
+      "wellingborough@bphsp.com"
+    ],
+    "description": "Buckhurst Plant Hire supplies Machinery and Equipment such as Excavators, Diggers, Dumpers, Telehandlers, Rollers and Tractors. Servicing the Construction, Utility, Civil Engineering and Agricultural sectors.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "MacGregor Industrial Supplies Ltd (Inverness)",
@@ -1709,12 +2364,20 @@
     "rating": 4.5,
     "total_reviews": 143,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Industrial equipment supplier",
     "lat": 57.48856,
     "lng": -4.224863,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "sales@macgregorsupplies.co.uk",
+    "emails": [
+      "sales@macgregorsupplies.co.uk"
+    ],
+    "description": "We pride ourselves on being a quality, cost-effective industrial supplier. Providing a wide variety of equipment and services from a range of trusted…",
+    "services": [
+      "Skid Steer"
+    ]
   },
   {
     "name": "Campbell Plant Hire",
@@ -1726,12 +2389,21 @@
     "rating": 4.5,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.491078,
     "lng": -4.227435,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Campbell Plant Hire offers heavy plant and small plant hire to sites across Inverness and the Highlands of Scotland",
+    "services": [
+      "Cherry Picker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Martin Plant Hire",
@@ -1743,12 +2415,28 @@
     "rating": 4.5,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.786146,
     "lng": -3.981423,
     "found_in_location": "Motherwell",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "admin@martinplanthire.co.uk",
+    "emails": [
+      "admin@martinplanthire.co.uk"
+    ],
+    "description": "Martin Plant Hire - tool and equipment hire, plant sales and plant repair across Scotland",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Dundee",
@@ -1760,12 +2448,16 @@
     "rating": 4.5,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.474225,
     "lng": -3.017717,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Mather Hire",
@@ -1777,12 +2469,25 @@
     "rating": 4.5,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 56.002561,
     "lng": -4.725941,
-    "found_in_location": "Helensburgh",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Greenock",
+    "found_with_query": "plant scotland",
+    "email": "hiredesk@matherhire.co.uk",
+    "emails": [
+      "hiredesk@matherhire.co.uk"
+    ],
+    "description": "Plant Equipment available to hire from mather hire",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Bedrock Plant Hire Ltd",
@@ -1794,12 +2499,22 @@
     "rating": 4.5,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.838571,
     "lng": -4.249747,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "enquiries@bedrockplanthire.co.uk",
+    "emails": [
+      "enquiries@bedrockplanthire.co.uk"
+    ],
+    "description": "Need reliable excavator hire in Glasgow? Bedrock Plant Hire Ltd offers top-quality machinery and expert service. Explore our fleet and book today!",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Mabey Hire - Glasgow",
@@ -1811,12 +2526,13 @@
     "rating": 4.5,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 55.891917,
     "lng": -4.116612,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
   },
   {
     "name": "Cumbernauld Tool Hire ltd",
@@ -1828,7 +2544,7 @@
     "rating": 4.5,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.943907,
     "lng": -3.973104,
@@ -1845,7 +2561,7 @@
     "rating": 4.5,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 57.21942,
     "lng": -2.196418,
@@ -1862,12 +2578,18 @@
     "rating": 4.5,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.926032,
     "lng": -3.29827,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Jarvie Plant is a family-run business and market leader in the provision of high-quality plant, accommodation and vehicle hire in the UK. Find out more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "John Duncan Plant Hire Ltd",
@@ -1879,12 +2601,17 @@
     "rating": 4.5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.274134,
     "lng": -2.055883,
-    "found_in_location": "Balmedie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "admin@jdplanthire.co.uk",
+    "emails": [
+      "admin@jdplanthire.co.uk"
+    ],
+    "description": "Are you planning a construction project? Contact John Duncan Plant Hire for a range of plant hire equipment and machinery. We cover Aberdeen and North Aberdeenshire."
   },
   {
     "name": "Lifting Equipment Rental",
@@ -1896,12 +2623,17 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20133\u202fpm\"],\"Monday\":[\"8\u202fam\u20133\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–3 pm\"],\"Monday\":[\"8 am–3 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–3 pm\"],\"Tuesday\":[\"8 am–3 pm\"],\"Wednesday\":[\"8 am–3 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.143768,
     "lng": -2.087797,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "john@lifting-equipment-rental.co.uk",
+    "emails": [
+      "john@lifting-equipment-rental.co.uk"
+    ],
+    "description": "L E Rental is home to one of the largest ranges of specialist lifting equipment for hire and sale in Scotland. From our base in Aberdeen, we supply and deliver equipment to companies throughout the UK and Europe and hold an extensive stock of products suited to a wide variety of industries..."
   },
   {
     "name": "Ainscough Crane Hire Ltd - Dundee Depot",
@@ -1913,12 +2645,17 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Crane Rental Agency",
     "lat": 56.479475,
     "lng": -2.976887,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@ainscough.co.uk",
+    "emails": [
+      "info@ainscough.co.uk"
+    ],
+    "description": "Hire cranes with Ainscough Crane Hire, the largest crane hire company in the UK. 30 locations, one national network."
   },
   {
     "name": "Scott Mackie Ltd",
@@ -1934,8 +2671,18 @@
     "types": "Plant and machinery hire",
     "lat": 56.491457,
     "lng": -2.780575,
-    "found_in_location": "Carnoustie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "info@scottmackieplanthire.co.uk",
+    "emails": [
+      "info@scottmackieplanthire.co.uk",
+      "mmackie141@gmail.com"
+    ],
+    "description": "Scott Mackie Ltd for construction and groundwork services in Carnoustie and Angus. Call on 01382 532364 for a free quote.",
+    "services": [
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "1st Plant & Tool Services",
@@ -1947,12 +2694,22 @@
     "rating": 4.4,
     "total_reviews": 81,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Lawn mower repair service",
     "lat": 55.83961,
     "lng": -4.4145,
     "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "scott@1stplantandtool.co.uk",
+    "emails": [
+      "scott@1stplantandtool.co.uk"
+    ],
+    "description": "We are the 1ST stop for all garden and machinery servicing, repair, equipment and sales. Based in Paisley our workshop is equipped to handle all types of servicing and repair",
+    "services": [
+      "Excavator",
+      "Forklift",
+      "Generator"
+    ]
   },
   {
     "name": "Molson Young Plant",
@@ -1964,12 +2721,19 @@
     "rating": 4.4,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 55.818694,
     "lng": -4.063694,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Molson Group are the UK’s largest independent new and used equipment dealer for market-leading brands including Kobelco, Sennebogen, Terex etc",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Morris Leslie Plant Hire & Sales - Inverness",
@@ -1981,12 +2745,28 @@
     "rating": 4.4,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.493415,
     "lng": -4.229351,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "garry.howland@morrisleslie.co.uk",
+    "emails": [
+      "garry.howland@morrisleslie.co.uk",
+      "james.cheshire@morrisleslie.co.uk",
+      "planthire@morrisleslie.co.uk",
+      "plantsales@morrisleslie.co.uk",
+      "robin.butler@morrisleslie.co.uk",
+      "sales.admin@morrisleslie.co.uk"
+    ],
+    "description": "Morris Leslie Group continues to expand and drive innovation within construction, automotive, property, leisure, and many other industries.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Las Plant Ltd",
@@ -1998,12 +2778,20 @@
     "rating": 4.4,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.489473,
     "lng": -4.227666,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "enquiries@lasplant.co.uk",
+    "emails": [
+      "enquiries@lasplant.co.uk"
+    ],
+    "description": "Las Plant ltd provides Access Platforms and a wide range of contractor's tools and plant for hire across the North and North East of Scotland",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Buckhurst Plant Hire Limited",
@@ -2015,12 +2803,27 @@
     "rating": 4.4,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.219472,
     "lng": -2.073609,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "aberdeen@bphsp.com",
+    "emails": [
+      "aberdeen@bphsp.com",
+      "bathgate@bphsp.com",
+      "chester@bphsp.com",
+      "leeds@bphsp.com",
+      "rossendale@bphsp.com",
+      "wellingborough@bphsp.com"
+    ],
+    "description": "Buckhurst Plant Hire supplies Machinery and Equipment such as Excavators, Diggers, Dumpers, Telehandlers, Rollers and Tractors. Servicing the Construction, Utility, Civil Engineering and Agricultural sectors.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Access Platforms Aberdeen Limited",
@@ -2032,12 +2835,17 @@
     "rating": 4.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.624115,
     "lng": -3.260395,
-    "found_in_location": "Elgin",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "description": "Access Platforms Aberdeen Limitedis one of the fastest growing privately owned access platform companies in Scotland. We supply access platforms and equipment to businesses throughout Scotland. Our modern fleet of over 350 access platforms is available for contract hire.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Aberdeen",
@@ -2049,12 +2857,16 @@
     "rating": 4.3,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.175249,
     "lng": -2.156591,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Inverness",
@@ -2066,12 +2878,16 @@
     "rating": 4.3,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.488473,
     "lng": -4.243938,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Pol Hire Ltd",
@@ -2083,7 +2899,7 @@
     "rating": 4.3,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.891351,
     "lng": -4.378056,
@@ -2100,12 +2916,24 @@
     "rating": 4.3,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 55.789152,
     "lng": -4.071254,
     "found_in_location": "Hamilton",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "jhodge@hodgeplant.com",
+    "emails": [
+      "jhodge@hodgeplant.com",
+      "parts@hodgeplant.com"
+    ],
+    "description": "Alistair started Hodge Plant back in 1986 with one wheeled excavator. “I was an engineer by trade and decided to give it a go,” he added. “I worked night and day to build the business and we now operate a New Sales Division of Sandvik Mobile Crushers and Screeners.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "HSS The Hire Service Company at Beatsons",
@@ -2122,7 +2950,8 @@
     "lat": 56.109314,
     "lng": -3.923016,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Professional equipment hire and tool rental across the UK. Over 3,000 tools for construction, DIY, gardening & more."
   },
   {
     "name": "Leggat Plant Ltd",
@@ -2138,8 +2967,9 @@
     "types": "Plant and machinery hire",
     "lat": 55.81004,
     "lng": -4.38055,
-    "found_in_location": "Barrhead",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "description": "Full range of Cranes available – 25 tonne to 130 tonne."
   },
   {
     "name": "Iain Cowie Plant Hire & Groundworks Ltd",
@@ -2156,7 +2986,12 @@
     "lat": 57.484506,
     "lng": -4.065799,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@icplanthireandgroundworks.co.uk",
+    "emails": [
+      "info@icplanthireandgroundworks.co.uk"
+    ],
+    "description": "Aggregates sales & Civils Contracting"
   },
   {
     "name": "HAG (Highland Allterrain Group) Hire",
@@ -2173,7 +3008,15 @@
     "lat": 57.51622,
     "lng": -4.225528,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "hag.hire@outlook.com",
+    "emails": [
+      "hag.hire@outlook.com"
+    ],
+    "description": "Specialised Hagglund BV 206 hire and Hagglund sales of used machinery. A winner in the Highlands for off road solutions.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Blackwood Plant Hire",
@@ -2190,7 +3033,20 @@
     "lat": 55.687668,
     "lng": -4.524998,
     "found_in_location": "Kilmarnock",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@blackwoodplanthire.co.uk",
+    "emails": [
+      "info@blackwoodplanthire.co.uk"
+    ],
+    "description": "At Blackwood Plant Hire, we offer a versatile fleet of over 500 machines. Our equipment and standard of service is second to none.",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "GAP Group Ltd",
@@ -2202,12 +3058,16 @@
     "rating": 4.2,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 55.869415,
     "lng": -4.252131,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Hireline Plant & Tool Hire Edinburgh Scotland",
@@ -2219,12 +3079,25 @@
     "rating": 4.2,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.944812,
     "lng": -2.893223,
-    "found_in_location": "Tranent",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "description": "T: 0131 669 7660 for Plant Hire & Tool Hire in Edinburgh, Lothians, Scottish Borders, Fife, Berwick & Central Scotland or visit the Hireline website for info.",
+    "services": [
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Scissor Lift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Sighthill (Edinburgh)",
@@ -2236,12 +3109,16 @@
     "rating": 4.2,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.924081,
     "lng": -3.303025,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Peter Stewart Plant Hire & Contractors",
@@ -2253,12 +3130,21 @@
     "rating": 4.2,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.91295,
     "lng": -3.999925,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "peter@peterstewartplanthire.co.uk",
+    "emails": [
+      "peter@peterstewartplanthire.co.uk"
+    ],
+    "description": "Peter Stewart Plant and Tool Hire. Groundwork Contractors. Landscaping. Remedial's. Foundations and Drainage",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Warnock Plant Hire Ltd",
@@ -2270,12 +3156,24 @@
     "rating": 4.2,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20133:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20133:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20133:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20133:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20133:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–3:30 pm\"],\"Monday\":[\"7 am–3:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–3:30 pm\"],\"Tuesday\":[\"7 am–3:30 pm\"],\"Wednesday\":[\"7 am–3:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.783686,
     "lng": -4.191694,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@warnockplant.co.uk",
+    "emails": [
+      "info@warnockplant.co.uk",
+      "mailtoinfo@warnockplant.co.uk"
+    ],
+    "description": "Plant Hire Scotland ( Warnock Plant Hire ) is a leading plant hire company in Glasgow and operates throughout Scotland’s central belt",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "Denis McDonald Plant Hire",
@@ -2291,7 +3189,7 @@
     "types": "Plant and machinery hire",
     "lat": 57.622938,
     "lng": -1.980595,
-    "found_in_location": "Fraserburgh",
+    "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland"
   },
   {
@@ -2304,12 +3202,16 @@
     "rating": 4.1,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Waste-Management Service",
     "lat": 57.088299,
     "lng": -2.12435,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "A & M Smith Recycling Recycle centre and skip hire with facilities in Aberdeen and Peterhead. Solar generation and renewables. Fridge disposal Aberdeen and Hazardous Waste Disposal Aberdeen",
+    "services": [
+      "Forklift"
+    ]
   },
   {
     "name": "Northgate Vehicle Hire - Stirling",
@@ -2321,12 +3223,17 @@
     "rating": 4.1,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 56.114057,
     "lng": -3.923085,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "rental.ipswich@northgatevehiclehire.co.uk",
+    "emails": [
+      "rental.ipswich@northgatevehiclehire.co.uk"
+    ],
+    "description": "Find a wide range of fleet vehicles at our Northgate Ipswich branch. Our van rental in Ipswich offers flexible hire options and more! Call today."
   },
   {
     "name": "Brandon Hire Station Glasgow - Kingston Bridge",
@@ -2338,12 +3245,13 @@
     "rating": 4.1,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.853394,
     "lng": -4.274739,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Jarvie Plant Group - Glasgow",
@@ -2355,12 +3263,18 @@
     "rating": 4.1,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.853857,
     "lng": -4.320816,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Jarvie Plant is a family-run business and market leader in the provision of high-quality plant, accommodation and vehicle hire in the UK. Find out more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Chris Knight Plant Sales",
@@ -2376,7 +3290,7 @@
     "types": "Construction equipment supplier",
     "lat": 57.583757,
     "lng": -3.854443,
-    "found_in_location": "Nairn",
+    "found_in_location": "Inverness",
     "found_with_query": "plant scotland"
   },
   {
@@ -2389,12 +3303,18 @@
     "rating": 4.1,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.125174,
     "lng": -2.08664,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Jarvie Plant is a family-run business and market leader in the provision of high-quality plant, accommodation and vehicle hire in the UK. Find out more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "S Brady Ltd",
@@ -2411,7 +3331,15 @@
     "lat": 55.84946,
     "lng": -4.421622,
     "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "skiplorry@live.co.uk",
+    "emails": [
+      "skiplorry@live.co.uk"
+    ],
+    "description": "For quick and affordable skip hire services in Paisley and across Renfrewshire, contact specialists at S Brady Ltd today. With over 60 years of experience.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "Brandon Hire Station Inverness",
@@ -2423,12 +3351,13 @@
     "rating": 4.0,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.485772,
     "lng": -4.225426,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Brandon Hire Station Aberdeen",
@@ -2440,12 +3369,13 @@
     "rating": 4.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.147879,
     "lng": -2.085954,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "HirePlus",
@@ -2457,12 +3387,17 @@
     "rating": 4.0,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 56.188218,
     "lng": -3.97094,
-    "found_in_location": "Dunblane",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "email": "enquiries@hireplus.co.uk",
+    "emails": [
+      "enquiries@hireplus.co.uk"
+    ],
+    "description": "We are the number one choice for van hire in Stirling, Scotland. Specialising in business van hire locally."
   },
   {
     "name": "Nixon Hire",
@@ -2474,12 +3409,36 @@
     "rating": 4.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 56.478043,
     "lng": -2.924655,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "hello@nixonhire.com",
+    "emails": [
+      "hello@nixonhire.com",
+      "aberdeen@nixonhire.com",
+      "bedford@nixonhire.com",
+      "carlisle@nixonhire.com",
+      "castleford@nixonhire.com",
+      "dundee@nixonhire.com",
+      "edinburgh@nixonhire.com",
+      "essex@nixonhire.com",
+      "glasgow@nixonhire.com",
+      "highlands@nixonhire.com",
+      "newcastle@nixonhire.com",
+      "nottingham@nixonhire.com",
+      "siteservices@nixonhire.com",
+      "smartstore@nixonhire.com",
+      "stockton@nixonhire.com",
+      "warrington@nixonhire.com",
+      "wolverhampton@nixonhire.com"
+    ],
+    "description": "We're Pleased To Provide A Full Range Of Site Equipment, Available Nationwide, To Ensure You Have The Facilities You Need To Run Your Projects Smoothly.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Ron Boyd Group",
@@ -2491,12 +3450,20 @@
     "rating": 4.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Crane service",
     "lat": 55.865944,
     "lng": -3.050275,
-    "found_in_location": "Dalkeith",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "sales@ronboydgroup.co.uk",
+    "emails": [
+      "sales@ronboydgroup.co.uk"
+    ],
+    "description": "Need a mobile crane hire and haulage company based in Midlothian? Our Dalkeith-based team at Ron Boyd Group cater to all lifting and machinery moving needs.",
+    "services": [
+      "Telehandler"
+    ]
   },
   {
     "name": "Dundee Plant Co Ltd",
@@ -2508,12 +3475,20 @@
     "rating": 4.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Scaffolding Service",
     "lat": 56.47951,
     "lng": -2.924751,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@dundeeplant.co.uk",
+    "emails": [
+      "info@dundeeplant.co.uk"
+    ],
+    "description": "Dundee Plant carry out all aspects of demolition including dismantling, site clearance, onsite and offsite crushing and screening.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Sunbelt Rentals Aberdeen",
@@ -2525,7 +3500,7 @@
     "rating": 4.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 57.167588,
     "lng": -2.112529,
@@ -2547,7 +3522,12 @@
     "lat": 55.936081,
     "lng": -3.016958,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@sinclairplanthire.co.uk",
+    "emails": [
+      "info@sinclairplanthire.co.uk"
+    ],
+    "description": "Sinclair Plant Hire, Machinery Hire, JCB 3CX's, Excavators, mini Diggers, site clearance & groundworks providing Edinburgh, The Lothians & surrounding area"
   },
   {
     "name": "Mabey Hire - Inverness",
@@ -2559,12 +3539,13 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 57.489392,
     "lng": -4.231383,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
   },
   {
     "name": "A Smeaton",
@@ -2576,12 +3557,16 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.59075,
     "lng": -2.796359,
-    "found_in_location": "Forfar",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "description": "Welcome to Smeaton Plant Hire, a family run business established over 35 years ago.Specialising in hiring out mobile and tracked excavators with experienced licensed operators. We will take on any type of work from foundation works to more complex civil engineering contracts.Our excavators range...",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Bridgend Hire Limited",
@@ -2593,12 +3578,16 @@
     "rating": 4.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.809975,
     "lng": -4.380551,
-    "found_in_location": "Barrhead",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "description": "Machinery removals & installations National Coverage.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "A-plant: Pss Hire Inverness",
@@ -2610,7 +3599,7 @@
     "rating": 4.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 57.488031,
     "lng": -4.218816,
@@ -2627,7 +3616,7 @@
     "rating": 3.9,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 55.982944,
     "lng": -3.231334,
@@ -2644,12 +3633,22 @@
     "rating": 3.9,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.857989,
     "lng": -3.96123,
-    "found_in_location": "Airdrie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "plant scotland",
+    "email": "ryan@sweeneyplant.co.uk",
+    "emails": [
+      "ryan@sweeneyplant.co.uk"
+    ],
+    "description": "Sweeney Plant and Vehicle Hire has a large fleet of vehicles and plant equipment available for hire from our depot in Petersburn Road, Airdrie. We cater to the supply of short and long term hires. We do not operate a call holding or automated response service. A phone call or email to Sweeney...",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "AB2000",
@@ -2661,12 +3660,13 @@
     "rating": 3.9,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.822772,
     "lng": -4.159821,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
   },
   {
     "name": "Jarvie Plant Group - Dundee",
@@ -2678,12 +3678,18 @@
     "rating": 3.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.479695,
     "lng": -3.00837,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Jarvie Plant is a family-run business and market leader in the provision of high-quality plant, accommodation and vehicle hire in the UK. Find out more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "HSS Hire",
@@ -2695,12 +3701,31 @@
     "rating": 3.8,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.486213,
     "lng": -4.207867,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "contact@hss.com",
+    "emails": [
+      "contact@hss.com"
+    ],
+    "description": "Professional tool hire in Peterborough at HSS - from access towers to floor sanders. Get the right equipment for any job, with fast click & collect or delivery available.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "HSS The Hire Service Company",
@@ -2712,12 +3737,31 @@
     "rating": 3.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 57.211247,
     "lng": -2.191825,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "contact@hss.com",
+    "emails": [
+      "contact@hss.com"
+    ],
+    "description": "Professional tool hire in Peterborough at HSS - from access towers to floor sanders. Get the right equipment for any job, with fast click & collect or delivery available.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "GAP Hire Solutions- Leith (Edinburgh)",
@@ -2729,12 +3773,16 @@
     "rating": 3.7,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.97249,
     "lng": -3.154166,
     "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Sunbelt Rentals Dundee - Mid Craigie Road",
@@ -2746,7 +3794,7 @@
     "rating": 3.6,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 56.475258,
     "lng": -2.933859,
@@ -2763,12 +3811,23 @@
     "rating": 3.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.825222,
     "lng": -4.16087,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "enquiries@cleehill.co.uk",
+    "emails": [
+      "enquiries@cleehill.co.uk",
+      "hire@cleehill.co.uk"
+    ],
+    "description": "With over 2,500 machines Clee Hill is the largest Surface Dressing and Compaction Hire company in the UK. View our vast range of Plant Hire",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "Speedy Services",
@@ -2780,7 +3839,7 @@
     "rating": 3.5,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 57.195074,
     "lng": -2.09338,
@@ -2797,7 +3856,7 @@
     "rating": 3.5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"10 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.116709,
     "lng": -3.920254,
@@ -2814,12 +3873,20 @@
     "rating": 3.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Construction Company",
     "lat": 55.872713,
     "lng": -4.509588,
-    "found_in_location": "Johnstone",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "email": "info@afpconstruction.co.uk",
+    "emails": [
+      "info@afpconstruction.co.uk"
+    ],
+    "description": "AFP Construction is a multi discipline Site Clearance, Excavation, Demolition, and Specialist Building Contractor based in Bishopton near Glasgow. Much more than a general Building Contractor we have developed a specialism in clearing and preparing high hazard sites.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Ardent Hire Solutions Glasgow",
@@ -2831,12 +3898,27 @@
     "rating": 3.3,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.835792,
     "lng": -4.24457,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "hire@ardenthire.com",
+    "emails": [
+      "hire@ardenthire.com",
+      "sales@ardenthire.com",
+      "creditcontrol@ardenthire.com",
+      "customerservice@ardenthire.com",
+      "digital@ardenthire.com",
+      "notifications@ardenthire.com"
+    ],
+    "description": "Ardent Plant Hire and Plant Sales – the youngest hire company with decades of hire industry experience.",
+    "services": [
+      "Breaker",
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "RTA Plant Hire LTD Birchwood Business Park",
@@ -2848,11 +3930,11 @@
     "rating": 3.3,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.193884,
     "lng": -4.054737,
-    "found_in_location": "Doune",
+    "found_in_location": "Stirling",
     "found_with_query": "plant scotland"
   },
   {
@@ -2887,7 +3969,12 @@
     "lat": 55.600383,
     "lng": -4.536774,
     "found_in_location": "Kilmarnock",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Plant hire company serving Glasgow, Ayrshire, South West and West Central Scotland",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Liftruks",
@@ -2904,7 +3991,15 @@
     "lat": 56.475839,
     "lng": -3.052242,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@liftruks.co.uk",
+    "emails": [
+      "info@liftruks.co.uk"
+    ],
+    "description": "Are you local to Dundee and using any lift trucks? Think Local. Save Money. Liftruks, Dundee.",
+    "services": [
+      "Forklift"
+    ]
   },
   {
     "name": "Castle View Plant Hire",
@@ -2920,8 +4015,18 @@
     "types": "Plant and machinery hire",
     "lat": 56.143298,
     "lng": -3.769256,
-    "found_in_location": "Alloa",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "email": "info@castleviewplanthire.com",
+    "emails": [
+      "info@castleviewplanthire.com"
+    ],
+    "description": "Forestry Civil Engineering Plant Hire Agricultural",
+    "services": [
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Finning (UK) Ltd",
@@ -2933,12 +4038,16 @@
     "rating": 3.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u201311:30\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30–11:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 57.48788,
     "lng": -4.211926,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "partsdirectuk@finning.com",
+    "emails": [
+      "partsdirectuk@finning.com"
+    ]
   },
   {
     "name": "GORDON BOW ENGINEERING LTD",
@@ -2950,12 +4059,21 @@
     "rating": 2.1,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u201312\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"7:30 am–12 pm\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Engineer",
     "lat": 55.940297,
     "lng": -3.456492,
-    "found_in_location": "Broxburn",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "email": "info@gordonbow.co.uk",
+    "emails": [
+      "info@gordonbow.co.uk",
+      "bobby@gordonbow.co.uk",
+      "craig.bell@gordonbow.co.uk",
+      "davidw@gordonbow.co.uk",
+      "richard@gordonbow.co.uk"
+    ],
+    "description": "Gordon Bow Engineering are fabricators of a wide range of structural steel, metalwork and stainless products to meet client requirements"
   },
   {
     "name": "L K N Plant Hire Ltd",
@@ -2967,7 +4085,7 @@
     "rating": 1.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.115013,
     "lng": -2.141113,
@@ -3001,12 +4119,13 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.849669,
     "lng": -4.430973,
     "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "J W PLANT HIRE SERVICES LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
   },
   {
     "name": "JW Plant Hire",
@@ -3023,7 +4142,12 @@
     "lat": 55.851826,
     "lng": -4.425754,
     "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "bookings@jwplanthire.co.uk",
+    "emails": [
+      "bookings@jwplanthire.co.uk"
+    ],
+    "description": "If you are interested in any of our Plant Hire Equipment then please fill out the form below."
   },
   {
     "name": "TG Tool Hire",
@@ -3035,12 +4159,13 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 55.866284,
     "lng": -4.426971,
     "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "TG Tool Hire is an independant Scottish company hiring tools, plant and equipment to customers throughout Renfrewshire"
   },
   {
     "name": "Glasgow Digger Hire",
@@ -3074,7 +4199,22 @@
     "lat": 55.956714,
     "lng": -4.120933,
     "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "credit.control@heservices.co.uk",
+    "emails": [
+      "credit.control@heservices.co.uk",
+      "invoice.queries@heservices.co.uk",
+      "nhc@heservices.co.uk"
+    ],
+    "description": "The largest specialist UK Plant Hire Company, providing all types of plant with 11 strategically located depots nationwide. Call 0208 804 2000",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "YES Your Equipment Solutions (Edinburgh)",
@@ -3086,12 +4226,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.872662,
     "lng": -3.172537,
-    "found_in_location": "Loanhead",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "office@yourequipmentsolutions.co.uk",
+    "emails": [
+      "office@yourequipmentsolutions.co.uk"
+    ],
+    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller"
+    ]
   },
   {
     "name": "Hermiston Plant Hire Ltd",
@@ -3103,12 +4255,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7\u202fam\u20136\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.920585,
     "lng": -3.308119,
-    "found_in_location": "Currie",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "enquiries@hermistonph.co.uk",
+    "emails": [
+      "enquiries@hermistonph.co.uk"
+    ],
+    "description": "Our hired plant includes Road Sweepers, Vogele pavers, Wirtgen planers. We serve all over Scotland."
   },
   {
     "name": "SDH Plant Hire",
@@ -3120,12 +4277,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20133\u202fpm\"],\"Sunday\":[\"8\u202fam\u20133\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"8 am–3 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.934093,
     "lng": -2.948697,
-    "found_in_location": "Tranent",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "sdhminidiggerhire@gmail.com",
+    "emails": [
+      "sdhminidiggerhire@gmail.com"
+    ],
+    "description": "SDH Plant Hire is a Groundworks covering Tranent, Livingstone, Dunfermline, Edinburgh and East Lothian, specialising in Mini Digger Hire, Self Drive and Operated Driver, Drainage Specialist, Demolition Specialist, Foundations and Site Management.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "Boels Rental Ltd. Edinburgh",
@@ -3141,8 +4306,12 @@
     "types": "Construction machine rental service",
     "lat": 55.938762,
     "lng": -3.449911,
-    "found_in_location": "Broxburn",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "plant scotland",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Aggreko Aberdeen",
@@ -3159,7 +4328,11 @@
     "lat": 57.116771,
     "lng": -2.068521,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "We design, deploy and optimise the engineered energy and temperature solutions that keep your world on.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "P Flannery Plant Hire",
@@ -3171,12 +4344,25 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.224777,
     "lng": -2.207108,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "info@flanneryplant.co.uk",
+    "emails": [
+      "info@flanneryplant.co.uk",
+      "accounts.receivable@flanneryplant.co.uk",
+      "webenquiries@flanneryplant.co.uk"
+    ],
+    "description": "Plant hire services across the UK from a respected family run company. Contact us today for expert advice!",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "CS Plant Hire Ltd",
@@ -3188,12 +4374,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–7 pm\"],\"Monday\":[\"7:30 am–7 pm\"],\"Saturday\":[\"7:30 am–7 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"7:30 am–7 pm\"],\"Tuesday\":[\"7:30 am–7 pm\"],\"Wednesday\":[\"7:30 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.209136,
     "lng": -2.32837,
     "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "csplanthireltd@gmail.com",
+    "emails": [
+      "csplanthireltd@gmail.com"
+    ],
+    "description": "Aberdeenshire Plant Hire, CS Plant Hire offer a variety of trailers, diggers, tracked barrows, mini dumpers, whackers and cement mixers we aim to offer a one stop shop for your plant hire needs at competitive prices.",
+    "services": [
+      "Concrete Mixer",
+      "Dumper"
+    ]
   },
   {
     "name": "YES Hire Dundee",
@@ -3205,12 +4400,24 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.484201,
     "lng": -3.017406,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "office@yourequipmentsolutions.co.uk",
+    "emails": [
+      "office@yourequipmentsolutions.co.uk"
+    ],
+    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller"
+    ]
   },
   {
     "name": "Cherry Picker Hire Dundee",
@@ -3222,12 +4429,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.483326,
     "lng": -3.006485,
     "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "office@cherrypickerhire.scot",
+    "emails": [
+      "office@cherrypickerhire.scot"
+    ],
+    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Barnhill Cherrypickers ltd",
@@ -3239,7 +4454,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"9\u202fam\u20133\u202fpm\"],\"Sunday\":[\"9\u202fam\u20133\u202fpm\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"9 am–3 pm\"],\"Sunday\":[\"9 am–3 pm\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.47516,
     "lng": -2.847928,
@@ -3273,12 +4488,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.342968,
     "lng": -4.761966,
-    "found_in_location": "Beauly",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "email": "gregorysplant@outlook.com",
+    "emails": [
+      "gregorysplant@outlook.com"
+    ],
+    "description": "Gregorys Plant and Civils are a highly professional and experienced plant hire and civil engineering contractor offering clients a complete bespoke service"
   },
   {
     "name": "Cherry Picker Hire Stirling",
@@ -3295,7 +4515,15 @@
     "lat": 56.11459,
     "lng": -3.913016,
     "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "office@cherrypickerhire.scot",
+    "emails": [
+      "office@cherrypickerhire.scot"
+    ],
+    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Ally Blyth Plant Hire",
@@ -3307,7 +4535,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 56.420539,
     "lng": -3.468199,
@@ -3324,12 +4552,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 55.951121,
     "lng": -2.793243,
-    "found_in_location": "Haddington",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "office@cfosterplanthire.co.uk",
+    "emails": [
+      "office@cfosterplanthire.co.uk"
+    ],
+    "description": "Plant Hire & Groundworks - Foster Construction & Groundworks, East Lothian. Machinery For Hire. JCB Hire. Short & Long-Term Hire. 50+ Years' Experience. Call Us",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "L Lynch Plant Hire & Haulage Ltd",
@@ -3346,7 +4583,8 @@
     "lat": 57.540173,
     "lng": -4.071699,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "Discover National Plant Hire, Transport & Haulage Services"
   },
   {
     "name": "SRL Traffic Systems | Inverness",
@@ -3363,7 +4601,12 @@
     "lat": 57.483715,
     "lng": -4.228441,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "description": "SRL Traffic Systems is a manufacturer and supplier of intelligent traffic systems (ITS) - inc. portable traffic lights, VMS and portable CCTV",
+    "services": [
+      "Generator",
+      "Telehandler"
+    ]
   },
   {
     "name": "AB2000 Plant and Crane Hire Inverness",
@@ -3375,12 +4618,13 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 57.584026,
     "lng": -3.852959,
-    "found_in_location": "Nairn",
-    "found_with_query": "plant scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
   },
   {
     "name": "easyToolhire Falkirk - Mini Digger, Scaffolding, Scissor Lift, Wacker Plate Hire",
@@ -3392,12 +4636,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 56.010448,
     "lng": -3.766261,
     "found_in_location": "Falkirk",
-    "found_with_query": "plant scotland"
+    "found_with_query": "plant scotland",
+    "email": "hire@easytoolhire.com",
+    "emails": [
+      "hire@easytoolhire.com"
+    ],
+    "description": "We're not accepting any new hire orders at the moment and apologise for any inconvenience."
   },
   {
     "name": "Hardwicks grab hire",

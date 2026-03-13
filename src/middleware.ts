@@ -24,11 +24,31 @@ const STATIC_ROUTES = new Set([
   "sitemap.xml",
   "ads.txt",
   "operator",
+  "leads",
   "terms",
   "contact",
+  "site",
 ]);
 
+// Domains that have hosted mini-sites on subdomains
+const HOSTED_DOMAINS = [
+  "hirenortheast.co.uk",
+];
+
 export function middleware(request: NextRequest) {
+  // Subdomain routing — hosted mini-sites
+  const host = request.headers.get("host") || "";
+  for (const domain of HOSTED_DOMAINS) {
+    if (host !== domain && host !== `www.${domain}` && host.endsWith(`.${domain}`)) {
+      const subdomain = host.replace(`.${domain}`, "");
+      const url = request.nextUrl.clone();
+      url.pathname = `/site/${subdomain}${url.pathname === "/" ? "" : url.pathname}`;
+      const response = NextResponse.rewrite(url);
+      response.headers.set("x-hosted-site", subdomain);
+      return response;
+    }
+  }
+
   // Defensive URL cleanup: some clients accidentally append a backtick, which shows up as `%60`.
   // Example: /minibus-hire/events%60
   if (request.nextUrl.pathname.includes("%60") || request.nextUrl.pathname.includes("`")) {

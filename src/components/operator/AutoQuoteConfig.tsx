@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
+import DynamicFormFields from "@/components/form/DynamicFormFields";
 
 interface Props {
   slug: string;
@@ -8,6 +10,38 @@ interface Props {
   site: string;
   initialEnabled: boolean;
   initialConfig: Record<string, unknown>;
+  initialServices?: string[];
+}
+
+/** Flatten nested object to dot-notation: { prices: { mini: 120 } } → { "prices.mini": 120 } */
+function flatten(obj: Record<string, unknown>, prefix = ""): Record<string, string | number> {
+  const result: Record<string, string | number> = {};
+  for (const [key, val] of Object.entries(obj)) {
+    const path = prefix ? `${prefix}.${key}` : key;
+    if (val && typeof val === "object" && !Array.isArray(val)) {
+      Object.assign(result, flatten(val as Record<string, unknown>, path));
+    } else if (typeof val === "string" || typeof val === "number") {
+      result[path] = val;
+    }
+  }
+  return result;
+}
+
+/** Unflatten dot-notation to nested: { "prices.mini": 120 } → { prices: { mini: 120 } } */
+function unflatten(flat: Record<string, string | number>): Record<string, unknown> {
+  const result: Record<string, unknown> = {};
+  for (const [path, val] of Object.entries(flat)) {
+    const parts = path.split(".");
+    let current = result;
+    for (let i = 0; i < parts.length - 1; i++) {
+      if (!(parts[i] in current) || typeof current[parts[i]] !== "object") {
+        current[parts[i]] = {};
+      }
+      current = current[parts[i]] as Record<string, unknown>;
+    }
+    current[parts[parts.length - 1]] = val === "" ? undefined : val;
+  }
+  return result;
 }
 
 export default function AutoQuoteConfig({
@@ -16,15 +50,25 @@ export default function AutoQuoteConfig({
   site,
   initialEnabled,
   initialConfig,
+  initialServices = [],
 }: Props) {
   const [enabled, setEnabled] = useState(initialEnabled);
-  const [config, setConfig] = useState(initialConfig);
+  const [configValues, setConfigValues] = useState<Record<string, string | number>>(
+    flatten(initialConfig)
+  );
+  const [responseTemplate, setResponseTemplate] = useState(
+    (initialConfig.responseTemplate as string) || ""
+  );
+  const [services, setServices] = useState<string[]>(initialServices);
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [error, setError] = useState("");
 
-  function updateConfig(key: string, value: unknown) {
-    setConfig((prev) => ({ ...prev, [key]: value }));
+  const productConfig = PRODUCT_CONFIGS[product as ProductId];
+  const autoQuoteFields = productConfig?.autoQuoteFields ?? [];
+
+  function handleFieldChange(name: string, value: string | number) {
+    setConfigValues((prev) => ({ ...prev, [name]: value }));
   }
 
   async function handleSave() {
@@ -32,10 +76,14 @@ export default function AutoQuoteConfig({
     setSaved(false);
     setError("");
 
+    // Unflatten dot-notation values back to nested config
+    const config = unflatten(configValues);
+    config.responseTemplate = responseTemplate;
+
     const res = await fetch("/api/operator/auto-quotes", {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ slug, product, site, enabled, config }),
+      body: JSON.stringify({ slug, product, site, enabled, config, services }),
     });
 
     setSaving(false);
@@ -74,17 +122,20 @@ export default function AutoQuoteConfig({
 
       {enabled && (
         <div className="border-t border-border pt-6 space-y-4">
-          {product === "minibus-hire" && (
-            <MinibusConfig config={config} onChange={updateConfig} />
-          )}
-          {product === "skip-hire" && (
-            <SkipConfig config={config} onChange={updateConfig} />
-          )}
-          {product === "van-hire" && (
-            <VanConfig config={config} onChange={updateConfig} />
-          )}
-          {product === "locksmith" && (
-            <LocksmithConfig config={config} onChange={updateConfig} />
+          {/* Services offered */}
+          <ServicesCheckboxes
+            product={product}
+            selected={services}
+            onChange={setServices}
+          />
+
+          {/* Product-specific config fields */}
+          {autoQuoteFields.length > 0 && (
+            <DynamicFormFields
+              fields={autoQuoteFields}
+              values={configValues}
+              onChange={handleFieldChange}
+            />
           )}
 
           {/* Response template */}
@@ -93,14 +144,14 @@ export default function AutoQuoteConfig({
               Response Template
             </label>
             <textarea
-              value={(config.responseTemplate as string) || ""}
-              onChange={(e) => updateConfig("responseTemplate", e.target.value)}
+              value={responseTemplate}
+              onChange={(e) => setResponseTemplate(e.target.value)}
               rows={3}
               className="w-full border border-border rounded-lg px-4 py-2.5 text-text text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
               placeholder="Thanks for your enquiry! We can provide..."
             />
             <p className="text-xs text-text-light mt-1">
-              Use placeholders like {"{price}"}, {"{date}"}, {"{passengers}"} etc. Don’t include phone numbers, email addresses, or website links — customers must reply to us to proceed.
+              Use placeholders like {"{price}"}, {"{date}"}, {"{passengers}"} etc. Don&apos;t include phone numbers, email addresses, or website links — customers must reply to us to proceed.
             </p>
           </div>
         </div>
@@ -129,141 +180,49 @@ export default function AutoQuoteConfig({
   );
 }
 
-function NumberField({
-  label,
-  value,
+function ServicesCheckboxes({
+  product,
+  selected,
   onChange,
-  placeholder,
-  prefix,
 }: {
-  label: string;
-  value: number | undefined;
-  onChange: (v: number) => void;
-  placeholder?: string;
-  prefix?: string;
+  product: string;
+  selected: string[];
+  onChange: (services: string[]) => void;
 }) {
-  return (
-    <div>
-      <label className="block text-sm font-medium text-text mb-1">
-        {label}
-      </label>
-      <div className="flex items-center">
-        {prefix && (
-          <span className="text-text-light mr-1 text-sm">{prefix}</span>
-        )}
-        <input
-          type="number"
-          value={value ?? ""}
-          onChange={(e) => onChange(Number(e.target.value))}
-          className="w-full border border-border rounded-lg px-4 py-2 text-text text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary"
-          placeholder={placeholder}
-        />
-      </div>
-    </div>
-  );
-}
+  const productConfig = PRODUCT_CONFIGS[product as ProductId];
+  if (!productConfig?.services?.length) return null;
 
-function MinibusConfig({
-  config,
-  onChange,
-}: {
-  config: Record<string, unknown>;
-  onChange: (key: string, value: unknown) => void;
-}) {
-  return (
-    <div className="grid grid-cols-2 gap-4">
-      <NumberField
-        label="Max Passengers"
-        value={config.maxPassengers as number}
-        onChange={(v) => onChange("maxPassengers", v)}
-        placeholder="16"
-      />
-      <NumberField
-        label="Minimum Price"
-        value={config.minPrice as number}
-        onChange={(v) => onChange("minPrice", v)}
-        placeholder="50"
-        prefix="£"
-      />
-    </div>
-  );
-}
-
-function SkipConfig({
-  config,
-  onChange,
-}: {
-  config: Record<string, unknown>;
-  onChange: (key: string, value: unknown) => void;
-}) {
-  const prices = (config.prices as Record<string, number>) || {};
-  function setPrice(size: string, value: number) {
-    onChange("prices", { ...prices, [size]: value });
+  function toggleService(serviceId: string) {
+    if (selected.includes(serviceId)) {
+      onChange(selected.filter((s) => s !== serviceId));
+    } else {
+      onChange([...selected, serviceId]);
+    }
   }
 
   return (
     <div>
-      <h4 className="text-sm font-medium text-text mb-2">Skip Prices</h4>
-      <div className="grid grid-cols-2 gap-3">
-        <NumberField label="Mini Skip" value={prices.mini} onChange={(v) => setPrice("mini", v)} prefix="£" />
-        <NumberField label="Midi Skip" value={prices.midi} onChange={(v) => setPrice("midi", v)} prefix="£" />
-        <NumberField label="Builders Skip" value={prices.builders} onChange={(v) => setPrice("builders", v)} prefix="£" />
-        <NumberField label="Large Skip" value={prices.large} onChange={(v) => setPrice("large", v)} prefix="£" />
+      <h4 className="text-sm font-medium text-text mb-1">Services Offered</h4>
+      <p className="text-xs text-text-light mb-3">
+        Select the services you provide. You&apos;ll only receive leads matching your services.
+        Leave all unchecked to receive all leads.
+      </p>
+      <div className="grid grid-cols-2 gap-2">
+        {productConfig.services.map((service) => (
+          <label
+            key={service.id}
+            className="flex items-center gap-2 text-sm text-text cursor-pointer"
+          >
+            <input
+              type="checkbox"
+              checked={selected.includes(service.id)}
+              onChange={() => toggleService(service.id)}
+              className="rounded border-border text-primary focus:ring-primary/50"
+            />
+            {service.title}
+          </label>
+        ))}
       </div>
-    </div>
-  );
-}
-
-function VanConfig({
-  config,
-  onChange,
-}: {
-  config: Record<string, unknown>;
-  onChange: (key: string, value: unknown) => void;
-}) {
-  const rates = (config.dailyRates as Record<string, number>) || {};
-  function setRate(size: string, value: number) {
-    onChange("dailyRates", { ...rates, [size]: value });
-  }
-
-  return (
-    <div>
-      <h4 className="text-sm font-medium text-text mb-2">
-        Daily Rates
-      </h4>
-      <div className="grid grid-cols-2 gap-3">
-        <NumberField label="SWB Van" value={rates.swb} onChange={(v) => setRate("swb", v)} prefix="£" />
-        <NumberField label="LWB Van" value={rates.lwb} onChange={(v) => setRate("lwb", v)} prefix="£" />
-        <NumberField label="Luton Van" value={rates.luton} onChange={(v) => setRate("luton", v)} prefix="£" />
-        <NumberField label="Tipper Van" value={rates.tipper} onChange={(v) => setRate("tipper", v)} prefix="£" />
-      </div>
-    </div>
-  );
-}
-
-function LocksmithConfig({
-  config,
-  onChange,
-}: {
-  config: Record<string, unknown>;
-  onChange: (key: string, value: unknown) => void;
-}) {
-  return (
-    <div className="grid grid-cols-2 gap-4">
-      <NumberField
-        label="Standard Callout Fee"
-        value={config.calloutFee as number}
-        onChange={(v) => onChange("calloutFee", v)}
-        placeholder="60"
-        prefix="£"
-      />
-      <NumberField
-        label="Emergency Callout Fee"
-        value={config.emergencyCalloutFee as number}
-        onChange={(v) => onChange("emergencyCalloutFee", v)}
-        placeholder="85"
-        prefix="£"
-      />
     </div>
   );
 }

@@ -263,3 +263,11 @@ export const ALL_REGIONS = Object.values(SITE_CONFIGS).map(({ id, shortName, dom
   shortName,
   domain,
 }));
+
+const HOSTED_SITES: Record<string, { businessSlug: string; product: string }> = {
+  "mpm-transport": { businessSlug: "mpm-transport", product: "minibus-hire" },
+};
+
+export function getHostedSite(subdomain: string) {
+  return HOSTED_SITES[subdomain] || null;
+}

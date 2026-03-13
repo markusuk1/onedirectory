@@ -101,16 +101,16 @@ export default function MetricsDashboard({ slug, product, site }: Props) {
         {cards.map((card) => (
           <div
             key={card.label}
-            className="bg-white border border-border rounded-xl p-5"
+            className={`${card.bg} border border-border rounded-2xl p-5 hover:shadow-md transition-shadow`}
           >
-            <p className="text-sm text-text-light mb-1">{card.label}</p>
+            <p className="text-sm text-text-light mb-2 font-medium">{card.label}</p>
             <p className={`text-3xl font-bold ${card.color}`}>{card.value}</p>
           </div>
         ))}
       </div>
 
       {/* Total engagement */}
-      <div className="bg-white border border-border rounded-xl p-6">
+      <div className="bg-white border border-border rounded-2xl p-6 shadow-sm">
         <h3 className="font-semibold text-text mb-2">Summary</h3>
         <p className="text-text-light text-sm">
           In the last {period} days, your listing received{" "}

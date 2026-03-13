@@ -1,8 +1,18 @@
 import { NextRequest, NextResponse } from "next/server";
+import pool from "@/lib/db";
+import { initTrackingTables } from "@/lib/db-schema";
 
 const VERIFY_TOKEN = process.env.WHATSAPP_WEBHOOK_VERIFY_TOKEN || "hireuk_wh_verify_2026";
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || "";
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || "";
+
+let trackingReady = false;
+async function ensureTracking() {
+  if (!trackingReady) {
+    await initTrackingTables();
+    trackingReady = true;
+  }
+}
 
 // GET: Meta webhook verification (one-time handshake)
 export async function GET(request: NextRequest) {
@@ -20,6 +30,37 @@ export async function GET(request: NextRequest) {
   return NextResponse.json({ error: "Forbidden" }, { status: 403 });
 }
 
+// Extract prices from message text
+function extractPrices(text: string): Array<{ amount: number; currency: string; raw: string }> {
+  const matches = text.match(/£\s*[\d,]+(\.\d{2})?/g) || [];
+  return matches.map((raw) => ({
+    amount: parseFloat(raw.replace(/[£,\s]/g, "")),
+    currency: "GBP",
+    raw: raw.trim(),
+  }));
+}
+
+// Extract vehicle hints from message text
+function extractVehicleHint(text: string): string {
+  const matches = text.match(
+    /(\d{1,2}\s*-?\s*seater|executive\s+coach|minibus|coach|luton|transit|sprinter|tipper|digger|dumper)/gi
+  );
+  if (!matches) return "";
+  const unique = [...new Set(matches.map((m) => m.toLowerCase()))];
+  return unique.slice(0, 3).join(", ");
+}
+
+// Classify operator availability from message text
+function classifyAvailability(text: string, hasPrices: boolean): string {
+  if (/\b(unavailable|can'?t do|cannot|not available|no longer|fully booked|unable)\b/i.test(text)) {
+    return "declined";
+  }
+  if (hasPrices || /\b(available|yes|can do|happy to)\b/i.test(text)) {
+    return "available";
+  }
+  return "unclear";
+}
+
 // POST: Incoming messages and status updates from WhatsApp
 export async function POST(request: NextRequest) {
   try {
@@ -34,10 +75,12 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ status: "ok" });
     }
 
-    // Handle incoming messages
+    // Handle incoming messages (operator responses)
     if (value.messages && value.messages.length > 0) {
+      await ensureTracking();
+
       for (const message of value.messages) {
-        const from = message.from; // sender phone number
+        const from = message.from; // sender phone number (E.164 no +)
         const timestamp = message.timestamp;
         const msgType = message.type;
 
@@ -64,7 +107,65 @@ export async function POST(request: NextRequest) {
 
         console.log(`[WhatsApp Webhook] Message from ${senderName} (${from}): ${messageText}`);
 
-        // Send Telegram alert
+        // Match to most recent outreach for this phone number
+        try {
+          const matchResult = await pool.query(
+            `SELECT ol.id as outreach_id, ol.lead_id, ol.sent_at, ol.product
+             FROM outreach_log ol
+             WHERE ol.operator_phone = $1 AND ol.channel = 'whatsapp'
+             ORDER BY ol.sent_at DESC
+             LIMIT 1`,
+            [from]
+          );
+
+          const match = matchResult.rows[0] || null;
+          const matchConfidence = match ? "best_effort" : "unmatched";
+          const responseTimeMinutes = match
+            ? Math.round((Date.now() - new Date(match.sent_at).getTime()) / 60000)
+            : null;
+
+          // Extract structured data from message
+          const prices = extractPrices(messageText);
+          const vehicleInfo = extractVehicleHint(messageText);
+          const availability = classifyAvailability(messageText, prices.length > 0);
+
+          // Store response
+          await pool.query(
+            `INSERT INTO operator_responses
+             (outreach_id, lead_id, channel, operator_phone, operator_name,
+              raw_message, prices, vehicle_info, availability, match_confidence, response_time_minutes, received_at)
+             VALUES ($1, $2, 'whatsapp', $3, $4, $5, $6, $7, $8, $9, $10, NOW())`,
+            [
+              match?.outreach_id || null,
+              match?.lead_id || null,
+              from,
+              senderName,
+              messageText,
+              JSON.stringify(prices),
+              vehicleInfo || null,
+              availability,
+              matchConfidence,
+              responseTimeMinutes,
+            ]
+          );
+
+          // Update lead status to 'quoted' if a price was provided
+          if (match?.lead_id && prices.length > 0) {
+            await pool.query(
+              `UPDATE leads SET status = 'quoted' WHERE id = $1 AND status IN ('new', 'contacted')`,
+              [match.lead_id]
+            );
+            await pool.query(
+              `INSERT INTO lead_events (lead_id, event_type, new_value, notes)
+               VALUES ($1, 'response_received', 'quoted', $2)`,
+              [match.lead_id, `WhatsApp response from ${senderName} (${from}): ${availability}, ${prices.length} price(s)`]
+            );
+          }
+        } catch (dbErr) {
+          console.error("[WhatsApp Webhook] DB response logging failed:", dbErr);
+        }
+
+        // Send Telegram alert (keep existing behavior)
         await sendTelegramAlert(
           `📱 <b>WhatsApp Message Received</b>\n\n` +
           `👤 From: ${senderName}\n` +
@@ -75,14 +176,38 @@ export async function POST(request: NextRequest) {
       }
     }
 
-    // Handle message status updates (sent/delivered/read)
+    // Handle message status updates (sent/delivered/read/failed)
     if (value.statuses && value.statuses.length > 0) {
+      await ensureTracking();
+
       for (const status of value.statuses) {
         const recipientId = status.recipient_id;
         const statusType = status.status; // sent, delivered, read, failed
         const msgTimestamp = status.timestamp;
+        const waMessageId = status.id; // Meta's message ID — matches outreach_log.message_id
 
-        // Only alert on failures
+        // Update outreach_log with delivery status
+        try {
+          const errorMsg = statusType === "failed"
+            ? `${status.errors?.[0]?.title || "Unknown error"} (${status.errors?.[0]?.code || "unknown"})`
+            : null;
+
+          await pool.query(
+            `UPDATE outreach_log
+             SET wa_status = $1, wa_status_at = $2, error_message = COALESCE($3, error_message)
+             WHERE message_id = $4 AND channel = 'whatsapp'`,
+            [
+              statusType,
+              new Date(parseInt(msgTimestamp) * 1000),
+              errorMsg,
+              waMessageId,
+            ]
+          );
+        } catch (dbErr) {
+          console.error("[WhatsApp Webhook] DB status update failed:", dbErr);
+        }
+
+        // Only alert on failures (keep existing behavior)
         if (statusType === "failed") {
           const errorCode = status.errors?.[0]?.code || "unknown";
           const errorTitle = status.errors?.[0]?.title || "Unknown error";

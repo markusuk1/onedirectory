@@ -13,8 +13,13 @@
     "types": "Children's party service",
     "lat": 51.400484,
     "lng": -3.27117,
-    "found_in_location": "Barry",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "email": "partytime@gamingsquad.co.uk",
+    "emails": [
+      "partytime@gamingsquad.co.uk"
+    ],
+    "description": "Our gaming vans are packed with 4K TVs, HD surround sound and the best in console gaming technology. We deliver multiplayer gaming to your doorstep."
   },
   {
     "name": "J&K TRAVEL LTD",
@@ -30,8 +35,13 @@
     "types": "Coach and minibus hire",
     "lat": 53.416259,
     "lng": -3.027245,
-    "found_in_location": "Wallasey",
-    "found_with_query": "limo wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "limo wales",
+    "email": "hello@jktravelwirral.co.uk",
+    "emails": [
+      "hello@jktravelwirral.co.uk"
+    ],
+    "description": "J&K Travel are a family business committed to providing a friendly, customer-focused transport service throughout the Wirral and North West."
   },
   {
     "name": "American Car Weddings",
@@ -43,12 +53,22 @@
     "rating": 5.0,
     "total_reviews": 103,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 51.578279,
     "lng": -3.314622,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "email": "info@americancarweddings.co.uk",
+    "emails": [
+      "info@americancarweddings.co.uk"
+    ],
+    "description": "Wedding car hire Cardiff, South Wales. Classic American Cars for your wedding. Our Mustang, Cadillac or Chrysler will create lasting memories.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bolers Travel Services Ltd",
@@ -60,11 +80,11 @@
     "rating": 5.0,
     "total_reviews": 59,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20133\u202fpm\"],\"Monday\":[\"9\u202fam\u20133\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–3 pm\"],\"Monday\":[\"9 am–3 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–3 pm\"],\"Tuesday\":[\"9 am–3 pm\"],\"Wednesday\":[\"9 am–3 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.793472,
     "lng": -3.171547,
-    "found_in_location": "Ebbw Vale",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "limo wales"
   },
   {
@@ -82,7 +102,15 @@
     "lat": 51.587331,
     "lng": -2.999776,
     "found_in_location": "Newport",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@cabx.uk",
+    "emails": [
+      "info@cabx.uk"
+    ],
+    "description": "Cab X Taxis Newport Local Reliable & Professional Taxi firm Servicing South Wales & Newport area 24/7 365 days",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "J&L Elite Travel Ltd",
@@ -99,7 +127,16 @@
     "lat": 53.032318,
     "lng": -2.936399,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "enquiries@jandlelitetravel.co.uk",
+    "emails": [
+      "enquiries@jandlelitetravel.co.uk"
+    ],
+    "description": "Call 07799 768872 J&L Elite Travel offers a luxurious and personalised premium car service in Wrexham. We specialise in seamless VIP transportation tailored for both business and leisure to airports, city breaks and special occasions.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Cardiff Diamond Transport",
@@ -116,7 +153,16 @@
     "lat": 51.504357,
     "lng": -3.202092,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@cardiffdiamondtransport.com",
+    "emails": [
+      "info@cardiffdiamondtransport.com",
+      "sample@mail.com"
+    ],
+    "description": "Book Your Ride Address Pickup We always pick up our clients on time, 24/7 availability. Airport Pickup GetCab specialized in 24 hours airport transfer service. Long Distance We offer you a long distance taxi service to anywhere. Transport Hire Professional transport hire services tailored to...",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Ebony & Ivory Wedding Cars Ltd",
@@ -128,15 +174,23 @@
     "rating": 5.0,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 51.436989,
     "lng": -3.187563,
-    "found_in_location": "Penarth",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "email": "info@ebonyandivoryweddingcars.co.uk",
+    "emails": [
+      "info@ebonyandivoryweddingcars.co.uk"
+    ],
+    "description": "The perfect day requires the perfect travel vehicle. So arrive in style with one of our beautiful wedding cars.We are dedicated to providing a professional, friendly and unique personal service. Ensuring you begin married life in perfect harmony.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
-    "name": "Morgan\u2019s Minibus and airport shuttle service",
+    "name": "Morgan’s Minibus and airport shuttle service",
     "address": "Load of Hay Rd, Newbridge, Newport, NP11 3AQ, GB",
     "phone": "07500 375935",
     "international_phone": "07500 375935",
@@ -162,12 +216,21 @@
     "rating": 5.0,
     "total_reviews": 33,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 54.648654,
     "lng": -5.623552,
     "found_in_location": "Bangor",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "angelsweddingcars@gmail.com",
+    "emails": [
+      "angelsweddingcars@gmail.com"
+    ],
+    "description": "Angels Wedding Cars is an award-winning, family-run wedding car service providing elegant, luxury transport for brides and grooms across Northern Ireland. With over 8 years of experience in the wedding industry, owner Andrea offers a truly personal service, including the reassurance of a...",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Mora Chauffeur Prestige",
@@ -179,12 +242,22 @@
     "rating": 5.0,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"7\u202fam\u20139\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.606685,
     "lng": -3.441427,
-    "found_in_location": "Tonypandy",
-    "found_with_query": "limo wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales",
+    "email": "info@mcpcars.com",
+    "emails": [
+      "info@mcpcars.com",
+      "bookings@mcpcars.com"
+    ],
+    "description": "Embark on a journey of unparalleled luxury and absolute reliability with our Premium Airport Transport Services, connecting Cardiff to every UK airport with seamless elegance and supreme comfort.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Tabby's Travel",
@@ -200,7 +273,7 @@
     "types": "Transportation service",
     "lat": 51.796283,
     "lng": -3.21907,
-    "found_in_location": "Ebbw Vale",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "limo wales"
   },
   {
@@ -218,7 +291,15 @@
     "lat": 53.045382,
     "lng": -2.992294,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "contact.mhtravel@gmail.com",
+    "emails": [
+      "contact.mhtravel@gmail.com"
+    ],
+    "description": "MH Travel North Wales specialises in coach hire, day trips and tours, as well as airport transfers and corporate hospitality.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Happy Days Cars",
@@ -230,12 +311,17 @@
     "rating": 5.0,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.578198,
     "lng": -3.234968,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "description": "Happy Days Car has been proudly offering exceptional wedding car hire services in Cardiff, Caerphilly, South Wales, and beyond since 2002.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Retro Hire Wales",
@@ -252,10 +338,18 @@
     "lat": 51.711917,
     "lng": -4.035118,
     "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "hire@retrohirewales.co.uk",
+    "emails": [
+      "hire@retrohirewales.co.uk"
+    ],
+    "description": "ALL OUR VEHICLES ARE CHAUFFEUR DRIVEN, WE DO NOT OFFER SELF DRIVE.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
-    "name": "Chris\u2019s Luxury Travel",
+    "name": "Chris’s Luxury Travel",
     "address": "3 Haig Rd, Wrexham, LL13 7BU, GB",
     "phone": "0800 118 2452",
     "international_phone": "0800 118 2452",
@@ -281,12 +375,20 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 51.580282,
     "lng": -3.218152,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "email": "vwweddingswales@hotmail.com",
+    "emails": [
+      "vwweddingswales@hotmail.com"
+    ],
+    "description": "VW Weddings Wales offers vintage VW wedding car hire for customers across Wales. Get in touch with us on 029 2086 1202 today for more information.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Thomas Coaches Ltd",
@@ -298,7 +400,7 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.607718,
     "lng": -3.541574,
@@ -320,7 +422,8 @@
     "lat": 51.744958,
     "lng": -3.403386,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "We're ensuring your connection is secure and authentic. This process typically takes just a few moments."
   },
   {
     "name": "Meirion Williams & Son",
@@ -336,7 +439,7 @@
     "types": "Trucking company",
     "lat": 51.833304,
     "lng": -4.029845,
-    "found_in_location": "Ammanford",
+    "found_in_location": "Swansea",
     "found_with_query": "limo wales"
   },
   {
@@ -349,12 +452,19 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.661926,
     "lng": -3.012806,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "limo wales"
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales",
+    "description": "We specialise in providing Classic Rolls Royce and Daimler Limousine for your Wedding Day in Newport, Cardiff, Swansea in South Wales. Tel: 077 155 83822.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Arrive In Style",
@@ -388,7 +498,17 @@
     "lat": 51.50052,
     "lng": -3.241724,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@abcexecutivetravel.co.uk",
+    "emails": [
+      "info@abcexecutivetravel.co.uk"
+    ],
+    "description": "Chauffeur Service – Cardiff, South Wales ABC Executive Travel offer an exclusive luxury chauffeur service. We have locations in Barry and Cardiff and we take our clients to destinations across the UK including Swansea,South Wales, Bristol, Bath, Cheltenham, Southampton, London,",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Bay Executive Wedding and Airport Travel",
@@ -400,7 +520,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"8:30 am–5:30 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Wedding service",
     "lat": 51.618704,
     "lng": -3.951086,
@@ -417,12 +537,21 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.48826,
     "lng": -3.486009,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "bookings@executivecarswales.co.uk",
+    "emails": [
+      "bookings@executivecarswales.co.uk"
+    ],
+    "description": "Executive Cars Wales is a luxury chauffeur service in South Wales. Book VIP transport for executives.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "M J N Travel",
@@ -434,7 +563,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.654075,
     "lng": -3.983809,
@@ -451,7 +580,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Monday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Saturday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Sunday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Thursday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Tuesday\":[\"12:01\u202fam\u201311:59\u202fpm\"],\"Wednesday\":[\"12:01\u202fam\u201311:59\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12:01 am–11:59 pm\"],\"Monday\":[\"12:01 am–11:59 pm\"],\"Saturday\":[\"12:01 am–11:59 pm\"],\"Sunday\":[\"12:01 am–11:59 pm\"],\"Thursday\":[\"12:01 am–11:59 pm\"],\"Tuesday\":[\"12:01 am–11:59 pm\"],\"Wednesday\":[\"12:01 am–11:59 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.527508,
     "lng": -3.59533,
@@ -468,12 +597,21 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Chauffeur service",
     "lat": 51.527334,
     "lng": -3.394736,
-    "found_in_location": "Pontyclun",
-    "found_with_query": "limo wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales",
+    "email": "evansmarklewis@gmail.com",
+    "emails": [
+      "evansmarklewis@gmail.com"
+    ],
+    "description": "Please click on pictures for further information on pricing.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "DrivenByQ Chauffeur for Business Travel",
@@ -485,12 +623,17 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Transportation service",
     "lat": 53.049667,
     "lng": -3.007976,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "DrivenByQ deliver discreet business travel in Chester, Deeside and Wrexham with outstanding customer service. Est 2005.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Castell Coaches",
@@ -506,7 +649,7 @@
     "types": "Limousine service",
     "lat": 51.577396,
     "lng": -3.233376,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Cardiff",
     "found_with_query": "limo wales"
   },
   {
@@ -519,7 +662,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 51.530721,
     "lng": -3.677536,
@@ -541,7 +684,19 @@
     "lat": 51.484313,
     "lng": -3.191475,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@pchauffeurscardiff.co.uk",
+    "emails": [
+      "info@pchauffeurscardiff.co.uk",
+      "info@luxpcc.com",
+      "filler@godaddy.com"
+    ],
+    "description": "We provide Luxury Chauffeur Services includes Airport transfers, Corporate transfers and VIP Travel. Executive Travel Cardiff and Luxury Chauffeur Service.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "iDoo Wedding Cars",
@@ -553,12 +708,22 @@
     "rating": 4.9,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–8 pm\"],\"Monday\":[\"9:30 am–8 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"10:30 am–4 pm\"],\"Thursday\":[\"9:30 am–8 pm\"],\"Tuesday\":[\"9:30 am–8 pm\"],\"Wednesday\":[\"9:30 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 51.500148,
     "lng": -3.237112,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "idooweddingcars@gmail.com",
+    "emails": [
+      "idooweddingcars@gmail.com"
+    ],
+    "description": "Cardiff's Award Winning Wedding Car Hire, 100's of 5* Reviews, 9 Beautiful Cars, Great Prices. All South Wales covered inc Newport, Bridgend, Barry, The Valleys and Caerphilly borough.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Swansea Limos",
@@ -570,12 +735,21 @@
     "rating": 4.9,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Transportation service",
     "lat": 51.654005,
     "lng": -3.908029,
     "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Limo hire by Swansea Limousine Hire. We provide Limos, Wedding Cars, Minibus, Party Bus. Call:07977 264 001 | Welsh Family run business Est 1997",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gwyn Jones & Son Ltd",
@@ -591,8 +765,16 @@
     "types": "Bus company",
     "lat": 51.545106,
     "lng": -3.568675,
-    "found_in_location": "Bryncethin",
-    "found_with_query": "limo wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales",
+    "email": "admin@gwynjonescoaches.wales",
+    "emails": [
+      "admin@gwynjonescoaches.wales"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Big Day Wedding Cars",
@@ -604,12 +786,21 @@
     "rating": 4.9,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 51.656909,
     "lng": -3.191461,
-    "found_in_location": "Blackwood",
-    "found_with_query": "limo wales"
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales",
+    "email": "bigdayweddingcars@talktalk.net",
+    "emails": [
+      "bigdayweddingcars@talktalk.net"
+    ],
+    "description": "Arrive at your wedding in luxury with Big Day Wedding Cars. We have a range of classic vehicles to add that extra special something to your big day.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Truck & Bus Services",
@@ -621,7 +812,7 @@
     "rating": 4.9,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Truck repair shop",
     "lat": 53.030738,
     "lng": -2.936944,
@@ -642,7 +833,7 @@
     "types": "Limousine service",
     "lat": 51.802709,
     "lng": -4.158193,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "limo wales"
   },
   {
@@ -655,12 +846,17 @@
     "rating": 4.8,
     "total_reviews": 204,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.582344,
     "lng": -3.48022,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "lakesidevenue@gmail.com",
+    "emails": [
+      "lakesidevenue@gmail.com"
+    ],
+    "description": "Wedding venue, corporate functions and events set alongside a beautiful lake and rolling countryside."
   },
   {
     "name": "Wrexham Chauffeurs Ltd",
@@ -677,7 +873,18 @@
     "lat": 53.032744,
     "lng": -2.988613,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "admin@wrexhamchauffeurs.co.uk",
+    "emails": [
+      "admin@wrexhamchauffeurs.co.uk",
+      "john@doe.com"
+    ],
+    "description": "Executive Chauffeur in Wrexham, covering North Wales, Cheshire and the UK. Bespoke travel in luxury, airports, business and personal travel.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "LCC",
@@ -711,7 +918,15 @@
     "lat": 51.469769,
     "lng": -3.164922,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "epicmoments.uk@gmail.com",
+    "emails": [
+      "epicmoments.uk@gmail.com"
+    ],
+    "description": "Book professional hen and stag party entertainment across the UK. Strippers, buff butlers, dance parties and more delivered to your venue or home.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Dubs Travels",
@@ -728,7 +943,17 @@
     "lat": 51.52251,
     "lng": -3.099373,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@dubstravels.co.uk",
+    "emails": [
+      "info@dubstravels.co.uk"
+    ],
+    "description": "Discover Cardiff in comfort with Dubs Travels – your premier choice for mini-bus hire and chauffeur services. Explore the Welsh capital hassle-free, whether it's for a group outing or corporate event. Book now for a seamless travel experience.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Straffords Coaches Ltd",
@@ -740,12 +965,20 @@
     "rating": 4.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.061078,
     "lng": -3.078002,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@straffordscoaches.co.uk",
+    "emails": [
+      "info@straffordscoaches.co.uk"
+    ],
+    "description": "+44 (0)1978 756106 | Luxury Coach and Mini-bus Hire Serving Wrexham, Chester, Liverpool, Manchester and Nationwide. Corporate Luxury Travel, Tours & Holidays, Day Trips. Private Hire, School & College Contract hire. All vehicles installed with modern amenities.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Prices Wedding Cars",
@@ -757,12 +990,21 @@
     "rating": 4.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"10:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10:30\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10:30 am–4:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10:30 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30 am–3 pm\"],\"Tuesday\":[\"10:30 am–7 pm\"],\"Wednesday\":[\"10:30 am–3 pm\"]}",
     "types": "Limousine service",
     "lat": 51.552211,
     "lng": -3.390849,
-    "found_in_location": "Pontyclun",
-    "found_with_query": "limo wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales",
+    "email": "info@pricesweddingcars.co.uk",
+    "emails": [
+      "info@pricesweddingcars.co.uk"
+    ],
+    "description": "If you’re looking for something exceptional to complete your wedding day plans, then Prices’ Wedding car hire will provide the perfect showpiece. Our wedding car hire showroom is at the epicentre of some of the finest wedding venues in South Wales.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Valentines Travel",
@@ -791,12 +1033,17 @@
     "rating": 4.7,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"7\u202fam\u20139\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Children's party service",
     "lat": 51.520031,
     "lng": -3.089646,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@gamestationbus.co.uk",
+    "emails": [
+      "info@gamestationbus.co.uk"
+    ],
+    "description": "# SOUTH WALES & SURROUNDING AREAS ULTIMATE GAMING BUSTO YOUR DOOR! ENQUIRE CALL NOW Level Up Your Party on Wheels Bring the ultimate gaming experience straight to your doorstep. Our fully-equipped gaming bus is perfect for birthdays, events, and epic battles on the go. BOOK NOW Level Up Your..."
   },
   {
     "name": "Voel Coaches Ltd",
@@ -808,11 +1055,11 @@
     "rating": 4.6,
     "total_reviews": 356,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Tours",
     "lat": 53.305646,
     "lng": -3.420844,
-    "found_in_location": "Rhyl",
+    "found_in_location": "Llandudno",
     "found_with_query": "limo wales"
   },
   {
@@ -825,12 +1072,21 @@
     "rating": 4.6,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 51.586795,
     "lng": -2.738864,
-    "found_in_location": "Caldicot",
-    "found_with_query": "limo wales"
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales",
+    "description": "The Limo People provide limousines, wedding cars and party buses for hire in Cardiff, Newport and surrounding towns. Professional service and competitive prices.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bryngarw House",
@@ -847,7 +1103,12 @@
     "lat": 51.558261,
     "lng": -3.581462,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "events@bryngarwhouse.com",
+    "emails": [
+      "events@bryngarwhouse.com"
+    ],
+    "description": "Whether you’re organising a beautiful wedding, planning a private party to remember or arranging an important business event, Bryngarw House has it all."
   },
   {
     "name": "Cathays Community Centre",
@@ -859,12 +1120,22 @@
     "rating": 4.5,
     "total_reviews": 260,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 51.491697,
     "lng": -3.180694,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "damian.bridgeman@cathays.org.uk",
+    "emails": [
+      "damian.bridgeman@cathays.org.uk",
+      "ieuan.bater@cathays.org.uk",
+      "isobel.sweet@cathays.org.uk",
+      "khalid.awad-khan@cathays.org.uk",
+      "rhiannon.mcnamara@cathays.org.uk",
+      "simon.murray@cathays.org.uk"
+    ],
+    "description": "Cathays & Central Youth & Community Project aims to support the community in Cathays and central Cardiff. It manages Cathays Community Centre that has an independent Café, Recording Studio, Bakery together with its own meeting room, two large halls, music rehearsal rooms, and social space. It..."
   },
   {
     "name": "Pat's Coaches",
@@ -881,7 +1152,12 @@
     "lat": 53.056135,
     "lng": -3.036059,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "enquiries@patscoaches.co.uk",
+    "emails": [
+      "enquiries@patscoaches.co.uk"
+    ],
+    "description": "From Private Hire to luxury travel, here at Pat's Coaches we can cater for all your needs."
   },
   {
     "name": "Gibbons Coaches",
@@ -897,8 +1173,13 @@
     "types": "Bus company",
     "lat": 51.703734,
     "lng": -3.311334,
-    "found_in_location": "Treharris",
-    "found_with_query": "limo wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "limo wales",
+    "email": "info@gibbonscoaches.com",
+    "emails": [
+      "info@gibbonscoaches.com"
+    ],
+    "description": "Gibbons Coaches is a well-established family run business based in South Wales specialising in Coach Holidays, Coach Hire and Day Trips."
   },
   {
     "name": "Day's Rental | Bridgend",
@@ -910,12 +1191,17 @@
     "rating": 4.4,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.502802,
     "lng": -3.539431,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "hire@daysrental.co.uk",
+    "emails": [
+      "hire@daysrental.co.uk"
+    ],
+    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
   },
   {
     "name": "Cheringham Wedding Cars Cardiff",
@@ -932,7 +1218,21 @@
     "lat": 51.550133,
     "lng": -2.900084,
     "found_in_location": "Newport",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@cheringhamcars.co.uk",
+    "emails": [
+      "info@cheringhamcars.co.uk",
+      "stretched.out@virgin.net"
+    ],
+    "description": "Established and family run Wedding car company, supplying wedding cars for hire throughout South Wales, Cardiff, Newport & Bristol.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gower Mini Travel",
@@ -944,12 +1244,17 @@
     "rating": 4.4,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.65672,
     "lng": -4.01932,
     "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@shepherdpublishing.co.uk",
+    "emails": [
+      "info@shepherdpublishing.co.uk"
+    ],
+    "description": "Gower Mini Travel provide professional and reliable Minibus and Mini Coach hire. We are specialists in home to school transport, corporate travel, private hire and wedding transport. We only use experienced drivers which are DBS approved by the City and County of Swansea. Gower Mini Travel we..."
   },
   {
     "name": "Coastal Mini Coaches",
@@ -961,11 +1266,11 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.686935,
     "lng": -4.26951,
-    "found_in_location": "Burry Port",
+    "found_in_location": "Swansea",
     "found_with_query": "limo wales"
   },
   {
@@ -978,12 +1283,17 @@
     "rating": 4.3,
     "total_reviews": 1104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–4 pm\"],\"Monday\":[\"9:30 am–4 pm\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"9:30 am–4 pm\"],\"Thursday\":[\"9:30 am–4 pm\"],\"Tuesday\":[\"9:30 am–4 pm\"],\"Wednesday\":[\"9:30 am–4 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.482137,
     "lng": -3.594524,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "weddings@cobbleskitchen.co.uk",
+    "emails": [
+      "weddings@cobbleskitchen.co.uk"
+    ],
+    "description": "Discover The Cobbles Collective in Vale of Glamorgan, South Wales—a grade II listed barn wedding venue brimming with charm. Enjoy timeless elegance with high ceilings, oak beams, and stunning surroundings perfect for your photographs. Book your tour today!"
   },
   {
     "name": "Creigiau Travel Ltd",
@@ -995,12 +1305,20 @@
     "rating": 4.3,
     "total_reviews": 70,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.524857,
     "lng": -3.322419,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@creigiautravel.co.uk",
+    "emails": [
+      "info@creigiautravel.co.uk"
+    ],
+    "description": "Are you looking for transport hire services? Contact us. We are based in Creigiau, Cardiff.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Charter Vehicle Hire",
@@ -1012,12 +1330,21 @@
     "rating": 4.3,
     "total_reviews": 43,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.503739,
     "lng": -3.574422,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@cvhl.co.uk",
+    "emails": [
+      "info@cvhl.co.uk",
+      "charter.bridgend@cvhl.co.uk",
+      "charter.cardiff@cvhl.co.uk",
+      "charter.pontypridd@cvhl.co.uk",
+      "name@emaildomain.com"
+    ],
+    "description": "Covering Cardiff, Bridgend & Pontypridd for affordable car and van hire. All our reliable vehicles can be hired for a day, week, month or year. Contact Charter Vehicle Hire or book online today to secure your perfect vehicle hire."
   },
   {
     "name": "Cresta Coaches",
@@ -1029,12 +1356,23 @@
     "rating": 4.3,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20139\u202fpm\"],\"Monday\":[\"6\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20133\u202fpm\"],\"Thursday\":[\"6\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–9 pm\"],\"Monday\":[\"6 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–3 pm\"],\"Thursday\":[\"6 am–9 pm\"],\"Tuesday\":[\"6 am–9 pm\"],\"Wednesday\":[\"6 am–9 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.520434,
     "lng": -3.566902,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "admin@crestacoaches.co.uk",
+    "emails": [
+      "admin@crestacoaches.co.uk",
+      "bookings@crestacoaches.co.uk",
+      "ian.williams@crestacoaches.co.uk"
+    ],
+    "description": "With over 30 years of experience in the travel industry, we can provide transport solutions and days out for people from all walks of life, including children with special needs.",
+    "services": [
+      "Airport Transfer",
+      "Supercar Hire"
+    ]
   },
   {
     "name": "Day's Rental | Newport",
@@ -1046,12 +1384,17 @@
     "rating": 4.3,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Car rental company",
     "lat": 51.578508,
     "lng": -2.983794,
     "found_in_location": "Newport",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "hire@daysrental.co.uk",
+    "emails": [
+      "hire@daysrental.co.uk"
+    ],
+    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
   },
   {
     "name": "1st Choice Ltd",
@@ -1067,8 +1410,16 @@
     "types": "Bus company",
     "lat": 51.684341,
     "lng": -4.180874,
-    "found_in_location": "Llanelli",
-    "found_with_query": "limo wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "limo wales",
+    "email": "info@1stchoiceltd.co.uk",
+    "emails": [
+      "info@1stchoiceltd.co.uk"
+    ],
+    "description": "To book standard and executive transportation for local and nationwide locations, call our coach hire company in Llanelli today.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "VMS Vehicle Hire Bridgend",
@@ -1080,12 +1431,17 @@
     "rating": 4.3,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 51.504632,
     "lng": -3.540344,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "elyssa.fagan@vmsglobal.co.uk",
+    "emails": [
+      "elyssa.fagan@vmsglobal.co.uk"
+    ],
+    "description": "Car, Van, Electric, HGV & Refrigerated Vehicle Hire. Vehicle Rental Specialists based all across the UK. Modern & Safe Fleet at Competitive Rates."
   },
   {
     "name": "D J Thomas Coaches Ltd",
@@ -1097,7 +1453,7 @@
     "rating": 4.2,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.664042,
     "lng": -3.803301,
@@ -1114,12 +1470,21 @@
     "rating": 4.2,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.097891,
     "lng": -3.004701,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@unicorntravelwrexham.co.uk",
+    "emails": [
+      "info@unicorntravelwrexham.co.uk"
+    ],
+    "description": "Rely on our coach hire company when you need first-class travel services. Call us now, in Wrexham, on 01978 856048 to receive more information.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Veezu",
@@ -1136,7 +1501,12 @@
     "lat": 51.474255,
     "lng": -3.138546,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Need to book a taxi in Portsmouth? Book a smarter local ride with Veezu and travel with the biggest private hire cab service in Portsmouth. Call 02392 654 321.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Price Coaches",
@@ -1148,12 +1518,13 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.054403,
     "lng": -3.031186,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Price Coaches Coach Hire. Wrexham, Chester and North Wales - Call 01978 756834"
   },
   {
     "name": "Cardiff Cruises",
@@ -1165,12 +1536,20 @@
     "rating": 4.0,
     "total_reviews": 168,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30\u202fam\u20135:30\u202fpm\",\"7:30\u201310:30\u202fpm\"],\"Monday\":[\"10:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"10:30\u202fam\u20135:30\u202fpm\",\"7:30\u201310:30\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"10:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"10:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"10:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10:30 am–5:30 pm\",\"7:30–10:30 pm\"],\"Monday\":[\"10:30 am–5:30 pm\"],\"Saturday\":[\"10:30 am–5:30 pm\",\"7:30–10:30 pm\"],\"Sunday\":[\"10:30 am–6:30 pm\"],\"Thursday\":[\"10:30 am–5:30 pm\"],\"Tuesday\":[\"10:30 am–5:30 pm\"],\"Wednesday\":[\"10:30 am–5:30 pm\"]}",
     "types": "Boat tour agency",
     "lat": 51.463043,
     "lng": -3.164237,
     "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@cardiffcruises.co.uk",
+    "emails": [
+      "info@cardiffcruises.co.uk"
+    ],
+    "description": "Explore Cardiff Bay and beyond with Cardiff Cruises. Activities for all occasions from Hen Parties to Birthdays to just a great day out!",
+    "services": [
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Veezu Newport",
@@ -1187,7 +1566,12 @@
     "lat": 51.589575,
     "lng": -2.998688,
     "found_in_location": "Newport",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Need to book a taxi in Portsmouth? Book a smarter local ride with Veezu and travel with the biggest private hire cab service in Portsmouth. Call 02392 654 321.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Elite Travel",
@@ -1203,7 +1587,7 @@
     "types": "Travel Agent",
     "lat": 51.592273,
     "lng": -3.203217,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Cardiff",
     "found_with_query": "limo wales"
   },
   {
@@ -1216,12 +1600,16 @@
     "rating": 3.4,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.643583,
     "lng": -4.017962,
     "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Cymru Coaches in Swansea have luxury coaches for hire in Glamorgan and across Wales. Cymru Coaches provide private coach hire across the UK.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Peyton Travel",
@@ -1238,7 +1626,17 @@
     "lat": 51.517427,
     "lng": -3.561199,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "bookings.peytontravel@aol.com",
+    "emails": [
+      "bookings.peytontravel@aol.com",
+      "peytontravel@aol.com"
+    ],
+    "description": "Call us on 01656 661221 or email uspeytontravel@aol.com",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Pink Limos",
@@ -1250,12 +1648,22 @@
     "rating": 3.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 51.578027,
     "lng": -3.322246,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "limo wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales",
+    "description": "UK's largest selection of pink limos for hire. Pink Hummers, stretch limos & party buses for hen parties, proms & birthdays. Nationwide coverage. Free quotes.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Keepings Coaches",
@@ -1267,12 +1675,17 @@
     "rating": 2.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20132:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20132:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20132:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20132:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20132:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–2:30 pm\"],\"Monday\":[\"9:30 am–2:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–2:30 pm\"],\"Tuesday\":[\"9:30 am–2:30 pm\"],\"Wednesday\":[\"9:30 am–2:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 51.700151,
     "lng": -3.421818,
-    "found_in_location": "Aberdare",
-    "found_with_query": "limo wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "limo wales",
+    "email": "enquiries@keepingscoaches.co.uk",
+    "emails": [
+      "enquiries@keepingscoaches.co.uk"
+    ],
+    "description": "Facebook Linkedin enquiries@keepingscoaches.co.uk 01443 478409 Welcome to Keepings Coaches Providing quality coach and minibus travel in South Wales GET A"
   },
   {
     "name": "Caseyscars",
@@ -1284,12 +1697,23 @@
     "rating": 2.7,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 51.567004,
     "lng": -2.968294,
     "found_in_location": "Newport",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "allengus@aol.co.uk",
+    "emails": [
+      "allengus@aol.co.uk"
+    ],
+    "description": "wedding car hire cardiff ,limousine hire newport,limo hire cardiff,cardiff wedding cars",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Buddys Mini Bus Hire",
@@ -1305,8 +1729,12 @@
     "types": "Coach and minibus hire",
     "lat": 51.605849,
     "lng": -3.356166,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "limo wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "limo wales",
+    "email": "webmaster@buddyshire.co.uk",
+    "emails": [
+      "webmaster@buddyshire.co.uk"
+    ]
   },
   {
     "name": "PTS Travel",
@@ -1322,7 +1750,7 @@
     "types": "Coach and minibus hire",
     "lat": 51.78416,
     "lng": -4.165941,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "limo wales"
   },
   {
@@ -1340,7 +1768,16 @@
     "lat": 51.621934,
     "lng": -3.942881,
     "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "description": "Limo hire by Swansea Limousine Hire. We provide Limos, Wedding Cars, Minibus, Party Bus. Call:07977 264 001 | Welsh Family run business Est 1997",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Unicorn Travel Wrexham Limited",
@@ -1352,12 +1789,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.076869,
     "lng": -3.050335,
     "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "info@unicorntravelwrexham.co.uk",
+    "emails": [
+      "info@unicorntravelwrexham.co.uk"
+    ],
+    "description": "Rely on our coach hire company when you need first-class travel services. Call us now, in Wrexham, on 01978 856048 to receive more information.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wrexham Minibus Co",
@@ -1386,7 +1832,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.03496,
     "lng": -2.989399,
@@ -1454,12 +1900,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.586185,
     "lng": -2.737894,
-    "found_in_location": "Caldicot",
-    "found_with_query": "limo wales"
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales",
+    "email": "andrew_vernon@hotmail.com",
+    "emails": [
+      "andrew_vernon@hotmail.com"
+    ],
+    "description": "Cardiff limo hire, Bristol limo hire, limo hire Cardiff and limo hire Bristol is based on the west side of the Severn bridge in a small town called Caldicot near Chepstow ideally situated near the M4 and M5 motorway interchange, we pride ourselves on delivering quality chauffeur driven...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Island Limousine Ltd",
@@ -1475,7 +1932,7 @@
     "types": "Limousine service",
     "lat": 50.644999,
     "lng": -1.181353,
-    "found_in_location": "Sandown",
+    "found_in_location": "Newport",
     "found_with_query": "limo wales"
   },
   {
@@ -1492,7 +1949,7 @@
     "types": "Limousine service",
     "lat": 51.589836,
     "lng": -3.189725,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Cardiff",
     "found_with_query": "limo wales"
   },
   {
@@ -1539,12 +1996,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 51.545621,
     "lng": -3.566694,
     "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
+    "found_with_query": "limo wales",
+    "email": "happilyeverafterweddingcars@email.com",
+    "emails": [
+      "happilyeverafterweddingcars@email.com"
+    ],
+    "description": "Each wedding is unique and we always welcome your specific requirements so get in touch and let us provide the memories!",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Fairytale Carriages wedding cars",
@@ -1556,11 +2022,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Wedding service",
     "lat": 51.655354,
     "lng": -3.336824,
-    "found_in_location": "Mountain Ash",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "limo wales"
   }
 ]

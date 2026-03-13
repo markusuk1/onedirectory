@@ -4445,6 +4445,34 @@
     "found_with_query": "minibus hire Tynemouth"
   },
   {
+    "name": "MPM Transport",
+    "address": "Newcastle upon Tyne, UK",
+    "phone": "07957 764624",
+    "international_phone": "+447957764624",
+    "website": "https://mpm-transport.hirenortheast.co.uk",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "types": "establishment, point_of_interest",
+    "lat": 54.9783,
+    "lng": -1.6178,
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "minibus hire newcastle",
+    "email": "mark@hirenortheast.co.uk",
+    "description": "MPM Transport provides reliable minibus hire services across Newcastle, Sunderland, and the wider North East. Whether you need transport for airport transfers, nights out, corporate events, weddings, or group trips, we offer competitive rates with professional drivers.",
+    "services": [
+      "Airport Transfers",
+      "Nights Out",
+      "Corporate Events",
+      "Weddings",
+      "Group Transport",
+      "Sports Events"
+    ],
+    "vehicles": [
+      "16 Seater Minibus"
+    ]
+  },
+  {
     "name": "Grab A Cab Newcastle",
     "address": "Grab A Cab Newcastle, Fowberry Road, Newcastle-Upon-Tyne, NE15 6XP, UK",
     "phone": "0191 222 1234",

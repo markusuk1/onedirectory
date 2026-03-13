@@ -9,12 +9,21 @@
     "rating": 5.0,
     "total_reviews": 325,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Photography service",
     "lat": 51.670594,
     "lng": -4.096846,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@ultrabooth.co.uk",
+    "emails": [
+      "info@ultrabooth.co.uk",
+      "hello@ultrabooth.co.uk"
+    ],
+    "description": "Over the last 12 years, we've made amazing relationships with teams at the following venues. We are very proud to be on their highly recommended supplier's lists. Celtic Manor - Newport Voco St Davids Hotel - Cardiff Fonmon Castle - Cardiff The Exchange Hotel - Cardiff The Mercure Holland House...",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Music HQ | Premier Live Wedding & Event Music",
@@ -26,12 +35,13 @@
     "rating": 5.0,
     "total_reviews": 312,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Entertainment agency",
     "lat": 51.697698,
     "lng": -4.120661,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "description": "Our Premier Wedding Bands in South Wales will help you create an unforgettable party. Local wedding musicians with 5* reviews."
   },
   {
     "name": "Silent Disco Party UK",
@@ -43,12 +53,13 @@
     "rating": 5.0,
     "total_reviews": 258,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Audio Visual Equipment Hire Service",
     "lat": 51.643731,
     "lng": -3.056955,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "description": "Silent disco hire from £100 with 3-channel LED headphones. 480+ 5-star reviews, free delivery, plug & play setup & Spotify playlists"
   },
   {
     "name": "Cardiff Hot Tub Hire",
@@ -65,7 +76,15 @@
     "lat": 51.51328,
     "lng": -3.202266,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "contact@cardiffhottubhire.co.uk",
+    "emails": [
+      "contact@cardiffhottubhire.co.uk"
+    ],
+    "description": "Cardiff Hot Tub Hire. The No.1 Hot Tub hire company in Cardiff & South Wales. Hot tub rental for any occasion. Trusted with all 5* reviews. Free delivery in Cardiff",
+    "services": [
+      "Hot Tub Hire"
+    ]
   },
   {
     "name": "Hot tub4hire",
@@ -77,12 +96,20 @@
     "rating": 5.0,
     "total_reviews": 173,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Hot Tub Shop",
     "lat": 51.574696,
     "lng": -3.218351,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "richard@hottub4hire.co.uk",
+    "emails": [
+      "richard@hottub4hire.co.uk"
+    ],
+    "description": "Hot Tub 4 Hire in South Wales offers a professional and individual approach to every Hot Tub rental. We understand every customer has their own personal requirements and we try or best to fulfil them.",
+    "services": [
+      "Hot Tub Hire"
+    ]
   },
   {
     "name": "Bounce Higher Wrexham",
@@ -99,7 +126,20 @@
     "lat": 53.036506,
     "lng": -2.963972,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "booking@bouncehigherwrexham.co.uk",
+    "emails": [
+      "booking@bouncehigherwrexham.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Garden Games",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "A1 Jump & Bounce Ltd",
@@ -111,12 +151,31 @@
     "rating": 5.0,
     "total_reviews": 137,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.741387,
     "lng": -3.182634,
-    "found_in_location": "Ebbw Vale",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "bouncy wales",
+    "email": "info@a1jumpandbounce.co.uk",
+    "emails": [
+      "info@a1jumpandbounce.co.uk",
+      "a1jumpandbounce@aol.co.uk"
+    ],
+    "description": "Bouncy castles, party and event hire",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Airquee Inflatables",
@@ -128,12 +187,21 @@
     "rating": 5.0,
     "total_reviews": 120,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Manufacturer",
     "lat": 51.641317,
     "lng": -3.022472,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "description": "Discover Airquee’s unbeatable range of inflatables for sale. Bouncy castles, inflatable parks, obstacle courses, pool inflatables and more. Fast global delivery. Contact us today!",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "R&B Inflatables",
@@ -145,12 +213,27 @@
     "rating": 5.0,
     "total_reviews": 90,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.523537,
     "lng": -3.712948,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@randbinflatables.com",
+    "emails": [
+      "info@randbinflatables.com"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Party Pioneers",
@@ -162,12 +245,17 @@
     "rating": 5.0,
     "total_reviews": 80,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u201310\u202fpm\"],\"Monday\":[\"11\u202fam\u201310\u202fpm\"],\"Saturday\":[\"11\u202fam\u201310\u202fpm\"],\"Sunday\":[\"11\u202fam\u201310\u202fpm\"],\"Thursday\":[\"11\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–10 pm\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"11 am–10 pm\"],\"Sunday\":[\"11 am–10 pm\"],\"Thursday\":[\"11 am–10 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
     "types": "DJ",
     "lat": 51.598677,
     "lng": -2.980558,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "james@partypioneers.co.uk",
+    "emails": [
+      "james@partypioneers.co.uk"
+    ],
+    "description": "Party Pioneers - Entertainment Specialists, mobile dj Newport, mobile dj cardiff, wedding dj, kids parties, kids disco, children's party, children's entertainment, Newport wedding DJ, Newport DJ"
   },
   {
     "name": "BLOWING UP BIG TIME LTD Bouncy Castle Hire",
@@ -196,11 +284,11 @@
     "rating": 5.0,
     "total_reviews": 72,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.56937,
     "lng": -3.420351,
-    "found_in_location": "Porth",
+    "found_in_location": "Bridgend",
     "found_with_query": "bouncy wales"
   },
   {
@@ -213,12 +301,17 @@
     "rating": 5.0,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11:30 pm\"],\"Monday\":[\"8 am–11:30 pm\"],\"Saturday\":[\"8 am–11:30 pm\"],\"Sunday\":[\"8 am–11:30 pm\"],\"Thursday\":[\"8 am–11:30 pm\"],\"Tuesday\":[\"8 am–11:30 pm\"],\"Wednesday\":[\"8 am–11:30 pm\"]}",
     "types": "Children's party service",
     "lat": 51.598816,
     "lng": -2.980292,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "james@partypioneers.co.uk",
+    "emails": [
+      "james@partypioneers.co.uk"
+    ],
+    "description": "Party Pioneers - Entertainment Specialists, mobile dj Newport, mobile dj cardiff, wedding dj, kids parties, kids disco, children's party, children's entertainment, Newport wedding DJ, Newport DJ"
   },
   {
     "name": "A J Events Services Ltd",
@@ -230,12 +323,16 @@
     "rating": 5.0,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 51.666448,
     "lng": -3.218014,
-    "found_in_location": "Garage",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "bouncy wales",
+    "description": "A J Events Service South Wales offer entertainment & audio visual event hire services for weddings, corporate events & proms. Create memories with our enticing packages!",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Crystal clear 360 Photo Booth",
@@ -247,12 +344,20 @@
     "rating": 5.0,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10:30 pm\"],\"Monday\":[\"7 am–10:30 pm\"],\"Saturday\":[\"9 am–10:30 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"7 am–10:30 pm\"],\"Tuesday\":[\"7 am–10:30 pm\"],\"Wednesday\":[\"7 am–10:30 pm\"]}",
     "types": "Photo booth",
     "lat": 51.689522,
     "lng": -4.08956,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@crystalclear360.co.uk",
+    "emails": [
+      "info@crystalclear360.co.uk"
+    ],
+    "description": "Premium Photo booths for Weddings,Parties & Corporate Events With Instant Sharing.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "MBC Bouncy Castle for Hire",
@@ -264,12 +369,18 @@
     "rating": 5.0,
     "total_reviews": 46,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.485173,
     "lng": -3.239791,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "If you're looking for bouncy castle hire in Cardiff, contact MBC Bouncy Castles for Hire. Call us now for a free quote.",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Enthusiasm Events",
@@ -281,12 +392,17 @@
     "rating": 5.0,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u201311\u202fpm\"],\"Monday\":[\"6\u202fam\u201311\u202fpm\"],\"Saturday\":[\"6\u202fam\u201311\u202fpm\"],\"Sunday\":[\"6\u202fam\u201311\u202fpm\"],\"Thursday\":[\"6\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"6\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"6\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–11 pm\"],\"Monday\":[\"6 am–11 pm\"],\"Saturday\":[\"6 am–11 pm\"],\"Sunday\":[\"6 am–11 pm\"],\"Thursday\":[\"6 am–11 pm\"],\"Tuesday\":[\"6 am–11 pm\"],\"Wednesday\":[\"6 am–11 pm\"]}",
     "types": "Audio Visual Equipment Hire Service",
     "lat": 51.503814,
     "lng": -3.169398,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "contact@enthusiasmevents.co.uk",
+    "emails": [
+      "contact@enthusiasmevents.co.uk"
+    ],
+    "description": "Cardiff based event management, audio visual hire, and entertainment agency. We operate all over South Wales and the West of England. PA hire, DJ Equipment, AV equipment hire, speaker hire, stage hire."
   },
   {
     "name": "Shuffles Events",
@@ -298,7 +414,7 @@
     "rating": 5.0,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding Shop",
     "lat": 50.701986,
     "lng": -1.351561,
@@ -315,12 +431,25 @@
     "rating": 5.0,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 54.637977,
     "lng": -5.673804,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "darranw@live.co.uk",
+    "emails": [
+      "darranw@live.co.uk"
+    ],
+    "description": "Affordable bouncy castle hire in Northern Ireland including; Bangor, Belfast, Newtownards, Dundonald and North Down. Affordable bouncy castle hire in Northern Ireland including; Bangor, Belfast, Newtownards, Dundonald and North Down.",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Face Painting",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Photobooths and Mobile Discos Cardiff",
@@ -337,7 +466,16 @@
     "lat": 51.47752,
     "lng": -3.239537,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "darrenjones2020@hotmail.com",
+    "emails": [
+      "darrenjones2020@hotmail.com"
+    ],
+    "description": "Welcome to our premier service for Photobooths and Mobile Discos for hire in Cardiff. We will bring fun, excitement and memories to your special events.",
+    "services": [
+      "Photo Booth",
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "Joio Entertainment",
@@ -353,8 +491,13 @@
     "types": "Wedding service",
     "lat": 51.673619,
     "lng": -4.141304,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "jonny@joioents.co.uk",
+    "emails": [
+      "jonny@joioents.co.uk"
+    ],
+    "description": "DJ, Photobooth and wedding party hire across South Wales"
   },
   {
     "name": "Afon Events",
@@ -366,12 +509,17 @@
     "rating": 5.0,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Marquee hire service",
     "lat": 51.480984,
     "lng": -3.480215,
-    "found_in_location": "Cowbridge",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "bouncy wales",
+    "email": "events@afonevents.com",
+    "emails": [
+      "events@afonevents.com"
+    ],
+    "description": "Afon Events offers eco-conscious stretch tent hire and sales for weddings, festivals, and private events across Wales and the Cotswolds. Tailored solutions with sustainable materials."
   },
   {
     "name": "Sparx",
@@ -383,12 +531,13 @@
     "rating": 5.0,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20135\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"12\u20135\u202fpm\"],\"Tuesday\":[\"12\u20135\u202fpm\"],\"Wednesday\":[\"12\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"12–5 pm\"],\"Tuesday\":[\"12–5 pm\"],\"Wednesday\":[\"12–5 pm\"]}",
     "types": "Costume shop",
     "lat": 53.226105,
     "lng": -4.126652,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Sparx Body Jewellery Hair Dye Fancy Dress : - Fancy Dress Halloween Hair and Hair Dye Make-Up Sunglasses Body Jewellery Band Merchandise hair extensions, band T shirts, shop, online shopping, Bangor High St"
   },
   {
     "name": "Photo booth & Chocolate Fountain Hire Wales",
@@ -404,7 +553,7 @@
     "types": "Wedding photographer",
     "lat": 51.685815,
     "lng": -4.125259,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -417,12 +566,21 @@
     "rating": 5.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Entertainer",
     "lat": 51.720322,
     "lng": -3.84622,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Interactive Event Entertainment from InHouse Entertainments",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Photo Booth",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull"
+    ]
   },
   {
     "name": "Event Prop Shop",
@@ -434,12 +592,17 @@
     "rating": 5.0,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.718074,
     "lng": -3.001947,
-    "found_in_location": "Pontypool",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "email": "info@eventpropshop.co.uk",
+    "emails": [
+      "info@eventpropshop.co.uk"
+    ],
+    "description": "Themed Props available to hire for Events, Children's Birthday Parties, TV, Film, Video & Photo Shoots. Bespoke Prop Builds & Prop Sourcing Services. Children's Party Entertainment. Themed Prop Hire in Cardiff London, Birmingham, Reading, Swindon, Bath and Bristol. TV & Film Prop House. London..."
   },
   {
     "name": "Bubble'n'Bounce Hot Tub and Bouncy Castle Hire South Wales",
@@ -455,8 +618,23 @@
     "types": "Hot Tub Shop",
     "lat": 51.691094,
     "lng": -3.016276,
-    "found_in_location": "Pontypool",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "email": "bubblenbounce@hotmail.com",
+    "emails": [
+      "bubblenbounce@hotmail.com"
+    ],
+    "description": "Bubble N Bounce, is a family run business based in Gwent. We pride ourselves on providing excellent service and equipment at very affordable prices. Whatever the occasion, we've fun to cater all!",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Cariad occasions",
@@ -468,11 +646,11 @@
     "rating": 5.0,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Photo booth",
     "lat": 51.689155,
     "lng": -4.280667,
-    "found_in_location": "Burry Port",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -485,11 +663,11 @@
     "rating": 5.0,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party shop",
     "lat": 51.681718,
     "lng": -4.159785,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -502,12 +680,19 @@
     "rating": 5.0,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–8 pm\"],\"Monday\":[\"9:30 am–8 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–8 pm\"],\"Thursday\":[\"9:30 am–8 pm\"],\"Tuesday\":[\"9:30 am–8 pm\"],\"Wednesday\":[\"9:30 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 54.640301,
     "lng": -5.681991,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Airy Fairies provides safe Belfast & North Down Bouncy Castle Hire with inflatables, party packages, and face painting. Free delivery & setup.",
+    "services": [
+      "Bouncy Castles",
+      "Face Painting",
+      "Inflatable Slide",
+      "Obstacle Course"
+    ]
   },
   {
     "name": "North Down VIP Entertainment",
@@ -519,12 +704,19 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 54.659228,
     "lng": -5.644347,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Your number one choice for Inflatables, Hot Tubs, Marquees, Mascots, Soft Play, DJs, Kids Discos, Party Packages and more. We are a family business",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Soft Play"
+    ]
   },
   {
     "name": "Wheelhouse Audio Events",
@@ -536,11 +728,11 @@
     "rating": 5.0,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"10\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–8 pm\"],\"Monday\":[\"10 am–9 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"10 am–8 pm\"],\"Tuesday\":[\"10 am–8 pm\"],\"Wednesday\":[\"10 am–8 pm\"]}",
     "types": "Audio Visual Equipment Hire Service",
     "lat": 51.679541,
     "lng": -4.166087,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -557,8 +749,21 @@
     "types": "Bouncy castle hire",
     "lat": 51.416847,
     "lng": -3.2601,
-    "found_in_location": "Barry",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "info@bouncelittlemonkeys.co.uk",
+    "emails": [
+      "info@bouncelittlemonkeys.co.uk"
+    ],
+    "description": "Providing Bouncy Castles, Adult Disco Castles, Soft-Play to all of Glamorgan. From Bridgend to Newport, Barry, Cardiff to Mountain Ash.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "The Anglesey Tipsy Trailer",
@@ -574,7 +779,7 @@
     "types": "Mobile caterer",
     "lat": 53.295014,
     "lng": -4.142945,
-    "found_in_location": "Beaumaris",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -587,7 +792,7 @@
     "rating": 5.0,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20132\u202fpm\"],\"Sunday\":[\"10\u202fam\u20132\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Event Planning Service",
     "lat": 53.04885,
     "lng": -3.009747,
@@ -604,7 +809,7 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.526672,
     "lng": -3.092349,
@@ -625,7 +830,7 @@
     "types": "Bouncy castle hire",
     "lat": 54.665617,
     "lng": -5.959277,
-    "found_in_location": "Newtownabbey",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -638,7 +843,7 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.640345,
     "lng": -4.026862,
@@ -655,7 +860,7 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20134\u202fpm\"],\"Sunday\":[\"8\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"8 am–4 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.472075,
     "lng": -3.179907,
@@ -672,7 +877,7 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "DJ",
     "lat": 51.552033,
     "lng": -3.569269,
@@ -689,12 +894,28 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 54.655945,
     "lng": -5.64337,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@eastcoastcastles.co.uk",
+    "emails": [
+      "info@eastcoastcastles.co.uk"
+    ],
+    "description": "Check out our range of Bouncy Castles, Hot Tubs, Inflatable Games, Soft Play, Sweet Treats and Fun Rides available to hire for parties and other special occaisons throughout Bangor, Belfast, Newtownards and surrounding areas including Kircubbin, Donaghadee, Carryduff areas",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Garden Games",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Bouncy Hire Swansea",
@@ -706,12 +927,25 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.70042,
     "lng": -3.880081,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "enquiries@bouncyhireswansea.co.uk",
+    "emails": [
+      "enquiries@bouncyhireswansea.co.uk"
+    ],
+    "description": "If you're looking for something fun and exciting for your party or event, then look no further!u00a0Established in 2006, we provide a helpful, friendly and reliable service all at a reasonable price.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Signature Events Dj",
@@ -723,12 +957,17 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139\u202fpm\"],\"Monday\":[\"10\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"10\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"10 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"10 am–9 pm\"],\"Tuesday\":[\"10 am–9 pm\"],\"Wednesday\":[\"10 am–9 pm\"]}",
     "types": "Mobile disco service",
     "lat": 53.044116,
     "lng": -3.004325,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "signatureeventsdj@gmail.com",
+    "emails": [
+      "signatureeventsdj@gmail.com"
+    ],
+    "description": "Everything about Signature Events Dj in one place. Follow and Connect with Signature Events Dj"
   },
   {
     "name": "GD Entertainment Cymru",
@@ -744,7 +983,7 @@
     "types": "DJ",
     "lat": 53.164092,
     "lng": -4.211305,
-    "found_in_location": "Caernarfon",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -757,11 +996,11 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 53.292705,
     "lng": -4.669867,
-    "found_in_location": "Holyhead",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -779,7 +1018,15 @@
     "lat": 51.466901,
     "lng": -3.252242,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "partytimephotoboothwales@gmail.com",
+    "emails": [
+      "partytimephotoboothwales@gmail.com"
+    ],
+    "description": "Trying to find a Photo Booth Rental in Cardiff? Get in touch with Party Time Photo Booth. We offer a variety of photo booth services and accessories to make your party stand out.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Sassy Tables - tableware rental service",
@@ -791,7 +1038,7 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.583636,
     "lng": -2.974423,
@@ -808,7 +1055,7 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Party equipment rental service",
     "lat": 51.529144,
     "lng": -3.557295,
@@ -825,12 +1072,21 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.702917,
     "lng": -3.89284,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "AJ Event Hire provide the best Bouncy Castle Hire And Entertainments service in Swansea, West Glamorgan, offering a wide range of event equipment. Contact us today!",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Photo Booth",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Bouncing Dragons Entertainment Co.",
@@ -842,12 +1098,18 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.597674,
     "lng": -2.755334,
-    "found_in_location": "Caldicot",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Cardiff Bouncy Castle Hire",
@@ -864,7 +1126,20 @@
     "lat": 51.488561,
     "lng": -3.254039,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bouncybeesbouncycastlehire@gmail.com",
+    "emails": [
+      "bouncybeesbouncycastlehire@gmail.com"
+    ],
+    "description": "bouncy bees castles bouncy castle hire in cardiff bouncy castles for hire in the vale of glamorgan barry, st athan, ely, cardiff, sully, penarth and llantwit",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Perfectly Pampered Parties",
@@ -881,7 +1156,15 @@
     "lat": 51.637026,
     "lng": -3.945256,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@perfectlypamperedparties.co.uk",
+    "emails": [
+      "info@perfectlypamperedparties.co.uk"
+    ],
+    "description": "Mobile pamper parties and sleepover tents across Swansea, Mumbles, Gower, Mayhill, Townhill, Port Talbot and Penard. Kids spa parties with mini manis, braids, glitter tattoos and magical tent setups.",
+    "services": [
+      "Face Painting"
+    ]
   },
   {
     "name": "Ponies at my Party",
@@ -915,7 +1198,8 @@
     "lat": 51.587269,
     "lng": -2.997147,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Since 2003, when we took over running the Queen's Vaults, we’ve been serving customers in welcoming traditional pubs, serving quality food, perfectly paired drinks, and much more."
   },
   {
     "name": "Commercial Marquee Hire Ltd",
@@ -927,12 +1211,17 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Marquee hire service",
     "lat": 51.697123,
     "lng": -4.126837,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@commercialmarqueehire.com",
+    "emails": [
+      "info@commercialmarqueehire.com"
+    ],
+    "description": "We are committed to professionalism and pride ourselves on our superior level of service. We set the highest standards from the onset whilst ensuring a friendly, personal service is provided to all our clients"
   },
   {
     "name": "Children's Amusements",
@@ -949,7 +1238,17 @@
     "lat": 53.076589,
     "lng": -3.009653,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "derekprydderch@gmail.com",
+    "emails": [
+      "derekprydderch@gmail.com",
+      "emailderekprydderch@gmail.com"
+    ],
+    "description": "Over 60 years of fun! Bouncy castle hire, fairground rides, soft play, catering & event equipment across Wrexham, North Wales, North West & Wirral. Fully insured & ADIPS-tested.",
+    "services": [
+      "Bouncy Castles",
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "Z-A-K soft play and castle hire",
@@ -965,7 +1264,7 @@
     "types": "Entertainer",
     "lat": 51.670908,
     "lng": -4.157288,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -978,12 +1277,23 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Amusement Ride Supplier",
     "lat": 51.682633,
     "lng": -4.13562,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "jason@jhills-amusements.co.uk",
+    "emails": [
+      "jason@jhills-amusements.co.uk",
+      "jason@jhillsamusements.co.uk"
+    ],
+    "description": "We believe every child deserves to have fun attheir party.We make sure that you also will have a fantastic dayknowing that we have carried out all the safety andquality Checks.",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "Gilead Chapel",
@@ -1029,11 +1339,11 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"1\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"1–5 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.597783,
     "lng": -3.7963,
-    "found_in_location": "Port Talbot",
+    "found_in_location": "Neath",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1050,8 +1360,27 @@
     "types": "Bouncy castle hire",
     "lat": 51.740499,
     "lng": -3.180434,
-    "found_in_location": "Ebbw Vale",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "bouncy wales",
+    "email": "info@a1jumpandbounce.co.uk",
+    "emails": [
+      "info@a1jumpandbounce.co.uk",
+      "a1jumpandbounce@aol.co.uk"
+    ],
+    "description": "Bouncy castles, party and event hire",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "CCsCastle",
@@ -1080,12 +1409,18 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.424254,
     "lng": -3.255857,
-    "found_in_location": "Barry",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "description": "Bouncy Castle Hire Cardiff Bumper to Bumper are a well established provider of bouncy castles hire in Cardiff,South Wales area offering bouncy castle hire",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "The Play Palace",
@@ -1097,11 +1432,11 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.571235,
     "lng": -3.20375,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Cardiff",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1114,12 +1449,24 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.508883,
     "lng": -3.590005,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "jumpnbounce@mail.com",
+    "emails": [
+      "jumpnbounce@mail.com",
+      "jumpnbouncewales@gmail.com"
+    ],
+    "description": "Jump n Bounce is the go-to provider for bouncy castle hire in Bridgend, South Wales. With a stellar reputation for delivering fun and excitement to events.",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Tumbling Monkeys",
@@ -1131,7 +1478,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20136\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"11\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"11\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"11\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–6 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"11 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11 am–5 pm\"],\"Tuesday\":[\"11 am–6 pm\"],\"Wednesday\":[\"11 am–6 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.713804,
     "lng": -4.039088,
@@ -1148,12 +1495,31 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Event Planning Service",
     "lat": 51.856291,
     "lng": -4.327909,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@mushroomentertainments.co.uk",
+    "emails": [
+      "info@mushroomentertainments.co.uk"
+    ],
+    "description": "Mushroom Entertainment Bouncy Inflatables and Event Entertainment Hire Company in Carmarthen, Aberystwyth and Llanelli areas wth bouncy castles and rodeo bull and fun games",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Garden Games",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Photo Booth",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Jumping J J",
@@ -1169,7 +1535,7 @@
     "types": "Bouncy castle hire",
     "lat": 51.657206,
     "lng": -3.203204,
-    "found_in_location": "Blackwood",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1186,8 +1552,17 @@
     "types": "Mobile disco service",
     "lat": 51.705724,
     "lng": -3.423498,
-    "found_in_location": "Aberdare",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "bouncy wales",
+    "email": "djlooney77@gmail.com",
+    "emails": [
+      "djlooney77@gmail.com"
+    ],
+    "description": "Looney Tunes DiscoOfficial Website Upcoming Event Ultra Miami 2019Starts In: Days 0 Hours 0 Minutes 0 Book Now About Looney Tunes Disco May lorem ipsum dolor sit amet, consectetur. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,...",
+    "services": [
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Expo Hire",
@@ -1199,12 +1574,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Furniture Rental Service",
     "lat": 51.489127,
     "lng": -3.174241,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "sales@expohire.com",
+    "emails": [
+      "sales@expohire.com",
+      "support@expohire.com",
+      "accounts@expohire.com"
+    ],
+    "description": "At Expo Hire, we specialise in catering and event equipment for hire across the whole country. No matter the size of event, we can help."
   },
   {
     "name": "Big Event Tent",
@@ -1221,7 +1603,12 @@
     "lat": 51.642962,
     "lng": -4.11441,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "kirstyguise@hotmail.com",
+    "emails": [
+      "kirstyguise@hotmail.com"
+    ],
+    "description": "Elegant canvas tents for weddings, wedding receptions, and bespoke events. Create a magical ambience with our unique marquees."
   },
   {
     "name": "Party Hire NI",
@@ -1237,7 +1624,7 @@
     "types": "Party equipment rental service",
     "lat": 54.631696,
     "lng": -5.678235,
-    "found_in_location": "Newtownards",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1255,7 +1642,12 @@
     "lat": 51.500045,
     "lng": -3.55205,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "dancingfeetdisco@hotmail.com",
+    "emails": [
+      "dancingfeetdisco@hotmail.com"
+    ],
+    "description": "Disco and Karaoke Hire Bridgend, barry, south wales for all your celebrations give us a call genuine discounts for new customers."
   },
   {
     "name": "JM Entertainment",
@@ -1267,12 +1659,30 @@
     "rating": 4.9,
     "total_reviews": 254,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.611111,
     "lng": -3.81661,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@jmentertainment.co.uk",
+    "emails": [
+      "info@jmentertainment.co.uk"
+    ],
+    "description": "When it comes to event hire, you can't beat JM Entertainment! We bring inflatables, corporate entertainment, funfair attractions & more to London, Manchester, Birmingham, Leeds, Liverpool, Yorkshire, Birmingham and Nationwide events across the United Kingdom.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Garden Games",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Photo Booth",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "All Star Bounce NI",
@@ -1284,12 +1694,27 @@
     "rating": 4.9,
     "total_reviews": 119,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 54.652434,
     "lng": -5.619908,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@allstarbounceni.co.uk",
+    "emails": [
+      "info@allstarbounceni.co.uk"
+    ],
+    "description": "Our equipment caters for all ages, from toddlers to Adults. We always meet the needs of customers as best we can by providing the most suitable equipment for each different event, from private garden hires to large summer fetes. We are always expanding our fleet of castles and slides throughout...",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "CDF Speaker Hire",
@@ -1301,12 +1726,17 @@
     "rating": 4.9,
     "total_reviews": 104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Audio Visual Equipment Hire Service",
     "lat": 51.497713,
     "lng": -3.17078,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "sales@cdfspeakerhire.com",
+    "emails": [
+      "sales@cdfspeakerhire.com"
+    ],
+    "description": "CDF Speaker Hire is your local rental company for speakers, PA sound systems, party lighting and DJ equipment in Cardiff, South Wales."
   },
   {
     "name": "Binky Bounce Bouncy Castle Hire",
@@ -1318,12 +1748,28 @@
     "rating": 4.9,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.399036,
     "lng": -3.245245,
-    "found_in_location": "Barry",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "info@binkybounce.com",
+    "emails": [
+      "info@binkybounce.com",
+      "binkybounce@gmail.com"
+    ],
+    "description": "Looking for a local and reputable bouncy castle hire company to supply for your party or event? Look no further, here at Binky Bounce we offer the very best customer service and bring you the best bouncy castles in Cardiff and the The Vale of Glamorgan.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Hard Target Airsoft",
@@ -1335,12 +1781,13 @@
     "rating": 4.9,
     "total_reviews": 91,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"8\u202fam\u20134\u202fpm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"8 am–4 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Shooting event area",
     "lat": 51.51444,
     "lng": -3.685466,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Outdoor and Military Supplies, Clothing & Airsoft Guns"
   },
   {
     "name": "FUN TIMES BOUNCY CASTLES",
@@ -1352,12 +1799,31 @@
     "rating": 4.9,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.713907,
     "lng": -5.059356,
-    "found_in_location": "Milford Haven",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@funtimesbouncycastles.co.uk",
+    "emails": [
+      "info@funtimesbouncycastles.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Face Painting",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Photo Booth",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Mobile Disco & Entertainments Cardiff",
@@ -1374,7 +1840,18 @@
     "lat": 51.53153,
     "lng": -3.1924,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "dan.carey@hotmail.co.uk",
+    "emails": [
+      "dan.carey@hotmail.co.uk"
+    ],
+    "description": "Mobile disco & Entertainments, Bouncy Castle Hire service based in Cardiff, South Wales & the surrounding areas.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Photo Booth",
+      "Soft Play"
+    ]
   },
   {
     "name": "Strawberry Shortcake Catering",
@@ -1386,12 +1863,17 @@
     "rating": 4.9,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Caterer",
     "lat": 51.794958,
     "lng": -4.07515,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@strawberryshortcakedining.com",
+    "emails": [
+      "info@strawberryshortcakedining.com"
+    ],
+    "description": "Strawberry Shortcake is a unique caterer based in Carmarthenshire providing high-end wedding catering & private dining for Carmarthenshire, Pembrokeshire, Wales & Beyond. Enjoy the expertise of chef Scott Davis and his team, at your disposal for dinner parties, weddings, garden parties, fancy..."
   },
   {
     "name": "Swiss Valley Community Hall",
@@ -1403,11 +1885,11 @@
     "rating": 4.9,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 51.703999,
     "lng": -4.134537,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1420,12 +1902,25 @@
     "rating": 4.9,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Entertainer",
     "lat": 53.043447,
     "lng": -2.988025,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "natasha.kelly201@yahoo.com",
+    "emails": [
+      "natasha.kelly201@yahoo.com"
+    ],
+    "description": "We offer unthemed and themed packages both come with free bouncy castle and free candy floss, neon glo, festival package",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Hot Tub Hire",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Cardiff International White Water",
@@ -1437,12 +1932,17 @@
     "rating": 4.8,
     "total_reviews": 594,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20134\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"9 am–4 pm\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
     "types": "Outdoor activity organiser",
     "lat": 51.4487,
     "lng": -3.181781,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@ciww.com",
+    "emails": [
+      "info@ciww.com"
+    ],
+    "description": "Cardiff International White Water (CIWW) is home to the only white water rafting course in South Wales. Located in the International Sports Village in Cardiff Bay, CIWW also offers an indoor surfing facility Flowrider machine, family white water rafting sessions, canoeing, kayaking, stand up..."
   },
   {
     "name": "Lakeside Venue",
@@ -1454,12 +1954,17 @@
     "rating": 4.8,
     "total_reviews": 204,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.582344,
     "lng": -3.48022,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "lakesidevenue@gmail.com",
+    "emails": [
+      "lakesidevenue@gmail.com"
+    ],
+    "description": "Wedding venue, corporate functions and events set alongside a beautiful lake and rolling countryside."
   },
   {
     "name": "DJ Maddox",
@@ -1476,7 +1981,16 @@
     "lat": 51.681394,
     "lng": -3.991686,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "david@djmaddox.co.uk",
+    "emails": [
+      "david@djmaddox.co.uk",
+      "maddox2009@hotmail.co.uk"
+    ],
+    "description": "Premier Wedding DJ in Swansea, Cardiff & South Wales. 530+ 5-star reviews, professional sound, lighting and beautiful starlit dancefloors.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Field of Dreams",
@@ -1493,7 +2007,8 @@
     "lat": 54.613771,
     "lng": -5.613244,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Field of Dreams is Northern Ireland’s premier wedding and event venue. We specialise in bespoke barn wedding and stretch tent receptions, unique corporate events and exciting field sport activities."
   },
   {
     "name": "Full Of Bounce",
@@ -1505,12 +2020,24 @@
     "rating": 4.8,
     "total_reviews": 94,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.636213,
     "lng": -3.817608,
     "found_in_location": "Neath",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@fullofbounce.com",
+    "emails": [
+      "info@fullofbounce.com"
+    ],
+    "description": "Looking for an unforgettable party experience? Our bouncy castle hire service in South Wales is perfect for any event.",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "South Wales Photo Booths",
@@ -1522,12 +2049,16 @@
     "rating": 4.8,
     "total_reviews": 64,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Photo booth",
     "lat": 51.569076,
     "lng": -3.016373,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Fantastic Magic Mirror & Photo Booth Hire for weddings, birthdays & all occassions and events. Call us to book your event: 0333 335 6167",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "S G D J",
@@ -1539,12 +2070,17 @@
     "rating": 4.8,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "DJ",
     "lat": 51.493549,
     "lng": -3.230346,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@sgdiscos.com",
+    "emails": [
+      "info@sgdiscos.com"
+    ],
+    "description": "Based in Cardiff, Serving South Wales and the West - Professional Mobile DJ Service, Lighting Hire"
   },
   {
     "name": "Hamilton Road Community Hub",
@@ -1556,12 +2092,20 @@
     "rating": 4.8,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Community centre",
     "lat": 54.660818,
     "lng": -5.664172,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "communityhalls@ardsandnorthdown.gov.uk",
+    "emails": [
+      "communityhalls@ardsandnorthdown.gov.uk"
+    ],
+    "description": "Hamilton Road Community Hub, 39 Hamilton Road, Bangor, BT20 4LF",
+    "services": [
+      "Bouncy Castles"
+    ]
   },
   {
     "name": "Be Our Guest Events",
@@ -1573,16 +2117,21 @@
     "rating": 4.8,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
     "types": "Wedding service",
     "lat": 51.593677,
     "lng": -3.213878,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "hello@beourguesteventsuk.com",
+    "emails": [
+      "hello@beourguesteventsuk.com"
+    ],
+    "description": "Luxury wedding and event styling services. Let us create your perfect event with bespoke decor and expert planning from start to finish."
   },
   {
     "name": "Funtastic Parties",
-    "address": "\u2752 Bay View, Heol Canola, Bryncoch, Bryncethin, Bridgend, CF32 9TS, GB",
+    "address": "❒ Bay View, Heol Canola, Bryncoch, Bryncethin, Bridgend, CF32 9TS, GB",
     "phone": "07758 240307",
     "international_phone": "07758 240307",
     "website": "",
@@ -1590,7 +2139,7 @@
     "rating": 4.8,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Entertainer",
     "lat": 51.541707,
     "lng": -3.575363,
@@ -1612,7 +2161,12 @@
     "lat": 51.469769,
     "lng": -3.164922,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "epicmoments.uk@gmail.com",
+    "emails": [
+      "epicmoments.uk@gmail.com"
+    ],
+    "description": "Book professional hen and stag party entertainment across the UK. Strippers, buff butlers, dance parties and more delivered to your venue or home."
   },
   {
     "name": "St. Peter's Community Hall and Gardens",
@@ -1624,7 +2178,7 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9:30\u202fam\u20131\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20131\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20131\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20131\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9:30 am–1 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–1 pm\"],\"Tuesday\":[\"9:30 am–1 pm\"],\"Wednesday\":[\"9:30 am–1 pm\"]}",
     "types": "Community garden",
     "lat": 51.489363,
     "lng": -3.245277,
@@ -1645,7 +2199,7 @@
     "types": "Audio Visual Equipment Hire Service",
     "lat": 51.680843,
     "lng": -4.152678,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -1658,12 +2212,13 @@
     "rating": 4.7,
     "total_reviews": 4956,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Historical landmark",
     "lat": 53.22569,
     "lng": -4.09466,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "...but your activity and behavior on this site made us think that you are a bot."
   },
   {
     "name": "Cornerstone",
@@ -1675,12 +2230,17 @@
     "rating": 4.7,
     "total_reviews": 280,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–4 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Conference Centre",
     "lat": 51.481273,
     "lng": -3.173489,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "cornerstone@spiros.co.uk",
+    "emails": [
+      "cornerstone@spiros.co.uk"
+    ],
+    "description": "As well as a range of flexible rooms suitable for all occasions, Cornerstone will be a hub for the community with a choice of tempting places to eat and inspiring arts spaces. We are now taking bookings from late 2016!"
   },
   {
     "name": "Breakout Live Swansea",
@@ -1692,12 +2252,17 @@
     "rating": 4.7,
     "total_reviews": 163,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"2\u201311\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"11\u202fam\u201311\u202fpm\"],\"Sunday\":[\"11\u202fam\u20138\u202fpm\"],\"Thursday\":[\"2\u201311\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"2\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"2–11 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"11 am–11 pm\"],\"Sunday\":[\"11 am–8 pm\"],\"Thursday\":[\"2–11 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"2–11 pm\"]}",
     "types": "Escape room centre",
     "lat": 51.620676,
     "lng": -3.946414,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bookings@breakoutswansea.com",
+    "emails": [
+      "bookings@breakoutswansea.com"
+    ],
+    "description": "Step into a world where ordinary rules don’t apply. An escape room is your chance to break free from routine, solve clever puzzles, uncover hidden clues, and work together against the clock. Whether you’re a family looking for adventure, friends out for something different, or a team ready to be..."
   },
   {
     "name": "Ocean View - Windmill Gower",
@@ -1714,7 +2279,12 @@
     "lat": 51.609074,
     "lng": -4.200831,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "enquiries@oceanviewwindmillgower.co.uk",
+    "emails": [
+      "enquiries@oceanviewwindmillgower.co.uk"
+    ],
+    "description": "Ocean View Gower is a wedding venue located in the picturesque Gower Peninsula, offering breath-taking coastal views and a serene atmosphere. Ideal for couples seeking a unique and unforgettable setting for their special day, our venue combines natural beauty with exceptional views and a personal se"
   },
   {
     "name": "Brodie's Funhouse Indoor Play Centre",
@@ -1726,12 +2296,15 @@
     "rating": 4.7,
     "total_reviews": 92,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"11:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–3 pm\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"11:30 am–4 pm\"],\"Thursday\":[\"9:30 am–3 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 51.63483,
     "lng": -3.957361,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Bouncy Bees Bouncy Castle Hire Ltd",
@@ -1743,12 +2316,25 @@
     "rating": 4.7,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.458144,
     "lng": -3.260527,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bouncybeesbouncycastlehire@gmail.com",
+    "emails": [
+      "bouncybeesbouncycastlehire@gmail.com"
+    ],
+    "description": "bouncy bees castles bouncy castle hire in cardiff bouncy castles for hire in the vale of glamorgan barry, st athan, ely, cardiff, sully, penarth and llantwit",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Ogmore-by-Sea Hall Neuadd Aberogwr",
@@ -1760,12 +2346,34 @@
     "rating": 4.7,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Community centre",
     "lat": 51.460656,
     "lng": -3.63197,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@gnaw.wales",
+    "emails": [
+      "info@gnaw.wales",
+      "%20info.ogmorehall@gmail.com",
+      "atherlotusfeet@gmail.com",
+      "dorchchiro@me.com",
+      "gemmaecclescake@gmail.com",
+      "info.ogmorehall@gmail.com",
+      "jiujitsu@gmail.com",
+      "npaddy6@yahoo.co.uk",
+      "npaddy@yahoo.co.uk",
+      "nspickett@yahoo.com",
+      "obstabletennis@gmail.com",
+      "pbbwales@gmail.com",
+      "pippa@cppwellbeing.com",
+      "rogersken1000@gmail.com",
+      "shantiflowyoga@gmail.com",
+      "valeofglamorgan@themumclub.com",
+      "vanessa0777@hotmail.com",
+      "yogastarrr@gmail.com"
+    ],
+    "description": "All Abilities Sunset Yoga 18.30-19.30atherlotusfeet@gmail.com"
   },
   {
     "name": "Jacobs Roof Garden",
@@ -1777,12 +2385,13 @@
     "rating": 4.7,
     "total_reviews": 43,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20135\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"12\u20135\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"12–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"12–5 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Events Venue",
     "lat": 51.475496,
     "lng": -3.176316,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "The city’s best kept secret, hiding in plain sight! Perched above Jacobs Antiques Centre, tucked between soaring hotels and office blocks, lies a rarely discovered rooftop garden, overlooking the buzz of Mill Lane! A hidden oasis with views stretching across the city. Once among the tallest"
   },
   {
     "name": "Llangoed Village Hall LL58 8NY",
@@ -1798,8 +2407,14 @@
     "types": "Village hall",
     "lat": 53.296781,
     "lng": -4.087499,
-    "found_in_location": "Beaumaris",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "email": "info@llangoedvillagehall.com",
+    "emails": [
+      "info@llangoedvillagehall.com",
+      "llangoedvillagehall@gmail.com"
+    ],
+    "description": "Learn about Llangoed Village Hall's history, community events, hall hire options, and how to get involved in this historic venue in Anglesey."
   },
   {
     "name": "Our Mynachdy Community Centre",
@@ -1811,7 +2426,7 @@
     "rating": 4.7,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 51.501908,
     "lng": -3.202508,
@@ -1828,7 +2443,7 @@
     "rating": 4.7,
     "total_reviews": 32,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:15\u202fpm\"],\"Monday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20135:15\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135:15\u202fpm\"],\"Tuesday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:15\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:15 pm\"],\"Monday\":[\"9:15 am–5 pm\"],\"Saturday\":[\"9:30 am–5:15 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5:15 pm\"],\"Tuesday\":[\"9:15 am–5 pm\"],\"Wednesday\":[\"9:30 am–5:15 pm\"]}",
     "types": "Party shop",
     "lat": 54.663441,
     "lng": -5.662019,
@@ -1850,7 +2465,12 @@
     "lat": 53.219627,
     "lng": -4.064841,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "neuaddhendrehall@googlemail.com",
+    "emails": [
+      "neuaddhendrehall@googlemail.com"
+    ],
+    "description": "Iard Hendre is a Grade II listed building, which was built by Lord Penrhyn in 1840 as a model farm yard. Perfectly proportioned and designed to serve the needs of modern farming at the time. As time passed and the development of modern machinery and technology these fine buildings became..."
   },
   {
     "name": "Gav's Disco",
@@ -1866,8 +2486,9 @@
     "types": "Mobile disco service",
     "lat": 53.164092,
     "lng": -4.211305,
-    "found_in_location": "Caernarfon",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "description": "Gavs Disco - North Wales Disco Hire Weddings, Events, Kids Parties and School Disco's"
   },
   {
     "name": "Fun On Wheels Entertainments",
@@ -1879,12 +2500,23 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.641664,
     "lng": -3.133231,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "funonwheelsentertainments@outlook.com",
+    "emails": [
+      "funonwheelsentertainments@outlook.com"
+    ],
+    "description": "Fun On Wheels Entertainments, South Wales. Soft play and bouncy castle hire to Caerphilly, Newport, Torfaen, Blaenau Gwent, Monmouthshire, Cardiff, Merthyr Tydfil and surrounding areas.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Garden Games",
+      "Soft Play"
+    ]
   },
   {
     "name": "Starlit Events Photo booth / Magic mirror & Dance floor hire",
@@ -1896,12 +2528,21 @@
     "rating": 4.7,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20131\u202fam\"],\"Monday\":[\"7\u202fam\u20131\u202fam\"],\"Saturday\":[\"7\u202fam\u20131\u202fam\"],\"Sunday\":[\"7\u202fam\u20131\u202fam\"],\"Thursday\":[\"7\u202fam\u20131\u202fam\"],\"Tuesday\":[\"7\u202fam\u20131\u202fam\"],\"Wednesday\":[\"7\u202fam\u20131\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–1 am\"],\"Monday\":[\"7 am–1 am\"],\"Saturday\":[\"7 am–1 am\"],\"Sunday\":[\"7 am–1 am\"],\"Thursday\":[\"7 am–1 am\"],\"Tuesday\":[\"7 am–1 am\"],\"Wednesday\":[\"7 am–1 am\"]}",
     "types": "Wedding service",
     "lat": 51.641085,
     "lng": -3.974939,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@starlitevents.co.uk",
+    "emails": [
+      "info@starlitevents.co.uk",
+      "starliteventsltd@gmail.com"
+    ],
+    "description": "Our event hire packages are available for parties throughout Swansea and the surrounding areas. Call us now for a free quotation.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Revelry Disco",
@@ -1913,12 +2554,13 @@
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 51.668596,
     "lng": -3.925818,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Discover guest entertainment ideas with Revelry Disco, a top-rated DJ & photobooth provider in the United Kingdom."
   },
   {
     "name": "Wow Event Hire",
@@ -1930,12 +2572,17 @@
     "rating": 4.7,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Event management company",
     "lat": 51.501383,
     "lng": -3.203984,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@woweventhire.co.uk",
+    "emails": [
+      "info@woweventhire.co.uk"
+    ],
+    "description": "Experts in event hire, styling and production. Based in Cardiff, creating moments of WOW nationwide for corporate events and private functions."
   },
   {
     "name": "Mountain View Ranch",
@@ -1951,8 +2598,13 @@
     "types": "Outdoor activity organiser",
     "lat": 51.552164,
     "lng": -3.238284,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "info@mountainviewranch.co.uk",
+    "emails": [
+      "info@mountainviewranch.co.uk"
+    ],
+    "description": "Explore the Gruffalo Trail, Fairy forest, Enchanted wood, Double zipline, tree houses, 2 jumping pillows and have a fresh air fuelled family fun day out that you will cherish forever."
   },
   {
     "name": "Ogmore Castle",
@@ -1964,12 +2616,17 @@
     "rating": 4.6,
     "total_reviews": 1479,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Castle",
     "lat": 51.480588,
     "lng": -3.611517,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "cadwaccidentsreports@gov.wales",
+    "emails": [
+      "cadwaccidentsreports@gov.wales"
+    ],
+    "description": "Step into the pastOverlooking a picturesque river crossing still marked by a series of ancient stepping stones, Ogmore (along with Coity and Newcastle) is part of a trio of fortresses built to guard Glamorgan against attacks from the Welsh-held west.Beginning as a castle of earth and wood in the..."
   },
   {
     "name": "Hangar 18 Music Venue",
@@ -1981,12 +2638,17 @@
     "rating": 4.6,
     "total_reviews": 166,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20133\u202fam\"],\"Monday\":[\"11\u202fam\u20133\u202fam\"],\"Saturday\":[\"11\u202fam\u20133\u202fam\"],\"Sunday\":[\"11\u202fam\u20133\u202fam\"],\"Thursday\":[\"11\u202fam\u20133\u202fam\"],\"Tuesday\":[\"11\u202fam\u20133\u202fam\"],\"Wednesday\":[\"11\u202fam\u20133\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–3 am\"],\"Monday\":[\"11 am–3 am\"],\"Saturday\":[\"11 am–3 am\"],\"Sunday\":[\"11 am–3 am\"],\"Thursday\":[\"11 am–3 am\"],\"Tuesday\":[\"11 am–3 am\"],\"Wednesday\":[\"11 am–3 am\"]}",
     "types": "Live music venue",
     "lat": 51.61867,
     "lng": -3.947466,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "enquiries@hangar18musicvenue.co.uk",
+    "emails": [
+      "enquiries@hangar18musicvenue.co.uk"
+    ],
+    "description": "Hangar 18 Music Venue Live Music Venue & Nightclub A fully air-conditioned and acoustically treated live music venue and nightclub in Swansea. Featuring a large stage, professional audio and visual setup and reasonably priced drinks and events What’s On Find Us Browse Events by Category Live..."
   },
   {
     "name": "Bridgend Masonic Hall",
@@ -1998,12 +2660,13 @@
     "rating": 4.6,
     "total_reviews": 106,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Masonic Hall",
     "lat": 51.503443,
     "lng": -3.556089,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Bridgend Masonic Lodges Charitable Trust, Wales, UK"
   },
   {
     "name": "St Paul's Community Hall",
@@ -2020,7 +2683,13 @@
     "lat": 51.466043,
     "lng": -3.184904,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "deanjatkins@outlook.com",
+    "emails": [
+      "deanjatkins@outlook.com",
+      "richardgreen@cinw.org.uk"
+    ],
+    "description": "If you would like to enquire about hiring our hall then please use the online form at our website: https://southcardiffministryarea.co.uk/a-just-community/community-spaces/"
   },
   {
     "name": "Big Bouncy Castle Hire Wrexham",
@@ -2032,7 +2701,7 @@
     "rating": 4.6,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u201312\u202fam\"],\"Monday\":[\"6\u202fam\u201312\u202fam\"],\"Saturday\":[\"6\u202fam\u201312\u202fam\"],\"Sunday\":[\"6\u202fam\u201312\u202fam\"],\"Thursday\":[\"6\u202fam\u201312\u202fam\"],\"Tuesday\":[\"6\u202fam\u201312\u202fam\"],\"Wednesday\":[\"6\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–12 am\"],\"Monday\":[\"6 am–12 am\"],\"Saturday\":[\"6 am–12 am\"],\"Sunday\":[\"6 am–12 am\"],\"Thursday\":[\"6 am–12 am\"],\"Tuesday\":[\"6 am–12 am\"],\"Wednesday\":[\"6 am–12 am\"]}",
     "types": "Bouncy castle hire",
     "lat": 53.088792,
     "lng": -3.020954,
@@ -2053,8 +2722,9 @@
     "types": "Community centre",
     "lat": 51.681152,
     "lng": -4.115424,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "description": "Hall information Address: Trallwm Community Hall, Amanwy, Trallwm, Llanelli, SA14 9AH. Hire cost of main hall: £15 per hour. Trallwm Hall is also available for private hire, we take bookings for Birthday Parties, Weddings, Funeral Wakes, Gender reveals, Baby Showers, Party Hire rates will be as..."
   },
   {
     "name": "Belfast Bounce - Bouncy Castle Hire",
@@ -2066,12 +2736,26 @@
     "rating": 4.6,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20138:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"7 am–8:30 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 54.600537,
     "lng": -5.909155,
-    "found_in_location": "Belfast",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "email": "info@belfastbounce.co.uk",
+    "emails": [
+      "info@belfastbounce.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "L A Bouncy Castle Hire",
@@ -2083,12 +2767,25 @@
     "rating": 4.6,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7\u202fam\u201310\u202fpm\"],\"Sunday\":[\"7\u202fam\u201310\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"7 am–10 pm\"],\"Sunday\":[\"7 am–10 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.603445,
     "lng": -3.815586,
-    "found_in_location": "Port Talbot",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Neath",
+    "found_with_query": "bouncy wales",
+    "email": "info@labouncycastlehire.co.uk",
+    "emails": [
+      "info@labouncycastlehire.co.uk"
+    ],
+    "description": "Welcome to L A Bouncy Castle Hire. We deliver bouncy castles to Port Talbot and surrounding areas. Our bouncy castles can be hired for all sorts of occasions whether it is a birthday party, christening,..",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Knightmoves Discos",
@@ -2105,7 +2802,15 @@
     "lat": 51.510782,
     "lng": -3.570104,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "djmoves2@yahoo.co.uk",
+    "emails": [
+      "djmoves2@yahoo.co.uk"
+    ],
+    "description": "Mobile DJ, all occasions, Children's parties, Teenage parties, UV parties, Cosplay Hire, Mascot hire, all occasions, Insured & legal, 07940737133.",
+    "services": [
+      "Face Painting"
+    ]
   },
   {
     "name": "Absolute Marquees Limited",
@@ -2117,12 +2822,17 @@
     "rating": 4.6,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Marquee hire service",
     "lat": 51.841692,
     "lng": -4.041831,
-    "found_in_location": "Ammanford",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "email": "info@absolutemarquees.co.uk",
+    "emails": [
+      "info@absolutemarquees.co.uk"
+    ],
+    "description": "Absolute Marquees, South Wales' leading choice for Marquee hire. Big or small, we cater for corporate functions, county shows, weddings, parties and more."
   },
   {
     "name": "Glendarragh Bouncy Castles",
@@ -2134,12 +2844,30 @@
     "rating": 4.6,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 54.596843,
     "lng": -5.654331,
-    "found_in_location": "Newtownards",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "email": "info@glendarraghbouncycastles.co.uk",
+    "emails": [
+      "info@glendarraghbouncycastles.co.uk"
+    ],
+    "description": "We are one of the leading Bouncy Castle, Hot Tub, Soft Play, Rodeo Bull and Inflatable Hire companies with everything you need to make your party or event a great success. Book online today fora date that suits you.",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Garden Games",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Partyrocksbounce",
@@ -2151,12 +2879,26 @@
     "rating": 4.6,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 51.693686,
     "lng": -3.345073,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@partyrocksbounce.co.uk",
+    "emails": [
+      "info@partyrocksbounce.co.uk",
+      "info@partyrocksbounce.com"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Jump Jam Trampoline Park",
@@ -2168,12 +2910,22 @@
     "rating": 4.5,
     "total_reviews": 1294,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u20138\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"4\u20136\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"4\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4–8 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"4–6 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"4–6 pm\"]}",
     "types": "Sports complex",
     "lat": 51.498416,
     "lng": -3.531072,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@jumpjam.co.uk",
+    "emails": [
+      "info@jumpjam.co.uk"
+    ],
+    "description": "South Wales Biggest Trampoline Park, Climbing Wall, Rodeo Bull, Inflatable, wipeout, Air Bags, Foam Pits, Dodge Ball, Fitness Classes, Birthday Parties, School trips, Teams.",
+    "services": [
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Dragons Den Soft Play",
@@ -2185,12 +2937,16 @@
     "rating": 4.5,
     "total_reviews": 615,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.698974,
     "lng": -3.420868,
-    "found_in_location": "Aberdare",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "bouncy wales",
+    "description": "Dragons Den is a funfilled Soft Play Centre designed to challenge, engage and entertain you and your little ones. Packed with fun for ages 0-11 year, with everything you need to keep your children entertained for hours!",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Tee-Rex Adventure Golf Cardiff",
@@ -2202,12 +2958,17 @@
     "rating": 4.5,
     "total_reviews": 324,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–7 pm\"],\"Monday\":[\"9:30 am–7 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–7 pm\"],\"Tuesday\":[\"9:30 am–7 pm\"],\"Wednesday\":[\"9:30 am–7 pm\"]}",
     "types": "Miniature golf course",
     "lat": 51.541044,
     "lng": -3.114405,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@teerexgolfcardiff.com",
+    "emails": [
+      "info@teerexgolfcardiff.com"
+    ],
+    "description": "Come and enjoy a coffee and some food while the little ones run and let their imagination go wild"
   },
   {
     "name": "Lysaght Institute",
@@ -2219,12 +2980,17 @@
     "rating": 4.5,
     "total_reviews": 300,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20133\u202fpm\"],\"Monday\":[\"10\u202fam\u20133\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–3 pm\"],\"Monday\":[\"10 am–3 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–3 pm\"],\"Tuesday\":[\"10 am–3 pm\"],\"Wednesday\":[\"10 am–3 pm\"]}",
     "types": "Events Venue",
     "lat": 51.577004,
     "lng": -2.9678,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@lysaght-institute.com",
+    "emails": [
+      "info@lysaght-institute.com"
+    ],
+    "description": "Lysaght Institute offers versitile space to meet, learn and celebrate. Find us at the heart of the cultural city of Newport."
   },
   {
     "name": "Cathays Community Centre",
@@ -2236,12 +3002,22 @@
     "rating": 4.5,
     "total_reviews": 260,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 51.491697,
     "lng": -3.180694,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "damian.bridgeman@cathays.org.uk",
+    "emails": [
+      "damian.bridgeman@cathays.org.uk",
+      "ieuan.bater@cathays.org.uk",
+      "isobel.sweet@cathays.org.uk",
+      "khalid.awad-khan@cathays.org.uk",
+      "rhiannon.mcnamara@cathays.org.uk",
+      "simon.murray@cathays.org.uk"
+    ],
+    "description": "Cathays & Central Youth & Community Project aims to support the community in Cathays and central Cardiff. It manages Cathays Community Centre that has an independent Café, Recording Studio, Bakery together with its own meeting room, two large halls, music rehearsal rooms, and social space. It..."
   },
   {
     "name": "Party Britain - Fancy Dress",
@@ -2253,12 +3029,13 @@
     "rating": 4.5,
     "total_reviews": 227,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Costume shop",
     "lat": 51.502663,
     "lng": -3.538865,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Flower design heart shaped Happy Mother's Day 17\" foil balloon. Click & Collect orders: Balloon supplied inflated with helium. Delivery order..."
   },
   {
     "name": "Maes-y-Coed Community Centre",
@@ -2270,12 +3047,17 @@
     "rating": 4.5,
     "total_reviews": 137,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Community centre",
     "lat": 51.519103,
     "lng": -3.197058,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bookings@myc.wales",
+    "emails": [
+      "bookings@myc.wales"
+    ],
+    "description": "We have a range of after school sports classes and events"
   },
   {
     "name": "Alderman George Green Community Centre",
@@ -2287,7 +3069,7 @@
     "rating": 4.5,
     "total_reviews": 122,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Community centre",
     "lat": 54.637709,
     "lng": -5.6625,
@@ -2309,7 +3091,12 @@
     "lat": 53.22455,
     "lng": -4.143316,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "conferences@bangor.ac.uk",
+    "emails": [
+      "conferences@bangor.ac.uk"
+    ],
+    "description": "Nestled between the mountains of Snowdonia and the Menai Strait, Bangor provides an excellent backdrop to your event."
   },
   {
     "name": "Taff's Well Village Hall",
@@ -2326,7 +3113,12 @@
     "lat": 51.543476,
     "lng": -3.268307,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "twvillagehall@gmail.com",
+    "emails": [
+      "twvillagehall@gmail.com"
+    ],
+    "description": "We are located in the heart of the village of Taffs Well. We are a community-building providing modern and suitable facilities for local residents. It’s not a council building but is run by volunteers, and sustained by hires. It is available for use for classes, fitness, events, fundraisers, and..."
   },
   {
     "name": "Green Road Community Centre",
@@ -2342,8 +3134,16 @@
     "types": "Community centre",
     "lat": 54.632494,
     "lng": -5.670942,
-    "found_in_location": "Newtownards",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "email": "communityhalls@ardsandnorthdown.gov.uk",
+    "emails": [
+      "communityhalls@ardsandnorthdown.gov.uk"
+    ],
+    "description": "Hamilton Road Community Hub, 39 Hamilton Road, Bangor, BT20 4LF",
+    "services": [
+      "Bouncy Castles"
+    ]
   },
   {
     "name": "Smudge's Disco",
@@ -2355,12 +3155,13 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u201311\u202fpm\"],\"Monday\":[\"11\u202fam\u201310\u202fpm\"],\"Saturday\":[\"11\u202fam\u201311\u202fpm\"],\"Sunday\":[\"11\u202fam\u201310\u202fpm\"],\"Thursday\":[\"11\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–11 pm\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"11 am–11 pm\"],\"Sunday\":[\"11 am–10 pm\"],\"Thursday\":[\"11 am–11 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–11 pm\"]}",
     "types": "Mobile disco service",
     "lat": 53.04431,
     "lng": -2.965675,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Event DJ Wrexham, Wedding DJ Wrexham, Corporate DJ Wrexham, Hotel DJ Wrexham, Party DJ Wrexham, Mobile DJ Wrexham, DJ Wrexham"
   },
   {
     "name": "Banana Ben's Play Centre + Cafe Wrexham",
@@ -2372,12 +3173,17 @@
     "rating": 4.4,
     "total_reviews": 401,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9 am–6:30 pm\"],\"Sunday\":[\"9 am–6:30 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 53.047397,
     "lng": -3.001974,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@bananabens.co.uk",
+    "emails": [
+      "info@bananabens.co.uk"
+    ],
+    "description": "Based in Wrexham town centre, Banana Ben’s features a state of the art play frame, a role play street, party rooms and a great café"
   },
   {
     "name": "Poppelwood Play Centre",
@@ -2389,12 +3195,17 @@
     "rating": 4.4,
     "total_reviews": 305,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201312\u202fpm\",\"12:30\u20132:30\u202fpm\",\"3\u20135\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u201312\u202fpm\",\"12:30\u20132:30\u202fpm\",\"3\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u201312\u202fpm\",\"12:30\u20132:30\u202fpm\",\"3\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u201312\u202fpm\",\"12:30\u20132:30\u202fpm\",\"3\u20135\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10\u202fam\u201312\u202fpm\",\"12:30\u20132:30\u202fpm\",\"3\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–12 pm\",\"12:30–2:30 pm\",\"3–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–12 pm\",\"12:30–2:30 pm\",\"3–5 pm\"],\"Sunday\":[\"10 am–12 pm\",\"12:30–2:30 pm\",\"3–5 pm\"],\"Thursday\":[\"10 am–12 pm\",\"12:30–2:30 pm\",\"3–5 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10 am–12 pm\",\"12:30–2:30 pm\",\"3–5 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.577553,
     "lng": -3.23197,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "poppelwoodenquiry@gmail.com",
+    "emails": [
+      "poppelwoodenquiry@gmail.com"
+    ],
+    "description": "Woodland themed soft-play centre and children's party venue based in Caerphilly, South Wales."
   },
   {
     "name": "The Joke Shop",
@@ -2406,12 +3217,20 @@
     "rating": 4.4,
     "total_reviews": 289,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Costume shop",
     "lat": 51.481271,
     "lng": -3.179717,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@jokeshop.co.uk",
+    "emails": [
+      "info@jokeshop.co.uk"
+    ],
+    "description": "Cardiff's premium supplier of fancy dress costumes, pranks, practical jokes, masks, stink bombs, liquid ass, masks, and more.",
+    "services": [
+      "Face Painting"
+    ]
   },
   {
     "name": "Enchanted Adventures Bridgend",
@@ -2423,12 +3242,21 @@
     "rating": 4.4,
     "total_reviews": 205,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"9:30 am–5:30 pm\"],\"Sunday\":[\"9:30 am–5:30 pm\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.481968,
     "lng": -3.589681,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@enchantedadventures.co.uk",
+    "emails": [
+      "info@enchantedadventures.co.uk",
+      "contact@mysite.com"
+    ],
+    "description": "Here at Enchanted Adventures we take care of the hard work for you so you can relax and enjoy a magical time with your child on their special day.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Gresford Colliery Sports & Social Club Ltd",
@@ -2440,7 +3268,7 @@
     "rating": 4.4,
     "total_reviews": 205,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"2\u201311\u202fpm\"],\"Monday\":[\"4\u20138\u202fpm\"],\"Saturday\":[\"12\u201311\u202fpm\"],\"Sunday\":[\"12\u20139\u202fpm\"],\"Thursday\":[\"4\u20139\u202fpm\"],\"Tuesday\":[\"4\u20139\u202fpm\"],\"Wednesday\":[\"4\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"2–11 pm\"],\"Monday\":[\"4–8 pm\"],\"Saturday\":[\"12–11 pm\"],\"Sunday\":[\"12–9 pm\"],\"Thursday\":[\"4–9 pm\"],\"Tuesday\":[\"4–9 pm\"],\"Wednesday\":[\"4–9 pm\"]}",
     "types": "Social club",
     "lat": 53.07243,
     "lng": -2.991218,
@@ -2457,12 +3285,17 @@
     "rating": 4.4,
     "total_reviews": 145,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5\u202fpm\u201312\u202fam\"],\"Monday\":[\"7\u201311\u202fpm\"],\"Saturday\":[\"12\u202fpm\u201312\u202fam\"],\"Sunday\":[\"12\u202fpm\u201312\u202fam\"],\"Thursday\":[\"7\u201311\u202fpm\"],\"Tuesday\":[\"7\u201311\u202fpm\"],\"Wednesday\":[\"7\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"5 pm–12 am\"],\"Monday\":[\"7–11 pm\"],\"Saturday\":[\"12 pm–12 am\"],\"Sunday\":[\"12 pm–12 am\"],\"Thursday\":[\"7–11 pm\"],\"Tuesday\":[\"7–11 pm\"],\"Wednesday\":[\"7–11 pm\"]}",
     "types": "Social club",
     "lat": 54.651813,
     "lng": -5.683646,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@bangorsocialclub.co.uk",
+    "emails": [
+      "info@bangorsocialclub.co.uk"
+    ],
+    "description": "Bangor FC Social Club is a members only club in the heart of Bangor, supporting Bangor football club and the local community. With a members bar, live sports and function room available for hire."
   },
   {
     "name": "Beaufort Centre",
@@ -2491,12 +3324,17 @@
     "rating": 4.4,
     "total_reviews": 103,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–11:30 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Village hall",
     "lat": 51.630753,
     "lng": -2.975565,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "admin@ponthirvillagehall.org",
+    "emails": [
+      "admin@ponthirvillagehall.org"
+    ],
+    "description": "Ponthir Village Hall is the heart of our vibrant community, offering a welcoming space for events, activities, and gatherings."
   },
   {
     "name": "Good Time Charlie's Wrexham",
@@ -2508,12 +3346,20 @@
     "rating": 4.4,
     "total_reviews": 100,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Saturday\":[\"9\u202fam\u20133:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20133:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:45\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:45\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:45 pm\"],\"Monday\":[\"9 am–5:45 pm\"],\"Saturday\":[\"9 am–3:30 pm\"],\"Sunday\":[\"9 am–3:30 pm\"],\"Thursday\":[\"9 am–5:45 pm\"],\"Tuesday\":[\"9 am–5:45 pm\"],\"Wednesday\":[\"9 am–5:45 pm\"]}",
     "types": "Indoor playground",
     "lat": 53.03927,
     "lng": -2.930769,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "wrexham@gtcwrexham.co.uk",
+    "emails": [
+      "wrexham@gtcwrexham.co.uk"
+    ],
+    "description": "Sensory room for babies, non-walkers and children with additional needs",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "The Glen",
@@ -2525,11 +3371,11 @@
     "rating": 4.4,
     "total_reviews": 93,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.681176,
     "lng": -4.165092,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -2547,7 +3393,12 @@
     "lat": 51.510507,
     "lng": -3.59295,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "richard.palmer@dataunitwales.gov.uk",
+    "emails": [
+      "richard.palmer@dataunitwales.gov.uk"
+    ],
+    "description": "Browsealoud - help with reading our website.Find out more..."
   },
   {
     "name": "Halo Garw Valley Life Centre",
@@ -2559,12 +3410,20 @@
     "rating": 4.4,
     "total_reviews": 61,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"9 am–2 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Leisure centre",
     "lat": 51.610181,
     "lng": -3.584978,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@haloleisure.org.uk",
+    "emails": [
+      "info@haloleisure.org.uk"
+    ],
+    "description": "- Everyone gets 2 hours FREE when using Bridgend Life Centre. All you need to do is enter your car registration details onto the screen in Reception to",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Inkspot Venue",
@@ -2581,7 +3440,12 @@
     "lat": 51.487182,
     "lng": -3.159661,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "andrew_lanning@ymail.com",
+    "emails": [
+      "andrew_lanning@ymail.com"
+    ],
+    "description": "Are you searching for an event venue in Cardiff? Discover Inkspot Venue: advanced event venue."
   },
   {
     "name": "Roath Church House",
@@ -2598,7 +3462,12 @@
     "lat": 51.493376,
     "lng": -3.155811,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "stewartlisk@live.co.uk",
+    "emails": [
+      "stewartlisk@live.co.uk"
+    ],
+    "description": "8am Eucharist9.30am Sung Eucharist (with Sunday School every Sunday during school term time)"
   },
   {
     "name": "The Share Centre",
@@ -2610,12 +3479,13 @@
     "rating": 4.4,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Community centre",
     "lat": 51.584169,
     "lng": -2.997383,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "We provide creative opportunities for young people to actively and purposefully pursue their interests, improve their well-being and realise their potential across the creative arts, education, youth work and community development. Find out more below"
   },
   {
     "name": "Pembrey Memorial Community Centre",
@@ -2631,7 +3501,7 @@
     "types": "Community centre",
     "lat": 51.688691,
     "lng": -4.274227,
-    "found_in_location": "Burry Port",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -2644,7 +3514,7 @@
     "rating": 4.4,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"10\u202fam\u201311\u202fpm\"],\"Sunday\":[\"10\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"10 am–11 pm\"],\"Sunday\":[\"10 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Community centre",
     "lat": 51.531437,
     "lng": -3.65009,
@@ -2661,12 +3531,21 @@
     "rating": 4.3,
     "total_reviews": 1801,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6:30 pm\"],\"Monday\":[\"9:30 am–6:30 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"9:30 am–6:30 pm\"],\"Tuesday\":[\"9:30 am–6:30 pm\"],\"Wednesday\":[\"9:30 am–6:30 pm\"]}",
     "types": "Indoor playground",
     "lat": 51.473785,
     "lng": -3.15058,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@mamboplay.com",
+    "emails": [
+      "info@mamboplay.com",
+      "admin@mamboplay.com"
+    ],
+    "description": "Mambo is a huge soft play centre for kids in Cardiff, Newport and Barry. Birthday Parties, Go Kart Quads, Football and Amusements. Play centres are what we do!",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "The Cobbles Collective",
@@ -2678,12 +3557,17 @@
     "rating": 4.3,
     "total_reviews": 1104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–4 pm\"],\"Monday\":[\"9:30 am–4 pm\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"9:30 am–4 pm\"],\"Thursday\":[\"9:30 am–4 pm\"],\"Tuesday\":[\"9:30 am–4 pm\"],\"Wednesday\":[\"9:30 am–4 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.482137,
     "lng": -3.594524,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "weddings@cobbleskitchen.co.uk",
+    "emails": [
+      "weddings@cobbleskitchen.co.uk"
+    ],
+    "description": "Discover The Cobbles Collective in Vale of Glamorgan, South Wales—a grade II listed barn wedding venue brimming with charm. Enjoy timeless elegance with high ceilings, oak beams, and stunning surroundings perfect for your photographs. Book your tour today!"
   },
   {
     "name": "Funtastic",
@@ -2695,12 +3579,16 @@
     "rating": 4.3,
     "total_reviews": 753,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.570171,
     "lng": -3.238848,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "description": "Funtastic Play Centre is a funfilled Soft Play Centre designed to challenge, engage and entertain you and your little ones. Packed with fun for ages 0-11 years.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Cheeky Monkeys",
@@ -2712,12 +3600,16 @@
     "rating": 4.3,
     "total_reviews": 563,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–3 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.643103,
     "lng": -3.048512,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Newport",
+    "found_with_query": "bouncy wales",
+    "description": "The biggest soft play centre in Torfaen South Wales welcomes children for exciting indoor and outdoor play!! Cheeky Monkeys (Cwmbran) Soft Play Centre",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Maesgwyn Hall",
@@ -2734,7 +3626,12 @@
     "lat": 53.051934,
     "lng": -3.007174,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "enquiries@mghall.co.uk",
+    "emails": [
+      "enquiries@mghall.co.uk"
+    ],
+    "description": "A food and drink venue located in the gateway to Wrexham. Available for all your function needs. Run by the people behind the Fat Boar."
   },
   {
     "name": "The Eden Centre - Caerphilly",
@@ -2746,12 +3643,16 @@
     "rating": 4.3,
     "total_reviews": 271,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u201312\u202fpm\",\"12:30\u20133\u202fpm\",\"3:30\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"],\"Monday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"],\"Saturday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"],\"Tuesday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"],\"Wednesday\":[\"9:30 am–12 pm\",\"12:30–3 pm\",\"3:30–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.593605,
     "lng": -3.210979,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "description": "The Eden Centre Soft Play & Party Venues, are beacons of fun, learning, and togetherness for all children aged 0 to 14.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Innoflate Newport",
@@ -2763,12 +3664,17 @@
     "rating": 4.3,
     "total_reviews": 261,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"1\u20138\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"1–8 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Indoor playground",
     "lat": 51.574536,
     "lng": -2.942487,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Penyrheol Community Centre",
@@ -2784,8 +3690,13 @@
     "types": "Community centre",
     "lat": 51.585934,
     "lng": -3.243985,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "ptecommunitycouncil@gmail.com",
+    "emails": [
+      "ptecommunitycouncil@gmail.com"
+    ],
+    "description": "Welcome Welcome to the website of Penyrheol Trecenydd Energlyn Community Council and we hope you find the site useful. Please feel free to contact any of our Councillors if you need any help. Your councillors UPDATE ON COMMUNITY COUNCIL MEETINGS: Meetings will now be held face-to-face at..."
   },
   {
     "name": "Caerphilly Municipal Club",
@@ -2797,12 +3708,13 @@
     "rating": 4.3,
     "total_reviews": 133,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u201311:30\u202fpm\"],\"Monday\":[\"1\u201310:30\u202fpm\"],\"Saturday\":[\"12\u201311:30\u202fpm\"],\"Sunday\":[\"1\u201311:30\u202fpm\"],\"Thursday\":[\"12\u201310:30\u202fpm\"],\"Tuesday\":[\"1\u201310:30\u202fpm\"],\"Wednesday\":[\"1\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–11:30 pm\"],\"Monday\":[\"1–10:30 pm\"],\"Saturday\":[\"12–11:30 pm\"],\"Sunday\":[\"1–11:30 pm\"],\"Thursday\":[\"12–10:30 pm\"],\"Tuesday\":[\"1–10:30 pm\"],\"Wednesday\":[\"1–10:30 pm\"]}",
     "types": "Club",
     "lat": 51.575299,
     "lng": -3.217282,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "description": "Welcome to Caerphilly Municipal Club! Welcome to our website! We hope you find all the information you need. Content is being added and updated at regular intervals so please keep checking back with us! Whats On? If you are looking for somewhere to go in Caerphilly with great entertainment then..."
   },
   {
     "name": "Whitchurch Community Centre",
@@ -2814,12 +3726,18 @@
     "rating": 4.3,
     "total_reviews": 101,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Community centre",
     "lat": 51.515003,
     "lng": -3.219174,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "mmunity@gmail.co",
+    "emails": [
+      "mmunity@gmail.co",
+      "whitchurchcommunity@gmail.com"
+    ],
+    "description": "Are you looking to start a community group in Cardiff? Whitchurch Community Centre can help you host it. Call us on 029 2052 2231 today."
   },
   {
     "name": "Stadium Wedding Venue",
@@ -2831,7 +3749,7 @@
     "rating": 4.3,
     "total_reviews": 55,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Wedding venue",
     "lat": 51.472619,
     "lng": -3.204316,
@@ -2865,12 +3783,20 @@
     "rating": 4.2,
     "total_reviews": 8201,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"3\u20137\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"11\u202fam\u20138\u202fpm\"],\"Sunday\":[\"11\u202fam\u20138\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"3\u20137\u202fpm\"],\"Wednesday\":[\"3\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"3–7 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"11 am–8 pm\"],\"Sunday\":[\"11 am–8 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"3–7 pm\"],\"Wednesday\":[\"3–7 pm\"]}",
     "types": "Amusement park",
     "lat": 51.391657,
     "lng": -3.274418,
-    "found_in_location": "Barry",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "bouncy wales",
+    "email": "hello@barryislandpleasurepark.wales",
+    "emails": [
+      "hello@barryislandpleasurepark.wales"
+    ],
+    "description": "Enjoy family thrills, fun and adventure at Barry Island Pleasure Park. Discover traditional fairground rides such as dodgems, waltzers to our Giant Aerospace ride the tallest fastest looping ride in the uk.",
+    "services": [
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "Playzone",
@@ -2882,12 +3808,13 @@
     "rating": 4.2,
     "total_reviews": 953,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–5 pm\"],\"Sunday\":[\"9:30 am–5 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.659012,
     "lng": -3.910239,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Welcome to Playzone Portsmouth Buy a Gift Voucher – perfect for Christmas, Birthdays and Rewards buy a gift voucher Choose a preset value, or choose a custom amount. Choose the date and time you would like the voucher to be sent, then add a message or even a video! Our Story Playzone Portsmouth..."
   },
   {
     "name": "Whitehead's Sports & Social Club",
@@ -2899,12 +3826,18 @@
     "rating": 4.2,
     "total_reviews": 269,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u202fpm\u201312\u202fam\"],\"Monday\":[\"5\u201310\u202fpm\"],\"Saturday\":[\"12\u201310:30\u202fam\",\"12\u201311:30\u202fpm\"],\"Sunday\":[\"12\u201310:30\u202fpm\"],\"Thursday\":[\"5\u201310\u202fpm\"],\"Tuesday\":[\"5\u201310\u202fpm\"],\"Wednesday\":[\"5\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4 pm–12 am\"],\"Monday\":[\"5–10 pm\"],\"Saturday\":[\"12–10:30 am\",\"12–11:30 pm\"],\"Sunday\":[\"12–10:30 pm\"],\"Thursday\":[\"5–10 pm\"],\"Tuesday\":[\"5–10 pm\"],\"Wednesday\":[\"5–10 pm\"]}",
     "types": "Sports club",
     "lat": 51.578171,
     "lng": -3.038955,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bookings@whiteheadclub.co.uk",
+    "emails": [
+      "bookings@whiteheadclub.co.uk",
+      "secretary@whiteheadclub.co.uk"
+    ],
+    "description": "There's always a warm welcome atyour community club."
   },
   {
     "name": "Ants Inya Pants",
@@ -2916,12 +3849,16 @@
     "rating": 4.2,
     "total_reviews": 266,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:15\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:15\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136:15\u202fpm\"],\"Sunday\":[\"11\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"9:15\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:15\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:15\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:15 am–6 pm\"],\"Monday\":[\"9:15 am–6 pm\"],\"Saturday\":[\"9:30 am–6:15 pm\"],\"Sunday\":[\"11 am–5:30 pm\"],\"Thursday\":[\"9:15 am–6 pm\"],\"Tuesday\":[\"9:15 am–6 pm\"],\"Wednesday\":[\"9:15 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 51.498447,
     "lng": -3.138861,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "We are a family run indoor play centre in Cardiff that is friendly, good value for money, clean and safe.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Ninja Warrior UK Adventure Park (Swansea)",
@@ -2933,12 +3870,17 @@
     "rating": 4.2,
     "total_reviews": 207,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20137\u202fpm\"],\"Monday\":[\"12\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"3\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–7 pm\"],\"Monday\":[\"12–7 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"3–7 pm\"]}",
     "types": "Leisure centre",
     "lat": 51.621258,
     "lng": -3.938171,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "chelmsford@ninjawarrioruk.co.uk",
+    "emails": [
+      "chelmsford@ninjawarrioruk.co.uk"
+    ],
+    "description": "Inspired by ITV’s hit programme Ninja Warrior UK! You can climb, balance, jump, swing across different obstacles using your inner ninja skills. Ninja Warrior Guildford has the famous warped wall for every inspiring Ninja to conquer."
   },
   {
     "name": "Wrexham Memorial Hall",
@@ -2950,12 +3892,17 @@
     "rating": 4.2,
     "total_reviews": 138,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Village hall",
     "lat": 53.048845,
     "lng": -2.990295,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "memorialhall@wrexham.gov.uk",
+    "emails": [
+      "memorialhall@wrexham.gov.uk"
+    ],
+    "description": "The Memorial Hall offers a range of facilities for events ranging from conferences and seminars to fairs, dinner dances, discos, concerts and much more!"
   },
   {
     "name": "Malpas Community Centre",
@@ -2972,7 +3919,8 @@
     "lat": 51.610447,
     "lng": -3.00498,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Community centres can be used by local groups and individuals."
   },
   {
     "name": "Kuku at Park Plaza",
@@ -2984,12 +3932,19 @@
     "rating": 4.2,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–2 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Events Venue",
     "lat": 51.483462,
     "lng": -3.176896,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@kukucardiff.com",
+    "emails": [
+      "info@kukucardiff.com",
+      "eventsales@parkplazacardiff.com",
+      "revenuemanager@parkplazacardiff.com"
+    ],
+    "description": "The Kuku is the perfect private hire venue situated within the Park Plaza Cardiff hotel and is ideal for catering for wedding receptions, birthdays, corporate & networking."
   },
   {
     "name": "St. Patrick's Catholic Social Club",
@@ -3001,7 +3956,7 @@
     "rating": 4.2,
     "total_reviews": 33,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"6\u201310\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6\u201310\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"6–10 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6–10 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Function room facility",
     "lat": 51.582908,
     "lng": -2.966556,
@@ -3018,12 +3973,13 @@
     "rating": 4.2,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.643398,
     "lng": -5.675552,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Hirestore is a family run company with four branches in Northern Ireland. We are an experienced team and have been in business for 35 years. We are committed to providing modern & reliable equipment for hire, to the public & trade.read more…"
   },
   {
     "name": "Wesleyan Community Hall",
@@ -3039,7 +3995,7 @@
     "types": "Village hall",
     "lat": 51.669543,
     "lng": -4.149504,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3069,12 +4025,17 @@
     "rating": 4.1,
     "total_reviews": 692,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20137\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"3\u20137\u202fpm\"],\"Wednesday\":[\"3\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–7 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"3–7 pm\"],\"Wednesday\":[\"3–7 pm\"]}",
     "types": "Amusement Centre",
     "lat": 51.465423,
     "lng": -3.195691,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "chelmsford@ninjawarrioruk.co.uk",
+    "emails": [
+      "chelmsford@ninjawarrioruk.co.uk"
+    ],
+    "description": "Inspired by ITV’s hit programme Ninja Warrior UK! You can climb, balance, jump, swing across different obstacles using your inner ninja skills. Ninja Warrior Guildford has the famous warped wall for every inspiring Ninja to conquer."
   },
   {
     "name": "Park Social Club",
@@ -3086,12 +4047,17 @@
     "rating": 4.1,
     "total_reviews": 173,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5\u201311\u202fpm\"],\"Monday\":[\"4\u201311\u202fpm\"],\"Saturday\":[\"6\u202fpm\u201312:30\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5\u201311\u202fpm\"],\"Tuesday\":[\"4\u201311\u202fpm\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"5–11 pm\"],\"Monday\":[\"4–11 pm\"],\"Saturday\":[\"6 pm–12:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5–11 pm\"],\"Tuesday\":[\"4–11 pm\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Events Venue",
     "lat": 51.492005,
     "lng": -3.171478,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "parksocialclub@yahoo.com",
+    "emails": [
+      "parksocialclub@yahoo.com"
+    ],
+    "description": "Enjoy parties, sports, live music, bingo, and fun at Park Social! All welcome!"
   },
   {
     "name": "Newtown Llantwit Community Centre",
@@ -3107,7 +4073,7 @@
     "types": "Community centre",
     "lat": 51.552456,
     "lng": -3.335391,
-    "found_in_location": "Pontypridd",
+    "found_in_location": "Cardiff",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3120,12 +4086,13 @@
     "rating": 4.1,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 51.506128,
     "lng": -3.227837,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Multi-Use Venue Events can include children’s parties, exercise classes, playgroups and many more Parking Available Unlike other community venues in the area, we have ample on-site parking available for users Established in 1986 We’ve been serving the local community for nearly forty years Our..."
   },
   {
     "name": "Discobowl Newport",
@@ -3137,12 +4104,18 @@
     "rating": 4.0,
     "total_reviews": 913,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u201312\u202fam\"],\"Monday\":[\"11\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fam\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"11\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–12 am\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"11 am–10 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
     "types": "Bowling Alley",
     "lat": 51.587313,
     "lng": -2.993895,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "complaints@discobowl.co.uk",
+    "emails": [
+      "complaints@discobowl.co.uk",
+      "newport@discobowl.co.uk"
+    ],
+    "description": "Whether you’re planning a fun night out, a family afternoon, or a team celebration — Discobowl has it all. Challenge your friends on our high-tech bowling lanes, dive into arcade classics, or explore Scrapyard Golf, Karaoke and Laser Quest."
   },
   {
     "name": "Jump Cardiff",
@@ -3159,7 +4132,20 @@
     "lat": 51.52552,
     "lng": -3.192622,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "jumpparties@123jump.co.uk",
+    "emails": [
+      "jumpparties@123jump.co.uk",
+      "info@jumpbristol.co.uk",
+      "info@jumpcardiff.co.uk",
+      "info@jumpplymouth.co.uk",
+      "laura@jumpbristol.co.uk"
+    ],
+    "description": "Jump is the perfect place to play & party! Always book your sessions online in advance for our best value tariff. 123 Jump",
+    "services": [
+      "Ball Pool",
+      "Soft Play"
+    ]
   },
   {
     "name": "Halo Bridgend Life Centre",
@@ -3171,12 +4157,20 @@
     "rating": 4.0,
     "total_reviews": 375,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20139\u202fpm\"],\"Monday\":[\"6\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"6\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–9 pm\"],\"Monday\":[\"6 am–9 pm\"],\"Saturday\":[\"7:30 am–5 pm\"],\"Sunday\":[\"7:30 am–5 pm\"],\"Thursday\":[\"6 am–9 pm\"],\"Tuesday\":[\"6 am–9 pm\"],\"Wednesday\":[\"6 am–9 pm\"]}",
     "types": "Leisure centre",
     "lat": 51.503246,
     "lng": -3.582157,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@haloleisure.org.uk",
+    "emails": [
+      "info@haloleisure.org.uk"
+    ],
+    "description": "- Everyone gets 2 hours FREE when using Bridgend Life Centre. All you need to do is enter your car registration details onto the screen in Reception to",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Soft Landings Play Zone",
@@ -3188,7 +4182,7 @@
     "rating": 4.0,
     "total_reviews": 374,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134\u202fpm\"],\"Sunday\":[\"11:45\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"11:45 am–4 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 51.507221,
     "lng": -3.57464,
@@ -3209,8 +4203,23 @@
     "types": "Bouncy castle hire",
     "lat": 53.268905,
     "lng": -4.271609,
-    "found_in_location": "Menai Bridge",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Bangor",
+    "found_with_query": "bouncy wales",
+    "email": "bouncealot@yahoo.com",
+    "emails": [
+      "bouncealot@yahoo.com"
+    ],
+    "description": "Bounce A Lot Bouncy Castle Hire we pride ourselves on being reliable and providing an outstanding service to our customers. All our Castles are suitable",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Rodeo Hire Wales",
@@ -3239,12 +4248,17 @@
     "rating": 3.9,
     "total_reviews": 154,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u20137\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"4\u20137\u202fpm\"],\"Tuesday\":[\"4\u20136\u202fpm\"],\"Wednesday\":[\"4\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4–7 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"4–7 pm\"],\"Tuesday\":[\"4–6 pm\"],\"Wednesday\":[\"4–6 pm\"]}",
     "types": "Adventure sports centre",
     "lat": 51.574518,
     "lng": -2.94245,
     "found_in_location": "Newport",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Round The Twist",
@@ -3256,12 +4270,17 @@
     "rating": 3.8,
     "total_reviews": 277,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20132:30\u202fpm\",\"3:30\u20136:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u201312\u202fpm\",\"12:15\u20132:15\u202fpm\",\"2:30\u20134:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u201312\u202fpm\",\"12:15\u20132:15\u202fpm\",\"2:30\u20134:30\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20132:30\u202fpm\",\"3:30\u20136:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20132:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20132:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–2:30 pm\",\"3:30–6:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–12 pm\",\"12:15–2:15 pm\",\"2:30–4:30 pm\"],\"Sunday\":[\"10 am–12 pm\",\"12:15–2:15 pm\",\"2:30–4:30 pm\"],\"Thursday\":[\"9:30 am–2:30 pm\",\"3:30–6:30 pm\"],\"Tuesday\":[\"9:30 am–2:30 pm\"],\"Wednesday\":[\"9:30 am–2:30 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 53.053008,
     "lng": -2.973437,
     "found_in_location": "Wrexham",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "contact@roundthetwist.biz",
+    "emails": [
+      "contact@roundthetwist.biz"
+    ],
+    "description": "We can’t wait to welcome you fortwo hours of non-stop fun, with play sessions runningsix days a week during termtime or seven days a week during school holidays!For over12 years, we’ve been a go-to destination for families, offering aspacious (largest playcentre in the Nth West), multi-level..."
   },
   {
     "name": "Top Table Catering Hire Limited",
@@ -3273,12 +4292,13 @@
     "rating": 3.8,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Catering supplier",
     "lat": 51.455769,
     "lng": -3.200263,
     "found_in_location": "Cardiff",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "description": "Top Table specialise in providing an excellent catering equipment hire service in Cardiff. Browse our catering equipment rental options today!"
   },
   {
     "name": "Atlantic Marquees",
@@ -3311,7 +4331,7 @@
     "types": "Bouncy castle hire",
     "lat": 53.30564,
     "lng": -4.629406,
-    "found_in_location": "Holyhead",
+    "found_in_location": "Bangor",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3346,7 +4366,13 @@
     "lat": 54.639427,
     "lng": -5.647143,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course"
+    ]
   },
   {
     "name": "Party Planet Castles",
@@ -3362,7 +4388,7 @@
     "types": "Bouncy castle hire",
     "lat": 51.672769,
     "lng": -3.187122,
-    "found_in_location": "Blackwood",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3375,12 +4401,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 51.720322,
     "lng": -3.84622,
     "found_in_location": "Swansea",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "hello@magicair.co.uk",
+    "emails": [
+      "hello@magicair.co.uk"
+    ],
+    "description": "Fantastic inflatables for sale including bouncy castles, inflatable games, inflatable theme parks and much more! All inflatables have been designed with hirers in mind to ensure a truly amazing product.",
+    "services": [
+      "Bouncy Castles",
+      "Obstacle Course"
+    ]
   },
   {
     "name": "Moments of purpose events hire",
@@ -3396,7 +4431,7 @@
     "types": "Party equipment rental service",
     "lat": 51.592087,
     "lng": -3.171832,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Newport",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3426,7 +4461,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201312\u202fam\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–12 am\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Children's party service",
     "lat": 53.046549,
     "lng": -2.969875,
@@ -3448,7 +4483,18 @@
     "lat": 54.662834,
     "lng": -5.683211,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "info@propmypartyni.com",
+    "emails": [
+      "info@propmypartyni.com",
+      "propmypartyni@gmail.com"
+    ],
+    "description": "Premium soft play equipment hire in Belfast, Northern Ireland & Ireland. Safe, fun soft play sets for kids parties and events. Professional delivery and setup across Belfast, Dublin, and all of Ireland.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "BANGOR LINEN HIRE",
@@ -3460,12 +4506,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Laundry service",
     "lat": 54.643536,
     "lng": -5.673374,
     "found_in_location": "Bangor",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "bangorlinenhire@gmail.com",
+    "emails": [
+      "bangorlinenhire@gmail.com"
+    ],
+    "description": "Bangor Linen Hire provides a linen hire and laundry service to the catering, hotel and leisure industries."
   },
   {
     "name": "Dress Up your Event",
@@ -3481,8 +4532,12 @@
     "types": "Event Planning Service",
     "lat": 51.687989,
     "lng": -4.19225,
-    "found_in_location": "Llanelli",
-    "found_with_query": "bouncy wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "bouncy wales",
+    "description": "Flower Walls hire in Swansea, Cardiff, Llanelli, Porthcawl, Port Talbot, Carmarthen, Haverfordwest, Tenby, Saundersfooth, Fishguard, and South West Wales!",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Hoodys Maskots And Hot Tub Hire",
@@ -3515,7 +4570,7 @@
     "types": "Photo booth",
     "lat": 51.484438,
     "lng": -3.689529,
-    "found_in_location": "Porthcawl",
+    "found_in_location": "Bridgend",
     "found_with_query": "bouncy wales"
   },
   {
@@ -3533,7 +4588,16 @@
     "lat": 51.605764,
     "lng": -3.543894,
     "found_in_location": "Bridgend",
-    "found_with_query": "bouncy wales"
+    "found_with_query": "bouncy wales",
+    "email": "admin@photoboothsbridgend.co.uk",
+    "emails": [
+      "admin@photoboothsbridgend.co.uk",
+      "info@domain.com"
+    ],
+    "description": "Looking for photobooth hire in Bridgend? Our services are perfect for weddings, birthdays, and corporate events. Reserve your date today!",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Chocolate Fountains Wales",
@@ -3545,7 +4609,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–3 pm\"],\"Monday\":[\"9:30 am–3 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–3 pm\"],\"Tuesday\":[\"9:30 am–3 pm\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Wedding service",
     "lat": 51.515772,
     "lng": -3.557362,

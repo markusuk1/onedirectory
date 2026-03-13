@@ -9,12 +9,21 @@
     "rating": 5.0,
     "total_reviews": 179,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.86212,
     "lng": -4.253234,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@partyzonehire.co.uk",
+    "emails": [
+      "hello@partyzonehire.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course"
+    ]
   },
   {
     "name": "Manta Ray Events",
@@ -26,12 +35,20 @@
     "rating": 5.0,
     "total_reviews": 147,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Event Planning Service",
     "lat": 55.857926,
     "lng": -4.263908,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@mantarayevents.com",
+    "emails": [
+      "info@mantarayevents.com"
+    ],
+    "description": "We are a professional Fun Casino & Photo Booth hire company covering all of mainland Scotland, the Scottish Isles & the North of England.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Funhouse Inflatables",
@@ -43,12 +60,24 @@
     "rating": 5.0,
     "total_reviews": 138,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.730131,
     "lng": -3.944078,
-    "found_in_location": "Larkhall",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "bouncy scotland",
+    "email": "info@funhouse-inflatables.co.uk",
+    "emails": [
+      "info@funhouse-inflatables.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Kji's Castles and Entertainment",
@@ -65,7 +94,19 @@
     "lat": 57.467988,
     "lng": -4.267202,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "agataschutzmann@gmail.com",
+    "emails": [
+      "agataschutzmann@gmail.com"
+    ],
+    "description": "Whatever you’re looking for in the North of Scotland we cater for all events: birthday parties, galas, school fetes, BBQs, corporate events, weddings.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Soft Play"
+    ]
   },
   {
     "name": "Party Supplies Aberdeen",
@@ -77,12 +118,21 @@
     "rating": 5.0,
     "total_reviews": 118,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 57.095126,
     "lng": -2.091992,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "partysuppliesaberdeen@gmail.com",
+    "emails": [
+      "partysuppliesaberdeen@gmail.com"
+    ],
+    "description": "Party Supplies Aberdeen provide FUN party equipment for hire. Bouncy castles, inflatables, soft play, light up numbers & letters, sequin shimmer walls, tables & chairs, games. We cover Aberdeen and parts of Aberdeenshire",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide"
+    ]
   },
   {
     "name": "Cubis Castles",
@@ -94,7 +144,7 @@
     "rating": 5.0,
     "total_reviews": 104,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.798314,
     "lng": -4.008904,
@@ -111,12 +161,17 @@
     "rating": 5.0,
     "total_reviews": 88,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4:30 pm\"],\"Monday\":[\"8:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4:30 pm\"],\"Tuesday\":[\"8:30 am–4:30 pm\"],\"Wednesday\":[\"8:30 am–4:30 pm\"]}",
     "types": "Event Planning Service",
     "lat": 55.854567,
     "lng": -4.308212,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@88events.com",
+    "emails": [
+      "info@88events.com"
+    ],
+    "description": "Luxury linen hire & table styling for wow-factor events and weddings."
   },
   {
     "name": "Forget Me Not Children's Parties",
@@ -133,7 +188,15 @@
     "lat": 55.976267,
     "lng": -3.201316,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "bookings@forgetmenotchildrensparties.co.uk",
+    "emails": [
+      "bookings@forgetmenotchildrensparties.co.uk"
+    ],
+    "description": "Looking for the perfect children's entertainer for your next birthday? From Princess to Superheros and even magical wizards... we do it all.",
+    "services": [
+      "Face Painting"
+    ]
   },
   {
     "name": "EK Kastles - Bouncy Castle Hire East Kilbride",
@@ -145,12 +208,23 @@
     "rating": 5.0,
     "total_reviews": 78,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.76822,
     "lng": -4.209448,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@ekkastles.co.uk",
+    "emails": [
+      "info@ekkastles.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Soft Play"
+    ]
   },
   {
     "name": "Green Field Marquees",
@@ -162,12 +236,17 @@
     "rating": 5.0,
     "total_reviews": 72,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Marquee hire service",
     "lat": 55.947509,
     "lng": -3.242243,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@greenfieldmarquees.com",
+    "emails": [
+      "info@greenfieldmarquees.com"
+    ],
+    "description": "Full marquee hire Scotland service, marquee hire for all occasions from bespoke wedding marquees & events to corporate clients & large festivals."
   },
   {
     "name": "Tiggeriffic Bouncy Castle Hire",
@@ -179,12 +258,23 @@
     "rating": 5.0,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20139:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–9:30 pm\"],\"Monday\":[\"7:30 am–9:30 pm\"],\"Saturday\":[\"7:30 am–9:30 pm\"],\"Sunday\":[\"7:30 am–9:30 pm\"],\"Thursday\":[\"7:30 am–9:30 pm\"],\"Tuesday\":[\"7:30 am–9:30 pm\"],\"Wednesday\":[\"7:30 am–9:30 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.611677,
     "lng": -4.517867,
     "found_in_location": "Kilmarnock",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@tiggeriffic.com",
+    "emails": [
+      "info@tiggeriffic.com"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Fifty Six Events",
@@ -196,12 +286,17 @@
     "rating": 5.0,
     "total_reviews": 56,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 56.495386,
     "lng": -3.003499,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@fiftysixevents.co.uk",
+    "emails": [
+      "hello@fiftysixevents.co.uk"
+    ],
+    "description": "Wedding Prop Hire & Styling in Dundee, Fife & Perthshire, Scotland."
   },
   {
     "name": "Kirkwoods Bouncy Castles",
@@ -213,12 +308,24 @@
     "rating": 5.0,
     "total_reviews": 49,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.808278,
     "lng": -4.316756,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "kirkwoodscastles@hotmail.co.uk",
+    "emails": [
+      "kirkwoodscastles@hotmail.co.uk"
+    ],
+    "description": "Friendly and professional service. Glasgow Bouncy Castle Hire and Bouncy Slide Hire, Thornliebank, Glasgow, East Renfrewshire, G46 8NR.",
+    "services": [
+      "Bouncy Castles",
+      "Face Painting",
+      "Garden Games",
+      "Inflatable Slide",
+      "Soft Play"
+    ]
   },
   {
     "name": "Bouncy Castle Hire Fife",
@@ -235,7 +342,18 @@
     "lat": 56.138653,
     "lng": -3.142132,
     "found_in_location": "Kirkcaldy",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@kingofthecastlescotland.co.uk",
+    "emails": [
+      "info@kingofthecastlescotland.co.uk",
+      "o@kingofthecastlescotland.co.uk"
+    ],
+    "description": "Welcome to King of the Castle Scotland. BOUNCY CASTLE HIRE, DISCO DOME HIRE and SOFT PLAY HIRE for parties, events and celebrations throughout Fife: Dunfermline, Kirkcaldy & Glenrothes plus Kinross, Clackmannanshire, Alloa & Falkirk. Book a Bouncy Castle Online or Call 07860 158009.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide"
+    ]
   },
   {
     "name": "Party Party Inverness",
@@ -247,12 +365,17 @@
     "rating": 5.0,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"11\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"11 am–4 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Balloon artist",
     "lat": 57.473841,
     "lng": -4.139812,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "balloons@partyparty-inverness.co.uk",
+    "emails": [
+      "balloons@partyparty-inverness.co.uk"
+    ],
+    "description": "From balloon-in-a-box surprises to show-stopping displays, we bring your celebrations to life."
   },
   {
     "name": "Trapeze Entertainment",
@@ -264,12 +387,13 @@
     "rating": 5.0,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"2\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"2–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Entertainer",
     "lat": 57.481428,
     "lng": -4.238704,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Looking for the perfect party for your child, keeping your children entertained during the wedding ceremony or a workshop for your school or club? You have come to the right place."
   },
   {
     "name": "The Funki Factory",
@@ -286,7 +410,17 @@
     "lat": 57.563326,
     "lng": -4.031725,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "thefunkifactory@gmail.com",
+    "emails": [
+      "thefunkifactory@gmail.com"
+    ],
+    "description": "The Funki Factory offers premium bouncy castle and soft play hire for parties, events, and special occasions. We provide safe, clean, and fun inflatables",
+    "services": [
+      "Bouncy Castles",
+      "Garden Games",
+      "Soft Play"
+    ]
   },
   {
     "name": "LA Create",
@@ -298,12 +432,20 @@
     "rating": 5.0,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.973206,
     "lng": -3.158503,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@lacreate.co.uk",
+    "emails": [
+      "info@lacreate.co.uk"
+    ],
+    "description": "Check out our range of backdrops available to hire at LA Create.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Jumping For Joy Bouncy Castle Hire",
@@ -315,12 +457,21 @@
     "rating": 5.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.725314,
     "lng": -3.827261,
-    "found_in_location": "Carluke",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "bouncy scotland",
+    "email": "jumping-for-joy@hotmail.co.uk",
+    "emails": [
+      "jumping-for-joy@hotmail.co.uk"
+    ],
+    "description": "Jumping For Joy Bouncy Castle Hire in Lanarkshire Jumping For Joy are a family run company based in Carluke, South Lanarkshire, Scotland, who cover all your bouncy castle needs in and around most areas in South and North Lanarkshire. We have been operating for over 14 years and are vastly",
+    "services": [
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Bounce Scotland Ltd",
@@ -332,12 +483,22 @@
     "rating": 5.0,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.760426,
     "lng": -4.216747,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@bouncescotland.co.uk",
+    "emails": [
+      "info@bouncescotland.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Soft Play"
+    ]
   },
   {
     "name": "KBE Event Services",
@@ -354,7 +515,8 @@
     "lat": 57.483624,
     "lng": -4.221102,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Sound hire lighting hire stage hire power hire Inverness Highlands Creative production"
   },
   {
     "name": "Crest Events",
@@ -366,12 +528,20 @@
     "rating": 5.0,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20132\u202fpm\"],\"Sunday\":[\"10\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Event management company",
     "lat": 55.818573,
     "lng": -4.363731,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@crestevents.co.uk",
+    "emails": [
+      "hello@crestevents.co.uk"
+    ],
+    "description": "Crest Events do LED dance floor hire Glasgow, Photo Booth Hire, light up letters & numbers hire for Weddings & Parties Glasgow & surrounding.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Red Hot Party Hire",
@@ -383,12 +553,13 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:45\u202fpm\"],\"Monday\":[\"9\u20139:01\u202fam\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134:45\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:45\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:45 pm\"],\"Monday\":[\"9–9:01 am\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4:45 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4:45 pm\"]}",
     "types": "Party equipment rental service",
     "lat": -31.952881,
     "lng": 115.857418,
     "found_in_location": "Perth",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Jukebox Hire Perth by Red Hot Party Hire (Trading as Aardvark Jukeboxes). Jukeboxes, Karaoke Machines and other Party Hire Equipment. Aarvark is based in Perth, West Australia"
   },
   {
     "name": "Bennett's Bouncy Castle Hire",
@@ -400,12 +571,20 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20139:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–9:30 pm\"],\"Monday\":[\"8:30 am–9:30 pm\"],\"Saturday\":[\"8:30 am–9:30 pm\"],\"Sunday\":[\"8:30 am–9:30 pm\"],\"Thursday\":[\"8:30 am–9:30 pm\"],\"Tuesday\":[\"8:30 am–9:30 pm\"],\"Wednesday\":[\"8:30 am–9:30 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.941951,
     "lng": -3.292539,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "bennettshire@hotmail.com",
+    "emails": [
+      "bennettshire@hotmail.com"
+    ],
+    "description": "Safe, fun, and affordable entertainment for all occasions.",
+    "services": [
+      "Bouncy Castles"
+    ]
   },
   {
     "name": "Kidaround Bouncy Castle Hire Glasgow",
@@ -421,8 +600,23 @@
     "types": "Bouncy castle hire",
     "lat": 55.8885,
     "lng": -3.631398,
-    "found_in_location": "Bathgate",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Livingston",
+    "found_with_query": "bouncy scotland",
+    "email": "info@kidaround.co.uk",
+    "emails": [
+      "info@kidaround.co.uk"
+    ],
+    "description": "Bouncy Castle hire in Glasgow and surrounding areas. Bringing the entertainment to your parties and events with our arsenal of Inflatables, Rodeo Bull (Bucking Bronco), Party Games and Food Machines. Put your party in the safest hands, with Kidaround.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Garden Games",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "P&Dleisure",
@@ -434,12 +628,19 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201311\u202fpm\"],\"Monday\":[\"7\u202fam\u201311\u202fpm\"],\"Saturday\":[\"7\u202fam\u201311\u202fpm\"],\"Sunday\":[\"7\u202fam\u201311\u202fpm\"],\"Thursday\":[\"7\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"7 am–11 pm\"],\"Saturday\":[\"7 am–11 pm\"],\"Sunday\":[\"7 am–11 pm\"],\"Thursday\":[\"7 am–11 pm\"],\"Tuesday\":[\"7 am–11 pm\"],\"Wednesday\":[\"7 am–11 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.795409,
     "lng": -4.004831,
     "found_in_location": "Motherwell",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Welcome to the P&D Leisure website. We are a family-run business with over 20 inflatables to suit various needs. We have been operational for over 5 years and have built up a fantastic reputation putting us at the forefront of our industry in the Lanarkshire area. We specialise in supplying...",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Soft Play"
+    ]
   },
   {
     "name": "So this is love event hire",
@@ -468,12 +669,17 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.971915,
     "lng": -3.175489,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "ops@splendidhire.co.uk",
+    "emails": [
+      "ops@splendidhire.co.uk"
+    ],
+    "description": "We love this new addition to our cordless table lamp range. The base is 35.5cm tall and works with any of our 16cm or 20cm lampshades."
   },
   {
     "name": "Allansmagic",
@@ -490,7 +696,12 @@
     "lat": 57.121761,
     "lng": -2.105122,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "allansmagicevents@gmail.com",
+    "emails": [
+      "allansmagicevents@gmail.com"
+    ],
+    "description": "The Best in Aberdeen for a kids magician, party entertainer Guaranteed"
   },
   {
     "name": "Sonus Events",
@@ -502,12 +713,17 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Audio-visual equipment supplier",
     "lat": 55.85248,
     "lng": -4.437249,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@sonusevents.com",
+    "emails": [
+      "info@sonusevents.com"
+    ],
+    "description": "We're a full event production company based in Glasgow, specialising in designing and producing events that are a bit different!"
   },
   {
     "name": "BDM Entertainment",
@@ -519,7 +735,7 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.885643,
     "lng": -4.164843,
@@ -553,12 +769,20 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.894082,
     "lng": -4.381496,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "If you're looking to hire a bouncy castle in Glasgow and the surrounding area for any occasion you've came to the right place. We have a large range of sizes available from a 7x7 foot to a 20x20 foot. Styles including a ball pool, slide combination castles and adult castles. We do live in...",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Face Painting",
+      "Garden Games",
+      "Popcorn & Candy Floss"
+    ]
   },
   {
     "name": "Inverhall Marquees",
@@ -574,8 +798,13 @@
     "types": "Marquee hire service",
     "lat": 55.83925,
     "lng": -4.504084,
-    "found_in_location": "Johnstone",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "bouncy scotland",
+    "email": "enquiry@inverhall.com",
+    "emails": [
+      "enquiry@inverhall.com"
+    ],
+    "description": "Inverhall Marquees – quality marquee hire for weddings, party or corporate events. Call Inverhall Marquees for prices and venues for marquees in Scotland UK."
   },
   {
     "name": "Ace Bouncy Castles",
@@ -587,12 +816,24 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20137\u202fpm\"],\"Sunday\":[\"8\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–7 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.817481,
     "lng": -4.533984,
-    "found_in_location": "Johnstone",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "bouncy scotland",
+    "email": "info@acebouncycastles.com",
+    "emails": [
+      "info@acebouncycastles.com"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "PJC Entertainment",
@@ -609,7 +850,12 @@
     "lat": 57.459694,
     "lng": -4.20993,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@pjcentertainment.com",
+    "emails": [
+      "info@pjcentertainment.com"
+    ],
+    "description": "PJC Entertainment are smartly attired and professional DJs, covering the Highlands of Scotland, with bespoke music and lighting for all ages and tastes. For Weddings, Birthdays, Karaoke and Celebrations or Events of all kinds. We are here to make your event as special as the way you wish no..."
   },
   {
     "name": "Tiny Play Events",
@@ -621,7 +867,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.771666,
     "lng": -4.09306,
@@ -643,7 +889,12 @@
     "lat": 57.136805,
     "lng": -2.214683,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "contact@parteepee.co.uk",
+    "emails": [
+      "contact@parteepee.co.uk"
+    ],
+    "description": "Mini indoor teepee hire in Aberdeen and Aberdeenshire"
   },
   {
     "name": "Bounce A Lot Castles",
@@ -655,7 +906,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.843053,
     "lng": -4.454765,
@@ -672,12 +923,24 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.823543,
     "lng": -4.156527,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@eventninja.co.uk",
+    "emails": [
+      "info@eventninja.co.uk"
+    ],
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull"
+    ]
   },
   {
     "name": "Tents and Events",
@@ -689,12 +952,17 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Marquee hire service",
     "lat": 55.856751,
     "lng": -4.357387,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@tentsandevents.co.uk",
+    "emails": [
+      "info@tentsandevents.co.uk"
+    ],
+    "description": "Luxury marquee hire in Glasgow and Edinburgh. For weddings, corporate and long-term use. Providing high-quality structures for every occasion."
   },
   {
     "name": "Glow with the Flow",
@@ -711,7 +979,12 @@
     "lat": 56.468135,
     "lng": -2.969622,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Had aHalloweenthemedsilentdisco for mydaughters10th with Glow With the Flow, complete with beer (juice) pong, boom blasters, hook a duck andgiant4 in a row and some glow furniture. Kids all had an absolute ball. Everything was dropped off and collected after.Definitely recommendamazing service",
+    "services": [
+      "Garden Games",
+      "Hot Tub Hire"
+    ]
   },
   {
     "name": "Central Inflatables",
@@ -723,7 +996,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.096183,
     "lng": -3.937753,
@@ -740,12 +1013,13 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Entertainment agency",
     "lat": 57.447848,
     "lng": -4.17294,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "The Entertainment Experience | DJ, Music, Events, Disco Hire in Inverness and the Highlands"
   },
   {
     "name": "Fun K Pix Photo Booth Rental",
@@ -757,7 +1031,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:15\u202fam\u20134\u202fam\"],\"Monday\":[\"7:15\u202fam\u20134\u202fam\"],\"Saturday\":[\"7:15\u202fam\u20134\u202fam\"],\"Sunday\":[\"7:15\u202fam\u20134\u202fam\"],\"Thursday\":[\"7:15\u202fam\u20134\u202fam\"],\"Tuesday\":[\"7:15\u202fam\u20134\u202fam\"],\"Wednesday\":[\"7:15\u202fam\u20134\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"7:15 am–4 am\"],\"Monday\":[\"7:15 am–4 am\"],\"Saturday\":[\"7:15 am–4 am\"],\"Sunday\":[\"7:15 am–4 am\"],\"Thursday\":[\"7:15 am–4 am\"],\"Tuesday\":[\"7:15 am–4 am\"],\"Wednesday\":[\"7:15 am–4 am\"]}",
     "types": "Party equipment rental service",
     "lat": 56.49029,
     "lng": -2.955353,
@@ -774,7 +1048,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.84706,
     "lng": -4.438288,
@@ -808,12 +1082,22 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Children's party service",
     "lat": 55.863275,
     "lng": -4.17844,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@koolkidsentertainment.co.uk",
+    "emails": [
+      "info@koolkidsentertainment.co.uk"
+    ],
+    "description": "kool Kid's Entertainment, the koolest children's party entertainment company in Glasgow! We specialise in providing Party Entertainment Packages, Children's Magic Shows, Bouncy Castles, and Soft Play across Glasgow, Lanarkshire and surrounding areas for children's parties, events and celebrations.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Inchgarth Kids Parties",
@@ -825,12 +1109,17 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20139:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20139:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"9:30 am–9:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"10 am–10 pm\"],\"Thursday\":[\"9:30 am–9:30 pm\"],\"Tuesday\":[\"10 am–9:30 pm\"],\"Wednesday\":[\"9:30 am–10 pm\"]}",
     "types": "Children's party service",
     "lat": 57.121708,
     "lng": -2.133801,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Inchgarth provides music, sports, fitness, education, parties, recreation, leisure, art, shows, events, letting, for the disabled, elderly, youth, classes, martial arts, gym. A centre for all ages in Garthdee Aberdeen.",
+    "services": [
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Highland Cater Hire",
@@ -842,12 +1131,13 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 57.475574,
     "lng": -4.231106,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "cater hire equipment, trestles tables, chairs, crockery, cutlery, commercial kitchen equipment, conference tables, round tables, fridges, refrigerated van"
   },
   {
     "name": "Adventure Planet Paisley",
@@ -859,12 +1149,20 @@
     "rating": 4.9,
     "total_reviews": 1748,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.850108,
     "lng": -4.423772,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "play@theadventureplanet.com",
+    "emails": [
+      "play@theadventureplanet.com"
+    ],
+    "description": "Book your child’s birthday party with us and we will make it our mission to ensure that it’s a very special event for your little space traveller and friends",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Splash Inflatables Ltd",
@@ -881,7 +1179,16 @@
     "lat": 55.825097,
     "lng": -4.156008,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Bouncy Castle Hire, Mascot hire, Toddler Equipment, Slush, Popcorn & more!!",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play"
+    ]
   },
   {
     "name": "Bloc10 Bouldering",
@@ -893,12 +1200,17 @@
     "rating": 4.9,
     "total_reviews": 145,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201310\u202fpm\"],\"Monday\":[\"10\u202fam\u201310\u202fpm\"],\"Saturday\":[\"12\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–10 pm\"],\"Monday\":[\"10 am–10 pm\"],\"Saturday\":[\"12–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"10 am–10 pm\"],\"Tuesday\":[\"10 am–10 pm\"],\"Wednesday\":[\"10 am–10 pm\"]}",
     "types": "Rock climbing gym",
     "lat": 56.473652,
     "lng": -2.970393,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "memberships@block10.uk",
+    "emails": [
+      "memberships@block10.uk"
+    ],
+    "description": "Bloc10 Bouldering in North East of Scotland with climbing gyms in Dundee and Aberdeen"
   },
   {
     "name": "Kidnetick - Kids parties",
@@ -910,12 +1222,13 @@
     "rating": 4.9,
     "total_reviews": 126,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's party service",
     "lat": 55.86212,
     "lng": -4.253234,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "KIDNETICK is an award winning kids party company, specialising in children’s birthday parties."
   },
   {
     "name": "Bounce & Party",
@@ -927,12 +1240,22 @@
     "rating": 4.9,
     "total_reviews": 103,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Children's party service",
     "lat": 55.86324,
     "lng": -4.177948,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@bounceandparty.co.uk",
+    "emails": [
+      "info@bounceandparty.co.uk"
+    ],
+    "description": "Bounce & Party provide party entertainment, children's Party Packages, Children's Magic Shows and supply high-quality, safe Bouncy Castles & Soft Play for parties and events in Glasgow, Lanarkshire and surrounding areas.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Season Quayside",
@@ -949,7 +1272,12 @@
     "lat": 55.976911,
     "lng": -3.172231,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@seasonquayside.co.uk",
+    "emails": [
+      "info@seasonquayside.co.uk"
+    ],
+    "description": "PRIVATE HIRE VENUEMultipurpose events venue with a full bar, available for any occasion Learn MoreWeddingsWe are proud to offer you wedding at our stylish welcoming events venue with a barLearn MorePRIVATE DININGSeason Quayside is the perfect place to celebrate with your friends and family in..."
   },
   {
     "name": "Edinbugh Event Company",
@@ -961,12 +1289,21 @@
     "rating": 4.9,
     "total_reviews": 57,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.938641,
     "lng": -3.219955,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@edinburghevent.com",
+    "emails": [
+      "hello@edinburghevent.com"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Soft Play"
+    ]
   },
   {
     "name": "Wish Upon A Star Kingdom",
@@ -978,12 +1315,22 @@
     "rating": 4.9,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"11\u202fam\u20133\u202fpm\"],\"Sunday\":[\"12\u20133\u202fpm\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"11 am–3 pm\"],\"Sunday\":[\"12–3 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Children's party service",
     "lat": 55.835802,
     "lng": -4.233917,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@wishuponastarkingdom.co.uk",
+    "emails": [
+      "info@wishuponastarkingdom.co.uk"
+    ],
+    "description": "Experience memorable family events with Wish Upon A Star Kingdom. Your go-to for memorable family events and unforgettable parties in Scotland.",
+    "services": [
+      "Bouncy Castles",
+      "Face Painting",
+      "Soft Play"
+    ]
   },
   {
     "name": "Usb Events",
@@ -995,12 +1342,28 @@
     "rating": 4.9,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Event Planning Service",
     "lat": 56.022664,
     "lng": -3.822228,
-    "found_in_location": "Larbert",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Falkirk",
+    "found_with_query": "bouncy scotland",
+    "email": "info@usbevents.co.uk",
+    "emails": [
+      "info@usbevents.co.uk"
+    ],
+    "description": "Entertainment and Events hire company who specialise in Corporate Events, Gala Days, Team Building, Providing Inflatable Fun, Party hire and Marquees to name a few.",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Face Painting",
+      "Garden Games",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "House of Bounce - Bouncy Castle Hire",
@@ -1012,12 +1375,22 @@
     "rating": 4.9,
     "total_reviews": 40,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.082011,
     "lng": -3.923998,
     "found_in_location": "Stirling",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@houseofbounceinflatables.co.uk",
+    "emails": [
+      "info@houseofbounceinflatables.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Soft Play"
+    ]
   },
   {
     "name": "Little Posh People Soft Play Hire Edinburgh",
@@ -1029,12 +1402,20 @@
     "rating": 4.9,
     "total_reviews": 36,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Children's party service",
     "lat": 55.886275,
     "lng": -3.181976,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "littleposhpeoplesoftplay@gmail.com",
+    "emails": [
+      "littleposhpeoplesoftplay@gmail.com"
+    ],
+    "description": "Stylish, elegant, sophisticated soft play for the discerning gentle person. Ideal for 0-4 year olds. Inflatable ball pit and wooden role play sets avaialbe too. From Ayr to Aberdeen and Edinburgh (everywhere) in between.Stylish soft play for hire, perfect for parties, events and weddings. Keep 0...",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Bridge Gardens",
@@ -1051,7 +1432,12 @@
     "lat": 55.857494,
     "lng": -4.268887,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@boxhub.uk",
+    "emails": [
+      "info@boxhub.uk"
+    ],
+    "description": "Box Hub is a top venue hire provider in the heart of Glasgow. From hall hire to warehouse spaces to wedding venues - contact today!"
   },
   {
     "name": "Little Party House",
@@ -1063,7 +1449,7 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6:30 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Event Planning Service",
     "lat": 55.835947,
     "lng": -4.233271,
@@ -1080,12 +1466,17 @@
     "rating": 4.8,
     "total_reviews": 612,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Sports complex",
     "lat": 55.872803,
     "lng": -4.248656,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@pinkston.co.uk",
+    "emails": [
+      "info@pinkston.co.uk"
+    ],
+    "description": "Pinkston Watersports is the ideal place to participate in whitewater and flatwater watersports just 5 minutes from Glasgow City Centre. Book online today!"
   },
   {
     "name": "The Haberdashery",
@@ -1097,12 +1488,16 @@
     "rating": 4.8,
     "total_reviews": 105,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
     "types": "Events Venue",
     "lat": 55.866138,
     "lng": -4.27291,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@thehaberdasheryglasgow.com",
+    "emails": [
+      "hello@thehaberdasheryglasgow.com"
+    ]
   },
   {
     "name": "Box Hub",
@@ -1119,7 +1514,12 @@
     "lat": 55.858005,
     "lng": -4.268723,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@boxhub.uk",
+    "emails": [
+      "info@boxhub.uk"
+    ],
+    "description": "Box Hub is a top venue hire provider in the heart of Glasgow. From hall hire to warehouse spaces to wedding venues - contact today!"
   },
   {
     "name": "Mascot Madness Entertainment Bouncy Castle/Inflatable Hire",
@@ -1131,12 +1531,26 @@
     "rating": 4.8,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20137\u202fpm\"],\"Monday\":[\"10\u202fam\u20137\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Event Planning Service",
     "lat": 57.520733,
     "lng": -4.008621,
-    "found_in_location": "Marybank",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "bouncy scotland",
+    "email": "email@mascot-madness.co.uk",
+    "emails": [
+      "email@mascot-madness.co.uk"
+    ],
+    "description": "Based in Inverness and covering the whole of the Highlands, we attend Birthday parties, Galas, School Fetes, BBQs, Cooperate Events and even Weddings",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Garden Games",
+      "Inflatable Slide",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Monty's Stay and Play, Dundee",
@@ -1148,7 +1562,7 @@
     "rating": 4.8,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Monday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Saturday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Sunday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Thursday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201312\u202fpm\",\"1\u20133\u202fpm\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Monday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Saturday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Sunday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Thursday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Tuesday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Children's club",
     "lat": 56.467062,
     "lng": -2.977276,
@@ -1165,12 +1579,21 @@
     "rating": 4.8,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.805366,
     "lng": -4.227791,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@scotbounce.co.uk",
+    "emails": [
+      "info@scotbounce.co.uk"
+    ],
+    "description": "Supplying tests, repairs and accessories to the Inflatable Play Industry",
+    "services": [
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Checos Bouncy Castle Hire In Fife",
@@ -1182,12 +1605,24 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Hot Tub Shop",
     "lat": 56.048673,
     "lng": -3.457868,
     "found_in_location": "Dunfermline",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "jackie@checos.co.uk",
+    "emails": [
+      "jackie@checos.co.uk"
+    ],
+    "description": "All Bouncy Castles & Inflatables equipment experts from Checos will help organise your event in Dunfermline, Fife, Kinross, Alloa, Larbet, Stirling, Livingston, & Bathgate. Contact us today!",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "RollerStop CIC",
@@ -1199,12 +1634,17 @@
     "rating": 4.7,
     "total_reviews": 641,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20132\u202fpm\",\"5:30\u20137:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12\u20136\u202fpm\",\"8\u201310\u202fpm\"],\"Sunday\":[\"12\u20136\u202fpm\"],\"Thursday\":[\"7:30\u201310\u202fpm\"],\"Tuesday\":[\"5:30\u20137:30\u202fpm\"],\"Wednesday\":[\"12\u20132\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–2 pm\",\"5:30–7:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12–6 pm\",\"8–10 pm\"],\"Sunday\":[\"12–6 pm\"],\"Thursday\":[\"7:30–10 pm\"],\"Tuesday\":[\"5:30–7:30 pm\"],\"Wednesday\":[\"12–2 pm\"]}",
     "types": "Roller skating rink",
     "lat": 55.850427,
     "lng": -4.282693,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@rollerstop.co.uk",
+    "emails": [
+      "info@rollerstop.co.uk"
+    ],
+    "description": "JOIN OUR MAILING LIST WE ARE OPEN TODAY! We’re Open! Here’s How to Get to Us Today. Hey skaters! Just a quick heads-up about getting to the rink today. You may have seen reports of an incident in Kinning Park. We want to reassure you that our venue is safe and open for business as […]"
   },
   {
     "name": "Inchgarth Community Centre",
@@ -1216,12 +1656,17 @@
     "rating": 4.7,
     "total_reviews": 348,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138:30\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20139:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"9:30 am–9 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–8:30 pm\"],\"Thursday\":[\"9:30 am–9:30 pm\"],\"Tuesday\":[\"9:30 am–9 pm\"],\"Wednesday\":[\"9:30 am–9 pm\"]}",
     "types": "Community centre",
     "lat": 57.121619,
     "lng": -2.132685,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Inchgarth provides music, sports, fitness, education, parties, recreation, leisure, art, shows, events, letting, for the disabled, elderly, youth, classes, martial arts, gym. A centre for all ages in Garthdee Aberdeen.",
+    "services": [
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "WeePlay - Soft Play & Party Venue",
@@ -1233,12 +1678,20 @@
     "rating": 4.7,
     "total_reviews": 322,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 55.853859,
     "lng": -4.193718,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@weeplay.uk",
+    "emails": [
+      "info@weeplay.uk"
+    ],
+    "description": "We give children the chance to play and party in secure environmentand has a well stocked cafe and relaxing enviorment for the parents",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Avertical World Climbing & Bouldering Centre",
@@ -1250,12 +1703,17 @@
     "rating": 4.7,
     "total_reviews": 278,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Monday\":[\"11\u202fam\u201310\u202fpm\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–10 pm\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"8:30 am–10 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
     "types": "Rock climbing gym",
     "lat": 56.460475,
     "lng": -2.981367,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@averticalworld.co.uk",
+    "emails": [
+      "info@averticalworld.co.uk"
+    ],
+    "description": "We’re offering juniors - 16’s & under - climbing and hire (shoes + harness) for only £8.50 from January 2026."
   },
   {
     "name": "The Engine Works",
@@ -1267,12 +1725,17 @@
     "rating": 4.7,
     "total_reviews": 239,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Events Venue",
     "lat": 55.891412,
     "lng": -4.289716,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@theengine.works",
+    "emails": [
+      "hello@theengine.works"
+    ],
+    "description": "The Engine Works provides a multifunctional use events space in Glasgow, unlike any other."
   },
   {
     "name": "Civic House",
@@ -1284,7 +1747,7 @@
     "rating": 4.7,
     "total_reviews": 77,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Co-working Space",
     "lat": 55.871222,
     "lng": -4.259242,
@@ -1301,12 +1764,25 @@
     "rating": 4.7,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.909992,
     "lng": -2.947715,
-    "found_in_location": "Tranent",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "bouncy scotland",
+    "email": "info@beezkneezcastles.co.uk",
+    "emails": [
+      "info@beezkneezcastles.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Garden Games",
+      "Hot Tub Hire",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Glasgow Gazebo Hire",
@@ -1318,12 +1794,17 @@
     "rating": 4.7,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Marquee hire service",
     "lat": 55.869624,
     "lng": -4.013872,
-    "found_in_location": "Coatbridge",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Cumbernauld",
+    "found_with_query": "bouncy scotland",
+    "email": "info@glasgowgazebohire.com",
+    "emails": [
+      "info@glasgowgazebohire.com"
+    ],
+    "description": "Glasgow Gazebo Hire - Event equipment rental throughout Scotland, Weddings, festivals, parties & more Call 01413709893 for a quote today"
   },
   {
     "name": "Dreamtime Events Scotland",
@@ -1335,12 +1816,25 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 56.670495,
     "lng": -3.00822,
-    "found_in_location": "Kirriemuir",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Dundee",
+    "found_with_query": "bouncy scotland",
+    "email": "bookings@dreamtimeevents.co.uk",
+    "emails": [
+      "bookings@dreamtimeevents.co.uk"
+    ],
+    "description": "Bouncy castle hire services Dundee and Angus. Entertainment services Scotland. Stilt walker Scotland. Fire performers Scotland. Bubble performers Scotland.",
+    "services": [
+      "Bouncy Castles",
+      "Garden Games",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Cee Cee Entertainments",
@@ -1357,7 +1851,19 @@
     "lat": 56.416054,
     "lng": -3.449749,
     "found_in_location": "Perth",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "bookings@cee-cee.co.uk",
+    "emails": [
+      "bookings@cee-cee.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Obstacle Course",
+      "Photo Booth",
+      "Soft Play"
+    ]
   },
   {
     "name": "East Lothian Bouncy Castles",
@@ -1369,12 +1875,29 @@
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"7\u202fam\u20139\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.960187,
     "lng": -2.964422,
-    "found_in_location": "Prestonpans",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Edinburgh",
+    "found_with_query": "bouncy scotland",
+    "email": "charitable@eastlothianbouncycastles.co.uk",
+    "emails": [
+      "charitable@eastlothianbouncycastles.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles",
+      "Face Painting",
+      "Garden Games",
+      "Gladiator Joust",
+      "Hot Tub Hire",
+      "Obstacle Course",
+      "Photo Booth",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "The Space",
@@ -1386,7 +1909,7 @@
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Events Venue",
     "lat": 55.942288,
     "lng": -3.22174,
@@ -1403,7 +1926,7 @@
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Events Venue",
     "lat": 56.483174,
     "lng": -3.003928,
@@ -1420,12 +1943,13 @@
     "rating": 4.6,
     "total_reviews": 814,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20133\u202fam\"],\"Monday\":[\"10\u202fam\u20133\u202fam\"],\"Saturday\":[\"10\u202fam\u20133\u202fam\"],\"Sunday\":[\"10\u202fam\u20133\u202fam\"],\"Thursday\":[\"10\u202fam\u20133\u202fam\"],\"Tuesday\":[\"10\u202fam\u20133\u202fam\"],\"Wednesday\":[\"10\u202fam\u20133\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–3 am\"],\"Monday\":[\"10 am–3 am\"],\"Saturday\":[\"10 am–3 am\"],\"Sunday\":[\"10 am–3 am\"],\"Thursday\":[\"10 am–3 am\"],\"Tuesday\":[\"10 am–3 am\"],\"Wednesday\":[\"10 am–3 am\"]}",
     "types": "Events Venue",
     "lat": 55.948455,
     "lng": -3.18641,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "A truly unique location steeped in Edinburgh's history, The Caves is one of Edinburgh's most popular venues hosting all types of events. Get in touch now…"
   },
   {
     "name": "Venue Paisley",
@@ -1437,7 +1961,7 @@
     "rating": 4.6,
     "total_reviews": 140,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:45\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:45\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:45 pm\"],\"Monday\":[\"8 am–5:45 pm\"],\"Saturday\":[\"8 am–5:45 pm\"],\"Sunday\":[\"8 am–5:45 pm\"],\"Thursday\":[\"8 am–5:45 pm\"],\"Tuesday\":[\"8 am–5:45 pm\"],\"Wednesday\":[\"8 am–5:45 pm\"]}",
     "types": "Events Venue",
     "lat": 55.844044,
     "lng": -4.433262,
@@ -1454,12 +1978,16 @@
     "rating": 4.6,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9\u202fam\u201312\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u201312\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201312\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201312\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 am–12 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"9 am–12 pm\"],\"Tuesday\":[\"9 am–12 pm\"],\"Wednesday\":[\"9 am–12 pm\"]}",
     "types": "Events Venue",
     "lat": 55.981316,
     "lng": -3.177336,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hellojojosparties@gmail.com",
+    "emails": [
+      "hellojojosparties@gmail.com"
+    ]
   },
   {
     "name": "Party Wizard",
@@ -1471,12 +1999,13 @@
     "rating": 4.6,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Costume shop",
     "lat": 56.455941,
     "lng": -2.988722,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Get your fancy dress outfits and accessories from Scotlands leading fancy dress shop"
   },
   {
     "name": "91B Private Venue Hire",
@@ -1488,12 +2017,13 @@
     "rating": 4.6,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201312\u202fam\"],\"Monday\":[\"11\u202fam\u201310\u202fpm\"],\"Saturday\":[\"10\u202fam\u201312\u202fam\"],\"Sunday\":[\"11\u202fam\u201310\u202fpm\"],\"Thursday\":[\"11\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"11\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"11\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–12 am\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"10 am–12 am\"],\"Sunday\":[\"11 am–10 pm\"],\"Thursday\":[\"11 am–11 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
     "types": "Events Venue",
     "lat": 55.864984,
     "lng": -4.275718,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "91B private venue hire is an event location based in Glasgow which offers of organizing various events for all of your needs from corporate events to birthdays"
   },
   {
     "name": "UPSTAIRS INVERNESS",
@@ -1510,7 +2040,13 @@
     "lat": 57.477417,
     "lng": -4.225921,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "marketing@mrg.scot",
+    "emails": [
+      "marketing@mrg.scot",
+      "upstairs@mrg.scot"
+    ],
+    "description": "Upstairs is Inverness' 100 Capacity Music & Cultural arts space."
   },
   {
     "name": "Leith Arches",
@@ -1527,7 +2063,13 @@
     "lat": 55.968926,
     "lng": -3.172683,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@leitharches.com",
+    "emails": [
+      "info@leitharches.com",
+      "freightexpress@mail.com"
+    ],
+    "description": "Your event, the Leith Arches way. Our Edinburgh venue hire can suit any event, come see what all the fuss is about."
   },
   {
     "name": "Woodside Halls",
@@ -1544,7 +2086,13 @@
     "lat": 55.873057,
     "lng": -4.26726,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@glasgowlife.org.uk",
+    "emails": [
+      "info@glasgowlife.org.uk",
+      "schoolletting@glasgowlife.org.uk"
+    ],
+    "description": "Glasgow Life community centres and programmes create positive spaces and places to bring people together."
   },
   {
     "name": "Glenburn Community Centre",
@@ -1556,7 +2104,7 @@
     "rating": 4.5,
     "total_reviews": 55,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Community centre",
     "lat": 55.823754,
     "lng": -4.432276,
@@ -1590,12 +2138,13 @@
     "rating": 4.5,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Children's party service",
     "lat": -31.943658,
     "lng": 115.84519,
-    "found_in_location": "West Perth",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "bouncy scotland",
+    "description": "BRICKS 4 KIDZ Educational Play programs provide an extraordinary atmosphere for kids to build unique creations and have loads of fun using LEGO® Bricks!"
   },
   {
     "name": "Aaba Bouncy Castles",
@@ -1607,7 +2156,7 @@
     "rating": 4.5,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 57.413615,
     "lng": -4.148125,
@@ -1615,7 +2164,7 @@
     "found_with_query": "bouncy scotland"
   },
   {
-    "name": "\u00d2ran M\u00f3r",
+    "name": "Òran Mór",
     "address": "Byres Rd, Glasgow, G12 8QX, GB",
     "phone": "0141 357 6200",
     "international_phone": "0141 357 6200",
@@ -1624,12 +2173,23 @@
     "rating": 4.4,
     "total_reviews": 6552,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20133\u202fam\"],\"Monday\":[\"11\u202fam\u20132\u202fam\"],\"Saturday\":[\"11\u202fam\u20133\u202fam\"],\"Sunday\":[\"11\u202fam\u20133\u202fam\"],\"Thursday\":[\"11\u202fam\u20133\u202fam\"],\"Tuesday\":[\"11\u202fam\u20132\u202fam\"],\"Wednesday\":[\"11\u202fam\u20132\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–3 am\"],\"Monday\":[\"11 am–2 am\"],\"Saturday\":[\"11 am–3 am\"],\"Sunday\":[\"11 am–3 am\"],\"Thursday\":[\"11 am–3 am\"],\"Tuesday\":[\"11 am–2 am\"],\"Wednesday\":[\"11 am–2 am\"]}",
     "types": "Pub",
     "lat": 55.877563,
     "lng": -4.28976,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@oran-mor.co.uk",
+    "emails": [
+      "info@oran-mor.co.uk",
+      "barryshaw@oran-mor.co.uk",
+      "boxoffice@oran-mor.co.uk",
+      "creon@oran-mor.co.uk",
+      "events@oran-mor.co.uk",
+      "jamie@oran-mor.co.uk",
+      "info@playpiepint.com"
+    ],
+    "description": "Discover Òran Mór, Glasgow’s iconic multi-purpose venue for arts, events, weddings, and dining. Located in the heart of the West End, enjoy a rich history, fine Scottish food, and live entertainment beneath Scotland’s largest mural."
   },
   {
     "name": "Platform",
@@ -1646,7 +2206,13 @@
     "lat": 55.858498,
     "lng": -4.258648,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@platformgla.co.uk",
+    "emails": [
+      "hello@platformgla.co.uk",
+      "events@platformgla.co.uk"
+    ],
+    "description": "Platform is an event venue in Glasgow, in the heart of the city. This historically significant space comprises six interconnected arches."
   },
   {
     "name": "Dundee Science Centre",
@@ -1658,12 +2224,17 @@
     "rating": 4.4,
     "total_reviews": 1080,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Science museum",
     "lat": 56.456457,
     "lng": -2.974733,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "staff@dundeesciencecentre.org.uk",
+    "emails": [
+      "staff@dundeesciencecentre.org.uk"
+    ],
+    "description": "Experience our award-winning, interactive visitor attraction & explore the wonders of science through events, exhibitions, hands-on activities, and more. See what's on."
   },
   {
     "name": "The Hub",
@@ -1680,7 +2251,8 @@
     "lat": 55.948939,
     "lng": -3.194611,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Edinburgh International Festival. Discover the best artists from opera, music, theatre & dance on the world’s greatest stage. 1-24 August 2025."
   },
   {
     "name": "Innoflate Dundee",
@@ -1692,12 +2264,17 @@
     "rating": 4.4,
     "total_reviews": 263,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"1\u20138\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"1–8 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Indoor playground",
     "lat": 56.489725,
     "lng": -2.835259,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Powerleague Paisley",
@@ -1709,12 +2286,19 @@
     "rating": 4.4,
     "total_reviews": 258,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Monday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10:30 pm\"],\"Monday\":[\"9 am–10:30 pm\"],\"Saturday\":[\"9 am–10:30 pm\"],\"Sunday\":[\"9 am–10:30 pm\"],\"Thursday\":[\"9 am–10:30 pm\"],\"Tuesday\":[\"9 am–10:30 pm\"],\"Wednesday\":[\"9 am–10:30 pm\"]}",
     "types": "Sports complex",
     "lat": 55.839557,
     "lng": -4.410812,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "peterborough@powerleague.com",
+    "emails": [
+      "peterborough@powerleague.com",
+      "enquiries@powerleague.co.uk",
+      "email@email.com"
+    ],
+    "description": "Powerleague Peterborough has 5-a-Side football, kids' parties, camps, and a function room. A fantastic hub for fun and fitness!"
   },
   {
     "name": "The Counting House",
@@ -1731,7 +2315,12 @@
     "lat": 55.944505,
     "lng": -3.185086,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@peartreeedinburgh.co.uk",
+    "emails": [
+      "info@peartreeedinburgh.co.uk"
+    ],
+    "description": "Welcome to The Counting House a historic building in the south of Edinburgh City Centre above the famous Pear Tree House. Click to learn more"
   },
   {
     "name": "The Quay",
@@ -1760,7 +2349,7 @@
     "rating": 4.4,
     "total_reviews": 178,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Bakery",
     "lat": 55.800931,
     "lng": -4.397714,
@@ -1782,7 +2371,8 @@
     "lat": 55.845341,
     "lng": -4.42151,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "OneRen is the local charitable trust in Renfrewshire providing leisure, culture and sporting opportunities to help people enjoy active and healthy lives."
   },
   {
     "name": "Wee Tait Events & Decor",
@@ -1794,12 +2384,20 @@
     "rating": 4.4,
     "total_reviews": 96,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 55.853521,
     "lng": -4.312903,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "sales@weetait.com",
+    "emails": [
+      "sales@weetait.com"
+    ],
+    "description": "Wee Tait has the perfect solution for every occasion, from grand weddings to kids parties at home. Contact us to discuss your special event.",
+    "services": [
+      "Photo Booth"
+    ]
   },
   {
     "name": "Marlins Wynd",
@@ -1811,12 +2409,13 @@
     "rating": 4.4,
     "total_reviews": 89,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20131\u202fam\"],\"Monday\":[\"10\u202fam\u20131\u202fam\"],\"Saturday\":[\"10\u202fam\u20131\u202fam\"],\"Sunday\":[\"10\u202fam\u20131\u202fam\"],\"Thursday\":[\"10\u202fam\u20131\u202fam\"],\"Tuesday\":[\"10\u202fam\u20131\u202fam\"],\"Wednesday\":[\"10\u202fam\u20131\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–1 am\"],\"Monday\":[\"10 am–1 am\"],\"Saturday\":[\"10 am–1 am\"],\"Sunday\":[\"10 am–1 am\"],\"Thursday\":[\"10 am–1 am\"],\"Tuesday\":[\"10 am–1 am\"],\"Wednesday\":[\"10 am–1 am\"]}",
     "types": "Events Venue",
     "lat": 55.949029,
     "lng": -3.187308,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "A truly unique location steeped in Edinburgh's history, The Caves is one of Edinburgh's most popular venues hosting all types of events. Get in touch now…"
   },
   {
     "name": "Wedding Events @ Mains Castle Dundee",
@@ -1828,12 +2427,13 @@
     "rating": 4.4,
     "total_reviews": 87,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20131\u202fam\"],\"Monday\":[\"11\u202fam\u20131\u202fam\"],\"Saturday\":[\"11\u202fam\u20131\u202fam\"],\"Sunday\":[\"11\u202fam\u20131\u202fam\"],\"Thursday\":[\"11\u202fam\u20131\u202fam\"],\"Tuesday\":[\"11\u202fam\u20131\u202fam\"],\"Wednesday\":[\"11\u202fam\u20131\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–1 am\"],\"Monday\":[\"11 am–1 am\"],\"Saturday\":[\"11 am–1 am\"],\"Sunday\":[\"11 am–1 am\"],\"Thursday\":[\"11 am–1 am\"],\"Tuesday\":[\"11 am–1 am\"],\"Wednesday\":[\"11 am–1 am\"]}",
     "types": "Events Venue",
     "lat": 56.485508,
     "lng": -2.958234,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Host your special day within our romantic castle, a truly unique15th-century venue. This breathtaking setting features two elegant banqueting suites, a charming courtyard, and a majestic 70-foot tower house—offering the perfect backdrop for your wedding."
   },
   {
     "name": "Partymania",
@@ -1845,12 +2445,21 @@
     "rating": 4.4,
     "total_reviews": 82,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Party shop",
     "lat": 57.152035,
     "lng": -2.103521,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@partymania.co.uk",
+    "emails": [
+      "info@partymania.co.uk",
+      "%20info@partymania.co.uk"
+    ],
+    "description": "Halloween Fancy Dress at Partymania, Aberdeen Scotland - Halloween fancy dress costumes, halloween accessories, fancy dress, masks, wigs, fake blood, fangs, wounds, makeup",
+    "services": [
+      "Face Painting"
+    ]
   },
   {
     "name": "Tots Toun Soft Play",
@@ -1867,7 +2476,18 @@
     "lat": 56.138492,
     "lng": -3.14245,
     "found_in_location": "Kirkcaldy",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@totstounsoftplay.co.uk",
+    "emails": [
+      "info@totstounsoftplay.co.uk"
+    ],
+    "description": "Bouncy Castle Hire For Birthday Parties, Outdoor Garden Hire or Events. Massive Selection with lots of themes to choose from. Party Packages, Childrens Birthday Packages, Childrens Discos.",
+    "services": [
+      "Bouncy Castles",
+      "Garden Games",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Crown Marquee Hire",
@@ -1879,12 +2499,13 @@
     "rating": 4.4,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"9 am–5:30 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Marquee hire service",
     "lat": 55.834499,
     "lng": -4.20164,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Queensberry Marquee Hire provide marquee structures for an array of events throughout Scotland, Cumbria and The Lake District."
   },
   {
     "name": "Unique Children's Parties",
@@ -1896,12 +2517,24 @@
     "rating": 4.4,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–3 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–3 pm\"],\"Tuesday\":[\"9:30 am–3 pm\"],\"Wednesday\":[\"9:30 am–3 pm\"]}",
     "types": "Children's party service",
     "lat": 55.794194,
     "lng": -4.413399,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@uniquechildrensparties.co.uk",
+    "emails": [
+      "info@uniquechildrensparties.co.uk"
+    ],
+    "description": "Here at Unique Children's Parties we offer many services from Bouncy Castles, Mobile Soft Play, Face Painters, Balloon Modelling, Magicians, Themed Parties like Foam, Science & Pamper Parties, Mascot character visits, Real life Princesses and superheroes, fun foods, decorations and much more.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Jump4Fun Bouncy Castle Hire",
@@ -1913,12 +2546,24 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.823543,
     "lng": -4.156527,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@eventninja.co.uk",
+    "emails": [
+      "info@eventninja.co.uk"
+    ],
+    "description": "Jump 4 Fun Inflatables provide the best Hire service in Glasgow, offering a wide range of event equipment. Contact us today!",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course",
+      "Rodeo Bull"
+    ]
   },
   {
     "name": "Ryze Dundee - Xtreme Air Sports",
@@ -1930,15 +2575,25 @@
     "rating": 4.3,
     "total_reviews": 752,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–8 pm\"],\"Monday\":[\"9:30 am–8 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–8 pm\"],\"Tuesday\":[\"9:30 am–8 pm\"],\"Wednesday\":[\"9:30 am–8 pm\"]}",
     "types": "Aerial sports center",
     "lat": 56.486316,
     "lng": -2.97604,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "jump@ryzedundee.com",
+    "emails": [
+      "jump@ryzedundee.com",
+      "jump@ryzeedinburgh.com"
+    ],
+    "description": "ARE YOU READY TO JUMP INTO A WORLD OF FUN?​ Bounce off some energy and have a blast with friends at RYZE Dundee i’m ready What’s on offer? You’ll get SO many benefits from bouncing at Ryze Dundee, but here are just a few: Buy Tickets Club Ryze Book Parties Gift Cards Field Trips Youth […]",
+    "services": [
+      "Face Painting",
+      "Obstacle Course"
+    ]
   },
   {
-    "name": "Frankie & Lola\u2019s Inverness",
+    "name": "Frankie & Lola’s Inverness",
     "address": "4326 Ivanhoe Ave, Inverness, IV2 6BZ, GB",
     "phone": "01749 608517",
     "international_phone": "01749 608517",
@@ -1947,12 +2602,16 @@
     "rating": 4.3,
     "total_reviews": 671,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 57.450655,
     "lng": -4.215478,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Peak Times:Friday Afternoons, Weekends and School Holidays/Bank Holidays.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Air Thrill East Kilbride",
@@ -1964,12 +2623,13 @@
     "rating": 4.3,
     "total_reviews": 654,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u20138:30\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u20137\u202fpm\"],\"Sunday\":[\"10\u202fam\u20137\u202fpm\"],\"Thursday\":[\"4\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"4\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4–8:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"4–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"4–7 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.768803,
     "lng": -4.206437,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Times may differ outside School term Time, please keep an eye on our socials for updates."
   },
   {
     "name": "Kids Complex",
@@ -1981,12 +2641,21 @@
     "rating": 4.3,
     "total_reviews": 305,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.809028,
     "lng": -4.17995,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "enquiries@kidscomplex.co.uk",
+    "emails": [
+      "enquiries@kidscomplex.co.uk"
+    ],
+    "description": "Opening Times: Monday – Sunday 10:00 – 18.00 | Last Admission 17:00",
+    "services": [
+      "Ball Pool",
+      "Soft Play"
+    ]
   },
   {
     "name": "The Castle Rooms",
@@ -1998,12 +2667,20 @@
     "rating": 4.3,
     "total_reviews": 281,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201312\u202fam\"],\"Monday\":[\"9\u202fam\u201312\u202fam\"],\"Saturday\":[\"9\u202fam\u201312\u202fam\"],\"Sunday\":[\"9\u202fam\u201312\u202fam\"],\"Thursday\":[\"9\u202fam\u201312\u202fam\"],\"Tuesday\":[\"9\u202fam\u201312\u202fam\"],\"Wednesday\":[\"9\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–12 am\"],\"Monday\":[\"9 am–12 am\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"9 am–12 am\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"9 am–12 am\"]}",
     "types": "Wedding venue",
     "lat": 55.820292,
     "lng": -4.081366,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "angels@lisini.co.uk",
+    "emails": [
+      "angels@lisini.co.uk",
+      "castle@lisini.co.uk",
+      "dalziel@lisini.co.uk",
+      "parkville@lisini.co.uk"
+    ],
+    "description": "Lisini Pub Company has firmly established itself as one of the most successful, independent, family run hospitality businesses in Scotland."
   },
   {
     "name": "Airpark Adventure",
@@ -2015,12 +2692,22 @@
     "rating": 4.3,
     "total_reviews": 224,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"3\u20138\u202fpm\"],\"Monday\":[\"3\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"3\u20138\u202fpm\"],\"Tuesday\":[\"3\u20138\u202fpm\"],\"Wednesday\":[\"3\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"3–8 pm\"],\"Monday\":[\"3–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"3–8 pm\"],\"Tuesday\":[\"3–8 pm\"],\"Wednesday\":[\"3–8 pm\"]}",
     "types": "Indoor playground",
     "lat": 55.8364,
     "lng": -4.233654,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@airparkadventure.co.uk",
+    "emails": [
+      "info@airparkadventure.co.uk"
+    ],
+    "description": "Airpark Adventure is Glasgow’s top indoor inflatable park offering fun-filled sessions, parties, and events for kids and families. Book your bounce today and enjoy safe, action-packed adventures",
+    "services": [
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Soft Play"
+    ]
   },
   {
     "name": "Hilton Community Centre",
@@ -2032,12 +2719,18 @@
     "rating": 4.3,
     "total_reviews": 182,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Community centre",
     "lat": 57.459722,
     "lng": -4.213906,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@highlifehighland.com",
+    "emails": [
+      "info@highlifehighland.com",
+      "hiltoncc@highlifehighland.com"
+    ],
+    "description": "Hilton Community Centre offers clubs, fitness, and a games hall - plus rooms to hire and a warm welcome for all visitors."
   },
   {
     "name": "Ferryhill Community Centre",
@@ -2049,12 +2742,17 @@
     "rating": 4.3,
     "total_reviews": 147,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Community centre",
     "lat": 57.140274,
     "lng": -2.106138,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "manager@ferryhillcommunitycentre.org.uk",
+    "emails": [
+      "manager@ferryhillcommunitycentre.org.uk"
+    ],
+    "description": "We love our customers, so feel free to visit during normal business hours."
   },
   {
     "name": "Springkerse View Wacky Warehouse",
@@ -2066,12 +2764,18 @@
     "rating": 4.3,
     "total_reviews": 83,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 56.117405,
     "lng": -3.90862,
     "found_in_location": "Stirling",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Welcome to Wacky Warehouse at New Florence! From slippery slides to bouncing ball pits, we’re your go-to for soft play in Longton. Book today!",
+    "services": [
+      "Ball Pool",
+      "Inflatable Slide",
+      "Soft Play"
+    ]
   },
   {
     "name": "Wee Tait Entertainment",
@@ -2083,12 +2787,24 @@
     "rating": 4.3,
     "total_reviews": 39,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20137\u202fpm\"],\"Sunday\":[\"8\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–7 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.853558,
     "lng": -4.313238,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@weetaitentertainment.co.uk",
+    "emails": [
+      "info@weetaitentertainment.co.uk"
+    ],
+    "description": "We offer an event space for hire, along with high quality bouncy castles, soft plays, nightclubs, pubs & bars for all types of events. Birthday parties , Communions , fun days , weddings etc. Reliability and a high standard of customer care is very important to us.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Face Painting",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "JK Entertainment",
@@ -2100,7 +2816,7 @@
     "rating": 4.3,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u202fam\u20136\u202fpm\"],\"Monday\":[\"11\u202fam\u20136\u202fpm\"],\"Saturday\":[\"11\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11\u202fpm\u201312\u202fam\"],\"Tuesday\":[\"11\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"11\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12 am–6 pm\"],\"Monday\":[\"11 am–6 pm\"],\"Saturday\":[\"11 am–4:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11 pm–12 am\"],\"Tuesday\":[\"11 am–6 pm\"],\"Wednesday\":[\"11 am–6 pm\"]}",
     "types": "Entertainer",
     "lat": 55.837942,
     "lng": -4.220362,
@@ -2117,7 +2833,7 @@
     "rating": 4.3,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"11\u202fam\u20139\u202fpm\"],\"Sunday\":[\"11\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"11 am–9 pm\"],\"Sunday\":[\"11 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 56.417856,
     "lng": -3.511293,
@@ -2134,12 +2850,13 @@
     "rating": 4.2,
     "total_reviews": 1031,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5\u202fpm\u20131\u202fam\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"5\u202fpm\u20133\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5\u202fpm\u20131\u202fam\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"5 pm–1 am\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"5 pm–3 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5 pm–1 am\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Tapas restaurant",
     "lat": 55.858098,
     "lng": -4.244152,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Arta is a mediterranean bar, tapas restaurant and club set in the heart of Glasgow's Merchant City, celebrating the culture of eating together."
   },
   {
     "name": "Wonder World Soft Play and Kids & Group Party Venue Falkirk",
@@ -2151,12 +2868,20 @@
     "rating": 4.2,
     "total_reviews": 850,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 56.012246,
     "lng": -3.781962,
     "found_in_location": "Falkirk",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "customerservice@wonderworldgroup.co.uk",
+    "emails": [
+      "customerservice@wonderworldgroup.co.uk"
+    ],
+    "description": "Step into Wonder World Soft Play Falkirk – the UK’s biggest indoor adventure for kids. Exciting, safe, and packed with fun for all ages!",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Inflata Nation Soft Play Inflatable Park Glasgow",
@@ -2168,12 +2893,17 @@
     "rating": 4.2,
     "total_reviews": 515,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20136\u202fpm\"],\"Monday\":[\"1\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"11\u202fam\u20136\u202fpm\"],\"Thursday\":[\"1\u20134\u202fpm\"],\"Tuesday\":[\"1\u20135\u202fpm\"],\"Wednesday\":[\"1\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–6 pm\"],\"Monday\":[\"1–5 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"11 am–6 pm\"],\"Thursday\":[\"1–4 pm\"],\"Tuesday\":[\"1–5 pm\"],\"Wednesday\":[\"1–5 pm\"]}",
     "types": "Indoor playground",
     "lat": 55.850705,
     "lng": -4.282097,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Ever wondered, where to go for amazing inflatable theme park family days out near you? Find the locations of the UK's first indoor inflatable theme parks for days out near me. Visit our website for an interactive map and directions to an Inflata Nation near you.",
+    "services": [
+      "Ball Pool",
+      "Obstacle Course"
+    ]
   },
   {
     "name": "Innoflate Cumbernauld",
@@ -2185,12 +2915,17 @@
     "rating": 4.2,
     "total_reviews": 400,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"1\u20138\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"1–8 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Indoor playground",
     "lat": 55.928368,
     "lng": -4.055539,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Partick Burgh Hall",
@@ -2202,12 +2937,18 @@
     "rating": 4.2,
     "total_reviews": 331,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Historical landmark",
     "lat": 55.8713,
     "lng": -4.3086,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@glasgowlife.org.uk",
+    "emails": [
+      "info@glasgowlife.org.uk",
+      "schoolletting@glasgowlife.org.uk"
+    ],
+    "description": "Glasgow Life community centres and programmes create positive spaces and places to bring people together."
   },
   {
     "name": "The Biscuit Factory",
@@ -2219,12 +2960,18 @@
     "rating": 4.2,
     "total_reviews": 260,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u20134\u202fpm\"],\"Saturday\":[\"12\u201310\u202fpm\"],\"Sunday\":[\"12\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"12–10 pm\"],\"Sunday\":[\"12–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
     "types": "Events Venue",
     "lat": 55.97081,
     "lng": -3.181531,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@biscuitfactory.co.uk",
+    "emails": [
+      "info@biscuitfactory.co.uk",
+      "events@biscuitfactory.co.uk"
+    ],
+    "description": "The Biscuit Factory is a unique experience to visit, with live events, venue hire, historical background, and colourful future."
   },
   {
     "name": "FunParx Dundee",
@@ -2236,12 +2983,17 @@
     "rating": 4.2,
     "total_reviews": 167,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"10\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–8 pm\"],\"Monday\":[\"10 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"10 am–8 pm\"],\"Tuesday\":[\"10 am–8 pm\"],\"Wednesday\":[\"10 am–8 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 56.480645,
     "lng": -2.920137,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "contact@funparx.co.uk",
+    "emails": [
+      "contact@funparx.co.uk"
+    ],
+    "description": "Welcome to FunParx, The Worlds Craziest, Funniest and Biggest Adventure Parks!!!"
   },
   {
     "name": "Crown Castles",
@@ -2253,12 +3005,23 @@
     "rating": 4.2,
     "total_reviews": 73,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20133\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–7 pm\"],\"Monday\":[\"8:30 am–7 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–3 pm\"],\"Thursday\":[\"8:30 am–7 pm\"],\"Tuesday\":[\"8:30 am–7 pm\"],\"Wednesday\":[\"8:30 am–7 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.835116,
     "lng": -4.202501,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "website@crowncastles.co.uk",
+    "emails": [
+      "website@crowncastles.co.uk"
+    ],
+    "description": "Home of Crown Castles Bouncy Castle Hire. Premier quality themed bouncy castle ,disco domes, party packages and entertainment throughout Glasgow.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide",
+      "Photo Booth"
+    ]
   },
   {
     "name": "The Pavilion at Myreside",
@@ -2270,12 +3033,17 @@
     "rating": 4.2,
     "total_reviews": 61,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20133:30\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20133:30\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4:30 pm\"],\"Monday\":[\"8:30 am–4:30 pm\"],\"Saturday\":[\"8:30 am–3:30 pm\"],\"Sunday\":[\"8:30 am–3:30 pm\"],\"Thursday\":[\"8:30 am–4:30 pm\"],\"Tuesday\":[\"8:30 am–4:30 pm\"],\"Wednesday\":[\"8:30 am–4:30 pm\"]}",
     "types": "Cafe",
     "lat": 55.926592,
     "lng": -3.224434,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "thepavilion@gwc.org.uk",
+    "emails": [
+      "thepavilion@gwc.org.uk"
+    ],
+    "description": "Situated amongst beautiful green fields with outstanding views, The Pavilion at Myreside features a café, bar, and a variety of versatile venue hire spaces."
   },
   {
     "name": "Simply Events",
@@ -2287,12 +3055,22 @@
     "rating": 4.2,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20133\u202fpm\"],\"Monday\":[\"10\u202fam\u20133\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–3 pm\"],\"Monday\":[\"10 am–3 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–3 pm\"],\"Tuesday\":[\"10 am–3 pm\"],\"Wednesday\":[\"10 am–3 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 57.504818,
     "lng": -1.797435,
-    "found_in_location": "Peterhead",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Aberdeen",
+    "found_with_query": "bouncy scotland",
+    "email": "bookings@simply.scot",
+    "emails": [
+      "bookings@simply.scot"
+    ],
+    "description": "Providing a wide range of products including bouncy castles, slides, soft play areas, mascots, 'real life' characters, children's entertainers, discos and more!",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Soft Play"
+    ]
   },
   {
     "name": "Wonder World Soft Play and Kids & Group Party Venue East Kilbride",
@@ -2304,12 +3082,20 @@
     "rating": 4.1,
     "total_reviews": 1016,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.767978,
     "lng": -4.206355,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "customerservice@wonderworldgroup.co.uk",
+    "emails": [
+      "customerservice@wonderworldgroup.co.uk"
+    ],
+    "description": "Step into Wonder World Soft Play Falkirk – the UK’s biggest indoor adventure for kids. Exciting, safe, and packed with fun for all ages!",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Tenpin Dundee",
@@ -2321,12 +3107,16 @@
     "rating": 4.1,
     "total_reviews": 568,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20131\u202fam\"],\"Monday\":[\"10\u202fam\u201312\u202fam\"],\"Saturday\":[\"10\u202fam\u20131\u202fam\"],\"Sunday\":[\"10\u202fam\u201312\u202fam\"],\"Thursday\":[\"10\u202fam\u201312\u202fam\"],\"Tuesday\":[\"10\u202fam\u201312\u202fam\"],\"Wednesday\":[\"10\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–1 am\"],\"Monday\":[\"10 am–12 am\"],\"Saturday\":[\"10 am–1 am\"],\"Sunday\":[\"10 am–12 am\"],\"Thursday\":[\"10 am–12 am\"],\"Tuesday\":[\"10 am–12 am\"],\"Wednesday\":[\"10 am–12 am\"]}",
     "types": "Bowling Alley",
     "lat": 56.481975,
     "lng": -2.998669,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Get ready for a great time in Dundee with the best bowling, karaoke, laser tag, soft play and escape rooms around. You'll love our range of parties too.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Innoflate Aberdeen",
@@ -2338,12 +3128,17 @@
     "rating": 4.1,
     "total_reviews": 372,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"1\u20138\u202fpm\"],\"Monday\":[\"3\u20137\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"3\u20137\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"1–8 pm\"],\"Monday\":[\"3–7 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"3–7 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Indoor playground",
     "lat": 57.151897,
     "lng": -2.078313,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Air Thrill Perth Inflatable, Bowling & Party Venue",
@@ -2355,12 +3150,13 @@
     "rating": 4.1,
     "total_reviews": 156,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u20137\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"4–7 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Leisure centre",
     "lat": 56.396312,
     "lng": -3.490232,
     "found_in_location": "Perth",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Times may differ outside School term Time, please keep an eye on our socials for updates."
   },
   {
     "name": "King of the Castle Scotland",
@@ -2372,12 +3168,23 @@
     "rating": 4.1,
     "total_reviews": 132,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.153505,
     "lng": -3.634612,
-    "found_in_location": "Dollar",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Dunfermline",
+    "found_with_query": "bouncy scotland",
+    "email": "info@kingofthecastlescotland.co.uk",
+    "emails": [
+      "info@kingofthecastlescotland.co.uk",
+      "o@kingofthecastlescotland.co.uk"
+    ],
+    "description": "Welcome to King of the Castle Scotland. BOUNCY CASTLE HIRE, DISCO DOME HIRE and SOFT PLAY HIRE for parties, events and celebrations throughout Fife: Dunfermline, Kirkcaldy & Glenrothes plus Kinross, Clackmannanshire, Alloa & Falkirk. Book a Bouncy Castle Online or Call 07860 158009.",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Inflatable Slide"
+    ]
   },
   {
     "name": "Smuggler's Cove",
@@ -2389,12 +3196,16 @@
     "rating": 4.1,
     "total_reviews": 126,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u201312\u202fam\"],\"Sunday\":[\"10\u202fam\u201311\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–12 am\"],\"Sunday\":[\"10 am–11 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 57.151279,
     "lng": -2.080136,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Our award-winning indoor and outdoor kids adventure play has so much fun stuff for kids of all ages! We have huge soft play areas with amazing slides, bridges, ropes and interactive features that will fuel your child’s imagination.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Nicolson Square Venues",
@@ -2406,12 +3217,13 @@
     "rating": 4.1,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20133\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20133\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–3 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–3 pm\"],\"Tuesday\":[\"9 am–3 pm\"],\"Wednesday\":[\"9 am–3 pm\"]}",
     "types": "Events Venue",
     "lat": 55.945458,
     "lng": -3.185961,
     "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Explore Nicolson Square Venues as a historic venue hire in central Edinburgh. From small meetings, large conferences, to craft fairs, markets, and rehearsals and theatre performances, NSV has flexible spaces to ensure your function hire needs can be met."
   },
   {
     "name": "Cairns Event Hire",
@@ -2423,12 +3235,16 @@
     "rating": 4.1,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4 pm\"],\"Monday\":[\"8:30 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4 pm\"],\"Tuesday\":[\"8:30 am–4 pm\"],\"Wednesday\":[\"8:30 am–4 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 55.841497,
     "lng": -4.170125,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "sales@cairnseventhire.scot",
+    "emails": [
+      "sales@cairnseventhire.scot"
+    ]
   },
   {
     "name": "The Time Capsule",
@@ -2440,12 +3256,22 @@
     "rating": 4.0,
     "total_reviews": 3948,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4\u20138\u202fpm\"],\"Monday\":[\"4\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138\u202fpm\"],\"Thursday\":[\"4\u20138\u202fpm\"],\"Tuesday\":[\"4\u20138\u202fpm\"],\"Wednesday\":[\"4\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"4–8 pm\"],\"Monday\":[\"4–8 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"4–8 pm\"],\"Tuesday\":[\"4–8 pm\"],\"Wednesday\":[\"4–8 pm\"]}",
     "types": "Water park",
     "lat": 55.859612,
     "lng": -4.035182,
-    "found_in_location": "Coatbridge",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Motherwell",
+    "found_with_query": "bouncy scotland",
+    "email": "activenl@northlan.gov.uk",
+    "emails": [
+      "activenl@northlan.gov.uk",
+      "learntoskate@northlan.gov.uk",
+      "timecapsulereception@northlan.gov.uk"
+    ],
+    "description": "The Time Capsule in Coatbridge offers swimming experience, ice skating and gym facilities. Swim with the tornado experience",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Codona's",
@@ -2457,12 +3283,16 @@
     "rating": 4.0,
     "total_reviews": 3179,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201312\u202fam\"],\"Monday\":[\"10\u202fam\u201311\u202fpm\"],\"Saturday\":[\"10\u202fam\u201312\u202fam\"],\"Sunday\":[\"10\u202fam\u201311\u202fpm\"],\"Thursday\":[\"10\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–12 am\"],\"Monday\":[\"10 am–11 pm\"],\"Saturday\":[\"10 am–12 am\"],\"Sunday\":[\"10 am–11 pm\"],\"Thursday\":[\"10 am–11 pm\"],\"Tuesday\":[\"10 am–11 pm\"],\"Wednesday\":[\"10 am–11 pm\"]}",
     "types": "Amusement park",
     "lat": 57.150938,
     "lng": -2.079885,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Our award-winning indoor and outdoor kids adventure play has so much fun stuff for kids of all ages! We have huge soft play areas with amazing slides, bridges, ropes and interactive features that will fuel your child’s imagination.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Pandamonium Play Centre",
@@ -2474,12 +3304,20 @@
     "rating": 4.0,
     "total_reviews": 859,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10\u202fam\u20133\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9:30 am–5:30 pm\"],\"Sunday\":[\"9:30 am–5:30 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10 am–3 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.908157,
     "lng": -4.452196,
-    "found_in_location": "Erskine",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Paisley",
+    "found_with_query": "bouncy scotland",
+    "email": "info@pandamoniumplaycentre.co.uk",
+    "emails": [
+      "info@pandamoniumplaycentre.co.uk"
+    ],
+    "description": "Indoor Soft Play & Children’s Parties in Erskine",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Fun Street Soft Play Glasgow",
@@ -2491,12 +3329,20 @@
     "rating": 4.0,
     "total_reviews": 492,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.823503,
     "lng": -4.343009,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "hello@funstreet.co.uk",
+    "emails": [
+      "hello@funstreet.co.uk"
+    ],
+    "description": "Kids Events at Fun Street! BOOK EVENT Welcome to Fun Street Soft Play Glasgow Premium Kids Soft Pl",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Bubbles Softplay Centre & Party Venue",
@@ -2508,12 +3354,22 @@
     "rating": 4.0,
     "total_reviews": 75,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 55.87109,
     "lng": -4.305615,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@bubblessoftplay.uk",
+    "emails": [
+      "info@bubblessoftplay.uk",
+      "feedback@bubblessoftplay.uk",
+      "vacancies@bubblessoftplay.uk"
+    ],
+    "description": "Our unique indoor soft play caters to children between the ages of 0 to 9.",
+    "services": [
+      "Soft Play"
+    ]
   },
   {
     "name": "Bounce-On Bouncy Castle Rental",
@@ -2525,12 +3381,21 @@
     "rating": 4.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Party equipment rental service",
     "lat": 56.121377,
     "lng": -3.804981,
-    "found_in_location": "Alloa",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Stirling",
+    "found_with_query": "bouncy scotland",
+    "description": "We offer high quality bouncy castles to suit all occasions whether you need to rent an inflatable for your next party or just want to plan a great time with your friends, you will not find a better bouncy castle rental service than Bounce On – bouncy castle rental.",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Bungee Run",
+      "Disco Dome",
+      "Popcorn & Candy Floss",
+      "Soft Play"
+    ]
   },
   {
     "name": "Baillies Events",
@@ -2542,7 +3407,7 @@
     "rating": 4.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Event Planning Service",
     "lat": 55.832373,
     "lng": -4.421481,
@@ -2559,12 +3424,23 @@
     "rating": 3.9,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.109348,
     "lng": -3.335255,
-    "found_in_location": "Cowdenbeath",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Dunfermline",
+    "found_with_query": "bouncy scotland",
+    "services": [
+      "Bouncy Castles",
+      "Bungee Run",
+      "Garden Games",
+      "Gladiator Joust",
+      "Inflatable Slide",
+      "Obstacle Course",
+      "Popcorn & Candy Floss",
+      "Soft Play",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Bouncing Scotland",
@@ -2576,12 +3452,18 @@
     "rating": 3.9,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.861142,
     "lng": -4.378356,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course",
+      "Rodeo Bull"
+    ]
   },
   {
     "name": "Aberdeen & Shire Bouncy Castle Hire",
@@ -2593,12 +3475,25 @@
     "rating": 3.9,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 57.065432,
     "lng": -2.129775,
     "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "contact@a-b-c-h.co.uk",
+    "emails": [
+      "contact@a-b-c-h.co.uk",
+      "partytimeinflatables@hotmail.co.uk"
+    ],
+    "description": "We are a family run company based in Portlethen, offering bouncy castle hire, soft play hire & disco dome hire",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Garden Games",
+      "Soft Play"
+    ]
   },
   {
     "name": "Ruff and Tumble Softplay ( NEW AND IMPROVED)",
@@ -2610,7 +3505,7 @@
     "rating": 3.8,
     "total_reviews": 285,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20133\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u20133:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20133:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u20133\u202fpm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–3 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–3:30 pm\"],\"Sunday\":[\"10 am–3:30 pm\"],\"Thursday\":[\"10 am–3 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Children's Amusement Centre",
     "lat": 55.822662,
     "lng": -4.29887,
@@ -2632,7 +3527,12 @@
     "lat": 55.848541,
     "lng": -4.488267,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "description": "Soft Play Glasgow, The Brightest and best soft play centre located in Renfrewshire, West of Glasgow just a stone’s throw away from Glasgow airport and Braehead shopping centre.",
+    "services": [
+      "Ball Pool",
+      "Soft Play"
+    ]
   },
   {
     "name": "Henderson Gray Marquee Hire",
@@ -2644,12 +3544,17 @@
     "rating": 3.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Marquee hire service",
     "lat": 56.478863,
     "lng": -3.013647,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@hendersongray.co.uk",
+    "emails": [
+      "info@hendersongray.co.uk"
+    ],
+    "description": "Henderson Gray Marquee Hire specialise in the supply of modern, high quality clear-span frame marquees that can be used with full confidence all year round."
   },
   {
     "name": "Innoflate Inverness",
@@ -2661,12 +3566,17 @@
     "rating": 3.6,
     "total_reviews": 51,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–8 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"9:30 am–8 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Indoor playground",
     "lat": 57.482203,
     "lng": -4.178737,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "dundee@innoflate.co.uk",
+    "emails": [
+      "dundee@innoflate.co.uk"
+    ],
+    "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
     "name": "Megamix Events & Entertainments",
@@ -2678,12 +3588,22 @@
     "rating": 3.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.810572,
     "lng": -4.136222,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "megamixdisco@hotmail.co.uk",
+    "emails": [
+      "megamixdisco@hotmail.co.uk"
+    ],
+    "description": "Megamix Events & Entertainments provide the ultimate party experience. Bouncy castle hire glasgow, Inflatable Pub hire Glasgow Inflatable Nightclub hire Glasgow Bouncy Castle hire Glasgow Mobile Dj Hire Glasgow Glasgow Scotland United Kingdom",
+    "services": [
+      "Bouncy Castles",
+      "Inflatable Slide",
+      "Photo Booth"
+    ]
   },
   {
     "name": "Bears and Bouncys",
@@ -2695,12 +3615,19 @@
     "rating": 3.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20137\u202fpm\"],\"Monday\":[\"8\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u20137\u202fpm\"],\"Sunday\":[\"8\u202fam\u20137\u202fpm\"],\"Thursday\":[\"8\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"8 am–7 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.492946,
     "lng": -2.978898,
     "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "services": [
+      "Ball Pool",
+      "Bouncy Castles",
+      "Disco Dome",
+      "Obstacle Course",
+      "Sumo Suits"
+    ]
   },
   {
     "name": "Dundee Fun",
@@ -2729,7 +3656,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.848236,
     "lng": -4.439213,
@@ -2746,7 +3673,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 56.49534,
     "lng": -2.98653,
@@ -2763,12 +3690,19 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.805486,
     "lng": -4.229165,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
+    "found_with_query": "bouncy scotland",
+    "email": "info@kidzbounce.co.uk",
+    "emails": [
+      "info@kidzbounce.co.uk"
+    ],
+    "services": [
+      "Bouncy Castles"
+    ]
   },
   {
     "name": "Bouncy Castles Glasgow",
@@ -2797,7 +3731,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.930299,
     "lng": -4.335791,
@@ -2814,7 +3748,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–6:30 pm\"],\"Monday\":[\"6:30 am–6:30 pm\"],\"Saturday\":[\"6:30 am–6:30 pm\"],\"Sunday\":[\"6:30 am–6:30 pm\"],\"Thursday\":[\"6:30 am–6:30 pm\"],\"Tuesday\":[\"6:30 am–6:30 pm\"],\"Wednesday\":[\"6:30 am–6:30 pm\"]}",
     "types": "Bouncy castle hire",
     "lat": 55.824872,
     "lng": -4.270258,
@@ -2869,8 +3803,19 @@
     "types": "Party equipment rental service",
     "lat": 57.695761,
     "lng": -4.260561,
-    "found_in_location": "Alness",
-    "found_with_query": "bouncy scotland"
+    "found_in_location": "Inverness",
+    "found_with_query": "bouncy scotland",
+    "email": "info@iialness.co.uk",
+    "emails": [
+      "info@iialness.co.uk"
+    ],
+    "description": "Inverness Alness Dingwall Invergordon Tainhighland castle entertainment mascot madnes entertainment",
+    "services": [
+      "Bouncy Castles",
+      "Photo Booth",
+      "Popcorn & Candy Floss",
+      "Rodeo Bull"
+    ]
   },
   {
     "name": "Ease Event Solutions",
@@ -2882,7 +3827,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Event technology service",
     "lat": 57.487392,
     "lng": -4.244524,

@@ -34,13 +34,16 @@ export async function GET(request: NextRequest) {
   }
 
   const result = await pool.query(
-    `SELECT enabled, config FROM auto_quote_configs
-     WHERE business_slug = $1 AND product = $2 AND site = $3`,
+    `SELECT aqc.enabled, aqc.config, opr.services
+     FROM auto_quote_configs aqc
+     LEFT JOIN operator_profiles opr ON opr.business_slug = aqc.business_slug
+       AND opr.product = aqc.product AND opr.site = aqc.site
+     WHERE aqc.business_slug = $1 AND aqc.product = $2 AND aqc.site = $3`,
     [slug, product, site]
   );
 
   return NextResponse.json({
-    config: result.rows[0] || { enabled: false, config: {} },
+    config: result.rows[0] || { enabled: false, config: {}, services: null },
   });
 }
 
@@ -54,7 +57,7 @@ export async function PUT(request: NextRequest) {
   }
 
   const body = await request.json();
-  const { slug, product, site, enabled, config } = body;
+  const { slug, product, site, enabled, config, services } = body;
 
   if (!slug || !product || !site) {
     return NextResponse.json({ error: "Missing parameters" }, { status: 400 });
@@ -80,6 +83,15 @@ export async function PUT(request: NextRequest) {
      DO UPDATE SET enabled = $5, config = $6, updated_at = NOW()`,
     [session.user.id, slug, product, site, enabled ?? false, JSON.stringify(config || {})]
   );
+
+  // Save selected services to operator_profiles
+  if (Array.isArray(services)) {
+    await pool.query(
+      `UPDATE operator_profiles SET services = $1
+       WHERE business_slug = $2 AND product = $3 AND site = $4`,
+      [services.length > 0 ? services : null, slug, product, site]
+    );
+  }
 
   return NextResponse.json({ success: true });
 }

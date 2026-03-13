@@ -14,7 +14,12 @@
     "lat": 54.545102,
     "lng": -1.318225,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "office@infiniticars.uk",
+    "emails": [
+      "office@infiniticars.uk"
+    ],
+    "description": "Welcome to Infiniti Cars.Our primary goal in all business decisions is to achieve a high level of customer satisfaction with all that we provide in an efficient private hire transportation service. A service with higher standards. This simple yet effective approach has fuelled our growth since..."
   },
   {
     "name": "Bay Town Car Services Ltd",
@@ -31,7 +36,8 @@
     "lat": 55.039518,
     "lng": -1.487313,
     "found_in_location": "Whitley Bay",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Bay Town Car Services provide door-to-door transfers for business trips, holidays, and special occasions."
   },
   {
     "name": "G L Minibuses",
@@ -48,7 +54,16 @@
     "lat": 54.91827,
     "lng": -1.523444,
     "found_in_location": "Washington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "glminibuses@hotmail.co.uk",
+    "emails": [
+      "glminibuses@hotmail.co.uk"
+    ],
+    "description": "G L Minibuses are a trusted minibus company in Washington. With wheelchair accessible vehicles and 24-hour service, we ensure smooth journeys for all.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "E Travel King Of Passenger Transport",
@@ -65,7 +80,16 @@
     "lat": 54.537657,
     "lng": -1.19673,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@etravelne.co.uk",
+    "emails": [
+      "info@etravelne.co.uk",
+      "bookings@etravelne.co.uk"
+    ],
+    "description": "Coach and Minibus Hire Middlesbrough, Stockton, Teesside and other areas across the North East. Book online today and travel in style.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Gamezone Events - Gaming Party Bus",
@@ -82,7 +106,15 @@
     "lat": 54.879481,
     "lng": -1.37459,
     "found_in_location": "Sunderland",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "hello@gamezoneuk.com",
+    "emails": [
+      "hello@gamezoneuk.com"
+    ],
+    "description": "Amazing gaming vans delivering unforgettable multi-player gaming party experience, brought right to your doorstep across the North East.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Parkers Chauffeurs",
@@ -94,12 +126,16 @@
     "rating": 5.0,
     "total_reviews": 35,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–6 pm\"],\"Sunday\":[\"8:30 am–6 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 55.032079,
     "lng": -1.700111,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "National Award Winners, providing a First-Class Chauffeur Service. Parkers Chauffeurs offer highly trained VIP Chauffeurs with the best fleet of luxury vehicles in North England.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Rickerby Chauffeur Cars",
@@ -116,7 +152,18 @@
     "lat": 54.986215,
     "lng": -1.69532,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@rickerbychauffeurcars.com",
+    "emails": [
+      "info@rickerbychauffeurcars.com"
+    ],
+    "description": "We are a a chauffeur company in Newcastle. At Rickerby Chauffeur Cars we offer wedding, executive, VIP and bespoke chauffeur tours.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Wedding Camper",
@@ -133,7 +180,16 @@
     "lat": 54.963649,
     "lng": -1.435162,
     "found_in_location": "South Shields",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "chrismawa@gmail.com",
+    "emails": [
+      "chrismawa@gmail.com"
+    ],
+    "description": "Based in South Shields we offer wedding car hire in Newcastle, Sunderland, Gateshead, South Shields and the wider North East region. Our prices start from £350",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Tyneside Travel",
@@ -145,12 +201,20 @@
     "rating": 5.0,
     "total_reviews": 30,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.998884,
     "lng": -1.648373,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@tynesidetravel.co.uk",
+    "emails": [
+      "info@tynesidetravel.co.uk"
+    ],
+    "description": "Tyneside Travel provide a friendly & professional minibus hire service (with drivers) for both short & long journeys. Based in Newcastle, we have fleet of 8 & 16 seater minibuses available.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Executive Chariots",
@@ -184,7 +248,15 @@
     "lat": 54.571784,
     "lng": -1.224309,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@localminibustravel.co.uk",
+    "emails": [
+      "info@localminibustravel.co.uk"
+    ],
+    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Shaws Minibus Travel",
@@ -196,12 +268,17 @@
     "rating": 5.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–7 pm\"],\"Monday\":[\"7:30 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–7 pm\"],\"Tuesday\":[\"7:30 am–7 pm\"],\"Wednesday\":[\"7:30 am–7 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.572469,
     "lng": -1.192198,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "shawsminibustravel@hotmail.com",
+    "emails": [
+      "shawsminibustravel@hotmail.com"
+    ],
+    "description": "At ShawsMinibusTravel, our goal is to provide a professional and affordable executive transportation service across the local areas throughout the Uk. Our fully managed, trustworthy service allows you to spend more time on what’s important to you. Just leave the rest to us. We know North East..."
   },
   {
     "name": "Durham Minibuses",
@@ -218,7 +295,16 @@
     "lat": 54.772133,
     "lng": -1.477508,
     "found_in_location": "Durham",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@durham-minibuses.co.uk",
+    "emails": [
+      "info@durham-minibuses.co.uk",
+      "darren.durhamminibuses@gmail.com"
+    ],
+    "description": "Durham Minibuses 16 seat Minibus service for all occasions",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Evermore Wedding Cars",
@@ -230,12 +316,17 @@
     "rating": 5.0,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 54.880517,
     "lng": -1.749361,
-    "found_in_location": "Stanley",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "limo northeast",
+    "description": "Family Run Wedding Car Business covering North East Area. Providing Vintage and Luxury Wedding cars in Durham, Newcastle, Sunderland and Surrounding Areas",
+    "services": [
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "A B Wedding Cars",
@@ -252,7 +343,17 @@
     "lat": 54.978822,
     "lng": -1.732409,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "abweddingcars@hotmail.co.uk",
+    "emails": [
+      "abweddingcars@hotmail.co.uk"
+    ],
+    "description": "Vintage Wedding cars North Walbottle, Tyne and Wear. Classic cars that can seat up to 7 passengers in style and comfort. Experienced Chauffeurs. Family business. 5* Reviews. Best prices - Book Direct.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Northumbria Wedding Cars",
@@ -268,7 +369,7 @@
     "types": "Wedding service",
     "lat": 55.434439,
     "lng": -1.618908,
-    "found_in_location": "Alnwick",
+    "found_in_location": "Morpeth",
     "found_with_query": "limo northeast"
   },
   {
@@ -286,7 +387,16 @@
     "lat": 54.558047,
     "lng": -1.302683,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@eaglechauffeuringltd.co.uk",
+    "emails": [
+      "info@eaglechauffeuringltd.co.uk"
+    ],
+    "description": "Chauffeurs in the North East - We offer the best service in the area and won't be beaten on price or quality. Get in touch today.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Bells Coaches",
@@ -303,7 +413,12 @@
     "lat": 55.040991,
     "lng": -1.876308,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@bellscoaches.com",
+    "emails": [
+      "enquiries@bellscoaches.com"
+    ],
+    "description": "BELLS COACHES | COACH HIRE NEWCASTLE NORTH EAST | March 10, 2026"
   },
   {
     "name": "Local Minibus travel",
@@ -320,7 +435,15 @@
     "lat": 54.979597,
     "lng": -1.658835,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@localminibustravel.co.uk",
+    "emails": [
+      "info@localminibustravel.co.uk"
+    ],
+    "description": "Affordable and reliable minibus and coach hire across the North East UK. Ideal for group travel, events, holidays, and corporate trips.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Ormesby Travel Mini Bus Hire",
@@ -337,7 +460,12 @@
     "lat": 54.546054,
     "lng": -1.170649,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@ormesby-travel.co.uk",
+    "emails": [
+      "info@ormesby-travel.co.uk"
+    ],
+    "description": "Friendly, flexible travel servicing Middlesbrough and the North East."
   },
   {
     "name": "Park Executive",
@@ -349,7 +477,7 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6:30 pm\"],\"Monday\":[\"7 am–6:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6:30 pm\"],\"Tuesday\":[\"7 am–6:30 pm\"],\"Wednesday\":[\"7 am–6:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 54.862801,
     "lng": -1.438369,
@@ -366,12 +494,23 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20131:30\u202fam\"],\"Thursday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–1:30 am\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
     "types": "Limousine service",
     "lat": 54.892671,
     "lng": -1.507352,
     "found_in_location": "Washington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "gdlgroup@outlook.com",
+    "emails": [
+      "gdlgroup@outlook.com",
+      "gordonlea@icloud.com"
+    ],
+    "description": "Arrive at a special occasion in style, Proms, Parties, Weddings, Race Days, Theatre trips, Airport transfers in a luxury LimoBus",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "k & k wedding cars",
@@ -383,11 +522,11 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Car rental company",
     "lat": 54.821759,
     "lng": -1.37614,
-    "found_in_location": "Seaham",
+    "found_in_location": "Sunderland",
     "found_with_query": "limo northeast"
   },
   {
@@ -400,12 +539,17 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Children's party service",
     "lat": 54.691745,
     "lng": -1.212926,
     "found_in_location": "Hartlepool",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "gamerentertainer2017@gmail.com",
+    "emails": [
+      "gamerentertainer2017@gmail.com"
+    ],
+    "description": "Gamer Entertainer brings the North Easts first ultimate gaming truck straight to your door."
   },
   {
     "name": "Ka Boogie party bus",
@@ -417,12 +561,21 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Transportation service",
     "lat": 54.928262,
     "lng": -1.594079,
     "found_in_location": "Gateshead",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "mrjohnparkin@yahoo.co.uk",
+    "emails": [
+      "mrjohnparkin@yahoo.co.uk"
+    ],
+    "description": "Discover our unique party bus experience for all events. Learn more! North East.",
+    "services": [
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Elite Wedding Cars",
@@ -438,7 +591,7 @@
     "types": "Car rental company",
     "lat": 54.658349,
     "lng": -1.684193,
-    "found_in_location": "Bishop Auckland",
+    "found_in_location": "Durham",
     "found_with_query": "limo northeast"
   },
   {
@@ -473,7 +626,12 @@
     "lat": 55.039497,
     "lng": -1.565096,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Quality, comfort and reliability for your next North East or UK-wide trip",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Pattison Bros",
@@ -490,7 +648,12 @@
     "lat": 54.552234,
     "lng": -1.548601,
     "found_in_location": "Darlington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "lynne.johns86@yahoo.com",
+    "emails": [
+      "lynne.johns86@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "Billingham Wedding Vehicles",
@@ -506,7 +669,7 @@
     "types": "Wedding planner",
     "lat": 54.605594,
     "lng": -1.296563,
-    "found_in_location": "Billingham",
+    "found_in_location": "Stockton-on-Tees",
     "found_with_query": "limo northeast"
   },
   {
@@ -519,11 +682,11 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 54.746697,
     "lng": -1.346428,
-    "found_in_location": "Peterlee",
+    "found_in_location": "Hartlepool",
     "found_with_query": "limo northeast"
   },
   {
@@ -536,12 +699,23 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 54.987713,
     "lng": -1.691383,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@rickerbychauffeurcars.com",
+    "emails": [
+      "info@rickerbychauffeurcars.com"
+    ],
+    "description": "Welcome to the multi award winning Rickerby Cars. A five star professional executive chauffeur business established in 2006. We are based locally in Newcastle upon Tyne, U.K. Offering clients a bespoke premium executive car hire. Our services include Newcastle Airport Transfer Service, Wedding...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Benchmark Executive Cars",
@@ -558,7 +732,15 @@
     "lat": 55.003153,
     "lng": -1.69547,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@benchmarkcars.com",
+    "emails": [
+      "info@benchmarkcars.com"
+    ],
+    "description": "Website Design byBrogan Weedy• Photography byJonny Wilson",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Pauls Travel",
@@ -575,7 +757,12 @@
     "lat": 54.679541,
     "lng": -1.203968,
     "found_in_location": "Hartlepool",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "lynne.johns86@yahoo.com",
+    "emails": [
+      "lynne.johns86@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "MMD Wedding Cars",
@@ -592,7 +779,12 @@
     "lat": 55.013915,
     "lng": -1.566025,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Classic and modern Jaguars for hire. Chauffeur driven wedding car hire service throughout North East England, covering Newcastle upon Tyne, Durham, Gateshead, Sunderland, Northumberland, North Tyneside.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Pauls Minibuses",
@@ -626,7 +818,12 @@
     "lat": 54.511549,
     "lng": -1.327871,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "gary@vegascasinohire.co.uk",
+    "emails": [
+      "gary@vegascasinohire.co.uk"
+    ],
+    "description": "Vegas Casino Hire is a Fun Casino bringing all the excitement of a real casino to your Birthdays, Weddings and Corporate Events."
   },
   {
     "name": "Autograph Limousines",
@@ -643,7 +840,20 @@
     "lat": 55.012968,
     "lng": -1.49961,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Luxury Limousine service in Newcastle. Party Bus Hire, Chauffeur services, Supercar Hire, Airport Transfers, and VIP Transport Specialist.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "kayesminibus",
@@ -660,7 +870,12 @@
     "lat": 54.564433,
     "lng": -1.241744,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "We are rapidly gaining a reputation as the North east premier minibus hire with driver company. We have been providing outstanding service covering travel across the whole of the UK.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Newcastle Executive Chauffeur Cars - Official site",
@@ -677,7 +892,17 @@
     "lat": 55.000737,
     "lng": -1.583568,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "newcastlechauffeurcars@gmail.com",
+    "emails": [
+      "newcastlechauffeurcars@gmail.com"
+    ],
+    "description": "We are a Newcastle upon Tyne UK-based chauffeur company for Executive, Corporate, Weddings, Special occasions, Airport, VIP and private clients",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Brooklands Wedding Cars",
@@ -694,7 +919,15 @@
     "lat": 54.82505,
     "lng": -1.746289,
     "found_in_location": "Durham",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@brooklandsweddingcarssussex.com",
+    "emails": [
+      "enquiries@brooklandsweddingcarssussex.com"
+    ],
+    "description": "Brooklands Wedding Cars Sussex offers superb quality, traditional wedding car hire in Sussex. Mark 2 Jaguar, Beauford, Campervan, Regent and Beetle for hire based in Sussex. Brighton, West Sussex. Getting you together on your big day.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Newcastle Limos",
@@ -706,12 +939,20 @@
     "rating": 4.9,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 54.971127,
     "lng": -1.612525,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Choose Newcastle Limo Hire for all types of event from Hen and Stags to Birthdays and Anniversaries. We will not be beaten on price. Get a free quote now.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bowman Travel",
@@ -728,7 +969,16 @@
     "lat": 55.024826,
     "lng": -1.536429,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@bowmantravel.co.uk",
+    "emails": [
+      "info@bowmantravel.co.uk"
+    ],
+    "description": "Executive transport services for race days, sporting events, stag parties, airport transfers, corporate travel, private hire, we cover it all!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "The Party Business Newcastle Ltd",
@@ -745,7 +995,15 @@
     "lat": 54.992184,
     "lng": -1.759394,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@thepartybusinessnewcastle.co.uk",
+    "emails": [
+      "info@thepartybusinessnewcastle.co.uk"
+    ],
+    "description": "The North East's leading Bouncy Castle & Soft play hire company. We are the Bouncy castle & soft play experts- safe, reliable, highest quality Inflatables & soft play with Children's favourite themes. No need for a DJ with our disco Bouncy Castles. Why book the rest when you can have the best?",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "ATW Wedding Cars - Durham & north east",
@@ -757,12 +1015,20 @@
     "rating": 4.8,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11\u202fam\u20138\u202fpm\"],\"Monday\":[\"11\u202fam\u20138\u202fpm\"],\"Saturday\":[\"11\u202fam\u20138\u202fpm\"],\"Sunday\":[\"11\u202fam\u20138\u202fpm\"],\"Thursday\":[\"11\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"11\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"11\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"11 am–8 pm\"],\"Monday\":[\"11 am–8 pm\"],\"Saturday\":[\"11 am–8 pm\"],\"Sunday\":[\"11 am–8 pm\"],\"Thursday\":[\"11 am–8 pm\"],\"Tuesday\":[\"11 am–8 pm\"],\"Wednesday\":[\"11 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 54.901708,
     "lng": -1.555207,
     "found_in_location": "Washington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "ATW Vintage & Classic wedding cars for hire in the North East including Newcastle Sunderland & County Durham.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "M & D Travel Ltd",
@@ -774,12 +1040,21 @@
     "rating": 4.8,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.612709,
     "lng": -1.260207,
-    "found_in_location": "Billingham",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "limo northeast",
+    "email": "info@mdtravelcoachhire.co.uk",
+    "emails": [
+      "info@mdtravelcoachhire.co.uk",
+      "nicola@mdtravelcoachhire.co.uk"
+    ],
+    "description": "Get in touch with the expert travel operators in Stockton-on-Tees for your next trip! Call M&D Travel Ltd today on 01642 658 194 for more information",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Campbell Wedding Cars",
@@ -796,7 +1071,16 @@
     "lat": 54.996016,
     "lng": -1.432546,
     "found_in_location": "South Shields",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "chrismawa@gmail.com",
+    "emails": [
+      "chrismawa@gmail.com"
+    ],
+    "description": "Based in South Shields we offer wedding car hire in Newcastle, Sunderland, Gateshead, South Shields and the wider North East region. Our prices start from £350",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Henry Cooper Coaches",
@@ -813,7 +1097,15 @@
     "lat": 55.056505,
     "lng": -1.578299,
     "found_in_location": "Cramlington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "graham@henrycoopercoaches.com",
+    "emails": [
+      "graham@henrycoopercoaches.com"
+    ],
+    "description": "You can always rely on Henry Cooper Coaches for executive coach hire in Newcastle and the surrounding areas. Call us on 07887 501 332 for any details",
+    "services": [
+      "Prom Transport"
+    ]
   },
   {
     "name": "Darras Minibuses",
@@ -830,7 +1122,11 @@
     "lat": 55.06214,
     "lng": -1.827106,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Looking for a reliable minibus company? Look no further than Darras Minibuses, offering minibus hire services in Newcastle. Call now - we'll get you there!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Liberty Coaches",
@@ -842,12 +1138,13 @@
     "rating": 4.8,
     "total_reviews": 16,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 55.089151,
     "lng": -1.616284,
     "found_in_location": "Cramlington",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Executive Minibus & Coach hire, Party Bus Hire, Northumberland, Newcastle, Tyne & Wear"
   },
   {
     "name": "Diamond Limos North East",
@@ -859,11 +1156,11 @@
     "rating": 4.8,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 54.822879,
     "lng": -1.453083,
-    "found_in_location": "Houghton le Spring",
+    "found_in_location": "Washington",
     "found_with_query": "limo northeast"
   },
   {
@@ -876,12 +1173,16 @@
     "rating": 4.8,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 54.950205,
     "lng": -1.536526,
     "found_in_location": "Gateshead",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Canny Campers a chauffeur driven VW Campervan Wedding Car Hire company. Based in North East England offering both the iconic 60s Splitscreen Campervan and a stunning 70s BoHo Style Bay Window Campervan. A friendly family run business with passion and a professional service.",
+    "services": [
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bradbury Glade",
@@ -893,12 +1194,13 @@
     "rating": 4.7,
     "total_reviews": 78,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding venue",
     "lat": 54.645501,
     "lng": -1.497899,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Discover Bradbury Glade, a stunning wedding venue in Durham. Perfect for your dream wedding with beautiful garden spaces"
   },
   {
     "name": "Magnum Rentals",
@@ -910,12 +1212,17 @@
     "rating": 4.7,
     "total_reviews": 47,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Van rental agency",
     "lat": 54.585172,
     "lng": -1.267805,
-    "found_in_location": "Billingham",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "limo northeast",
+    "email": "info@magnumrentals.co.uk",
+    "emails": [
+      "info@magnumrentals.co.uk"
+    ],
+    "description": "Whatever you need our wide range of vans come in all different shapes & sizes, right up to our 3.5 tonne van to hire - Van Hire Middlesbrough"
   },
   {
     "name": "THE BOOMBUS PARTY BUS NEWCASTLE",
@@ -931,7 +1238,7 @@
     "types": "Bus company",
     "lat": 55.011146,
     "lng": -1.43486,
-    "found_in_location": "North Shields",
+    "found_in_location": "Tynemouth",
     "found_with_query": "limo northeast"
   },
   {
@@ -944,12 +1251,16 @@
     "rating": 4.7,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4:30 pm\"],\"Tuesday\":[\"9 am–4:30 pm\"],\"Wednesday\":[\"9 am–4:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.991622,
     "lng": -1.521408,
-    "found_in_location": "Wallsend",
-    "found_with_query": "limo northeast"
+    "found_in_location": "South Shields",
+    "found_with_query": "limo northeast",
+    "description": "At Premier Transport we offer a huge range of coach day trips and excursions to visit some hidden gems and great well known tourist places throughout the UK. All of our departures are directly from Newcastle and around North Tyneside, we hope you can join us to explore and see more.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Durham Limos",
@@ -966,7 +1277,15 @@
     "lat": 54.787756,
     "lng": -1.537539,
     "found_in_location": "Durham",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Choose Durham Limo Hire for all types of event from Hen and Stags to Birthdays and Anniversaries. We will not be beaten on price. Get a free quote now.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Linthorpe Mini Buses",
@@ -983,7 +1302,12 @@
     "lat": 54.556676,
     "lng": -1.258878,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "lynne.johns86@yahoo.com",
+    "emails": [
+      "lynne.johns86@yahoo.com"
+    ],
+    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK"
   },
   {
     "name": "J H Coaches",
@@ -995,12 +1319,17 @@
     "rating": 4.6,
     "total_reviews": 174,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.886351,
     "lng": -1.579911,
-    "found_in_location": "Chester-le-Street",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Washington",
+    "found_with_query": "limo northeast",
+    "email": "sales@jhcoaches.com",
+    "emails": [
+      "sales@jhcoaches.com"
+    ],
+    "description": "Now part of The Coach Travel Group, we bring decades of experience together with enhanced services designed to meet the needs of every customer."
   },
   {
     "name": "Exclusive Wedding Cars",
@@ -1012,12 +1341,22 @@
     "rating": 4.6,
     "total_reviews": 68,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 54.73705,
     "lng": -1.381062,
-    "found_in_location": "Wingate",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "limo northeast",
+    "email": "info@exclusiveweddingcars.net",
+    "emails": [
+      "info@exclusiveweddingcars.net"
+    ],
+    "description": "Wedding Car Hire Company in the North East. Classic Wedding Cars & Vintage Wedding Cars in Durham, Teesside, Darlington, Sunderland & Hartlepool.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Hart Village Hall",
@@ -1034,7 +1373,8 @@
     "lat": 54.707379,
     "lng": -1.27404,
     "found_in_location": "Hartlepool",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "The original Hall was built in 1947 on land donated by the Milbank Estate a year earlier. This was supplemented by an additional area bought from a local farmer by the first Hall committee who raised funds in that same year.The original building was made of wood with outside toilet facilities...."
   },
   {
     "name": "R Binks Minibuses",
@@ -1050,7 +1390,7 @@
     "types": "Minibus taxi service",
     "lat": 54.64731,
     "lng": -1.679813,
-    "found_in_location": "Bishop Auckland",
+    "found_in_location": "Durham",
     "found_with_query": "limo northeast"
   },
   {
@@ -1068,7 +1408,13 @@
     "lat": 54.81763,
     "lng": -1.626731,
     "found_in_location": "Durham",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@dh1travel.co.uk",
+    "emails": [
+      "info@dh1travel.co.uk",
+      "info@dh1travel.com"
+    ],
+    "description": "We are a minibus hire company and travel agent based in Durham. We provide exceptional mini-bus hire service for all your transport needs. Book now."
   },
   {
     "name": "Denton Travel",
@@ -1080,12 +1426,21 @@
     "rating": 4.5,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.999927,
     "lng": -1.753302,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "admin@dentontravel.co.uk",
+    "emails": [
+      "admin@dentontravel.co.uk"
+    ],
+    "description": "Your Top Choice for Travel in Newcastle and Surrounding Areas – Choose Denton Travel for Unmatched Quality!",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Newcastle Limo Hire",
@@ -1102,7 +1457,20 @@
     "lat": 54.969492,
     "lng": -1.620468,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Newcastle Limo & Cars provides a complete luxury transport service in Newcastle and the North East. Our offerings include professional chauffeur services, a varied fleet of self-drive hire cars, and private aircraft charters. We are your single source for premium transport for any event,...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Aspen Executive Cars - Newcastle Executive Cars",
@@ -1119,7 +1487,17 @@
     "lat": 54.997975,
     "lng": -1.721216,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@aspenexecutive.co.uk",
+    "emails": [
+      "info@aspenexecutive.co.uk"
+    ],
+    "description": "Newcastle Executive Cars at Aspen Executive. Chauffeur driven vehicles across the North East, corporate transport, airport transfers and wedding cars.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Connors Minibuses",
@@ -1135,8 +1513,16 @@
     "types": "Minibus taxi service",
     "lat": 54.864188,
     "lng": -1.690313,
-    "found_in_location": "Stanley",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "limo northeast",
+    "email": "plbrrtt783@hotmail.com",
+    "emails": [
+      "plbrrtt783@hotmail.com"
+    ],
+    "description": "Connor's Minibuses, North East of England, Consett, Chester le street, Newcastle, stag & hen parties, airport transfers, Sporting Events, Weddings, Minibus hire Durham",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "JCS Hire",
@@ -1148,12 +1534,17 @@
     "rating": 4.4,
     "total_reviews": 129,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20134\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"9 am–2 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 54.978419,
     "lng": -1.499961,
-    "found_in_location": "Jarrow",
-    "found_with_query": "limo northeast"
+    "found_in_location": "South Shields",
+    "found_with_query": "limo northeast",
+    "email": "lisa@jcshire.com",
+    "emails": [
+      "lisa@jcshire.com"
+    ],
+    "description": "Need to hire a reliable van, truck or car in the North East? We offer a wide range of vehicles for the cheapest prices in the region."
   },
   {
     "name": "Teesside Princess",
@@ -1165,12 +1556,17 @@
     "rating": 4.4,
     "total_reviews": 67,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–4:30 pm\"],\"Monday\":[\"9:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–4:30 pm\"],\"Tuesday\":[\"9:30 am–4:30 pm\"],\"Wednesday\":[\"9:30 am–4:30 pm\"]}",
     "types": "Boat tour agency",
     "lat": 54.561592,
     "lng": -1.310026,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "bookings@teessideprincess.co.uk",
+    "emails": [
+      "bookings@teessideprincess.co.uk"
+    ],
+    "description": "We have been showcasing the River Tees and its beauty for 30 years this year."
   },
   {
     "name": "Classic Wedding Cars NE",
@@ -1182,12 +1578,25 @@
     "rating": 4.4,
     "total_reviews": 28,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 54.650054,
     "lng": -1.45202,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "nealhuitson@hotmai.com",
+    "emails": [
+      "nealhuitson@hotmai.com",
+      "nealhuitson@hotmail.com"
+    ],
+    "description": "Find the perfect wedding car in the North East for your wedding. From luxury wedding cars for the bride and groom to the whole wedding party, call us today at Classic Wedding Cars.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cherished Cars",
@@ -1199,12 +1608,22 @@
     "rating": 4.4,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 54.557921,
     "lng": -1.303381,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@cherishedcars.com",
+    "emails": [
+      "enquiries@cherishedcars.com"
+    ],
+    "description": "Wedding car hire in Middlesbrough Teesside covering County Durham, Cleveland, Darlington, Hartlepool, Northallerton, Stockton-On-Tees and Redcar. Wedding cars include Beauford and Daimler",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Station Cars",
@@ -1220,8 +1639,17 @@
     "types": "Taxi service",
     "lat": 54.529638,
     "lng": -1.349525,
-    "found_in_location": "Station",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Stockton-on-Tees",
+    "found_with_query": "limo northeast",
+    "email": "station.cars.yarm@gmail.com",
+    "emails": [
+      "station.cars.yarm@gmail.com"
+    ],
+    "description": "GIVE US A CALL AT: 01642788788 EMAIL US AT: station.cars.yarm@gmail.com",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Longlands Travel Ltd",
@@ -1233,12 +1661,20 @@
     "rating": 4.3,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"7\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.561031,
     "lng": -1.240693,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@longlandstravel.co.uk",
+    "emails": [
+      "info@longlandstravel.co.uk"
+    ],
+    "description": "Affordable and reliable coach and minibus hire in Middlesbrough and the North East. Longlands Travel Ltd offers friendly service, licensed vehicles.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Maynard's Travel",
@@ -1250,12 +1686,17 @@
     "rating": 4.3,
     "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20134\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–4 pm\"],\"Monday\":[\"6:30 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–4 pm\"],\"Tuesday\":[\"6:30 am–4 pm\"],\"Wednesday\":[\"6:30 am–4 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.976518,
     "lng": -1.728006,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "coachhire@maynardstravel.com",
+    "emails": [
+      "coachhire@maynardstravel.com"
+    ],
+    "description": "Established in 1997, Maynards Travel offers coach and minibus hire to customers across North East England. All our drivers are DBS checked, and our vehicles are regularly maintained to provide you with a comfortable journey every time you hire us."
   },
   {
     "name": "Merlin Wedding Cars",
@@ -1267,12 +1708,22 @@
     "rating": 4.3,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 54.868313,
     "lng": -1.817247,
-    "found_in_location": "Consett",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Gateshead",
+    "found_with_query": "limo northeast",
+    "email": "enquiries@merlinweddingcars.co.uk",
+    "emails": [
+      "enquiries@merlinweddingcars.co.uk"
+    ],
+    "description": "With Merlin Wedding Cars, you can book with complete confidence at an affordable rate. We accommodate weddings and special events across the North East –",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wardley Coaches",
@@ -1284,12 +1735,20 @@
     "rating": 4.3,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.959518,
     "lng": -1.570444,
     "found_in_location": "Gateshead",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "wardleycoaches@hotmail.co.uk",
+    "emails": [
+      "wardleycoaches@hotmail.co.uk"
+    ],
+    "description": "Based in Gateshead, we have a fleet of minibuses and coaches, ranging from 10 seats to 49 seats, which can take you to any destination in the UK safely and on time.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Daves Mini Buses",
@@ -1305,7 +1764,7 @@
     "types": "Coach and minibus hire",
     "lat": 54.861487,
     "lng": -1.694157,
-    "found_in_location": "Stanley",
+    "found_in_location": "Gateshead",
     "found_with_query": "limo northeast"
   },
   {
@@ -1340,7 +1799,15 @@
     "lat": 54.546422,
     "lng": -1.313081,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@compassroyston.com",
+    "emails": [
+      "enquiries@compassroyston.com"
+    ],
+    "description": "Coach Hire Stockton, Middlesbrough & Teeside. We have a large range of vehicles from 16 to 53 seats with facilities to accommodate your needs. Call Now.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Popworld - Newcastle",
@@ -1352,12 +1819,13 @@
     "rating": 4.1,
     "total_reviews": 541,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fpm\u20132\u202fam\"],\"Monday\":[\"8\u202fpm\u20131\u202fam\"],\"Saturday\":[\"4\u202fpm\u20132\u202fam\"],\"Sunday\":[\"8\u202fpm\u20131\u202fam\"],\"Thursday\":[\"8\u202fpm\u20132\u202fam\"],\"Tuesday\":[\"8\u202fpm\u20131\u202fam\"],\"Wednesday\":[\"8\u202fpm\u20131\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"8 pm–2 am\"],\"Monday\":[\"8 pm–1 am\"],\"Saturday\":[\"4 pm–2 am\"],\"Sunday\":[\"8 pm–1 am\"],\"Thursday\":[\"8 pm–2 am\"],\"Tuesday\":[\"8 pm–1 am\"],\"Wednesday\":[\"8 pm–1 am\"]}",
     "types": "Nightclub",
     "lat": 54.971383,
     "lng": -1.61394,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Join us at Popworld Newcastle Upon Tyne for the most pop-tastic parties! Where all your favourite current hits and pop classics are the soundtrack to your night."
   },
   {
     "name": "Millennium Limousines N.E LTD.",
@@ -1374,7 +1842,16 @@
     "lat": 54.592647,
     "lng": -1.0212,
     "found_in_location": "Redcar",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Coventry Limo - Coventry's best Fleet",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Supercar Hire"
+    ]
   },
   {
     "name": "H & A Travel Limited",
@@ -1403,12 +1880,17 @@
     "rating": 4.0,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 54.612758,
     "lng": -1.260344,
-    "found_in_location": "Billingham",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "limo northeast",
+    "email": "admin@deltacoaches.co.uk",
+    "emails": [
+      "admin@deltacoaches.co.uk"
+    ],
+    "description": "Delta Coaches Ltd your trusted choice for quality coach hire in Teesside, UK & Europe. 8 to 70-seat vehicles."
   },
   {
     "name": "Sunderland Limos",
@@ -1425,7 +1907,15 @@
     "lat": 54.906869,
     "lng": -1.383801,
     "found_in_location": "Sunderland",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Choose Sunderland Limo Hire for all types of event from Hen and Stags to Birthdays and Anniversaries. We will not be beaten on price. Get a free quote now.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "MKE Chauffeurs Ltd",
@@ -1437,12 +1927,21 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 54.675721,
     "lng": -1.208971,
     "found_in_location": "Hartlepool",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@mkechauffeurs.co.uk",
+    "emails": [
+      "info@mkechauffeurs.co.uk"
+    ],
+    "description": "MKE Chauffeurs can supply full EV, HVO and normal unit vehicles to the TV and film industry, to suit any need of the production...",
+    "services": [
+      "Bentley",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Poptop UK",
@@ -1454,12 +1953,18 @@
     "rating": 3.9,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Event management company",
     "lat": 54.966374,
     "lng": -1.596076,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Extraordinary private party experiences and services. Inspiration for your home or garden party. We do next level adult birthday parties, celebration, small weddings & corporate events.",
+    "services": [
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "White Rose Wedding Cars",
@@ -1522,11 +2027,11 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 54.762125,
     "lng": -1.316402,
-    "found_in_location": "Peterlee",
+    "found_in_location": "Hartlepool",
     "found_with_query": "limo northeast"
   },
   {
@@ -1556,12 +2061,17 @@
     "rating": 2.1,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Transportation service",
     "lat": 55.060883,
     "lng": -1.630608,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "info@northeastcoachtravel.co.uk",
+    "emails": [
+      "info@northeastcoachtravel.co.uk"
+    ],
+    "description": "We are the North East’s premier coach company with extensive experience delivering your transport needs."
   },
   {
     "name": "Bus 2 Limited",
@@ -1578,7 +2088,11 @@
     "lat": 54.868814,
     "lng": -1.362653,
     "found_in_location": "Sunderland",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Welcome to Bus 2 Limited! We are a family run mini bus hire service based in Sunderland. We work 24/7 across the UK, get in touch for a quote!",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Stainton Wedding Cars",
@@ -1590,7 +2104,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"10:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"10:30\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"10:30 am–6 pm\"],\"Sunday\":[\"10:30 am–4 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"10 am–6:30 pm\"],\"Wednesday\":[\"10 am–6:30 pm\"]}",
     "types": "Wedding service",
     "lat": 54.65006,
     "lng": -1.452024,
@@ -1612,7 +2126,17 @@
     "lat": 54.592041,
     "lng": -1.238757,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "pnearney@gmail.com",
+    "emails": [
+      "pnearney@gmail.com"
+    ],
+    "description": "Wedding Car Hire Wedding Transport Vintage Car Hire Limousine Hire North East England Beau and Belle Wedding Cars",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Frank Painter & Sons Classic Cars",
@@ -1629,7 +2153,19 @@
     "lat": 54.577698,
     "lng": -1.234001,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@hchg.co.uk",
+    "emails": [
+      "enquiries@hchg.co.uk"
+    ],
+    "description": "UK National Network of Classic Car Hire companies offering Classic Cars for Self-drive Hire",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "WILKINSONS WEDDING CARS",
@@ -1641,12 +2177,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 54.73715,
     "lng": -1.381463,
-    "found_in_location": "Wingate",
-    "found_with_query": "limo northeast"
+    "found_in_location": "Hartlepool",
+    "found_with_query": "limo northeast",
+    "email": "info@wilkinsonsweddingcars.co.uk",
+    "emails": [
+      "info@wilkinsonsweddingcars.co.uk"
+    ],
+    "description": "Wilkinsons Wedding Cars are your local vintage, classic and vw campervan wedding car hire company in Durham, North East.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Prestige 365",
@@ -1692,7 +2237,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–2 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 54.994295,
     "lng": -1.503422,
@@ -1726,7 +2271,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"11\u202fam\u20133\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"11 am–3 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 54.970464,
     "lng": -1.624119,
@@ -1765,7 +2310,12 @@
     "lat": 54.971327,
     "lng": -1.597504,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "description": "Explore Newcastle effortlessly with Minibus Hire Newcastle – your ticket to stress-free group travel.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "A A Mini Bus Hire",
@@ -1798,7 +2348,7 @@
     "types": "Limousine service",
     "lat": 54.851777,
     "lng": -1.476898,
-    "found_in_location": "Houghton le Spring",
+    "found_in_location": "Washington",
     "found_with_query": "limo northeast"
   },
   {
@@ -1832,7 +2382,7 @@
     "types": "Transportation service",
     "lat": 54.847472,
     "lng": -1.661892,
-    "found_in_location": "Stanley",
+    "found_in_location": "Durham",
     "found_with_query": "limo northeast"
   },
   {
@@ -1862,11 +2412,16 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–4:30 pm\"],\"Monday\":[\"8:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4:30 pm\"],\"Tuesday\":[\"8:30 am–4:30 pm\"],\"Wednesday\":[\"8:30 am–4:30 pm\"]}",
     "types": "Car Rental Service",
     "lat": 54.665651,
     "lng": -1.213515,
     "found_in_location": "Hartlepool",
-    "found_with_query": "limo northeast"
+    "found_with_query": "limo northeast",
+    "email": "enquiries@jvhlimited.co.uk",
+    "emails": [
+      "enquiries@jvhlimited.co.uk"
+    ],
+    "description": "We buy your car from you and lease it back at a lower monthly cost than you’re paying now. Same vehicle, smaller bills — and you get instant cash."
   }
 ]

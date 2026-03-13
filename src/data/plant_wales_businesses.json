@@ -9,12 +9,19 @@
     "rating": 5.0,
     "total_reviews": 74,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20133\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–3 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Arborist service",
     "lat": 53.035131,
     "lng": -2.970819,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "joe.griffiths@treetekk.co.uk",
+    "emails": [
+      "joe.griffiths@treetekk.co.uk",
+      "ollie.smith@treetekk.co.uk",
+      "ollie.smith@treektekk.co.uk"
+    ],
+    "description": "Our team of skilled arborists utilizes the latest technology and industry best practices to provide top-quality service from start to finish. With our expertise, you can track and witness the entire process of tree care every step of the way. Just like the strong foundation of a well-maintained..."
   },
   {
     "name": "ACOP Group",
@@ -26,12 +33,24 @@
     "rating": 5.0,
     "total_reviews": 63,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Training provider",
     "lat": 51.818092,
     "lng": -4.092948,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@acopgroup.com",
+    "emails": [
+      "info@acopgroup.com"
+    ],
+    "description": "ACOP are award-winning providers for plant training and machinery hire in the construction industry: excavator training, assessment, telehandler hire",
+    "services": [
+      "Cherry Picker",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "PLANTMAX",
@@ -43,12 +62,26 @@
     "rating": 5.0,
     "total_reviews": 52,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 51.69933,
     "lng": -4.125996,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "sales@plantmax.uk",
+    "emails": [
+      "sales@plantmax.uk"
+    ],
+    "description": "Plantmax Equipment - The Better Way To Buy Your Used Plant & Machinery. It's Simple - Buy Online. We’ll Deliver It. Love It Or Return It.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Mini Digger",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "CARTER DIGGER UK & NI LIMITED",
@@ -60,12 +93,17 @@
     "rating": 5.0,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.881615,
     "lng": -4.297616,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "carter_diggers_uk_ni@hotmail.com",
+    "emails": [
+      "carter_diggers_uk_ni@hotmail.com"
+    ],
+    "description": "Previous slide Next slide Welcome toCarter Diggers Make Carter your first choice with money saving most of our range is at least 20% less than other leading brands. Apart from being strong and reliable, we have a UK Importer. Parts are kept on the shelf and all machines have a declaration of..."
   },
   {
     "name": "A&J landscapes",
@@ -81,7 +119,7 @@
     "types": "Building firm",
     "lat": 51.682892,
     "lng": -4.113994,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -94,12 +132,17 @@
     "rating": 5.0,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.792382,
     "lng": -3.983017,
-    "found_in_location": "Ammanford",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "dragonhireltd@hotmail.com",
+    "emails": [
+      "dragonhireltd@hotmail.com"
+    ],
+    "description": "Dragon Tool & Plant Hire, Tool & Machinery Rental at affordable prices near you!"
   },
   {
     "name": "D G Davies Plant hire",
@@ -111,12 +154,13 @@
     "rating": 5.0,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"6\u202fam\u20136\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"6 am–6 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.788806,
     "lng": -3.985424,
-    "found_in_location": "Ammanford",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "description": "Professional plant hire services across South Wales. Quality equipment including diggers, dumpers, chippers, MEWP, and trailers for construction and landscaping projects."
   },
   {
     "name": "Stuart Smith Plant Hire Ltd",
@@ -128,12 +172,22 @@
     "rating": 5.0,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.596019,
     "lng": -2.99381,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "stuartsmithplanthireltd@hotmail.com",
+    "emails": [
+      "stuartsmithplanthireltd@hotmail.com"
+    ],
+    "description": "For self-drive plant hire services in Newport, Bristol and Cardiff, get in touch with the experienced team at Stuart Smith Plant Hire Ltd by calling us now.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Gary Allen Cherry picker Hire",
@@ -162,11 +216,11 @@
     "rating": 5.0,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.275284,
     "lng": -2.885324,
-    "found_in_location": "Ellesmere Port",
+    "found_in_location": "Wrexham",
     "found_with_query": "plant wales"
   },
   {
@@ -179,12 +233,17 @@
     "rating": 5.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20138\u202fpm\"],\"Monday\":[\"6\u202fam\u20138\u202fpm\"],\"Saturday\":[\"6\u202fam\u20138\u202fpm\"],\"Sunday\":[\"6\u202fam\u201312\u202fpm\"],\"Thursday\":[\"6\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–8 pm\"],\"Monday\":[\"6 am–8 pm\"],\"Saturday\":[\"6 am–8 pm\"],\"Sunday\":[\"6 am–12 pm\"],\"Thursday\":[\"6 am–8 pm\"],\"Tuesday\":[\"6 am–8 pm\"],\"Wednesday\":[\"6 am–8 pm\"]}",
     "types": "Building materials supplier",
     "lat": 51.458804,
     "lng": -3.59152,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "burton-nigel@sky.com",
+    "emails": [
+      "burton-nigel@sky.com"
+    ],
+    "description": "Grab Hire South Wales: ✔️ 30 years of experience ✔️ locally available in south wales ✔️ premier service ✔️ waste disposal"
   },
   {
     "name": "R&C Skip & Grab Hire",
@@ -196,12 +255,18 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Waste Collection Service",
     "lat": 51.617306,
     "lng": -3.284171,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "plant wales",
+    "email": "info@randcgrabhire.co.uk",
+    "emails": [
+      "info@randcgrabhire.co.uk",
+      "info@randcskipandgrabhire.co.uk"
+    ],
+    "description": "Skip hire & grab hire Caerphilly South Wales. Competitive skip hire prices, fast skip delivery & collection, free quotes. Call 02920 831110."
   },
   {
     "name": "Hiab & Plant Transport UK Ltd",
@@ -218,7 +283,15 @@
     "lat": 51.510416,
     "lng": -3.217553,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hiabandplant@gmail.com",
+    "emails": [
+      "hiabandplant@gmail.com"
+    ],
+    "description": "For reliable freight transport for large & abnormal items, Hiab & Plant Transport UK Ltd in Cardiff can help. Haulage company, Cardiff. Call us today",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Cambrian Plant Sales",
@@ -230,12 +303,22 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.483411,
     "lng": -3.228247,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "service@cambriangroup.co.uk",
+    "emails": [
+      "service@cambriangroup.co.uk"
+    ],
+    "description": "Cambrian Plant Sales offer a range of used and new plant machinery for sale throughout the UK. We also stock a wide range of parts and accessories for machinery",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Morgan Powered Access",
@@ -247,12 +330,20 @@
     "rating": 5.0,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.720721,
     "lng": -4.051646,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@morganpoweredaccess.cymru",
+    "emails": [
+      "info@morganpoweredaccess.cymru"
+    ],
+    "description": "Powered Access Hire in Pontarddulais, for Commercial and Domestic covering South Wales, with operator. morganpoweredaccess.co.uk",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Flannery Plant Hire",
@@ -264,12 +355,25 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20137\u202fpm\"],\"Monday\":[\"6\u202fam\u20137\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–7 pm\"],\"Monday\":[\"6 am–7 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–7 pm\"],\"Tuesday\":[\"6 am–7 pm\"],\"Wednesday\":[\"6 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.566334,
     "lng": -2.965904,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@flanneryplant.co.uk",
+    "emails": [
+      "info@flanneryplant.co.uk",
+      "accounts.receivable@flanneryplant.co.uk",
+      "webenquiries@flanneryplant.co.uk"
+    ],
+    "description": "Plant hire services across the UK from a respected family run company. Contact us today for expert advice!",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "M Plant Hire",
@@ -281,12 +385,21 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.861729,
     "lng": -4.294174,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@wmplanthire.com",
+    "emails": [
+      "info@wmplanthire.com"
+    ],
+    "description": "WM Plant hire long reach excavator specialists long reach excavators for dredging quarrying land reclamation ground stabilisation deep trenching long reach UK.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "LDH Plant Ltd",
@@ -298,7 +411,7 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.565453,
     "lng": -2.994714,
@@ -337,7 +450,8 @@
     "lat": 51.463466,
     "lng": -3.148707,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Welcome to Machinery Movements & Crane Hire. We have 50 years of specialist crane and lifting machinery throughout South Wales and the UK."
   },
   {
     "name": "JB Platform Hire Ltd",
@@ -349,12 +463,21 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"8\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Professional services",
     "lat": 53.067155,
     "lng": -3.103753,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@jbplatformhire.co.uk",
+    "emails": [
+      "info@jbplatformhire.co.uk"
+    ],
+    "description": "JB Platform Hire, Specialists in Narrow Access Platform Cherry Picker Hire, Wrexham, Chester, North Wales 01978 759331",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "T J Crane Hire Ltd",
@@ -371,7 +494,12 @@
     "lat": 53.027945,
     "lng": -3.022709,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "rebekah.tjcranehire@yahoo.co.uk",
+    "emails": [
+      "rebekah.tjcranehire@yahoo.co.uk"
+    ],
+    "description": "If you are looking for a crane hire in North Wales then please make sure that you contact T J Crane Hire Ltd today. Call us now."
   },
   {
     "name": "Cambrian Chipper Hire",
@@ -383,12 +511,17 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.483611,
     "lng": -3.228719,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "enquiries@cambriangroup.co.uk",
+    "emails": [
+      "enquiries@cambriangroup.co.uk"
+    ],
+    "description": "Cambrian Chipper Hire offers modern tracked and towable wood chippers for hire or sale in Cardiff and across South Wales, with finance options available."
   },
   {
     "name": "Marks Mini Diggers",
@@ -400,7 +533,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.674255,
     "lng": -3.962932,
@@ -417,12 +550,29 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.565014,
     "lng": -2.947142,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Gelli Plant Hire",
@@ -434,12 +584,20 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.809602,
     "lng": -3.946798,
-    "found_in_location": "Ammanford",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "info@gelliplant.co.uk",
+    "emails": [
+      "info@gelliplant.co.uk"
+    ],
+    "description": "Gelli Plant and machinery hire are plant hire specialists in Ammanford, South Wales. We offer Plant hire, excavators, tipper and groundwork services",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Rent-it Plant and Grab Hire Services",
@@ -451,7 +609,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.515898,
     "lng": -3.57813,
@@ -485,12 +643,21 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 50.646208,
     "lng": -1.18251,
-    "found_in_location": "Sandown",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "ldplanthireltd@outlook.com",
+    "emails": [
+      "ldplanthireltd@outlook.com"
+    ],
+    "description": "LD Plant Hire Ltd is your trusted partner on the Isle of Wight for high-quality plant and machinery hire. Offering a wide range of reliable equipment, from diggers to dumpers, we support construction, landscaping, and groundwork projects of all sizes. With a commitment to safety and service...",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Astra Plant Ltd",
@@ -506,8 +673,14 @@
     "types": "Plant and machinery hire",
     "lat": 51.703437,
     "lng": -3.415673,
-    "found_in_location": "Aberdare",
-    "found_with_query": "plant wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "plant wales",
+    "description": "In partnership with homeowners, major contractors and national developers we deliver large scale, complex projects to challenging programmes.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "Kw plant mini digger grab hire muck away service",
@@ -523,8 +696,13 @@
     "types": "Plant and machinery hire",
     "lat": 51.678085,
     "lng": -3.138704,
-    "found_in_location": "bypass",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "info@kwplant.co.uk",
+    "emails": [
+      "info@kwplant.co.uk"
+    ],
+    "description": "KW Plant is a Construction company in Newport specialising in Grab Hire, Plant Hire, Digger Hire, Groundworks, Muck Aways, Demolition Excavation, Foundation Excavation, Roadworks and Pathways and Agricultural and Farming Excavation."
   },
   {
     "name": "RE Plant Hire Ltd",
@@ -536,12 +714,21 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.605636,
     "lng": -3.828116,
-    "found_in_location": "Port Talbot",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "mail@replanthire.co.uk",
+    "emails": [
+      "mail@replanthire.co.uk"
+    ],
+    "description": "Plant hire company based in South Wales specializing in HIAB and telehandler solutions, experts in hire equipment for over 36 years.",
+    "services": [
+      "Excavator",
+      "Telehandler"
+    ]
   },
   {
     "name": "ELK Machinery & Plant Hire Ltd",
@@ -553,12 +740,24 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.796212,
     "lng": -4.089066,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@elkplanthire.co.uk",
+    "emails": [
+      "info@elkplanthire.co.uk",
+      "hiredesk@elkplanthire.co.uk"
+    ],
+    "description": "Working out of our base in Cross Hands, ELK Plant Hire offers exemplary plant and tool hire equipment. Contact us today.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Poplar Site Welfare Unit Hire & Toilet Hire",
@@ -570,12 +769,20 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.065647,
     "lng": -3.005705,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@poplarproperties.co.uk",
+    "emails": [
+      "info@poplarproperties.co.uk"
+    ],
+    "description": "Specialise in renting of Self Storage Containers & Indoor storage units in Wrexham & Deeside. Hire of Portable Toilets & Mobile Welfare Units, Luxury Toilets, Fridge Trailers & Generator for sites & events. Drainage Solutions for cleaning & blocked drains",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Thomas & Son Plant Hire",
@@ -587,11 +794,11 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Contractor",
     "lat": 51.674894,
     "lng": -4.10482,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -608,7 +815,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.746298,
     "lng": -4.186434,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -626,7 +833,15 @@
     "lat": 51.529512,
     "lng": -3.517643,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@huwjones-minidiggerhire.co.uk",
+    "emails": [
+      "info@huwjones-minidiggerhire.co.uk"
+    ],
+    "description": "Get in touch with our landscaping company in Bridgend and throughout South Wales. We offer quality services.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "Action Hire Ltd",
@@ -638,11 +853,11 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.524361,
     "lng": -3.394556,
-    "found_in_location": "Pontyclun",
+    "found_in_location": "Bridgend",
     "found_with_query": "plant wales"
   },
   {
@@ -655,12 +870,16 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 51.570191,
     "lng": -3.291586,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "description": "MEP Hire: Mechanical, Electrical and Low Level Access Specialists providing rental products nationally to the UK’s building services trades.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "WT Rentals Ltd",
@@ -672,11 +891,11 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.752354,
     "lng": -3.284848,
-    "found_in_location": "Tredegar",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "plant wales"
   },
   {
@@ -689,12 +908,24 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.655744,
     "lng": -3.033497,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "info@cwmbranplanthire.co.uk",
+    "emails": [
+      "info@cwmbranplanthire.co.uk"
+    ],
+    "description": "Reliable plant hire in Cwmbran and across Gwent with modern machinery and fast delivery.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "EAGLE PLANT PONTYPOOL",
@@ -706,12 +937,19 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.691457,
     "lng": -3.016255,
-    "found_in_location": "Pontypool",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "description": "As a long established, well trusted Plant Hire company we offer a range of equipment & portable buildings for use by both trade and public.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "L.G.Murphy Swansea) Ltd.",
@@ -728,7 +966,12 @@
     "lat": 51.641324,
     "lng": -3.986359,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@lgmurphydemolition.co.uk",
+    "emails": [
+      "sales@lgmurphydemolition.co.uk"
+    ],
+    "description": "Here at L.G.Murphy we offer the complete demolition and plant hire service."
   },
   {
     "name": "Maerdy Plant Hire",
@@ -757,11 +1000,11 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 52.916302,
     "lng": -2.696701,
-    "found_in_location": "Whitchurch",
+    "found_in_location": "Wrexham",
     "found_with_query": "plant wales"
   },
   {
@@ -778,7 +1021,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.898124,
     "lng": -3.987676,
-    "found_in_location": "Llandeilo",
+    "found_in_location": "Neath",
     "found_with_query": "plant wales"
   },
   {
@@ -795,7 +1038,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.645591,
     "lng": -3.022072,
-    "found_in_location": "Cwmbran",
+    "found_in_location": "Newport",
     "found_with_query": "plant wales"
   },
   {
@@ -808,12 +1051,20 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Building equipment hire service",
     "lat": 51.468132,
     "lng": -3.264577,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "quotes@cardiffminidiggerhire.co.uk",
+    "emails": [
+      "quotes@cardiffminidiggerhire.co.uk"
+    ],
+    "description": "Cardiff Mini Digger Hire has over 40 years of experience in all aspects of groundworks, Fencing, Walling, Landscaping and Building.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "Gower Plant Hire Limited",
@@ -830,7 +1081,8 @@
     "lat": 51.619804,
     "lng": -3.941955,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "At Gower Plant Hire we are large enough tackle any job. Our machinery can cope with high volumes and our staff takes pride in the quality of their work. Yet we are small enough to care about each and every customer."
   },
   {
     "name": "HSS Hire at Robert Price - Swansea",
@@ -842,12 +1094,31 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.619619,
     "lng": -3.936608,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "contact@hss.com",
+    "emails": [
+      "contact@hss.com"
+    ],
+    "description": "Professional tool hire in Peterborough at HSS - from access towers to floor sanders. Get the right equipment for any job, with fast click & collect or delivery available.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "J Plant Ltd",
@@ -864,7 +1135,18 @@
     "lat": 51.57414,
     "lng": -2.986771,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@jplant.site",
+    "emails": [
+      "info@jplant.site"
+    ],
+    "description": "J Plant is a privately owned company with over 20 years extensive plant experience, based in South Wales, supplying operated and self-drive plant hire, and a variety of high quality related services.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "Pembrey Plant",
@@ -880,7 +1162,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.701507,
     "lng": -4.297689,
-    "found_in_location": "Burry Port",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -897,7 +1179,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.620574,
     "lng": -3.662443,
-    "found_in_location": "Maesteg",
+    "found_in_location": "Neath",
     "found_with_query": "plant wales"
   },
   {
@@ -910,12 +1192,31 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.546121,
     "lng": -3.565834,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "contact@hss.com",
+    "emails": [
+      "contact@hss.com"
+    ],
+    "description": "Professional tool hire in Peterborough at HSS - from access towers to floor sanders. Get the right equipment for any job, with fast click & collect or delivery available.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "jeffreillyplant",
@@ -932,7 +1233,14 @@
     "lat": 51.523537,
     "lng": -3.677466,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "jeff@jeffreillyplant.co.uk",
+    "emails": [
+      "jeff@jeffreillyplant.co.uk"
+    ],
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
     "name": "Cardiff Digger and Driver",
@@ -944,15 +1252,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Excavating contractor",
     "lat": 51.468132,
     "lng": -3.264577,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Digger and Driver services for both the domestic and commercial market in the Cardiff and Vale of Glamorgan areas.",
+    "services": [
+      "Mini Digger"
+    ]
   },
   {
-    "name": "MINI DIGGER HIRE BOURNEMOUTH \u2b50\u2b50\u2b50\u2b50\u2b50 \u2013 Man & Machine Bournemouth - Dumper Hire - JCB Digger Hire - Grab & Digger Hire",
+    "name": "MINI DIGGER HIRE BOURNEMOUTH ⭐⭐⭐⭐⭐ – Man & Machine Bournemouth - Dumper Hire - JCB Digger Hire - Grab & Digger Hire",
     "address": "1 Monmouth Cl, Ringwood, BH24 3AE, GB",
     "phone": "07368 121706",
     "international_phone": "07368 121706",
@@ -965,8 +1277,18 @@
     "types": "Plant and machinery hire",
     "lat": 50.840228,
     "lng": -1.784894,
-    "found_in_location": "Ringwood",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "info@minidiggerhirebournemouth.co.uk",
+    "emails": [
+      "info@minidiggerhirebournemouth.co.uk",
+      "totalhiregroup@gmail.com"
+    ],
+    "description": "Mini Digger Hire Bournemouth | Mini Digger Hire Poole | Mini Digger Hire Bournemouth Wimborne | Mini Digger Hire Dorset | TOTAL HIRE DORSET",
+    "services": [
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Dirty Money Plant Hire",
@@ -978,12 +1300,22 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.664395,
     "lng": -3.020252,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "sales@dirtymoney.uk",
+    "emails": [
+      "sales@dirtymoney.uk"
+    ],
+    "description": "Looking for reliable plant hire services in Cwmbran? Look no further than Dirty Money! We specialise in mini excavators and dumpers and offer competitive prices.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "ACE Welfare Hire Ltd",
@@ -995,12 +1327,17 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134\u202fpm\"],\"Monday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4:30 pm\"],\"Tuesday\":[\"9 am–4:30 pm\"],\"Wednesday\":[\"9 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 52.995938,
     "lng": -3.043427,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@acewelfarehire.co.uk",
+    "emails": [
+      "info@acewelfarehire.co.uk"
+    ],
+    "description": "We provide a diverse selection of welfare units, portable toilet units, and containers across the country. Our comprehensive service includes delivery and setup, flexible terms for both short and long hire, regular weekly maintenance for toilets, all at affordable and competitive prices"
   },
   {
     "name": "EasyHire Plant Ltd",
@@ -1012,12 +1349,19 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 52.955682,
     "lng": -2.673978,
-    "found_in_location": "Whitchurch",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "easyhireplant@gmail.com",
+    "emails": [
+      "easyhireplant@gmail.com"
+    ],
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "RJ Plant",
@@ -1029,12 +1373,21 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Construction Company",
     "lat": 51.81757,
     "lng": -3.992544,
-    "found_in_location": "Ammanford",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "rjplantwales@hotmail.co.uk",
+    "emails": [
+      "rjplantwales@hotmail.co.uk"
+    ],
+    "description": "RJ Plant Operated Plant Hire Contractors South Wales | Carmarthenshire. Here at RJ PLant Hire we know that satisfied customers are our future and a large part of our work is repeat business. This reflects our customers confidence in our consistently high levels of safety, quality and service. We...",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "SRL Traffic Systems | South Wales, Swansea",
@@ -1050,8 +1403,13 @@
     "types": "Plant and machinery hire",
     "lat": 51.794854,
     "lng": -4.073992,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "description": "SRL Traffic Systems is a manufacturer and supplier of intelligent traffic systems (ITS) - inc. portable traffic lights, VMS and portable CCTV",
+    "services": [
+      "Generator",
+      "Telehandler"
+    ]
   },
   {
     "name": "Rent a Skip Caerphilly",
@@ -1063,12 +1421,17 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Household waste recycling centre",
     "lat": 51.57699,
     "lng": -3.237441,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "info@ukrentaskip.co.uk",
+    "emails": [
+      "info@ukrentaskip.co.uk"
+    ],
+    "description": "Discover skip hire services in Durham tailored to streamline your waste disposal. Our reliable solutions ensure hassle-free debris removal."
   },
   {
     "name": "Miles Hire Ltd",
@@ -1080,12 +1443,23 @@
     "rating": 4.9,
     "total_reviews": 310,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–4:30 pm\"],\"Monday\":[\"7 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–4:30 pm\"],\"Tuesday\":[\"7 am–4:30 pm\"],\"Wednesday\":[\"7 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.629428,
     "lng": -3.939567,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@mileshire.co.uk",
+    "emails": [
+      "sales@mileshire.co.uk"
+    ],
+    "description": "Miles Hire offers tool hire and plant hire services throughout Swansea. Order online or call our award-winning Welsh team.",
+    "services": [
+      "Cherry Picker",
+      "Concrete Mixer",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "Knight & Brenchley Tool Hire",
@@ -1097,12 +1471,13 @@
     "rating": 4.9,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.67065,
     "lng": -4.038711,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Best tool hire rates in the Swansea, Llanelli and surrounding areas - Knight & Brenchley Tool Hire"
   },
   {
     "name": "Newport Vehicle Hire",
@@ -1114,12 +1489,17 @@
     "rating": 4.9,
     "total_reviews": 55,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Van rental agency",
     "lat": 51.575084,
     "lng": -2.983941,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@newportvehiclehire.co.uk",
+    "emails": [
+      "info@newportvehiclehire.co.uk"
+    ],
+    "description": "Reliable van and vehicle hire in Newport. Choose from vans, pickups, and minibuses for short or long-term rental. Book online or call today."
   },
   {
     "name": "Dragon Access",
@@ -1131,12 +1511,21 @@
     "rating": 4.9,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"7\u202fam\u20137\u202fpm\"],\"Sunday\":[\"7\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.497598,
     "lng": -3.138613,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@dragon-access.co.uk",
+    "emails": [
+      "info@dragon-access.co.uk"
+    ],
+    "description": "Dragon Access offer a range of powered access hire - cherry picker hire, scissor lift hire, truckmounts and tracked spiderlifts across South Wales & The West.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "Guy Plant Hire",
@@ -1152,8 +1541,18 @@
     "types": "Plant and machinery hire",
     "lat": 53.172484,
     "lng": -3.146805,
-    "found_in_location": "Mold",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "chris@guyplanthire.com",
+    "emails": [
+      "chris@guyplanthire.com"
+    ],
+    "description": "Welcome to Guy Plant Hire. Based in Flintshire we provide a wide range of digger and plant hire and ground working services. Contact us for more information.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Thorncliffe Tool & Plant Hire",
@@ -1165,12 +1564,29 @@
     "rating": 4.9,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 53.187559,
     "lng": -3.084069,
-    "found_in_location": "Ewloe",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "abergele.skips@thorncliffebs.co.uk",
+    "emails": [
+      "abergele.skips@thorncliffebs.co.uk",
+      "dyserth.sales@thorncliffebs.co.uk",
+      "dyserth@thorncliffebs.co.uk",
+      "dyserthsales@thorncliffebs.co.uk",
+      "ewloe.sales@thorncliffebs.co.uk",
+      "ewloe.skips@thorncliffebs.co.uk",
+      "ewloe@thorncliffebs.co.uk",
+      "mowers@thorncliffebs.co.uk",
+      "skiphire@thorncliffebs.co.uk",
+      "wrexham@thorncliffebs.co.uk"
+    ],
+    "description": "© 2026 Thorncliffe Building Supplies | Designed byELLISONMARKETING",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "The Island Hire Centre",
@@ -1182,12 +1598,17 @@
     "rating": 4.9,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
     "types": "Tool rental service",
     "lat": 50.697817,
     "lng": -1.294083,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "shop@islandhirecentre.co.uk",
+    "emails": [
+      "shop@islandhirecentre.co.uk"
+    ],
+    "description": "Isle of Wight tool hire business based in Newport, IW"
   },
   {
     "name": "Holt JCB Port Talbot",
@@ -1199,12 +1620,44 @@
     "rating": 4.9,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u201310\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30–10 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Construction machine dealer",
     "lat": 51.612529,
     "lng": -3.817276,
-    "found_in_location": "Port Talbot",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "aaron.swanton@holtjcb.co.uk",
+    "emails": [
+      "aaron.swanton@holtjcb.co.uk",
+      "adam.baker@holtjcb.co.uk",
+      "adam.pidgley@holtjcb.co.uk",
+      "alexandra.weynberg@holtjcb.co.uk",
+      "andrew.shields@holtjcb.co.uk",
+      "arnie.harmsworth@holtjcb.co.uk",
+      "brian.olver@holtjcb.co.uk",
+      "chris.stoyell@holtjcb.co.uk",
+      "craig.scanlan@holtjcb.co.uk",
+      "david.lawrence@holtjcb.co.uk",
+      "graham.lange@holtjcb.co.uk",
+      "james.hayes@holtjcb.co.uk",
+      "lyndon.roberts@holtjcb.co.uk",
+      "michaela.walker@holtjcb.co.uk",
+      "neve.hudson@holtjcb.co.uk",
+      "patrick.mcgee@holtjcb.co.uk",
+      "paul.butcher@holtjcb.co.uk",
+      "rob.davis@holtjcb.co.uk",
+      "rob.sprankling@holtjcb.co.uk",
+      "rodney.dingle@holtjcb.co.uk",
+      "rowan.rachman@holtjcb.co.uk",
+      "sean.campbell@holtjcb.co.uk",
+      "steve.jones@holtjcb.co.uk",
+      "terry.bishop@holtjcb.co.uk",
+      "andy.davis@holtjcb.couk"
+    ],
+    "description": "Holt JCB has over 40 years experience of selling JCB equipment and after sales services, making it one of the longest running JCB dealers in the world.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Quality Vehicle Hire",
@@ -1216,12 +1669,17 @@
     "rating": 4.8,
     "total_reviews": 152,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 51.635596,
     "lng": -3.951223,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "contact@qualityvehiclehire.co.uk",
+    "emails": [
+      "contact@qualityvehiclehire.co.uk"
+    ],
+    "description": "Car rental, Van hire, Minibus rental, and truck hire in Swansea and Wales. Choose from our fleet and drive away a bargain today."
   },
   {
     "name": "Litchard Tool Hire",
@@ -1233,12 +1691,24 @@
     "rating": 4.8,
     "total_reviews": 60,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.514931,
     "lng": -3.576281,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hiredesk@litchardtoolhire.wales",
+    "emails": [
+      "hiredesk@litchardtoolhire.wales"
+    ],
+    "description": "Leading tool hire company in Wales offering construction equipment, power tools & machinery rental. Competitive rates, delivery available.",
+    "services": [
+      "Breaker",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Premier Hire Centres",
@@ -1250,12 +1720,17 @@
     "rating": 4.8,
     "total_reviews": 48,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.635927,
     "lng": -3.952832,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "premierhiredesk@hotmail.co.uk",
+    "emails": [
+      "premierhiredesk@hotmail.co.uk"
+    ],
+    "description": "★★★★★ - Needed Acros urgently, although they couldn't deliver on the day I rang, they were with me before 9am the next morning. Nothing too much trouble very friendly and helpful. Would highly recommend!!"
   },
   {
     "name": "The Hire Zone",
@@ -1267,12 +1742,22 @@
     "rating": 4.8,
     "total_reviews": 41,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.79488,
     "lng": -4.087169,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "description": "Don’t waste your money buying equipment when you can hire the best quality equipment right here for a fraction of the cost.",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "Greenwell's",
@@ -1284,11 +1769,11 @@
     "rating": 4.8,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 51.687166,
     "lng": -4.207648,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -1301,12 +1786,22 @@
     "rating": 4.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.731712,
     "lng": -3.66682,
     "found_in_location": "Neath",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@southwalesforktrucks.co.uk",
+    "emails": [
+      "sales@southwalesforktrucks.co.uk",
+      "richard@plum-design.co.uk"
+    ],
+    "description": "South Wales Fork Trucks is South Wales' premier independant family run fork lift truck hire company, offering you a with a wealth of experience on a wide range of New, Used and Hire Folk lift truck products.",
+    "services": [
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "AH Plant Hire",
@@ -1318,12 +1813,25 @@
     "rating": 4.8,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.189059,
     "lng": -3.087403,
-    "found_in_location": "Chester",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "info@ahplanthire.co.uk",
+    "emails": [
+      "info@ahplanthire.co.uk"
+    ],
+    "description": "Family business in North Wales, servicing Wales, Wirral, Cheshire, Shropshire. Instant Quote. Fast Delivery.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Ready Plant & Tool Hire Ltd (RPHire)",
@@ -1335,12 +1843,21 @@
     "rating": 4.8,
     "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.847102,
     "lng": -4.336084,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "enquiries@rp-hire.co.uk",
+    "emails": [
+      "enquiries@rp-hire.co.uk"
+    ],
+    "description": "Choose our plant and tool hire services in Carmarthen for your next chosen domestic or commercial project.",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "JH Plant Hire and Sales Ltd",
@@ -1352,12 +1869,18 @@
     "rating": 4.8,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.437728,
     "lng": -3.174045,
-    "found_in_location": "Penarth",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "description": "Plant Hire in Barry Vale of Glamorgan, a wide range of plant and equipment for hire with a high-quality fleet of mini excavators and dumpers",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
   },
   {
     "name": "Ridgway Rentals Ltd",
@@ -1369,12 +1892,21 @@
     "rating": 4.8,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 52.92999,
     "lng": -3.006119,
-    "found_in_location": "Oswestry",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "description": "Ridgway Rentals is a leadingPlant Hirecompany covering the whole of the UK.",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "K J Hire Centre",
@@ -1386,12 +1918,27 @@
     "rating": 4.8,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.659627,
     "lng": -3.915974,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@kjhire.co.uk",
+    "emails": [
+      "sales@kjhire.co.uk",
+      "accounts@kjhire.co.uk",
+      "richard@kjhire.co.uk",
+      "sales.ledger@kjhire.co.uk"
+    ],
+    "description": "Established in 1983, we are an independent plant and tool hire company who have been providing plant and equipment to a variety of sectors within the construction and maintenance industry, including local authorities, surfacing contractors and house builders.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Boels Rental Ltd. Cardiff and Cardiff LiftSafe",
@@ -1403,12 +1950,16 @@
     "rating": 4.8,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction machine rental service",
     "lat": 51.493143,
     "lng": -3.141426,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Gravelle Plant Hire",
@@ -1424,7 +1975,7 @@
     "types": "Construction Company",
     "lat": 51.78919,
     "lng": -3.998967,
-    "found_in_location": "Ammanford",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -1437,12 +1988,24 @@
     "rating": 4.8,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.592176,
     "lng": -3.790932,
-    "found_in_location": "Port Talbot",
-    "found_with_query": "plant wales"
+    "found_in_location": "Neath",
+    "found_with_query": "plant wales",
+    "email": "info@exuma-plant.co.uk",
+    "emails": [
+      "info@exuma-plant.co.uk",
+      "jasonexuma@aol.com"
+    ],
+    "description": "Exuma Plant Ltd is a family run business based in Port Talbot and established in 1976.",
+    "services": [
+      "Breaker",
+      "Excavator",
+      "Mini Digger",
+      "Telehandler"
+    ]
   },
   {
     "name": "AFI Rentals",
@@ -1454,12 +2017,18 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.650444,
     "lng": -3.917374,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Access Platforms Powered Access Machine Hire, scissor lift and boom lift hire, powered access rental and cherry picker hire.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Pronto Hire",
@@ -1471,12 +2040,17 @@
     "rating": 4.7,
     "total_reviews": 112,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
     "types": "Van rental agency",
     "lat": 51.58935,
     "lng": -3.226564,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "pronto@prontohire.co.uk",
+    "emails": [
+      "pronto@prontohire.co.uk"
+    ],
+    "description": "Hire a car, van or minibus in Cardiff with Pronto. Quickbooking, wide selection & great prices. Reserve your vehicle online today!"
   },
   {
     "name": "Griffiths Hire Shops",
@@ -1488,12 +2062,26 @@
     "rating": 4.7,
     "total_reviews": 103,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 52.850302,
     "lng": -3.033273,
-    "found_in_location": "Oswestry",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "enquiries@griffithshireshops.co.uk",
+    "emails": [
+      "enquiries@griffithshireshops.co.uk"
+    ],
+    "description": "Offering tool, plant & powered access hire, we are the largest independent tool hire business in the Shropshire & North Wales area.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "FTH Hire Group (Cwmbran)",
@@ -1505,12 +2093,29 @@
     "rating": 4.7,
     "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.641311,
     "lng": -3.024021,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Speedfast Tool Hire",
@@ -1522,12 +2127,25 @@
     "rating": 4.7,
     "total_reviews": 29,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.581637,
     "lng": -3.219508,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "jack@speedfasttoolhire.co.uk",
+    "emails": [
+      "jack@speedfasttoolhire.co.uk"
+    ],
+    "description": "Speedfast operate in the South Wales area providing tool and machine hire to builders, landscapers and tradesmen alike as well as general public customers.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Scissor Lift",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Brandon Hire Station Swansea",
@@ -1539,12 +2157,13 @@
     "rating": 4.7,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.661021,
     "lng": -3.902654,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Boels Rental Ltd. Swansea",
@@ -1556,12 +2175,16 @@
     "rating": 4.7,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Construction machine rental service",
     "lat": 51.65937,
     "lng": -3.905322,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "M&J Plant & Transport Ltd",
@@ -1573,12 +2196,13 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131:30\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20131:30\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–1:30 pm\"],\"Sunday\":[\"7:30 am–1:30 pm\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.721159,
     "lng": -3.237715,
-    "found_in_location": "New Tredegar",
-    "found_with_query": "plant wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "plant wales",
+    "description": "M & J Plant & Transport Ltd offer plant hire, concrete crushers, road sweeper hire, tipper hire and low loader hire in New Tredagar, Cardiff, Swansea, Newport, Brecon, Gwent, South Wales and surrounding areas."
   },
   {
     "name": "CME Developments Ltd",
@@ -1590,16 +2214,21 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.768993,
     "lng": -3.772783,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "becca@cme-direct.co.uk",
+    "emails": [
+      "becca@cme-direct.co.uk"
+    ],
+    "description": "CME are plant and tool hire specialists and have a wide range of equipment to meet the needs of the construction and engineering industries along with the DIY Enthusiast. We offer a vast range of equipment from leading manufacturers like Hitachi and JCB and our stock range from mini..."
   },
   {
     "name": "Fitzgerald Plant Services Ltd",
-    "address": "Avondale Business Par, Avondale Rd, Cwmbr\u00e2n, NP44 1TS, GB",
+    "address": "Avondale Business Par, Avondale Rd, Cwmbrân, NP44 1TS, GB",
     "phone": "01633 860693",
     "international_phone": "01633 860693",
     "website": "http://www.fitzgeraldplant.co.uk/",
@@ -1611,8 +2240,22 @@
     "types": "Mechanical Engineering",
     "lat": 51.664218,
     "lng": -3.020418,
-    "found_in_location": "Cwmbr\u00e2n",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "carole.nicholls@fitzgeraldplant.co.uk",
+    "emails": [
+      "carole.nicholls@fitzgeraldplant.co.uk",
+      "lee.perry@fitzgeraldplant.co.uk",
+      "lewis.morgan@fitzgeraldplant.co.uk",
+      "matt.szymanski@fitzgeraldplant.co.uk",
+      "service@fitzgeraldplant.co.uk",
+      "simon.richards@fitzgeraldplant.co.uk",
+      "stuart.mills@fitzgeraldplant.co.uk"
+    ],
+    "description": "Comprehensive services for rail, construction, manufacturing, maintenance and parts. Mercedes Unimog, Sany Excavators, Polaris Rail, Isuzu D'Max",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Bangor",
@@ -1624,12 +2267,16 @@
     "rating": 4.7,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.218731,
     "lng": -4.115178,
     "found_in_location": "Bangor",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Project Power",
@@ -1646,7 +2293,15 @@
     "lat": 51.676778,
     "lng": -3.161636,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "rental@projectpower.co.uk",
+    "emails": [
+      "rental@projectpower.co.uk"
+    ],
+    "description": "Project Power Limited - Full Turnkey Temporary Power Solutions. We provide the full Range of Temporary Power Solutions including Stage 3A and Stage 5 Generators, BESS Units, Fuel Management, Cabling and Distribution Hire along with Project Management Support",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "John Fox Plant Ltd",
@@ -1662,8 +2317,17 @@
     "types": "Plant and machinery hire",
     "lat": 53.178437,
     "lng": -2.990943,
-    "found_in_location": "Deeside",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "info@foxhammerhire.co.uk",
+    "emails": [
+      "info@foxhammerhire.co.uk"
+    ],
+    "description": "John Fox Plant Ltd are nationwide specialists in the sales, hire and repair of all excavator attachments. Providing market leading equipment and professional advice for the construction, demolition and recycling industries for over 35 years.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "JCB Scaffolding",
@@ -1680,7 +2344,12 @@
     "lat": 51.527324,
     "lng": -3.697072,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "enquiries@jcbscaffolding.co.uk",
+    "emails": [
+      "enquiries@jcbscaffolding.co.uk"
+    ],
+    "description": "If you're looking for reliable scaffolders in Glamorgan get in touch with JCB Scaffolding on 01656 744 337 or 07952 188 672"
   },
   {
     "name": "ML Hughes Plant Hire & Grab Hire",
@@ -1692,7 +2361,7 @@
     "rating": 4.6,
     "total_reviews": 21,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7:30 am–6 pm\"],\"Sunday\":[\"7:30 am–6 pm\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.220628,
     "lng": -4.111637,
@@ -1709,12 +2378,24 @@
     "rating": 4.6,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.870007,
     "lng": -4.490188,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "malcolmherbertplanthire@gmail.com",
+    "emails": [
+      "malcolmherbertplanthire@gmail.com"
+    ],
+    "description": "Family-run plant and tool hire company based in Carmarthen. Available across Carmarthenshire, Pembrokeshire and Ceredigion.",
+    "services": [
+      "Concrete Mixer",
+      "Dumper",
+      "Generator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Speedy Depot",
@@ -1726,7 +2407,7 @@
     "rating": 4.6,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.578037,
     "lng": -2.985238,
@@ -1743,7 +2424,7 @@
     "rating": 4.6,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Aggregate supplier",
     "lat": 51.515898,
     "lng": -3.57813,
@@ -1760,7 +2441,7 @@
     "rating": 4.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.213967,
     "lng": -4.100359,
@@ -1777,12 +2458,17 @@
     "rating": 4.5,
     "total_reviews": 53,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Waste-Management Service",
     "lat": 51.523949,
     "lng": -3.683939,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "admin@cox-skips.co.uk",
+    "emails": [
+      "admin@cox-skips.co.uk"
+    ],
+    "description": "Bridgend Skip Hire, Rubbish Removal Bridgend, Waste Management Bridgend, Skip Hire Porthcawl, Skip Hire Port Talbot, Recycling Bridgend"
   },
   {
     "name": "FTH Hire Group (Cardiff)",
@@ -1794,12 +2480,29 @@
     "rating": 4.5,
     "total_reviews": 31,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.475085,
     "lng": -3.156487,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Sunbelt Rentals Bridgend - Tondu Road",
@@ -1811,7 +2514,7 @@
     "rating": 4.5,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Contractor",
     "lat": 51.514433,
     "lng": -3.585718,
@@ -1828,7 +2531,7 @@
     "rating": 4.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20134\u202fpm\"],\"Monday\":[\"7\u202fam\u20134\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–4 pm\"],\"Monday\":[\"7 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–4 pm\"],\"Tuesday\":[\"7 am–4 pm\"],\"Wednesday\":[\"7 am–4 pm\"]}",
     "types": "Building materials supplier",
     "lat": 51.552302,
     "lng": -2.989769,
@@ -1845,12 +2548,29 @@
     "rating": 4.4,
     "total_reviews": 136,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 53.310133,
     "lng": -3.416586,
-    "found_in_location": "Rhyl",
-    "found_with_query": "plant wales"
+    "found_in_location": "Llandudno",
+    "found_with_query": "plant wales",
+    "email": "abergele.skips@thorncliffebs.co.uk",
+    "emails": [
+      "abergele.skips@thorncliffebs.co.uk",
+      "dyserth.sales@thorncliffebs.co.uk",
+      "dyserth@thorncliffebs.co.uk",
+      "dyserthsales@thorncliffebs.co.uk",
+      "ewloe.sales@thorncliffebs.co.uk",
+      "ewloe.skips@thorncliffebs.co.uk",
+      "ewloe@thorncliffebs.co.uk",
+      "mowers@thorncliffebs.co.uk",
+      "skiphire@thorncliffebs.co.uk",
+      "wrexham@thorncliffebs.co.uk"
+    ],
+    "description": "© 2026 Thorncliffe Building Supplies | Designed byELLISONMARKETING",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "PPH Hire & Sales",
@@ -1862,12 +2582,20 @@
     "rating": 4.4,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Cabin rental agency",
     "lat": 51.683139,
     "lng": -4.135083,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "hiredesk@pph.co.uk",
+    "emails": [
+      "hiredesk@pph.co.uk"
+    ],
+    "description": "PPH Hire & Sales is the One Stop Shop for Welfare Units, Site Accommodation,Toilets and Tools in Reading and Southern UK",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Bob gay plant hire",
@@ -1883,7 +2611,7 @@
     "types": "Trucking company",
     "lat": 51.547478,
     "lng": -3.32317,
-    "found_in_location": "Pontypridd",
+    "found_in_location": "Cardiff",
     "found_with_query": "plant wales"
   },
   {
@@ -1896,11 +2624,11 @@
     "rating": 4.4,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20139\u202fpm\"],\"Monday\":[\"7\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20137\u202fpm\"],\"Thursday\":[\"7\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.61368,
     "lng": -3.278854,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Cardiff",
     "found_with_query": "plant wales"
   },
   {
@@ -1917,8 +2645,22 @@
     "types": "Plant and machinery hire",
     "lat": 53.271105,
     "lng": -3.327112,
-    "found_in_location": "Mold",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "hiredesk@thomasplanthireltd.com",
+    "emails": [
+      "hiredesk@thomasplanthireltd.com"
+    ],
+    "description": "Thomas Plant Hire est. in 2000 is a family run business. We provide market leading equipment and professional advice for our customers.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Speedy Newport Docks",
@@ -1947,12 +2689,29 @@
     "rating": 4.3,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.501441,
     "lng": -3.567969,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "FTH Hire Group (Swansea)",
@@ -1964,12 +2723,29 @@
     "rating": 4.3,
     "total_reviews": 19,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.635757,
     "lng": -3.969624,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Gibbon Equipment Hire Ltd",
@@ -1981,12 +2757,17 @@
     "rating": 4.3,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.672098,
     "lng": -3.195545,
-    "found_in_location": "Blackwood",
-    "found_with_query": "plant wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "plant wales",
+    "email": "admin@gibbonhire.co.uk",
+    "emails": [
+      "admin@gibbonhire.co.uk"
+    ],
+    "description": "Gibbon Equipment Hire, Blackwood, South Wales. An independent, family run company with over 40 years extensive knowledge of the hire industry."
   },
   {
     "name": "Speedy Services",
@@ -1998,7 +2779,7 @@
     "rating": 4.3,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool Shop",
     "lat": 51.634635,
     "lng": -3.956995,
@@ -2032,12 +2813,31 @@
     "rating": 4.3,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.937244,
     "lng": -4.265064,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@tegfangarage.co.uk",
+    "emails": [
+      "info@tegfangarage.co.uk",
+      "sales@tegfangarage.co.uk",
+      "parts@tegfangarage.co.uk",
+      "service@tegfangarage.co.uk",
+      "adrian@constructionmachinery.co.uk",
+      "aled@amgenerators.co.uk",
+      "john@constructionmachinery.co.uk",
+      "llyr@constructionmachinery.co.uk"
+    ],
+    "description": "New and used plant machinery in Wales from Tegfan Plant and Machinery. Call now for information or to speak to our knowledgeable team.",
+    "services": [
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Telehandler"
+    ]
   },
   {
     "name": "VMS Vehicle Hire Bridgend",
@@ -2049,12 +2849,17 @@
     "rating": 4.3,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 51.504632,
     "lng": -3.540344,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "elyssa.fagan@vmsglobal.co.uk",
+    "emails": [
+      "elyssa.fagan@vmsglobal.co.uk"
+    ],
+    "description": "Car, Van, Electric, HGV & Refrigerated Vehicle Hire. Vehicle Rental Specialists based all across the UK. Modern & Safe Fleet at Competitive Rates."
   },
   {
     "name": "CP Hire GBNI Ltd",
@@ -2066,12 +2871,26 @@
     "rating": 4.3,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.633928,
     "lng": -3.956223,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hire@cphire.com",
+    "emails": [
+      "hire@cphire.com"
+    ],
+    "description": "Foremost Hire specialists in Northern Ireland since 1971. Our experienced team offers a wide range of plant & equipment for hire, including diggers, garden and access equipment. Quality equipment at competitive rates for your construction, landscaping & DIY needs.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Skid Steer"
+    ]
   },
   {
     "name": "WastePro",
@@ -2083,12 +2902,21 @@
     "rating": 4.3,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Waste-Management Service",
     "lat": 51.667375,
     "lng": -4.097425,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@wastepro.co.uk",
+    "emails": [
+      "info@wastepro.co.uk"
+    ],
+    "description": "Our Swansea haulage company offers other services ranging from portaloos, facade cleaning, bowser hire, septic tank emptying and much more.",
+    "services": [
+      "Cherry Picker",
+      "Excavator"
+    ]
   },
   {
     "name": "Anstee Services",
@@ -2105,7 +2933,14 @@
     "lat": 51.54912,
     "lng": -3.577135,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@ansteeservices.co.uk",
+    "emails": [
+      "info@ansteeservices.co.uk",
+      "info@ansteetreefelling.co.uk",
+      "admin@ansteetreefelling.co.uk"
+    ],
+    "description": "Anstee Services specialises in shredding & grinding, site clearance, wood chipping, forestry management, biomass supply, and haulage. Serving the UK."
   },
   {
     "name": "Prichard's",
@@ -2117,12 +2952,13 @@
     "rating": 4.2,
     "total_reviews": 60,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20136\u202fpm\"],\"Monday\":[\"6\u202fam\u20136\u202fpm\"],\"Saturday\":[\"6\u202fam\u20136\u202fpm\"],\"Sunday\":[\"6\u202fam\u20136\u202fpm\"],\"Thursday\":[\"6\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–6 pm\"],\"Monday\":[\"6 am–6 pm\"],\"Saturday\":[\"6 am–6 pm\"],\"Sunday\":[\"6 am–6 pm\"],\"Thursday\":[\"6 am–6 pm\"],\"Tuesday\":[\"6 am–6 pm\"],\"Wednesday\":[\"6 am–6 pm\"]}",
     "types": "Contractor",
     "lat": 51.557171,
     "lng": -3.377459,
-    "found_in_location": "Llantrisant",
-    "found_with_query": "plant wales"
+    "found_in_location": "Bridgend",
+    "found_with_query": "plant wales",
+    "description": "How we can help Our Services More Services Remediation Read More Civil Engineering Read More Rail Read More Demolition Read More Quarrying Read More Recycling Read More Skip Hire Read More Transport Read More Plant & Equipment Hire Read More Accreditations"
   },
   {
     "name": "HIRESTORE",
@@ -2134,12 +2970,25 @@
     "rating": 4.2,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.643398,
     "lng": -5.675552,
     "found_in_location": "Bangor",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Hirestore is a family run company with four branches in Northern Ireland. We are an experienced team and have been in business for 35 years. We are committed to providing modern & reliable equipment for hire, to the public & trade.read more…",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Roller",
+      "Scissor Lift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Trojan-Mek Limited - the Machinery Movers",
@@ -2151,12 +3000,20 @@
     "rating": 4.2,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Transportation service",
     "lat": 51.523804,
     "lng": -3.675507,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@trojanmek.co.uk",
+    "emails": [
+      "info@trojanmek.co.uk",
+      "adam@trojanmek.co.uk",
+      "efan@trojanmek.co.uk",
+      "justine@trojanmek.co.uk"
+    ],
+    "description": "Trojan-Mek Industrial Machinery Movers - Heavy Haulage. Machine installations, Factory Relocations & HIAB Hire. Professional Transport Solutions."
   },
   {
     "name": "RRC Crane Hire Ltd",
@@ -2173,7 +3030,12 @@
     "lat": 53.100485,
     "lng": -3.012822,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@rrc-cranehire.com",
+    "emails": [
+      "info@rrc-cranehire.com"
+    ],
+    "description": "We are an experienced and professional Crane Hire company. We provide a full range of accredited crane hire services from our Wrexham base and we are able to quickly and easily access local motorway and transport links to the whole of the UK."
   },
   {
     "name": "Nationwide Platforms",
@@ -2185,12 +3047,18 @@
     "rating": 4.2,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.454975,
     "lng": -3.199679,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Powered Access Hire from the UK's market leading provider. Our huge range of access platforms includes cherry pickers, scissor lifts and tracked booms.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "FTH Hire Group (Pontypridd)",
@@ -2202,12 +3070,29 @@
     "rating": 4.2,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.57388,
     "lng": -3.292426,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "sales@fthhiregroup.co.uk",
+    "emails": [
+      "sales@fthhiregroup.co.uk"
+    ],
+    "description": "Our customers tell us that unexpected breakdowns are one of their biggest frustrations, and we've designed our approach to eliminate that risk.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "Brt Doorway Diggers",
@@ -2223,7 +3108,7 @@
     "types": "Contractor",
     "lat": 51.688884,
     "lng": -4.132815,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -2236,12 +3121,18 @@
     "rating": 4.2,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Construction Company",
     "lat": 51.626216,
     "lng": -3.322121,
-    "found_in_location": "Pontypridd",
-    "found_with_query": "plant wales"
+    "found_in_location": "Merthyr Tydfil",
+    "found_with_query": "plant wales",
+    "email": "info@hgccivilengineering.co.uk",
+    "emails": [
+      "info@hgccivilengineering.co.uk",
+      "jmpestsolutions@outlook.com"
+    ],
+    "description": "Welcome to HGC Civil Engineering, your trusted partner for high-quality groundworks, plant hire, and tarmac services. Over 45 years of experience. Contact us for a quote!"
   },
   {
     "name": "Raptor Plant Ltd",
@@ -2253,12 +3144,26 @@
     "rating": 4.2,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.585508,
     "lng": -2.737316,
-    "found_in_location": "Caldicot",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "enquiries@raptorplant.co.uk",
+    "emails": [
+      "enquiries@raptorplant.co.uk",
+      "accounts@raptorplant.co.uk",
+      "craig@raptorplant.co.uk",
+      "nick@raptorplant.co.uk",
+      "rob@raptorplant.co.uk"
+    ],
+    "description": "This allows us to understand the goals for your project and help meet your requirements.",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Griffiths Hire Shops Ltd",
@@ -2270,12 +3175,26 @@
     "rating": 4.1,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 52.966936,
     "lng": -2.678538,
-    "found_in_location": "Whitchurch",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "enquiries@griffithshireshops.co.uk",
+    "emails": [
+      "enquiries@griffithshireshops.co.uk"
+    ],
+    "description": "Offering tool, plant & powered access hire, we are the largest independent tool hire business in the Shropshire & North Wales area.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller",
+      "Scissor Lift"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Swansea",
@@ -2287,12 +3206,16 @@
     "rating": 4.1,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.643452,
     "lng": -3.989637,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Brandon Hire Station Cardiff - Roath",
@@ -2304,12 +3227,13 @@
     "rating": 4.0,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.497501,
     "lng": -3.144847,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
     "name": "Balloo Hire Centre - Tool, Plant & Equipment Hire Bangor",
@@ -2321,7 +3245,7 @@
     "rating": 4.0,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20131\u202fpm\",\"1:30\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20131\u202fpm\",\"1:30\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20131\u202fpm\",\"1:30\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20131\u202fpm\",\"1:30\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20131\u202fpm\",\"1:30\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–1 pm\",\"1:30–5 pm\"],\"Monday\":[\"7:30 am–1 pm\",\"1:30–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–1 pm\",\"1:30–5 pm\"],\"Tuesday\":[\"7:30 am–1 pm\",\"1:30–5 pm\"],\"Wednesday\":[\"7:30 am–1 pm\",\"1:30–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 54.639419,
     "lng": -5.663889,
@@ -2338,7 +3262,7 @@
     "rating": 4.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 51.454479,
     "lng": -3.198888,
@@ -2355,12 +3279,17 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Civil Engineering",
     "lat": 50.700781,
     "lng": -1.337978,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@emeraldconstructionltd.co.uk",
+    "emails": [
+      "info@emeraldconstructionltd.co.uk"
+    ],
+    "description": "Specialists in Civil Engineering, General Building and Plant Hire based on the Isle of Wight"
   },
   {
     "name": "K M Plant Hire & Groundworks Ltd.",
@@ -2372,12 +3301,17 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Civil Engineering",
     "lat": 51.605123,
     "lng": -2.918726,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "admin@kmplant.co.uk",
+    "emails": [
+      "admin@kmplant.co.uk"
+    ],
+    "description": "Delivering quality plant hire and highly specialised civil engineering services in both construction, utilities and groundworks."
   },
   {
     "name": "EMY Plant Hire",
@@ -2389,12 +3323,22 @@
     "rating": 4.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.054143,
     "lng": -2.927256,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@emyhire.co.uk",
+    "emails": [
+      "sales@emyhire.co.uk"
+    ],
+    "description": "Nationwide plant machinery hire: EMY Hire offers a wide range including powered access, site accommodation, lighting & power, and lots more.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Cambrian Plant Hire Ltd",
@@ -2406,7 +3350,7 @@
     "rating": 4.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–5:30 pm\"],\"Monday\":[\"6 am–5:30 pm\"],\"Saturday\":[\"6 am–5:30 pm\"],\"Sunday\":[\"6 am–5:30 pm\"],\"Thursday\":[\"6 am–5:30 pm\"],\"Tuesday\":[\"6 am–5:30 pm\"],\"Wednesday\":[\"6 am–5:30 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 51.505601,
     "lng": -3.11335,
@@ -2423,12 +3367,18 @@
     "rating": 3.8,
     "total_reviews": 37,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Waste-Management Service",
     "lat": 51.609062,
     "lng": -3.23166,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "info@caerphillyskips.co.uk",
+    "emails": [
+      "info@caerphillyskips.co.uk",
+      "info@mjonescws.co.uk"
+    ],
+    "description": "Skip Hire Cardiff - Hire a skip now with Cardiff & Caerphilly Skip Hire. Call 02920 862328 for the best commercial and domestic skip hire"
   },
   {
     "name": "SOS Plant Hire",
@@ -2440,12 +3390,23 @@
     "rating": 3.8,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–6:30 pm\"],\"Monday\":[\"6:30 am–6:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–6:30 pm\"],\"Tuesday\":[\"6:30 am–6:30 pm\"],\"Wednesday\":[\"6:30 am–6:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 52.972979,
     "lng": -3.067614,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@sosplanthire.co.uk",
+    "emails": [
+      "info@sosplanthire.co.uk"
+    ],
+    "description": "Our equipment is suitable for a wide range of tasks, including groundwork and foundation work. Plant hire is available as self-drive or with a trained, qualified operator. We can provide short and long term hire, no matter the length of your project.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "HV Energy & Civils Ltd",
@@ -2457,12 +3418,20 @@
     "rating": 3.7,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Civil engineering company",
     "lat": 51.597335,
     "lng": -2.986119,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@hvenergy.co.uk",
+    "emails": [
+      "info@hvenergy.co.uk"
+    ],
+    "description": "We are an established and experienced Civil Engineering Contractor offering services throughout the United Kingdom. HV Energy are dedicated to delivering projects sustainably, efficiently and safely, while not compromising on quality.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "M&J Plant",
@@ -2474,12 +3443,13 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"7\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"7 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.736567,
     "lng": -3.373796,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "M & J Plant & Transport Ltd offer plant hire, concrete crushers, road sweeper hire, tipper hire and low loader hire in New Tredagar, Cardiff, Swansea, Newport, Brecon, Gwent, South Wales and surrounding areas."
   },
   {
     "name": "Thomas Plant Hire",
@@ -2496,7 +3466,21 @@
     "lat": 51.642555,
     "lng": -3.864712,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hiredesk@thomasplanthireltd.com",
+    "emails": [
+      "hiredesk@thomasplanthireltd.com"
+    ],
+    "description": "Thomas Plant Hire est. in 2000 is a family run business. We provide market leading equipment and professional advice for our customers.",
+    "services": [
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "GAP Hire Solutions - Caerphilly",
@@ -2508,12 +3492,16 @@
     "rating": 3.6,
     "total_reviews": 14,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.587497,
     "lng": -3.189558,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "HSS The Hire Service Company",
@@ -2530,7 +3518,26 @@
     "lat": 53.045444,
     "lng": -2.936247,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "contact@hss.com",
+    "emails": [
+      "contact@hss.com"
+    ],
+    "description": "Professional tool hire in Peterborough at HSS - from access towers to floor sanders. Get the right equipment for any job, with fast click & collect or delivery available.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compactor",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Forklift",
+      "Generator",
+      "Roller",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Atlantic Recycling",
@@ -2542,12 +3549,13 @@
     "rating": 3.4,
     "total_reviews": 59,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fam\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5 am\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Waste Collection Service",
     "lat": 51.501098,
     "lng": -3.100968,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Affordable Waste Management & Skip Hire with same-day delivery in Cardiff, Newport, Caerphilly, Bridgend & across South Wales. All sizes available for domestic & commercial projects. Book online!"
   },
   {
     "name": "Hopkins Machinery",
@@ -2559,12 +3567,24 @@
     "rating": 3.4,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Agricultural engineer",
     "lat": 51.526342,
     "lng": -3.038343,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@hopkinsmachinery.co.uk",
+    "emails": [
+      "info@hopkinsmachinery.co.uk",
+      "hire@hopkinsmachinery.co.uk",
+      "jobs@hopkinsmachinery.co.uk",
+      "parts@hopkinsmachinery.co.uk"
+    ],
+    "description": "Learn about our approach, Hopkins Machinery - an experienced and knowledgeable family owned business.",
+    "services": [
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "phs Greenleaf",
@@ -2576,12 +3596,13 @@
     "rating": 3.4,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Interior plant hire service",
     "lat": 51.569759,
     "lng": -3.238065,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "description": "Enhance your environment with indoor and outdoor plants, living walls, Christmas trees and decorations from phs Greenleaf. Get in touch today!"
   },
   {
     "name": "Chepstow Plant",
@@ -2593,12 +3614,17 @@
     "rating": 3.4,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.588143,
     "lng": -2.736804,
-    "found_in_location": "Caldicot",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "sales@chepstowplant.com",
+    "emails": [
+      "sales@chepstowplant.com"
+    ],
+    "description": "Founded in 1995, Chepstow Plant & Civils has grown to become a trusted leader in the UK’s earthmoving, quarrying, and civil engineering sectors."
   },
   {
     "name": "H. E. Services (Plant Hire) Ltd - Cardiff Depot",
@@ -2610,12 +3636,27 @@
     "rating": 3.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.572838,
     "lng": -3.207571,
-    "found_in_location": "Caerphilly",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "credit.control@heservices.co.uk",
+    "emails": [
+      "credit.control@heservices.co.uk",
+      "invoice.queries@heservices.co.uk",
+      "nhc@heservices.co.uk"
+    ],
+    "description": "The largest specialist UK Plant Hire Company, providing all types of plant with 11 strategically located depots nationwide. Call 0208 804 2000",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
   },
   {
     "name": "Mabey Hire - Cardiff",
@@ -2627,12 +3668,13 @@
     "rating": 3.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Construction equipment supplier",
     "lat": 51.464092,
     "lng": -3.191359,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
   },
   {
     "name": "Land and Forestry Ltd",
@@ -2644,12 +3686,17 @@
     "rating": 3.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"10:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10:30 am–5 pm\"],\"Monday\":[\"10:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30 am–5 pm\"],\"Tuesday\":[\"10:30 am–5 pm\"],\"Wednesday\":[\"10:30 am–5 pm\"]}",
     "types": "Agricultural service",
     "lat": 51.561122,
     "lng": -3.283773,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "alex@landandforestry.co.uk",
+    "emails": [
+      "alex@landandforestry.co.uk"
+    ],
+    "description": "Let our agricultural contractors can manage your project. Plant hire, tractors and more. Call Land & Forestry. We cover Cardiff, Bridgend, Brecon and Chepstow"
   },
   {
     "name": "Best at hire",
@@ -2661,12 +3708,19 @@
     "rating": 2.3,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 51.497845,
     "lng": -3.144446,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Low Prices - National Tool Hire in Norwich . Click & Collect from 120+ depots. Cheap Next Day Delivery. Call 01603 523 220 / Hire Online",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Concrete Mixer",
+      "Generator"
+    ]
   },
   {
     "name": "Read Plant (Hire & Sales) Ltd",
@@ -2678,7 +3732,7 @@
     "rating": 1.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20137\u202fpm\"],\"Monday\":[\"7\u202fam\u20137\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 51.624154,
     "lng": -2.964254,
@@ -2695,11 +3749,11 @@
     "rating": 1.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"9:30 am–5 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.671921,
     "lng": -3.216256,
-    "found_in_location": "Blackwood",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "plant wales"
   },
   {
@@ -2716,7 +3770,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.683629,
     "lng": -4.138274,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -2729,11 +3783,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.61706,
     "lng": -3.285128,
-    "found_in_location": "Caerphilly",
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "plant wales"
   },
   {
@@ -2746,7 +3800,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.469614,
     "lng": -3.174718,
@@ -2763,12 +3817,26 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.529083,
     "lng": -3.239605,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hire@cphire.com",
+    "emails": [
+      "hire@cphire.com"
+    ],
+    "description": "Foremost Hire specialists in Northern Ireland since 1971. Our experienced team offers a wide range of plant & equipment for hire, including diggers, garden and access equipment. Quality equipment at competitive rates for your construction, landscaping & DIY needs.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Concrete Mixer",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Officeplants Cardiff",
@@ -2780,12 +3848,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fam\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fam\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 am\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 am\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Interior plant hire service",
     "lat": 51.483333,
     "lng": -3.177177,
     "found_in_location": "Cardiff",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "sales@officeplants.wales",
+    "emails": [
+      "sales@officeplants.wales"
+    ],
+    "description": "Officeplants Cardiff - A genuinely local firm , not a regional franchise or national. Office plant hire and maintenance exclusive to South Wales ensuring the best price and service. Hi-end displays from just £1.90 / week."
   },
   {
     "name": "Sunbelt Rentals Cardiff - St Catherine's Park",
@@ -2797,7 +3870,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Building materials supplier",
     "lat": 51.492381,
     "lng": -3.14205,
@@ -2831,12 +3904,99 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"7\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.629041,
     "lng": -3.936488,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "alford@huwsgrayplantandtoolhire.co.uk",
+    "emails": [
+      "alford@huwsgrayplantandtoolhire.co.uk",
+      "barnsley@huwsgrayplantandtoolhire.co.uk",
+      "basingstoke@huwsgrayplantandtoolhire.co.uk",
+      "belper@huwsgrayplantandtoolhire.co.uk",
+      "bolton@huwsgrayplantandtoolhire.co.uk",
+      "boston@huwsgrayplantandtoolhire.co.uk",
+      "bow@huwsgrayplantandtoolhire.co.uk",
+      "braintree@huwsgrayplantandtoolhire.co.uk",
+      "bristol@huwsgrayplantandtoolhire.co.uk",
+      "calne@huwsgrayplantandtoolhire.co.uk",
+      "chesterfield@huwsgrayplantandtoolhire.co.uk",
+      "corby@huwsgrayplantandtoolhire.co.uk",
+      "crawley@huwsgrayplantandtoolhire.co.uk",
+      "croydon@huwsgrayplantandtoolhire.co.uk",
+      "derby@huwsgrayplantandtoolhire.co.uk",
+      "dover@huwsgrayplantandtoolhire.co.uk",
+      "epsom@huwsgrayplantandtoolhire.co.uk",
+      "exeter@huwsgrayplantandtoolhire.co.uk",
+      "farnham@huwsgrayplantandtoolhire.co.uk",
+      "flint@huwsgrayplantandtoolhire.co.uk",
+      "gainsborough@huwsgrayplantandtoolhire.co.uk",
+      "gateshead@huwsgrayplantandtoolhire.co.uk",
+      "gloucester@huwsgrayplantandtoolhire.co.uk",
+      "grantham@huwsgrayplantandtoolhire.co.uk",
+      "grimsby@huwsgrayplantandtoolhire.co.uk",
+      "hadleigh@huwsgrayplantandtoolhire.co.uk",
+      "harlow@huwsgrayplantandtoolhire.co.uk",
+      "haverhill@huwsgrayplantandtoolhire.co.uk",
+      "herne.bay@huwsgrayplantandtoolhire.co.uk",
+      "highgate@huwsgrayplantandtoolhire.co.uk",
+      "highwycombe@huwsgrayplantandtoolhire.co.uk",
+      "holbrooks@huwsgrayplantandtoolhire.co.uk",
+      "horncastle@huwsgrayplantandtoolhire.co.uk",
+      "ipswich@huwsgrayplantandtoolhire.co.uk",
+      "kenilworth@huwsgrayplantandtoolhire.co.uk",
+      "leicester@huwsgrayplantandtoolhire.co.uk",
+      "lincoln@huwsgrayplantandtoolhire.co.uk",
+      "louth@huwsgrayplantandtoolhire.co.uk",
+      "maidstone@huwsgrayplantandtoolhire.co.uk",
+      "marketdrayton@huwsgrayplantandtoolhire.co.uk",
+      "marketrasen@huwsgrayplantandtoolhire.co.uk",
+      "melksham@huwsgrayplantandtoolhire.co.uk",
+      "miltonkeynes@huwsgrayplantandtoolhire.co.uk",
+      "nantwich@huwsgrayplantandtoolhire.co.uk",
+      "newark@huwsgrayplantandtoolhire.co.uk",
+      "newbury@huwsgrayplantandtoolhire.co.uk",
+      "newsouthgate@huwsgrayplantandtoolhire.co.uk",
+      "northwich@huwsgrayplantandtoolhire.co.uk",
+      "norwich@huwsgrayplantandtoolhire.co.uk",
+      "nottingham@huwsgrayplantandtoolhire.co.uk",
+      "nuneaton@huwsgrayplantandtoolhire.co.uk",
+      "oxford@huwsgrayplantandtoolhire.co.uk",
+      "peckham@huwsgrayplantandtoolhire.co.uk",
+      "portsmouth@huwsgrayplantandtoolhire.co.uk",
+      "redditch@huwsgrayplantandtoolhire.co.uk",
+      "rotherham@huwsgrayplantandtoolhire.co.uk",
+      "rushden@huwsgrayplantandtoolhire.co.uk",
+      "sandy@huwsgrayplantandtoolhire.co.uk",
+      "scunthorpe@huwsgrayplantandtoolhire.co.uk",
+      "shetland@huwsgrayplantandtoolhire.co.uk",
+      "shrewsbury@huwsgrayplantandtoolhire.co.uk",
+      "skegness@huwsgrayplantandtoolhire.co.uk",
+      "sleaford@huwsgrayplantandtoolhire.co.uk",
+      "stafford@huwsgrayplantandtoolhire.co.uk",
+      "stamford@huwsgrayplantandtoolhire.co.uk",
+      "stevenage@huwsgrayplantandtoolhire.co.uk",
+      "stoke@huwsgrayplantandtoolhire.co.uk",
+      "stowmarket@huwsgrayplantandtoolhire.co.uk",
+      "stratford@huwsgrayplantandtoolhire.co.uk",
+      "sudbury@huwsgrayplantandtoolhire.co.uk",
+      "sunderland@huwsgrayplantandtoolhire.co.uk",
+      "suttoninashfield@huwsgrayplantandtoolhire.co.uk",
+      "swansea@huwsgrayplantandtoolhire.co.uk",
+      "swindon@huwsgrayplantandtoolhire.co.uk",
+      "swinton@huwsgrayplantandtoolhire.co.uk",
+      "wellington@huwsgrayplantandtoolhire.co.uk",
+      "welwyngardencity@huwsgrayplantandtoolhire.co.uk",
+      "westonsupermare@huwsgrayplantandtoolhire.co.uk",
+      "whitburn@huwsgrayplantandtoolhire.co.uk",
+      "wigan@huwsgrayplantandtoolhire.co.uk",
+      "wisbech@huwsgrayplantandtoolhire.co.uk",
+      "wrightington@huwsgrayplantandtoolhire.co.uk",
+      "nuffield@hirebase.co.uk"
+    ],
+    "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
     "name": "DKS GB Limited",
@@ -2865,12 +4025,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.576001,
     "lng": -4.048249,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "anna@grplant.co.uk",
+    "emails": [
+      "anna@grplant.co.uk"
+    ],
+    "description": "Based in South Wales, at GR Plant [formerly Gareth Rees Plant Hire Ltd] we specialise in plant hire, contracting, environmental engineering, and trail design."
   },
   {
     "name": "T C S Plant Hire Ltd",
@@ -2887,7 +4052,12 @@
     "lat": 51.704861,
     "lng": -3.914015,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "enq@tcs-plant.co.uk",
+    "emails": [
+      "enq@tcs-plant.co.uk"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at gravida libero. Quisque mauris urna, feugiat sed nisi et, dignissim tincidunt neque."
   },
   {
     "name": "Wight Event Power Ltd",
@@ -2899,12 +4069,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fam\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Tool rental service",
     "lat": 50.749945,
     "lng": -1.302355,
-    "found_in_location": "Cowes",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "info@wighteventpower.co.uk",
+    "emails": [
+      "info@wighteventpower.co.uk"
+    ],
+    "description": "Wight Event Power - Your go-to source for generator hire, power distribution, and tower lights on the Isle of Wight. Contact us for all your power needs.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Renewable Temporary Power",
@@ -2916,12 +4094,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.577716,
     "lng": -2.984951,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "ask@rtp-ltd.co.uk",
+    "emails": [
+      "ask@rtp-ltd.co.uk"
+    ],
+    "description": "Hybrid Power Unit (HPU) in 20, 40 & 80 kVA capacities, battery & diesel power generation in a green and cost effective way. Call Renewable Temporary Power.",
+    "services": [
+      "Generator"
+    ]
   },
   {
     "name": "Harvey Plant Hire",
@@ -2933,12 +4119,21 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20136\u202fpm\"],\"Monday\":[\"7\u202fam\u20136\u202fpm\"],\"Saturday\":[\"7\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.054111,
     "lng": -2.981835,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "contact@harveyplanthire.co.uk",
+    "emails": [
+      "contact@harveyplanthire.co.uk"
+    ],
+    "description": "We pride ourselves on our commitment to provide a professional and speedy service at all times whilst maintaining the highest quality of work.",
+    "services": [
+      "Breaker",
+      "Excavator"
+    ]
   },
   {
     "name": "RA plant hire",
@@ -2950,11 +4145,11 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135\u202fam\"],\"Monday\":[\"8:30\u202fam\u20135\u202fam\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135\u202fam\"],\"Tuesday\":[\"8:30\u202fam\u20135\u202fam\"],\"Wednesday\":[\"8:30\u202fam\u20135\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 am\"],\"Monday\":[\"8:30 am–5 am\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 am\"],\"Tuesday\":[\"8:30 am–5 am\"],\"Wednesday\":[\"8:30 am–5 am\"]}",
     "types": "Construction Company",
     "lat": 51.780012,
     "lng": -4.174593,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -2971,7 +4166,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.678765,
     "lng": -4.162519,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -2988,7 +4183,7 @@
     "types": "Plant and machinery hire",
     "lat": 51.680886,
     "lng": -4.160248,
-    "found_in_location": "Llanelli",
+    "found_in_location": "Swansea",
     "found_with_query": "plant wales"
   },
   {
@@ -3001,12 +4196,35 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.521208,
     "lng": -3.565693,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "info@gtaccess.co.uk",
+    "emails": [
+      "info@gtaccess.co.uk",
+      "bod@gtaccess.co.uk",
+      "bre@gtaccess.co.uk",
+      "bri@gtaccess.co.uk",
+      "bro@gtaccess.co.uk",
+      "glo@gtaccess.co.uk",
+      "hai@gtaccess.co.uk",
+      "her@gtaccess.co.uk",
+      "nec@gtaccess.co.uk",
+      "pet@gtaccess.co.uk",
+      "shr@gtaccess.co.uk",
+      "sto@gtaccess.co.uk",
+      "training@gtaccess.co.uk"
+    ],
+    "description": "GTAccess is the UK's leading powered access hire and sales company. Our huge range includes cherry pickers and scissor lifts, plus safety gear and service plans",
+    "services": [
+      "Cherry Picker",
+      "Forklift",
+      "Scissor Lift",
+      "Telehandler"
+    ]
   },
   {
     "name": "AS Plant Hire",
@@ -3018,12 +4236,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"8\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.611644,
     "lng": -3.539308,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "asplanthire@gmail.com",
+    "emails": [
+      "asplanthire@gmail.com"
+    ],
+    "description": "Plant hire company based in Ogmore Vale Bridgend, No deposits required."
   },
   {
     "name": "Cherry Picker Hire",
@@ -3040,7 +4263,11 @@
     "lat": 51.499579,
     "lng": -3.576012,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Cherry picker / Access platform hire in Bridgend, Cardiff, Swansea, Porthcawl, Port Talbot, Cowbridge and surrounding areas.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Plant C R H",
@@ -3057,7 +4284,15 @@
     "lat": 51.52638,
     "lng": -3.687553,
     "found_in_location": "Bridgend",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "evesham@crhplant.co.uk",
+    "emails": [
+      "evesham@crhplant.co.uk"
+    ],
+    "description": "Cotswold Roller Hire was founded in 1965, since then we have grown to a nationwide supplier of non-operated plant.",
+    "services": [
+      "Roller"
+    ]
   },
   {
     "name": "Sunbelt Rentals Powered Access",
@@ -3069,7 +4304,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.549045,
     "lng": -3.57958,
@@ -3091,7 +4326,11 @@
     "lat": 50.692015,
     "lng": -1.297903,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "services": [
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Dai Digger",
@@ -3120,12 +4359,20 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.56639,
     "lng": -2.965956,
     "found_in_location": "Newport",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "hiredesk@ntdh.co.uk",
+    "emails": [
+      "hiredesk@ntdh.co.uk"
+    ],
+    "description": "As market leaders for tracked dumpers in the UK, NTD National Tracked Dumper Hire Ltd, since its beginnings in 2015 has rapidly set the standard for tracked dumpers available for hire in the UK.",
+    "services": [
+      "Dumper"
+    ]
   },
   {
     "name": "Altraxx Plant Services",
@@ -3141,8 +4388,21 @@
     "types": "Plant and machinery hire",
     "lat": 51.565484,
     "lng": -2.984513,
-    "found_in_location": "South Wales",
-    "found_with_query": "plant wales"
+    "found_in_location": "Newport",
+    "found_with_query": "plant wales",
+    "email": "sales@altraxx.com",
+    "emails": [
+      "sales@altraxx.com"
+    ],
+    "description": "Find quality used construction equipment at Altraxx Plant Services. Browse Bulldozer, Tracked Excavators, Rollers, Telehandlers, Wheeled Loaders and more.",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Telehandler"
+    ]
   },
   {
     "name": "W A Brook Plant Hire",
@@ -3159,7 +4419,16 @@
     "lat": 53.044709,
     "lng": -3.080626,
     "found_in_location": "Wrexham",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "email": "wabrookplanthireltd@btinternet.com",
+    "emails": [
+      "wabrookplanthireltd@btinternet.com"
+    ],
+    "description": "For quality plant hire covering the whole of North Wales call WA Brook Plant Hire Ltd now on 07711 536 816",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "ADC Plant Hire",
@@ -3171,12 +4440,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 53.191549,
     "lng": -3.028671,
-    "found_in_location": "Deeside",
-    "found_with_query": "plant wales"
+    "found_in_location": "Wrexham",
+    "found_with_query": "plant wales",
+    "email": "info@adcplanthire.com",
+    "emails": [
+      "info@adcplanthire.com"
+    ],
+    "description": "ADC Plant Hire serve customers plant hire needs in the North Wales and Cheshire area.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Miles Hire Within Bracey's Building Supplies",
@@ -3188,12 +4468,23 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.522606,
     "lng": -3.367807,
-    "found_in_location": "Pontyclun",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "sales@mileshire.co.uk",
+    "emails": [
+      "sales@mileshire.co.uk"
+    ],
+    "description": "Miles Hire offers tool hire and plant hire services throughout Swansea. Order online or call our award-winning Welsh team.",
+    "services": [
+      "Cherry Picker",
+      "Concrete Mixer",
+      "Mini Digger",
+      "Roller"
+    ]
   },
   {
     "name": "RECYCLING EQUIPMENT (UK) LIMIT",
@@ -3209,8 +4500,17 @@
     "types": "Waste-Management Service",
     "lat": 51.698612,
     "lng": -4.278788,
-    "found_in_location": "Burry Port",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "info@wastepro.co.uk",
+    "emails": [
+      "info@wastepro.co.uk"
+    ],
+    "description": "Our Swansea haulage company offers other services ranging from portaloos, facade cleaning, bowser hire, septic tank emptying and much more.",
+    "services": [
+      "Cherry Picker",
+      "Excavator"
+    ]
   },
   {
     "name": "DEAL Plant Ltd",
@@ -3222,12 +4522,17 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Equipment supplier",
     "lat": 51.429977,
     "lng": -3.35347,
-    "found_in_location": "Barry",
-    "found_with_query": "plant wales"
+    "found_in_location": "Cardiff",
+    "found_with_query": "plant wales",
+    "email": "plant@dealwales.co.uk",
+    "emails": [
+      "plant@dealwales.co.uk"
+    ],
+    "description": "DEAL PLANT offers an extensive range of new, used & lease equipment and machinery to cover the construction and utilities industries in Wales. With a wide range of machines in stock and expert know how, get in touch with the team today to find out more. Sunward Excavator main dealer, Herron, New"
   },
   {
     "name": "A Better Service",
@@ -3244,7 +4549,12 @@
     "lat": 51.564859,
     "lng": -4.080456,
     "found_in_location": "Swansea",
-    "found_with_query": "plant wales"
+    "found_with_query": "plant wales",
+    "description": "Based in the Gower, A Better Service offers plant hire and equipment hire throughout the Swansea. For details, contact us now.",
+    "services": [
+      "Cherry Picker",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Hiab Hire Swansea Ltd",
@@ -3256,7 +4566,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Plant and machinery hire",
     "lat": 51.623179,
     "lng": -3.941989,
@@ -3273,11 +4583,16 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6\u202fam\u20136\u202fpm\"],\"Monday\":[\"6\u202fam\u20136\u202fpm\"],\"Saturday\":[\"6\u202fam\u20136\u202fpm\"],\"Sunday\":[\"6\u202fam\u20136\u202fpm\"],\"Thursday\":[\"6\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"6\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"6\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6 am–6 pm\"],\"Monday\":[\"6 am–6 pm\"],\"Saturday\":[\"6 am–6 pm\"],\"Sunday\":[\"6 am–6 pm\"],\"Thursday\":[\"6 am–6 pm\"],\"Tuesday\":[\"6 am–6 pm\"],\"Wednesday\":[\"6 am–6 pm\"]}",
     "types": "Equipment rental agency",
     "lat": 51.805646,
     "lng": -4.073194,
-    "found_in_location": "Llanelli",
-    "found_with_query": "plant wales"
+    "found_in_location": "Swansea",
+    "found_with_query": "plant wales",
+    "email": "garethjones@haulage-plant-hire.co.uk",
+    "emails": [
+      "garethjones@haulage-plant-hire.co.uk"
+    ],
+    "description": "Our welcome page, company history and services."
   }
 ]

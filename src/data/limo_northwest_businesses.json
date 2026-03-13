@@ -9,12 +9,17 @@
     "rating": 5.0,
     "total_reviews": 401,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.797622,
     "lng": -3.008576,
     "found_in_location": "Blackpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "A local minibus hire company offering corporate transport, airport taxis, day trips & nights out. 5-16+ seater modern minibuses. Book online.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Travel Prestige Chauffeurs",
@@ -26,12 +31,24 @@
     "rating": 5.0,
     "total_reviews": 163,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"8\u202fam\u201311\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"8 am–11 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 53.447481,
     "lng": -2.082841,
-    "found_in_location": "Hyde",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Stockport",
+    "found_with_query": "limo northwest",
+    "email": "info@travel-prestige.co.uk",
+    "emails": [
+      "info@travel-prestige.co.uk"
+    ],
+    "description": "Travel Prestige Call Now AWARD WINNING We have been accredited the “Award of Excellence 2021” as well as other awards since our inception. INSURED OPERATOR We are fully compliant and insured…",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "J&K TRAVEL LTD",
@@ -47,8 +64,13 @@
     "types": "Coach and minibus hire",
     "lat": 53.416259,
     "lng": -3.027245,
-    "found_in_location": "Wallasey",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "hello@jktravelwirral.co.uk",
+    "emails": [
+      "hello@jktravelwirral.co.uk"
+    ],
+    "description": "J&K Travel are a family business committed to providing a friendly, customer-focused transport service throughout the Wirral and North West."
   },
   {
     "name": "Kings Travel",
@@ -82,7 +104,18 @@
     "lat": 53.481069,
     "lng": -2.226129,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@gogreenexecutivetravel.com",
+    "emails": [
+      "info@gogreenexecutivetravel.com"
+    ],
+    "description": "Book your luxury Manchester chauffeur services with Go Green Executive Travel today. Hire executive chauffeur vehicles form only £75p/h. Available 24/7.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Falcon Tesla Wedding Cars",
@@ -94,12 +127,23 @@
     "rating": 5.0,
     "total_reviews": 87,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.690122,
     "lng": -2.689456,
-    "found_in_location": "Leyland",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Chorley",
+    "found_with_query": "limo northwest",
+    "email": "falcon.hire@btinternet.com",
+    "emails": [
+      "falcon.hire@btinternet.com",
+      "sample@gmail.com"
+    ],
+    "description": "Amazing Tesla Model X Supercars for your Wedding Transport",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars & Wedding Taxis By iDoTaxi.co.uk",
@@ -111,12 +155,22 @@
     "rating": 5.0,
     "total_reviews": 68,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u201310\u202fpm\"],\"Monday\":[\"7\u202fam\u201310\u202fpm\"],\"Saturday\":[\"7\u202fam\u201310\u202fpm\"],\"Sunday\":[\"7\u202fam\u201310\u202fpm\"],\"Thursday\":[\"7\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"7\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"7\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–10 pm\"],\"Monday\":[\"7 am–10 pm\"],\"Saturday\":[\"7 am–10 pm\"],\"Sunday\":[\"7 am–10 pm\"],\"Thursday\":[\"7 am–10 pm\"],\"Tuesday\":[\"7 am–10 pm\"],\"Wednesday\":[\"7 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 53.419085,
     "lng": -2.431422,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "weddings@rankevents.co",
+    "emails": [
+      "weddings@rankevents.co",
+      "weddings@rankevents.co.uk"
+    ],
+    "description": "Wedding Taxis / Cabs / Wedding Cars UK Welcome to wedding cars & taxis by iDoTaxi, We are a family run Wedding Taxi company based in South Manchester, covering the whole UK Mainland. Your wedding day is one of the most important days of your life and we want to help you make it as special as we...",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Palm Luxury Rentals",
@@ -133,7 +187,18 @@
     "lat": 53.476031,
     "lng": -2.219794,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@palmluxuryrentals.com",
+    "emails": [
+      "info@palmluxuryrentals.com"
+    ],
+    "description": "Palm Luxury Rentals is the UK’s leading car rental provider of luxury cars, sports cars, 4x4/SUVs, and supercars. Based in Manchester. Nationwide delivery.",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Simply Transfers",
@@ -145,12 +210,21 @@
     "rating": 5.0,
     "total_reviews": 54,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–6 pm\"],\"Sunday\":[\"8:30 am–6 pm\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Transportation service",
     "lat": 53.41737,
     "lng": -2.923035,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiries@simplytransfers.net",
+    "emails": [
+      "enquiries@simplytransfers.net"
+    ],
+    "description": "Professional airport transfers from Liverpool with stylish, comfortable service. Ride in our Mercedes V-Class and get your quote now.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "The Manchester minibuses",
@@ -179,12 +253,17 @@
     "rating": 5.0,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 53.473646,
     "lng": -2.302026,
     "found_in_location": "Salford",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@creativeweddingagency.co.uk",
+    "emails": [
+      "info@creativeweddingagency.co.uk"
+    ],
+    "description": "Welcome to The Creative Wedding Agency an award-winning UK-based studio. Over 60 years of combined experience in photography and videography."
   },
   {
     "name": "Mr & Mrs Wedding Cars",
@@ -201,7 +280,16 @@
     "lat": 53.615958,
     "lng": -2.441007,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "crilly38@ntlworld.com",
+    "emails": [
+      "crilly38@ntlworld.com"
+    ],
+    "description": "Mr & Mrs Wedding Cars for Weddings, Proms, Special Occasions, Airport transfers and Limousine services.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Chauffeur Services Group Manchester",
@@ -218,7 +306,18 @@
     "lat": 53.481065,
     "lng": -2.226142,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@chauffeurservicesgroup.co.uk",
+    "emails": [
+      "info@chauffeurservicesgroup.co.uk"
+    ],
+    "description": "Chauffeur Services Group provides luxury first-class chauffeur services in Manchester for executive transport, airport transfers, weddings & business.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Skyway Chauffeurs",
@@ -235,7 +334,19 @@
     "lat": 53.466552,
     "lng": -2.267057,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "admin@skywaychauffeurs.co.uk",
+    "emails": [
+      "admin@skywaychauffeurs.co.uk",
+      "bookings@skywaychauffeurs.co.uk",
+      "accounts@skywaychauffeurs.co.uk"
+    ],
+    "description": "If you are looking for a chauffeur service manchester that offers you the most luxurious chauffeur manchester travel experience look no further",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "LK Executive Ltd",
@@ -252,7 +363,17 @@
     "lat": 53.435291,
     "lng": -2.199414,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@lkexecutive.co.uk",
+    "emails": [
+      "info@lkexecutive.co.uk",
+      "sabeka@gmail.com"
+    ],
+    "description": "LK Executive Chauffeurs provide executive travel and airport transfers. We offer chauffeur services to and from Manchester & Cheshire.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Mackie's Travel Airport / Nights out Transfers",
@@ -286,7 +407,15 @@
     "lat": 53.595199,
     "lng": -2.673632,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@mjrtravel.co.uk",
+    "emails": [
+      "info@mjrtravel.co.uk"
+    ],
+    "description": "Minibus hire Wigan, competitively priced minibus hire across Wigan and the North West, supported by a fleet of 7 modern vehicles and 5 dedicated, professional drivers.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Preston Pro Coaches Hire",
@@ -303,7 +432,11 @@
     "lat": 53.769399,
     "lng": -2.720937,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Need a Coach Hire or Minibus in Preston or in North West? Book one now with our friendly CRB and DBS checked drivers. Preston Pro Coaches",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Love & Carriage Wedding Cars",
@@ -315,12 +448,22 @@
     "rating": 5.0,
     "total_reviews": 22,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7:30 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.47699,
     "lng": -2.954955,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@loveandcarriage.co.uk",
+    "emails": [
+      "info@loveandcarriage.co.uk"
+    ],
+    "description": "Wedding Cars based in Aintree Liverpool. Affordable Wedding Cars in Liverpool. Say I do to one of our stunning Wedding Cars.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "TRAVEL DELUXE LIMITED",
@@ -337,7 +480,11 @@
     "lat": 53.425916,
     "lng": -2.121729,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Travel Deluxe offers affordable minibus and coach hire services in Manchester. Perfect for group travel, airport transfers, and special occasions.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Classic Wedding Cars Cheshire",
@@ -349,12 +496,22 @@
     "rating": 5.0,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"8\u202fam\u201310\u202fpm\"],\"Sunday\":[\"8\u202fam\u201310\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"8 am–10 pm\"],\"Sunday\":[\"8 am–10 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Wedding service",
     "lat": 53.395201,
     "lng": -2.341272,
-    "found_in_location": "Altrincham",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Salford",
+    "found_with_query": "limo northwest",
+    "email": "classicweddingcarscheshire@gmail.com",
+    "emails": [
+      "classicweddingcarscheshire@gmail.com"
+    ],
+    "description": "Classic Wedding Cars Cheshire Provide aProfessional Classic Wedding Car Service",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "OPUS Minibuses",
@@ -388,7 +545,20 @@
     "lat": 53.535193,
     "lng": -2.269043,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@tischauffeur.co.uk",
+    "emails": [
+      "info@tischauffeur.co.uk"
+    ],
+    "description": "Chauffeur Manchester, Professional chauffeur service, business, airport transfer chauffeurs covering Manchester, Liverpool, Cheshire & the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "W Travels",
@@ -404,8 +574,9 @@
     "types": "Coach and minibus hire",
     "lat": 53.287714,
     "lng": -2.913504,
-    "found_in_location": "Ellesmere Port",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Chester",
+    "found_with_query": "limo northwest",
+    "description": "This site's domain name is either not yet pointed or is still propagating. Propagation may take up to 72 hours. Please check back later."
   },
   {
     "name": "Grace Wedding Cars",
@@ -417,12 +588,17 @@
     "rating": 5.0,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"9 am–2 pm\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Wedding service",
     "lat": 53.486804,
     "lng": -2.631456,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "At Grace Wedding Cars, we pride ourselves on providing pristine and elegant vehicles to add a touch of class to your special day. Based in Wigan, our family-run local business is dedicated to making your wedding transportation unforgettable",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Malvern Wedding Cars",
@@ -438,8 +614,18 @@
     "types": "Limousine service",
     "lat": 53.880517,
     "lng": -2.374849,
-    "found_in_location": "Clitheroe",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Burnley",
+    "found_with_query": "limo northwest",
+    "email": "bookings@malvernweddingcars.co.uk",
+    "emails": [
+      "bookings@malvernweddingcars.co.uk"
+    ],
+    "description": "Malvern Wedding Cars was established in 1998 to provide a professional and reliable service on one of the most stressful days of any couples lives, and of course we love the cars – we think convertibles are just a bit special on this special day..",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limos North West Ltd",
@@ -456,7 +642,15 @@
     "lat": 53.383877,
     "lng": -2.614844,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Limos North West are one of the leading limo hire companies in the area. Boasting a range of quality limos, highly trained drivers & affordable prices.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Rochdale Limos",
@@ -473,7 +667,15 @@
     "lat": 53.617204,
     "lng": -2.168466,
     "found_in_location": "Rochdale",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@rochdalelimos.co.uk",
+    "emails": [
+      "info@rochdalelimos.co.uk"
+    ],
+    "description": "Our chauffeurs are highly experienced and trained to ensure that your journey with us is safe and an experience, not only to remember but also to recommend. We place customer satisfaction at the fore front of our work; our team can be contacted 24 hours a day, 7 days a week. In addition, All our...",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "CVS Chauffeurs",
@@ -490,7 +692,19 @@
     "lat": 53.450362,
     "lng": -2.193307,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bookings@cvschauffeurs.com",
+    "emails": [
+      "bookings@cvschauffeurs.com"
+    ],
+    "description": "CVS Chauffeursoffers premium executive Manchester chauffeur serviceswith a fleet of luxury cars. Our premium class transport services are available forbusiness meetings,Manchester airport transfers,sportandsocial events,hourly hire,weddingsandcorporate trips. With amazing service coming from an...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "CDC Wedding Cars Liverpool Merseyside",
@@ -502,7 +716,7 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.383009,
     "lng": -2.549743,
@@ -524,7 +738,15 @@
     "lat": 53.359746,
     "lng": -2.571793,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "hello@entourageexecutivecars.co.uk",
+    "emails": [
+      "hello@entourageexecutivecars.co.uk"
+    ],
+    "description": "Entourage Executive Cars combine high specification Mercedes V Class vehicles with excellent customer service to provide a 'Business Class' level of service.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Chariots of Chester",
@@ -536,7 +758,7 @@
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.163547,
     "lng": -2.978634,
@@ -553,7 +775,7 @@
     "rating": 5.0,
     "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Wedding service",
     "lat": 53.567162,
     "lng": -2.427287,
@@ -574,8 +796,15 @@
     "types": "Limousine service",
     "lat": 53.907015,
     "lng": -3.033029,
-    "found_in_location": "Fleetwood",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Blackpool",
+    "found_with_query": "limo northwest",
+    "description": "JSS provides chauffeur driven wedding cars covering Fleetwood, Cleveleys, Poulton, Blackpool & surrounding areas in North West Lancashire",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Discount Wedding Cars Direct",
@@ -609,7 +838,17 @@
     "lat": 53.777262,
     "lng": -2.913891,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "ross@rossetchells.co.uk",
+    "emails": [
+      "ross@rossetchells.co.uk"
+    ],
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Hire Minibus Ltd",
@@ -626,7 +865,18 @@
     "lat": 53.756021,
     "lng": -2.69209,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "contact@hireminibus.uk",
+    "emails": [
+      "contact@hireminibus.uk"
+    ],
+    "description": "Hire Minibus is a private coach & minibus hire company in the UK. Contact us to book from our extensive fleet of 9 seater minibuses to 70 seater coaches.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Gardenia Wedding Cars",
@@ -638,12 +888,23 @@
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.071366,
     "lng": -2.488061,
-    "found_in_location": "Nantwich",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Crewe",
+    "found_with_query": "limo northwest",
+    "email": "info@gardeniaweddingcars.com",
+    "emails": [
+      "info@gardeniaweddingcars.com",
+      "info@gardeniaweddingcars.co.uk"
+    ],
+    "description": "Beauford Classic Wedding Car Hire - Wedding car hire in Cheshire and Staffordshire",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "5th avenue limousines",
@@ -655,12 +916,23 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311\u202fpm\"],\"Monday\":[\"9\u202fam\u201311\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11:30 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9:30 am–11 pm\"],\"Wednesday\":[\"9:30 am–11 pm\"]}",
     "types": "Limousine service",
     "lat": 53.561009,
     "lng": -2.417582,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@loremipsum.com",
+    "emails": [
+      "info@loremipsum.com",
+      "dallaslimousines92@gmail.com"
+    ],
+    "description": "we specialize in providing luxury limousine hire across North West Yorkshire. Whether it’s for weddings, corporate travel, airport transfers, or special events, our goal is to deliver a safe, stylish, and unforgettable experience. With professional chauffeurs, top-of-the-line limousines, and a...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Impact Chauffeurs",
@@ -677,7 +949,16 @@
     "lat": 53.407889,
     "lng": -2.818162,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@impactchauffeurs.co.uk",
+    "emails": [
+      "info@impactchauffeurs.co.uk"
+    ],
+    "description": "The UK’s leaders in precision-led chauffeur services, setting the benchmark through uncompromising attention to detail. With over 17 years of industry expertise, we deliver trusted transport where discretion, reliability and presence are essential for those in the public eye.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Cheshire & Lancashire Wedding Cars",
@@ -689,12 +970,24 @@
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"10\u202fam\u20136\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"11\u202fam\u20136\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"11 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 53.232106,
     "lng": -2.409063,
-    "found_in_location": "Middlewich",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Crewe",
+    "found_with_query": "limo northwest",
+    "email": "enquiries@clwc.co.uk",
+    "emails": [
+      "enquiries@clwc.co.uk"
+    ],
+    "description": "Luxurious Wedding Cars and Limousines throughout Cheshire and the Northwest",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Little Limo's Wedding Cars",
@@ -706,7 +999,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"11\u202fam\u20132:30\u202fpm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"11 am–2:30 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Wedding service",
     "lat": 53.788688,
     "lng": -2.989305,
@@ -723,7 +1016,7 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201312\u202fam\"],\"Monday\":[\"9\u202fam\u201312\u202fam\"],\"Saturday\":[\"9\u202fam\u201312\u202fam\"],\"Sunday\":[\"9\u202fam\u201312\u202fam\"],\"Thursday\":[\"9\u202fam\u201312\u202fam\"],\"Tuesday\":[\"9\u202fam\u201312\u202fam\"],\"Wednesday\":[\"9\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–12 am\"],\"Monday\":[\"9 am–12 am\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"9 am–12 am\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"9 am–12 am\"]}",
     "types": "Limousine service",
     "lat": 53.734127,
     "lng": -2.517368,
@@ -745,7 +1038,13 @@
     "lat": 53.787836,
     "lng": -2.988179,
     "found_in_location": "Blackpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "We are a family wedding car business which is dedicated to providing a courteous, professional, 5-star service to all our brides & grooms.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Birkdale Classics",
@@ -757,12 +1056,19 @@
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"10\u202fam\u20135:30\u202fpm\"],\"Thursday\":[\"10\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–8 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"9 am–6:30 pm\"],\"Sunday\":[\"10 am–5:30 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
     "types": "Wedding planner",
     "lat": 53.621751,
     "lng": -3.009826,
     "found_in_location": "Southport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Luxury wedding car hire Birkdale. Choose from Bentley, VW Camper, Cadillac, Chrysler & Daimler. Chauffeur driven classic wedding cars.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Hire Manchester",
@@ -774,12 +1080,25 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8\u202fam\u20136\u202fpm\"],\"Sunday\":[\"8\u202fam\u20136\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.378098,
     "lng": -2.24895,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Cheapest and best limo hire service in Manchester. Largest fleet of Hummer limos, pink limos, wedding cars, party buses, sports cars. Get a Quote",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Penwortham Limousines Ltd",
@@ -796,7 +1115,21 @@
     "lat": 53.750306,
     "lng": -2.728749,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "penworthamlimousinesltd@gmail.com",
+    "emails": [
+      "penworthamlimousinesltd@gmail.com"
+    ],
+    "description": "Penwortham Limousines - Wedding Car Hire, Limousine Hire, Horse and Carriage Hire & Classic Car Hire. All Chauffeur Driven",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Silver Lady Wedding Cars",
@@ -830,7 +1163,13 @@
     "lat": 53.345308,
     "lng": -2.90079,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Coach and Minibus Hire In The UK At Vip Coach Travel, our priority is your comfort and convenience. We specialise in luxury coach and minibus hire across the UK, offering a wide range of cars, minibuses, and coaches in various sizes to ensure the perfect fit for your group, no matter how large...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "GK Travel",
@@ -847,7 +1186,15 @@
     "lat": 53.464483,
     "lng": -2.962947,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "gktravelliverpool@gmail.com",
+    "emails": [
+      "gktravelliverpool@gmail.com"
+    ],
+    "description": "With highly competitive prices, friendly and fully qualified drivers and our completely reliable minibuses, your peace of mind and enjoyment are guaranteed.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Occasion Cars",
@@ -863,8 +1210,17 @@
     "types": "Limousine service",
     "lat": 53.053358,
     "lng": -2.505773,
-    "found_in_location": "Nantwich",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Crewe",
+    "found_with_query": "limo northwest",
+    "email": "info@occasioncars.co.uk",
+    "emails": [
+      "info@occasioncars.co.uk"
+    ],
+    "description": "Occasion Cars offers chauffeur driven classic cars for weddings and events in Cheshire, Staffordshire, Shropshire and North Wales. Two 1940's cars are available with a personal service guaranteed",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage"
+    ]
   },
   {
     "name": "Electric Dreams",
@@ -876,7 +1232,7 @@
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 53.211742,
     "lng": -2.920366,
@@ -910,7 +1266,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.194443,
     "lng": -2.840221,
@@ -978,12 +1334,17 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.45325,
     "lng": -2.632537,
-    "found_in_location": "Newton-le-Willows",
-    "found_with_query": "limo northwest"
+    "found_in_location": "St Helens",
+    "found_with_query": "limo northwest",
+    "email": "contact@wayfarers-travel.co.uk",
+    "emails": [
+      "contact@wayfarers-travel.co.uk"
+    ],
+    "description": "At Wayfarers Travel we travel the whole of the country from our base here in Newton Le Willows near Warrington."
   },
   {
     "name": "Andys Bus Company",
@@ -1012,7 +1373,7 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20139\u202fpm\"],\"Monday\":[\"10\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"10\u202fam\u20139\u202fpm\"],\"Thursday\":[\"10\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"10 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"10 am–9 pm\"],\"Tuesday\":[\"10 am–9 pm\"],\"Wednesday\":[\"10 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.702804,
     "lng": -2.799953,
@@ -1033,8 +1394,22 @@
     "types": "Limousine service",
     "lat": 53.402274,
     "lng": -2.329373,
-    "found_in_location": "Altrincham",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Salford",
+    "found_with_query": "limo northwest",
+    "email": "support@theweddingcarhirepeople.co.uk",
+    "emails": [
+      "support@theweddingcarhirepeople.co.uk"
+    ],
+    "description": "Wedding Cars Cheshire. Get a Free Instant Quote Today! 900+ 5 Star Reviews! Hire Classic, Vintage & Modern Cars From Your Local Cheshire Supplier. Book & Pay Securely Online.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Dallingers Of Wallasey Wedding Cars",
@@ -1046,12 +1421,13 @@
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u20133\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5 pm\"],\"Monday\":[\"9:30 am–5 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5 pm\"],\"Tuesday\":[\"9:30 am–5 pm\"],\"Wednesday\":[\"9:30 am–5 pm\"]}",
     "types": "Wedding service",
     "lat": 53.417654,
     "lng": -3.029061,
-    "found_in_location": "Wallasey",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "description": "White Wedding cars available throughout, Wirral and Merseyside. Selection of Rolls Royce, Daimler and Mercedes Limousines"
   },
   {
     "name": "North West Prestige Travel",
@@ -1063,12 +1439,24 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–6:30 pm\"],\"Sunday\":[\"9 am–6:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Limousine service",
     "lat": 53.595409,
     "lng": -2.444567,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "hayley@northwestprestigetravel.com",
+    "emails": [
+      "hayley@northwestprestigetravel.com"
+    ],
+    "description": "North West Prestige Travel offer a comprehensive fleet of stretched limousines and wedding cars for hire across The North West of England.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo hire in Warrington",
@@ -1080,7 +1468,7 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.405172,
     "lng": -2.628741,
@@ -1119,7 +1507,15 @@
     "lat": 53.482637,
     "lng": -2.632283,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bryfaz@yahoo.co.uk",
+    "emails": [
+      "bryfaz@yahoo.co.uk"
+    ],
+    "description": "Whether you are going on holiday with your family or arranging a business trip, we understand booking transport for a group can be a nightmare.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Cheshire Limousines",
@@ -1131,11 +1527,11 @@
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20138\u202fpm\"],\"Monday\":[\"10\u202fam\u20138\u202fpm\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–8 pm\"],\"Monday\":[\"10 am–8 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–8 pm\"],\"Tuesday\":[\"10 am–8 pm\"],\"Wednesday\":[\"10 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.232062,
     "lng": -2.409388,
-    "found_in_location": "Middlewich",
+    "found_in_location": "Crewe",
     "found_with_query": "limo northwest"
   },
   {
@@ -1170,7 +1566,16 @@
     "lat": 53.482006,
     "lng": -2.146076,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "hire@whiteweddingcars.co.uk",
+    "emails": [
+      "hire@whiteweddingcars.co.uk"
+    ],
+    "description": "Manchester’s classic white wedding car hire has offices in Manchester and Chester. From both depots we cover all areas of Manchester, Cheshire, Chester and the Wirral.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Cars Clouds Wedding",
@@ -1199,12 +1604,24 @@
     "rating": 4.9,
     "total_reviews": 378,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201310\u202fpm\"],\"Monday\":[\"10\u202fam\u201310\u202fpm\"],\"Saturday\":[\"10\u202fam\u201310\u202fpm\"],\"Sunday\":[\"10\u202fam\u201310\u202fpm\"],\"Thursday\":[\"10\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–10 pm\"],\"Monday\":[\"10 am–10 pm\"],\"Saturday\":[\"10 am–10 pm\"],\"Sunday\":[\"10 am–10 pm\"],\"Thursday\":[\"10 am–10 pm\"],\"Tuesday\":[\"10 am–10 pm\"],\"Wednesday\":[\"10 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.470015,
     "lng": -2.191769,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@ajlimos.co.uk",
+    "emails": [
+      "info@ajlimos.co.uk"
+    ],
+    "description": "Limousine Hire Manchester, Limo Hire Manchester, Wedding limousines Manchester, Wedding cars Manchester. Bentley wedding cars, Rolls Royce Phantom Hire.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Empire Luxury",
@@ -1216,12 +1633,25 @@
     "rating": 4.9,
     "total_reviews": 270,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201312:30\u202fam\"],\"Monday\":[\"10\u202fam\u201312:30\u202fam\"],\"Saturday\":[\"10\u202fam\u201312:30\u202fam\"],\"Sunday\":[\"10\u202fam\u201312:30\u202fam\"],\"Thursday\":[\"10\u202fam\u201312:30\u202fam\"],\"Tuesday\":[\"10\u202fam\u201312:30\u202fam\"],\"Wednesday\":[\"10\u202fam\u201312:30\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–12:30 am\"],\"Monday\":[\"10 am–12:30 am\"],\"Saturday\":[\"10 am–12:30 am\"],\"Sunday\":[\"10 am–12:30 am\"],\"Thursday\":[\"10 am–12:30 am\"],\"Tuesday\":[\"10 am–12:30 am\"],\"Wednesday\":[\"10 am–12:30 am\"]}",
     "types": "Car rental company",
     "lat": 53.594305,
     "lng": -2.173122,
     "found_in_location": "Rochdale",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "empireluxury123@gmail.com",
+    "emails": [
+      "empireluxury123@gmail.com"
+    ],
+    "description": "At Empire Luxury we pride ourselves on client satisfaction, which is why we offer a superb selection of vehicles at fantastic value for money.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire"
+    ]
   },
   {
     "name": "Westfield Minibuses",
@@ -1238,7 +1668,17 @@
     "lat": 53.412537,
     "lng": -2.172133,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@westfield-minibuses.co.uk",
+    "emails": [
+      "info@westfield-minibuses.co.uk",
+      "quotes@westfield-minibuses.co.uk",
+      "info@westfieldservicestation.co.uk"
+    ],
+    "description": "Westfield Minibuses offers reliable minibus hire services, including 8 - 16 seater minibuses and coach hire in Stockport and Manchester for all occasions.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "The Fun Experts",
@@ -1250,16 +1690,17 @@
     "rating": 4.9,
     "total_reviews": 242,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Event Planning Service",
     "lat": 53.761383,
     "lng": -2.752736,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Specialists in delivering Corporate Events, Family Fun Days, Exhibitions & Christmas Parties since 2003, The Fun Experts® formerly Sunshine Events provide a 5* service."
   },
   {
     "name": "ACES Rolls Royce Hire Manchester",
-    "address": "\u2752 Lyntown trading estate, 174-176 Old Wellington Rd, Eccles, Manchester, M30 9FU, GB",
+    "address": "❒ Lyntown trading estate, 174-176 Old Wellington Rd, Eccles, Manchester, M30 9FU, GB",
     "phone": "07572 474081",
     "international_phone": "07572 474081",
     "website": "http://acescarhire.co.uk/",
@@ -1272,7 +1713,18 @@
     "lat": 53.486233,
     "lng": -2.34597,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@acescarhire.co.uk",
+    "emails": [
+      "info@acescarhire.co.uk"
+    ],
+    "description": "Welcome to Aces Car Hire, recognized as the best Rolls Royce provider in the Northwest. Your premier destination for Rolls Royce chauffeur hire services, proudly serving Manchester.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Legend Executive Chauffeurs Manchester",
@@ -1289,7 +1741,19 @@
     "lat": 53.567715,
     "lng": -2.312192,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@legendexecutive.co.uk",
+    "emails": [
+      "info@legendexecutive.co.uk"
+    ],
+    "description": "We are a Manchester Chauffeur Company that provides Airport Transfer Services from Manchester to Heathrow, Liverpool, Stockport & Cheshire. 01617061617",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "SK Executive Chauffeurs",
@@ -1306,7 +1770,14 @@
     "lat": 53.368012,
     "lng": -2.073463,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "SK Executive provides a first class Manchester chauffeur service from £70. Mercedes S Class & V Class vehicles & smart, friendly chauffeurs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "M16 Cars",
@@ -1323,7 +1794,16 @@
     "lat": 53.456302,
     "lng": -2.264514,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bookings@m16cars.com",
+    "emails": [
+      "bookings@m16cars.com"
+    ],
+    "description": "M16 Cars offers professional taxi and private hire services in Manchester and beyond. Book your ride online for airports, events, and local journeys. Available 24/7.",
+    "services": [
+      "Airport Transfer",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Atlantic Limos - Minibus, Party Bus & Limousine Hire Bolton",
@@ -1335,12 +1815,18 @@
     "rating": 4.9,
     "total_reviews": 121,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"11:30\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"12–9 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"11:30 am–11:30 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.567026,
     "lng": -2.427333,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Welcome to Atlantic Limos, The UK’s number 1 provider of Buses and Limos for hire in Bolton. Hire 24/7 party buses for any occasion. Get a quote!",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Party Bus"
+    ]
   },
   {
     "name": "HHS Luxury ~ Executive & Corporate Chauffeurs",
@@ -1352,12 +1838,22 @@
     "rating": 4.9,
     "total_reviews": 74,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.45174,
     "lng": -2.99423,
-    "found_in_location": "Bootle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "info@hhsluxury.co.uk",
+    "emails": [
+      "info@hhsluxury.co.uk"
+    ],
+    "description": "Premier Liverpool chauffeur service for executive and corporate travel. Experience the best luxury and seamless travel with Harrisons of Liverpool. Book now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Barringtons Wedding Cars",
@@ -1369,12 +1865,24 @@
     "rating": 4.9,
     "total_reviews": 65,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"10\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6:30 pm\"],\"Monday\":[\"9:30 am–6:30 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–6:30 pm\"],\"Tuesday\":[\"9:30 am–6:30 pm\"],\"Wednesday\":[\"9:30 am–6:30 pm\"]}",
     "types": "Wedding service",
     "lat": 53.449492,
     "lng": -2.986056,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@barringtonscars.co.uk",
+    "emails": [
+      "info@barringtonscars.co.uk",
+      "barringtonscars@gmail.com"
+    ],
+    "description": "Your wedding day is one of the most memorable moments in your life, and every detail counts. From the dress to the venue, each element contributes to creating the perfect atmosphere.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "J&A Travel",
@@ -1391,7 +1899,15 @@
     "lat": 53.401595,
     "lng": -2.177072,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@jandatravel.co.uk",
+    "emails": [
+      "info@jandatravel.co.uk"
+    ],
+    "description": "We provide affordable transport solutions throughout the UK, featuring reliable minibus and coach hire and outstanding coach travel services.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Horgans PTP Wedding Cars - Wedding Cars Greater Manchester",
@@ -1403,12 +1919,17 @@
     "rating": 4.9,
     "total_reviews": 42,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20136\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"10\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"12\u20138\u202fpm\"],\"Wednesday\":[\"Closed\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"12–8 pm\"],\"Wednesday\":[\"Closed\"]}",
     "types": "Transportation service",
     "lat": 53.381746,
     "lng": -2.348957,
-    "found_in_location": "Altrincham",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Salford",
+    "found_with_query": "limo northwest",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Stagfactory",
@@ -1420,12 +1941,21 @@
     "rating": 4.9,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"10\u202fam\u201310\u202fpm\"],\"Sunday\":[\"10\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"10 am–10 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.419445,
     "lng": -2.238988,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@stagfactory.com",
+    "emails": [
+      "info@stagfactory.com"
+    ],
+    "description": "Stag Do Ideas UK with Amazing Stag Do Activities Limo Hire, Party Bus, Stripper Limos in Every City. The Best Stag Do Ideas & Activities.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus"
+    ]
   },
   {
     "name": "Broughton Wedding Cars",
@@ -1442,7 +1972,18 @@
     "lat": 53.784984,
     "lng": -2.768225,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@broughtonweddingcars.co.uk",
+    "emails": [
+      "info@broughtonweddingcars.co.uk"
+    ],
+    "description": "Broughton Wedding Cars, wedding car hire, Preston, Lancashire and the Northwest. Luxury wedding car hire, cars complete with ribbon and floral decoration",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Airlink Direct",
@@ -1459,7 +2000,11 @@
     "lat": 53.482726,
     "lng": -2.993005,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Need a Lift? At Airlink we provide reliable airport transfers Liverpool. ✓ Minibus Hire Liverpool ✓ Cheapest in Merseyside. Call us: ☎ 0151 280 0350",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "TravelSwift Ltd",
@@ -1476,7 +2021,18 @@
     "lat": 53.769317,
     "lng": -2.702174,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sales@travelswift.co.uk",
+    "emails": [
+      "sales@travelswift.co.uk",
+      "%20sales@travelswift.co.uk"
+    ],
+    "description": "We offer transportation for every occasion, from weddings and group tours to party buses and funeral services.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Wedding Car"
+    ]
   },
   {
     "name": "BK Executive Chauffeur Service",
@@ -1492,8 +2048,12 @@
     "types": "Limousine service",
     "lat": 53.487907,
     "lng": -2.098341,
-    "found_in_location": "Ashton-under-Lyne",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Oldham",
+    "found_with_query": "limo northwest",
+    "description": "First-class executive chauffeur services for business and leisure. Luxury fleet including Mercedes S-Class, BMW 7 Series. Available 24/7 across Manchester, Cheshire and the UK.",
+    "services": [
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Zenith Classics Ltd",
@@ -1510,7 +2070,13 @@
     "lat": 53.602088,
     "lng": -2.585748,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sales@zenithclassics.co.uk",
+    "emails": [
+      "sales@zenithclassics.co.uk",
+      "info@website.com"
+    ],
+    "description": "Explore premium used hearses, limousines, and first call vehicles from Zenith Classics. Over 25 years of trusted family-run service in the UK funeral vehicle market."
   },
   {
     "name": "Booker Limousine Hire",
@@ -1522,12 +2088,26 @@
     "rating": 4.9,
     "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"10\u202fam\u20139\u202fpm\"],\"Sunday\":[\"2\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"2–8 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.490401,
     "lng": -2.163941,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bookerlimo@gmail.com",
+    "emails": [
+      "bookerlimo@gmail.com"
+    ],
+    "description": "For Limo Hire Manchester, Hummer Hire or Wedding Cars, Call Us. We offer Cheap Limousine Hire Services at prices that you can afford for your next event. Free & Fast Quote",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "VIP LIMOUSINES LIMITED",
@@ -1539,12 +2119,24 @@
     "rating": 4.9,
     "total_reviews": 7,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Limousine service",
     "lat": 53.520156,
     "lng": -2.10932,
     "found_in_location": "Oldham",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "viplimousines@mail.com",
+    "emails": [
+      "viplimousines@mail.com"
+    ],
+    "description": "Experience unparalleled elegance with VIP Limousines. Professional chauffeur-driven services across Manchester and the North West.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Westwood Motor Group",
@@ -1556,12 +2148,18 @@
     "rating": 4.8,
     "total_reviews": 462,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
     "types": "Van rental agency",
     "lat": 53.541141,
     "lng": -2.600163,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sales@westwoodmotorgroup.co.uk",
+    "emails": [
+      "sales@westwoodmotorgroup.co.uk",
+      "rental@westwoodmotorgroup.co.uk"
+    ],
+    "description": "Westwood Motor Group - The biggest and the best, in Wigan, Bolton and beyond. Close to 3,000 vehicles on our fleet and the lowest prices anywhere!"
   },
   {
     "name": "Sky Coaches Manchester",
@@ -1595,7 +2193,17 @@
     "lat": 53.420001,
     "lng": -2.995084,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@hollywoodcars.co.uk",
+    "emails": [
+      "info@hollywoodcars.co.uk"
+    ],
+    "description": "We provide luxury for less with chauffeur-driven Limo, Party Bus and more to make any occasion extra special, covering the whole of the North West and providing excellent customer service for over 25 years - Every customer is treated like a movie star!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Liverpool Chauffeurs Ltd",
@@ -1607,12 +2215,22 @@
     "rating": 4.8,
     "total_reviews": 102,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"8\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20132\u202fpm\"],\"Sunday\":[\"8:30\u202fam\u201312\u202fpm\"],\"Thursday\":[\"8\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6:30 pm\"],\"Monday\":[\"8 am–6:30 pm\"],\"Saturday\":[\"8:30 am–2 pm\"],\"Sunday\":[\"8:30 am–12 pm\"],\"Thursday\":[\"8 am–6:30 pm\"],\"Tuesday\":[\"8 am–6:30 pm\"],\"Wednesday\":[\"8 am–6:30 pm\"]}",
     "types": "Chauffeur service",
     "lat": 53.46723,
     "lng": -3.020281,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "admin@liverpoolchauffeurs.ltd",
+    "emails": [
+      "admin@liverpoolchauffeurs.ltd",
+      "contact@smartservicesltd.com"
+    ],
+    "description": "Based in the heart of the City, Liverpool Chauffeurs Limited offer corporate and business travel solutions to companies throughout the Liverpool City Region. We offer the same attention to detail to all of our clients and pride ourselves on our exacting standards. We also offer private,...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "The Empty Space",
@@ -1624,12 +2242,21 @@
     "rating": 4.8,
     "total_reviews": 99,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201311\u202fpm\"],\"Monday\":[\"8\u202fam\u201311\u202fpm\"],\"Saturday\":[\"8\u202fam\u201311\u202fpm\"],\"Sunday\":[\"1\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–11 pm\"],\"Monday\":[\"8 am–11 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"1–9 pm\"],\"Thursday\":[\"8 am–11 pm\"],\"Tuesday\":[\"8 am–11 pm\"],\"Wednesday\":[\"8 am–11 pm\"]}",
     "types": "Events Venue",
     "lat": 53.477971,
     "lng": -2.298555,
-    "found_in_location": "Media City",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Salford",
+    "found_with_query": "limo northwest",
+    "email": "info@theemptyspace.live",
+    "emails": [
+      "info@theemptyspace.live",
+      "bookings@theemptyspace.live"
+    ],
+    "description": "The Empty Space Theatre; a black box venue available for hire. We offer substantial space for performers and audiences but retain an intimate feel.",
+    "services": [
+      "Rolls Royce"
+    ]
   },
   {
     "name": "Atlas Luxury Mini Buses",
@@ -1646,7 +2273,15 @@
     "lat": 53.592748,
     "lng": -2.427848,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiries@atlasminibuses.co.uk",
+    "emails": [
+      "enquiries@atlasminibuses.co.uk",
+      "bookings@atlasminibuses.co.uk"
+    ],
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Minibus Manchester",
@@ -1663,7 +2298,16 @@
     "lat": 53.467619,
     "lng": -2.285436,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@minibusmanchester.net",
+    "emails": [
+      "info@minibusmanchester.net",
+      "info@minibusmanchester.ne"
+    ],
+    "description": "Manchester minibus hire offering minibus with driver luxury and executive minibus Greater Manchester. Manchester minibus offers 8 to 16 seats .call Minibus Manchester now.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "British Blue Tours",
@@ -1679,8 +2323,16 @@
     "types": "Coach and minibus hire",
     "lat": 53.36578,
     "lng": -3.065372,
-    "found_in_location": "Wirral",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "office@bbtours.co.uk",
+    "emails": [
+      "office@bbtours.co.uk"
+    ],
+    "description": "British Blue Tours - A bus and coach company based in the heart of Merseyside on Duke Street Birkenhead. With 1 to 53 passenger seats we can cover all of your transport needs, whether it's airport transfers, private hire or corporate staff transfers.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Destiny Wedding Cars",
@@ -1692,12 +2344,21 @@
     "rating": 4.8,
     "total_reviews": 44,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 53.690524,
     "lng": -2.740897,
-    "found_in_location": "Leyland",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Chorley",
+    "found_with_query": "limo northwest",
+    "email": "info@destinyweddingcars.co.uk",
+    "emails": [
+      "info@destinyweddingcars.co.uk"
+    ],
+    "description": "Destiny Wedding Cars Vintage Classic Leyland Lancashire weddings cars bride groom ceremony preston chorley blackpool lytham bamber bridge lostock hall north west bridal",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Liverpool limos & wedding cars",
@@ -1709,12 +2370,25 @@
     "rating": 4.8,
     "total_reviews": 25,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u201310\u202fpm\"],\"Monday\":[\"8\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"8\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"8\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–10 pm\"],\"Monday\":[\"8 am–10 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"8 am–10 pm\"],\"Tuesday\":[\"8 am–10 pm\"],\"Wednesday\":[\"8 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.473276,
     "lng": -2.961897,
-    "found_in_location": "Bootle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "alloccasionslimousines@outlook.com",
+    "emails": [
+      "alloccasionslimousines@outlook.com"
+    ],
+    "description": "Want to Arrive in Style we make your experience nice and easy Family run business established 20+ years the inspiration comes standard Unforgettable experience!! a limousine for everyone Airport Transfers We will provide luxury Limo Hire from Liverpool Airport. Hen or Stag Party We will provide...",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Lamont Wedding Cars",
@@ -1726,12 +2400,22 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"8\u202fam\u20138\u202fpm\"],\"Sunday\":[\"8\u202fam\u20138\u202fpm\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Car rental company",
     "lat": 53.387021,
     "lng": -2.747445,
-    "found_in_location": "Widnes",
-    "found_with_query": "limo northwest"
+    "found_in_location": "St Helens",
+    "found_with_query": "limo northwest",
+    "email": "lamontweddingcars@yahoo.com",
+    "emails": [
+      "lamontweddingcars@yahoo.com"
+    ],
+    "description": "Lamont Wedding Cars: A beautiful selection of modern and vintage wedding cars for hire in Liverpool and the surrounding area. Call 07921 992 988 today.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Classic Bridal Cars",
@@ -1743,12 +2427,18 @@
     "rating": 4.8,
     "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Wedding service",
     "lat": 53.34836,
     "lng": -3.023471,
-    "found_in_location": "Wirral",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "description": "We are a privately owned, small family-run business based in Bebington on the Wirral and provide elegant Bridal Cars covering Wirral & Cheshire.",
+    "services": [
+      "Bentley",
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Heritage Motors - Wedding Cars",
@@ -1760,12 +2450,21 @@
     "rating": 4.8,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20138\u202fpm\"],\"Monday\":[\"9\u202fam\u20138\u202fpm\"],\"Saturday\":[\"9\u202fam\u20138\u202fpm\"],\"Sunday\":[\"9\u202fam\u20138\u202fpm\"],\"Thursday\":[\"9\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"9 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
     "types": "Wedding service",
     "lat": 53.389083,
     "lng": -2.87406,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "hmotors@btinternet.com",
+    "emails": [
+      "hmotors@btinternet.com"
+    ],
+    "description": "Wedding cars for hire at affordable prices. Availability for Liverpool, Merseyside, Wirral, St. Helens, Knowsley, Sefton etc. Tel: 0151-428-2960 or 07906071289",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Let's Travel with Balmoral",
@@ -1777,12 +2476,17 @@
     "rating": 4.8,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.458413,
     "lng": -2.983309,
-    "found_in_location": "Bootle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "letstravel@btconnect.com",
+    "emails": [
+      "letstravel@btconnect.com"
+    ],
+    "description": "Telephone:0151 922 3100| Email:letstravel@btconnect.com"
   },
   {
     "name": "BusyBus Liverpool",
@@ -1799,7 +2503,12 @@
     "lat": 53.409476,
     "lng": -2.980967,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@busybus.co.uk",
+    "emails": [
+      "info@busybus.co.uk"
+    ],
+    "description": "All tours available to book from one place. Choose your start location then the tour of choice. Don't forget to add the promo code when asked"
   },
   {
     "name": "PartyZone Liverpool",
@@ -1811,12 +2520,17 @@
     "rating": 4.7,
     "total_reviews": 38,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Event Planning Service",
     "lat": 53.442789,
     "lng": -2.988133,
-    "found_in_location": "Bootle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Liverpool",
+    "found_with_query": "limo northwest",
+    "email": "partyzoneliverpool@gmail.com",
+    "emails": [
+      "partyzoneliverpool@gmail.com"
+    ],
+    "description": "PartyZone Liverpool - Balloons & Events. Party Hire, venue dressing and party packages for any wedding, party or event in Merseyside. DJ, 360, Magic Mirror, Photobooths, LED Dance Floors and lots more..."
   },
   {
     "name": "S Class Cars",
@@ -1833,7 +2547,18 @@
     "lat": 53.794605,
     "lng": -3.027669,
     "found_in_location": "Blackpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sclasscars@hotmail.co.uk",
+    "emails": [
+      "sclasscars@hotmail.co.uk"
+    ],
+    "description": "Wedding Cars Blackpool & Preston , Executive Chauffeur Service , Executive Cars , Airport Transfers & Prom Car Hire . Arrive in style with your own Personal Chauffeur available for Any Occasion call today 01253 310776",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bespoked Wedding Cars",
@@ -1845,12 +2570,17 @@
     "rating": 4.7,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.19539,
     "lng": -3.195184,
-    "found_in_location": "Mold",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Chester",
+    "found_with_query": "limo northwest",
+    "description": "Vintage and Classic Wedding Cars servicing North Wales, The Wirral and Cheshire",
+    "services": [
+      "Classic & Vintage",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Englands Minibuses",
@@ -1867,7 +2597,17 @@
     "lat": 53.657274,
     "lng": -2.608695,
     "found_in_location": "Chorley",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "hello@englandsminibuses.co.uk",
+    "emails": [
+      "hello@englandsminibuses.co.uk"
+    ],
+    "description": "Englands Minibus Hire Chorley, Lancashire. Chauffeur driven minibuses for airport transfers, events, corporate travel & group transport.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Liverpool City Sights Tour Bus",
@@ -1879,12 +2619,13 @@
     "rating": 4.6,
     "total_reviews": 553,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20134\u202fpm\"],\"Monday\":[\"10\u202fam\u20134\u202fpm\"],\"Saturday\":[\"10\u202fam\u20134\u202fpm\"],\"Sunday\":[\"10\u202fam\u20134\u202fpm\"],\"Thursday\":[\"10\u202fam\u20134\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20134\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20134\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
     "types": "Sightseeing Tour Agency",
     "lat": 53.39959,
     "lng": -2.989498,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Explore the best of Liverpool with our City & Beatles Tour or Hop On, Hop Off City Tour. Live commentary, music, and major attractions await. Book now!"
   },
   {
     "name": "Hemsley House",
@@ -1896,12 +2637,17 @@
     "rating": 4.6,
     "total_reviews": 101,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u201311\u202fpm\"],\"Monday\":[\"10\u202fam\u201311\u202fpm\"],\"Saturday\":[\"11:30\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"11:30\u202fam\u201311\u202fpm\"],\"Thursday\":[\"10\u202fam\u201311\u202fpm\"],\"Tuesday\":[\"10\u202fam\u201311\u202fpm\"],\"Wednesday\":[\"10\u202fam\u201311\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–11 pm\"],\"Monday\":[\"10 am–11 pm\"],\"Saturday\":[\"11:30 am–11:30 pm\"],\"Sunday\":[\"11:30 am–11 pm\"],\"Thursday\":[\"10 am–11 pm\"],\"Tuesday\":[\"10 am–11 pm\"],\"Wednesday\":[\"10 am–11 pm\"]}",
     "types": "Events Venue",
     "lat": 53.483321,
     "lng": -2.270255,
     "found_in_location": "Salford",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiries@hemsley-house.co.uk",
+    "emails": [
+      "enquiries@hemsley-house.co.uk"
+    ],
+    "description": "Hemlsey House is the perfect space to host your next event. We can help you with you weddings, birthdays, life celebrations, conferences and meetings. We have all inclusive packages to suit most budgets."
   },
   {
     "name": "Big Slo Limo Co. Ltd",
@@ -1913,12 +2659,24 @@
     "rating": 4.6,
     "total_reviews": 59,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"8:30\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.578059,
     "lng": -2.357151,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Big Slo Limo Co. Ltd provides limousine hire in Manchester, Blackpool, Bury, Bolton, Liverpool and surrounding areas. Vehicle fleet includes 16 seater Hummers, pink limos, Baby Bentleys and Bentley Arnage wedding car.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "BusyBus Chester",
@@ -1935,7 +2693,12 @@
     "lat": 53.196451,
     "lng": -2.880819,
     "found_in_location": "Chester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@busybus.co.uk",
+    "emails": [
+      "info@busybus.co.uk"
+    ],
+    "description": "All tours available to book from one place. Choose your start location then the tour of choice. Don't forget to add the promo code when asked"
   },
   {
     "name": "Elite Filming",
@@ -1947,12 +2710,17 @@
     "rating": 4.6,
     "total_reviews": 24,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10\u202fam\u20135\u202fpm\"],\"Monday\":[\"10\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"10\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"10\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
     "types": "Wedding photographer",
     "lat": 53.483067,
     "lng": -2.216341,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "elitefilminguk@gmail.com",
+    "emails": [
+      "elitefilminguk@gmail.com"
+    ],
+    "description": "https://youtu.be/If2VKWYRQdM LUXURIOUS & TIMELESS​ Asian Wedding Photography & Cinematography​ Get in touch Creative Spark At Elite Filming, we create handcrafted cinematic wedding films designed to feel timeless, personal and emotionally powerful.Every wedding is unique. Our role is to capture..."
   },
   {
     "name": "UK Minibuses Travel",
@@ -1969,7 +2737,16 @@
     "lat": 53.46983,
     "lng": -2.275334,
     "found_in_location": "Salford",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@ukminibusestravel.co.uk",
+    "emails": [
+      "info@ukminibusestravel.co.uk"
+    ],
+    "description": "Need a reliable airport taxi? Get fast, safe & affordable rides 24/7. On-time pickups, professional drivers & easy online booking. Book your ride now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Limo-scene & Wedding Cars",
@@ -1981,12 +2758,28 @@
     "rating": 4.6,
     "total_reviews": 10,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20136\u202fpm\"],\"Thursday\":[\"12\u20137:30\u202fam\",\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201312\u202fam\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"12–7:30 am\",\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–12 am\"]}",
     "types": "Limousine service",
     "lat": 53.524011,
     "lng": -2.49227,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@limo-sceneuk.co.uk",
+    "emails": [
+      "info@limo-sceneuk.co.uk"
+    ],
+    "description": "Limo hire Manchester - Stunning, luxury Hummer and Chrysler limos availble to hire at great prices in Manchester, Liverpool, Chester. Save £££ book today!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Rolls Royce Hire Manchester",
@@ -1998,12 +2791,23 @@
     "rating": 4.6,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
     "types": "Limousine service",
     "lat": 53.481239,
     "lng": -2.242567,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@acescarhire.co.uk",
+    "emails": [
+      "info@acescarhire.co.uk"
+    ],
+    "description": "Welcome to Aces Car Hire, recognized as the best Rolls Royce provider in the Northwest. Your premier destination for Rolls Royce chauffeur hire services, proudly serving Manchester.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Manchester River Cruises",
@@ -2015,12 +2819,17 @@
     "rating": 4.5,
     "total_reviews": 463,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Boat tour agency",
     "lat": 53.470051,
     "lng": -2.295283,
     "found_in_location": "Salford",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@manchesterrivercruises.com",
+    "emails": [
+      "info@manchesterrivercruises.com"
+    ],
+    "description": "Manchester River Cruises, tour the Salford Quays and the River Irwell or join one of the amazing live music events."
   },
   {
     "name": "Bullocks Coaches",
@@ -2032,12 +2841,13 @@
     "rating": 4.5,
     "total_reviews": 95,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.395395,
     "lng": -2.208754,
-    "found_in_location": "Cheadle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Stockport",
+    "found_with_query": "limo northwest",
+    "description": "If you see this page, the nginx web server is successfully installed and working. Further configuration is required."
   },
   {
     "name": "Anthony's Travel",
@@ -2053,8 +2863,13 @@
     "types": "Bus company",
     "lat": 53.337975,
     "lng": -2.744952,
-    "found_in_location": "Runcorn",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Warrington",
+    "found_with_query": "limo northwest",
+    "email": "enquiries@anthonys-travel.co.uk",
+    "emails": [
+      "enquiries@anthonys-travel.co.uk"
+    ],
+    "description": "Anthony's Travel are an award winning coach hire company based in Cheshire - we offer a range of fully serviced coaches throughout the UK at great prices."
   },
   {
     "name": "Roys Limousines & Wedding Cars",
@@ -2066,12 +2881,26 @@
     "rating": 4.5,
     "total_reviews": 26,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201310\u202fpm\"],\"Monday\":[\"9\u202fam\u201310\u202fpm\"],\"Saturday\":[\"9\u202fam\u201310\u202fpm\"],\"Sunday\":[\"9\u202fam\u201310\u202fpm\"],\"Thursday\":[\"9\u202fam\u201310\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201310\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201310\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
     "types": "Limousine service",
     "lat": 53.447437,
     "lng": -2.189596,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bookerlimo@gmail.com",
+    "emails": [
+      "bookerlimo@gmail.com"
+    ],
+    "description": "For Limo Hire Manchester, Hummer Hire or Wedding Cars, Call Us. We offer Cheap Limousine Hire Services at prices that you can afford for your next event. Free & Fast Quote",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "FS Minibuses",
@@ -2088,7 +2917,15 @@
     "lat": 53.733934,
     "lng": -2.717726,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "fsminibuses@gmail.com",
+    "emails": [
+      "fsminibuses@gmail.com"
+    ],
+    "description": "FS MINIBUSES – PRESTON MINIBUSES\"FS Minibuses\" Preston Minibuses: Our fleet of minibuses is modern and consist of vehicles of 2012 and 2014, Euro 5, Echo Friendly, Fully Insured and ready for good service vehicles. We offer different type of vehicles to suit the needs of the group, so we can...",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Earls Limousines Ltd",
@@ -2100,12 +2937,19 @@
     "rating": 4.5,
     "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.363695,
     "lng": -2.626923,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Looking for a limousine to hire? Earls Limousines is one of Manchester & the North West's leading Limos providers offers high quality services and luxury cars to meet your needs. Call us free on 0800 288 8746",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Buile Hill Park Hall",
@@ -2117,12 +2961,17 @@
     "rating": 4.4,
     "total_reviews": 211,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7\u202fam\u20135\u202fpm\"],\"Monday\":[\"7\u202fam\u20135\u202fpm\"],\"Saturday\":[\"10\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"7\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"7\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"10 am–11:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Wedding venue",
     "lat": 53.490465,
     "lng": -2.306115,
     "found_in_location": "Salford",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "venuesinsalford@salford.gov.uk",
+    "emails": [
+      "venuesinsalford@salford.gov.uk"
+    ],
+    "description": "Buile Hill Park Hall features two suites that are available for hire for your event. It is set in the stunning surroundings of the 87 acre Buile Hill Park. Parking is available next to the hall for 30 vehicles and there is a large public car park close to the park entrance."
   },
   {
     "name": "STS Cars Ltd",
@@ -2139,7 +2988,18 @@
     "lat": 53.466235,
     "lng": -2.267887,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "admin@stscars.co.uk",
+    "emails": [
+      "admin@stscars.co.uk",
+      "bookings@stscars.co.uk",
+      "accounts@stscars.co.uk"
+    ],
+    "description": "One of the leading Manchesters Premier Taxi and Airport Transfer Company assures you to have the most comfortable and luxurious travel experience.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "ABC Coach Ltd",
@@ -2151,12 +3011,22 @@
     "rating": 4.4,
     "total_reviews": 80,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20135\u202fpm\"],\"Monday\":[\"8\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.511671,
     "lng": -2.325474,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@abccoachhire.co.uk",
+    "emails": [
+      "info@abccoachhire.co.uk",
+      "info@abcoachhire.co.uk"
+    ],
+    "description": "Est 30 Years | Modern Fleet, High Specification, Safe & Reliable Coach & Minibus Hire for Day Trips, Schools, Tours, Business | BEST PRICES! | 0161 794 0033 | Get a Quote For Coach Hire Manchester",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Travel Master MCR Ltd",
@@ -2173,7 +3043,13 @@
     "lat": 53.426644,
     "lng": -2.383334,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Travel Master are Manchester's Premier Coach, Midicoach & Minibus Hire Company supplying first class yet affordable services throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Prom Transport",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Ashcrofts Mini Travel",
@@ -2185,12 +3061,21 @@
     "rating": 4.4,
     "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Monday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9:15\u202fam\u20132\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9:15\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9:15\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:15 am–5 pm\"],\"Monday\":[\"9:15 am–5 pm\"],\"Saturday\":[\"9:15 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:15 am–5 pm\"],\"Tuesday\":[\"9:15 am–5 pm\"],\"Wednesday\":[\"9:15 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.483194,
     "lng": -2.593435,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiries@ashcroftsminitravel.co.uk",
+    "emails": [
+      "enquiries@ashcroftsminitravel.co.uk",
+      "%20enquiries@ashcroftsminitravel.co.uk"
+    ],
+    "description": "Coach & Minibus Hire in Warrington, Wigan, Leigh & Other Districts. Get a quote online or call 01942 717918 with your travel requirements.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Sure and Safe Minibus Service Limited",
@@ -2202,12 +3087,20 @@
     "rating": 4.4,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30\u202fam\u20139\u202fpm\"],\"Monday\":[\"6:30\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20132\u202fam\"],\"Sunday\":[\"12\u20139\u202fpm\"],\"Thursday\":[\"6:30\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"6:30\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"6:30\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"6:30 am–9 pm\"],\"Monday\":[\"6:30 am–9 pm\"],\"Saturday\":[\"9 am–2 am\"],\"Sunday\":[\"12–9 pm\"],\"Thursday\":[\"6:30 am–9 pm\"],\"Tuesday\":[\"6:30 am–9 pm\"],\"Wednesday\":[\"6:30 am–9 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.42086,
     "lng": -2.513705,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@sureandsafe.com",
+    "emails": [
+      "info@sureandsafe.com"
+    ],
+    "description": "Established in 1999 Sure and Safe pride ourselves with offering a safe, reliable and inexpensive minibus hire service in Warrington.When taking out minibus hire from us you can be assured to receive a first class service, from booking your trip to your day/night out with us.Our Motto is\"Sure to...",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "MTS Chauffeur Service Manchester",
@@ -2224,7 +3117,18 @@
     "lat": 53.477224,
     "lng": -2.233467,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@mtschauffeur.co.uk",
+    "emails": [
+      "info@mtschauffeur.co.uk"
+    ],
+    "description": "MTS Chauffeur offers luxury chauffeur service in Manchester, the UK for any purpose or occasion. Get a free quote for premium chauffeur-driven cars now!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Happy Bus Hire",
@@ -2241,7 +3145,16 @@
     "lat": 53.197115,
     "lng": -2.858524,
     "found_in_location": "Chester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "happybushire@gmail.com",
+    "emails": [
+      "happybushire@gmail.com"
+    ],
+    "description": "Mini bus hire for all occasions. Our aim is to make your journey as comfortable, affordable and fun as possible while delivering you to your destination safely and on time.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus"
+    ]
   },
   {
     "name": "Hollywood Limousines",
@@ -2258,7 +3171,17 @@
     "lat": 53.461414,
     "lng": -2.942442,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@hollywoodcars.co.uk",
+    "emails": [
+      "info@hollywoodcars.co.uk"
+    ],
+    "description": "We provide luxury for less with chauffeur-driven Limo, Party Bus and more to make any occasion extra special, covering the whole of the North West and providing excellent customer service for over 25 years - Every customer is treated like a movie star!",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Party Bus"
+    ]
   },
   {
     "name": "Jet Set Limousines",
@@ -2270,12 +3193,22 @@
     "rating": 4.3,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Monday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9:30\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"9:30\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
     "types": "Limousine service",
     "lat": 53.74598,
     "lng": -2.665164,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Limo hire Blackpool, Preston, Chorley, Bolton, Manchester, Greater Manchester and Lancashire. Limos, wedding cars and party buses.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Party Bus",
+      "Prom Transport",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
   },
   {
     "name": "The Party Bus Company",
@@ -2287,12 +3220,23 @@
     "rating": 4.3,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.595409,
     "lng": -2.444567,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "bookings@thepartybuscompany.co.uk",
+    "emails": [
+      "bookings@thepartybuscompany.co.uk",
+      "info@northwestprestigetravel.com"
+    ],
+    "description": "North West's premier party bus company! Luxury leather seating, premium sound systems, LED lighting. Professional service across Manchester, Liverpool & North West England.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Belle Vue Manchester Limited",
@@ -2304,12 +3248,29 @@
     "rating": 4.2,
     "total_reviews": 140,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.433403,
     "lng": -2.187867,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sales@bellevue-mcr.com",
+    "emails": [
+      "sales@bellevue-mcr.com",
+      "customerservices@bellevue-mcr.com",
+      "damian@bellevue-mcr.com",
+      "debbie@bellevue-mcr.com",
+      "iano@bellevue-mcr.com",
+      "ianrolsen@bellevue-mcr.com",
+      "pamela@bellevue-mcr.com",
+      "phil@bellevue-mcr.com"
+    ],
+    "description": "Award Winning Transport, On Time, Every Time. For Coach Hire Manchester we offer Value, Quality and Reliability on every trip! Get in touch today!",
+    "services": [
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Atlantic Travel (GB) Ltd",
@@ -2326,7 +3287,16 @@
     "lat": 53.566351,
     "lng": -2.427038,
     "found_in_location": "Bolton",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@atlantictravel.co.uk",
+    "emails": [
+      "info@atlantictravel.co.uk",
+      "sales@atlantictravel.co.uk"
+    ],
+    "description": "Atlantic Travel is a bus and Coach Hire Company located in Bolton, Manchester. We offer bus hire services in Bolton. Now, Hire a Coach at low prices.",
+    "services": [
+      "Party Bus"
+    ]
   },
   {
     "name": "Grayway Coaches",
@@ -2338,12 +3308,22 @@
     "rating": 4.2,
     "total_reviews": 97,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201312:30\u202fpm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20134:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–4:30 pm\"],\"Saturday\":[\"9 am–12:30 pm\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–4:30 pm\"],\"Tuesday\":[\"9 am–4:30 pm\"],\"Wednesday\":[\"9 am–4:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.542713,
     "lng": -2.60285,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "graywayone@aol.com",
+    "emails": [
+      "graywayone@aol.com"
+    ],
+    "description": "Grayway Coaches are a family run business providing a wide & varied choice of coach holidays, short breaks, day excursions & private hire throughout the UK for 50+ years.",
+    "services": [
+      "Airport Transfer",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Manchester Minibuses",
@@ -2360,7 +3340,18 @@
     "lat": 53.466552,
     "lng": -2.267057,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "admin@manchester-taxis-minibuses.co.uk",
+    "emails": [
+      "admin@manchester-taxis-minibuses.co.uk",
+      "bookings@manchester-taxis-minibuses.co.uk",
+      "accounts@manchester-taxis-minibuses.co.uk"
+    ],
+    "description": "Ultimate Manchester Minibus taxi service. Modern Fleet & Licensed drivers. 10+ Yrs Experience. 24 7 Service. Free cancellations*. Affordable rates. Book Now.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Odyssey Journeys Ltd",
@@ -2377,7 +3368,8 @@
     "lat": 53.770554,
     "lng": -2.695931,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "The website you are trying to reach has been suspended"
   },
   {
     "name": "Youbus Ltd",
@@ -2389,12 +3381,21 @@
     "rating": 4.1,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"11\u202fam\u20134\u202fpm\"],\"Sunday\":[\"11\u202fam\u20134\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"11 am–4 pm\"],\"Sunday\":[\"11 am–4 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.451844,
     "lng": -2.310092,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@youbus.co.uk",
+    "emails": [
+      "info@youbus.co.uk",
+      "martinjeffries@hotmail.com"
+    ],
+    "description": "If you require a professional minibus hire company in Manchester and surrounding areas, call Youbus Ltd on 0161 865 9191 today.",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "VMS Vehicle Hire Warrington",
@@ -2406,12 +3407,17 @@
     "rating": 4.0,
     "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20136\u202fpm\"],\"Monday\":[\"8\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20131\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20136\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Car rental company",
     "lat": 53.390105,
     "lng": -2.575164,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "elyssa.fagan@vmsglobal.co.uk",
+    "emails": [
+      "elyssa.fagan@vmsglobal.co.uk"
+    ],
+    "description": "Car, Van, Electric, HGV & Refrigerated Vehicle Hire. Vehicle Rental Specialists based all across the UK. Modern & Safe Fleet at Competitive Rates."
   },
   {
     "name": "P.G. Coaches & Mini Coaches Ltd",
@@ -2428,7 +3434,8 @@
     "lat": 53.485017,
     "lng": -2.916449,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "PG Coaches and Mini Coaches are a family run business based in Melling, Liverpool. We have been operating our Coach Hire Services in Liverpool for over 25 years and have gained an excellent reputation for good quality service at competitive rates."
   },
   {
     "name": "Starlight Limos",
@@ -2462,7 +3469,15 @@
     "lat": 53.503337,
     "lng": -2.17502,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@travelinecoach.co.uk",
+    "emails": [
+      "info@travelinecoach.co.uk"
+    ],
+    "description": "5, 16 24, & 49 Seats Manchester Minibus & Coach Hire available for all occasions. Day trips & Night outs, Airport Transfers. School & Private Contracts, Low Cost Minibus & Coach Service in Manchester & Surrounding Areas",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Ultimate Limo Hire Fleetwood/Blackpool",
@@ -2478,8 +3493,16 @@
     "types": "Limousine service",
     "lat": 53.921698,
     "lng": -3.035829,
-    "found_in_location": "Fleetwood",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Blackpool",
+    "found_with_query": "limo northwest",
+    "description": "Ultimate limo hire throughout Yorkshire, quality limousines for hire with best limo quotes guaranteed in Yorkshire",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Smiths Of Marple",
@@ -2491,12 +3514,17 @@
     "rating": 3.7,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.392466,
     "lng": -2.074346,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "sales@smithsofmarple.com",
+    "emails": [
+      "sales@smithsofmarple.com"
+    ],
+    "description": "Smiths of Marple are a coach operator based in South Manchester specialising in private coach hires; school transport contracts and day trips across the UK. With over 70 years experience within the industry, we are committed to providing excellence in transport services to ensure your journey..."
   },
   {
     "name": "Homestead Wedding Carriages Ltd",
@@ -2508,7 +3536,7 @@
     "rating": 3.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20139\u202fpm\"],\"Monday\":[\"9\u202fam\u20139\u202fpm\"],\"Saturday\":[\"9\u202fam\u20139\u202fpm\"],\"Sunday\":[\"9\u202fam\u20139\u202fpm\"],\"Thursday\":[\"9\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.377923,
     "lng": -2.920739,
@@ -2525,12 +3553,18 @@
     "rating": 3.5,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136\u202fpm\"],\"Monday\":[\"9\u202fam\u20136\u202fpm\"],\"Saturday\":[\"9\u202fam\u20136\u202fpm\"],\"Sunday\":[\"9\u202fam\u20132:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201312\u202fam\"],\"Wednesday\":[\"12\u20136\u202fam\",\"9\u202fam\u20136\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–2:30 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"12–6 am\",\"9 am–6 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.578071,
     "lng": -2.357143,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Party bus hire in Manchester, Bury, Bolton and Lancashire. The Boogie Bus is a 20 seater minicoach fitted with disco lights, dance floor, leather seats and TV screens. Perfect for any special occasion.",
+    "services": [
+      "Airport Transfer",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Orrell Mini Travel Ltd",
@@ -2542,12 +3576,20 @@
     "rating": 3.4,
     "total_reviews": 17,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20138\u202fpm\"],\"Monday\":[\"8\u202fam\u20138\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8\u202fam\u20138\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20138\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20138\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.529276,
     "lng": -2.706063,
     "found_in_location": "Wigan",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@orrellminitravel.co.uk",
+    "emails": [
+      "info@orrellminitravel.co.uk"
+    ],
+    "description": "Orrell Mini travel is a minibus & coach travel company based in Wigan. In our fleet we have 13 seater minibuses, 16 seater minibuses, 19 seater mini coach and 22 seater mini coach all are of a very high standard. Our business offers a professional, reliable and friendly service covering all of...",
+    "services": [
+      "Airport Transfer"
+    ]
   },
   {
     "name": "Redline Travel Ltd",
@@ -2559,12 +3601,17 @@
     "rating": 3.3,
     "total_reviews": 34,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Tuesday\":[\"7:30\u202fam\u20135:30\u202fpm\"],\"Wednesday\":[\"7:30\u202fam\u20135:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.74373,
     "lng": -2.706821,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiries@redlinetravel.co.uk",
+    "emails": [
+      "enquiries@redlinetravel.co.uk"
+    ],
+    "description": "Redline Travel Preston School Transport Specialist"
   },
   {
     "name": "Classic Bus",
@@ -2597,8 +3644,20 @@
     "types": "Limousine service",
     "lat": 53.389023,
     "lng": -2.209683,
-    "found_in_location": "Cheadle",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Stockport",
+    "found_with_query": "limo northwest",
+    "description": "Welcome to Style Limousines, your #1 website for luxury transport hire. From limos to party buses to Rolls Royce Phantom wedding cars and more. Compare prices now.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Limo Hire Liverpool",
@@ -2610,11 +3669,11 @@
     "rating": 1.5,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Monday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u201311:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u201311:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–11:30 pm\"],\"Monday\":[\"9 am–11:30 pm\"],\"Saturday\":[\"9 am–11:30 pm\"],\"Sunday\":[\"9 am–11:30 pm\"],\"Thursday\":[\"9 am–11:30 pm\"],\"Tuesday\":[\"9 am–11:30 pm\"],\"Wednesday\":[\"9 am–11:30 pm\"]}",
     "types": "Limousine service",
     "lat": 53.421951,
     "lng": -3.042456,
-    "found_in_location": "Wallasey",
+    "found_in_location": "Liverpool",
     "found_with_query": "limo northwest"
   },
   {
@@ -2648,7 +3707,7 @@
     "types": "Bus company",
     "lat": 53.389662,
     "lng": -2.203477,
-    "found_in_location": "Cheadle",
+    "found_in_location": "Stockport",
     "found_with_query": "limo northwest"
   },
   {
@@ -2661,7 +3720,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20137\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"9\u202fam\u20137\u202fpm\"],\"Sunday\":[\"9\u202fam\u20137\u202fpm\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Limousine service",
     "lat": 53.225579,
     "lng": -2.954538,
@@ -2682,8 +3741,15 @@
     "types": "Limousine service",
     "lat": 51.056596,
     "lng": -2.215997,
-    "found_in_location": "Shaftesbury",
-    "found_with_query": "limo northwest"
+    "found_in_location": "Crewe",
+    "found_with_query": "limo northwest",
+    "description": "Hummer Limo Hire offers the biggest choice of stretch Hummer limos and 4x4 limos for hire throughout the UK. From white, silver, black and even pink Hummer limos.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
   },
   {
     "name": "1st Choice Luxury Cars",
@@ -2695,7 +3761,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.520309,
     "lng": -2.665221,
@@ -2734,7 +3800,17 @@
     "lat": 53.766802,
     "lng": -2.679975,
     "found_in_location": "Preston",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "info@ukairportslimo.com",
+    "emails": [
+      "info@ukairportslimo.com"
+    ],
+    "description": "From airport transfers to special events, indulge in comfort and style with our professional chauffeurs.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Crystal Dream Limousines",
@@ -2802,7 +3878,21 @@
     "lat": 53.38767,
     "lng": -2.169841,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "limohiresthelens@gmail.co.uk",
+    "emails": [
+      "limohiresthelens@gmail.co.uk"
+    ],
+    "description": "Limo Hire St Helens – Wedding Limousines, Hummers Limos 01744 358090 Get Free Quote We – Limo Hire St Helens – are a proud limousine service here to make your special day become amazing by offering the best off limo services to you. We assure that we will take care of your day from the moment...",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Bury Wedding Car",
@@ -2819,7 +3909,14 @@
     "lat": 53.555158,
     "lng": -2.306827,
     "found_in_location": "Manchester",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Hire a limousine in Bury, Lancashire as part of your celebration or night out. Use our guide to find the best bars, clubs and restaurants to visit.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Prom Transport",
+      "Stretch Limo"
+    ]
   },
   {
     "name": "Jernee",
@@ -2848,7 +3945,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.406304,
     "lng": -2.153795,
@@ -2865,7 +3962,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8\u202fam\u20139\u202fpm\"],\"Monday\":[\"8\u202fam\u20139\u202fpm\"],\"Saturday\":[\"8\u202fam\u20139\u202fpm\"],\"Sunday\":[\"8\u202fam\u20139\u202fpm\"],\"Thursday\":[\"8\u202fam\u20139\u202fpm\"],\"Tuesday\":[\"8\u202fam\u20139\u202fpm\"],\"Wednesday\":[\"8\u202fam\u20139\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
     "types": "Limousine service",
     "lat": 53.406304,
     "lng": -2.153795,
@@ -2899,7 +3996,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Coach and minibus hire",
     "lat": 53.471391,
     "lng": -2.294701,
@@ -2921,7 +4018,16 @@
     "lat": 53.381221,
     "lng": -2.599177,
     "found_in_location": "Warrington",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "enquiry@warringtonminibus.com",
+    "emails": [
+      "enquiry@warringtonminibus.com"
+    ],
+    "description": "We divide the prices incurred of hiring our Warrington Minibus hire among each of the passengers on the bus. This will help you save a lot of money since it is less expensive. When you try and calculate the amount paid per person in the minibus, it turns out that it is far less compared to other...",
+    "services": [
+      "Airport Transfer",
+      "Prom Transport"
+    ]
   },
   {
     "name": "Party on a Bus",
@@ -2933,7 +4039,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20137\u202fpm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9\u202fam\u20137\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20137\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20137\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
     "types": "Party planner",
     "lat": 53.189559,
     "lng": -2.887899,
@@ -2950,7 +4056,7 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20135\u202fpm\"],\"Monday\":[\"9\u202fam\u20135\u202fpm\"],\"Saturday\":[\"9\u202fam\u20135\u202fpm\"],\"Sunday\":[\"9\u202fam\u20135\u202fpm\"],\"Thursday\":[\"9\u202fam\u20135\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20135\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20135\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
     "types": "Limousine service",
     "lat": 53.43132,
     "lng": -2.238181,
@@ -2972,7 +4078,17 @@
     "lat": 53.36165,
     "lng": -2.169645,
     "found_in_location": "Stockport",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "email": "glyn@glynburgess.com",
+    "emails": [
+      "glyn@glynburgess.com"
+    ],
+    "description": "Stand out from the crowd in this British classic land rover Defender. Wedding car transport are our main speciality. We are also a passenger funeral car hire. Contact; defenderforoccasions.co.uk Based in Stockport (Greater Manchester)",
+    "services": [
+      "Bentley",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars Liverpool",
@@ -2984,11 +4100,22 @@
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Monday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Saturday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Sunday\":[\"9\u202fam\u20134:30\u202fpm\"],\"Thursday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Tuesday\":[\"9\u202fam\u20136:30\u202fpm\"],\"Wednesday\":[\"9\u202fam\u20136:30\u202fpm\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
     "types": "Car rental company",
     "lat": 53.401463,
     "lng": -2.973694,
     "found_in_location": "Liverpool",
-    "found_with_query": "limo northwest"
+    "found_with_query": "limo northwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Liverpool and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   }
 ]

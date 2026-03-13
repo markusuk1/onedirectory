@@ -34,7 +34,7 @@ export async function GET(request: NextRequest) {
   }
 
   const profile = await pool.query(
-    `SELECT description, phone, email, website, logo_url, tagline, services
+    `SELECT description, phone, landline_phone, mobile_phone, email, website, logo_url, tagline, services
      FROM operator_profiles
      WHERE business_slug = $1 AND product = $2 AND site = $3`,
     [slug, product, site]
@@ -55,7 +55,19 @@ export async function PUT(request: NextRequest) {
   }
 
   const body = await request.json();
-  const { slug, product, site, description, phone, email, website, tagline, services } = body;
+  const {
+    slug,
+    product,
+    site,
+    description,
+    phone,
+    landlinePhone,
+    mobilePhone,
+    email,
+    website,
+    tagline,
+    services,
+  } = body;
 
   if (!slug || !product || !site) {
     return NextResponse.json({ error: "Missing parameters" }, { status: 400 });
@@ -75,17 +87,19 @@ export async function PUT(request: NextRequest) {
   }
 
   await pool.query(
-    `INSERT INTO operator_profiles (operator_id, business_slug, product, site, description, phone, email, website, tagline, services, updated_at)
-     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, NOW())
+    `INSERT INTO operator_profiles (operator_id, business_slug, product, site, description, phone, landline_phone, mobile_phone, email, website, tagline, services, updated_at)
+     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, NOW())
      ON CONFLICT (business_slug, product, site)
-     DO UPDATE SET description = $5, phone = $6, email = $7, website = $8, tagline = $9, services = $10, updated_at = NOW()`,
+     DO UPDATE SET description = $5, phone = $6, landline_phone = $7, mobile_phone = $8, email = $9, website = $10, tagline = $11, services = $12, updated_at = NOW()`,
     [
       session.user.id,
       slug,
       product,
       site,
       description || null,
-      phone || null,
+      landlinePhone || mobilePhone || phone || null,
+      landlinePhone || phone || null,
+      mobilePhone || null,
       email || null,
       website || null,
       tagline || null,

@@ -44,35 +44,41 @@ export default async function AutoQuotesPage({
     );
   }
 
-  // Get current auto-quote config
+  // Get current auto-quote config and operator services
   const configResult = await pool.query(
-    `SELECT enabled, config FROM auto_quote_configs
-     WHERE business_slug = $1 AND product = $2 AND site = $3`,
+    `SELECT aqc.enabled, aqc.config, opr.services
+     FROM auto_quote_configs aqc
+     LEFT JOIN operator_profiles opr ON opr.business_slug = aqc.business_slug
+       AND opr.product = aqc.product AND opr.site = aqc.site
+     WHERE aqc.business_slug = $1 AND aqc.product = $2 AND aqc.site = $3`,
     [slug, product, site]
   );
 
-  const existing = configResult.rows[0] || { enabled: false, config: {} };
+  const existing = configResult.rows[0] || { enabled: false, config: {}, services: null };
   const businessName = slug.replace(/-/g, " ");
 
   return (
     <div>
-      <div className="flex items-center gap-2 text-sm text-text-light mb-6">
-        <Link href="/operator/dashboard" className="hover:text-primary">
+      <div className="flex items-center gap-1.5 text-sm text-text-light mb-6">
+        <Link href="/operator/dashboard" className="hover:text-primary transition-colors">
           Dashboard
         </Link>
-        <span>/</span>
+        <svg className="w-4 h-4 text-text-light/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
         <span className="text-text font-medium capitalize">{businessName}</span>
-        <span>/</span>
+        <svg className="w-4 h-4 text-text-light/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
         <span className="text-text font-medium">Auto-Quotes</span>
       </div>
 
-      <div className="bg-white border border-border rounded-xl p-6 md:p-8 max-w-2xl">
-        <h1 className="text-2xl font-bold text-text mb-1 capitalize">
-          Auto-Quote Configuration
-        </h1>
-        <p className="text-text-light mb-6 capitalize">
-          {businessName} &middot; {product.replace(/-/g, " ")}
-        </p>
+      <div className="bg-white border border-border rounded-2xl shadow-sm overflow-hidden max-w-2xl">
+        <div className="bg-gradient-to-r from-primary-dark to-primary px-6 md:px-8 py-5">
+          <h1 className="text-xl font-bold text-white capitalize">
+            Auto-Quote Configuration
+          </h1>
+          <p className="text-white/70 text-sm capitalize">
+            {businessName} &middot; {product.replace(/-/g, " ")}
+          </p>
+        </div>
+        <div className="p-6 md:p-8">
 
         {/* How it works callout */}
         <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 mb-6">
@@ -116,7 +122,9 @@ export default async function AutoQuotesPage({
           site={site}
           initialEnabled={existing.enabled}
           initialConfig={existing.config}
+          initialServices={existing.services || []}
         />
+        </div>
       </div>
     </div>
   );

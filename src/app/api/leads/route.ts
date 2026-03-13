@@ -5,6 +5,10 @@ import { getSiteId, getSiteConfig } from "@/lib/siteConfig";
 import { getPostHogClient } from "@/lib/posthog-server";
 import { createClaim } from "@/lib/claim";
 import { processAutoQuotes } from "@/lib/auto-quote";
+import { processOperatorOutreach } from "@/lib/operator-outreach";
+import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
+import { validateFields } from "@/lib/formValidation";
+import { createBuyToken, getLeadPrice } from "@/lib/lead-buy";
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
@@ -18,9 +22,24 @@ export async function POST(request: NextRequest) {
     const siteId = getSiteId();
     const site = getSiteConfig();
 
-    await pool.query(
-      `INSERT INTO leads (type, site, product, business_slug, business_name, name, email, phone, date, passengers, pickup, destination, journey_type, message, details, ip, user_agent)
-       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17)`,
+    // Validate product-specific fields if config defines them
+    if (body.product && body.details) {
+      const config = PRODUCT_CONFIGS[body.product as ProductId];
+      if (config?.quoteFields) {
+        const errors = validateFields(config.quoteFields, body.details);
+        if (Object.keys(errors).length > 0) {
+          return NextResponse.json(
+            { error: "Validation failed", fields: errors },
+            { status: 400 }
+          );
+        }
+      }
+    }
+
+    const leadResult = await pool.query(
+      `INSERT INTO leads (type, site, product, business_slug, business_name, name, email, phone, date, passengers, pickup, destination, journey_type, message, details, ip, user_agent, allow_direct_contact, contact_methods)
+       VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19)
+       RETURNING id`,
       [
         body.type || "quote_request",
         siteId,
@@ -39,8 +58,21 @@ export async function POST(request: NextRequest) {
         body.details ? JSON.stringify(body.details) : null,
         ip,
         userAgent,
+        body.allowDirectContact || false,
+        body.contactMethods?.length ? `{${body.contactMethods.join(",")}}` : null,
       ]
     );
+    const leadId = leadResult.rows[0].id;
+
+    // Generate buy token if customer opted in to direct contact
+    let buyToken: string | null = null;
+    if (body.allowDirectContact && body.product) {
+      try {
+        buyToken = await createBuyToken(leadId, body.product);
+      } catch (err) {
+        console.error("Buy token generation failed:", err);
+      }
+    }
 
     // Send email notification
     if (NOTIFY_EMAIL) {
@@ -161,6 +193,21 @@ export async function POST(request: NextRequest) {
         }
       }
 
+      // Buy lead section for admin email
+      let buySection = "";
+      if (buyToken) {
+        const { priceFormatted } = getLeadPrice(body.product);
+        const buyUrl = `https://${site.domain}/leads/buy/${buyToken}`;
+        buySection = `
+            <div style="margin:16px 0;padding:12px;background:#fef9c3;border:1px solid #fde68a;border-radius:8px">
+              <p style="margin:0 0 4px;font-weight:600;color:#92400e">Buy Lead Available — ${priceFormatted}</p>
+              <p style="margin:0 0 8px;font-size:13px;color:#555">Customer opted in to direct contact via: ${(body.contactMethods || []).join(", ")}</p>
+              <p style="margin:0;font-size:13px;color:#555">Send this link to operators:</p>
+              <a href="${buyUrl}" style="display:inline-block;margin-top:8px;font-size:13px;color:#92400e;word-break:break-all">${buyUrl}</a>
+            </div>
+          `;
+      }
+
       // Admin notification
       await sendEmail({
         from: fromAddress,
@@ -179,6 +226,7 @@ export async function POST(request: NextRequest) {
             ${body.message ? `<tr><td style="padding:4px 8px;font-weight:600">Message</td><td style="padding:4px 8px">${body.message}</td></tr>` : ""}
           </table>
           ${claimSection}
+          ${buySection}
         `,
       }).catch((err: unknown) => console.error("Email notification failed:", err));
 
@@ -226,6 +274,7 @@ export async function POST(request: NextRequest) {
     // Process auto-quotes (non-blocking)
     if (body.product && body.email) {
       processAutoQuotes({
+        id: leadId,
         product: body.product,
         site: siteId,
         businessSlug: body.businessSlug,
@@ -241,6 +290,23 @@ export async function POST(request: NextRequest) {
         message: body.message,
         details: body.details,
       }).catch((err) => console.error("Auto-quote processing failed:", err));
+    }
+
+    // Contact matching operators via WhatsApp + email (non-blocking)
+    if (body.product) {
+      processOperatorOutreach({
+        id: leadId,
+        product: body.product,
+        site: siteId,
+        businessSlug: body.businessSlug,
+        businessName: body.businessName,
+        date: body.date,
+        passengers: body.passengers,
+        pickup: body.pickup,
+        destination: body.destination,
+        journeyType: body.journeyType,
+        details: body.details,
+      }).catch((err) => console.error("Operator outreach failed:", err));
     }
 
     return NextResponse.json({ success: true });
