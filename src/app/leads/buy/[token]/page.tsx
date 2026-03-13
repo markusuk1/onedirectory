@@ -37,8 +37,8 @@ export default async function BuyLeadPage({
 
   if (lead.date) details.push({ label: "Date", value: new Date(lead.date).toLocaleDateString("en-GB") });
   if (lead.passengers) details.push({ label: "Passengers", value: String(lead.passengers) });
-  if (lead.pickup) details.push({ label: "Pickup Area", value: lead.pickup.split(",")[0] });
-  if (lead.destination) details.push({ label: "Destination Area", value: lead.destination.split(",")[0] });
+  if (lead.pickup) details.push({ label: "Pickup Area", value: lead.pickup });
+  if (lead.destination) details.push({ label: "Destination Area", value: lead.destination });
   if (lead.journey_type) details.push({ label: "Journey", value: lead.journey_type === "return" ? "Return" : "One way" });
 
   // Generic product details from JSONB
@@ -101,6 +101,11 @@ export default async function BuyLeadPage({
                 </span>
               ))}
             </div>
+            {contactMethods.length === 1 && (
+              <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 mt-2">
+                This customer has requested <strong>{contactMethods[0]} only</strong> &mdash; please respect their preference.
+              </p>
+            )}
           </div>
 
           {/* Price */}
@@ -108,7 +113,7 @@ export default async function BuyLeadPage({
             <p className="text-sm text-text-light mb-1">Lead Price</p>
             <p className="text-3xl font-bold text-accent">{priceFormatted}</p>
             <p className="text-xs text-text-light mt-1">
-              Non-exclusive &middot; Multiple operators can buy
+              This customer wants to hear from you &middot; Be first to respond
             </p>
           </div>
 
@@ -134,6 +139,19 @@ export default async function BuyLeadPage({
             After payment, click the link above to see the customer&apos;s contact details.
             Payment is verified on the honour system for now.
           </p>
+
+          {/* Lead Guarantee */}
+          <details className="group">
+            <summary className="text-xs text-text-light text-center cursor-pointer hover:text-primary transition-colors">
+              Our Lead Guarantee
+            </summary>
+            <div className="mt-2 bg-blue-50 border border-blue-200 rounded-lg p-3 text-xs text-blue-800 space-y-1">
+              <p><strong>Refund</strong> issued if we verify the contact details are broken (wrong number, bounced email, disconnected line).</p>
+              <p><strong>No refund</strong> if the customer simply doesn&apos;t respond &mdash; a working lead is a valid lead.</p>
+              <p>Report any issue within <strong>7 days</strong> of purchase.</p>
+              <p>We verify and resolve within <strong>48 hours</strong>.</p>
+            </div>
+          </details>
         </div>
       </div>
     </div>

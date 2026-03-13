@@ -184,3 +184,23 @@ export async function initLeadBuyTables() {
     CREATE INDEX IF NOT EXISTS idx_lead_purchases_operator ON lead_purchases(operator_hash);
   `);
 }
+
+export async function initLeadReportTables() {
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS lead_reports (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      purchase_id UUID REFERENCES lead_purchases(id) NOT NULL UNIQUE,
+      lead_id UUID REFERENCES leads(id) NOT NULL,
+      operator_hash VARCHAR(20) NOT NULL,
+      reason VARCHAR(50) NOT NULL,
+      notes TEXT,
+      status VARCHAR(20) NOT NULL DEFAULT 'pending',
+      reported_at TIMESTAMPTZ DEFAULT NOW(),
+      resolved_at TIMESTAMPTZ,
+      admin_notes TEXT
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_lead_reports_purchase ON lead_reports(purchase_id);
+    CREATE INDEX IF NOT EXISTS idx_lead_reports_status ON lead_reports(status);
+  `);
+}

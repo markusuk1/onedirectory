@@ -68,6 +68,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/operator/login"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Operator Login
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/privacy"
                   className="text-slate-400 hover:text-white text-sm transition-colors"
                 >

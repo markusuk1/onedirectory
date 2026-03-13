@@ -16,6 +16,7 @@ const MESSAGE_PLACEHOLDERS: Partial<Record<ProductId, string>> = {
   locksmith: "Describe the issue, e.g. locked out, broken lock, key snapped...",
   "removal-companies": "Large or specialist items, access issues, floors/lifts, storage needs...",
   "driving-lessons": "Preferred days/times, any specific requirements, test date if booked...",
+  "pest-control": "Type of pest, severity, any access issues, commercial or domestic...",
 };
 
 export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps) {
@@ -73,6 +74,8 @@ export default function QuoteForm({ productId = "minibus-hire" }: QuoteFormProps
       details.serviceType = details.transmission || null;
     } else if (productId === "removal-companies") {
       details.serviceType = details.moveType || null;
+    } else if (productId === "pest-control") {
+      details.serviceType = details.pestType || null;
     }
 
     const consent = {

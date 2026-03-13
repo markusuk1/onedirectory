@@ -34,9 +34,13 @@ export async function generateMetadata({
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
   if (!guide) return {};
+  const site = getSiteConfig();
   return {
     title: guide.metaTitle,
     description: guide.metaDescription,
+    alternates: {
+      canonical: `https://${site.domain}/guides/${slug}`,
+    },
   };
 }
 
@@ -75,6 +79,13 @@ export default async function GuidePage({
             "skip-hire": ["skip"],
             "van-hire": ["van", "luton", "tipper"],
             "minibus-hire": ["minibus", "coach", "party-bus", "airport-transfer", "seater", "wedding-coach", "corporate"],
+            locksmith: ["locksmith", "lock-change", "home-security"],
+            "removal-companies": ["removals", "man-and-van", "office-removal", "house-removal"],
+            "bouncy-castle-hire": ["bouncy", "soft-play", "party-entertainment"],
+            "limo-hire": ["limo", "wedding-car", "prom-car"],
+            "plant-hire": ["plant", "digger", "cherry-picker"],
+            "pest-control": ["pest", "rat", "mouse", "wasp"],
+            "driving-lessons": ["driving", "instructor", "test", "intensive"],
           };
           const matchedProduct = ALL_PRODUCTS.find((p) =>
             GUIDE_KEYWORDS[p.id]?.some((kw) => slug.includes(kw))
@@ -96,6 +107,12 @@ export default async function GuidePage({
             </h1>
           );
         })()}
+        <p className="text-xs text-text-light mb-4">
+          Last updated:{" "}
+          {guide.lastUpdated
+            ? new Date(guide.lastUpdated + "T00:00:00").toLocaleDateString("en-GB", { month: "long", year: "numeric" })
+            : new Date().toLocaleDateString("en-GB", { month: "long", year: "numeric" })}
+        </p>
         <p className="text-lg text-text-light leading-relaxed mb-8">
           {guide.intro}
         </p>
@@ -179,28 +196,38 @@ export default async function GuidePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify([
-            {
-              "@context": "https://schema.org",
-              "@type": "Article",
-              headline: guide.h1,
-              description: guide.metaDescription,
-              author: {
-                "@type": "Organization",
-                name: getSiteConfig().genericName,
-                url: `https://${getSiteConfig().domain}`,
-              },
-              publisher: {
-                "@type": "Organization",
-                name: getSiteConfig().genericName,
-                url: `https://${getSiteConfig().domain}`,
-              },
-              mainEntityOfPage: {
-                "@type": "WebPage",
-                "@id": `https://${getSiteConfig().domain}/guides/${slug}`,
-              },
-              articleSection: guide.sections.map((s) => s.heading),
-              keywords: guide.keywords.join(", "),
-            },
+            (() => {
+              const s = getSiteConfig();
+              const matchedProd = ALL_PRODUCTS.find((p) => p.id === guide.product);
+              return {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                headline: guide.h1,
+                description: guide.metaDescription,
+                datePublished: "2025-06-01",
+                dateModified: guide.lastUpdated || "2026-03-01",
+                inLanguage: "en-GB",
+                ...(matchedProd && {
+                  image: `https://${s.domain}${matchedProd.image}`,
+                }),
+                author: {
+                  "@type": "Organization",
+                  name: s.genericName,
+                  url: `https://${s.domain}`,
+                },
+                publisher: {
+                  "@type": "Organization",
+                  name: s.genericName,
+                  url: `https://${s.domain}`,
+                },
+                mainEntityOfPage: {
+                  "@type": "WebPage",
+                  "@id": `https://${s.domain}/guides/${slug}`,
+                },
+                articleSection: guide.sections.map((sec) => sec.heading),
+                keywords: guide.keywords.join(", "),
+              };
+            })(),
             {
               "@context": "https://schema.org",
               "@type": "FAQPage",

@@ -94,6 +94,63 @@ function generate(r: GuideRegion): Guide[] {
       keywords: [`plant hire ${r.mainCity.toLowerCase()}`, `digger hire ${r.mainCity.toLowerCase()}`, `mini digger hire ${r.mainCity.toLowerCase()}`],
       product: "plant-hire",
     },
+    {
+      slug: `plant-hire-costs-${r.slug}`,
+      title: `Plant Hire Costs ${r.mainCity}`,
+      metaTitle: `Plant Hire Prices ${r.mainCity} | Equipment Hire Rates & Guide (2026)`,
+      metaDescription: `How much does plant hire cost in ${r.mainCity}? Prices for mini diggers, dumpers, cherry pickers and more in ${r.theName}. Daily and weekly rates.`,
+      h1: `Plant Hire Costs in ${r.mainCity} & ${r.theName}`,
+      intro: `Plant hire costs depend on the type of equipment, the hire duration, and whether you need an operator. This guide breaks down typical hire rates for the most common plant and equipment across ${r.theName}, helping you budget accurately for your project.`,
+      sections: [
+        {
+          heading: `How Much Does Plant Hire Cost in ${r.theName}?`,
+          content: `A micro digger (up to 1 tonne) in ${r.theName} costs £80-£150 per day or £300-£550 per week for self-drive. A mini digger (1.5-3 tonnes) costs £120-£200 per day or £450-£750 per week. A midi excavator (5-8 tonnes) costs £200-£350 per day. A dumper (1-3 tonnes) costs £60-£120 per day. A cherry picker or scissor lift costs £100-£250 per day depending on platform height. A telehandler costs £150-£300 per day. A roller or compactor costs £80-£150 per day. These are self-drive rates. Adding an operator typically costs an additional £150-£250 per day on top of the machine hire.`,
+        },
+        {
+          heading: "What Affects the Price?",
+          content: `Machine size is the primary cost driver. A 1-tonne micro digger costs roughly half the price of a 3-tonne mini digger, which in turn costs half the price of an 8-tonne excavator. Hire duration matters significantly. Weekly rates are typically 3-4 times the daily rate, so you save substantially on longer hires. Monthly rates offer further savings. Self-drive versus operated makes a big difference. An operator adds £150-£250 per day, but if you do not have a trained operator on your team, this is essential for safety and efficiency. Delivery distance affects cost. Most companies include delivery within 10-20 miles, but charge £1-£3 per mile beyond that. Attachments (buckets, breakers, augers) often carry an additional daily charge of £20-£50 each.`,
+        },
+        {
+          heading: "How to Get the Best Price",
+          content: `Hire for the minimum time you need, but take advantage of weekly rates if your project spans 4+ days, as 5 days at the daily rate almost always costs more than the weekly rate. Compare quotes from at least three plant hire companies in ${r.theName}. Ask about package deals if you need multiple machines (for example, a digger and a dumper together). Book in advance during busy periods (spring and summer) when demand is highest. Consider whether you genuinely need an operator. If someone on your team has a CPCS or NPORS card, self-drive hire is substantially cheaper. For one-off domestic projects, some companies offer a half-day rate which is cheaper than a full day.`,
+        },
+        {
+          heading: "What Is Included in the Price?",
+          content: `A standard plant hire price in ${r.theName} includes the machine, basic insurance (with an excess), delivery and collection within the local area, and a standard bucket or attachment. Fuel is almost always excluded. You either refuel the machine before return or pay the hire company's fuel charge, which is typically higher than pump prices. Items not usually included are attachments beyond the standard bucket, operator hire, additional insurance to reduce the excess, and any permits or licences needed for working on public land. If you are hiring a cherry picker for street-level work, you may need a road closure permit from the council, which is your responsibility.`,
+        },
+        {
+          heading: "Hidden Costs to Watch Out For",
+          content: `The most common unexpected charges on plant hire are damage waiver excess (typically £250-£1,000 per machine), fuel charges if the machine is returned without a full tank, cleaning charges if the machine is returned caked in mud or concrete, and late return fees (usually a full extra day). Delivery charges outside the free zone can add £50-£150 each way. Idle time charges may apply if the machine is on your site but not being used on days you did not book. Check whether the quoted price includes insurance or whether this is extra. Some companies advertise the hire rate excluding insurance, then add 10-15% at checkout. Always check the condition of the machine on delivery and photograph any existing damage.`,
+        },
+      ],
+      faq: [
+        {
+          question: "How much does a mini digger cost to hire per day?",
+          answer: `A mini digger (1.5-3 tonnes) in ${r.theName} costs £120-£200 per day for self-drive hire. A micro digger (under 1 tonne) costs £80-£150 per day. Weekly rates are better value at £450-£750 for a mini digger. These prices exclude fuel and operator.`,
+        },
+        {
+          question: "Do I need a licence to operate a mini digger?",
+          answer: "For private domestic work on your own land, no licence is legally required. However, on any construction site or commercial project, operators must hold a CPCS (Construction Plant Competence Scheme) or NPORS card. If you do not have a qualified operator, the hire company can supply one for an additional £150-£250 per day.",
+        },
+        {
+          question: "Is it cheaper to hire by the week?",
+          answer: "Yes, significantly. Weekly rates are typically 3-4 times the daily rate, so a 5-day hire on the weekly rate saves 20-40% compared to paying 5 daily rates. If your project will take more than 3 days, always ask for the weekly rate.",
+        },
+        {
+          question: "Does plant hire include delivery?",
+          answer: "Most companies include delivery and collection within their local area (typically 10-20 miles from their depot). Beyond this, delivery is charged at £1-£3 per mile. A mini digger delivery by low-loader typically costs £50-£100 each way for distances of 20-40 miles.",
+        },
+      ],
+      relatedLocations: r.locations,
+      keywords: [
+        `plant hire prices ${r.mainCity.toLowerCase()}`,
+        `plant hire cost ${r.name.toLowerCase()}`,
+        `mini digger hire cost ${r.mainCity.toLowerCase()}`,
+        `equipment hire rates ${r.name.toLowerCase()}`,
+        `plant hire ${r.mainCity.toLowerCase()}`,
+      ],
+      product: "plant-hire",
+    },
   ];
 }
 

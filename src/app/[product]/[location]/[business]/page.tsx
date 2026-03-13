@@ -128,6 +128,7 @@ export default async function ProductBusinessPage({
       ...(business.openingHours.length > 0 && {
         openingHours: business.openingHours,
       }),
+      priceRange: "$$",
     },
     {
       "@context": "https://schema.org",

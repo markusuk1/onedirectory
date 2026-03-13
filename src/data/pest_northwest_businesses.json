@@ -14,7 +14,15 @@
     "lat": 53.834885,
     "lng": -2.224156,
     "found_in_location": "Nelson",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquiries@harvey-enviro.com",
+    "emails": [
+      "enquiries@harvey-enviro.com"
+    ],
+    "description": "Harvey Enviro | Delivering commercial pest control and washroom services to businesses across the UK. Our BPCA accredited technicians are on hand to solve issues and give expert advice",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "AZ Environmental Services Pest Control",
@@ -31,7 +39,18 @@
     "lat": 53.37949,
     "lng": -2.168235,
     "found_in_location": "Stockport",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@azpestcontrol.co.uk",
+    "emails": [
+      "info@azpestcontrol.co.uk"
+    ],
+    "description": "AZ Pest Control offer domestic and commercial pest control in Stockport, Greater Manchester, Cheshire & Tameside. With a 100% success rate, we can solve your problem.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "All Things Pest Control",
@@ -48,7 +67,16 @@
     "lat": 53.450852,
     "lng": -2.14117,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquiries@allthingspestcontrol.co.uk",
+    "emails": [
+      "enquiries@allthingspestcontrol.co.uk"
+    ],
+    "description": "Pest Control, Pest Removal, South Manchester, Tameside, Stockport, Rats, Mice, Fleas, insects, Wasps, Bed Bugs, Bugs, Cockroaches, Commercial, Residential, Domestic, Home, Office, Restaurant, Shop",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Atlas Environmental Services Ltd",
@@ -65,7 +93,23 @@
     "lat": 53.791694,
     "lng": -2.238154,
     "found_in_location": "Burnley",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@atlasenviro.co.uk",
+    "emails": [
+      "info@atlasenviro.co.uk"
+    ],
+    "description": "\" The North West's Solution for Pest Management, Prevention & Bird Control Proofing & Solutions \" Expert Pest Control Services for Burnley & Lancashire from a Qualified and Accredited Company!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Defender Pest Control",
@@ -82,7 +126,15 @@
     "lat": 53.384406,
     "lng": -3.102329,
     "found_in_location": "Wirral",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Pest control services on the Wirral & North West for homes & businesses. Contact for a free estimate: info@defenderpest.co.uk or 07471745434.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ProStop Pest Control Ltd",
@@ -99,7 +151,17 @@
     "lat": 53.49748,
     "lng": -2.506441,
     "found_in_location": "Leigh",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "chris@prostoppestcontrol.co.uk",
+    "emails": [
+      "chris@prostoppestcontrol.co.uk"
+    ],
+    "description": "Your local, fast and affordable pest control service",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Carlisle City Control",
@@ -116,7 +178,20 @@
     "lat": 54.883184,
     "lng": -2.953585,
     "found_in_location": "Carlisle",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "carlislecitycontrol@gmail.com",
+    "emails": [
+      "carlislecitycontrol@gmail.com"
+    ],
+    "description": "Carlisle City Control Solve Carlisle Pest problems professionally, cleanly, quickly and discretely. Rats, mice, fleas, bedbugs and wasps are just the main infestations we exterminate when necessary.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wallace Pest Control",
@@ -133,7 +208,19 @@
     "lat": 53.823348,
     "lng": -2.450135,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@wallacepestcontrol.co.uk",
+    "emails": [
+      "info@wallacepestcontrol.co.uk"
+    ],
+    "description": "Get professional pest control services in Ribble Valley and surrounding areas now! Pest control for domestic, commercial & agricultural. Call us today.",
+    "services": [
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "C2C Pest Control and Environmental Services",
@@ -150,7 +237,22 @@
     "lat": 53.47818,
     "lng": -2.062165,
     "found_in_location": "Stalybridge",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "paul@c2cpestcontrol.co.uk",
+    "emails": [
+      "paul@c2cpestcontrol.co.uk",
+      "info@c2cenvironmental.co.uk"
+    ],
+    "description": "C2C Pest Control Manchester & Tameside. Bee and Wasp Nest Removal, Bed Bugs Treatments, Rat Extermination and more. Get in Touch with C2C Pest Control Today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Township Pest Control",
@@ -167,7 +269,18 @@
     "lat": 40.262234,
     "lng": -75.168516,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@www.twppc.com",
+    "emails": [
+      "info@www.twppc.com",
+      "mikesnyder237@verizon.net"
+    ],
+    "description": "Top Warrington pest exterminator. Family-owned since 1980. Expert residential & commercial pest control using EPA-approved products. Call now.",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Cheshire Pest Solutions",
@@ -184,7 +297,11 @@
     "lat": 53.182689,
     "lng": -2.105142,
     "found_in_location": "Macclesfield",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Pest, Pests, Mice, Rats, Ants, Hornets, Nests, Cluster Flies, Moles, Treatment, Removal, insects, Bees, Professional Pest Controller, Council pest Control, Local Authority Pest Controller, Schools, Commercial business, Home Pest problem. Jim, Lancaster, Pest Control, Cheshire.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JJL Exterior Cleaning Ltd",
@@ -201,7 +318,12 @@
     "lat": 53.684833,
     "lng": -2.635798,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@jjl-cleaning.co.uk",
+    "emails": [
+      "info@jjl-cleaning.co.uk"
+    ],
+    "description": "JJL offer an exterior cleaning and access hire service. Starting as a simple window cleaning business, JJL Cleaning soon began to offer further services due to popular demand. JJL now cover almost all exterior cleaning services from roof cleaning to cherry picker hire. Our aim is to provide an..."
   },
   {
     "name": "Environmental Pest Services",
@@ -218,7 +340,20 @@
     "lat": 53.798344,
     "lng": -2.991371,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@environmentalpestservices.co.uk",
+    "emails": [
+      "info@environmentalpestservices.co.uk"
+    ],
+    "description": "Pest control Blackpool and around Lancashire and the UK. Call Environmental Pest Services for cost effective pest control.Call us now - 01253 766 399.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Pest Control Manchester",
@@ -235,7 +370,24 @@
     "lat": 53.472805,
     "lng": -2.250491,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "sales@pestcontrolmanchester.org",
+    "emails": [
+      "sales@pestcontrolmanchester.org"
+    ],
+    "description": "Pest Control Manchester, same day pest control service for Rats, Mice, Cockroaches, Ants, Fleas, Wasps and all other pests, all Manchester areas covered",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Mole Management Pest Control",
@@ -252,7 +404,16 @@
     "lat": 53.548794,
     "lng": -2.417756,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "steve@mole.management",
+    "emails": [
+      "steve@mole.management"
+    ],
+    "description": "Specialist mole catcher and general pest controller",
+    "services": [
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pest Control Manchester Rodent X",
@@ -271,8 +432,19 @@
     "found_in_location": "Manchester",
     "found_with_query": "pest control northwest",
     "services": [
-      "Rat & Mouse Control"
-    ]
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "contact@rodentx.co.uk",
+    "emails": [
+      "contact@rodentx.co.uk"
+    ],
+    "description": "Manchester pest control service specialising in the control of mice, rats, fleas, bed bugs, cockroaches and all other vermin for residential and commercial properties."
   },
   {
     "name": "Grahams Pest Control",
@@ -306,7 +478,18 @@
     "lat": 53.378811,
     "lng": -2.665139,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "ttocspestcontrol@gmail.com",
+    "emails": [
+      "ttocspestcontrol@gmail.com"
+    ],
+    "description": "TTOCS provides pest control Warrington and the surrounding areas, specialising in rodent and wildlife management for properties.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "PES Pest Control",
@@ -323,7 +506,19 @@
     "lat": 53.792099,
     "lng": -2.324503,
     "found_in_location": "Burnley",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquiries@pespestcontrol.co.uk",
+    "emails": [
+      "enquiries@pespestcontrol.co.uk"
+    ],
+    "description": "Professional pest control service based in Padiham, that covers Lancashire, North & West Yorkshire and Greater Manchester",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Alvey Group Ltd",
@@ -357,7 +552,18 @@
     "lat": 53.787552,
     "lng": -2.647484,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "sales@wipeoutukpestcontrol.com",
+    "emails": [
+      "sales@wipeoutukpestcontrol.com"
+    ],
+    "description": "WipeoutUK provides excellent Pest Control in Preston since trading in 2003 and has grown with knowledge and experience within the pest control industry.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Beemovers LTD",
@@ -374,7 +580,12 @@
     "lat": 53.595433,
     "lng": -2.161641,
     "found_in_location": "Rochdale",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@beemoversltd.co.uk",
+    "emails": [
+      "info@beemoversltd.co.uk"
+    ],
+    "description": "It is our customers who help us develop so dynamically. We are constantly widening our offer in order to optimally adjust to the prevailing standards."
   },
   {
     "name": "Gardam Pest Control",
@@ -391,7 +602,17 @@
     "lat": 53.714283,
     "lng": -1.903038,
     "found_in_location": "Sowerby Bridge",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "gary@gardampestcontrol.co.uk",
+    "emails": [
+      "gary@gardampestcontrol.co.uk"
+    ],
+    "description": "Pest Control Halifax | Huddersfield",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Abate-Pest Control in Tameside and Glossop.",
@@ -408,7 +629,17 @@
     "lat": 53.515016,
     "lng": -2.029687,
     "found_in_location": "Ashton-under-Lyne",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@abatepest.co.uk",
+    "emails": [
+      "info@abatepest.co.uk"
+    ],
+    "description": "Abate are a leading local, affordable and trusted pest control company with over 36 years experience. Rats, mice, and wasps nests. Fast, efficient response.",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Lawn Man",
@@ -425,7 +656,12 @@
     "lat": 54.864196,
     "lng": -1.608974,
     "found_in_location": "Chester-le-Street",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "paul@thelawnman.info",
+    "emails": [
+      "paul@thelawnman.info"
+    ],
+    "description": "Your on your way to a beautiful lawn and it's going to cost less than doing it yourself.Have you got moss in your lawn? The Lawn Man can take care of that.Premium lawn care in the north east of England"
   },
   {
     "name": "Smart Pest Control - Pest Control Manchester",
@@ -442,7 +678,17 @@
     "lat": 53.412833,
     "lng": -2.283487,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "smartpestuk@gmail.com",
+    "emails": [
+      "smartpestuk@gmail.com"
+    ],
+    "description": "Commercial and residential pest control services covering Manchester, Salford, Sale and surounding areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Local Pest Controller",
@@ -459,7 +705,17 @@
     "lat": 53.165501,
     "lng": -2.984112,
     "found_in_location": "Chester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@local-pestcontroller.co.uk",
+    "emails": [
+      "info@local-pestcontroller.co.uk"
+    ],
+    "description": "Professional pest control in Chester & North Wales. Fast emergency call-outs, expert technicians & preventative solutions for homes & businesses.",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lancashire Mole Control",
@@ -478,8 +734,15 @@
     "found_in_location": "Preston",
     "found_with_query": "pest control northwest",
     "services": [
-      "Mole Control"
-    ]
+      "Mole Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "jnoblett@blueyonder.co.uk",
+    "emails": [
+      "jnoblett@blueyonder.co.uk",
+      "johnjnoblett@gmail.com"
+    ],
+    "description": "Lancashire's 1st Master Mole Catcher provides a professional effective solution for dealing with problem moles, wasps and rabbits."
   },
   {
     "name": "BCS Solutions (NW)",
@@ -496,7 +759,16 @@
     "lat": 54.030041,
     "lng": -2.891052,
     "found_in_location": "Morecambe",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Looking for effective pest control services? Our expert pest control specialists provide tailored solutions for all your pest problems.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MCW Gutter Cleaning",
@@ -513,7 +785,12 @@
     "lat": 53.451992,
     "lng": -2.699499,
     "found_in_location": "Saint Helens",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "help@mcwguttercleaning.com",
+    "emails": [
+      "help@mcwguttercleaning.com"
+    ],
+    "description": "Protect your home from water damage with MCW professional gutter cleaning services. Our team ensures your gutters are clear."
   },
   {
     "name": "ATND Services Ltd T/A Standish Property Maintenance & Pest Control",
@@ -530,7 +807,12 @@
     "lat": 53.583919,
     "lng": -2.656592,
     "found_in_location": "Wigan",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "andythenortherndiver@icloud.com",
+    "emails": [
+      "andythenortherndiver@icloud.com"
+    ],
+    "description": "Andy Clark is a passionate scuba diver, adventurer and filmmaker. He is the host of the \u2018Are you a Scuba Diver \u2013 Fancy a Brew?\u2019 podcast and of his YouTube channel covering a variety of in and out of the water activities. Click to find out more!"
   },
   {
     "name": "M24 Pest Control ltd Manchester pest control services",
@@ -547,7 +829,20 @@
     "lat": 53.585449,
     "lng": -2.258868,
     "found_in_location": "Bury",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "M24 Pest Control Ltd offers reliable pest control services to residential and commercial clients in Middleton, Manchester. With 16 years of experience, our team is highly trained to provide effective pest solutions.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hawkeye Environmental Services",
@@ -564,7 +859,17 @@
     "lat": 53.258593,
     "lng": -2.573428,
     "found_in_location": "Northwich",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Tackle pests with confidence: our local experts deliver fast, discreet pest control for homes and businesses. Protect your property today with trusted, professional support that works.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Total Pest Defence",
@@ -598,7 +903,19 @@
     "lat": 53.393211,
     "lng": -2.064844,
     "found_in_location": "Stockport",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@countrysolutions.co.uk",
+    "emails": [
+      "info@countrysolutions.co.uk"
+    ],
+    "description": "Country Solutions pest control in Stockport are local, family owned pest control specialist, operating within the Stockport, High Peak, & Cheshire",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Guardian Pest Management",
@@ -615,7 +932,18 @@
     "lat": 53.475203,
     "lng": -2.540817,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@guardianpestmanagement.co.uk",
+    "emails": [
+      "info@guardianpestmanagement.co.uk"
+    ],
+    "description": "Trusted pest control solutions in Warrington and surrounding from Guardian Pest Control. Dealing with rodents, birds and more.",
+    "services": [
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DB Pest Control Services",
@@ -632,7 +960,16 @@
     "lat": 53.727145,
     "lng": -2.504163,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@dbpestcontrolservices.co.uk",
+    "emails": [
+      "info@dbpestcontrolservices.co.uk"
+    ],
+    "description": "Pest control in Blackburn, Darwen & East Lancs with over 35 years experience. We remove rats, mice, wasps, ants, fleas, bed bugs & cockroaches",
+    "services": [
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Atlas",
@@ -717,7 +1054,17 @@
     "lat": 53.047315,
     "lng": -2.991709,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@prositemaintenance.co.uk",
+    "emails": [
+      "info@prositemaintenance.co.uk"
+    ],
+    "description": "Pro-site Pest Control & Maintenance provides expert pest control and property maintenance services in Wrexham, Chester, and North Wales. Call now!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pest Clear Environmental LTD",
@@ -734,7 +1081,16 @@
     "lat": 53.546358,
     "lng": -2.198616,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "pestclearenviro@gmail.com",
+    "emails": [
+      "pestclearenviro@gmail.com"
+    ],
+    "description": "Pest Clear Environmental Ltd in Middleton is a pest control company which has accredited technicians in pest control. Call now for a same-day response.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pestforce Pest Control High Peak",
@@ -802,7 +1158,14 @@
     "lat": 53.389513,
     "lng": -2.179933,
     "found_in_location": "Cheadle",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Your clients and customers don\u2019t need to know you have a pest control issue. It\u2019s not great for business. That\u2019s why all GoKill Pest Control vehicles are unmarked and unbranded, ensuring we can offer our service discretely.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "HIRE A HAWK UK Ltd",
@@ -819,7 +1182,16 @@
     "lat": 53.852124,
     "lng": -3.040381,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "contact@hireahawk.co.uk",
+    "emails": [
+      "contact@hireahawk.co.uk"
+    ],
+    "description": "Hire A Hawk UK provides professional, humane pest control services for homes and businesses across the UK. We deliver reliable solutions that protect your property, reputation, and people.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Peak Pest Control",
@@ -836,7 +1208,18 @@
     "lat": 53.237385,
     "lng": -1.903174,
     "found_in_location": "Buxton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "nick@peakpestcontrol.co.uk",
+    "emails": [
+      "nick@peakpestcontrol.co.uk",
+      "sharon@peakpestcontrol.co.uk"
+    ],
+    "description": "Buxton based Peak Pest Control is a family run business which provides a fast and effective pest control service for domestic and commercial customers against rats, mice, moles, wasps, fleas, cockroaches, bed bugs, moths, beetles, ants and other crawling insects. Learn more",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "EcoCare Pest Management",
@@ -853,7 +1236,23 @@
     "lat": 53.485584,
     "lng": -2.233726,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@ecocare-management.com",
+    "emails": [
+      "info@ecocare-management.com",
+      "support@ecocare-management.com",
+      "bugs@bunny.com"
+    ],
+    "description": "Trusted pest control in London for homes, businesses, and industry. Eco-friendly, 24/7 rapid response. Book your free assessment with EcoCare now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Peak Forest Pest Control",
@@ -870,7 +1269,18 @@
     "lat": 53.304497,
     "lng": -1.88316,
     "found_in_location": "Buxton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@peakforestpestcontrol.co.uk",
+    "emails": [
+      "info@peakforestpestcontrol.co.uk"
+    ],
+    "description": "Over 20 years\u2019 experience in pest control, we are a leading provider of pest control in Buxton and the Peak District.",
+    "services": [
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lancashire Bird Control",
@@ -890,7 +1300,12 @@
     "found_with_query": "pest control northwest",
     "services": [
       "Bird & Pigeon Control"
-    ]
+    ],
+    "email": "info@lancashirebirdcontrol.co.uk",
+    "emails": [
+      "info@lancashirebirdcontrol.co.uk"
+    ],
+    "description": "Lancashire Bird Control specialises in deterring nuisance bird\u2019s, making it easy for you to find an effective solution to your bird control problems."
   },
   {
     "name": "Red Rose Pest Control Services",
@@ -907,7 +1322,12 @@
     "lat": 53.703631,
     "lng": -2.320793,
     "found_in_location": "Rossendale",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@redrosepestcontrolservices.co.uk",
+    "emails": [
+      "info@redrosepestcontrolservices.co.uk"
+    ],
+    "description": "A family run, friendly, Pest Control servicing company, based in Rossendale, East Lancashire. We provide services for the control of pests and vermin including rats, mice, fleas, cockroaches and the removal of wasps nests in Lancashire, Greater Manchester and the North of England."
   },
   {
     "name": "Inbound Pest Control Ltd",
@@ -924,7 +1344,8 @@
     "lat": 53.17493,
     "lng": -2.920922,
     "found_in_location": "Chester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Inbound Pest Control Ltd provides Cheshire and the North West with a range of Pest Control services from treatment programs to prevention and preemptive measures for both domestic and commercial customers. Dealing with Rats, Mice, Wasps, Insects and many more, we at Inbound have you covered."
   },
   {
     "name": "911 Pest control",
@@ -941,7 +1362,18 @@
     "lat": 53.144813,
     "lng": -2.354786,
     "found_in_location": "Sandbach",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "john@911pestcontrol.co.uk",
+    "emails": [
+      "john@911pestcontrol.co.uk"
+    ],
+    "description": "Pest Control, Cheshire, Cheshire East, Cheshire West, North West, Wasps, Rodents, Insects, Proofing, Response within 24hrs, environmentally safe treatments, Private and Commercial",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "3D Enviro Group (Blackpool)",
@@ -958,7 +1390,8 @@
     "lat": 53.799906,
     "lng": -3.035968,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Turn to 3D Environmental Ltd for environmental services with a difference. You'll quickly find that we're a company that is committed to offering superior work in this field."
   },
   {
     "name": "Peninsula Pest Control",
@@ -975,7 +1408,14 @@
     "lat": 53.278035,
     "lng": -3.057721,
     "found_in_location": "Cheshire",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Peninsula Pest Control professional and efficient pest control and removal of wasp nests, insects, birds and rodents for customers based on the Wirral. Call us today on 0151 321 9796 and let us know how we can help!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SC Pest Management",
@@ -992,7 +1432,18 @@
     "lat": 54.092893,
     "lng": -2.797498,
     "found_in_location": "Carnforth",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@scpestmanagement.co.uk",
+    "emails": [
+      "info@scpestmanagement.co.uk"
+    ],
+    "description": "SC Pest Management offers wasps nest removal, pest management of rodents, insects, and birds in Cumbria, South Cumbria, The Lakes, Furness, Morecambe and Lancaster, North Lanc's and the Lune Valley",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "EcoShield Environmental Services",
@@ -1009,7 +1460,11 @@
     "lat": 54.145706,
     "lng": -2.76356,
     "found_in_location": "Carnforth",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "EcoShield Environmental provide a pest control service to a range of local businesses and domestic dwellings.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest-Tek",
@@ -1026,7 +1481,23 @@
     "lat": 53.525039,
     "lng": -2.489184,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "pestekmanchester.co.uk@gmail.com",
+    "emails": [
+      "pestekmanchester.co.uk@gmail.com",
+      "pestekmanchester@gmail.com",
+      "pesterad6@gmail.com"
+    ],
+    "description": "pest-tek pest control service wasps ants rats mice birds bed bugs www.pest-tek.co.uk pest controller Atherton Manchester Wigan exterminator bird control",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Rodent X Pest Control Bury",
@@ -1065,8 +1536,19 @@
     "found_in_location": "Oldham",
     "found_with_query": "pest control northwest",
     "services": [
-      "Rat & Mouse Control"
-    ]
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "contact@rodentx.co.uk",
+    "emails": [
+      "contact@rodentx.co.uk"
+    ],
+    "description": "Manchester pest control service specialising in the control of mice, rats, fleas, bed bugs, cockroaches and all other vermin for residential and commercial properties."
   },
   {
     "name": "Pest Control Stockport Rodent X",
@@ -1085,8 +1567,19 @@
     "found_in_location": "Stockport",
     "found_with_query": "pest control northwest",
     "services": [
-      "Rat & Mouse Control"
-    ]
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "contact@rodentx.co.uk",
+    "emails": [
+      "contact@rodentx.co.uk"
+    ],
+    "description": "Manchester pest control service specialising in the control of mice, rats, fleas, bed bugs, cockroaches and all other vermin for residential and commercial properties."
   },
   {
     "name": "Prevention Pest Control",
@@ -1103,7 +1596,17 @@
     "lat": 53.487858,
     "lng": -2.945586,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "preventionpestcontrol@hotmail.com",
+    "emails": [
+      "preventionpestcontrol@hotmail.com"
+    ],
+    "description": "Prevention Pest Control Liverpool and North West 07482209510",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Pesttech Environmental Services",
@@ -1120,7 +1623,14 @@
     "lat": 53.578206,
     "lng": -2.398087,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "PestTech have been serving Lancashire with pest problems and pest services for more than a decade, before PestTech started trading our dedicated team built up over 35 years experience within the pest control industry. We offer a highly professional and affordable solution to all your pest...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Anti-Pest Environmental Services Ltd",
@@ -1154,7 +1664,8 @@
     "lat": 53.580763,
     "lng": -2.572244,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "For over 30 years, Hawk Environmental Services has helped Wigan homeowners and businesses keep nature in its place. If you're looking for the very best in Wigan Pest Control, look no further."
   },
   {
     "name": "Clearlands & McNamara's Environmental Services",
@@ -1171,7 +1682,16 @@
     "lat": 53.555235,
     "lng": -2.104496,
     "found_in_location": "Oldham",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@clearlands.co.uk",
+    "emails": [
+      "info@clearlands.co.uk"
+    ],
+    "description": "Domestic & Commercial Cleaning, Clearances & Pest ControlClean, Clear Spaces. Pest-Free Places.Your One-Stop Solution for Cleaning, Clearances and Pest Control in the North West!\u00b7 Manchester \u00b7 Rochdale \u00b7 Oldham \u00b7 Wakefield \u00b7 Bury \u00b7 Warrington \u00b7 Bradford \u00b7 Stockport \u00b7 Bolton \u00b7 Leeds \u00b7 Tameside \u00b7...",
+    "services": [
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Kwickill Pest Control Ltd",
@@ -1188,7 +1708,15 @@
     "lat": 53.611374,
     "lng": -2.114117,
     "found_in_location": "Rochdale",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "admin@kwickill.com",
+    "emails": [
+      "admin@kwickill.com"
+    ],
+    "description": "Contact Kwickill for reliable residential and commercial pest control. Fill out our quick form to book an inspection or Request your free quote today.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "NMP Ltd",
@@ -1205,7 +1733,18 @@
     "lat": 53.110561,
     "lng": -2.441098,
     "found_in_location": "Crewe",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "filler@godaddy.com",
+    "emails": [
+      "filler@godaddy.com"
+    ],
+    "description": "NMP pride themselves in providing an adaptable and quality service for all customers, both residential and commercial.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Predator Environmental Ltd",
@@ -1222,7 +1761,12 @@
     "lat": 53.465739,
     "lng": -2.31174,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Looking to clear your property of bird infestations? Contact Predator Environmental Ltd in Sale today to book our services, call us on 0161 976 6263",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Green Space Transformations (Blackpool, Fylde & Wyre)",
@@ -1239,7 +1783,13 @@
     "lat": 53.850603,
     "lng": -3.022791,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "gardenservices@green-space.uk",
+    "emails": [
+      "gardenservices@green-space.uk",
+      "filler@godaddy.com"
+    ],
+    "description": "We are your reliable, affordable and professional local gardeners Garden Services Business Grounds Maintenance Tree Surgery"
   },
   {
     "name": "Pest first For Pest control Ltd",
@@ -1256,7 +1806,20 @@
     "lat": 53.455199,
     "lng": -2.200884,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@pestfirst.co.uk",
+    "emails": [
+      "info@pestfirst.co.uk"
+    ],
+    "description": "For Pest Control in Manchester Look No Further than Pest First Pest Control Commercial & Domestic Pest Control Experts For Bed Bugs, Fleas, Rats, Mice and Wasp Nest Removal in the Manchester area.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestrap",
@@ -1324,7 +1887,19 @@
     "lat": 53.700611,
     "lng": -2.66482,
     "found_in_location": "Leyland",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "greenparkpestcontrol@aol.com",
+    "emails": [
+      "greenparkpestcontrol@aol.com"
+    ],
+    "description": "For professional pest control in Lancashire, get in touch with the specialists at Green Park Pest Control on 07778 260 732.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cheshire Pest Control Services",
@@ -1341,7 +1916,13 @@
     "lat": 53.39807,
     "lng": -2.531957,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Cheshire Pest Control Services 'CPCS', a well established business dedicated to providing a 1st Class service in pest control and prevention throughout the Cheshire County for over 28 years.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Busters (Manchester)",
@@ -1375,7 +1956,15 @@
     "lat": 53.401463,
     "lng": -2.973694,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "My Pest Controller",
@@ -1392,7 +1981,17 @@
     "lat": 53.417926,
     "lng": -2.76712,
     "found_in_location": "Prescot",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "john@mypestcontroller.uk",
+    "emails": [
+      "john@mypestcontroller.uk"
+    ],
+    "description": "Pest Control covering Greater Manchester, Merseyside and Lancashire - Insects, Rodents and Wasps. Book online and pay by Paypal",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Accy Pest Control",
@@ -1409,7 +2008,15 @@
     "lat": 53.761778,
     "lng": -2.368538,
     "found_in_location": "Accrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "The affordable rat, mouse and wasp pest control company in Accrington. Mice, flies, fleas, bees, ants and bed-bugs pest control services offered also.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pest Solutions",
@@ -1426,7 +2033,23 @@
     "lat": 53.477171,
     "lng": -2.24378,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@pestsolutions.co.uk",
+    "emails": [
+      "info@pestsolutions.co.uk",
+      "glasgow@pestsolutions.co.uk",
+      "newcastle@pestsolutions.co.uk"
+    ],
+    "description": "Pest Solutions | The Pest Control Professionals | BPCA Accredited Pest and Bird Control | Pest Control Services in Glasgow, Edinburgh, Aberdeen, Dundee,",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lancashire Mole Control Ltd",
@@ -1445,8 +2068,15 @@
     "found_in_location": "Preston",
     "found_with_query": "pest control northwest",
     "services": [
-      "Mole Control"
-    ]
+      "Mole Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "jnoblett@blueyonder.co.uk",
+    "emails": [
+      "jnoblett@blueyonder.co.uk",
+      "johnjnoblett@gmail.com"
+    ],
+    "description": "Lancashire's 1st Master Mole Catcher provides a professional effective solution for dealing with problem moles, wasps and rabbits."
   },
   {
     "name": "F A Richard & Co Ltd",
@@ -1463,7 +2093,11 @@
     "lat": 53.788298,
     "lng": -2.739845,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "F. A. Richard & Co. Ltd is a leading supplier of household pest control products, specifically formulated to overcome the challenges of insect and rodent control in tropical regions.",
+    "services": [
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Call To Kill Pest Control",
@@ -1480,7 +2114,17 @@
     "lat": 53.43976,
     "lng": -2.067094,
     "found_in_location": "Hyde",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "kev@calltokill.co.uk",
+    "emails": [
+      "kev@calltokill.co.uk"
+    ],
+    "description": "Residential Pest Control Fast, Affordable Solutions with over 30 years experience BPCA Accredited As members of the BPCA you can be assured, of the highest standards of professionalism within the industry. Commercial Pest Control Discreet and Guaranteed Commercial Pest Control Services Call To...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Kml Pest Control Solutions",
@@ -1534,7 +2178,15 @@
     "lat": 53.417422,
     "lng": -2.876681,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "pat@perpectual-pest-control.co.uk",
+    "emails": [
+      "pat@perpectual-pest-control.co.uk"
+    ],
+    "description": "Address: 78 Broadoak Road, Dovecot, Liverpool, Merseyside, L14",
+    "services": [
+      "Bed Bug Treatment"
+    ]
   },
   {
     "name": "Rentokil Pest Control - Warrington",
@@ -1568,7 +2220,15 @@
     "lat": 53.190733,
     "lng": -2.856511,
     "found_in_location": "Chester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Pest Control Chester \u2013 Rat & Rodent Removal \u2013 Rapid Response \u2013 Best Prices \u2013 Local Technicians \u2013 Call Today 01244 752 960",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "enviro tech north west",
@@ -1602,7 +2262,15 @@
     "lat": 53.445866,
     "lng": -2.515134,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@cape-spc.com",
+    "emails": [
+      "info@cape-spc.com"
+    ],
+    "description": "Canine Assisted Pest Eradication and Water Leak Detection & Correlation Services based in the United Kingdom - CAPE SPC - Bedbug Detection Dogs & Treatments",
+    "services": [
+      "Bed Bug Treatment"
+    ]
   },
   {
     "name": "HL&H Garden Pest Control",
@@ -1636,7 +2304,20 @@
     "lat": 53.384686,
     "lng": -2.128436,
     "found_in_location": "Stockport",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "%20steve@norwestenvironmental.uk",
+    "emails": [
+      "%20steve@norwestenvironmental.uk",
+      "addresssteve@norwestenvironmental.uk",
+      "insteve@norwestenvironmental.uk",
+      "steve@norwestenvironmental.uk"
+    ],
+    "description": "For over nine decades, we have safeguarded properties throughout the United Kingdom from pest infestations.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Reliable Pest Control Ltd",
@@ -1670,7 +2351,13 @@
     "lat": 53.445055,
     "lng": -2.34951,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "alastair@bee-relocated.co.uk",
+    "emails": [
+      "alastair@bee-relocated.co.uk",
+      "alastair@meadowshoneyco.co.uk"
+    ],
+    "description": "Having beeen in the property agency, management and development world, we understand the need to swiftly resolve any issue which could prove a serious health and safety liability to tenants. Bee colonies if disturbed can turn defensive and become extremely dangerous to residents."
   },
   {
     "name": "Hobbs Wildlife Services",
@@ -1687,7 +2374,12 @@
     "lat": 53.069325,
     "lng": -2.511351,
     "found_in_location": "Nantwich",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Discover the top reasons why Hobbs Wildlife Services is your best choice for effective and humane mole pest control solutions.",
+    "services": [
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Manchester Pest Control Manchester",
@@ -1704,7 +2396,22 @@
     "lat": 53.403252,
     "lng": -2.234154,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "manchesterpest@gmail.com",
+    "emails": [
+      "manchesterpest@gmail.com"
+    ],
+    "description": "Manchester Pest Control Experts are committed to protecting your homes and businesses against harmful pests. At Manchester Pest Control provide an environmentally safe, superior and reliable service and are committed to total customer satisfaction. As the leading service company in the pest...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Huntsman Pest Control Greater Manchester",
@@ -1721,7 +2428,19 @@
     "lat": 53.590554,
     "lng": -2.412629,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "business@huntsmanpestcontrol.co.uk",
+    "emails": [
+      "business@huntsmanpestcontrol.co.uk"
+    ],
+    "description": "Huntsman Pest Control professionals are ready to help you to eradicate your pest problem. Call us, we are available 24/7",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Huntsman Pest Control Liverpool",
@@ -1738,7 +2457,19 @@
     "lat": 53.396985,
     "lng": -2.980574,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "business@huntsmanpestcontrol.co.uk",
+    "emails": [
+      "business@huntsmanpestcontrol.co.uk"
+    ],
+    "description": "Huntsman Pest Control professionals are ready to help you to eradicate your pest problem. Call us, we are available 24/7",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Independent Pest Control & Hygiene Services Ltd",
@@ -1755,7 +2486,16 @@
     "lat": 53.350054,
     "lng": -2.859614,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@independentpestcontrol.co.uk",
+    "emails": [
+      "info@independentpestcontrol.co.uk",
+      "info@www.independentpestcontrol.co.uk"
+    ],
+    "description": "15+ Years Experience in Pest Control & Hygiene Services across Liverpool, Wirral, Chester & North West. Call 0151 486 7333 for a Free Quote",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Aardvark Pest Control",
@@ -1772,7 +2512,15 @@
     "lat": 53.588974,
     "lng": -2.687551,
     "found_in_location": "Wigan",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@aardvarkpest.co.uk",
+    "emails": [
+      "info@aardvarkpest.co.uk"
+    ],
+    "description": "Expert Pest Control Wigan. Trusted, Certified, Safe, Insured. Treatment of pests Guaranteed. Extermination, Fumigation Lancashire, Manchester, Liverpool",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "SCS Facility Services",
@@ -1789,7 +2537,12 @@
     "lat": 53.787214,
     "lng": -2.633163,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@scsfs.co.uk",
+    "emails": [
+      "info@scsfs.co.uk"
+    ],
+    "description": "Facilities management north west specialists delivering property maintenance, damp and mould treatment and multi-trade building services. Accredited, compliant and trusted delivery across the region."
   },
   {
     "name": "Emris Services",
@@ -1806,7 +2559,23 @@
     "lat": 53.365764,
     "lng": -2.715869,
     "found_in_location": "Widnes",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@emrisservices.co.uk",
+    "emails": [
+      "info@emrisservices.co.uk"
+    ],
+    "description": "Emris Services local pest control services. We cover Widnes, Runcorn, Liverpool, Warrington, St Helens, Frodsham & the North West.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ian Smith Pest Control",
@@ -1823,7 +2592,16 @@
     "lat": 53.619324,
     "lng": -2.603324,
     "found_in_location": "Chorley",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "acorncs@googlemail.com",
+    "emails": [
+      "acorncs@googlemail.com"
+    ],
+    "description": "Pest Control in Bolton, Preston and Throughout Lancashire Pest Control Solutions We have a lifetime\u2019s experience serving all areas in the North West of England, so you are sure to receive the most professional and reliable solution for all your pest control needs. Whatever your pest issue, call...",
+    "services": [
+      "Bed Bug Treatment",
+      "Fumigation"
+    ]
   },
   {
     "name": "RTC - Remedial Treatment Consultants",
@@ -1843,7 +2621,12 @@
     "found_with_query": "pest control northwest",
     "services": [
       "Ant Control"
-    ]
+    ],
+    "email": "admin@rtcgroup.co.uk",
+    "emails": [
+      "admin@rtcgroup.co.uk"
+    ],
+    "description": "RTC are multi-award winners in the building preservation industry and the North-West's leading property care specialists."
   },
   {
     "name": "Ridd-a-pest",
@@ -1877,7 +2660,11 @@
     "lat": 53.261219,
     "lng": -2.125251,
     "found_in_location": "Macclesfield",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquires@pegnumi.com",
+    "emails": [
+      "enquires@pegnumi.com"
+    ]
   },
   {
     "name": "Asland Pest Control Services",
@@ -1894,7 +2681,21 @@
     "lat": 53.709691,
     "lng": -2.791512,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "aslandpestcontrol@gmail.com",
+    "emails": [
+      "aslandpestcontrol@gmail.com"
+    ],
+    "description": "Discreet pest control services covering Preston, Lancashire and surrounding areas of North Merseyside. Wasp nests destroyed and Bee swarms removed. Fleas, bedbugs, moths, cockroaches, ants and carpet beetles dealt with. Pest control for rats, mice, moles and other rodents.My Store",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Avanti Pest Solutions Ltd",
@@ -1911,7 +2712,8 @@
     "lat": 53.784813,
     "lng": -2.322267,
     "found_in_location": "Burnley",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "We are doing some maintenance on our site. It won't take long, we promise. Come back and visit us again in a few days. Thank you for your patience!PLEASE CONTACT US ON 01282 98270 / 03333356221"
   },
   {
     "name": "LES Pest Management",
@@ -1928,7 +2730,18 @@
     "lat": 53.744261,
     "lng": -2.630025,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "sales@lespestmgt.com",
+    "emails": [
+      "sales@lespestmgt.com"
+    ],
+    "description": "Focusing on preventative pest management, supporting communities and business in Lancashire and Greater Manchester to thrive, whilst minimising pest risks.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cheshire Lawn Doctor",
@@ -1945,7 +2758,12 @@
     "lat": 53.435658,
     "lng": -2.548551,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@cheshirelawndoctor.co.uk",
+    "emails": [
+      "info@cheshirelawndoctor.co.uk"
+    ],
+    "description": "Providing seasonal lawn treatments, scarification and aeration throughout Cheshire, Manchester and Merseyside. Professional service and products to ensure your lawn is green and healthy all year round."
   },
   {
     "name": "EVERGREEN ENVIRONMENTAL PEST CONTROL",
@@ -1962,7 +2780,8 @@
     "lat": 53.209869,
     "lng": -3.133386,
     "found_in_location": "Mold",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "We are a family business established in the 1980s. Our aim is to protect people and property in a manner that respects wildlife while minimising damage to the environment. We do not employ technicians, the success of our service relies on trusted personal relationships."
   },
   {
     "name": "Lakeland Pest & Wildlife Services",
@@ -2013,7 +2832,19 @@
     "lat": 53.881249,
     "lng": -2.782563,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "john.jcbracken@btinternet.com",
+    "emails": [
+      "john.jcbracken@btinternet.com"
+    ],
+    "description": "Looking for an experienced and trusted pest control company around Preston? Call B & H Pest Control on 01995 602 243 or 07931 186 237",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Your Pest Control",
@@ -2047,7 +2878,17 @@
     "lat": 53.391917,
     "lng": -2.949145,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@qkil.co.uk",
+    "emails": [
+      "info@qkil.co.uk"
+    ],
+    "description": "Quickil Pest Control Liverpool \u2014 trusted family-run experts offering fast, reliable pest removal. Book your FREE site visit today!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Premier Pest Control",
@@ -2064,7 +2905,20 @@
     "lat": 53.448623,
     "lng": -2.843083,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@premierpestcontrolnw.co.uk",
+    "emails": [
+      "info@premierpestcontrolnw.co.uk",
+      "premierpestcontrolnw@gmail.com"
+    ],
+    "description": "Whether it's insects, rodents or birds, infestations can become a problem on your property, be it domestic or commercial. Call today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Abbey cottage, (Moledover pest control)",
@@ -2081,7 +2935,20 @@
     "lat": 53.117392,
     "lng": -2.033035,
     "found_in_location": "Leek",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "moledover@live.co.uk",
+    "emails": [
+      "moledover@live.co.uk"
+    ],
+    "description": "If you're looking for mole removal services in Staffordshire, then call Moledover. I serve clients across Cheshire, Derbyshire and Shropshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Acorn Environment Services Ltd",
@@ -2098,7 +2965,16 @@
     "lat": 53.525614,
     "lng": -2.320055,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "sales@acornenvironment.com",
+    "emails": [
+      "sales@acornenvironment.com"
+    ],
+    "description": "We offer and deliver an extensive range of environmental services including Pest Control, Void Clearances, Professional Cleaning and more. Click here for details.",
+    "services": [
+      "Bed Bug Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Town & Country Pest Control",
@@ -2115,7 +2991,20 @@
     "lat": 54.213128,
     "lng": -2.804145,
     "found_in_location": "Milnthorpe",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PestEvo",
@@ -2132,7 +3021,16 @@
     "lat": 53.733877,
     "lng": -2.515941,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Looking for effective pest control services? Our expert pest control specialists provide tailored solutions for all your pest problems.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pied Piper pest control",
@@ -2149,7 +3047,18 @@
     "lat": 53.785246,
     "lng": -3.013478,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "stephen.coopes@btinternet.com",
+    "emails": [
+      "stephen.coopes@btinternet.com"
+    ],
+    "description": "Pied Piper Pest Control have been working in the Blackpool area for well over 10 years and have built up an enviable reputation. We cover the Fylde coast and surrounding areas and are reknowned for providing effective, reliable and affordable pest control solutions.",
+    "services": [
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Chester Pest Control",
@@ -2166,7 +3075,14 @@
     "lat": 53.170182,
     "lng": -2.923525,
     "found_in_location": "Chester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "WASPS NEST REMOVALS AND ADVICE ON BEES",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Evolution Pest Solutions",
@@ -2183,7 +3099,17 @@
     "lat": 53.734315,
     "lng": -2.469915,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "support@evolutionpestsolutions.co.uk",
+    "emails": [
+      "support@evolutionpestsolutions.co.uk"
+    ],
+    "description": "Affordable pest control for homes & businesses throughout Lancashire and the Northwest",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Manchester Exterminators Pest Control",
@@ -2200,7 +3126,23 @@
     "lat": 53.468335,
     "lng": -2.217318,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@manchesterexterminators.co.uk",
+    "emails": [
+      "info@manchesterexterminators.co.uk"
+    ],
+    "description": "Looking for pest control services in Manchester, UK? We are the leading pest control company providing excellent pest control solutions to both domestic and commercial clients throughout Greater Manchester. Call us on 0161 637 0339 for more details.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "OConnor Pest Control",
@@ -2217,7 +3159,16 @@
     "lat": 53.445455,
     "lng": -2.098675,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "oconnorpest@gmail.com",
+    "emails": [
+      "oconnorpest@gmail.com"
+    ],
+    "description": "Domestic and Commerical Pest Control in Greater Manchester and Cheshire area. We provide fast and effective treatments for mice, rats, wasps, flies, Cockroaches, Fleas, bird control and we are also specialised in bed bugs. Contact us on 07593430079 or 01619178386 email oconnorpest@gmail.com",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Mike Dempsey Pest Control",
@@ -2251,7 +3202,17 @@
     "lat": 55.010582,
     "lng": -2.965184,
     "found_in_location": "Carlisle",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "miketelford@btinternet.com",
+    "emails": [
+      "miketelford@btinternet.com"
+    ],
+    "description": "Border Pest Control (Cumbria) is a local independent company that can give a personal, efficient, reliable pest control service with over 30 years experience, in all aspects of pest and vermin control covering households, commercial and agricultural premises.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Paul Prest Pest Control Services",
@@ -2268,7 +3229,12 @@
     "lat": 53.361509,
     "lng": -2.041617,
     "found_in_location": "Stockport",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "mail@paulprest.co.uk",
+    "emails": [
+      "mail@paulprest.co.uk"
+    ],
+    "description": "Paul Prest Pest Control Services based in Stockport Cheshire, pride ourselves in providing a professional, friendly and efficient service. Offering advice on prevention and control of insects, animal pests and proofing of premises."
   },
   {
     "name": "JAYS PEST SOLUTION",
@@ -2285,7 +3251,20 @@
     "lat": 53.261368,
     "lng": -3.165489,
     "found_in_location": "Bagillt",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "jayspestsolution@aol.com",
+    "emails": [
+      "jayspestsolution@aol.com"
+    ],
+    "description": "Jays Pest Control offer domestic and industrial pest control solutions across Flintshire, Denbighshire and Chester. Please contact us for a custom quote.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Direct365",
@@ -2319,7 +3298,17 @@
     "lat": 53.274924,
     "lng": -2.603061,
     "found_in_location": "Northwich",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@fourseasonpestsolutions.co.uk",
+    "emails": [
+      "info@fourseasonpestsolutions.co.uk"
+    ],
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Death To Pest Ltd",
@@ -2336,7 +3325,17 @@
     "lat": 53.781979,
     "lng": -3.020401,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@deathtopest.co.uk",
+    "emails": [
+      "info@deathtopest.co.uk",
+      "markjohnmcconville@yahoo.co.uk"
+    ],
+    "description": "Death To Pest Ltd: Guaranteed pest & vermin control in Blackpool. We eliminate all types of pests safely & effectively. Get in touch for surveys today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Urban Hawks Environmental Ltd",
@@ -2353,7 +3352,16 @@
     "lat": 53.355409,
     "lng": -2.735439,
     "found_in_location": "Widnes",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@urbanhawks.co.uk",
+    "emails": [
+      "info@urbanhawks.co.uk"
+    ],
+    "description": "Urban Hawks bird control services in Liverpool & Manchester. We offer Bird & Pest Control, Fumigation and Heat Treatments to homes & Business",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "AAA PEST CONTROL SERVICES LIMITED",
@@ -2370,7 +3378,18 @@
     "lat": 53.643684,
     "lng": -2.105456,
     "found_in_location": "Littleborough",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "admin@aaapestcontrolservices.co.uk",
+    "emails": [
+      "admin@aaapestcontrolservices.co.uk"
+    ],
+    "description": "PROMPT & NPTA registered pest control, providing a services to deal with all aspects of pest control & extermination. Having problems with rodents, insects, squirrels or pigeons on your domestic property or commercial business> Contact us and receive a prompt and professional service.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "First Enviro Ltd",
@@ -2387,7 +3406,17 @@
     "lat": 53.581191,
     "lng": -2.433073,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@firstenviro.com",
+    "emails": [
+      "info@firstenviro.com",
+      "info@firstenviro-com.stackstaging.com"
+    ],
+    "description": "Qualified Technicians - Fully Insured - British Pest Control Association members. Pests include: Rats, Mice, Squirrels, Ants, Bed Bugs, Bees, Cockroaches, Fleas and Wasps plus more. Covering Bolton, Bury, Chorley, Leyland, Preston, Wigan, Manchester and all other surrounding areas within the...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Cavity Extraction Specialists (NW) Ltd",
@@ -2404,7 +3433,12 @@
     "lat": 53.791449,
     "lng": -3.000528,
     "found_in_location": "Blackpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@cesnorthwest.co.uk",
+    "emails": [
+      "info@cesnorthwest.co.uk"
+    ],
+    "description": "Fully accredited technicians with a wealth of experience providing excellent service."
   },
   {
     "name": "The Range | Warrington",
@@ -2438,7 +3472,19 @@
     "lat": 53.42382,
     "lng": -2.834448,
     "found_in_location": "Liverpool",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "laura@actionfacilitiesltd.com",
+    "emails": [
+      "laura@actionfacilitiesltd.com",
+      "actionpest@btinternet.com"
+    ],
+    "description": "Action Pest Control Facilities LTD are a Liverpool-based company whose reputation and innovative forward-thinking have developed into a Nationwide organisation.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Rentokil Pest Control - Liverpool City Region",
@@ -2472,7 +3518,20 @@
     "lat": 53.468521,
     "lng": -2.217375,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@pestaxe.co.uk",
+    "emails": [
+      "info@pestaxe.co.uk"
+    ],
+    "description": "Pest Control United Kingdom - Rodents, Birds, Insects and Specialist Cleaning and Disinfection Services. Call Us Today! 08000 886 014",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ribble Valley Pest Control",
@@ -2489,7 +3548,16 @@
     "lat": 53.823352,
     "lng": -2.405703,
     "found_in_location": "Clitheroe",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Ribble Pest Control are the best pest control company to choose in Clitheroe. With decades of experience of controlling wasps, rats, mice, fleas and ants.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Red Rose Falconry",
@@ -2523,7 +3591,12 @@
     "lat": 53.691788,
     "lng": -2.579921,
     "found_in_location": "Chorley",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "blackburn@greenthumb.co.uk",
+    "emails": [
+      "blackburn@greenthumb.co.uk"
+    ],
+    "description": "Lawn care treatment programmes for lawn lovers in Blackburn. Ask for a no obligation consultation today."
   },
   {
     "name": "Pestokill - Anticimex",
@@ -2540,7 +3613,12 @@
     "lat": 53.483569,
     "lng": -2.501235,
     "found_in_location": "Leigh",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquiries@pestokill.co.uk",
+    "emails": [
+      "enquiries@pestokill.co.uk"
+    ],
+    "description": "Our Family Business core values and the adoption of the British Pest Control Association guidelines ensures that our certified local Technicians can respond to your needs."
   },
   {
     "name": "3D Enviro Group (Preston)",
@@ -2557,7 +3635,8 @@
     "lat": 53.707617,
     "lng": -2.694441,
     "found_in_location": "Leyland",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Turn to 3D Environmental Ltd for environmental services with a difference. You'll quickly find that we're a company that is committed to offering superior work in this field."
   },
   {
     "name": "Crown Pest Control",
@@ -2574,7 +3653,18 @@
     "lat": 53.100777,
     "lng": -2.43886,
     "found_in_location": "Crewe",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@crownpestcontrol.co.uk",
+    "emails": [
+      "info@crownpestcontrol.co.uk"
+    ],
+    "description": "expert experience in all areas of Pest Control With over 30 years of experience. Crown Pest Control Limited has a renowned reputation for the high levels of service and knowledge of the industry. Our dedicated and skilled team only use the latest- approved equipment, pesticides and methods. Get...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "North West Pest Control Services Ltd",
@@ -2591,7 +3681,11 @@
     "lat": 53.499146,
     "lng": -2.711195,
     "found_in_location": "Wigan",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "North West Pest Control Ltd provide a reporting and emergency service in all aspects of pest prevention in the north west for commercial sectors.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Bolton Pest Control",
@@ -2608,7 +3702,16 @@
     "lat": 53.581193,
     "lng": -2.433075,
     "found_in_location": "Bolton",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "hello@boltonpestcontrol.uk",
+    "emails": [
+      "hello@boltonpestcontrol.uk"
+    ],
+    "description": "Bolton pest control provides professional pest management. We offer a variety of strategies for both residential and business settings.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Super Pest Control Of Darwen",
@@ -2625,7 +3728,15 @@
     "lat": 53.695137,
     "lng": -2.468381,
     "found_in_location": "Darwen",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Super Pest Control Of Darwen offers professional services to remove rat, mouse, mice, wasp, rodents & insect pests! Domestic and commercial work is welcome.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Best Pest Control",
@@ -2642,7 +3753,11 @@
     "lat": 53.694891,
     "lng": -2.101171,
     "found_in_location": "Todmorden",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Best Pest Control supply Electric fly killers from PestWest for restaurants. Sentinel ultrasonic repellers for cats, birds, pigeon & mice. Bed Bug proof mattress covers from Protect-a-Bed.",
+    "services": [
+      "Bed Bug Treatment"
+    ]
   },
   {
     "name": "Northern Pest Management Ltd",
@@ -2659,7 +3774,16 @@
     "lat": 53.575074,
     "lng": -2.008026,
     "found_in_location": "Oldham",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "admin@northernpestmanagement.co.uk",
+    "emails": [
+      "admin@northernpestmanagement.co.uk"
+    ],
+    "description": "We are a pest control company based in Oldham, but we cover Rochdale, Bury and the wider areas of the North West of England. We have worked with well known brands, as well as blue chip companies. But you may have spotted us more recently on 5 Star\u2019s Filthy House SOS. Northern Pest Management is...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Preston Pest Control",
@@ -2693,7 +3817,12 @@
     "lat": 53.760346,
     "lng": -2.717662,
     "found_in_location": "Preston",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "ViroPest are a family business run by Emily and Christian based the North West offering a wide range of Pest Control solutions for the home and garden for: Clothes Moths, Bed Bugs, Cockroaches, Carpet Beetles, Silverfish, Rats and Mice. Wholesale available on request; subscription and multi-buy...",
+    "services": [
+      "Bed Bug Treatment",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Simply The Pest Bury",
@@ -2710,7 +3839,16 @@
     "lat": 53.560649,
     "lng": -2.315649,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Simply Pest Control Bury are specialists and experts and removing rats, mice, wasps and other pests from the insect and rodent families! Low-cost pest control!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Control Blackburn",
@@ -2727,7 +3865,19 @@
     "lat": 53.75127,
     "lng": -2.464626,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Pest control Blackburn for service against all pests delivered by local BPCA trained pest control technicians, all at affordable prices. Discreet same day service available, Call Now!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Medic",
@@ -2744,7 +3894,18 @@
     "lat": 53.779026,
     "lng": -2.480699,
     "found_in_location": "Blackburn",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "Pest Medic in Blackburn is the towns affordable main go-to pest controller for exterminating rats, mice, wasps and other pests from the insect and rodent world!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lancaster Pest Control",
@@ -2761,7 +3922,26 @@
     "lat": 54.06277,
     "lng": -2.797588,
     "found_in_location": "Lancaster",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@lancasterpestcontrol.co.uk",
+    "emails": [
+      "info@lancasterpestcontrol.co.uk"
+    ],
+    "description": "Pest Control Lancaster, Morecambe, Carnforth, Garstang wasps nest removal, rats, mice, bed bugs, moles,call us for quick responce!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Fumigation",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Penketh Pest Management",
@@ -2778,7 +3958,11 @@
     "lat": 53.380211,
     "lng": -2.647787,
     "found_in_location": "Warrington",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "PPM provides a fast, efficient and competitively priced solution for your pest problems.",
+    "services": [
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Ratnogo",
@@ -2795,7 +3979,15 @@
     "lat": 53.183619,
     "lng": -2.84478,
     "found_in_location": "Chester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@ratnogo.co.uk",
+    "emails": [
+      "info@ratnogo.co.uk"
+    ],
+    "description": "Stop rats from entering through your drains with professional rat gate installation in Chester. Long-term drain rat prevention. Call Ratnogo today.",
+    "services": [
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pestkillerz Manchester",
@@ -2829,7 +4021,11 @@
     "lat": 53.559765,
     "lng": -2.21349,
     "found_in_location": "Manchester",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "....pestaway1@hotmail.com",
+    "emails": [
+      "....pestaway1@hotmail.com"
+    ]
   },
   {
     "name": "Genesis pest control",
@@ -2846,7 +4042,23 @@
     "lat": 53.530143,
     "lng": -2.077428,
     "found_in_location": "Oldham",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "enquiries@genesispestcontrol.co.uk",
+    "emails": [
+      "enquiries@genesispestcontrol.co.uk"
+    ],
+    "description": "GENESIS Pest Control 0161 210 5062 for local pest control in Oldham, Rochdale, Heywood, Littleborough, Ashton-Under-Lyne & Manchester. All pests treated!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Xpress Pest Control Services",
@@ -2863,7 +4075,16 @@
     "lat": 54.050948,
     "lng": -2.799861,
     "found_in_location": "Lancaster",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "For Local Pest Control Near Me in Lancaster Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Lancaster, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bury St Edmunds pest control",
@@ -2880,7 +4101,20 @@
     "lat": 52.299543,
     "lng": 0.834036,
     "found_in_location": "BURY",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "email": "info@burystedmundspestcontrol.co.uk",
+    "emails": [
+      "info@burystedmundspestcontrol.co.uk",
+      "stevemayhew1958@gmail.com"
+    ],
+    "description": "Local Pest Control. Professionals for the last 30 years. Family run. Fully qualified. Trained operatives, safe up to date methods. Same Day Service",
+    "services": [
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Surefire Pest Control Ltd",
@@ -2897,7 +4131,13 @@
     "lat": 53.05811,
     "lng": -2.465092,
     "found_in_location": "Nantwich",
-    "found_with_query": "pest control northwest"
+    "found_with_query": "pest control northwest",
+    "description": "SureFire Pest Control provide pest control services to the whole of Cheshire, North Staffordshire and North Shropshire",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ecolab Ltd",

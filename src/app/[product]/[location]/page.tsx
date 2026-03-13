@@ -71,6 +71,10 @@ export default async function ProductLocationPage({
     (l) => l.slug !== locationSlug
   );
 
+  const faqItems = productConfig.locationFaq
+    ? productConfig.locationFaq(location.name, location.businessCount)
+    : [];
+
   const schema = [
     {
       "@context": "https://schema.org",
@@ -112,6 +116,19 @@ export default async function ProductLocationPage({
         },
       ],
     },
+    ...(faqItems.length > 0
+      ? [
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: faqItems.map((f) => ({
+              "@type": "Question",
+              name: f.question,
+              acceptedAnswer: { "@type": "Answer", text: f.answer },
+            })),
+          },
+        ]
+      : []),
   ];
 
   return (
@@ -250,6 +267,35 @@ export default async function ProductLocationPage({
           </div>
         </div>
       </section>
+
+      {/* FAQ */}
+      {faqItems.length > 0 && (
+        <section className="bg-white py-8 md:py-12 border-t border-border">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-bold text-text mb-6">
+              Frequently Asked Questions
+            </h2>
+            <div className="space-y-3 max-w-3xl">
+              {faqItems.map((faq, i) => (
+                <details
+                  key={i}
+                  className="group border border-border rounded-lg"
+                >
+                  <summary className="cursor-pointer px-5 py-4 font-medium text-text hover:text-primary transition-colors list-none flex items-center justify-between">
+                    {faq.question}
+                    <span className="ml-2 text-text-light group-open:rotate-180 transition-transform">
+                      ▾
+                    </span>
+                  </summary>
+                  <div className="px-5 pb-4 text-text-light text-sm leading-relaxed">
+                    {faq.answer}
+                  </div>
+                </details>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* CTA */}
       <section className="bg-primary py-10">

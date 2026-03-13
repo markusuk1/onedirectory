@@ -29,7 +29,7 @@ export default function ContactConsent({
   }
 
   return (
-    <div className="border border-border rounded-lg p-4 bg-surface/50">
+    <div className="border border-accent/30 rounded-lg p-4 bg-accent/5">
       <label className="flex items-start gap-3 cursor-pointer">
         <input
           type="checkbox"
@@ -43,10 +43,10 @@ export default function ContactConsent({
         />
         <div>
           <span className="text-sm font-medium text-text">
-            Allow operators to contact me directly
+            Let businesses compete for my job
           </span>
           <p className="text-xs text-text-light mt-0.5">
-            Operators can purchase your lead and reach out via your chosen contact methods
+            Interested businesses can contact you directly &mdash; giving you more quotes, faster responses, and the chance to negotiate the best deal
           </p>
         </div>
       </label>

@@ -174,6 +174,63 @@ function generate(r: GuideRegion): Guide[] {
       ],
       product: "skip-hire",
     },
+    {
+      slug: `skip-hire-costs-${r.slug}`,
+      title: `Skip Hire Costs ${r.mainCity}`,
+      metaTitle: `Skip Hire Prices ${r.mainCity} | Size-by-Size Costs & What to Expect (2026)`,
+      metaDescription: `How much does skip hire cost in ${r.mainCity}? Price breakdown by skip size, what is included, permit costs, and extras to watch for in ${r.theName}.`,
+      h1: `Skip Hire Costs in ${r.mainCity} & ${r.theName}`,
+      intro: `Skip hire is one of the most popular ways to dispose of waste from building work, house clearances and garden projects. Prices depend mainly on the skip size, your location, and the type of waste. This guide gives you a clear breakdown of skip hire costs across ${r.theName}.`,
+      sections: [
+        {
+          heading: `How Much Does Skip Hire Cost in ${r.theName}?`,
+          content: `Skip hire prices in ${r.theName} vary by size. A mini skip (2-3 yards) costs £80-£150 and holds roughly 25-35 bin bags of waste. A midi skip (4-5 yards) costs £120-£200 and is suitable for bathroom or kitchen refits. A builders skip (6-8 yards) costs £150-£300 and is the most popular size for house renovations and clearances. A large skip (10-12 yards) costs £250-£450 and suits bigger projects or commercial work. Roll-on roll-off skips (20-40 yards) cost £300-£600+ and are used on construction sites. These are typical hire periods of 7-14 days. Prices include delivery, collection, and disposal. Permit fees are extra if the skip goes on a public road.`,
+        },
+        {
+          heading: "What Affects Skip Hire Prices?",
+          content: `The biggest price factor is skip size. A builders skip costs roughly double a mini skip. Waste type also matters. Mixed general waste is the standard rate. Heavy materials like soil, rubble and concrete cost more because of weight charges at the tip. Hazardous waste such as asbestos, plasterboard or electrical items requires specialist disposal and costs significantly more. Location affects price because skip companies factor in fuel and landfill costs, which vary by area. Duration matters too. Most hires are 7-14 days, but longer periods may incur extra charges. Time of year plays a role, with spring and summer being busier and occasionally more expensive.`,
+        },
+        {
+          heading: "What Is Included in the Price?",
+          content: `A standard skip hire price in ${r.theName} includes delivery of the skip to your property, a hire period of 7-14 days (varies by company), collection of the skip, and disposal of the waste at a licensed facility. Most companies include the cost of general mixed waste disposal. Items not included are council permits (required if the skip is on a road or pavement), heavy waste surcharges, overfill charges (waste must not exceed the top of the skip), and restricted items. Always confirm what is included when you book, as some companies advertise a lower base price and add extras later.`,
+        },
+        {
+          heading: "Council Permit Costs",
+          content: `If your skip needs to go on a public road, pavement or grass verge, you need a permit from your local council. Permit costs in ${r.theName} typically range from £20-£60 depending on the council and duration. Most skip companies arrange the permit on your behalf and add the cost to your invoice. If the skip can go on your driveway or private land, no permit is needed and you save this cost. The permit process usually takes 2-5 working days, so plan ahead if you need a road placement. Some councils require traffic management plans for skips on busy roads, which adds cost.`,
+        },
+        {
+          heading: "Hidden Costs to Watch Out For",
+          content: `The most common extra charges are overweight fees, overfill charges, and restricted waste items. Overweight fees apply if the skip exceeds the maximum weight for its size, which is common with heavy materials like soil and rubble. Overfill charges apply if waste is loaded above the top of the skip, as it cannot be transported safely. Restricted items that most companies charge extra for or refuse include mattresses (£20-£40 surcharge each), tyres (£5-£10 each), plasterboard (must be separated, costs more to dispose), fridges and freezers (£30-£50 each), and paint or chemicals (classified as hazardous). Extended hire beyond the agreed period typically costs £5-£15 per extra day. Always ask about these before booking.`,
+        },
+      ],
+      faq: [
+        {
+          question: "How much does a builders skip cost?",
+          answer: `A builders skip (6-8 yards) in ${r.theName} typically costs £150-£300 for a 7-14 day hire including delivery, collection and disposal. This is the most popular size and holds the equivalent of 60-80 bin bags. Prices vary depending on your postcode and the waste type.`,
+        },
+        {
+          question: "Do I need a permit for a skip on my driveway?",
+          answer: "No. A permit is only required if the skip is placed on a public road, pavement or grass verge. If it fits on your driveway or private property, no permit is needed. This saves £20-£60 and avoids the 2-5 day wait for permit approval.",
+        },
+        {
+          question: "Is there a weight limit on skips?",
+          answer: "Yes. Each skip size has a maximum weight, typically around 1 tonne for a mini skip, 2-3 tonnes for a midi, and 4-6 tonnes for a builders skip. Heavy waste like soil, rubble and concrete reaches the weight limit before the skip is full. Your skip company can advise on the right size based on what you are throwing away.",
+        },
+        {
+          question: "Can I put anything in a skip?",
+          answer: "Most household and building waste is accepted. Restricted items include hazardous materials (asbestos, chemicals, paint), gas bottles, batteries, electrical items, and tyres. Some of these can go in the skip for an extra charge, while others need specialist disposal. Always tell the skip company what waste you have when booking.",
+        },
+      ],
+      relatedLocations: r.locations,
+      keywords: [
+        `skip hire prices ${r.mainCity.toLowerCase()}`,
+        `skip hire cost ${r.name.toLowerCase()}`,
+        `how much skip hire ${r.mainCity.toLowerCase()}`,
+        `skip hire rates ${r.name.toLowerCase()}`,
+        `builders skip price ${r.mainCity.toLowerCase()}`,
+      ],
+      product: "skip-hire",
+    },
   ];
 }
 

@@ -174,6 +174,63 @@ function generate(r: GuideRegion): Guide[] {
       ],
       product: "locksmith",
     },
+    {
+      slug: `locksmith-costs-${r.slug}`,
+      title: `Locksmith Costs ${r.mainCity}`,
+      metaTitle: `Locksmith Prices ${r.mainCity} | How Much Does a Locksmith Cost? (2026)`,
+      metaDescription: `How much does a locksmith cost in ${r.mainCity}? Emergency callout fees, lock change prices, and what to expect from locksmiths in ${r.theName}.`,
+      h1: `Locksmith Costs in ${r.mainCity} & ${r.theName}`,
+      intro: `Locksmith prices vary depending on the time of day, the type of job, and the lock involved. Knowing typical costs helps you avoid being overcharged, especially in an emergency. This guide covers the main locksmith services and their costs in ${r.theName}.`,
+      sections: [
+        {
+          heading: `How Much Does a Locksmith Cost in ${r.theName}?`,
+          content: `A standard daytime callout for a lockout in ${r.theName} costs £60-£120 including labour and a basic lock if replacement is needed. An evening or weekend emergency callout costs £80-£180. A lock change on a standard cylinder costs £50-£90 during working hours, including the lock. A full door lock replacement (multipoint mechanism) costs £120-£250 depending on the type. Key cutting for a standard door key costs £5-£15 at a high street shop, or £15-£30 for a specialist or restricted key. UPVC door lock repairs typically cost £60-£120. These prices include the locksmith's time and parts for standard locks.`,
+        },
+        {
+          heading: "What Affects the Price?",
+          content: `Time of day is the biggest factor. Emergency callouts after 6pm, at weekends, or on bank holidays cost 50-100% more than a standard daytime appointment. The type of lock makes a difference. Standard euro cylinders are cheap to replace (£20-£40 for the part), while high-security or anti-snap locks cost £40-£80 for the part. Multipoint locking mechanisms on UPVC and composite doors cost significantly more (£80-£200 for the mechanism alone). The difficulty of entry matters for lockouts. A standard lock can often be picked or bypassed non-destructively in minutes, keeping costs low. If the lock needs to be drilled out (destructive entry), you pay for a replacement lock on top. Location within ${r.theName} affects travel time and therefore cost.`,
+        },
+        {
+          heading: "How to Get the Best Price",
+          content: `For non-emergency work like lock upgrades, get quotes from at least three local locksmiths in ${r.theName}. Prices vary significantly between operators. Ask for a fixed price rather than an hourly rate, so there are no surprises. For emergencies, agree the total cost before the locksmith starts work, including parts. A reputable locksmith will give you a clear price over the phone or on arrival. Be wary of extremely low advertised prices (under £40 for a lockout) as these are often bait-and-switch operations that add charges once on site. Check Google reviews and look for membership of the Master Locksmiths Association (MLA) or equivalent trade body.`,
+        },
+        {
+          heading: "What Is Included in a Locksmith Callout?",
+          content: `A standard lockout callout in ${r.theName} typically includes travel to your property, gaining entry to the lock (non-destructive where possible), and a replacement lock if the original cannot be reused. Most locksmiths carry common lock types in their van and can fit a replacement immediately. The price should cover labour, the callout fee, and a standard replacement lock. Premium or high-security locks cost extra. A good locksmith will show you the old lock, explain why it needed replacing (if applicable), test the new lock with you, and give you all the keys. Some provide a short guarantee on their work, typically 12 months.`,
+        },
+        {
+          heading: "Hidden Costs to Watch Out For",
+          content: `Watch for call centre operations that advertise low fixed prices then send a subcontractor who charges more on arrival. Always confirm the company name and that the person attending is their direct employee or named subcontractor. Some locksmiths charge separately for the callout fee, labour, and parts, which can add up to more than a single all-inclusive quote. Ask whether the quote includes VAT. Additional charges can apply for working at height (window locks upstairs), access difficulties, or if multiple locks need attention. If a locksmith tries to significantly increase the price after arriving, you are within your rights to refuse and call another.`,
+        },
+      ],
+      faq: [
+        {
+          question: "How much does an emergency lockout cost?",
+          answer: `A standard daytime lockout in ${r.theName} costs £60-£120. Out-of-hours (evenings, weekends, bank holidays) costs £80-£180. This should include entry and a replacement lock if needed. Always agree the price before work begins.`,
+        },
+        {
+          question: "How much does it cost to change a lock?",
+          answer: `A standard cylinder lock change in ${r.theName} costs £50-£90 during working hours, including the lock and fitting. A high-security anti-snap cylinder costs £70-£120 fitted. A full multipoint lock mechanism replacement on a UPVC door costs £120-£250.`,
+        },
+        {
+          question: "Should I get a quote before the locksmith starts?",
+          answer: "Always. A reputable locksmith will give you a clear total price before starting work. If they refuse or say they cannot quote until they see the lock, ask for a price range. Never agree to open-ended hourly rates for a lockout, as the job should take 10-30 minutes in most cases.",
+        },
+        {
+          question: "Are locksmith prices higher at night?",
+          answer: "Yes. Most locksmiths charge a premium of 50-100% for callouts outside normal working hours (typically after 6pm, weekends, and bank holidays). If your situation is not urgent, booking for the next working day can save you £30-£60 or more.",
+        },
+      ],
+      relatedLocations: r.locations,
+      keywords: [
+        `locksmith prices ${r.mainCity.toLowerCase()}`,
+        `locksmith cost ${r.name.toLowerCase()}`,
+        `how much locksmith ${r.mainCity.toLowerCase()}`,
+        `emergency locksmith cost ${r.name.toLowerCase()}`,
+        `lock change price ${r.mainCity.toLowerCase()}`,
+      ],
+      product: "locksmith",
+    },
   ];
 }
 

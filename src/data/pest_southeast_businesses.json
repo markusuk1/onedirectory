@@ -14,7 +14,13 @@
     "lat": 52.070517,
     "lng": -1.26087,
     "found_in_location": "Banbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Competitive Pricing Without The Compromise On Service",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Dave's Chimney Sweep & Stove Installations",
@@ -31,7 +37,8 @@
     "lat": 51.085688,
     "lng": 1.139654,
     "found_in_location": "Folkestone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Professional Chimney Sweeping, Stove Installer & Maintenance Service Based In Folkestone Kent. I cover all of the South East Kent from Folkestone, Dover, Thanet, Canterbury, Ashford, Swale, Tunbridge Wells, Maidstone, Medway, Tonbridge & Malling, Gravesham, Dartford, Sevenoaks & surrounding areas."
   },
   {
     "name": "Eradipest Ltd",
@@ -48,7 +55,23 @@
     "lat": 50.825654,
     "lng": -0.784416,
     "found_in_location": "Chichester",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "help@eradipest.co.uk",
+    "emails": [
+      "help@eradipest.co.uk"
+    ],
+    "description": "Eradipest carry out environmentally friendly and humane pest control, pest management and pest prevention....",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest-Tech Pest Control Kent",
@@ -65,7 +88,27 @@
     "lat": 51.235061,
     "lng": 0.514766,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "office@nightshiftpestcontrol.co.uk",
+    "emails": [
+      "office@nightshiftpestcontrol.co.uk"
+    ],
+    "description": "Pest-Tech is the #1 domestic & commercial pest control company in Maidstone & Kent for rodents, insects and birds. We\u2019re trusted local experts. Call Now.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Total Control Pest Solutions & Wildlife Management",
@@ -82,7 +125,17 @@
     "lat": 50.997449,
     "lng": 0.082069,
     "found_in_location": "Uckfield",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@totalcontrolpestsolutions.co.uk",
+    "emails": [
+      "info@totalcontrolpestsolutions.co.uk"
+    ],
+    "description": "Trust Total Control Pest Solutions, for effective and environmentally responsible Pest Management Services in Maresfield.",
+    "services": [
+      "Bed Bug Treatment",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "HawkEye Pest Control",
@@ -99,7 +152,15 @@
     "lat": 51.390083,
     "lng": -1.326861,
     "found_in_location": "Newbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@hawkeye-pc.com",
+    "emails": [
+      "info@hawkeye-pc.com"
+    ],
+    "description": "Hawkeye Pest Control are your trusted experts in pest management, providing effective solutions for homes and businesses in Newbury, Berkshire and surrounding areas. Contact us today for a consultation!",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "SaliKill Pest Control",
@@ -116,7 +177,19 @@
     "lat": 51.436257,
     "lng": 0.355131,
     "found_in_location": "Gravesend",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@salikill.com",
+    "emails": [
+      "info@salikill.com"
+    ],
+    "description": "\u2705 100% Satisfaction Guarantee\u2705 Visits Within 24 Hours\u2705Available 24/7",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Natural Carpet Care",
@@ -133,7 +206,12 @@
     "lat": 50.776348,
     "lng": 0.266337,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "naturalcarpetcare@gmail.com",
+    "emails": [
+      "naturalcarpetcare@gmail.com"
+    ],
+    "description": "Professional carpet cleaning. Fully insured and qualified. All types of carpets cleaned. Local & trusted experts since 1986. Eastbourne based"
   },
   {
     "name": "Killpest Pest Control Services",
@@ -150,7 +228,16 @@
     "lat": 51.487462,
     "lng": -0.969202,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@killpest.com",
+    "emails": [
+      "info@killpest.com"
+    ],
+    "description": "Killpest is a local, family run pest control business, based in the area of Caversham, but we cover all over Berkshire, Oxfordshire and Buckinghamshire. We have over 30+ years experience in the industry and have built up a trusted and professional reputation",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Shine Master",
@@ -167,7 +254,15 @@
     "lat": 51.143964,
     "lng": 0.261368,
     "found_in_location": "Tunbridge Wells",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiry@shinemaster.org",
+    "emails": [
+      "enquiry@shinemaster.org"
+    ],
+    "description": "KSSX air ambulance charity https://videopress.com/v/DmqwBp4s?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true A little about us Meet Shine Master, your Premier Cleaning and Restoration Company. Proudly servicing the Tunbridge Wells and surrounding area for almost 20...",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "Plaxtol Pest and Wildlife Management",
@@ -184,7 +279,19 @@
     "lat": 51.260562,
     "lng": 0.308708,
     "found_in_location": "Sevenoaks",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@plaxtolpest.co.uk",
+    "emails": [
+      "info@plaxtolpest.co.uk"
+    ],
+    "description": "Pest Control in Tonbridge - we can help you with pest control in Tonbridge and nearby area including Tunbridge Wells, Sevenoaks and beyond.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Stop Boys",
@@ -201,7 +308,16 @@
     "lat": 50.827046,
     "lng": -0.493071,
     "found_in_location": "Staddlestones",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@peststopboys.co.uk",
+    "emails": [
+      "info@peststopboys.co.uk",
+      "accounts@peststopboys.co.uk"
+    ],
+    "description": "Comprehensive Pest Control in Brighton & Worthing including Insects, Birds, Rodents, Bees, Wasps and other species. Book a FREE Pest Audit online. Call us today on 01273 634 826.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Master Chimney Sweep & Pest Control",
@@ -235,7 +351,14 @@
     "lat": 50.76849,
     "lng": 0.291983,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest control services across East and West Sussex for commercial and domestic pest control - a speedy, effective & discreet pest control service is just one phone call away.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Rattic Pest Control - Slough - Berkshire",
@@ -252,7 +375,20 @@
     "lat": 51.517957,
     "lng": -0.638413,
     "found_in_location": "Slough",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ratticpestcontrol.co.uk",
+    "emails": [
+      "info@ratticpestcontrol.co.uk"
+    ],
+    "description": "Local Pest Control Feltham \u2013 fast removal of rats, mice, wasps, bed bugs & cockroaches. Call 07451267134 for same-day pest treatment near you.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Good Knight Pest Control",
@@ -269,7 +405,16 @@
     "lat": 50.682286,
     "lng": -1.146329,
     "found_in_location": "Sandown",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "goodknightpestcontrol@gmail.com",
+    "emails": [
+      "goodknightpestcontrol@gmail.com"
+    ],
+    "description": "Following a treatment you will be given a product advice sheet so you know what has been used and what to do if you have any concerns following a treatment.",
+    "services": [
+      "Bed Bug Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Thames Valley Pest Control",
@@ -286,7 +431,15 @@
     "lat": 51.403212,
     "lng": -1.259446,
     "found_in_location": "Thatcham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@thamesvalleypestcontrol.co.uk",
+    "emails": [
+      "info@thamesvalleypestcontrol.co.uk"
+    ],
+    "description": "Thames Valley Pest Control is your local professional pest specialists. Based in Thatcham we provide an effective & discreet service, only unmarked vehicles are used with no signwritting. Commercial & Domestic Pest Control in Reading, Bracknell, Newbury and Basingstoke.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pestforce Pest Control Reading",
@@ -320,7 +473,18 @@
     "lat": 50.759007,
     "lng": -1.540972,
     "found_in_location": "Lymington",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "forestpestcontrol@outlook.com",
+    "emails": [
+      "forestpestcontrol@outlook.com"
+    ],
+    "description": "Forest Pest Control offer a comprehensive insect, rodent and wildlife control and removal service throughout the New Forest.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "365 Pest Control",
@@ -337,7 +501,17 @@
     "lat": 51.120224,
     "lng": 0.856683,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "contact@365pestcontrol.com",
+    "emails": [
+      "contact@365pestcontrol.com"
+    ],
+    "description": "365 Pest Control Services can offer you cover for pests like Insects, Mites, Rodents and Birds, 24 hours a day, 7 days a week in the UK.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ADS Integrated Pest Management",
@@ -354,7 +528,18 @@
     "lat": 51.401752,
     "lng": -1.323383,
     "found_in_location": "Newbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ads-services.co.uk",
+    "emails": [
+      "info@ads-services.co.uk"
+    ],
+    "description": "Providing environmentally conscious pest control services in Berkshire, Oxfordshire, Hampshire, and Wiltshire for residential and commercial clients, 7 days a week",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pearl's Pest Control",
@@ -371,7 +556,16 @@
     "lat": 51.220569,
     "lng": -0.201885,
     "found_in_location": "Reigate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "james@pearlspestcontrol.co.uk",
+    "emails": [
+      "james@pearlspestcontrol.co.uk"
+    ],
+    "description": "Pearl's Pest Control treats a variety of common pests, including rats, mice, moles, moths, flies, bed bugs, and more, in Reigate, Surrey, and the surrounding areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Barnard Environmental",
@@ -388,7 +582,20 @@
     "lat": 51.238106,
     "lng": 0.567144,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "philip@barnardenvironmental.co.uk",
+    "emails": [
+      "philip@barnardenvironmental.co.uk",
+      "filler@godaddy.com"
+    ],
+    "description": "Barnard Environmental provides pest control, rodent contamination cleaning, biohazard cleanup & property recovery in Kent",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Craig Morris Countryside Services",
@@ -405,7 +612,20 @@
     "lat": 50.978448,
     "lng": -1.451254,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@hampshirepestcontrol.uk",
+    "emails": [
+      "enquiries@hampshirepestcontrol.uk"
+    ],
+    "description": "Craig Morris Countryside Services offers a range of services to domestic, business, parish council and agricultural premises of Hampshire. These services include pest control for moles, rats, mice, wasps, squirrels, cluster flies, rabbits, and the control of American mink to help in the...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Smallwood Pest Solutions",
@@ -422,7 +642,19 @@
     "lat": 51.360488,
     "lng": 1.109638,
     "found_in_location": "Herne Bay",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "smallwoodpestsolutions@outlook.com",
+    "emails": [
+      "smallwoodpestsolutions@outlook.com"
+    ],
+    "description": "Look for Pest Control Herne Bay? Smallwood Pest Solutions provides expert pest control services. Get in touch for a free quote.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Vertaproof - Wildlife and Pest Management",
@@ -439,7 +671,12 @@
     "lat": 50.898179,
     "lng": -1.021613,
     "found_in_location": "Waterlooville",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "jonathan@vertaproof.co.uk",
+    "emails": [
+      "jonathan@vertaproof.co.uk"
+    ],
+    "description": "Vertaproof offer Wildlife and Pest Control Services local to Hampshire, West Sussex and Surrey. Highly rated on Google and Checkatrade. NPTA Member, Basis Prompt Professional Pest Control Registered, Campaign for Responsible Rodenticide Use Supporter (CRRU)"
   },
   {
     "name": "Help Me Pest Control Ltd",
@@ -456,7 +693,21 @@
     "lat": 50.838583,
     "lng": -0.403574,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@helpmepestcontrol.co.uk",
+    "emails": [
+      "info@helpmepestcontrol.co.uk",
+      "info@antipestltd.co.uk"
+    ],
+    "description": "Specialists in domestic pest control in Worthing. Fast. Professional. Mice, pigeons, rats, cockroaches destroyed professionally. 5* Rated",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "R.J. Services - \"The Pest Pros\"",
@@ -490,7 +741,18 @@
     "lat": 51.298019,
     "lng": -1.051854,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "broadswordpestcontrol@gmail.com",
+    "emails": [
+      "broadswordpestcontrol@gmail.com"
+    ],
+    "description": "Broadsword Pest Control is an independent business.Operating in the North Hampshire, Berkshire and Surrey border\u2019s area. We work hard to make sure the job is done properly. We like happy customers as we know you\u2019ll tell others so it is in our interest to do a perfect job every time as reputation...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestox",
@@ -507,7 +769,15 @@
     "lat": 51.741819,
     "lng": -1.173612,
     "found_in_location": "Oxford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Bird control Oxford. Expert bird and pigeon controller. Whether you have pigeons, birds or require guano cleanup in Oxford, we are the specialists to call.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pests4Less",
@@ -524,7 +794,17 @@
     "lat": 51.166657,
     "lng": -0.161875,
     "found_in_location": "Horley",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "pests4less@gmail.com",
+    "emails": [
+      "pests4less@gmail.com"
+    ],
+    "description": "Collaborating with both private individuals and commercial entities, Pests4Less delivers efficient, secure, and cost-effective solutions.",
+    "services": [
+      "Commercial Pest Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "RIDTEK Pest Control",
@@ -541,7 +821,20 @@
     "lat": 51.236947,
     "lng": -1.14095,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ridtek.co.uk",
+    "emails": [
+      "info@ridtek.co.uk"
+    ],
+    "description": "RIDTEK is an independent family-owned professional pest control company located in Basingstoke and staffed by friendly technicians. We are current members of the BPCA and Trading Standards Hampshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A Wasp Control",
@@ -595,7 +888,23 @@
     "lat": 50.826978,
     "lng": -0.148285,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@terminatepest.co.uk",
+    "emails": [
+      "info@terminatepest.co.uk",
+      "brighton@terminatepest.co.uk",
+      "kymossman@terminatepest.co.uk"
+    ],
+    "description": "Do you have a pest problem in Brighton or Falmouth? Contact Terminate Pest Control. Please call 01326 377470 for Falmouth & 01273 358565 for Brighton",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Innovation Pest Control Ltd",
@@ -612,7 +921,20 @@
     "lat": 51.166526,
     "lng": 0.886313,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@innovationpestcontrol.co.uk",
+    "emails": [
+      "enquiries@innovationpestcontrol.co.uk"
+    ],
+    "description": "Fast, trusted pest control in Ashford, Kent. BPCA-certified experts offering same-day removal for rats, wasps, bed bugs, and more. Book today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Wasp Buster",
@@ -629,7 +951,15 @@
     "lat": 51.23381,
     "lng": -0.201192,
     "found_in_location": "Reigate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@waspbuster.co.uk",
+    "emails": [
+      "info@waspbuster.co.uk"
+    ],
+    "description": "Wasp nest treatment in a 12 mile radius of Reigate . Total cost \u00a375 plus \u00a325 per extra nest. 5 STAR REVIEWS.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Countrywide Pest Control - Basingstoke",
@@ -646,7 +976,20 @@
     "lat": 51.291818,
     "lng": -1.069238,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Emergency same-day pest control in Basingstoke for rats, mice, squirrels, wasps, bed bugs, cockroaches, ants, pigeons, seagulls and any other nuisance pest.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "GEM Services",
@@ -663,7 +1006,23 @@
     "lat": 51.131711,
     "lng": 0.857285,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "nate@gemservices.uk",
+    "emails": [
+      "nate@gemservices.uk"
+    ],
+    "description": "Fast, discreet, and reliable pest control services covering families and businesses across Kent.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cinque Ports Pest Control Ltd (Kent)",
@@ -680,7 +1039,17 @@
     "lat": 51.02261,
     "lng": 0.991579,
     "found_in_location": "Romney Marsh",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@cinqueportspestcontrol.co.uk",
+    "emails": [
+      "info@cinqueportspestcontrol.co.uk"
+    ],
+    "description": "Kent's experts in pest control for both domestic and commercial jobs. Call us on 07786315875 or email to get in touch.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Pest Response Ltd",
@@ -697,7 +1066,19 @@
     "lat": 51.257564,
     "lng": -1.100093,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "contact@pest-response.co.uk",
+    "emails": [
+      "contact@pest-response.co.uk"
+    ],
+    "description": "Fast, friendly and discrete pest control service from Pest-Response. Call now for no nonsense competitive pricing and personal service from a local pest control company.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Orion Pest Management",
@@ -714,7 +1095,15 @@
     "lat": 52.064918,
     "lng": -0.607031,
     "found_in_location": "Bedford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest control for Milton Keynes, Bedford, Luton and surrounding areas. We control rats, mice, various crawling insects and flying insects, pigeons and squirrels",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pure Pest Solutions",
@@ -731,7 +1120,20 @@
     "lat": 51.600445,
     "lng": -1.134821,
     "found_in_location": "Wallingford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@purepest.uk",
+    "emails": [
+      "info@purepest.uk"
+    ],
+    "description": "Pure Pest Solutions have got the fast and safe solution to your pest control problem including Rats and Mice, Wasps, Bed Bugs, Moths and more!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "San-Tech Pest Control",
@@ -748,7 +1150,21 @@
     "lat": 50.858262,
     "lng": 0.463217,
     "found_in_location": "Bexhill-on-Sea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@san-tech.org",
+    "emails": [
+      "info@san-tech.org"
+    ],
+    "description": "Eliminate pests with our trusted pest control services. We offer safe, efficient, and affordable solutions to protect your home or business from unwanted pests.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Insectinators",
@@ -765,7 +1181,26 @@
     "lat": 51.115326,
     "lng": -0.185665,
     "found_in_location": "Crawley",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@insectinators.uk",
+    "emails": [
+      "info@insectinators.uk"
+    ],
+    "description": "Our pest management solutions are backed by a team of licensed, highly trained, and experienced technicians.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "CritterCall Pest Control",
@@ -782,7 +1217,16 @@
     "lat": 51.218555,
     "lng": -0.453622,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "timothyhall33@yahoo.co.uk",
+    "emails": [
+      "timothyhall33@yahoo.co.uk"
+    ],
+    "description": "Pest Control in Surrey, Hampshire and surrounding areas, we offer Routine contract visit or jobs covering Rats, Mice, Cockroaches, Ants, Wasps, Bed Bugs, Moles and many more. Family run busnuiess, honest, reliable, discreet and fairly priced. Free Quotes given",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Surrey Wildlife & Pest Control",
@@ -799,7 +1243,12 @@
     "lat": 51.296311,
     "lng": -0.559366,
     "found_in_location": "Woking",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "jason@surreywildlifecontrol.co.uk",
+    "emails": [
+      "jason@surreywildlifecontrol.co.uk"
+    ],
+    "description": "Contact Us Surrey Wildlife & Pest Control 115 Liquorice Lane Woking Surrey GU22 9NY Tel: 07500 742292 Email: jason@surreywildlifecontrol.co.uk"
   },
   {
     "name": "Browning Pest Services Ltd",
@@ -816,7 +1265,15 @@
     "lat": 51.085656,
     "lng": -0.992784,
     "found_in_location": "Alton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@mole-control-hampshire.co.uk",
+    "emails": [
+      "enquiries@mole-control-hampshire.co.uk"
+    ],
+    "description": "Mole Control Hampshire is your friendly, local mole control expert. With over 18 years experience we offer domestic and commercial mole control services.",
+    "services": [
+      "Mole Control"
+    ]
   },
   {
     "name": "envirowell",
@@ -833,7 +1290,16 @@
     "lat": 51.16089,
     "lng": 0.003127,
     "found_in_location": "Lingfield",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@envirowell.co.uk",
+    "emails": [
+      "info@envirowell.co.uk"
+    ],
+    "description": "Envirowell are a pest control business that operates in Surrey specialising in all areas of the industry, from domestic to commercial, including rural and urban control.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Jones Pest Control",
@@ -850,7 +1316,18 @@
     "lat": 50.819079,
     "lng": -0.127857,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "jonespestcontrol@aol.com",
+    "emails": [
+      "jonespestcontrol@aol.com"
+    ],
+    "description": "Effective pest control in Brighton and Sussex. Jones Pest Control have over 30 years of experience. Your property will quickly become safe & free of rats, mice or other pests. Operating at a very high success rate, we solve present pest control needs as well as future-proofing your home from...",
+    "services": [
+      "Ant Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wasp Control",
@@ -887,7 +1364,8 @@
     "lat": 50.817444,
     "lng": 0.245427,
     "found_in_location": "Polegate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Carpet Cleaning in Eastbourne, Upholstery cleaning and Carpet repairs. Fully trained and Insured. Member of the NCCA and proud member of Checkatrade."
   },
   {
     "name": "Abbey Pest Control",
@@ -904,7 +1382,16 @@
     "lat": 51.452549,
     "lng": -0.982809,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "abbeypestreading@gmail.com",
+    "emails": [
+      "abbeypestreading@gmail.com"
+    ],
+    "description": "At Abbey Pest Control Reading we specialise in pest control services for rats, mice, wasps, moles, squirrels, bedbugs and ants. We're based in Reading.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Pestforce Pest Control Portsmouth",
@@ -938,7 +1425,13 @@
     "lat": 50.822769,
     "lng": -1.053073,
     "found_in_location": "Portsmouth",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Don't wait until they're out of control. Call Contract Killers Pest Control in Portsmouth. Insect, bird and vermin control specialists. Get in touch today.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "EcoTrap Pest Control",
@@ -955,7 +1448,17 @@
     "lat": 51.18215,
     "lng": 0.383601,
     "found_in_location": "Tonbridge",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ecotrapservices.com",
+    "emails": [
+      "info@ecotrapservices.com",
+      "nigel@ecotrapservices.com"
+    ],
+    "description": "We specialise in professional pest control services protecting homes and businesses across South East England.",
+    "services": [
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wessex Pest Control Ltd",
@@ -972,7 +1475,11 @@
     "lat": 50.921952,
     "lng": -1.494335,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Wessex Pest Control handle pest & rodent infestations in domestic, commercial & agricultural premises across Hampshire, Dorset, Sussex & Surrey.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Guildford Wasp Control",
@@ -992,7 +1499,8 @@
     "found_with_query": "pest control southeast",
     "services": [
       "Wasp Nest Removal"
-    ]
+    ],
+    "description": "Here at Guildford Wasp Control, we pride ourselves on providing a safe, efficient and friendly service. We won't keep you waiting long, our prices are fair and our work is backed by a guarantee. We are qualified and insured and we have years of experience with handling poisons safely, so before..."
   },
   {
     "name": "Project Multi Pest Control",
@@ -1009,7 +1517,27 @@
     "lat": 51.277015,
     "lng": 1.217267,
     "found_in_location": "Canterbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@pmpest.co.uk",
+    "emails": [
+      "enquiries@pmpest.co.uk"
+    ],
+    "description": "We specialise in 24 hour pest and bird control services in Kent. We control all pests including rats, mice, birds, bed bugs, wasps and more",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Fumigation",
+      "Mole Control",
+      "Moth Treatment",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "GB Facilities Services Ltd",
@@ -1026,7 +1554,15 @@
     "lat": 50.77142,
     "lng": 0.276528,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@gbltd.co.uk",
+    "emails": [
+      "info@gbltd.co.uk"
+    ],
+    "description": "GB-Ltd Deep Cleaning Commercial Specialist are a nationwide cleaning service across construction and facilities management sectors. Get in touch today.",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "WaspbusterMK",
@@ -1043,7 +1579,8 @@
     "lat": 52.049937,
     "lng": -0.789647,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Wasps Invaded Your Neighbourhood? Who You Gonna Call?... WASPBUSTERMK"
   },
   {
     "name": "Advance Pest Control",
@@ -1060,7 +1597,18 @@
     "lat": 50.814797,
     "lng": -0.421084,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "will@advancepestcontrol.co.uk",
+    "emails": [
+      "will@advancepestcontrol.co.uk"
+    ],
+    "description": "Advance Pest Control Former Brighton & Hove City Council pest control officer Will ensures expert professional solutions pest control Brighton pest control Hove",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Tech Country Pest Control Ltd",
@@ -1077,7 +1625,20 @@
     "lat": 50.76839,
     "lng": 0.291617,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@techcountry.co.uk",
+    "emails": [
+      "info@techcountry.co.uk"
+    ],
+    "description": "Rely on Tech Country's 40+ years of expertise for trusted pest control solutions. Call 07943 777170 for emergencies.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PST pest control and wildlife management",
@@ -1094,7 +1655,17 @@
     "lat": 50.974528,
     "lng": 0.218738,
     "found_in_location": "Heathfield",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "paul@pstpestcontrol.com",
+    "emails": [
+      "paul@pstpestcontrol.com"
+    ],
+    "description": "wasp nest removal Rats Mice Ants",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Mole Control"
+    ]
   },
   {
     "name": "Coast 2 Coast Pest Control",
@@ -1111,7 +1682,19 @@
     "lat": 50.778493,
     "lng": -0.952382,
     "found_in_location": "Hayling Island",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "coast2coastpests@gmail.com",
+    "emails": [
+      "coast2coastpests@gmail.com"
+    ],
+    "description": "Call us now for an affordable, free quote. We offer a discreet, fast and thorough service.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Artemis Pest Services",
@@ -1128,7 +1711,20 @@
     "lat": 51.461831,
     "lng": -1.009795,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@artemispest.co.uk",
+    "emails": [
+      "info@artemispest.co.uk",
+      "info@atremispest.co.uk"
+    ],
+    "description": "Providing Professional Pest Control, Annual Pest Maintenance Contracts & Pest Clean-Up Services.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ben\u2019s Pest Solutions",
@@ -1145,7 +1741,17 @@
     "lat": 51.117328,
     "lng": -0.014344,
     "found_in_location": "East Grinstead",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "benspestsolutions@gmail.com",
+    "emails": [
+      "benspestsolutions@gmail.com"
+    ],
+    "description": "Family run, Independent Pest control service based in East Grinstead, Ben's Pest Control covers all pests including rodents, insects, birds and small mammals. Over 15 years experience. Services including private and commercial services.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Hampshire Bird & Pest Solutions Basingstoke",
@@ -1179,7 +1785,12 @@
     "lat": 50.936573,
     "lng": -0.391389,
     "found_in_location": "Pulborough",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "rob.english20@gmail.com",
+    "emails": [
+      "rob.english20@gmail.com"
+    ],
+    "description": "Discrete, fast, efficient, professional and reliable pest control services for houses, offices, farms, warehouses. Call us on 07763 438 231 for a free quote"
   },
   {
     "name": "Phil's Pest Control",
@@ -1196,7 +1807,21 @@
     "lat": 51.266056,
     "lng": -0.837176,
     "found_in_location": "Fleet",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "phils-pest-control@hotmail.com",
+    "emails": [
+      "phils-pest-control@hotmail.com"
+    ],
+    "description": "Trusted local pest control and wildlife management across Fleet and surrounding areas. Over 30 years\u2019 experience in safe, effective pest removal for homes and businesses.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Surrey County Pest Control",
@@ -1213,7 +1838,13 @@
     "lat": 51.25117,
     "lng": -0.590213,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Do you have a pest problem at home or work? Contact our fully licensed, highly knowledgeable team to get help today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "County Pest Control",
@@ -1230,7 +1861,14 @@
     "lat": 51.302068,
     "lng": -0.552502,
     "found_in_location": "Woking",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Woking:01483 822204Godalming:07988 49492224hr Mobile:07988 494922",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SDR Conservation",
@@ -1247,7 +1885,15 @@
     "lat": 50.893982,
     "lng": 0.301954,
     "found_in_location": "Hailsham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "steve@sdrconservation.co.uk",
+    "emails": [
+      "steve@sdrconservation.co.uk"
+    ],
+    "description": "Pest Control Hailsham, East Sussex. Rodents, Wasps and Insects no matter what pest we guarantee to have a specialist out to you within 24hrs - 01323 656 828",
+    "services": [
+      "Ant Control"
+    ]
   },
   {
     "name": "Osprey Pest Control",
@@ -1264,7 +1910,22 @@
     "lat": 51.322281,
     "lng": -0.607317,
     "found_in_location": "Woking",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "ospreypestcontrolsurrey@gmail.com",
+    "emails": [
+      "ospreypestcontrolsurrey@gmail.com"
+    ],
+    "description": "Protect your home and business from unwanted pests with expert residential, commercial, and wildlife management solutions.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Check",
@@ -1281,7 +1942,18 @@
     "lat": 51.359358,
     "lng": 1.380364,
     "found_in_location": "Margate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "contact@pest-check.co.uk",
+    "emails": [
+      "contact@pest-check.co.uk"
+    ],
+    "description": "Independent family run Pest Control Service in Kent. Pest Check specialise in effective pest control for residential and commercial clients.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment"
+    ]
   },
   {
     "name": "Pest Rambo",
@@ -1298,7 +1970,8 @@
     "lat": 50.821295,
     "lng": -1.072067,
     "found_in_location": "Portsmouth",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Leading pest control specialists. Same-day service for ants, rats, wasps & more. 24/7 emergency response across Hampshire, Surrey & Sussex. Licensed, insured & guaranteed."
   },
   {
     "name": "Countrywide Pest Control Reading",
@@ -1315,7 +1988,20 @@
     "lat": 51.425084,
     "lng": -0.987894,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Emergency same-day pest control in Basingstoke for rats, mice, squirrels, wasps, bed bugs, cockroaches, ants, pigeons, seagulls and any other nuisance pest.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Perfection Pest Control",
@@ -1332,7 +2018,16 @@
     "lat": 51.536713,
     "lng": -0.662114,
     "found_in_location": "Slough",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "perfectionpestcontrol@outlook.com",
+    "emails": [
+      "perfectionpestcontrol@outlook.com"
+    ],
+    "description": "Do you have rodents, insects or other pest problems? Affordable, discreet and urgent pest control services available. Contact us now.",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Waspkill",
@@ -1349,7 +2044,15 @@
     "lat": 51.426924,
     "lng": -0.470813,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "rkinnard@aol.com",
+    "emails": [
+      "rkinnard@aol.com"
+    ],
+    "description": "Contact us in Ashford, Middlesex, when you need expert wasp control and help with your infestation problem.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Boarer Pest Control Ltd",
@@ -1400,7 +2103,17 @@
     "lat": 50.844717,
     "lng": -0.884146,
     "found_in_location": "Chichester",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@aacute-pestcontrol.co.uk",
+    "emails": [
+      "info@aacute-pestcontrol.co.uk"
+    ],
+    "description": "With 25 years' experience, Aacute provides experienced pest control services across Portsmouth, Chichester, and Hampshire. Get in touch now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Trapper Pest Control",
@@ -1417,7 +2130,15 @@
     "lat": 50.782002,
     "lng": -1.074935,
     "found_in_location": "Southsea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@trapperpestcontrol.co.uk",
+    "emails": [
+      "info@trapperpestcontrol.co.uk"
+    ],
+    "description": "Trapper Pest Control is a Portsmouth-based pest control company that specialises in the detection, identification and prevention of pests. We cater for both domestic and commercial markets and offer a personal, professional service.Trapper Pest Control only uses the most up-to-date insecticides,...",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Oxfordshire/Oxon Pest Control",
@@ -1434,7 +2155,22 @@
     "lat": 51.777752,
     "lng": -1.264648,
     "found_in_location": "Oxford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "sales@oxfordshirepestcontrol.uk",
+    "emails": [
+      "sales@oxfordshirepestcontrol.uk",
+      "sales@oxonpestcontrol.com"
+    ],
+    "description": "\" Oxon pest control offers expert vermin and pest control services for homes and businesses.\" Our licensed and experienced technicians use safe and effective methods to rid your property of unwanted pests. From ants and roaches to rats and mice, we have the expertise to handle any pest problem....",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Sabre Kent Pest Control Ltd",
@@ -1451,7 +2187,15 @@
     "lat": 51.212727,
     "lng": 0.493805,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@sabrekent.com",
+    "emails": [
+      "enquiries@sabrekent.com"
+    ],
+    "description": "Professional pest control in Maidstone, Kent and London. Experts in rats, mice and pigeon control, humane bird netting and long-term pest prevention for homes and businesses.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "CG Garden Services",
@@ -1468,7 +2212,12 @@
     "lat": 50.786583,
     "lng": 0.321453,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "cggardenservicesuk@gmail.com",
+    "emails": [
+      "cggardenservicesuk@gmail.com"
+    ],
+    "description": "From vibrant gardens to functional landscapes, we craft outdoor spaces that blend beauty and purpose\u2014tailored just for you."
   },
   {
     "name": "Brand Pest Control",
@@ -1485,7 +2234,19 @@
     "lat": 51.252333,
     "lng": -0.875504,
     "found_in_location": "Farnham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "brandpestcontrol@yahoo.co.uk",
+    "emails": [
+      "brandpestcontrol@yahoo.co.uk"
+    ],
+    "description": "Pest control service specialising in wasp nests, and bees - in Farnborough, Fleet, Aldershot, Hook, Basingstoke, Farnham, Frimley, Camberley and other areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cedar Pest Control & Prevention",
@@ -1502,7 +2263,8 @@
     "lat": 50.979092,
     "lng": -1.447552,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest control across Hampshire and Wiltshire"
   },
   {
     "name": "Pest Control Local",
@@ -1519,7 +2281,17 @@
     "lat": 51.363763,
     "lng": 1.100665,
     "found_in_location": "Herne Bay",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Professional Pest Control Safe. Fast. Guaranteed Pest Removal. From rodents to insects \u2013 we\u2019ve got you covered.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Moores Pest Control Services Ltd",
@@ -1536,7 +2308,12 @@
     "lat": 51.070242,
     "lng": -0.364305,
     "found_in_location": "Horsham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@moorespestcontrol.co.uk",
+    "emails": [
+      "info@moorespestcontrol.co.uk"
+    ],
+    "description": "Your Local Pest Control Experts!"
   },
   {
     "name": "PEST INTENTIONS LTD",
@@ -1553,7 +2330,16 @@
     "lat": 51.99248,
     "lng": -0.755189,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Intentions Ltd offers effective and humane pest control solutions in Milton Keynes. Contact us for reliable service and peace of mind.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SJH Pest Control Romney Marsh",
@@ -1570,7 +2356,15 @@
     "lat": 51.048627,
     "lng": 0.998028,
     "found_in_location": "Romney Marsh",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "SJH Pest Control is your go-to vermin control contractor in Dover. Call 07933 712 442 for domestic and commercial pest control services in Romney Marsh.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "All Out Pest Control Worthing",
@@ -1604,7 +2398,14 @@
     "lat": 51.058352,
     "lng": 0.523838,
     "found_in_location": "Cranbrook",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Looking for Pest Control in Kent and Wildlife Management arrows the region, contact Fen Pest Control Ltd today. Rodent Control and more.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Brunel Pest Control",
@@ -1621,7 +2422,18 @@
     "lat": 50.79298,
     "lng": -1.063788,
     "found_in_location": "Southsea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@brunelpestcontrol.co.uk",
+    "emails": [
+      "info@brunelpestcontrol.co.uk"
+    ],
+    "description": "At Brunel Pest Control we are keen to discuss your pest control problem fully before agreeing a price. Please be assured that any quote you receive will be for the total price of the job, with no hidden extras or VAT, and no minimum job size.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SGM DOMESTICS",
@@ -1655,7 +2467,18 @@
     "lat": 51.598151,
     "lng": -1.108045,
     "found_in_location": "Wallingford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "apcs@gmx.co.uk",
+    "emails": [
+      "apcs@gmx.co.uk"
+    ],
+    "description": "Advanced Pest Control Oxford can clear your property fast. Regardless of the size of the infestation, we provide discreet and humane pest control services.",
+    "services": [
+      "Commercial Pest Control",
+      "Fox Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest in control",
@@ -1672,7 +2495,18 @@
     "lat": 51.143152,
     "lng": -0.053316,
     "found_in_location": "East Grinstead",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "hello@pestincontrol.com",
+    "emails": [
+      "hello@pestincontrol.com"
+    ],
+    "description": "At Pest In Control, we are dedicated to providing you with quality pest control services across Sussex, Kent & Surrey.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "pest positive",
@@ -1689,7 +2523,18 @@
     "lat": 51.275903,
     "lng": 0.575286,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "brett@pestpositive.com",
+    "emails": [
+      "brett@pestpositive.com"
+    ],
+    "description": "Pest Positive provide pest control services throughout Kent as both one-off treatments or long term contracts to help protect your home or business from unwanted pests.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Moth Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "BMS Pest Control",
@@ -1706,7 +2551,22 @@
     "lat": 50.786961,
     "lng": -1.051165,
     "found_in_location": "Southsea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@bmspest.co.uk",
+    "emails": [
+      "info@bmspest.co.uk"
+    ],
+    "description": "Competitively priced, family run pest control service in Southampton, Portsmouth and the surrounding areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bye Bye Pests",
@@ -1723,7 +2583,11 @@
     "lat": 51.297526,
     "lng": -1.053794,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "BYE BYE Pests at the most competitive prices around. Pest Control in Basingstoke, Fleet, Reading, Alton, Newbury, Southampton, Bracknell, Haslemere, Winchester, Maidenhead, Petersfield, Slough, Andover, Camberley.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Winchester Pest Control",
@@ -1740,7 +2604,13 @@
     "lat": 51.0634,
     "lng": -1.317755,
     "found_in_location": "Winchester",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Control Services in Winchester, Southampton & Portsmouth",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bowman Services Pest Control",
@@ -1757,7 +2627,18 @@
     "lat": 51.362754,
     "lng": 1.271963,
     "found_in_location": "Birchington",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@bowmanpestcontrol.co.uk",
+    "emails": [
+      "info@bowmanpestcontrol.co.uk",
+      "bowmanpestcontrol@gmail.com"
+    ],
+    "description": "Bowman Solar Panel ProofingWe are able to proof solar panels against pigeons nesting under the cells with an impressive 3-year warranty, and have even got a ...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Rother Pest Control",
@@ -1774,7 +2655,20 @@
     "lat": 50.86949,
     "lng": 0.548244,
     "found_in_location": "Saint Leonards-on-sea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "office@rotherpestcontrol.co.uk",
+    "emails": [
+      "office@rotherpestcontrol.co.uk"
+    ],
+    "description": "Rother Pest Control - Independent, family owned and operated. If you have an issue with Rats, mice, fleas, wasps, bees, insects call us today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PestGuard Solutions",
@@ -1791,7 +2685,17 @@
     "lat": 51.284484,
     "lng": 0.544519,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@pestguardsolutions.co.uk",
+    "emails": [
+      "info@pestguardsolutions.co.uk"
+    ],
+    "description": "Leaders in Pest Control - We are based in Maidstone and Tunbridge Wells - Domestic and Commercial. DEDICATED. EXPERIENCED. DISCREET.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestkill Ltd",
@@ -1808,7 +2712,11 @@
     "lat": 50.917615,
     "lng": -1.459587,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "admin@pestkill.co.uk",
+    "emails": [
+      "admin@pestkill.co.uk"
+    ]
   },
   {
     "name": "Olde English Pest Control",
@@ -1825,7 +2733,17 @@
     "lat": 51.127252,
     "lng": 0.848758,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "barryluckhurst16bore@gmail.com",
+    "emails": [
+      "barryluckhurst16bore@gmail.com"
+    ],
+    "description": "Olde English Pest Control provide pest control services in the Southeast. Kent's premier rabbit and mole control specialist.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Mole Control"
+    ]
   },
   {
     "name": "F M Pest Solutions Ltd",
@@ -1842,7 +2760,16 @@
     "lat": 51.164686,
     "lng": 0.889178,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@fmpestsolutions.com",
+    "emails": [
+      "info@fmpestsolutions.com",
+      "%20info@fmpestsolutions.com"
+    ],
+    "description": "Established in 2004, F M Pest Solutions Ltd is a dynamic, forward thinking service company which was initially set up to provide a professional pest control service to the Facilities Management and wider business community.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Control Pest UK Ltd",
@@ -1859,7 +2786,19 @@
     "lat": 51.233277,
     "lng": -1.001374,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "controlpestuk@hotmail.co.uk",
+    "emails": [
+      "controlpestuk@hotmail.co.uk"
+    ],
+    "description": "Professional and friendly Pest Control Services across Hampshire, Berkshire & Wiltshire from controlpestuk.com",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Mole Control"
+    ]
   },
   {
     "name": "Campbell's Pest Control",
@@ -1876,7 +2815,17 @@
     "lat": 50.809894,
     "lng": 0.291054,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "daveboniface@hotmail.co.uk",
+    "emails": [
+      "daveboniface@hotmail.co.uk"
+    ],
+    "description": "Bedbugs tend to group together in hiding places. Their hiding places are typically in mattresses, box springs, bed frames, and headboards where they have easy access to people to bite in the night.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Pest Purge",
@@ -1910,7 +2859,8 @@
     "lat": 50.910842,
     "lng": -1.304684,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Control service in Fareham and Hampshire"
   },
   {
     "name": "Pest Problem - Hampshire",
@@ -1927,7 +2877,8 @@
     "lat": 50.832647,
     "lng": -1.063476,
     "found_in_location": "Portsmouth",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Problem offer discreet commercial and domestic pest control services at competitive prices, covering London, Essex, Hampshire and Devon. We understand that pest problems at your home or business could impact your personal or business image, which is why discretion is key. We will attend you..."
   },
   {
     "name": "Purean Solutions and Technology Limited",
@@ -1944,7 +2895,15 @@
     "lat": 52.038448,
     "lng": -0.762431,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@insectram.co.uk",
+    "emails": [
+      "info@insectram.co.uk"
+    ],
+    "description": "Insectram is the only pest control software designed by pest controllers for pest controllers. Simplify scheduling to stay audit-ready.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Power Pest Control",
@@ -1961,7 +2920,16 @@
     "lat": 51.443611,
     "lng": -1.018012,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@powerpestcontrol.co.uk",
+    "emails": [
+      "info@powerpestcontrol.co.uk"
+    ],
+    "description": "Power Pest Control provide pest control services throughout Berkshire and Buckinghamshire including Bracknell, Slough, Maidenhead, Reading, Ascot, High Wycombe, Windsor and Marlow.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Pest Aside Ashford",
@@ -1978,7 +2946,11 @@
     "lat": 51.117199,
     "lng": 0.935243,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Aside are a family-run business providing DOMESTIC and COMMERCIAL pest control services, quickly and effectively in East Kent. Ashford Pest Control Ashford.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Early Pest Control",
@@ -2012,7 +2984,13 @@
     "lat": 51.280691,
     "lng": 1.087619,
     "found_in_location": "Canterbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Call DT Facilities Kent for blocked drains, Boiler installations,Pest control, plumbing and heating work from Oil to LPG and also unvented heating systems.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Basingstoke mole catcher",
@@ -2031,8 +3009,10 @@
     "found_in_location": "Basingstoke",
     "found_with_query": "pest control southeast",
     "services": [
-      "Mole Control"
-    ]
+      "Mole Control",
+      "Rat & Mouse Control"
+    ],
+    "description": "MOLE CONTROL SERVING BASINGSTOKE AND SURROUNDING AREAS . MANY YEARS OF EXPERIENCE, FULLY INSURED AND DBS CHECKED . PRICES VARY ACCORDING TO SIZE OF AREA TO BE TREATED AND DISTANCE TO BE TRAVELLED RAT AND MOUSE CONTROL AVAILABLE . FIND ME ON THE BRITISH MOLECATCHERS REGISTER PAYMENT BANK TRANSFER"
   },
   {
     "name": "Apex Environmental Services UK Ltd",
@@ -2049,7 +3029,15 @@
     "lat": 51.256919,
     "lng": -1.081966,
     "found_in_location": "Basingstoke",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@apexbirdcontrol.uk",
+    "emails": [
+      "info@apexbirdcontrol.uk"
+    ],
+    "description": "A complete bird proofing and bird control service covering Berkshire and Hampshire. Bird netting, bird spiking, bird scaring.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Heritage Pest Control",
@@ -2066,7 +3054,18 @@
     "lat": 51.055886,
     "lng": 0.506626,
     "found_in_location": "Hawkhurst",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@heritagepestcontrol.co.uk",
+    "emails": [
+      "enquiries@heritagepestcontrol.co.uk",
+      "heritagepestcontrolservices@gmail.com"
+    ],
+    "description": "Established in 1999, Heritage Pest Control is a professional, family-run company dedicated to the removal of rats, mice, wasps and numerous other pests from local homes and businesses serving Tunbridge Wells, Tonbridge, Sevenoaks, Cranbrook, Tenterden and the surrounding areas.",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SuperGuard Brighton",
@@ -2083,7 +3082,17 @@
     "lat": 50.829734,
     "lng": -0.143735,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@superguardpestcontrol.uk",
+    "emails": [
+      "info@superguardpestcontrol.uk"
+    ],
+    "description": "Our value is providing unparalleledstructural safeguarding and guaranteed assurance. We use the most sophisticated diagnostic equipment and certified, non-invasive exclusion techniques, ensuring your investment is shielded from future infestation and minimizing recurring costs.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Container Fumigation Services Ltd",
@@ -2120,7 +3129,16 @@
     "lat": 52.143688,
     "lng": -0.560285,
     "found_in_location": "Bedford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ews-group.uk.com",
+    "emails": [
+      "info@ews-group.uk.com"
+    ],
+    "description": "EWS Group is your professional and innovative partner for all forms of pest control, fumigation, gas measurement, ventilation and bio treatments of goods in storage. We are looking for a Bird Control Technician View the job Innovation, partnership and transparency is embedded in the DNA of our...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "The County Pest Control",
@@ -2137,7 +3155,14 @@
     "lat": 51.190321,
     "lng": -0.606047,
     "found_in_location": "Godalming",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Woking:01483 822204Godalming:07988 49492224hr Mobile:07988 494922",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Surrey wasp control",
@@ -2244,8 +3269,15 @@
     "found_in_location": "Hove",
     "found_with_query": "pest control southeast",
     "services": [
-      "Bird & Pigeon Control"
-    ]
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ],
+    "email": "enquiries@cleankill.co.uk",
+    "emails": [
+      "enquiries@cleankill.co.uk"
+    ],
+    "description": "Award-winning pest control services from one of the UK's leading privately run pest control companies."
   },
   {
     "name": "Insx Pest Control",
@@ -2262,7 +3294,22 @@
     "lat": 51.457997,
     "lng": -0.582153,
     "found_in_location": "Windsor",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@insx.co",
+    "emails": [
+      "info@insx.co"
+    ],
+    "description": "Pest Control Windsor Wasp Nest Removal Rats Mice Moles Cockroaches INSX Pest Control Old Windsor, Windsor, Slough, Maidenhead, Bracknell, Ascot, Virginia Water, Staines, Wraysbury, Datchet and Langley. Berkshire Wasp Nests Removal Pest Control Experts",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ed's Garden Services - Worthing",
@@ -2279,7 +3326,8 @@
     "lat": 50.825226,
     "lng": -0.388402,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Worthing Garden Services from Ed\u2019s Garden Maintenance, offering professional Gardeners to Mow Lawns, cut back Hedges, Turf New Lawns or Re-Turf your Lawns"
   },
   {
     "name": "Marshall Paul",
@@ -2313,7 +3361,18 @@
     "lat": 51.135963,
     "lng": -0.264029,
     "found_in_location": "Orltons",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "office@merlinenvironmental.co.uk",
+    "emails": [
+      "office@merlinenvironmental.co.uk"
+    ],
+    "description": "Merlin are the UK\u2019s #1 dedicated commercial pest control service provider. We use the most advanced non-toxic methods with guaranteed results.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Integrum Services",
@@ -2330,7 +3389,23 @@
     "lat": 51.374069,
     "lng": -0.203775,
     "found_in_location": "Sutton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Trusted domestic & commercial pest control London services for rodents, insects & birds. Same-day responses & guaranteed success. Book Now.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Masters Pest Control Sydney",
@@ -2347,7 +3422,16 @@
     "lat": -33.848121,
     "lng": 150.961817,
     "found_in_location": "Guildford West",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "admin@masterspestcontrolsydney.com.au",
+    "emails": [
+      "admin@masterspestcontrolsydney.com.au"
+    ],
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "All Aspects Pest Control Ltd",
@@ -2364,7 +3448,20 @@
     "lat": 51.44765,
     "lng": -0.893632,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "tony@aaps.org.uk",
+    "emails": [
+      "tony@aaps.org.uk"
+    ],
+    "description": "Pest control services in Reading. We are a local family run company dealing with rats, squirrels, pigeons, wasps, hornets, moles, bed bugs, moths, ants and mice.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Countrywide Pest Control - Newbury",
@@ -2381,7 +3478,20 @@
     "lat": 51.40629,
     "lng": -1.326342,
     "found_in_location": "Newbury",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Emergency same-day pest control in Basingstoke for rats, mice, squirrels, wasps, bed bugs, cockroaches, ants, pigeons, seagulls and any other nuisance pest.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DKG Pest Control LTD",
@@ -2398,7 +3508,23 @@
     "lat": 51.399886,
     "lng": -0.840316,
     "found_in_location": "Wokingham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@dkgpestcontrol.co.uk",
+    "emails": [
+      "info@dkgpestcontrol.co.uk",
+      "laura@dkgpestcontrol.co.uk"
+    ],
+    "description": "Local family pest control Berkshire & Hampshire. Wasp Nest Removal, Hornets, Mice, Mole Catcher, Rats, Squirrels & Pigeon Proofing Solar Panels.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "RS Pest Control Portsmouth",
@@ -2415,7 +3541,20 @@
     "lat": 50.870628,
     "lng": -0.9968,
     "found_in_location": "Havant",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@rspest.co.uk",
+    "emails": [
+      "info@rspest.co.uk"
+    ],
+    "description": "RS Pest Control provides pest services to homes & businesses in Havant, Portsmouth, Southampton & the surrounding Hampshire areas. Call now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "AGS Pest Control",
@@ -2432,7 +3571,21 @@
     "lat": 50.838076,
     "lng": -0.099938,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "pestcontrol@agsone.co.uk",
+    "emails": [
+      "pestcontrol@agsone.co.uk"
+    ],
+    "description": "24-hour pest prevention and removal service, with teams working around the clock in some of the most challenging environments in the country.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Dominion Limited",
@@ -2449,7 +3602,20 @@
     "lat": 51.513836,
     "lng": -0.581697,
     "found_in_location": "Slough",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "services@pestdominion.com",
+    "emails": [
+      "services@pestdominion.com"
+    ],
+    "description": "Fast, safe pest control for homes & businesses across the UK. Same-day response, low-toxicity treatments for rodents, insects & birds. Transparent pricing.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Alert Pest Control Services Bexhill",
@@ -2466,7 +3632,17 @@
     "lat": 50.850129,
     "lng": 0.466791,
     "found_in_location": "Bexhill-on-Sea",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "support@test.com",
+    "emails": [
+      "support@test.com",
+      "davidguy2020@gmail.com"
+    ],
+    "description": "Local Family Pest Control Business, Hastings & Bexhill Pest Control, East Sussex & surrounding areas, Rats Mice Fleas Squirrels other pests treated.",
+    "services": [
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Pestforce UK",
@@ -2500,7 +3676,22 @@
     "lat": 51.121923,
     "lng": -0.868221,
     "found_in_location": "Bordon",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "john@hwpestcontrol.co.uk",
+    "emails": [
+      "john@hwpestcontrol.co.uk",
+      "your-email@domain.com"
+    ],
+    "description": "Pest Control East Hampshire - HWPC A family run business. Our USP is we beat national pest control prices & service levels.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Solutions Oxfordshire Ltd",
@@ -2517,7 +3708,17 @@
     "lat": 51.772509,
     "lng": -1.356847,
     "found_in_location": "Witney",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Solutions Oxfordshire are YOUR local pest controllers. Family run and focused on offering a FIRST CLASS service at a COMPETITIVE price. CALL US NOW...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bounty Pest Control",
@@ -2534,7 +3735,17 @@
     "lat": 51.128797,
     "lng": 0.86374,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@bountypestcontrol.co.uk",
+    "emails": [
+      "info@bountypestcontrol.co.uk"
+    ],
+    "description": "Pest Control for domestic commercial public premises. Family run, professional, accredited, personal service for the safe eradication of all pests form rats to fleas and everything in between.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Archer & James Gardening Solutions",
@@ -2551,7 +3762,12 @@
     "lat": 50.773706,
     "lng": 0.270916,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "archerjamesgardens@outlook.com",
+    "emails": [
+      "archerjamesgardens@outlook.com"
+    ],
+    "description": "We help keep the grass greener!"
   },
   {
     "name": "Biggs Pest Damp & Timber Solutions",
@@ -2568,7 +3784,13 @@
     "lat": 51.417052,
     "lng": 0.370865,
     "found_in_location": "Gravesend",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@pestandtimber.co.uk",
+    "emails": [
+      "enquiries@pestandtimber.co.uk",
+      "nathan@pestandtimber.co.uk"
+    ],
+    "description": "Call BIGGS 07517 385421 for Pest Control, Timber Services, & Tanking in Kent, Essex, London & Surrey."
   },
   {
     "name": "Smarden Pest Control Services",
@@ -2585,7 +3807,15 @@
     "lat": 51.151413,
     "lng": 0.682856,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "gerald@smardenpestcontrol.co.uk",
+    "emails": [
+      "gerald@smardenpestcontrol.co.uk"
+    ],
+    "description": "Smarden Pest Control Services is afamily run businessbased in the village of Smarden, Kent.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The PestAway Group Sussex",
@@ -2619,7 +3849,18 @@
     "lat": 51.377316,
     "lng": -1.127338,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@combatpestsolutions.com",
+    "emails": [
+      "info@combatpestsolutions.com"
+    ],
+    "description": "Combat Pest Solutions provide professional pest control solutions in Berkshire, Oxfordshire & Hampshire. We offer both residential & commercial pest control services.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pest Control Berkshire",
@@ -2636,7 +3877,26 @@
     "lat": 51.375885,
     "lng": -1.058249,
     "found_in_location": "Berkshire",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "name@company.com",
+    "emails": [
+      "name@company.com"
+    ],
+    "description": "Reliable pest control operating widely across the local area \u2713 | Services to cover a range of infiltration issues \ud83d\udc01 | Committed & targeted | Hire us here \u2192",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Seymour Pest Control Services",
@@ -2653,7 +3913,13 @@
     "lat": 50.952997,
     "lng": 0.733789,
     "found_in_location": "Rye",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Discreet & professional local pest control service. Over ten years of experience offering a wide range of services.Lantra and Basis Prompt registered.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pestraid",
@@ -2670,7 +3936,18 @@
     "lat": 51.354483,
     "lng": 1.430168,
     "found_in_location": "Broadstairs",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@pestraid.uk",
+    "emails": [
+      "info@pestraid.uk"
+    ],
+    "description": "Pestraid operates a 24 hour response service for a pest controller in Thanet, in most cases we offer a same day service. Call us today",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Kent Pest Services",
@@ -2687,7 +3964,24 @@
     "lat": 51.346767,
     "lng": 1.401556,
     "found_in_location": "Ramsgate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "help@kentpestservices.co.uk",
+    "emails": [
+      "help@kentpestservices.co.uk"
+    ],
+    "description": "Kent Pest Services offers a range of Pest Control Management services including mole, mouse & rat control, bed bug & rodent pest control, bird proofing & rabbit fencing, wasp nest removal & flea treatment in Kent.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Northdowns Pest Control - Guildford",
@@ -2704,7 +3998,17 @@
     "lat": 51.253283,
     "lng": -0.487786,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "paul@northdownspestcontrol.co",
+    "emails": [
+      "paul@northdownspestcontrol.co"
+    ],
+    "description": "Surreys professional pest control and prevention specialists Pest Control Guildford Surrey - Have you got a problem with Rats, Mice, Fleas, Wasps, Bedbugs,...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Latham Pest Control Ltd",
@@ -2721,7 +4025,17 @@
     "lat": 50.974635,
     "lng": -1.378912,
     "found_in_location": "Eastleigh",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "lathampestcontrol@yahoo.co.uk",
+    "emails": [
+      "lathampestcontrol@yahoo.co.uk"
+    ],
+    "description": "Are you looking for a company that offers rodent prevention services in Eastleigh or Southampton? Latham Pest Control is a name that you can trust. We offer our services to domestic and commercial customers in the area. Speak to our team today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ThermoPest Bed Bug Treatment",
@@ -2740,8 +4054,15 @@
     "found_in_location": "Reading",
     "found_with_query": "pest control southeast",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ],
+    "email": "office@pest.co.uk",
+    "emails": [
+      "office@pest.co.uk"
+    ],
+    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
   },
   {
     "name": "ThermoPest Bed Bug Heat Treatment",
@@ -2760,8 +4081,15 @@
     "found_in_location": "Portsmouth",
     "found_with_query": "pest control southeast",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ],
+    "email": "office@pest.co.uk",
+    "emails": [
+      "office@pest.co.uk"
+    ],
+    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
   },
   {
     "name": "MPC Pest Control Surrey",
@@ -2778,7 +4106,12 @@
     "lat": 51.184182,
     "lng": -0.16145,
     "found_in_location": "Horley",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "MPC Pest Control are a family pest prevention service operating in Surrey, Sussex and Kent.",
+    "services": [
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Grassroots Lawn Treatments Ltd",
@@ -2795,7 +4128,12 @@
     "lat": 51.155849,
     "lng": 0.291478,
     "found_in_location": "Tunbridge Wells",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "grassrootslawntreatments@gmail.com",
+    "emails": [
+      "grassrootslawntreatments@gmail.com"
+    ],
+    "description": "Enjoy Your Garden Even More We pride ourselves on providing a friendly, personal and above all high quality lawn care service for all our clients. Contact Us Lawn Care Hard Surfaces Gutters FAQ ABOUT USGrassrootsLawn Treatments LTDGrassroots Lawn Treatments is an independent, family business run..."
   },
   {
     "name": "Ideal Response | 24/7 Damage Restoration",
@@ -2812,7 +4150,8 @@
     "lat": 51.269604,
     "lng": 0.607333,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Trusted damage restoration service, providing expert fire and water damage restoration, as well as specialist cleaning services across the UK. Contact us today."
   },
   {
     "name": "P G H Pest Control",
@@ -2829,7 +4168,11 @@
     "lat": 51.212698,
     "lng": -0.453695,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "PGH Pest Control & Prevention offers pest control services for businesses and homes. We solve pest problems that others can't.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "ProPest",
@@ -2846,7 +4189,21 @@
     "lat": 51.723168,
     "lng": -1.221713,
     "found_in_location": "Oxford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "hello@propestltd.com",
+    "emails": [
+      "hello@propestltd.com"
+    ],
+    "description": "Welcome to the revamped ProPest Oxford, now expanding into a franchise model, covering even more ground throughout the UK. Since our establishment in 2017, we\u2019ve proudly served Private Estate owners with unparalleled pest control services.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JL Pest Control Ltd",
@@ -2863,7 +4220,15 @@
     "lat": 50.819944,
     "lng": -0.129963,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "JL Pest Control is known by wasps, rats, fleas, ants, flies, birds and bedbugs across Sussex",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Pestbgone Ltd Pest Control Buckinghamshire",
@@ -2880,7 +4245,21 @@
     "lat": 51.583437,
     "lng": -0.763102,
     "found_in_location": "Marlow",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@pestbgone.co.uk",
+    "emails": [
+      "info@pestbgone.co.uk"
+    ],
+    "description": "PESTBGONE Professional Pest Controllers serving homeowners and businesses covering all areas of Buckinghamshire and South Gloucestershire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MP Environmental",
@@ -2897,7 +4276,18 @@
     "lat": 51.350383,
     "lng": 1.319936,
     "found_in_location": "Ramsgate",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@mpenvironmental.co.uk",
+    "emails": [
+      "info@mpenvironmental.co.uk"
+    ],
+    "description": "MP Environmental pest control covering East Kent including rats bed bugs birds wasps bees rodents and all pests for domestic and commercial property with low cost solutions available",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Imperium Pest Control",
@@ -2914,7 +4304,20 @@
     "lat": 51.151782,
     "lng": 0.856197,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@imperiumpestcontrol.com",
+    "emails": [
+      "enquiries@imperiumpestcontrol.com",
+      "sskillett@imperiumpestcontrol.com"
+    ],
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Maidenhead Pest Control Ltd",
@@ -2931,7 +4334,21 @@
     "lat": 51.522818,
     "lng": -0.717756,
     "found_in_location": "Maidenhead",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "tony@aaps.org.uk",
+    "emails": [
+      "tony@aaps.org.uk"
+    ],
+    "description": "Professional pest control in Maidenhead, Ascot and Windsor. All pests professionally removed, insects and rodents:, mice, rats, moles and squirrels.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "New Guard Pest Control Ltd",
@@ -2948,7 +4365,17 @@
     "lat": 51.08136,
     "lng": 1.18426,
     "found_in_location": "Folkestone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@newguardpestcontrol.co.uk",
+    "emails": [
+      "info@newguardpestcontrol.co.uk"
+    ],
+    "description": "New Guard Pest Control - No call out charge by fully qualified technicians in discrete vans covering the whole of Kent and East Sussex",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Area Pest Control UK Ltd",
@@ -2965,7 +4392,22 @@
     "lat": 52.045777,
     "lng": -0.794212,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "support@areapestcontrol.co.uk",
+    "emails": [
+      "support@areapestcontrol.co.uk",
+      "demo@divi.express"
+    ],
+    "description": "Get in touch with Area Pest Control for expert pest, pigeon, and solar panel protection services. Contact us today for a free consultation.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pesky Critters Ltd",
@@ -2982,7 +4424,8 @@
     "lat": 51.506399,
     "lng": -0.59799,
     "found_in_location": "Slough",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Buy pesky-critters.co.uk for 100 on GoDaddy via ExpiredDomains.com. This premium expired .co.uk domain is ideal for Pest Control projects. Secure it today!"
   },
   {
     "name": "RS Pest Control Southampton",
@@ -2999,7 +4442,20 @@
     "lat": 50.909911,
     "lng": -1.408562,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@rspest.co.uk",
+    "emails": [
+      "info@rspest.co.uk"
+    ],
+    "description": "RS Pest Control provides pest services to homes & businesses in Havant, Portsmouth, Southampton & the surrounding Hampshire areas. Call now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Spotlight Pest Control Services Ltd",
@@ -3016,7 +4472,17 @@
     "lat": 51.061472,
     "lng": 1.028673,
     "found_in_location": "Barn",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@spotlightpestcontrolkent.co.uk",
+    "emails": [
+      "info@spotlightpestcontrolkent.co.uk"
+    ],
+    "description": "Reliable, Professional & Friendly. All Pests & Proofing: Rodents, Insects, Birds. Domestic & Commercial. Serving Kent. Members of Checkatrade.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "PestPro UK Ltd",
@@ -3033,7 +4499,17 @@
     "lat": 52.044452,
     "lng": -0.799743,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "graham@pestprouk.co.uk",
+    "emails": [
+      "graham@pestprouk.co.uk",
+      "name@email.com"
+    ],
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ThermoPest Bed Bug Treatment Southampton",
@@ -3052,8 +4528,15 @@
     "found_in_location": "Southampton",
     "found_with_query": "pest control southeast",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ],
+    "email": "office@pest.co.uk",
+    "emails": [
+      "office@pest.co.uk"
+    ],
+    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
   },
   {
     "name": "Surrey Fox Control",
@@ -3072,8 +4555,10 @@
     "found_in_location": "Guildford",
     "found_with_query": "pest control southeast",
     "services": [
+      "Flea Treatment",
       "Fox Control"
-    ]
+    ],
+    "description": "Welcome to Surrey Fox Control, Where we hope you find the answer you are looking for. Our expert will be pleased to answer any questions you may have."
   },
   {
     "name": "Countryside Pest Control",
@@ -3107,7 +4592,12 @@
     "lat": 51.107999,
     "lng": 1.15757,
     "found_in_location": "Folkestone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "david@thegardenmate.co.uk",
+    "emails": [
+      "david@thegardenmate.co.uk"
+    ],
+    "description": "Garden maintenance in Kent, looking after residential gardens: including those of the elderly, disabled and busy people."
   },
   {
     "name": "Traditional Pest Control",
@@ -3124,7 +4614,18 @@
     "lat": 51.102492,
     "lng": -1.156961,
     "found_in_location": "Alresford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@darengeorgeltd.co.uk",
+    "emails": [
+      "info@darengeorgeltd.co.uk"
+    ],
+    "description": "Taking control of your pest problem Traditional Pest Control offers pest control services to homeowners and businesses in Hampshire. Wasps and Hornets Crawling & Flying Insects Honey Bee Relocation Rats and Mice Squirrel Control Rabbit Control Mole Control Fox Control Drain Surveys Think...",
+    "services": [
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Creature Comforts & Aquatic Centre",
@@ -3158,7 +4659,18 @@
     "lat": 50.840676,
     "lng": -0.115553,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@betapestsussex.co.uk",
+    "emails": [
+      "info@betapestsussex.co.uk"
+    ],
+    "description": "Are you looking for Pest Control Brighton? Betapest offers residential and commercial Pest control services. Contact us for a free quote.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pest Tec Crawley",
@@ -3175,7 +4687,26 @@
     "lat": 51.119828,
     "lng": -0.071045,
     "found_in_location": "Crawley",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@pest-tec-crawley.co.uk",
+    "emails": [
+      "info@pest-tec-crawley.co.uk"
+    ],
+    "description": "Pest Control in Crawley? Fast, Safe & Affordable Pest Removal \u2013 Pest Tec. Get rid of pests today with trusted, expert solutions!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest UK Oxford",
@@ -3192,7 +4723,18 @@
     "lat": 51.748074,
     "lng": -1.277522,
     "found_in_location": "Oxford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "services@pestuk.com",
+    "emails": [
+      "services@pestuk.com"
+    ],
+    "description": "About Oxford The city of Oxford is located at the heart of Oxfordshire in central southern England. The rivers Cherwell and Thames run through Oxford and meet south of the city centre. The city has one of the best-preserved groups of medieval buildings in the world. Originating in the late Saxon...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Axatax Pest Control",
@@ -3209,7 +4751,18 @@
     "lat": 52.083065,
     "lng": -0.74311,
     "found_in_location": "Newport Pagnell",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Rats and Mice are very prolific breeders, quickly multiplying and a cause for concern with many health issues.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Wasp Guys",
@@ -3226,7 +4779,11 @@
     "lat": 51.258373,
     "lng": -0.002678,
     "found_in_location": "Oxted",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "The Wasp Guys Surrey. Wasp nests destroyed in Surrey and surrounding areas. \u00a355 plus VAT and half price for additional nests. The Wasp Guys are a family-run business since 2009. Fully insured and work guaranteed. Call us on 07761 232470",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Force 10 Pest Control",
@@ -3243,7 +4800,12 @@
     "lat": 50.821643,
     "lng": 0.311298,
     "found_in_location": "Pevensey",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@force10ltd.co.uk",
+    "emails": [
+      "info@force10ltd.co.uk"
+    ],
+    "description": "Force10 Ltd provide Pest Control, Exterior Cleaning and Drainage services across East Sussex and the UK - Force10 Limited"
   },
   {
     "name": "R.H. Smith (Worthing) Ltd",
@@ -3260,7 +4822,12 @@
     "lat": 50.82916,
     "lng": -0.362246,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@rhsmithltd.co.uk",
+    "emails": [
+      "info@rhsmithltd.co.uk"
+    ],
+    "description": "Our team of specialists are experts in timber treatment, basement tanking, and damp proofing in Worthing. Call us to arrange a free site visit and get a free quote"
   },
   {
     "name": "Rentokil Pest Control - Crawley",
@@ -3294,7 +4861,19 @@
     "lat": 51.357345,
     "lng": 1.145605,
     "found_in_location": "Herne Bay",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "rdrpestmanagement@sky.com",
+    "emails": [
+      "rdrpestmanagement@sky.com"
+    ],
+    "description": "Professional expertise for your pest control needs!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AGS One",
@@ -3311,7 +4890,21 @@
     "lat": 50.838915,
     "lng": -0.099006,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "pestcontrol@agsone.co.uk",
+    "emails": [
+      "pestcontrol@agsone.co.uk"
+    ],
+    "description": "24-hour pest prevention and removal service, with teams working around the clock in some of the most challenging environments in the country.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pets at Home Milton Keynes",
@@ -3328,7 +4921,8 @@
     "lat": 52.041585,
     "lng": -0.777641,
     "found_in_location": "Milton Keynes",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "Pest Control Direct",
@@ -3345,7 +4939,16 @@
     "lat": 50.854229,
     "lng": 0.2676,
     "found_in_location": "Hailsham",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Providing innovative and conventional pest control products for home and professional use. Solve your pest problems with Pest Control Direct!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Folkestone Pest Control",
@@ -3362,7 +4965,21 @@
     "lat": 51.080221,
     "lng": 1.169433,
     "found_in_location": "Folkestone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "hello@folkestonepestcontrol.uk",
+    "emails": [
+      "hello@folkestonepestcontrol.uk"
+    ],
+    "description": "For expert pest control in Folkestone, call Folkestone Pest Control at 01303 533154. We provide fast, reliable removal of rats, mice, fleas, bed bugs, insects, wasps, and more. Serving Folkestone, Dover, and surrounding areas in Kent. Contact us today for professional pest control services!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Guildford Bee Swarm Rehoming",
@@ -3396,7 +5013,19 @@
     "lat": 51.173835,
     "lng": -0.016242,
     "found_in_location": "Lingfield",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@3countiespestcontrol.com",
+    "emails": [
+      "enquiries@3countiespestcontrol.com"
+    ],
+    "description": "We are a reputable pest control company serving Kent, Surrey, Sussex and neighbouring regions. Contact 3 Counties Pest Control today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fox Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Fibrecare",
@@ -3413,7 +5042,16 @@
     "lat": 50.780219,
     "lng": 0.30103,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "sales@fibrecare.co.uk",
+    "emails": [
+      "sales@fibrecare.co.uk"
+    ],
+    "description": "Based in Eastbourne, Fibrecare Specialist Cleaning Service is a unique company offering a wide variety of specialist cleaning services to both domestic and commercial customers.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment"
+    ]
   },
   {
     "name": "Absolute Pest Control Ltd",
@@ -3430,7 +5068,21 @@
     "lat": 51.192297,
     "lng": 0.51302,
     "found_in_location": "Tonbridge",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@absolutepest.co.uk",
+    "emails": [
+      "info@absolutepest.co.uk"
+    ],
+    "description": "Looking for professional pest control services in Kent? We at Absolute Pest Control are a leading business in this area. Contact us today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fox Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Horsham Pest Control",
@@ -3464,7 +5116,8 @@
     "lat": 50.84189,
     "lng": -0.199255,
     "found_in_location": "Hove",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Web site created using create-react-app"
   },
   {
     "name": "Nightshift Pest Control",
@@ -3481,7 +5134,16 @@
     "lat": 51.124906,
     "lng": 0.25678,
     "found_in_location": "Tunbridge Wells",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "office@nightshiftpestcontrol.co.uk",
+    "emails": [
+      "office@nightshiftpestcontrol.co.uk"
+    ],
+    "description": "Nightshift Pest Control, providing pest control solutions for residential and commercial properties such as hotels, restaurants, airports, agricultural serving the South East of England.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Phoenix Pest Control",
@@ -3532,7 +5194,22 @@
     "lat": 51.607568,
     "lng": -1.252842,
     "found_in_location": "Didcot",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@totalpestcontrol.co.uk",
+    "emails": [
+      "info@totalpestcontrol.co.uk"
+    ],
+    "description": "Domestic and commercial pest control experts in Oxford and across the South East, South West, Midlands & London. Call for quotes and appointments.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest UK Head Office Reading",
@@ -3549,7 +5226,18 @@
     "lat": 51.393494,
     "lng": -0.996698,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "services@pestuk.com",
+    "emails": [
+      "services@pestuk.com"
+    ],
+    "description": "About Oxford The city of Oxford is located at the heart of Oxfordshire in central southern England. The rivers Cherwell and Thames run through Oxford and meet south of the city centre. The city has one of the best-preserved groups of medieval buildings in the world. Originating in the late Saxon...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Goodwin Pest Management",
@@ -3566,7 +5254,25 @@
     "lat": 51.133587,
     "lng": 0.868636,
     "found_in_location": "Ashford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "office@gpmpestcontrol.co.uk",
+    "emails": [
+      "office@gpmpestcontrol.co.uk",
+      "simon@gpmpestcontrol.co.uk"
+    ],
+    "description": "How Goodwin Pest Management Can Help You: For pest control advice or to book a pest control call 0800 634 2530 How We\u2019ll Solve Your Pest Problems: Lisa, Head of Facilities & IT of a Private members\u2026",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Sussex Warrener",
@@ -3617,7 +5323,12 @@
     "lat": 50.771567,
     "lng": 0.260093,
     "found_in_location": "Eastbourne",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@poultonremedialservices.co.uk",
+    "emails": [
+      "enquiries@poultonremedialservices.co.uk"
+    ],
+    "description": "Poulton Remedial are the South East's leading Woodworm, Damp, Rot & Structural repair specialists. Poulton Remedial have been trading since 1965 and have over 50 years of experience rectifying building defects."
   },
   {
     "name": "Thermal Pest Control Oxfordshire",
@@ -3685,7 +5396,15 @@
     "lat": 50.828706,
     "lng": -0.374697,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "sales@nomorebirds.co.uk",
+    "emails": [
+      "sales@nomorebirds.co.uk"
+    ],
+    "description": "No More Birds offer a large range of bird deterrent, proofing & cleaning products, including pigeon spikes, netting, visual & sonic deterrents.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Rentokil Pest Control - Portsmouth",
@@ -3719,7 +5438,20 @@
     "lat": 50.830654,
     "lng": -0.177755,
     "found_in_location": "Hove",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Expert Pest Control Company providing Control, Removal and Prevention Services of all Pests and Vermin for Homes and Businesses for Over 40 Years.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Havant Pest Control",
@@ -3736,7 +5468,8 @@
     "lat": 50.848329,
     "lng": -0.969283,
     "found_in_location": "Havant",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pests are a challenge to control. By the time you have noticed the problem they may already be established, presenting a serious health risk and damaging property. The good news is Havant Borough Council is here to help. We are committed to offering a consistently high quality service you can..."
   },
   {
     "name": "A1 Pest Control Brighton",
@@ -3770,7 +5503,17 @@
     "lat": 50.838425,
     "lng": -0.123812,
     "found_in_location": "Brighton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "For Local Pest Control Near Me in Brighton Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Brighton, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Brighton Pest Control",
@@ -3804,7 +5547,17 @@
     "lat": 50.833984,
     "lng": -0.191616,
     "found_in_location": "Hove",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "For Local Pest Control Near Me in Hove Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Hove, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Firmkill Pest Control",
@@ -3821,7 +5574,18 @@
     "lat": 51.268568,
     "lng": 0.573567,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Control Near Me Maidstone ME14 ME15 ME16 ME17 ME18 ME19 ME20. Same day response, great prices. Pest control for rats, mice, flies, wasps, moths, garden mole control, professional flea treatment, squirrels in lofts, pest exterminator Kent, Pest control for homes, commercial pest control...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Maidstone Pest Control",
@@ -3838,7 +5602,19 @@
     "lat": 51.279898,
     "lng": 0.549469,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "hello@maidstonepestcontrol.uk",
+    "emails": [
+      "hello@maidstonepestcontrol.uk"
+    ],
+    "description": "Maidstone Pest Control provides professional pest management. We offer a variety of strategies for both residential and business settings.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Asset PCS",
@@ -3855,7 +5631,12 @@
     "lat": 51.260084,
     "lng": 0.526501,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "support@toolkit.uk",
+    "emails": [
+      "support@toolkit.uk"
+    ],
+    "description": "If you are the owner of this website,please call us on01243 913 913oremail our team onsupport@toolkit.ukas soon as possible."
   },
   {
     "name": "Pest Solutions",
@@ -3872,7 +5653,23 @@
     "lat": 50.945841,
     "lng": -1.363222,
     "found_in_location": "Southampton",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@pestsolutions.co.uk",
+    "emails": [
+      "info@pestsolutions.co.uk",
+      "glasgow@pestsolutions.co.uk",
+      "newcastle@pestsolutions.co.uk"
+    ],
+    "description": "Pest Solutions | The Pest Control Professionals | BPCA Accredited Pest and Bird Control | Pest Control Services in Glasgow, Edinburgh, Aberdeen, Dundee,",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Rentokil Pest Control - Hamble Valley Area",
@@ -3940,7 +5737,15 @@
     "lat": 51.752601,
     "lng": -1.258642,
     "found_in_location": "Oxford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Rat and pest control reading",
@@ -3957,7 +5762,18 @@
     "lat": 51.453908,
     "lng": -1.049487,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "cawigginton@tiscali.co.uk",
+    "emails": [
+      "cawigginton@tiscali.co.uk"
+    ],
+    "description": "We only use the best products from a company called killgerm chemicals which are specially made for professional pest controllers and are not on sale to the public. new laws make it illegal to sell most of the rodenticides we use with out receiving the proper training.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "ADS Integrated Pest Management - Reading",
@@ -3974,7 +5790,18 @@
     "lat": 51.460417,
     "lng": -0.931213,
     "found_in_location": "Reading",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@ads-services.co.uk",
+    "emails": [
+      "info@ads-services.co.uk"
+    ],
+    "description": "Providing environmentally conscious pest control services in Berkshire, Oxfordshire, Hampshire, and Wiltshire for residential and commercial clients, 7 days a week",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Ricks Pest Control Berkshire",
@@ -4025,7 +5852,13 @@
     "lat": 51.258386,
     "lng": -0.575199,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Guildford Pest Control, Wasps, Bees , Hornets, Bed Bugs, Fleas, Flies, Moths and Ants, Cockroaches, Rats, Mice Rodents, Moles, Foxes and Squirrels, Rabbits, Pigeons, Magpies and Crows",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Express",
@@ -4042,7 +5875,16 @@
     "lat": 51.238014,
     "lng": -0.571293,
     "found_in_location": "Surrey",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "For Local Pest Control Near Me in Surrey Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Surrey, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Max Pest Control Services",
@@ -4161,7 +6003,11 @@
     "lat": 50.814023,
     "lng": -0.418541,
     "found_in_location": "Worthing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Pest Control Worthing With over 15 years of experience in the pest control industry, I pride myself on offering a friendly, reliable service.",
+    "services": [
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Personal Service Pest Control",
@@ -4195,7 +6041,17 @@
     "lat": 51.212864,
     "lng": 0.644311,
     "found_in_location": "Maidstone",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "mail@abapc.co.uk",
+    "emails": [
+      "mail@abapc.co.uk"
+    ],
+    "description": "There are numerous devices entering the market day by day, however very few have a track record of performance against deterring colonisation of pest birds, we will only provide and install products that are guaranteed to work and will not need to be replaced annually.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "CRANLEIGH PEST CONTROL",
@@ -4212,7 +6068,13 @@
     "lat": 51.137375,
     "lng": -0.470327,
     "found_in_location": "Cranleigh",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Guildford Pest Control, Wasps, Bees , Hornets, Bed Bugs, Fleas, Flies, Moths and Ants, Cockroaches, Rats, Mice Rodents, Moles, Foxes and Squirrels, Rabbits, Pigeons, Magpies and Crows",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Col in Coley Pest Control",
@@ -4229,7 +6091,16 @@
     "lat": 51.194842,
     "lng": 0.292232,
     "found_in_location": "Tonbridge",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "info@colincoleypc.co.uk",
+    "emails": [
+      "info@colincoleypc.co.uk"
+    ],
+    "description": "Pest Control Tonbridge Wells, Tonbridge, and Sevenoaks. Affordable prices for call outs. Contact us today on 01732 387 243.",
+    "services": [
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Guildford Mole Catcher",
@@ -4283,7 +6154,11 @@
     "lat": 51.26574,
     "lng": -0.635413,
     "found_in_location": "Guildford",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Alphakill Pest Control - commercial and domestic pest control for Surrey, North Hampshire and South London. Food industry pest control specialists.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Murrell Trading Ltd",
@@ -4300,7 +6175,15 @@
     "lat": 50.820906,
     "lng": -0.332375,
     "found_in_location": "Lancing",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "email": "enquiries@murrelltrading.co.uk",
+    "emails": [
+      "enquiries@murrelltrading.co.uk"
+    ],
+    "description": "Murrell Trading operates a pest control division - No More Pests, where a full range of pest control products can be purchased online.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Beds and Bucks Pest Control",
@@ -4317,6 +6200,16 @@
     "lat": 52.083644,
     "lng": -0.742054,
     "found_in_location": "Newport Pagnell",
-    "found_with_query": "pest control southeast"
+    "found_with_query": "pest control southeast",
+    "description": "Removing Wasps and Bees nests quickly and efficiently.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   }
 ]

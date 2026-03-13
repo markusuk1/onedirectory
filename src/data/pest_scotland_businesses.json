@@ -14,7 +14,23 @@
     "lat": 55.847957,
     "lng": -4.277717,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@pestsolutions.co.uk",
+    "emails": [
+      "info@pestsolutions.co.uk",
+      "glasgow@pestsolutions.co.uk",
+      "newcastle@pestsolutions.co.uk"
+    ],
+    "description": "Pest Solutions | The Pest Control Professionals | BPCA Accredited Pest and Bird Control | Pest Control Services in Glasgow, Edinburgh, Aberdeen, Dundee,",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Barricade Pest Control Edinburgh",
@@ -31,7 +47,24 @@
     "lat": 55.961155,
     "lng": -3.167146,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@barricadepestcontrol.co.uk",
+    "emails": [
+      "info@barricadepestcontrol.co.uk"
+    ],
+    "description": "Barricade Pest Control Edinburgh are local pest control experts. Call us to get rid of Mice, Rats, Wasp nests etc. Call our local team on 0131 659 9752",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Eco Pest Control",
@@ -48,7 +81,16 @@
     "lat": 56.459602,
     "lng": -3.026521,
     "found_in_location": "Dundee",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@eco-pest-control.co.uk",
+    "emails": [
+      "info@eco-pest-control.co.uk"
+    ],
+    "description": "Eco Pest Control Ltd - Local Pest Control and Management Specialists",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Elysium Pest Control",
@@ -65,7 +107,17 @@
     "lat": 56.040645,
     "lng": -3.340834,
     "found_in_location": "Dunfermline",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@elysiumpestcontrol.co.uk",
+    "emails": [
+      "info@elysiumpestcontrol.co.uk"
+    ],
+    "description": "Elysium Pest Control Dunfermline Fife. Specialising in pest control dealing with wasps, ants, mice, rats, moles, seagulls and many more.",
+    "services": [
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Sonville Pest Control Edinburgh",
@@ -82,7 +134,20 @@
     "lat": 55.891926,
     "lng": -3.201525,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@sonville.co.uk",
+    "emails": [
+      "info@sonville.co.uk"
+    ],
+    "description": "Fast pest removal from sonville pest control edinburgh east lothian by Sonville Pest Control Edinburgh in Edinburgh & nearby areas\u2014call now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Saltire Pest Control",
@@ -99,7 +164,20 @@
     "lat": 55.836843,
     "lng": -3.209209,
     "found_in_location": "Penicuik",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@saltirepestcontrol.co.uk",
+    "emails": [
+      "info@saltirepestcontrol.co.uk"
+    ],
+    "description": "Saltire Pest Control \u2013 trusted experts in Pest Control Edinburgh. Domestic & commercial pest removal, proofing & free survey. Call 07763 636 390 today.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Tae A Moose Pest Control Services Ltd",
@@ -116,7 +194,23 @@
     "lat": 55.919112,
     "lng": -3.139859,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "taeamoose@hotmail.com",
+    "emails": [
+      "taeamoose@hotmail.com"
+    ],
+    "description": "Tae A Moose Pest Control Edinburgh are a company dedicated to making your home and business pest free. Call 01314761763 for a free quote",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Adaptive Pest Control Perth",
@@ -133,7 +227,21 @@
     "lat": -31.88378,
     "lng": 115.817585,
     "found_in_location": "Stirling",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@adaptivepest.com.au",
+    "emails": [
+      "info@adaptivepest.com.au",
+      "admin@adaptivepest.com.au"
+    ],
+    "description": "Adaptive Pest Control provides pest inspections for termites, mosquitos and other pests across Perth area. Affordable prices. Request a free quote online today.",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Edinburgh Environmental Services (EES) Edinburgh Pest Control",
@@ -150,7 +258,20 @@
     "lat": 55.950601,
     "lng": -3.295611,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "EES is a leading Edinburgh Pest Control Company offering affordable solutions. Keep your home or business safe. Call 07500162942 today for a FREE QUOTE!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Strathearn Pest Control",
@@ -184,7 +305,19 @@
     "lat": -31.938574,
     "lng": 115.857381,
     "found_in_location": "Perth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@ecofriendlypestcontrol.com.au",
+    "emails": [
+      "info@ecofriendlypestcontrol.com.au"
+    ],
+    "description": "If you aren\u2019t completely satisfied, we will work with you until you are. If pests return between treatments, your EcoFriendly will return at no extra charge.* And if we are unable to solve your pest problem, we\u2019ll refund you 100% your money.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation"
+    ]
   },
   {
     "name": "Tweed Pest Control",
@@ -201,7 +334,18 @@
     "lat": 55.599939,
     "lng": -2.692929,
     "found_in_location": "Melrose",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@tweedpestcontrol.co.uk",
+    "emails": [
+      "info@tweedpestcontrol.co.uk",
+      "kevin@tweedpestcontrol.co.uk",
+      "kevintweed@aol.com"
+    ],
+    "description": "Always happy to help. Please phone Kevin on07971828086",
+    "services": [
+      "Bird & Pigeon Control",
+      "Mole Control"
+    ]
   },
   {
     "name": "Bruce Environmental",
@@ -218,7 +362,23 @@
     "lat": 57.470316,
     "lng": -4.160879,
     "found_in_location": "Inverness",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@bruceenvironmental.co.uk",
+    "emails": [
+      "info@bruceenvironmental.co.uk"
+    ],
+    "description": "Welcome to Bruce Environmental. We are a dedicated team of pest control experts committed to keeping your home and business safe, clean, and pest-free.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Vermin Control Glasgow",
@@ -235,7 +395,20 @@
     "lat": 55.914428,
     "lng": -4.384181,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "vermincontrolglasgow@hotmail.com",
+    "emails": [
+      "vermincontrolglasgow@hotmail.com"
+    ],
+    "description": "Vermin Control Glasgow in Glasgow offers expert Pest Control Service including Pest Control Service, Rodent Control & Wasp & Hornet Nest Removal",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DGC Pest Management",
@@ -252,7 +425,21 @@
     "lat": 55.859669,
     "lng": -3.171712,
     "found_in_location": "Roslin",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Here at DGC Pest management we offer 24/7 pest control for homes & businesses across Edinburgh, The Lothians, Fife and Glasgow. Fast, discreet & effective treatments for Wasps, Rats, Mice, Bedbugs, Fleas, Birds & more - protecting homes and businesses with local trusted experts.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fox Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Strathclyde Pest Control",
@@ -269,7 +456,23 @@
     "lat": 55.754731,
     "lng": -4.242613,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@strathclydepestcontrol.co.uk",
+    "emails": [
+      "info@strathclydepestcontrol.co.uk",
+      "abc@xyz.com"
+    ],
+    "description": "AtStrathclyde Pest Control, we don\u2019t just eliminate pests\u2014we protect homes, businesses, and peace of mind. Based inEast Kilbride and serving Glasgow and beyond, we providefast, safe, and effective pest control solutionsfor residential and commercial properties",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Shire pest and property care Ltd",
@@ -286,7 +489,22 @@
     "lat": 55.516485,
     "lng": -4.37238,
     "found_in_location": "Mauchline",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@shirepestandpropertycare.co.uk",
+    "emails": [
+      "info@shirepestandpropertycare.co.uk",
+      "hello@email.co.uk"
+    ],
+    "description": "Expert property care services across South West Scotland. From property maintenance and protection to waste removal, loft clearance, needle sweeps, and trauma cleans.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "LPPC Environmental Pest Control Aberdeen",
@@ -303,7 +521,24 @@
     "lat": 57.144842,
     "lng": -2.089153,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "support@lppcenvironmental.co.uk",
+    "emails": [
+      "support@lppcenvironmental.co.uk"
+    ],
+    "description": "LPPC Environmental provides innovative pest control treatments in Aberdeen to reduce the impact of rodents, insects & birds on your property.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lightning Pest Specialists",
@@ -320,7 +555,17 @@
     "lat": 55.906102,
     "lng": -3.129122,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "lightningpests@hotmail.com",
+    "emails": [
+      "lightningpests@hotmail.com"
+    ],
+    "description": "Lightning Pest Specialists is a family-run pest control business servicing Edinburgh and the Lothians. Find affordable, efficient solutions to your pest problems with us.",
+    "services": [
+      "Bed Bug Treatment",
+      "Moth Treatment",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "The Pest Experts Ayrshire",
@@ -337,7 +582,24 @@
     "lat": 55.442707,
     "lng": -4.610859,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@thepestexpertsayrshire.co.uk",
+    "emails": [
+      "info@thepestexpertsayrshire.co.uk"
+    ],
+    "description": "Pest Control in Glasgow, Edinburgh, Ayr, Kilmarnock, Irvine, East Kilbride, Hamilton, Greenock, Livingston | Pest control for Wasps, Rats, Mice, Birds, Squirrels, Ants, Insects and Cockroaches.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "NW Scotland",
@@ -354,7 +616,18 @@
     "lat": 56.01135,
     "lng": -3.705593,
     "found_in_location": "Grangemouth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "joe.hunter@nwpestcontrolsolutions.co.uk",
+    "emails": [
+      "joe.hunter@nwpestcontrolsolutions.co.uk"
+    ],
+    "description": "Nw Scotland Effective Pest Control Solutions, Pest control falkirk, Pest control stirling",
+    "services": [
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Active Pest Solutions",
@@ -371,7 +644,19 @@
     "lat": 56.207189,
     "lng": -3.425624,
     "found_in_location": "Kinross",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@activepestsolutions.co.uk",
+    "emails": [
+      "info@activepestsolutions.co.uk",
+      "complaints@trustedtrader.scot"
+    ],
+    "description": "Our expert pest control solutions cover all types of pests in Fife, Perth, Kinross and Central Scotland. Rodents, Birds, Insects, Vermin all in a days work.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Highland Pest Control",
@@ -388,7 +673,21 @@
     "lat": 57.453456,
     "lng": -4.225879,
     "found_in_location": "Inverness",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "highlandpest@hotmail.com",
+    "emails": [
+      "highlandpest@hotmail.com"
+    ],
+    "description": "We Are Highland Pest Control Your Trusted Partner for Pest Control Inverness Get rid of unwanted visitors in your home or business swiftly and effectively. Request a FREE, no-obligation survey now! Contact Us How Highland Pest Control Works Inspect Fully trained professionals begin by examining...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Elite Pest Control Glasgow",
@@ -405,7 +704,19 @@
     "lat": 55.753762,
     "lng": -4.17038,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@elitepestcontrolglasgow.com",
+    "emails": [
+      "info@elitepestcontrolglasgow.com",
+      "%20info@elitepestcontrolglasgow.com",
+      "andrew.christie@flowwdigital.co.uk"
+    ],
+    "description": "Elite Pest Control Glasgow Call for a SITE SURVEY AND Quote 07926 471 391 View All Services Elite Pest Control Glasgow Call for a SITE SURVEY AND Quote 07926 471 391 BOOK ONLINE Trusted. Professional. Reliable. We are Elite Pest Control Glasgow - The pest control experts. If you require pest...",
+    "services": [
+      "Bed Bug Treatment",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ness Pest",
@@ -456,7 +767,12 @@
     "lat": 55.745048,
     "lng": -4.035238,
     "found_in_location": "Hamilton",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "kerrpestmanagement@yahoo.co.uk",
+    "emails": [
+      "kerrpestmanagement@yahoo.co.uk"
+    ],
+    "description": "At Kerr Pest Management we take care of your pest issues quickly and discreetly. We care about the safety of everyone within your home or business, this is why we ensure our products are administered safely and professionally with your customers, children or pets in mind. We take the hastle out..."
   },
   {
     "name": "A1 Pest Service",
@@ -473,7 +789,13 @@
     "lat": 56.027471,
     "lng": -3.785214,
     "found_in_location": "Falkirk",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Located in Falkirk Pest Service. Treatment & preventative measures to deal with unwanted pests. Many years of experience, Environmental Pest Services.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Bed Bugs Experts",
@@ -492,8 +814,16 @@
     "found_in_location": "Ayr",
     "found_with_query": "pest control scotland",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ],
+    "email": "info@bedbugsexperts.co.uk",
+    "emails": [
+      "info@bedbugsexperts.co.uk"
+    ],
+    "description": "Bed Bug Treatment Scotland, Yorkshire, England | Bed bug control and bed bug extermination. Fast and effective solutions. 24/7 Service."
   },
   {
     "name": "Loch Ness Honey Co.",
@@ -510,7 +840,12 @@
     "lat": 57.493439,
     "lng": -4.15092,
     "found_in_location": "Inverness",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "filler@godaddy.com",
+    "emails": [
+      "filler@godaddy.com"
+    ],
+    "description": "Andrew (aka MAC) founded Loch Ness Honey in 2014 whilst serving as a Police Officer. A head injury in 2019 forced a career change and since 2023 Loch Ness Honey Co. has been expanding."
   },
   {
     "name": "LAWN LEGEND LTD",
@@ -527,7 +862,8 @@
     "lat": 55.888995,
     "lng": -3.529678,
     "found_in_location": "Livingston",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "LIVINGSTON \u2013 BROXBURN \u2013 DECHMONT \u2013 EAST CALDER \u2013 MID CALDER \u2013 UPHALL \u2013 UPHALL STN \u2013 PUMPHERSTON"
   },
   {
     "name": "Wee Critters Pest Control Services",
@@ -544,7 +880,18 @@
     "lat": 55.883041,
     "lng": -3.534325,
     "found_in_location": "Livingston",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "weecritters@hotmail.co.uk",
+    "emails": [
+      "weecritters@hotmail.co.uk"
+    ],
+    "description": "Wee Critters Pest Control Edinburgh, a small family run business that can put an end to your pest troubles. Call to arrange an appointment",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "WA Pest Control Perth",
@@ -561,7 +908,15 @@
     "lat": -31.955,
     "lng": 115.859824,
     "found_in_location": "Perth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "WA Pest Control Perth is one of the most trusted pest exterminators and removal service providers. Our pest controller in Perth will provide reports on the same day.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Dunning Pest Control",
@@ -595,7 +950,13 @@
     "lat": 55.477466,
     "lng": -4.612456,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@shieldsgardening.co.uk",
+    "emails": [
+      "info@shieldsgardening.co.uk",
+      "%20info@shieldsgardening.co.uk"
+    ],
+    "description": "Shields Gardening provides reliable, high-quality garden maintenance across Ayr and surrounding areas. Weprioritize working with nature and utilize battery-powered equipment to minimize our carbon footprint.Fully qualified and a proud member of The Gardeners Guild."
   },
   {
     "name": "Precision Pest Control",
@@ -612,7 +973,20 @@
     "lat": 56.149662,
     "lng": -3.846328,
     "found_in_location": "Menstrie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@precisionpestcontrol.co.uk",
+    "emails": [
+      "info@precisionpestcontrol.co.uk"
+    ],
+    "description": "Offering a prompt reliable service with 30 years experience",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "North East Scotland pest control",
@@ -629,7 +1003,21 @@
     "lat": 57.182381,
     "lng": -2.294552,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@northeastscotlandpestcontrol.co.uk",
+    "emails": [
+      "info@northeastscotlandpestcontrol.co.uk"
+    ],
+    "description": "We understand the need for privacy, which is why our vehicles are unmarked, and our technicians work professionally without drawing attention. Whether it\u2019s your home or business, we ensure minimal disruption while delivering effective pest control solutions. Our experienced team tailors...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Angus Hygiene & Pest Control",
@@ -646,7 +1034,13 @@
     "lat": 56.646681,
     "lng": -2.888524,
     "found_in_location": "Forfar",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Are you looking for effective fumigation for pest control in Angus? We're here to help. Call Angus Hygiene & Pest Control in Forfar on 01307 469 747",
+    "services": [
+      "Ant Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Edinburgh Pest Control Co",
@@ -663,7 +1057,21 @@
     "lat": 55.945983,
     "lng": -3.209433,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "office@edinburghpestcontrolco.co.uk",
+    "emails": [
+      "office@edinburghpestcontrolco.co.uk"
+    ],
+    "description": "Keep your Edinburgh Home or Business Pest Free with Expert Pest Control from Edinburgh Pest Control Co. Rodent, Insect & Bird Control Service.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Mitar Enviro Limited",
@@ -680,7 +1088,15 @@
     "lat": 55.934775,
     "lng": -3.471226,
     "found_in_location": "Broxburn",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "enq@mitar.co.uk",
+    "emails": [
+      "enq@mitar.co.uk"
+    ],
+    "description": "Pest Control Scotland - We are a family run business and have grown to become one of the best service companies in the UK.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Duncan Ross Pest Control",
@@ -697,7 +1113,8 @@
     "lat": 57.796797,
     "lng": -3.979692,
     "found_in_location": "Tain",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "pest control in the highlands,all pests covered"
   },
   {
     "name": "PestSTOP",
@@ -731,7 +1148,18 @@
     "lat": 55.964132,
     "lng": -4.578099,
     "found_in_location": "Dumbarton",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "contact@bugaway.uk",
+    "emails": [
+      "contact@bugaway.uk"
+    ],
+    "description": "Trust our qualified pest controllers to deliver reliable, professional, and efficient pest control solutions.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Adams Pest Management",
@@ -765,7 +1193,15 @@
     "lat": 55.749402,
     "lng": -4.214055,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "For experienced pest control and waste disposal in Paisley, call Environmental Services on 0141 848 0957 for assistance.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pests Control Edinburgh",
@@ -782,7 +1218,23 @@
     "lat": 55.953239,
     "lng": -3.194927,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@demolink.org",
+    "emails": [
+      "info@demolink.org"
+    ],
+    "description": "Looking for Pest Control in Edinburgh? Look no further, contact the local experts today for free no-obligation quote. 24/7 Call Out Service. Rats, Mice, Wasps, Birds & Insects.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "All Pest Services (Scotland) Limited",
@@ -799,7 +1251,18 @@
     "lat": 55.858702,
     "lng": -4.252005,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@allpestservices.co.uk",
+    "emails": [
+      "info@allpestservices.co.uk",
+      "allpestservices@googlemail.com"
+    ],
+    "description": "Allpest Services are a professional and reliable pest control company serving clients throughout the central belt of Scotland.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Aberdeen Pest Control & Environmental Services",
@@ -816,7 +1279,17 @@
     "lat": 57.178612,
     "lng": -2.134408,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "aberdeenpestcontrol@yahoo.co.uk",
+    "emails": [
+      "aberdeenpestcontrol@yahoo.co.uk"
+    ],
+    "description": "Pest control service in Aberdeenshire, dealing with bed bugs, wasps, ants, rats, mice, cockroaches etc. Phone: 01224 455 013",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Wasp Control",
@@ -853,7 +1326,16 @@
     "lat": 56.551721,
     "lng": -3.25941,
     "found_in_location": "Blairgowrie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "contact@gk-pestcontrol.co.uk",
+    "emails": [
+      "contact@gk-pestcontrol.co.uk"
+    ],
+    "description": "\"To meet the needs of your business or domestic pest issues.\"",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Clark Environmental Pest Control",
@@ -870,7 +1352,16 @@
     "lat": 55.899987,
     "lng": -3.706813,
     "found_in_location": "Bathgate",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@clarkpestcontrolservices.co.uk",
+    "emails": [
+      "info@clarkpestcontrolservices.co.uk"
+    ],
+    "description": "Pest Control in West Lothian is one of the main services offered here at Clark Environmental Pest Control Services Edinburgh.",
+    "services": [
+      "Bed Bug Treatment",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Bumble Bee Garden Services",
@@ -921,7 +1412,12 @@
     "lat": 55.433512,
     "lng": -4.622768,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@acatch.co.uk",
+    "emails": [
+      "info@acatch.co.uk"
+    ],
+    "description": "A family run business established in 2000 and based in Ayrshire Scotland, Acatch have been providing a comprehensive range of property services for commercial and domestic clients throughout the UK for over 20 years. \u200b"
   },
   {
     "name": "Ehs Pest Control Ltd",
@@ -972,7 +1468,15 @@
     "lat": 55.952871,
     "lng": -3.206222,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Herdpestcontrol.com",
@@ -989,7 +1493,18 @@
     "lat": 56.221781,
     "lng": -2.84694,
     "found_in_location": "Leven",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "We use the latest technology and equipment for wasp nest removal and treatment. Fully insured and qualified with prices to beat Fife Council pest control and no VAT to pay.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "South West Scotland Pest Control",
@@ -1023,7 +1538,19 @@
     "lat": 56.321957,
     "lng": -3.016147,
     "found_in_location": "Cupar",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "admin@precisionpest.co.uk",
+    "emails": [
+      "admin@precisionpest.co.uk"
+    ],
+    "description": "We have a proven track record and we have many clients, large and small, commercial and domestic - who will agree that we provide not only excellent value for money, but a service that is professional, effective and specific to your needs.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Rat Shack Rattery",
@@ -1077,7 +1604,17 @@
     "lat": 55.841222,
     "lng": -4.247987,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "We assess your concern and book an appointment at your convenience. You\u2019ll receive a cost estimate and treatment duration upfront. Approximately cost of 3x treatments is \u00a3140.00 + vat",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Minus Pest Control",
@@ -1094,7 +1631,8 @@
     "lat": 57.279725,
     "lng": -2.369698,
     "found_in_location": "Inverurie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Do you live in Aberdeen and are you having a pest problem? Minus pest control specializes in rodents and insects removal - contact pest control in Aberdeen."
   },
   {
     "name": "The Wasp Experts Scotland",
@@ -1111,7 +1649,15 @@
     "lat": 55.442678,
     "lng": -4.610843,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@waspexperts.co.uk",
+    "emails": [
+      "info@waspexperts.co.uk"
+    ],
+    "description": "Wasp Nest Removal Scotland | Professional wasp nest removal in Glasgow, Paisley, East Kilbride, Irvine, Kilmarnock, Ayr, and surrounding areas",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wilson The Moleman",
@@ -1179,7 +1725,12 @@
     "lat": 57.247021,
     "lng": -2.052335,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest control Aberdeen Wasp Nest removal Aberdeen",
+    "services": [
+      "Bed Bug Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ambipar",
@@ -1196,7 +1747,8 @@
     "lat": 56.480817,
     "lng": -2.893828,
     "found_in_location": "Dundee",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "A pioneer in environmental solutions, Ambipar operates throughout the national territory offering integrated solutions for the entire business chain."
   },
   {
     "name": "Elliot Timber Preservation",
@@ -1213,7 +1765,12 @@
     "lat": 55.541634,
     "lng": -4.672722,
     "found_in_location": "Troon",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@elliot-timberpreservation.co.uk",
+    "emails": [
+      "info@elliot-timberpreservation.co.uk"
+    ],
+    "description": "Since 1991, Elliot Timber Preservation have been one of Troon\u2019s go-to experts in damp prevention. Call our team today for a quote. Available 7 days a week."
   },
   {
     "name": "R & B Services",
@@ -1230,7 +1787,12 @@
     "lat": 57.091397,
     "lng": -2.112835,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@randbservices.co.uk",
+    "emails": [
+      "info@randbservices.co.uk"
+    ],
+    "description": "R & B Services is a professional cleaning company serving across Aberdeen, offering a range of commercial cleaning services. Fill out our online form or call us"
   },
   {
     "name": "5 Star Termite & Pest Control",
@@ -1247,7 +1809,17 @@
     "lat": -31.954132,
     "lng": 115.856392,
     "found_in_location": "Perth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest control Perth. If you need pest control in Perth, we offer residential & commercial pest control solutions that work. Call 0423 600 555",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Richardson & Starling",
@@ -1264,7 +1836,30 @@
     "lat": 55.47082,
     "lng": -4.618808,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@richardsonandstarling.co.uk",
+    "emails": [
+      "info@richardsonandstarling.co.uk",
+      "aberdeen@woodrot.com",
+      "ayr@woodrot.com",
+      "carlisle@woodrot.com",
+      "dumfries@woodrot.com",
+      "dundee@woodrot.com",
+      "eastlothian@woodrot.com",
+      "edinburgh@woodrot.com",
+      "elgin@woodrot.com",
+      "glasgow@woodrot.com",
+      "hawick@woodrot.com",
+      "inverness@woodrot.com",
+      "kendal@woodrot.com",
+      "kirkcaldy@woodrot.com",
+      "lanark@woodrot.com",
+      "oban@woodrot.com",
+      "perth@woodrot.com",
+      "standrews@woodrot.com",
+      "stirling@woodrot.com"
+    ],
+    "description": "Richardson & Starling - Specialists in Treating Dry Rot, Woodworm, Penetrating & Rising Damp. 30 Year Guarantees. Award-winning Damp Proofing Company."
   },
   {
     "name": "Enviro Pest Control Perth",
@@ -1281,7 +1876,21 @@
     "lat": -31.955337,
     "lng": 115.854306,
     "found_in_location": "Perth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@enviropestcontrol.com.au",
+    "emails": [
+      "info@enviropestcontrol.com.au"
+    ],
+    "description": "Experience reliable pest control Perth with Enviro Pest Control. Our expert team offers best pest control service and pest inspection services throughout WA.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Frosty's Cleaning Services",
@@ -1298,7 +1907,12 @@
     "lat": 55.459523,
     "lng": -4.635377,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@frostyscleaningservices.co.uk",
+    "emails": [
+      "info@frostyscleaningservices.co.uk"
+    ],
+    "description": "Serving Ayrshire. Cleaning of Carpets, Gutters, Windows, Conservatories, UPVC, Driveways, Patios, Disinfectant Fogging, Roof Cleaning, End Of Tenancy."
   },
   {
     "name": "WaspsRats",
@@ -1317,8 +1931,17 @@
     "found_in_location": "Motherwell",
     "found_with_query": "pest control scotland",
     "services": [
-      "Wasp Nest Removal"
-    ]
+      "Commercial Pest Control"
+    ],
+    "email": "info@waspsrats.com",
+    "emails": [
+      "info@waspsrats.com",
+      "career@waspsrats.com",
+      "info@avantage.co.uk",
+      "office@avantage.co.uk",
+      "carrer@wasprats.com"
+    ],
+    "description": "Waspsrats is a Pest Control Services Uk, offering a range of services like rodent control, Wasp removal Services, Bee Removal Services, and more. Get 24/7, reliable & affordable pest control services in the UK. Protect your home with our expert pest control solutions at budget-friendly prices."
   },
   {
     "name": "ALMAC pest services",
@@ -1335,7 +1958,17 @@
     "lat": 55.882086,
     "lng": -3.979004,
     "found_in_location": "Airdrie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "ALMAC Pest Control Services small family business in North Lanarkshire Glasgow & surrounding area NPTA registered wasps rats mice squirrels ants insects moles",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Adept Pest Consultancy",
@@ -1352,7 +1985,20 @@
     "lat": 55.863074,
     "lng": -4.147119,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "adept.pest.01@gmail.com",
+    "emails": [
+      "adept.pest.01@gmail.com"
+    ],
+    "description": "Adept Pest Consultancy Ltd is here to help you put an end to all your pest problems. We provide pest control services for homes, offices and factories across Paisley, Renfrew, Glasgow, Coatbridge, Bellshill, East Kilbride, Motherwell, Cumbernauld and the Central Belt of Scotland.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest-Master Ltd",
@@ -1369,7 +2015,19 @@
     "lat": 55.831349,
     "lng": -4.201065,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@pest-master.com",
+    "emails": [
+      "info@pest-master.com"
+    ],
+    "description": "Pest control in Glasgow. Humane treatments for rodent control, bird control Glasgow and insect control from Scotland's premier pest elimination company",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "DJM Pest Control",
@@ -1386,7 +2044,12 @@
     "lat": 55.955638,
     "lng": -4.554929,
     "found_in_location": "Dumbarton",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "DJM Pest Control offers personal pest control for domestic, commercial and countryside in the west of Scotland.",
+    "services": [
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hanlon Pest Control",
@@ -1403,7 +2066,17 @@
     "lat": 56.070648,
     "lng": -3.719815,
     "found_in_location": "Alloa",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "phanlon62@gmail.com",
+    "emails": [
+      "phanlon62@gmail.com"
+    ],
+    "description": "Hanlon Pest Control Services cover central Scotland | pest control services include wasps, bees, pigeons, bird nests, rodents and mice.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fox Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Czechmate Pest Control (Czm8)",
@@ -1420,7 +2093,22 @@
     "lat": 55.644841,
     "lng": -4.753198,
     "found_in_location": "Stevenston",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "martin@czmpestcontrol.co.uk",
+    "emails": [
+      "martin@czmpestcontrol.co.uk"
+    ],
+    "description": "Pest control and prevention service in Greater Glasgow and Ayrshire. Expert in the safe elimination of rodents and insects. Prices, descriptions, contact and more are on the website.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Highland pest Response",
@@ -1437,7 +2125,12 @@
     "lat": 57.828492,
     "lng": -3.825102,
     "found_in_location": "Tain",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@highlandpestresponse.co.uk",
+    "emails": [
+      "info@highlandpestresponse.co.uk"
+    ],
+    "description": "Highland Pest Response offer a wide range of Pest and Vermin Control and Prevention Services. We also offer Deer Management Services, and cover a large area of the Scottish Highlands."
   },
   {
     "name": "Eye Catchers",
@@ -1454,7 +2147,8 @@
     "lat": 56.07029,
     "lng": -3.459836,
     "found_in_location": "Dunfermline",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Our PVC cards are available in various weights and sizes to suit different applications / budgets. We now manufacture all these products with a biodegradable central core at no extra cost to the customer. The cards are printing digitally on HP Indigo and are teslln based with a PVC overlay."
   },
   {
     "name": "Clyde Pest Control Services",
@@ -1471,7 +2165,17 @@
     "lat": 55.959153,
     "lng": -4.795771,
     "found_in_location": "Greenock",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "gordon@clydepestcontrolservices.com",
+    "emails": [
+      "gordon@clydepestcontrolservices.com"
+    ],
+    "description": "Clyde Pest Control Services provides professional pest control services in Wemyss Bay, Greenock and Inverclyde. Get in touch today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Andy Law Pest Control",
@@ -1488,7 +2192,24 @@
     "lat": 56.340388,
     "lng": -3.403226,
     "found_in_location": "Perth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@andylawpestcontrol.co.uk",
+    "emails": [
+      "info@andylawpestcontrol.co.uk",
+      "creditcontrol@andylawpestcontrol.co.uk"
+    ],
+    "description": "Call us on01738 813751or email us with the details for expert pest control advice.You can also phone or text our emergency number 07767353535.We\u2019re available 7 days a week.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Abbey Services (Scotland) Limited",
@@ -1505,7 +2226,12 @@
     "lat": 55.84805,
     "lng": -4.433885,
     "found_in_location": "Paisley",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@abbeyservices.co.uk",
+    "emails": [
+      "info@abbeyservices.co.uk"
+    ],
+    "description": "We are a trusted all-trades company providing a range of services including construction, electrical, plumbing, gas & heating services, and more in Scotland."
   },
   {
     "name": "Rapid Response Pest Control",
@@ -1522,7 +2248,18 @@
     "lat": 55.958167,
     "lng": -3.183899,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "pestcontrolrapidresponse@gmail.com",
+    "emails": [
+      "pestcontrolrapidresponse@gmail.com"
+    ],
+    "description": "Looking for expert pest control exterminator services? Our skilled team provides effective solutions for all pest issues. Contact us today!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestguard Services (Scotland) Ltd",
@@ -1556,7 +2293,15 @@
     "lat": 55.947722,
     "lng": -3.476297,
     "found_in_location": "Broxburn",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest Control Chester \u2013 Rat & Rodent Removal \u2013 Rapid Response \u2013 Best Prices \u2013 Local Technicians \u2013 Call Today 01244 752 960",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Graham Pest Control",
@@ -1573,7 +2318,18 @@
     "lat": 56.586529,
     "lng": -3.328771,
     "found_in_location": "Blairgowrie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "admin@grahampestcontrol.com",
+    "emails": [
+      "admin@grahampestcontrol.com"
+    ],
+    "description": "Whatever your Domestic Pest Control need, be it mice, insects or bugs, we are here to help",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Greensleeves Lawn Care West Lothian",
@@ -1590,7 +2346,8 @@
     "lat": 55.898376,
     "lng": -3.439984,
     "found_in_location": "Kirknewton",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Greensleeves provide a wide range of lawn care services and treatments in West Lothian and the local area. Get in touch with our experts today."
   },
   {
     "name": "GM Pest Control",
@@ -1624,7 +2381,18 @@
     "lat": 55.833638,
     "lng": -4.278077,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@complete-pest-elimination.com",
+    "emails": [
+      "info@complete-pest-elimination.com"
+    ],
+    "description": "For experienced pest control in Glasgow and all surrounding areas, you can count on Complete Pest Elimination. Call us today on 0141 632 5833.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Zest Pest Control",
@@ -1641,7 +2409,19 @@
     "lat": 55.868345,
     "lng": -3.955753,
     "found_in_location": "Airdrie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@zestpestcontrol.co.uk",
+    "emails": [
+      "info@zestpestcontrol.co.uk",
+      "info@wordpress-813937-2801143.cloudwaysapps.com"
+    ],
+    "description": "Pest Control Central Scotland | Pest Control for Rats, Mice, Squirrels, Birds, Wasps, Ants, Insects, Cockroaches, Bed Bugs, more. Same day response!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Anglo Scottish Pest Control",
@@ -1658,7 +2438,21 @@
     "lat": 55.863238,
     "lng": -3.058142,
     "found_in_location": "Dalkeith",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@anglopestcontrol.scot",
+    "emails": [
+      "info@anglopestcontrol.scot"
+    ],
+    "description": "Professional pest control in Edinburgh, Lothians & Borders. High quality, appropriately priced pest control services.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Fife Pest Control Services \u00ae",
@@ -1675,7 +2469,21 @@
     "lat": 56.061101,
     "lng": -3.496795,
     "found_in_location": "Dunfermline",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "fifepestcontrolservices@gmail.com",
+    "emails": [
+      "fifepestcontrolservices@gmail.com",
+      "xfordandy@yahoo.com"
+    ],
+    "description": "Expert Pest Control Fife services, Fife Council Trusted Pest Control trusted by Fife Council. Pest Control Dunfermline Wasp Nest Removal Fife Dunfermline, Kirkcaldy & Glenrothes. Comprehensive pest solutions across Dunfermline, Kirkcaldy, Glenrothes & Fife.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Menco Resolve Ltd",
@@ -1692,7 +2500,21 @@
     "lat": 55.883947,
     "lng": -3.081174,
     "found_in_location": "Dalkeith",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "office@mencoresolve.co.uk",
+    "emails": [
+      "office@mencoresolve.co.uk",
+      "example@mail.com"
+    ],
+    "description": "Menco Resolve Pest Control provides first-class pest control services in Edinburgh and the surrounding areas. Call us now for a free quote. Fully compliant.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bio-Kleen Ltd",
@@ -1709,7 +2531,19 @@
     "lat": 56.12118,
     "lng": -3.781628,
     "found_in_location": "Alloa",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "tomwatson@scoosh.com",
+    "emails": [
+      "tomwatson@scoosh.com"
+    ],
+    "description": "Professional Pest Control Company 26 years experience Locally owned & operated Fully Insured Same Day Service Welcome when you need a reliable pest control",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Excel Environmental Services LTD",
@@ -1726,7 +2560,15 @@
     "lat": 55.834713,
     "lng": -4.421531,
     "found_in_location": "Paisley",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "We service both domestic and commercial customers. We are a family-based company specialising in preventing and eradicating pest problems.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Inverness Pest Control",
@@ -1760,7 +2602,17 @@
     "lat": 55.951955,
     "lng": -2.762006,
     "found_in_location": "Haddington",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "psbudding@hotmail.co.uk",
+    "emails": [
+      "psbudding@hotmail.co.uk"
+    ],
+    "description": "Our customer service has always and will always be of our utmost priority...",
+    "services": [
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "R.E.D Pest Control Ltd",
@@ -1777,7 +2629,8 @@
     "lat": 55.852756,
     "lng": -4.590636,
     "found_in_location": "Bridge of Weir",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest control services for home and business providing advice and solutions for problem rodents, rabbits, birds, insects in Greenock, Inverclyde, Ayrshire and Glasgow."
   },
   {
     "name": "DR Pest Control",
@@ -1811,7 +2664,20 @@
     "lat": 56.473602,
     "lng": -2.92433,
     "found_in_location": "Dundee",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@globalpestcontrol.ltd",
+    "emails": [
+      "info@globalpestcontrol.ltd"
+    ],
+    "description": "Family Run Pest Control | Domestic, Commercial Pest Control across Scotland | Fully BPCA & RSPH Trained | 24 Hr Service | Fast Response",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Presly Pest Control Ltd",
@@ -1828,7 +2694,11 @@
     "lat": 57.356739,
     "lng": -2.280461,
     "found_in_location": "Inverurie",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Independent Specialists in all aspects of Pest Control & Prevention for NE Scotland",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Burns Environmental Pest Control Glasgow",
@@ -1879,7 +2749,8 @@
     "lat": 55.468968,
     "lng": -4.628236,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "Regency FM LTD",
@@ -1896,7 +2767,8 @@
     "lat": 55.475855,
     "lng": -4.594885,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Covering the whole of Scotland, we're ideally placed to support"
   },
   {
     "name": "WestPest - Scotland",
@@ -1913,7 +2785,19 @@
     "lat": 55.65568,
     "lng": -4.818014,
     "found_in_location": "Ardrossan",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "westpest@btinternet.com",
+    "emails": [
+      "westpest@btinternet.com"
+    ],
+    "description": "Westpest Scotland are the best pest control company in Ayrshire. We are a discreet pest control company who can deal with any type of bugs, rodents and pests. Contact us today for your free quote.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "GP Environmental Ltd",
@@ -1930,7 +2814,15 @@
     "lat": 55.866379,
     "lng": -4.290485,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@gpenv.co.uk",
+    "emails": [
+      "info@gpenv.co.uk"
+    ],
+    "description": "GP Environmental LTD, Glasgow, offer environmental services to homeowners & businesses including pest control & hygiene services call now on 0845 310 5506",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pro Lawn Ltd",
@@ -1947,7 +2839,12 @@
     "lat": 55.500227,
     "lng": -4.591313,
     "found_in_location": "Prestwick",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "admin@prolawnltd.co.uk",
+    "emails": [
+      "admin@prolawnltd.co.uk"
+    ],
+    "description": "Pro Lawn is your first choice for lawn care and weed solutions in the West of Scotland. From grass management to complete lawn replacement and weed control, we guarantee our services will breathe life into your garden space."
   },
   {
     "name": "Budget Pest Control",
@@ -1964,7 +2861,19 @@
     "lat": -32.03979,
     "lng": 115.97167,
     "found_in_location": "Kenwick",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@budgetpest.com.au",
+    "emails": [
+      "info@budgetpest.com.au",
+      "bryce@budgetpest.com.au"
+    ],
+    "description": "Looking for affordable pest control services in Perth, including fumigation and extermination? Call Budget Pest at (08) 9470 6766 for fast, expert pest control!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Edinburgh Pest Control",
@@ -1981,7 +2890,21 @@
     "lat": 55.973503,
     "lng": -3.176988,
     "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@edinburghpestcontrol.net",
+    "emails": [
+      "info@edinburghpestcontrol.net"
+    ],
+    "description": "Pest Control Edinburgh Wasp Nest Removal Rats Mice House and Business Pest Control Edinburgh Mice Rats Moles Insects Mice Rats Mole Wasp Nest Removal Edinburgh Pest Control Company",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Potts Keith",
@@ -2015,7 +2938,12 @@
     "lat": 55.456028,
     "lng": -4.590386,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "ayr.manager@dobbies.com",
+    "emails": [
+      "ayr.manager@dobbies.com"
+    ],
+    "description": "Discover Dobbies Ayr: dine in our restaurant, book into afternoon tea, find fresh produce in our foodhall, and shop plants, gardening, pets and home"
   },
   {
     "name": "Rentokil Pest Control Aberdeen & Inverness",
@@ -2049,7 +2977,16 @@
     "lat": 57.464358,
     "lng": -4.21282,
     "found_in_location": "Inverness",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "neil@albaes.co.uk",
+    "emails": [
+      "neil@albaes.co.uk"
+    ],
+    "description": "Specialist Pest Control in Inverness, Scotland contact the experts at Alba Environmental Services. Rodents, insects & wasps eradicated.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pest Aside Ltd",
@@ -2083,7 +3020,19 @@
     "lat": 55.764226,
     "lng": -4.36152,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@pest-master.com",
+    "emails": [
+      "info@pest-master.com"
+    ],
+    "description": "Pest control in Glasgow. Humane treatments for rodent control, bird control Glasgow and insect control from Scotland's premier pest elimination company",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Environmental Health Solutions Ltd",
@@ -2151,7 +3100,17 @@
     "lat": 55.865475,
     "lng": -4.26874,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "%20andy@totalpestsolutions.co.uk",
+    "emails": [
+      "%20andy@totalpestsolutions.co.uk",
+      "andy@totalpestsolutions.co.uk"
+    ],
+    "description": "For pest control services in Edinburgh and Glasgow from an experienced local team, call Total Pest Solutions Ltd today. We\u2019ll rid your home or business premises of infestations.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Clark Pest Control",
@@ -2168,7 +3127,19 @@
     "lat": 55.863069,
     "lng": -4.255015,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest Control Glasgow - Clark Pest Control - Local BPCA Pest Control Services in Greater Glasgow. Safe, Responsible and Effective Protection against Bird, Insect and Rodent Control Problems.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Dynamic Pest Control - Falkirk",
@@ -2185,7 +3156,13 @@
     "lat": 55.984875,
     "lng": -3.702241,
     "found_in_location": "Falkirk",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@dynamicpestcontrol.falkirk.co.uk",
+    "emails": [
+      "info@dynamicpestcontrol.falkirk.co.uk",
+      "dynamicpestcontrol.falkirk@gmail.com"
+    ],
+    "description": "Dynamic Pest Control - Falkirk provides fast, affordable pest control solutions for your business and home."
   },
   {
     "name": "Eliminate Ltd",
@@ -2202,7 +3179,15 @@
     "lat": 55.986146,
     "lng": -3.736707,
     "found_in_location": "Falkirk",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Pest Control Chester \u2013 Rat & Rodent Removal \u2013 Rapid Response \u2013 Best Prices \u2013 Local Technicians \u2013 Call Today 01244 752 960",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Tullys pest control",
@@ -2219,7 +3204,13 @@
     "lat": 56.008319,
     "lng": -3.612734,
     "found_in_location": "Bo'ness",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "Tullys is a pest control business based in Bo\u2019ness, Central Scotland. Some of the areas we service include, Falkirk, Forth Valley, Grangemouth, Larbert, Linlithgow, Polmont, Stenhousemuir , Stirlingshire, The Braes and throughout West Lothian.",
+    "services": [
+      "Cockroach Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Tennals Pest",
@@ -2236,7 +3227,12 @@
     "lat": 56.012002,
     "lng": -3.741669,
     "found_in_location": "Grangemouth",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@tennalspest.com",
+    "emails": [
+      "info@tennalspest.com"
+    ],
+    "description": "Get in touch with us by giving us a call or dropping us an email or filling in our contact form Give us a call 0333 004 0301 Drop us an email info@tennalspest.com Follow Us Need more information? Fill in our contact form below:"
   },
   {
     "name": "Aberdeen Pest Control Co",
@@ -2253,7 +3249,24 @@
     "lat": 57.148572,
     "lng": -2.097841,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "office@aberdeenpestcontrolco.co.uk",
+    "emails": [
+      "office@aberdeenpestcontrolco.co.uk"
+    ],
+    "description": "Pest Control Aberdeen | Professional Pest & Bird Control in Aberdeenshire | Aberdeen Pest Control Co. | Call 01224 002 828 for a FREE Quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Express Pest Control Services",
@@ -2270,7 +3283,16 @@
     "lat": 57.150326,
     "lng": -2.101843,
     "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "For Local Pest Control Near Me in Aberdeen Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Aberdeen, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Express East Kilbride Pest Control",
@@ -2287,7 +3309,16 @@
     "lat": 55.759857,
     "lng": -4.177815,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "For Local Pest Control Near Me in East Kilbride Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal East Kilbride, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "RB PRO Clean and Control",
@@ -2304,7 +3335,12 @@
     "lat": 55.899363,
     "lng": -3.500468,
     "found_in_location": "Livingston",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@rbpro.co.uk",
+    "emails": [
+      "info@rbpro.co.uk"
+    ],
+    "description": "RB PRO Clean and Control6 Brisbane Street,LIVINGSTON EH545ET"
   },
   {
     "name": "CY Artificial Grass Ayr",
@@ -2321,7 +3357,12 @@
     "lat": 55.459549,
     "lng": -4.635468,
     "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "contact@cyturf.co.uk",
+    "emails": [
+      "contact@cyturf.co.uk"
+    ],
+    "description": "Artificial Grass Glasgow | Artificial Turf Installation & Suppliers"
   },
   {
     "name": "Express Motherwell Pest Control",
@@ -2338,7 +3379,16 @@
     "lat": 55.782925,
     "lng": -3.995944,
     "found_in_location": "Motherwell",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "description": "For Local Pest Control Near Me in Motherwell Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Motherwell, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "InverTherm Solutions",
@@ -2372,7 +3422,28 @@
     "lat": 55.887104,
     "lng": -4.363967,
     "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "info@pestcontrolglasgowservices.co.uk",
+    "emails": [
+      "info@pestcontrolglasgowservices.co.uk",
+      "%20info@pestcontrolglasgowservices.co.uk",
+      "info@pcgpestcontrol.co.uk",
+      "markjohn2079@gmail.com"
+    ],
+    "description": "PCG Pest Control Glasgow \u2013 Fast, Reliable Pest Solutions Your Local Pest Control Service Say Goodbye to Pests \u2013 Fast, Effective Pest Control in Glasgow Don't let unwanted pests take over your home or business. PCG Pest Control Glasgow delivers professional, rapid pest elimination services that...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Flyscreen UK",
@@ -2440,7 +3511,16 @@
     "lat": 55.780469,
     "lng": -3.887872,
     "found_in_location": "Wishaw",
-    "found_with_query": "pest control scotland"
+    "found_with_query": "pest control scotland",
+    "email": "enquiries@masapestcontrolltd.co.uk",
+    "emails": [
+      "enquiries@masapestcontrolltd.co.uk"
+    ],
+    "description": "Pest control in Glasgow from Masa Pest Control for pests like rats, mice, flying and crawling insects, ants, wasps, and bedbugs for domestic and commercial clients",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Scotland Pest Control Hamilton",

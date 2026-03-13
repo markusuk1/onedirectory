@@ -1,6 +1,6 @@
 import type { FormFieldConfig } from "./formFieldTypes";
 
-export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies" | "bouncy-castle-hire" | "limo-hire" | "plant-hire" | "driving-lessons";
+export type ProductId = "minibus-hire" | "van-hire" | "skip-hire" | "locksmith" | "removal-companies" | "bouncy-castle-hire" | "limo-hire" | "plant-hire" | "driving-lessons" | "pest-control";
 
 export interface ProductConfig {
   id: ProductId;
@@ -33,6 +33,8 @@ export interface ProductConfig {
   leadPricePence: number;
   /** SumUp payment link for buying a lead */
   sumupBuyLink: string;
+  /** FAQ entries for location pages — used for content + FAQPage schema */
+  locationFaq?: (locationName: string, count: number) => { question: string; answer: string }[];
 }
 
 export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
@@ -93,15 +95,20 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         { value: "return", label: "Return" },
         { value: "multi-stop", label: "Multi-Stop" },
       ]},
-      { name: "pickup", label: "Pickup Location", type: "text", required: true, half: true, placeholder: "e.g. Newcastle city centre" },
-      { name: "destination", label: "Destination", type: "text", required: true, half: true, placeholder: "e.g. Newcastle Airport" },
+      { name: "pickup", label: "Pickup Location (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. 12 High Street, NE1 4ST" },
+      { name: "destination", label: "Destination (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. Newcastle Airport, NE13 8BZ" },
     ],
     autoQuoteFields: [
       { name: "maxPassengers", label: "Max Passengers", type: "number", half: true, placeholder: "16" },
       { name: "minPrice", label: "Minimum Price", type: "number", half: true, prefix: "£", placeholder: "50" },
     ],
-    leadPricePence: 499,
-    sumupBuyLink: "https://pay.sumup.com/b2c/Q5CZT3TS",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many minibus hire companies are in ${loc}?`, answer: `There are ${count} minibus and coach hire companies listed in ${loc}. You can compare ratings, reviews and services to find the right operator for your trip.` },
+      { question: `How much does minibus hire cost in ${loc}?`, answer: `Minibus hire in ${loc} typically costs £150-£400 for a day trip depending on the vehicle size, distance, and duration. A 16-seater for a local return journey starts from around £150-£250. Get free quotes to compare prices from local operators.` },
+      { question: `How do I choose a minibus company in ${loc}?`, answer: `Check Google reviews and ratings, confirm the operator has a valid PSV licence and appropriate insurance, and compare at least three quotes. Look for companies with experience in your type of trip, whether that is airport transfers, weddings, or corporate events.` },
+    ],
   },
   "van-hire": {
     id: "van-hire",
@@ -176,7 +183,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         { value: "with-driver", label: "With Driver" },
         { value: "either", label: "Either / No Preference" },
       ]},
-      { name: "collectionLocation", label: "Collection / Delivery Location", type: "text", required: true, half: true, placeholder: "e.g. Manchester city centre" },
+      { name: "collectionLocation", label: "Collection / Delivery Location (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. 5 Park Lane, M1 4BT" },
       { name: "startDate", label: "Start Date", type: "date", required: true, half: true },
       { name: "endDate", label: "End Date", type: "date", required: true, half: true },
     ],
@@ -186,8 +193,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       { name: "dailyRates.luton", label: "Luton Van Daily Rate", type: "number", half: true, prefix: "£" },
       { name: "dailyRates.tipper", label: "Tipper Van Daily Rate", type: "number", half: true, prefix: "£" },
     ],
-    leadPricePence: 399,
-    sumupBuyLink: "https://pay.sumup.com/b2c/QVVFEF2A",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many van hire companies are in ${loc}?`, answer: `There are ${count} van hire companies listed in ${loc}. Compare prices, vehicle types and availability to find the best deal for your move or project.` },
+      { question: `How much does van hire cost in ${loc}?`, answer: `Van hire in ${loc} starts from around £30-£50 per day for a small panel van and £60-£120 per day for a Luton van with tail lift. Weekly rates offer better value. Prices vary between operators so compare quotes.` },
+      { question: `Do I need a special licence to hire a van in ${loc}?`, answer: `No. A standard UK driving licence (category B) allows you to drive vans up to 3.5 tonnes, which covers most hire vans including Lutons. You must be at least 21 (25 for some companies) and have held your licence for at least 1-2 years.` },
+    ],
   },
   "skip-hire": {
     id: "skip-hire",
@@ -289,8 +301,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       { name: "prices.builders", label: "Builders Skip Price", type: "number", half: true, prefix: "£" },
       { name: "prices.large", label: "Large Skip Price", type: "number", half: true, prefix: "£" },
     ],
-    leadPricePence: 299,
-    sumupBuyLink: "https://pay.sumup.com/b2c/Q7TFZ16B",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many skip hire companies are in ${loc}?`, answer: `There are ${count} skip hire companies listed in ${loc}. Compare prices, skip sizes and availability to find the best deal for your project.` },
+      { question: `How much does skip hire cost in ${loc}?`, answer: `Skip hire in ${loc} costs £80-£150 for a mini skip, £150-£300 for a builders skip, and £250-£450 for a large skip. Prices include delivery, hire (7-14 days) and disposal. Permit fees are extra if the skip goes on a public road.` },
+      { question: `Do I need a permit for a skip in ${loc}?`, answer: `Only if the skip is placed on a public road, pavement or grass verge. If it fits on your driveway or private land, no permit is needed. Permits cost £20-£60 and most skip companies arrange them on your behalf.` },
+    ],
   },
   locksmith: {
     id: "locksmith",
@@ -379,8 +396,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       { name: "calloutFee", label: "Standard Callout Fee", type: "number", half: true, prefix: "£", placeholder: "60" },
       { name: "emergencyCalloutFee", label: "Emergency Callout Fee", type: "number", half: true, prefix: "£", placeholder: "85" },
     ],
-    leadPricePence: 499,
-    sumupBuyLink: "https://pay.sumup.com/b2c/Q5CZT3TS",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many locksmiths are in ${loc}?`, answer: `There are ${count} locksmiths listed in ${loc}. Compare ratings, services and response times to find a trusted locksmith for your needs.` },
+      { question: `How much does a locksmith cost in ${loc}?`, answer: `A standard daytime lockout in ${loc} costs £60-£120. Evening and weekend callouts cost £80-£180. A lock change costs £50-£90 including the new lock. Always agree the total price before work begins.` },
+      { question: `How quickly can a locksmith get to me in ${loc}?`, answer: `Most locksmiths in ${loc} offer response times of 30-60 minutes for emergency callouts. Many operate 24/7 for lockouts. For non-urgent work like lock changes or security upgrades, expect an appointment within 1-3 days.` },
+    ],
   },
   "removal-companies": {
     id: "removal-companies",
@@ -468,8 +490,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         { value: "not-sure", label: "Not sure yet" },
       ]},
     ],
-    leadPricePence: 399,
-    sumupBuyLink: "https://pay.sumup.com/b2c/QVVFEF2A",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many removal companies are in ${loc}?`, answer: `There are ${count} removal companies listed in ${loc}. Compare ratings, services and prices to find the right mover for your home or office move.` },
+      { question: `How much do removals cost in ${loc}?`, answer: `A local house move in ${loc} typically costs £300-£600 for a 1-2 bed property and £500-£900 for a 3-bed house. Man-and-van services cost £40-£70 per hour. Get written quotes from at least three companies.` },
+      { question: `How do I choose a removal company in ${loc}?`, answer: `Look for companies with strong reviews, membership of the British Association of Removers (BAR), and proper goods-in-transit insurance. Get a home survey (in person or video) before accepting a fixed quote to avoid surprises on moving day.` },
+    ],
   },
   "bouncy-castle-hire": {
     id: "bouncy-castle-hire",
@@ -549,7 +576,7 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         { value: "other", label: "Other" },
       ]},
       { name: "eventDate", label: "Event Date", type: "date", required: true, half: true },
-      { name: "venue", label: "Venue / Location", type: "text", required: true, half: true, placeholder: "e.g. Community hall, back garden, park" },
+      { name: "venue", label: "Venue / Address (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. 5 Oak Avenue, NE3 2RT" },
       { name: "indoorOutdoor", label: "Indoor or Outdoor?", type: "select", required: true, half: true, placeholder: "Select...", options: [
         { value: "indoor", label: "Indoor" },
         { value: "outdoor", label: "Outdoor" },
@@ -563,8 +590,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
         { value: "mixed", label: "Mixed ages" },
       ]},
     ],
-    leadPricePence: 299,
-    sumupBuyLink: "https://pay.sumup.com/b2c/Q7TFZ16B",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many bouncy castle hire companies are in ${loc}?`, answer: `There are ${count} bouncy castle and inflatable hire companies listed in ${loc}. Compare prices, availability and inflatable types for your event.` },
+      { question: `How much does bouncy castle hire cost in ${loc}?`, answer: `Bouncy castle hire in ${loc} costs £60-£90 for a standard children's castle and £80-£130 for a larger adult castle. Prices include delivery, setup and collection. Themed and combination units cost more.` },
+      { question: `Do I need a power supply for a bouncy castle?`, answer: `Yes. The electric blower must run continuously. You need a standard 13-amp mains socket within 25-50 metres of the castle. If you are hiring for an event without mains power, ask about generator hire which typically costs £40-£80 extra.` },
+    ],
   },
   "limo-hire": {
     id: "limo-hire",
@@ -647,12 +679,17 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       ]},
       { name: "eventDate", label: "Date", type: "date", required: true, half: true },
       { name: "passengers", label: "Number of Passengers", type: "number", required: true, half: true, min: 1, max: 50 },
-      { name: "pickupLocation", label: "Pickup Location", type: "text", required: true, half: true, placeholder: "e.g. Newcastle city centre" },
-      { name: "destination", label: "Destination", type: "text", required: true, half: true, placeholder: "e.g. Newcastle Airport" },
+      { name: "pickupLocation", label: "Pickup Location (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. 12 High Street, NE1 4ST" },
+      { name: "destination", label: "Destination (inc. postcode)", type: "text", required: true, half: true, placeholder: "e.g. Newcastle Airport, NE13 8BZ" },
       { name: "hours", label: "Hours Needed", type: "number", half: true, min: 1, max: 24, placeholder: "e.g. 4" },
     ],
-    leadPricePence: 399,
-    sumupBuyLink: "https://pay.sumup.com/b2c/QVVFEF2A",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many limo hire companies are in ${loc}?`, answer: `There are ${count} limo and luxury car hire companies listed in ${loc}. Compare vehicles, prices and reviews for your wedding, prom, or special occasion.` },
+      { question: `How much does limo hire cost in ${loc}?`, answer: `A stretch limousine in ${loc} costs £150-£350 for 2-3 hours. Hummer limos cost £250-£500. Wedding cars cost £200-£450. Prom packages start from £150. Prices include a uniformed chauffeur and the vehicle.` },
+      { question: `How far in advance should I book a limo?`, answer: `For weddings and proms, book 3-6 months in advance as popular vehicles sell out quickly in peak season (May-September). For other events, 2-4 weeks is usually sufficient. Last-minute bookings may be possible midweek but availability is limited.` },
+    ],
   },
   "plant-hire": {
     id: "plant-hire",
@@ -739,8 +776,13 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       ]},
       { name: "siteLocation", label: "Site Location / Postcode", type: "text", required: true, placeholder: "e.g. NE1 4ST or construction site address" },
     ],
-    leadPricePence: 399,
-    sumupBuyLink: "https://pay.sumup.com/b2c/QVVFEF2A",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many plant hire companies are in ${loc}?`, answer: `There are ${count} plant and equipment hire companies listed in ${loc}. Compare daily and weekly rates, equipment types and delivery options.` },
+      { question: `How much does plant hire cost in ${loc}?`, answer: `A micro digger in ${loc} costs £80-£150 per day. A mini digger costs £120-£200 per day. Cherry pickers cost £100-£250 per day. Weekly rates are typically 3-4 times the daily rate, offering significant savings on longer hires.` },
+      { question: `Do I need a licence to hire a mini digger?`, answer: `For private domestic work on your own land, no licence is required. For construction sites or commercial projects, operators must hold a CPCS or NPORS card. If you do not have a qualified operator, hire companies can supply one for an additional £150-£250 per day.` },
+    ],
   },
   "driving-lessons": {
     id: "driving-lessons",
@@ -822,8 +864,106 @@ export const PRODUCT_CONFIGS: Record<ProductId, ProductConfig> = {
       ]},
       { name: "area", label: "Pickup Area / Postcode", type: "text", required: true, half: true, placeholder: "e.g. NE1 4ST or Jesmond, Newcastle" },
     ],
-    leadPricePence: 299,
-    sumupBuyLink: "https://pay.sumup.com/b2c/Q7TFZ16B",
+    leadPricePence: 100,
+    sumupBuyLink: "https://pay.sumup.com/b2c/QQF710VC",
+    locationFaq: (loc, count) => [
+      { question: `How many driving instructors are in ${loc}?`, answer: `There are ${count} driving instructors and schools listed in ${loc}. Compare ratings, prices, pass rates and availability to find the right instructor for you.` },
+      { question: `How much do driving lessons cost in ${loc}?`, answer: `Driving lessons in ${loc} cost £28-£42 per hour. Block bookings of 10 hours save 10-15%. Automatic and manual lessons are priced similarly. Independent instructors are usually cheaper than national schools.` },
+      { question: `How many lessons will I need to pass?`, answer: `The DVSA average is 45 hours of professional lessons plus 22 hours of private practice. Most learners need 30-50 professional hours depending on age, confidence and how much they practise between lessons. Your instructor will advise when you are test-ready.` },
+    ],
+  },
+  "pest-control": {
+    id: "pest-control",
+    slug: "pest-control",
+    name: "Pest Control",
+    shortName: "Pest Control",
+    icon: "🐀",
+    image: "/images/pest.png",
+    imageAlt: "Pest control illustration",
+    heroTitle: (region) => `Find Pest Control in ${region}`,
+    heroSubtitle: (count, locCount) =>
+      `Compare ${count}+ pest control companies across ${locCount} locations. Get free quotes in minutes.`,
+    locationDescriptionTemplate: (loc) =>
+      `Compare pest control companies in ${loc}. View ratings, reviews and contact details. Get free quotes from local professionals.`,
+    metaDescriptionTemplate: (biz, loc) =>
+      `${biz} provides pest control services in ${loc}. Contact details, reviews and free quotes.`,
+    services: [
+      {
+        id: "rodent-control",
+        title: "Rodent Control",
+        desc: "Professional removal and prevention of rats, mice and other rodents. Safe methods including traps, bait stations and proofing.",
+      },
+      {
+        id: "insect-control",
+        title: "Insect Control",
+        desc: "Treatment for cockroaches, ants, bedbugs, fleas and other insects. Targeted solutions for homes and businesses.",
+      },
+      {
+        id: "wasp-bee-removal",
+        title: "Wasp & Bee Removal",
+        desc: "Safe removal of wasp nests and bee colonies. Professional handling of stinging insects with minimal disruption.",
+      },
+      {
+        id: "bird-control",
+        title: "Bird Control",
+        desc: "Humane deterrents for pigeons, seagulls and other pest birds. Netting, spikes and proofing for buildings.",
+      },
+      {
+        id: "pest-prevention",
+        title: "Pest Prevention",
+        desc: "Regular inspections and preventative treatments. Proofing, sealing entry points and eliminating pest habitats.",
+      },
+    ],
+    seoHeading: (shortName) => `Pest Control Across the ${shortName}`,
+    seoParagraphs: (region, count, locationsList) => [
+      `Whether you have a rodent infestation, need wasp nest removal, or want to prevent pests from entering your property, our directory connects you with trusted local pest control companies across the ${region}.`,
+      `We list over ${count} pest control companies covering ${locationsList}. Each listing includes verified contact details, Google ratings and opening hours so you can make an informed choice.`,
+      `Get free, no-obligation quotes from multiple pest control professionals by using our quote request form. Simply tell us your pest problem and we'll connect you with suitable companies in your area.`,
+    ],
+    ctaText: (loc) => `Need pest control in ${loc}?`,
+    featuredSubtitle: (shortName) =>
+      `Highest rated pest control companies in the ${shortName}`,
+    browseSubtitle: "Find pest control companies near you",
+    servicesSubtitle: "Whatever your pest problem, we can help",
+    quoteFields: [
+      { name: "pestType", label: "Type of Pest", type: "select", required: true, half: true, placeholder: "Select...", options: [
+        { value: "rats-mice", label: "Rats / Mice" },
+        { value: "wasps-bees", label: "Wasps / Bees" },
+        { value: "cockroaches", label: "Cockroaches" },
+        { value: "bed-bugs", label: "Bed Bugs" },
+        { value: "fleas", label: "Fleas" },
+        { value: "ants", label: "Ants" },
+        { value: "birds", label: "Birds / Pigeons" },
+        { value: "moles", label: "Moles" },
+        { value: "squirrels", label: "Squirrels" },
+        { value: "other", label: "Other" },
+      ]},
+      { name: "urgency", label: "How Urgent?", type: "select", required: true, half: true, placeholder: "Select...", options: [
+        { value: "emergency", label: "Emergency — right now" },
+        { value: "today", label: "Today" },
+        { value: "within-48h", label: "Within 48 hours" },
+        { value: "planned", label: "Planned / flexible" },
+      ]},
+      { name: "propertyType", label: "Property Type", type: "select", required: true, half: true, placeholder: "Select...", options: [
+        { value: "house", label: "House" },
+        { value: "flat", label: "Flat / Apartment" },
+        { value: "business", label: "Business / Commercial" },
+        { value: "garden-outdoor", label: "Garden / Outdoor" },
+        { value: "other", label: "Other" },
+      ]},
+      { name: "location", label: "Location / Postcode", type: "text", required: true, half: true, placeholder: "e.g. NE1 4ST or 12 High Street, Newcastle" },
+    ],
+    autoQuoteFields: [
+      { name: "calloutFee", label: "Standard Callout Fee", type: "number", half: true, prefix: "£", placeholder: "50" },
+      { name: "treatmentCost", label: "Average Treatment Cost", type: "number", half: true, prefix: "£", placeholder: "100" },
+    ],
+    leadPricePence: 399,
+    sumupBuyLink: "https://pay.sumup.com/b2c/Q5CZT3TS",
+    locationFaq: (loc, count) => [
+      { question: `How many pest control companies are in ${loc}?`, answer: `There are ${count} pest control companies listed in ${loc}. Compare ratings, services and response times to find a professional for your pest problem.` },
+      { question: `How much does pest control cost in ${loc}?`, answer: `Pest control in ${loc} costs £50-£100 for wasp nest removal, £80-£200 for rat or mouse treatment, and £150-£400 for bed bug treatment. Most companies offer a free phone consultation. Prices include the treatment and follow-up visits.` },
+      { question: `How quickly can a pest controller get to me in ${loc}?`, answer: `Most pest control companies in ${loc} offer same-day or next-day appointments for urgent problems like wasp nests or rat infestations. Emergency response times can be as fast as 2-4 hours. For less urgent issues, expect an appointment within 1-3 working days.` },
+    ],
   },
 };
 
@@ -956,5 +1096,21 @@ export const SERVICE_MAPPING: Record<ProductId, Record<string, string>> = {
     "Self-Drive Hire": "self-drive",
     "Long Distance & Nationwide": "coach-hire",
     "Night Out Transport": "party-bus",
+  },
+  "pest-control": {
+    "Rat & Mouse Control": "rodent-control",
+    "Wasp Nest Removal": "wasp-bee-removal",
+    "Bed Bug Treatment": "insect-control",
+    "Flea Treatment": "insect-control",
+    "Cockroach Control": "insect-control",
+    "Ant Control": "insect-control",
+    "Mole Control": "rodent-control",
+    "Bird & Pigeon Control": "bird-control",
+    "Squirrel Control": "rodent-control",
+    "Moth Treatment": "insect-control",
+    "Fox Control": "rodent-control",
+    "Fumigation": "insect-control",
+    "Commercial Pest Control": "pest-prevention",
+    "Emergency Pest Control": "rodent-control",
   },
 };

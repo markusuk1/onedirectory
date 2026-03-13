@@ -14,7 +14,16 @@
     "lat": 53.273883,
     "lng": -1.412168,
     "found_in_location": "Chesterfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Derbyshire's No1 Pest Control Ring Or Visit Our Website Today For a Free Quote",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AS Pest Control Solutions Mansfield",
@@ -31,7 +40,14 @@
     "lat": 53.198961,
     "lng": -1.228641,
     "found_in_location": "Mansfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Pest Control Mansfield for both residential and commercial customers. Quality guaranteed Pest Control in Mansfield by qualified experts at AS Pest Control Solutions.",
+    "services": [
+      "Ant Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Lincs Ltd",
@@ -48,7 +64,19 @@
     "lat": 53.383311,
     "lng": -0.010638,
     "found_in_location": "Louth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "accounts@pestlincs.co.uk",
+    "emails": [
+      "accounts@pestlincs.co.uk",
+      "tom@pestlincs.co.uk"
+    ],
+    "description": "Professional pest control for residential and commercial premises. Short term and year round plans, operating to the highest of standards.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "WASP / RAT / PEST CONTROL SERVICES",
@@ -65,7 +93,20 @@
     "lat": 53.041932,
     "lng": -2.166634,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "paul.arrestapest@icloud.com",
+    "emails": [
+      "paul.arrestapest@icloud.com"
+    ],
+    "description": "Pest Control in Stoke on Trent, Staffordshire, Cheshire & Shropshire. Arrest Apest are a local, family run pest control company established since 2009.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "iX5 Pest Control",
@@ -82,7 +123,16 @@
     "lat": 52.258453,
     "lng": -0.939449,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "iX5 Pest Control. We have the necessary expertise to deal with all commercial and residential pest control. We offer evening and weekend apts",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "NG Pest Control",
@@ -99,7 +149,20 @@
     "lat": 53.039562,
     "lng": -1.204854,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@ngpestcontrol.co.uk",
+    "emails": [
+      "info@ngpestcontrol.co.uk"
+    ],
+    "description": "NG Pest Control are Nottingham pest control providers of cost effective solutions to businesses and homes across the region. NPTA registered and fully insured.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "BURNHAM PEST SOLUTION SERVICES",
@@ -116,7 +179,11 @@
     "lat": 52.437701,
     "lng": -1.847038,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "bpssukltd@hotmail.com",
+    "emails": [
+      "bpssukltd@hotmail.com"
+    ]
   },
   {
     "name": "PEST DETECTIVE LTD",
@@ -133,7 +200,19 @@
     "lat": 53.287081,
     "lng": -0.083464,
     "found_in_location": "Louth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "andy@pest-detective.com",
+    "emails": [
+      "andy@pest-detective.com"
+    ],
+    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you\u2019ll appreciate the results.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "GC Pest Control Limited",
@@ -150,7 +229,24 @@
     "lat": 52.577983,
     "lng": -1.102459,
     "found_in_location": "Wigston",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "gcpestcontrolltd@gmail.com",
+    "emails": [
+      "gcpestcontrolltd@gmail.com"
+    ],
+    "description": "At GC Pest Control Ltd, we are your first choice of local, friendly, discrete and reliable Pest Control experts for Leicestershire and the surrounding areas.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Pest Master - Pest Control Derby",
@@ -167,7 +263,23 @@
     "lat": 52.893479,
     "lng": -1.510249,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "help@thepestmaster.co.uk",
+    "emails": [
+      "help@thepestmaster.co.uk"
+    ],
+    "description": "The Pest Master provides professional pest control services to domestic and commercial clients throughout Derby & the East Midlands. Fully insured and accredited.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Buzz Off Solihull - Pest Control",
@@ -184,7 +296,15 @@
     "lat": 52.397141,
     "lng": -1.754781,
     "found_in_location": "Solihull",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "wecanhelp@buzzoffsolihull.com",
+    "emails": [
+      "wecanhelp@buzzoffsolihull.com"
+    ],
+    "description": "Wasp nest treatment, hornet nest treatment, wasp treatment, hornet treatment, wasp removal, hornet removal, Pest control, Solihull, Knowle, Dorridge, Lapworth, Shirley, Bentley Heath, Balsall Common",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Joe Day Pest Control",
@@ -201,7 +321,22 @@
     "lat": 52.262938,
     "lng": -1.567433,
     "found_in_location": "Warwick",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@jdpestcontrol.co.uk",
+    "emails": [
+      "info@jdpestcontrol.co.uk",
+      "mailtoinfo@jdpestcontrol.co.uk"
+    ],
+    "description": "Pest Control in Leamington Spa, Warwick, Stratford Upon Avon, Coventry and Banbury | 5 Star Domestic and Commercial | Joe Day Pest Control",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ABM Pest Control Mansfield LTD",
@@ -218,7 +353,21 @@
     "lat": 53.153643,
     "lng": -1.222911,
     "found_in_location": "Mansfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@abmpestcontrol.com",
+    "emails": [
+      "enquiries@abmpestcontrol.com"
+    ],
+    "description": "Pest Control Nottinghamshire, We offer pest control services for Domestic and Commercial clients. Pest Control Solutions for everyday events",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Malpass Pest Control Staffordshire",
@@ -235,7 +384,18 @@
     "lat": 52.908766,
     "lng": -2.158888,
     "found_in_location": "Stone",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@malpasspestsolutions.co.uk",
+    "emails": [
+      "info@malpasspestsolutions.co.uk"
+    ],
+    "description": "Professional pest control services and pest solutions across Staffordshire and Cheshire. Call Malpass Pest Solutions for domestic & commercial pest services.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Musca Pest Management Services",
@@ -252,7 +412,18 @@
     "lat": 53.042346,
     "lng": -1.41044,
     "found_in_location": "Ripley",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "muscapestmanagement@gmail.com",
+    "emails": [
+      "muscapestmanagement@gmail.com"
+    ],
+    "description": "Musca Pest Management Services is a local, friendly pest control service in Derbyshire, covering a variety of pest species in both domestic and commercial settings. Highly qualified staff giving you professional and quality services at competitive prices. Contact us and book an appointment now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "RDB Pest Control",
@@ -269,7 +440,20 @@
     "lat": 52.379287,
     "lng": -1.296956,
     "found_in_location": "Rugby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "rdbpestcontrol@outlook.com",
+    "emails": [
+      "rdbpestcontrol@outlook.com"
+    ],
+    "description": "Qualified & Insured \u2714 Price List \u2714 100% Satisfaction Guarantee \u2714 Pest control in Rugby, affordable pest control solutions to domestic & commercial clients in Rugby, Lutterworth & Coventry. Rats, mice, wasps, bees, fleas, ants, birds. \u260e 07922 091459",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Special Pest Services Walsall and Hereford",
@@ -286,7 +470,22 @@
     "lat": 52.594174,
     "lng": -1.974392,
     "found_in_location": "Walsall",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "contact@specialpestservices.com",
+    "emails": [
+      "contact@specialpestservices.com"
+    ],
+    "description": "Professional cost effective expertise for your pest control needs! Award winning Pest Control three years in a row.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Antrim Pest Control- Low Cost",
@@ -303,7 +502,17 @@
     "lat": 54.716712,
     "lng": -6.181596,
     "found_in_location": "Antrim",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@districtpestcontrol.co.uk",
+    "emails": [
+      "info@districtpestcontrol.co.uk"
+    ],
+    "description": "Our highly trained and well-qualified pest technicians will conduct a thorough domestic inspection of your property and will recommend suitable pest control treatements and solutions to prevent the problem. Antrim Pest Control\u2122 Call us Now for a fast response! 028 9433 1617 Antrim Pest Control...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Flashback Pest Control",
@@ -320,7 +529,14 @@
     "lat": 52.768007,
     "lng": -2.384876,
     "found_in_location": "Newport",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Flashback Pest Control specialises in pest control for Mice, Rats, Wasps, Birds, Flies, Fleas, Ants, Bed Bugs and more across Telford & Shropshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hydro-dry Environmental & Property Solutions",
@@ -337,7 +553,15 @@
     "lat": 52.52615,
     "lng": -1.494231,
     "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@hydro-dry.co.uk",
+    "emails": [
+      "info@hydro-dry.co.uk"
+    ],
+    "description": "Specialist biohazard and trauma cleaning across Nuneaton, Coventry, Tamworth, Midlands Rapid 2-hour response. IICRC-Qualified & fully compliant.",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "Derby Wasp and Pest Control",
@@ -354,7 +578,15 @@
     "lat": 52.937164,
     "lng": -1.433249,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "help@derbywaspcontrol.co.uk",
+    "emails": [
+      "help@derbywaspcontrol.co.uk"
+    ],
+    "description": "Derby Wasp Control provides an affordable and effective treatment and removal of wasps nests in Derby which is guaranteed for a year.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wasp Control Services",
@@ -374,7 +606,12 @@
     "found_with_query": "pest control midlands",
     "services": [
       "Wasp Nest Removal"
-    ]
+    ],
+    "email": "info@waspcontrolservices.co.uk",
+    "emails": [
+      "info@waspcontrolservices.co.uk"
+    ],
+    "description": "Here at Wasp Control Services, we offer wasp eradication treatments in both residential and commercial settings, with prices starting from just \u00a370. Based in West Midlands."
   },
   {
     "name": "Pestverminator",
@@ -391,7 +628,17 @@
     "lat": 52.622769,
     "lng": -2.194735,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "pestverminator@hotmail.co.uk",
+    "emails": [
+      "pestverminator@hotmail.co.uk"
+    ],
+    "description": "Pest control service based in Wolverhampton, we cover the West Midlands area on a daily basis working 7am - 7pm.",
+    "services": [
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestforce Pest Control Grantham | Newark",
@@ -425,7 +672,18 @@
     "lat": 52.216887,
     "lng": -2.251718,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@allenpestcontrol.co.uk",
+    "emails": [
+      "info@allenpestcontrol.co.uk"
+    ],
+    "description": "Elm cottage, Park Lane, Hallow, Worcestershire, WR2 6PQ",
+    "services": [
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DJB Pest control",
@@ -442,7 +700,21 @@
     "lat": 52.899483,
     "lng": -2.159676,
     "found_in_location": "Stone",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "djbpestcontrol@gmail.com",
+    "emails": [
+      "djbpestcontrol@gmail.com"
+    ],
+    "description": "At DJB Pest Control, we are committed to providing the best possible service to protect against unwanted pests",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Infinite Pest Management LTD",
@@ -459,7 +731,15 @@
     "lat": 52.625479,
     "lng": -1.620532,
     "found_in_location": "Tamworth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Endless Solutions Infinite PestManagement WITH INFINITE YOU HAVE CONFIDENCE Offering services kind to the environment and future. Specialising in all forms of pest control. Our aim is to offer you customer focused, hassle free, 5* pest management. 07747 577766 Contact us Rats Pigeons Cockroaches...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "TLC Pest Control Limited",
@@ -476,7 +756,12 @@
     "lat": 52.414272,
     "lng": -1.91245,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@tlcpest-control.co.uk",
+    "emails": [
+      "info@tlcpest-control.co.uk"
+    ],
+    "description": "Pest control Birmingham - TLC Pest Control provides solutions to your problem!"
   },
   {
     "name": "Emergency Services Group",
@@ -493,7 +778,21 @@
     "lat": 52.969866,
     "lng": -1.166914,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "contact@emergencyservicesgroup.co.uk",
+    "emails": [
+      "contact@emergencyservicesgroup.co.uk"
+    ],
+    "description": "Fast, reliable pest control services in Nottingham. 24/7 experts with competitive pricing \u2014 we'll beat any like-for-like quote. Call us today!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Your 5th Emergency service PestGuard NorthWest Stoke Wasps, Rats, Mice, Fleas, Bedbugs, etc",
@@ -512,10 +811,19 @@
     "found_in_location": "Stoke-on-Trent",
     "found_with_query": "pest control midlands",
     "services": [
-      "Wasp Nest Removal",
       "Bed Bug Treatment",
-      "Flea Treatment"
-    ]
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "info@pgnw.co.uk",
+    "emails": [
+      "info@pgnw.co.uk",
+      "john@doe.com"
+    ],
+    "description": "Expert pest control services by PGNW, from wasp nest removal to full commercial pest prevention contracts. Over a decade of experience ensuring effective pest control solutions. Contact us for reliable pest management"
   },
   {
     "name": "Aries Pest Control",
@@ -532,7 +840,18 @@
     "lat": 52.716616,
     "lng": -2.003837,
     "found_in_location": "Cannock",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "ariespestcontrol@aol.com",
+    "emails": [
+      "ariespestcontrol@aol.com"
+    ],
+    "description": "For effective wasp control solutions, get in touch with Aries Pest Control. I offer professional pest control services across Cannock, Lichfield, Stafford, Penkridge, Brownhills and Aldridge.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Sun Pest Control Ltd",
@@ -549,7 +868,22 @@
     "lat": 51.3739,
     "lng": -0.229386,
     "found_in_location": "Worcester Park",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@sunpestcontrol.co.uk",
+    "emails": [
+      "info@sunpestcontrol.co.uk"
+    ],
+    "description": "Get fast, effective pest control for your home or business. Sun Pest Control safely remove insects, rodents, and more. Book your pest inspection today!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fox Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Local Pest Nottingham",
@@ -566,7 +900,17 @@
     "lat": 52.929176,
     "lng": -1.275804,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@localpest.es",
+    "emails": [
+      "info@localpest.es"
+    ],
+    "description": "Local Pest UK LTD: Your trusted family-owned pest control experts with 30+ years' experience. Effective solutions for a pest-free environment. Contact our team of experts to have peace of mind!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Bridgnorth Pest Control",
@@ -583,7 +927,17 @@
     "lat": 52.525544,
     "lng": -2.409226,
     "found_in_location": "Bridgnorth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "verminator@bridgnorthpestcontrol.com",
+    "emails": [
+      "verminator@bridgnorthpestcontrol.com"
+    ],
+    "description": "Trusted pest control for homes and businesses in Bridgnorth. Clear advice, effective treatments and fast response for rats, mice, wasps, ants, fleas and more.",
+    "services": [
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Clearway Pest Control Services",
@@ -600,7 +954,15 @@
     "lat": 52.481832,
     "lng": -0.903716,
     "found_in_location": "Market Harborough",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@clearwaypestcontrol.com",
+    "emails": [
+      "info@clearwaypestcontrol.com"
+    ],
+    "description": "Looking for Bird Control, Cockroach Control, Commercial Pest Control in Market Harborough, Leicestershire, Northamptonshire? Contact us today.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Glebe Pest Control",
@@ -617,7 +979,15 @@
     "lat": 52.458218,
     "lng": -0.832372,
     "found_in_location": "Desborough, Kettering",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "glebepestcontrol@gmail.com",
+    "emails": [
+      "glebepestcontrol@gmail.com"
+    ],
+    "description": "Glebe Pest Control is a locally based, strongly recommended, highly trained pest company that prides itself on outstanding customer feedback and recommendation. With many years experience in the sector, we offer fully insured and guaranteed services to homes and business covering all manner of...",
+    "services": [
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "EM Pest Control",
@@ -634,7 +1004,24 @@
     "lat": 52.512781,
     "lng": -1.080791,
     "found_in_location": "Lutterworth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "empestcontrol@outlook.com",
+    "emails": [
+      "empestcontrol@outlook.com"
+    ],
+    "description": "Pest Control Leicester offers top-rated pest control services for homes and businesses in Leicester and throughout Leicestershire 24 hours a day! Contact us for reliable pest management services that are tailored to your needs. EM Pest Control Leicester offers top-rated pest control services for...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pied Piper Pest & Wildlife Management",
@@ -651,7 +1038,12 @@
     "lat": 52.488329,
     "lng": -1.745751,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@piedpiperpestmanagement.co.uk",
+    "emails": [
+      "info@piedpiperpestmanagement.co.uk"
+    ],
+    "description": "Discover the services of Pied Piper Pest & Wildlife Man, Birmingham"
   },
   {
     "name": "Wyre Forest Pest Control kidderminster",
@@ -668,7 +1060,22 @@
     "lat": 52.383735,
     "lng": -2.262231,
     "found_in_location": "Kidderminster",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "wfpc@live.co.uk",
+    "emails": [
+      "wfpc@live.co.uk"
+    ],
+    "description": "Welcome to Wyre Forest Pest Control Get in Touch for a Quote! Rats & Mice Bird Proofing Wasps & Hornets Ants Service Contracts Fleas Squirrels Flies Cockroaches Moths Beetles Electronic Fly Killers Honey Bees & Common Bee Species Welcome to Wyre Forest Pest Control, we are a family run business...",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Bed Bug Experts Leicester Ltd",
@@ -687,8 +1094,14 @@
     "found_in_location": "Leicester",
     "found_with_query": "pest control midlands",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Fumigation"
+    ],
+    "email": "contact@bedbugexperts.co.uk",
+    "emails": [
+      "contact@bedbugexperts.co.uk"
+    ],
+    "description": "Get rid of bedbugs with expert extermination services. Bedbug Experts offers professional and reliable pest control solutions. Call us today!"
   },
   {
     "name": "Search UK Pest Control Ltd",
@@ -705,7 +1118,20 @@
     "lat": 52.341248,
     "lng": -1.559445,
     "found_in_location": "Kenilworth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "searchukpest@outlook.com",
+    "emails": [
+      "searchukpest@outlook.com"
+    ],
+    "description": "Your business and domestic pest control problems fixed. Fast! Welcome to Search UK Pest Control Ltd. We are a family business with over 30 years of experience.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fox Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "MC Environmental",
@@ -722,7 +1148,18 @@
     "lat": 52.505642,
     "lng": -1.774861,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@mcpestcontrol.co.uk",
+    "emails": [
+      "info@mcpestcontrol.co.uk"
+    ],
+    "description": "MC environmental pest control services in Birmingham UK .Covering the West Midlands. Commercial/industrial/domestic pest management Rats, Mice, Squirrels, Wasps, Bedbugs ,Cockroaches ,Fleas, Flies and all other aspects of pest control carried out.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "midlands pest control ltd",
@@ -739,7 +1176,16 @@
     "lat": 52.768888,
     "lng": -1.530439,
     "found_in_location": "Swadlincote",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@midlandspestcontrol.co.uk",
+    "emails": [
+      "info@midlandspestcontrol.co.uk"
+    ],
+    "description": "Midlands Pest Control provides fast, reliable pest removal across Swadlincote, Derbyshire and the Midlands. Wasps, rodents, insects and more. Fully qualified, insured and trusted.",
+    "services": [
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "A.R.D. Pest Control Ltd",
@@ -756,7 +1202,17 @@
     "lat": 51.882909,
     "lng": -2.733122,
     "found_in_location": "Hereford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "dave@waspman.uk",
+    "emails": [
+      "dave@waspman.uk"
+    ],
+    "description": "Rat, wasp, fly & clusterfly pest control, Hereford",
+    "services": [
+      "Commercial Pest Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Protech Wasp And Pest Control - Derby",
@@ -790,7 +1246,19 @@
     "lat": 53.054528,
     "lng": -1.404221,
     "found_in_location": "derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "louis@pestcontrolservicesandmaintenance.co.uk",
+    "emails": [
+      "louis@pestcontrolservicesandmaintenance.co.uk"
+    ],
+    "description": "A Ripley, Derbyshire based Pest Control businesses, offering a wide variety of services and maintenance to residential and commercial users.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JCS Pest Control In Nottingham",
@@ -807,7 +1275,17 @@
     "lat": 52.999696,
     "lng": -1.158846,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@jcspestcontrol.co.uk",
+    "emails": [
+      "info@jcspestcontrol.co.uk",
+      "contact@ijwebdesign.co.uk"
+    ],
+    "description": "JCS Pest Control Services in Nottingham, surrounding towns & boroughs. We service both domestic & commercial clients. Specialist bird proofing",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "The Rat Catcher",
@@ -826,8 +1304,15 @@
     "found_in_location": "Rushden",
     "found_with_query": "pest control midlands",
     "services": [
+      "Commercial Pest Control",
+      "Emergency Pest Control",
       "Rat & Mouse Control"
-    ]
+    ],
+    "email": "catchit@theratcatcher.co.uk",
+    "emails": [
+      "catchit@theratcatcher.co.uk"
+    ],
+    "description": "When the unfortunate happens we offer a same day discrete service. We will not only remove pests we will provide you with a full survey detailing any issues so you can stop the problem happening again - All included!"
   },
   {
     "name": "Leo Pest Control",
@@ -844,7 +1329,17 @@
     "lat": 52.215992,
     "lng": -2.731177,
     "found_in_location": "Leominster",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "email@leopestcontrol.co.uk",
+    "emails": [
+      "email@leopestcontrol.co.uk"
+    ],
+    "description": "Services are provided to food and beverage manufacturer\u2019s, commercial manufacturer\u2019s, warehousing, farms, estates, historical buildings, retailers, housing associations, councils, schools and domestic houses.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "H & CO Pest Control Solutions Ltd",
@@ -861,7 +1356,23 @@
     "lat": 53.100505,
     "lng": -1.528237,
     "found_in_location": "Matlock",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "chris.hannath7@gmail.com",
+    "emails": [
+      "chris.hannath7@gmail.com"
+    ],
+    "description": "H&Co are Pest Control Specialists in Derbyshire and the Surrounding Counties. Get in Touch Today to Discuss Your Situation and Get Assistance.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JR Hudson Integrated Pest Management",
@@ -878,7 +1389,17 @@
     "lat": 53.188697,
     "lng": -0.553007,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@jrhudson.co.uk",
+    "emails": [
+      "enquiries@jrhudson.co.uk"
+    ],
+    "description": "Pest control for Lincoln and the surrounding areas",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "TJB Pest Control Ltd",
@@ -895,7 +1416,18 @@
     "lat": 53.120842,
     "lng": -2.166633,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "tim@tjbpestcontrol.co.uk",
+    "emails": [
+      "tim@tjbpestcontrol.co.uk"
+    ],
+    "description": "All types of Pests quickly and efficiently controlled through Integrated Pest Management",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "PRC Facilities and Pest Control Ltd",
@@ -912,7 +1444,21 @@
     "lat": 52.533569,
     "lng": -2.000926,
     "found_in_location": "West Bromwich",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@prcfacilitiesandpestcontrol.co.uk",
+    "emails": [
+      "info@prcfacilitiesandpestcontrol.co.uk"
+    ],
+    "description": "Effective pest control services in Kidderminster. PRC Facilities & Pest Control eliminates wasps, bed bugs, & more. Safe, professional service. Free quotes!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Be Wise Pest Control",
@@ -946,7 +1492,17 @@
     "lat": 52.9082,
     "lng": -1.527818,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "matt@msdpestcontrol.com",
+    "emails": [
+      "matt@msdpestcontrol.com"
+    ],
+    "description": "Protect your home or business with quick, safe and reliable pest removal, prevention and control solutions. Call us on 07592 155670",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "H & J Pest Control Services",
@@ -963,7 +1519,17 @@
     "lat": 52.097022,
     "lng": -2.317918,
     "found_in_location": "Malvern",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@hjpc.co.uk",
+    "emails": [
+      "info@hjpc.co.uk"
+    ],
+    "description": "H&J Pest Control of malvern Worcester - Wasp, Bed Bug, Mouse, Rat and Cluster Fly Control for Worcestershire, Herefordshire, Gloucestershire",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "RiDiT-Pest Control",
@@ -980,7 +1546,21 @@
     "lat": 52.66408,
     "lng": -2.13734,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "henry@ridit-pestcontrol.co.uk",
+    "emails": [
+      "henry@ridit-pestcontrol.co.uk"
+    ],
+    "description": "At Ridit Pest Control, we offer pest control & rodent control services for all common and uncommon pests, including rodents, insects and moths, we cover Stafford, Wolverhampton, Staffordshire, and the West Midlands",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "NestBusters Nottingham",
@@ -997,7 +1577,20 @@
     "lat": 53.008397,
     "lng": -0.997939,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "damien@nestbusters.co.uk",
+    "emails": [
+      "damien@nestbusters.co.uk"
+    ],
+    "description": "Wasp Nest Removal Nottingham | NestBusters",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Derbyshire Pest Management Professionals",
@@ -1014,7 +1607,8 @@
     "lat": 53.042729,
     "lng": -1.399208,
     "found_in_location": "Ripley",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": ", Advanced Environmental Services, Derbyshires premier pest control company"
   },
   {
     "name": "SINIYON Services Ltd",
@@ -1031,7 +1625,17 @@
     "lat": 52.503232,
     "lng": -1.432813,
     "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "siniyon.services@gmail.com",
+    "emails": [
+      "siniyon.services@gmail.com"
+    ],
+    "description": "Expert Domestic & Commercial Pest Management Solutions for Warwickshire, UK and surrounding areas Midlands Hub - Nuneaton",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "EverSafe Pest Solutions",
@@ -1065,7 +1669,18 @@
     "lat": 52.456135,
     "lng": -2.387877,
     "found_in_location": "Bridgnorth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Provider of pest control and preventative maintenance services in Shropshire and the West Midlands",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Malvern Pest Control",
@@ -1082,7 +1697,19 @@
     "lat": 52.11215,
     "lng": -2.326082,
     "found_in_location": "Malvern",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Malvern Pest Control provides professional pest management services in Worcestershire, Herefordshire, and Gloucestershire, specialising in residential and commercial pest removal solutions.",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Gold's pest control",
@@ -1116,7 +1743,16 @@
     "lat": 52.237903,
     "lng": -0.887607,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JLT Pest Control Services Ltd.",
@@ -1150,7 +1786,22 @@
     "lat": 52.905393,
     "lng": -2.897926,
     "found_in_location": "Ellesmere",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "verminatorno1@gmail.com",
+    "emails": [
+      "verminatorno1@gmail.com"
+    ],
+    "description": "Fast, safe and effective pest treatments forhomes, landlords and businessesacrossChester, Cheshire, Shropshire, North Wales and the West Midlands\u2013 includingOswestry, Ellesmere (SY12), Welshpool (SY21) and Newcastle-under-Lyme. From rats and mice to wasps, ants and cockroaches \u2013 we identify the...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Prokill - Solihull",
@@ -1201,7 +1852,16 @@
     "lat": 52.527359,
     "lng": -1.993111,
     "found_in_location": "West Bromwich",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "contact@blackdogpestsolutions.co.uk",
+    "emails": [
+      "contact@blackdogpestsolutions.co.uk"
+    ],
+    "description": "We are a professional pest control company based in West Bromwich. We provide quality pest control services in Sandwell, Walsall, Dudley & Birmingham. Rats, Mice, Squirrels, Moles, Wasps. We cover many other pests so give us a call for a free quote.",
+    "services": [
+      "Bed Bug Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Horncastle Pest Control",
@@ -1218,7 +1878,19 @@
     "lat": 53.151988,
     "lng": -0.226997,
     "found_in_location": "Woodhall Spa",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "andy@pest-detective.com",
+    "emails": [
+      "andy@pest-detective.com"
+    ],
+    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you\u2019ll appreciate the results.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Husbands Pest Control",
@@ -1235,7 +1907,11 @@
     "lat": 51.914704,
     "lng": -2.575828,
     "found_in_location": "Ross-on-Wye",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "We pride ourselves on our reputation. We are not your typical exterminators \u2013 we are full-service pest control experts, getting rid of unwanted pests and making sure they can\u2019t get back in.",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "Pied Piper Pest Control",
@@ -1286,7 +1962,19 @@
     "lat": 52.540991,
     "lng": -2.0095,
     "found_in_location": "West Bromwich",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@aapestcontrol.co.uk",
+    "emails": [
+      "enquiries@aapestcontrol.co.uk"
+    ],
+    "description": "AA Pest Control Services. Pest Control Dudley and surrounding areas. Family business, unmarked vans, experienced and qualified experts.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Birch Pest Control",
@@ -1303,7 +1991,22 @@
     "lat": 52.968831,
     "lng": -2.191658,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "birchpestcontrol@hotmail.co.uk",
+    "emails": [
+      "birchpestcontrol@hotmail.co.uk"
+    ],
+    "description": "Birch Pest Control are industry-leading in Staffordshire, owned and operated by Clive Birch. At BPC, we pride ourselves on treating our customers like a member of our family, and because of this philosophy we\u2019ve become a trusted resource for dependence, quality and service in our...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Queen Bee Pest Management",
@@ -1320,7 +2023,15 @@
     "lat": 53.313457,
     "lng": -0.663915,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Lincoln Pest Control removal of Wasps, Moles, Rats, Mice, Bed Bugs, Fleas, Flies at Homes & Businesses in and around Lincoln, Gainsborough",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Professional Pest Control Services",
@@ -1337,7 +2048,16 @@
     "lat": 52.509457,
     "lng": -1.668527,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@profpestcontrol.co.uk",
+    "emails": [
+      "info@profpestcontrol.co.uk"
+    ],
+    "description": "Advice from experts on pest control",
+    "services": [
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ask.pest control",
@@ -1371,7 +2091,14 @@
     "lat": 53.089346,
     "lng": -2.018946,
     "found_in_location": "Leek",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Pestex Services is one of the UK\u2019s most trusted names in effective pest control, disinfection and property clearance, with over 40 years\u2019 experience.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestforce Pest Control Ledbury",
@@ -1405,7 +2132,19 @@
     "lat": 52.485701,
     "lng": -1.905124,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "help@thepestmaster.co.uk",
+    "emails": [
+      "help@thepestmaster.co.uk"
+    ],
+    "description": "The Pest Master provides professional pest control services to domestic and commercial clients throughout Birmingham. Fully insured and accredited.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "York's pest control",
@@ -1439,7 +2178,13 @@
     "lat": 52.40111,
     "lng": -1.94226,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "At County Pest Control we providing a permanent and cost effective solution to a wide range of pests around the home and work place. We deal with all pests, in all parts of the West Midlands and Birmingham.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Ace Pest Control Nottingham",
@@ -1456,7 +2201,19 @@
     "lat": 52.941451,
     "lng": -1.16385,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "davidpreston321@btinternet.com",
+    "emails": [
+      "davidpreston321@btinternet.com"
+    ],
+    "description": "Protect your home or business with our guaranteed pest control services in Nottingham and Nottinghamshire. Fast, reliable, and effective pest removal. For more information, visit us on our website.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Local Pest Control",
@@ -1490,7 +2247,18 @@
     "lat": 52.614151,
     "lng": -2.005188,
     "found_in_location": "Walsall",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "sales@walsallpestcontrol.co.uk",
+    "emails": [
+      "sales@walsallpestcontrol.co.uk"
+    ],
+    "description": "Walsall & Lichfield Pest control Company Covering All WS Postcodes | Public Health Pest Eradication | Commercial Surveys | Council & Private Properties | Insured Fully",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Shropshire Pest Control",
@@ -1507,7 +2275,11 @@
     "lat": 52.706506,
     "lng": -2.499284,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Shropshire Pest Control, Moles, rats, mice, wasps, fleas, bees, ants, rabbits, woodworm, birds, for all you pest control needs, Telford pest control",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Extermilex",
@@ -1524,7 +2296,17 @@
     "lat": 51.373425,
     "lng": -0.237896,
     "found_in_location": "Worcester Park",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "extermilex@yahoo.com",
+    "emails": [
+      "extermilex@yahoo.com"
+    ],
+    "description": "Professional pest control services in Surrey and South West London with over 20 years of experience. Effective, safe solutions for homes and businesses. Call now!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Hamelin Pest Limited",
@@ -1541,7 +2323,15 @@
     "lat": 52.036374,
     "lng": -2.679526,
     "found_in_location": "Hereford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@hamelinpest.com",
+    "emails": [
+      "info@hamelinpest.com"
+    ],
+    "description": "Hamelin Pest provides a range of rodent prevention products to humanely prevent rat infestation. Ratblocker - Preventavent - Repelarat",
+    "services": [
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "PJS Pest Control",
@@ -1558,7 +2348,18 @@
     "lat": 52.399825,
     "lng": -1.811784,
     "found_in_location": "Solihull",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "pjspestcontrol429@gmail.com",
+    "emails": [
+      "pjspestcontrol429@gmail.com"
+    ],
+    "description": "PJS Pest Control competitively priced control of Mice Rats Wasp Nests Pigeons Rabbits Squirrels Foxes Solihull Knowle Hockley Heath Dorridge Shirley Wythall Hall Green Earlswood.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fox Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AMS Pest Control Kenilworth",
@@ -1575,7 +2376,19 @@
     "lat": 52.353128,
     "lng": -1.592165,
     "found_in_location": "Kenilworth",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "admin@ams-wm.uk",
+    "emails": [
+      "admin@ams-wm.uk"
+    ],
+    "description": "Pest Control Kenilworth-Rat Control Kenilworth: rodent control, wasp nest treatments, domestic pest control and commercial contracts.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "911 Pest Control",
@@ -1592,7 +2405,18 @@
     "lat": 53.083629,
     "lng": -2.27416,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "john@911pestcontrol.co.uk",
+    "emails": [
+      "john@911pestcontrol.co.uk"
+    ],
+    "description": "Pest Control, Cheshire, Cheshire East, Cheshire West, North West, Wasps, Rodents, Insects, Proofing, Response within 24hrs, environmentally safe treatments, Private and Commercial",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AD Pest Management",
@@ -1609,7 +2433,20 @@
     "lat": 52.986626,
     "lng": -2.246649,
     "found_in_location": "Newcastle",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@adpestmanagement.co.uk",
+    "emails": [
+      "info@adpestmanagement.co.uk",
+      "pestguardpc@btinternet.com"
+    ],
+    "description": "AD Pest Management Staffordshire offer pest control services for commercial & domestic customers in Stoke, Shropshire, the Midlands & South Cheshire.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "BEE SAFE PEST CONTROL",
@@ -1626,7 +2463,8 @@
     "lat": 52.248383,
     "lng": -0.873699,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Rodent control (Rats and Mice), Bird control (spiking, netting and wire systems as appropriate), squirrels, flies, ant control, wasp and bee infestations in Northampton"
   },
   {
     "name": "GetRid Pest Solutions",
@@ -1643,7 +2481,20 @@
     "lat": 52.556216,
     "lng": -2.172157,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "getridpestsolutions@yahoo.com",
+    "emails": [
+      "getridpestsolutions@yahoo.com"
+    ],
+    "description": "My name is Dave, and I have been a pest technician for over 25 years specializing in all types of pest control.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Prokill Shropshire",
@@ -1679,8 +2530,10 @@
     "found_in_location": "Birmingham",
     "found_with_query": "pest control midlands",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Fumigation"
+    ],
+    "description": "Professional bed bug removal and extermination service covering Birmingham, Coventry, Warwickshire, Staffordshire, and nearby areas. Over 20 years of trusted, discreet pest control for homes and businesses."
   },
   {
     "name": "Pest Free Solutions",
@@ -1697,7 +2550,17 @@
     "lat": 52.537827,
     "lng": -1.402874,
     "found_in_location": "Hinckley",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "sales@pestfreesolutions.net",
+    "emails": [
+      "sales@pestfreesolutions.net"
+    ],
+    "description": "With over 20 years' experience, we deliver highly effective professional and ethical bird and pest control services.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Local pest control Bulwell",
@@ -1714,7 +2577,17 @@
     "lat": 52.998041,
     "lng": -1.190177,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@localpest.es",
+    "emails": [
+      "info@localpest.es"
+    ],
+    "description": "Local Pest UK LTD: Your trusted family-owned pest control experts with 30+ years' experience. Effective solutions for a pest-free environment. Contact our team of experts to have peace of mind!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Primary Pest Care",
@@ -1748,7 +2621,16 @@
     "lat": 52.772329,
     "lng": -1.207698,
     "found_in_location": "Loughborough",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Leicestershire Pest Control Services. Loughborough Line: 01509 400127. General Leicestershire Line: 01163 400 145.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Killall Pest Control Ltd",
@@ -1799,7 +2681,16 @@
     "lat": 52.478476,
     "lng": -1.913078,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "accounts@birminghampestcompany.co.uk",
+    "emails": [
+      "accounts@birminghampestcompany.co.uk"
+    ],
+    "description": "Birmingham Pest Control - Commercial Pest Control Free Surveys | All Public Health Pests | Rodent control | Birmingham Homes Pest Control - Fixed Prices",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "B-Discreet Pest Control",
@@ -1850,7 +2741,10 @@
     "lat": 52.586086,
     "lng": -1.981419,
     "found_in_location": "Walsall",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "services": [
+      "Bed Bug Treatment"
+    ]
   },
   {
     "name": "Sweetmeadow Professional Pest control",
@@ -1867,7 +2761,20 @@
     "lat": 52.659379,
     "lng": -2.523319,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@sweetmeadowpestcontrol.co.uk",
+    "emails": [
+      "enquiries@sweetmeadowpestcontrol.co.uk"
+    ],
+    "description": "Telford Locally owned and operated Pest Control business for over 10 years. Sweetmeadow Pest Control offer a professional and effective solution",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "P K Pest Control",
@@ -1901,7 +2808,14 @@
     "lat": 53.196437,
     "lng": -0.598229,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Expert Pest Management for allCommercial,Agriculture&DomesticSectors",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AEM pest control",
@@ -1918,7 +2832,12 @@
     "lat": 52.997986,
     "lng": -2.122253,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@aempestcontrol.co.uk",
+    "emails": [
+      "info@aempestcontrol.co.uk"
+    ],
+    "description": "Pest Control Stoke On Trent. AEM pest control is a company run by family and friends with a view to helping our clients with their everyday pest problems in a relaxed and reassuring manner. With twenty year's experience in every aspect of pest control from domestic and commercial premises to..."
   },
   {
     "name": "Maximum Pest Control",
@@ -1952,7 +2871,18 @@
     "lat": 52.339315,
     "lng": -0.550384,
     "found_in_location": "Wellingborough",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@bandrpestcontrol.co.uk",
+    "emails": [
+      "info@bandrpestcontrol.co.uk"
+    ],
+    "description": "B&amp;R Pest Control can rid you of rat, wasp, bed bug and mice infestations \u2013 we work across Northampton, Milton Keynes, and surrounding areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ace Wasp Control",
@@ -1972,7 +2902,12 @@
     "found_with_query": "pest control midlands",
     "services": [
       "Wasp Nest Removal"
-    ]
+    ],
+    "email": "stuart@acewaspremoval.co.uk",
+    "emails": [
+      "stuart@acewaspremoval.co.uk"
+    ],
+    "description": "Professional wasp nest removal services with an extermination guarantee. If the first treatment doesn't work, we'll come back for free!"
   },
   {
     "name": "ThermoPest Bed Bug Treatment",
@@ -1991,8 +2926,15 @@
     "found_in_location": "Birmingham",
     "found_with_query": "pest control midlands",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ],
+    "email": "office@pest.co.uk",
+    "emails": [
+      "office@pest.co.uk"
+    ],
+    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
   },
   {
     "name": "PestControl.co.uk",
@@ -2009,7 +2951,15 @@
     "lat": 52.57119,
     "lng": -1.32854,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "MoleFree Pest Control Wasp Nests Destroyed",
@@ -2080,7 +3030,21 @@
     "lat": 52.396893,
     "lng": -2.244026,
     "found_in_location": "Kidderminster",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "kidderminsterpestcontrol@gmail.com",
+    "emails": [
+      "kidderminsterpestcontrol@gmail.com"
+    ],
+    "description": "Kidderminster Pest Control is your local 24/7 authority contractor, providing a fast response to any pest problem.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Dr. Kill Limited",
@@ -2097,7 +3061,21 @@
     "lat": 52.324981,
     "lng": -2.004367,
     "found_in_location": "Bromsgrove",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@drkill.co.uk",
+    "emails": [
+      "info@drkill.co.uk"
+    ],
+    "description": "Wasp nest removal service from pest control company based in Bromsgrove. We offer a range of pest control services including rats, mice, bed bugs and ants. Request a quote from a local pest control technician today.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Coventry Pest Control",
@@ -2114,7 +3092,22 @@
     "lat": 52.389036,
     "lng": -1.504831,
     "found_in_location": "Coventry",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@coventrypestcontrol.co.uk",
+    "emails": [
+      "info@coventrypestcontrol.co.uk"
+    ],
+    "description": "Pests, whatever shape or size they come in, are a nuisance. When the problem of pests arise, you need to turn to an expert. Experts in wasp nest removal Coventry.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Control Services",
@@ -2131,7 +3124,17 @@
     "lat": 52.505108,
     "lng": -1.997381,
     "found_in_location": "Smethwick",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pestcontrolserviceswestmidlands.co.uk",
+    "emails": [
+      "info@pestcontrolserviceswestmidlands.co.uk"
+    ],
+    "description": "24 hour pest control in Birmingham, West Midlands - Domestic and commercial pest control including fleas, ants, birds, pigeons, wasps, rats, mice and more",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Comprehensive Pest Control",
@@ -2148,7 +3151,19 @@
     "lat": 53.238366,
     "lng": -0.467646,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@comprehensivepestcontrol.co.uk",
+    "emails": [
+      "info@comprehensivepestcontrol.co.uk",
+      "luke@comprehensivepestcontrol.co.uk",
+      "race_steve@hotmail.com"
+    ],
+    "description": "We provide a broad range of pest control services in Lincoln and Lincolnshire to the general public and commercial clients.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Stop Dead Pest Control",
@@ -2250,7 +3265,12 @@
     "lat": 52.391641,
     "lng": -0.71468,
     "found_in_location": "Kettering",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "abc@xyz.com",
+    "emails": [
+      "abc@xyz.com"
+    ],
+    "description": "The state of nature is alarming. Since 1970, we have caused a 70% decline in the world\u2019s biodiversity. The UK, in particular, is facing a significant loss of nature, with the abundance of species dwindling by an average of 19% during this period. A staggering 16% of species are now threatened with"
   },
   {
     "name": "Colonial Pest Control Inc.",
@@ -2267,7 +3287,14 @@
     "lat": 42.272629,
     "lng": -71.759471,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "We offer low cost, effective & 100% guaranteed pest control & exterminator services in Massachusetts & New Hampshire. Get your FREE Estimate Today!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ford's Hometown Services",
@@ -2284,7 +3311,18 @@
     "lat": 42.291548,
     "lng": -71.816458,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "example@domain.com",
+    "emails": [
+      "example@domain.com"
+    ],
+    "description": "Call for pest control and lawn care from licensed and certified pros. For 85+ years, we\u2019ve treated customers like family, delivering reliable, personalized services.",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Huntsman Pest Control West Midlands",
@@ -2301,7 +3339,19 @@
     "lat": 52.574173,
     "lng": -2.145124,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "business@huntsmanpestcontrol.co.uk",
+    "emails": [
+      "business@huntsmanpestcontrol.co.uk"
+    ],
+    "description": "Huntsman Pest Control professionals are ready to help you to eradicate your pest problem. Call us, we are available 24/7",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Aim Environmental Services",
@@ -2318,7 +3368,22 @@
     "lat": 52.561918,
     "lng": -2.060894,
     "found_in_location": "Bilston",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@aim-environmental.com",
+    "emails": [
+      "info@aim-environmental.com"
+    ],
+    "description": "Our West Midlands pest control team provides professional, affordable pest removal for homes & businesses across the region - Free quote!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A P Pest Control Nottingham",
@@ -2335,7 +3400,23 @@
     "lat": 53.038375,
     "lng": -1.090537,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "calvertonpestcontrol@gmail.com",
+    "emails": [
+      "calvertonpestcontrol@gmail.com"
+    ],
+    "description": "A P Pest Control services Nottingham, Newark, Derby, Chesterfield, Mansfield and the surrounding areas.We are a family run business.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Solutions Pest Control",
@@ -2352,7 +3433,15 @@
     "lat": 52.831927,
     "lng": -1.164096,
     "found_in_location": "Loughborough",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@solutionspestcontrol.co.uk",
+    "emails": [
+      "info@solutionspestcontrol.co.uk"
+    ],
+    "description": "Fast and effective solutions to pest control problems in Leicestershire. If you need wasp nests, moles or vermin removed quickly, please give us a call.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MJ Pest Control",
@@ -2369,7 +3458,23 @@
     "lat": 52.600352,
     "lng": -1.092392,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiry@mjpestcontrol.co.uk",
+    "emails": [
+      "enquiry@mjpestcontrol.co.uk"
+    ],
+    "description": "Your local, affordable, professional pest control service providing services for all pest species. Pest control Leicestershire and Rutland areas.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Interceptors Limited",
@@ -2386,7 +3491,17 @@
     "lat": 52.473087,
     "lng": -2.144191,
     "found_in_location": "Stourbridge",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "help@pestinterceptors.co.uk",
+    "emails": [
+      "help@pestinterceptors.co.uk"
+    ],
+    "description": "AS SEEN ON TV. Lifetime rat problems removed. Honey bee colonies removed and rehomed. Vegan rat pest control service. Expert pest control service throughout the West Midlands.",
+    "services": [
+      "Bed Bug Treatment",
+      "Flea Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Covkill Pest Control",
@@ -2403,7 +3518,16 @@
     "lat": 52.405044,
     "lng": -1.512561,
     "found_in_location": "Coventry",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Pest Control Services. Call: 02476 950 184 Coventry, Nuneaton, Bedworth or 01926 270 299 for Leamington Spa, Kenilworth, Warwick",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Best4Pests",
@@ -2420,7 +3544,14 @@
     "lat": 53.12886,
     "lng": -1.200108,
     "found_in_location": "Mansfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Best4Pests are your local and independent pest control specialist. Serving domestic and commercial customers in your local area.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control"
+    ]
   },
   {
     "name": "AllPests",
@@ -2437,7 +3568,18 @@
     "lat": 53.202627,
     "lng": -1.006005,
     "found_in_location": "Newark",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "allpestsken@aol.co.uk",
+    "emails": [
+      "allpestsken@aol.co.uk"
+    ],
+    "description": "Local expert pest control in Nottingham & South Yorkshire. Safe, reliable, and personal pest prevention solutions. Contact us today!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Country Life Pest Control Limited",
@@ -2454,7 +3596,23 @@
     "lat": 52.198359,
     "lng": -1.744638,
     "found_in_location": "Stratford-upon-Avon",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "martyn@countrylifepestcontrol.co.uk",
+    "emails": [
+      "martyn@countrylifepestcontrol.co.uk"
+    ],
+    "description": "Country Life Pest Control provide fast and effective pest control solutions throughout Warwickshire, Oxfordshire and the West Midlands.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Confirm A Kill",
@@ -2471,7 +3629,18 @@
     "lat": 53.00104,
     "lng": -1.141324,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@confirmakill.co.uk",
+    "emails": [
+      "enquiries@confirmakill.co.uk"
+    ],
+    "description": "Domestic and commercial Pest Control Nottingham. We'll beat any like for like quote. Fast call out, friendly local service. Call 0115 9135724",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "4 Seasons Environmental Services",
@@ -2488,7 +3657,14 @@
     "lat": 52.596657,
     "lng": -1.065565,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "4 Seasons Professional and reliable pest control services in Leicestershire, safeguard your property from wasps, ants, rodents and other pests",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Complete Pest Control Services",
@@ -2505,7 +3681,19 @@
     "lat": 52.973681,
     "lng": -2.805222,
     "found_in_location": "Whitchurch",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "We provide pest control services in Shropshire, Wrexham, Chester, Tarporley, Crewe, Nantwich, Telford & surrounding areas. Contact us for a free quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Mr. Waspman Pest & Vermin Control",
@@ -2522,7 +3710,19 @@
     "lat": 52.224908,
     "lng": -0.91919,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@mrwaspmanpestcontrol.co.uk",
+    "emails": [
+      "info@mrwaspmanpestcontrol.co.uk"
+    ],
+    "description": "Get in touch with Mr. Waspman for more information on the best pest control Northampton has available. Our friendly team is happy to talk.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Control Nottingham",
@@ -2539,7 +3739,13 @@
     "lat": 52.967528,
     "lng": -1.160161,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "A local independent pest control company based in Nottinghamshire who have been dealing with pest control in Nottingham for over ten years.",
+    "services": [
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Mole Control"
+    ]
   },
   {
     "name": "Charlton Pest Control Ltd",
@@ -2573,7 +3779,18 @@
     "lat": 52.718719,
     "lng": -2.756846,
     "found_in_location": "Shrewsbury",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "davethepestcontroller@hotmail.com",
+    "emails": [
+      "davethepestcontroller@hotmail.com"
+    ],
+    "description": "My name is Dave McCoy, I provide tailored pest control services for domestic and businesscustomers in Shrewsbury and the surrounding area. I have been professionally trained to British PestControl Association standards.I\u2019ve always had an interest in wildlife, I\u2019m an avid birdwatcher and angler...",
+    "services": [
+      "Commercial Pest Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Arrest Derby",
@@ -2607,7 +3824,15 @@
     "lat": 52.897123,
     "lng": -1.258932,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "When you require residential and commercial pest removal in Nottingham, call the team at Pulse Pest Control now. Helping with all your vermin control issues, 01158 229483.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Rat Pak Engineering Ltd",
@@ -2624,7 +3849,16 @@
     "lat": 53.184399,
     "lng": -0.636653,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "sales@ratpak.co.uk",
+    "emails": [
+      "sales@ratpak.co.uk"
+    ],
+    "description": "Rat Pak Pest Control Products is a company based in Lincolnshire and specialises in the manufacture and supply of professional pest control products.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Pride Pest Control Nottingham",
@@ -2641,7 +3875,24 @@
     "lat": 52.882554,
     "lng": -1.300637,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pridepestcontrol.co.uk",
+    "emails": [
+      "info@pridepestcontrol.co.uk"
+    ],
+    "description": "Pest control services Nottingham & Derby. Household & business vermin control company with 25+ years' experience in the pest control sector.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Greenlab Pestcontrol Ltd",
@@ -2658,7 +3909,18 @@
     "lat": 52.585821,
     "lng": -2.124073,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "sales@greenlabpestcontrol.co.uk",
+    "emails": [
+      "sales@greenlabpestcontrol.co.uk"
+    ],
+    "description": "TEL: 01902 475121 Wolverhampton Pest Control Office",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestforce Pest Control Leicestershire",
@@ -2692,7 +3954,23 @@
     "lat": 51.984347,
     "lng": -2.731671,
     "found_in_location": "Hereford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "contact@pgmpestcontrol.co.uk",
+    "emails": [
+      "contact@pgmpestcontrol.co.uk"
+    ],
+    "description": "AWARD WINNING PEST CONTROL SERVICES HEREFORD & WORCESTER 2021. Rats, Mice, Wasps, Fleas, Pigeon Guano Removal, Woodworm, Birds, Bedbugs, Rodents. Extermination & Hazardous Waste Removal. Reliable, Discreet, Efficient & Friendly. Vermin Removal Services in Herefordshire & Worcestershire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JD's Pest & Vermin Control",
@@ -2709,7 +3987,20 @@
     "lat": 52.990256,
     "lng": -2.21922,
     "found_in_location": "Newcastle",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "moletrapper@ntlworld.com",
+    "emails": [
+      "moletrapper@ntlworld.com"
+    ],
+    "description": "JD's Pest & Vermin Control is a family Husband & Wife team who will offer you a service second to none, we will help you with any Pest problem you may have",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Aaron Pest Control",
@@ -2726,7 +4017,17 @@
     "lat": 52.976684,
     "lng": -2.150773,
     "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "apcservices8416@aol.com",
+    "emails": [
+      "apcservices8416@aol.com"
+    ],
+    "description": "Aaron Pest Control offer a discreet rodent control service in Stoke-On-Trent covering Staffordshire, Cheshire and the surrounding areas at excellent prices.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "AMS Pest Control Coventry",
@@ -2743,7 +4044,19 @@
     "lat": 52.441666,
     "lng": -1.555859,
     "found_in_location": "Coventry",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "admin@ams-wm.uk",
+    "emails": [
+      "admin@ams-wm.uk"
+    ],
+    "description": "Pest Control Kenilworth-Rat Control Kenilworth: rodent control, wasp nest treatments, domestic pest control and commercial contracts.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "The Pest Doctor Shropshire",
@@ -2760,7 +4073,22 @@
     "lat": 52.673672,
     "lng": -2.769598,
     "found_in_location": "Shrewsbury",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "jim@pestdoctorshropshire.co.uk",
+    "emails": [
+      "jim@pestdoctorshropshire.co.uk"
+    ],
+    "description": "Shrewsbury post control services, domestic, agricultural & commerical pest control Specialist.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ABC Pest Control",
@@ -2777,7 +4105,12 @@
     "lat": 52.546936,
     "lng": -1.371655,
     "found_in_location": "Hinckley",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "WaspsABC Pest Services specialises in the control of wasps and there nests. Whether in a bungalow or at the top of a gable end on a 3 storey building, nothing is out of our reach with our specialised professional DR5 dusting lance. ABC Pest Services is BPCA trained and fully insured with public...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "ACP Pest Control",
@@ -2794,7 +4127,23 @@
     "lat": 52.556006,
     "lng": -2.110612,
     "found_in_location": "Wolverhampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "acppestcontrol@gmail.com",
+    "emails": [
+      "acppestcontrol@gmail.com"
+    ],
+    "description": "Services for the treatment of Wasps, Rat, Mice, Cockroaches, Bed Bugs, Beetles. Ants, Flea, Insects, Squirrel control , Nuisance Birds and Mole Control.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Telford Pest Control & Prevention Services",
@@ -2811,7 +4160,21 @@
     "lat": 52.717957,
     "lng": -2.484382,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@telford-pest-control.co.uk",
+    "emails": [
+      "info@telford-pest-control.co.uk"
+    ],
+    "description": "Welcome to Telford Pest Control and Prevention Services.. We provide professional pest control services in Telford and surrounding areas including Ironbridge, Coalbrookdale, Dawley, Donnigton, Hadley, Ketley, Lawley, Madeley, Muxton, Oakengates, Shawbirch, Priorslee, Trench & Wellington....",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "WJ Pest Solutions",
@@ -2828,7 +4191,19 @@
     "lat": 52.40435,
     "lng": -2.001507,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "wjpestsolutions@gmail.com",
+    "emails": [
+      "wjpestsolutions@gmail.com"
+    ],
+    "description": "Looking for expert pest control in the West Midlands? WJ Pest Solutions offers fast and reliable pest removal, including wasp nest removal in Birmingham and rat control across the West Midlands. Safe, discreet & affordable service.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A Quick Kill Pest Control Ltd",
@@ -2845,7 +4220,16 @@
     "lat": 52.54644,
     "lng": -2.087778,
     "found_in_location": "Bilston",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@aquickkill.co.uk",
+    "emails": [
+      "enquiries@aquickkill.co.uk"
+    ],
+    "description": "A Quick Kill Pest Control is a family and local pest control business based in the Wolverhampton and Dudley, West Midlands with over 35 years experience. We pride ourselves on a personalised pest control service with guaranteed work and are pleased to offer competitive prices with the highest...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "H.W.S. Pest Control",
@@ -2879,7 +4263,13 @@
     "lat": 40.828277,
     "lng": -96.643478,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Looking for the best Lincoln or Omaha Pest Control Companies near you? Call our Lincoln or Omaha pest control professionals - FREE estimate.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "The Pest Control Co (PestCo)",
@@ -2896,7 +4286,20 @@
     "lat": 52.824098,
     "lng": -1.427977,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pestco.co.uk",
+    "emails": [
+      "info@pestco.co.uk"
+    ],
+    "description": "Pest Problem? Solve your nuisance with The Pest Control Co. We offer rodent & insect pest control services across Derby, Nottingham, Leicester & Nationwide.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Sandwell Pest Control Services Ltd",
@@ -2913,7 +4316,18 @@
     "lat": 52.551375,
     "lng": -2.027194,
     "found_in_location": "Wednesbury",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Sandwell pest control are experts in providing pest control West Bromwich to homes and businesses within, and around the area.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "STP Pest Control Ltd",
@@ -2930,7 +4344,12 @@
     "lat": 52.413762,
     "lng": -1.882613,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Pest control services Birmingham and West Midlands",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Willis Pest Control",
@@ -2947,7 +4366,19 @@
     "lat": 52.551375,
     "lng": -2.027194,
     "found_in_location": "Wednesbury",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Experts in pest control covering all types of pest. Providing a fast, local service to both domestic and commercial premises. Contact our team for a free quote today.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Premier Pest Control",
@@ -2964,7 +4395,16 @@
     "lat": 52.82205,
     "lng": -1.64157,
     "found_in_location": "Burton-on-Trent",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Are you looking for Pest Control in Burton and Staffordshire? We have years of experience in the business, so we can help you with the removal of any unwanted pests within your domestic or commercial property. We work to eliminate Birds, Rodents and Insects from your property fast.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PGH Beegone Pest Control",
@@ -2981,7 +4421,11 @@
     "lat": 52.414272,
     "lng": -1.91245,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "PGH Pest Control & Prevention offers pest control services for businesses and homes. We solve pest problems that others can't.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Quick Pest Control Ltd",
@@ -2998,7 +4442,17 @@
     "lat": 52.474598,
     "lng": -1.920863,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "sales@qpcl.co.uk",
+    "emails": [
+      "sales@qpcl.co.uk"
+    ],
+    "description": "Quick Pest Control provide tailor-made pest control services dependent on your circumstances and budget.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Abbey cottage, (Moledover pest control)",
@@ -3015,7 +4469,20 @@
     "lat": 53.117392,
     "lng": -2.033035,
     "found_in_location": "Leek",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "moledover@live.co.uk",
+    "emails": [
+      "moledover@live.co.uk"
+    ],
+    "description": "If you're looking for mole removal services in Staffordshire, then call Moledover. I serve clients across Cheshire, Derbyshire and Shropshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestforce Pest Control Northamptonshire",
@@ -3049,7 +4516,19 @@
     "lat": 52.712546,
     "lng": -2.50649,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "mike@telfordpestcontrol.co.uk",
+    "emails": [
+      "mike@telfordpestcontrol.co.uk",
+      "mike47siveter@live.co.uk"
+    ],
+    "description": "We specialise in, cluster fly and cockroach control. We are also equipped to treat all other domestic pests including wasps. We pride ourselves in a discreet friendly and prompt service in which we are 100% reliable. We have over 30 years of experience and training with the local council. With...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Fox Pest Control Worcester",
@@ -3066,7 +4545,15 @@
     "lat": 42.270439,
     "lng": -71.802453,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Fox Pest Control provides reliable pest management services in Worcester, MA. Trust our exterminators to eliminate pests and protect your property effectively.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Birmingham Pest Control Ltd",
@@ -3083,7 +4570,15 @@
     "lat": 52.397853,
     "lng": -2.023452,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "contact@birminghampestcontrol.co.uk",
+    "emails": [
+      "contact@birminghampestcontrol.co.uk"
+    ],
+    "description": "Birmingham Pest Control Ltd undertake domestic and commercial pest control throughout West Midlands, including Birmingham,Solihull,Knowle,Dorridge,Redditch,Bromsgrove,Oldbury,Halesowen,Hagley,Sutton Coldfield and West Bromwich",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "MRA Pest Control",
@@ -3100,7 +4595,17 @@
     "lat": 52.969364,
     "lng": -1.293277,
     "found_in_location": "Ilkeston",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "mrapestcontrol@outlook.com",
+    "emails": [
+      "mrapestcontrol@outlook.com"
+    ],
+    "description": "MRA Pest Control is a professional pest control service for homes, hospitals, hotels, farms and other businesses. Open 24 hours a day, we are a family-run, friendly, pest control business, designed to suit the needs of our customers by offering professional pest control services.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Verminater Pest Control",
@@ -3117,7 +4622,19 @@
     "lat": 52.208221,
     "lng": -2.204562,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "nprobert298@gmail.com",
+    "emails": [
+      "nprobert298@gmail.com"
+    ],
+    "description": "Pest control Worcester and Pest control Droitwich. Affordable pest control Worcester and pest control Droitwich.",
+    "services": [
+      "Ant Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest-techz Ltd",
@@ -3151,7 +4668,20 @@
     "lat": 52.643872,
     "lng": -2.445781,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "acutepestcontrol@yahoo.co.uk",
+    "emails": [
+      "acutepestcontrol@yahoo.co.uk"
+    ],
+    "description": "Acute Pest Control Shropshire - Call APC: 01952 884 884 - Domestic & Commercial. Quick, Friendly, Fully Qualified & Insured, Telford, Bridgnorth Pest Control.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Arden Services - Pest Control -",
@@ -3168,7 +4698,12 @@
     "lat": 52.386638,
     "lng": -1.746488,
     "found_in_location": "Solihull",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Arden Services are specialists in dealing with Wasps Nests, Ant Control, Pest Proofing, Vermin Control, Pest Fumigation and Loft Fumigation.",
+    "services": [
+      "Ant Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "PestForce Derbyshire",
@@ -3202,7 +4737,18 @@
     "lat": 52.725718,
     "lng": -2.467257,
     "found_in_location": "Telford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pestcontroltelford.co.uk",
+    "emails": [
+      "info@pestcontroltelford.co.uk",
+      "info@telfordpestcontrol.co.uk"
+    ],
+    "description": "Pest Control Services, Telford. Professional, reliable & experienced. Family run. Est over 40 yrs. Rodents, wasps, moles, squirrels & rabbits.",
+    "services": [
+      "Cockroach Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Anti-Pest Pest Prevention - Wolverhampton",
@@ -3219,7 +4765,20 @@
     "lat": 52.58232,
     "lng": -2.050748,
     "found_in_location": "Willenhall",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@anti-pest.co.uk",
+    "emails": [
+      "info@anti-pest.co.uk"
+    ],
+    "description": "Looking for Pest Control in Wolverhampton? Call and ask for a free quote from Anti-Pest Pest Prevention, you will get the full works from our friendly team. We come out to your property in unmarked vans for your privacy and we will take a little time to have a good look around to work out what...",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Vista Environmental",
@@ -3236,7 +4795,15 @@
     "lat": 52.909328,
     "lng": -1.493854,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "We are a pest control company in Derby offering pest removal and pest control services in Long Eaton, Belper, Beeston, Derby and throughout Derbyshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Predator Wasp & Pest Control",
@@ -3270,7 +4837,17 @@
     "lat": 52.575555,
     "lng": -1.218605,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "office@azkpestservices.co.uk",
+    "emails": [
+      "office@azkpestservices.co.uk"
+    ],
+    "description": "AZK Pest Control: Your Trusted Partner in Pest Control At AZK Pest Control, we take pride in offering a comprehensive approach to pest control and treatment services throughout the East Midlands. Our skilled team of pest controllers are fully qualified and extensively experienced in managing a...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Derby Pest Control Service",
@@ -3287,7 +4864,17 @@
     "lat": 52.918616,
     "lng": -1.505334,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Derby's leading pest control company since 1995. Providing a professional pest control service to properties throughout Derby.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Delta Pest Control",
@@ -3304,7 +4891,20 @@
     "lat": 52.409257,
     "lng": -1.562363,
     "found_in_location": "Coventry",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@deltapest.co.uk",
+    "emails": [
+      "info@deltapest.co.uk",
+      "deltapestcontrolservice@gmail.com"
+    ],
+    "description": "Pest Control in Coventry. We deal with Wasps Nests, Solar Panel Proofing, Pest Birds/Pigeon Control, Rodent Control - Rats, Mice, Squirrels and much more!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Keye Pest Control",
@@ -3321,7 +4921,20 @@
     "lat": 52.517521,
     "lng": -1.736437,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@keyepestcontrol.co.uk",
+    "emails": [
+      "info@keyepestcontrol.co.uk",
+      "jason.keye@hotmail.co.uk"
+    ],
+    "description": "At Keye Pest Control Service we can deal with most types of commercial and domestic pest infestations throughout North Warwickshire, including: rats, mice, squirrels, moles, cockroaches, wasps, pigeons, bedbugs and most common insects.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "Bed Bug Heat Treatment London",
@@ -3340,8 +4953,15 @@
     "found_in_location": "London",
     "found_with_query": "pest control midlands",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Emergency Pest Control",
+      "Fumigation"
+    ],
+    "email": "hello@bedbug-heattreatment.co.uk",
+    "emails": [
+      "hello@bedbug-heattreatment.co.uk"
+    ],
+    "description": "Bed Bug Heat Treatment - London, UK. We are the bed bug treatment specialist covering London and surrounding areas. Contact us for a FREE QUOTATION for treatment."
   },
   {
     "name": "Hawk Pest Control",
@@ -3358,7 +4978,12 @@
     "lat": 52.241462,
     "lng": -0.868059,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "hawkpestcontrol@gmail.com",
+    "emails": [
+      "hawkpestcontrol@gmail.com"
+    ],
+    "description": "Providing local pest control services to swiftly and safely remove pest infestations found in your property, including wasp nests, insects, birds, rats & more"
   },
   {
     "name": "Environmental Pest Control",
@@ -3375,7 +5000,17 @@
     "lat": 52.55975,
     "lng": -1.875386,
     "found_in_location": "Sutton Coldfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@e-pestcontrol.co.uk",
+    "emails": [
+      "info@e-pestcontrol.co.uk"
+    ],
+    "description": "We are experienced in providing services to homes, schools, nurseries, care homes, restaurants & offices.Learn More",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "NBC Environment",
@@ -3392,7 +5027,15 @@
     "lat": 52.476782,
     "lng": -1.914007,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Nottingham Pest Control",
@@ -3409,7 +5052,18 @@
     "lat": 52.956223,
     "lng": -1.07807,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@nottinghampestcontrol.co.uk",
+    "emails": [
+      "enquiries@nottinghampestcontrol.co.uk"
+    ],
+    "description": "Welcome toNPCpest prevention solutions. Established in 1998NPCis a professional pest control company with UK coverage.NPCspecialise in all forms of pest management, including bird control, proofing to buildings and environmental services.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Telford Exterminators",
@@ -3443,7 +5097,25 @@
     "lat": 53.186922,
     "lng": -0.594527,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pestinatoruklimited.com",
+    "emails": [
+      "info@pestinatoruklimited.com"
+    ],
+    "description": "Pest Control Service - Pestinator LTD - Covering Boston | Lincoln | Skegness | Sleaford | Spalding & Lincolnshire area.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fox Control",
+      "Fumigation",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MLE Pest Control",
@@ -3460,7 +5132,12 @@
     "lat": 52.682793,
     "lng": -1.937569,
     "found_in_location": "Cannock",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "help@mlepestcontrol.com",
+    "emails": [
+      "help@mlepestcontrol.com"
+    ],
+    "description": "Reliable pest control and pest management solutions for homes and businesses today!"
   },
   {
     "name": "British Pest Control Association (BPCA)",
@@ -3477,7 +5154,18 @@
     "lat": 52.911359,
     "lng": -1.452454,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiry@bpca.org.uk",
+    "emails": [
+      "enquiry@bpca.org.uk",
+      "marketing@bpca.org.uk"
+    ],
+    "description": "The professional association for UK public health pest management representing, supporting & assuring 700+ member companies & the pest control industry.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Healthguard Ltd",
@@ -3494,7 +5182,12 @@
     "lat": 53.168932,
     "lng": -0.631143,
     "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@health-guard.co.uk",
+    "emails": [
+      "info@health-guard.co.uk"
+    ],
+    "description": "Healthguard Ltd - A premier Pest Control & Washroom Hygiene Services provider. With a focus on Pest Control Services, Washroom Hygiene and Commercial Hygiene solutions, we specialise in comprehensive Pest Management & Sanitary Maintenance. Our expert team offers rodent control, insect exterm"
   },
   {
     "name": "Ray Styles Pest Control",
@@ -3528,7 +5221,14 @@
     "lat": 52.909648,
     "lng": -0.910743,
     "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Welcome to RB Pest Control in Nottingham, specialists in all aspects of pest control and pest prevention services for customers in Nottinghamshire",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Town & Country Pest Control",
@@ -3545,7 +5245,14 @@
     "lat": 53.062986,
     "lng": -2.044808,
     "found_in_location": "Leek",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Town & Country Pest Control; Contact us - Pest Control based in Leek, Staffordshire; 24 Hour Emergency Pest Control.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Breadsall Services Pest Control",
@@ -3562,7 +5269,13 @@
     "lat": 52.957339,
     "lng": -1.451087,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Pest Control Services in Derby, Derbyshire, Nottinghamshire and surrounding areas. Do you have Pests? We can help with a friendly and efficient service",
+    "services": [
+      "Bed Bug Treatment",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Control Sutton Coldfield",
@@ -3579,7 +5292,20 @@
     "lat": 52.57341,
     "lng": -1.890306,
     "found_in_location": "Sutton Coldfield",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@advantagepestcontrol.co.uk",
+    "emails": [
+      "enquiries@advantagepestcontrol.co.uk"
+    ],
+    "description": "Advantage Environmental services are a company with over 30 years experience in the pest control industry. We provide a professional and reliable service to industrial, commercial and domestic customers throughout Smethwick and surrounding areas at a competitive price.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "SSE Mole Control",
@@ -3616,7 +5342,18 @@
     "lat": 52.426135,
     "lng": -1.700052,
     "found_in_location": "Solihull",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "pestakill4@gmail.com",
+    "emails": [
+      "pestakill4@gmail.com"
+    ],
+    "description": "At Pestakill, we know that a vermin or insect problem is a nightmare when you are trying to run a business.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Opkill Pest Control Ltd",
@@ -3633,7 +5370,17 @@
     "lat": 52.127626,
     "lng": -2.069059,
     "found_in_location": "Pershore",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@opkill.com",
+    "emails": [
+      "info@opkill.com"
+    ],
+    "description": "Opkill Pest Control, trusted experts in West Midlands, UK. Collective 50 years\u2019 experience, we provide safe, certified pest solutions for homes and businesses. Call us for effective pest control!",
+    "services": [
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Target Pest Control & Hygiene Ltd",
@@ -3650,7 +5397,15 @@
     "lat": 52.674818,
     "lng": -1.185438,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@targetpestcontrol.co.uk",
+    "emails": [
+      "info@targetpestcontrol.co.uk"
+    ],
+    "description": "Looking for a pest control expert? Contact Target Pest Control on 0116 234 0078 for rodent, bird and wasp nest removal services.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Aardwolf Pest Control",
@@ -3667,7 +5422,18 @@
     "lat": 53.038186,
     "lng": -2.246814,
     "found_in_location": "Newcastle",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@aardwolfpestcontrol.co.uk",
+    "emails": [
+      "info@aardwolfpestcontrol.co.uk"
+    ],
+    "description": "Aardwolf Pest Control & Wildlife Management Services - Stoke-on-Trent. Specialists in both Domestic & Commercial pest control solutions and Farm & Estate Wildlife Management. pest control stoke, exterminator stoke, pest control newcastle under lyme, wasp nest removal stoke, deer culling...",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hullternative Pest Control Services Ltd",
@@ -3684,7 +5450,15 @@
     "lat": 52.529679,
     "lng": -1.792476,
     "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "office@hullternativepestcontrol.co.uk",
+    "emails": [
+      "office@hullternativepestcontrol.co.uk"
+    ],
+    "description": "Hullternative Pest Control \u2013 based in Sutton Coldfield, serving Birmingham homes. Fast, safe treatment for rats, rodents, insects & more. 40+ years\u2019 experience.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DIY Pest Control Ltd",
@@ -3718,7 +5492,22 @@
     "lat": 52.647183,
     "lng": -1.149099,
     "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@pestprofessionals.co.uk",
+    "emails": [
+      "enquiries@pestprofessionals.co.uk"
+    ],
+    "description": "If you have any kind pest problem, Pest Professionals can help. FREE phone advice + local visits in Peterborough & nearby towns & villages",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Control Telford",
@@ -3752,7 +5541,20 @@
     "lat": 52.936202,
     "lng": -1.469737,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@css-pest.co.uk",
+    "emails": [
+      "enquiries@css-pest.co.uk"
+    ],
+    "description": "CSS Pest provide expert domestic and commercial pest control services and clean-up services to the home and business in Leicester",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Coventry Gallagher Argos",
@@ -3769,7 +5571,8 @@
     "lat": 52.43012,
     "lng": -1.490315,
     "found_in_location": "Coventry",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "Visit your local Argos Coventry Gallagher store at Unit B1, Gallagher Retail Park in Coventry, West Midlands."
   },
   {
     "name": "Pest Professionals - Kettering and Corby",
@@ -3786,7 +5589,22 @@
     "lat": 52.523015,
     "lng": -0.606987,
     "found_in_location": "Corby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@pestprofessionals.co.uk",
+    "emails": [
+      "enquiries@pestprofessionals.co.uk"
+    ],
+    "description": "If you have any kind pest problem, Pest Professionals can help. FREE phone advice + local visits in Peterborough & nearby towns & villages",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "West Midlands Wasp Control",
@@ -3806,7 +5624,8 @@
     "found_with_query": "pest control midlands",
     "services": [
       "Wasp Nest Removal"
-    ]
+    ],
+    "description": "Fixed price \u00a345.00 no hidden extras, West Midlands Area. We aim to reach you within an hour of your call, 24/7 service."
   },
   {
     "name": "Pest Professionals Northampton",
@@ -3823,7 +5642,22 @@
     "lat": 52.238002,
     "lng": -0.885408,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "enquiries@pestprofessionals.co.uk",
+    "emails": [
+      "enquiries@pestprofessionals.co.uk"
+    ],
+    "description": "If you have any kind pest problem, Pest Professionals can help. FREE phone advice + local visits in Peterborough & nearby towns & villages",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest & Hygiene Elite",
@@ -3840,7 +5674,12 @@
     "lat": -33.641159,
     "lng": 19.445333,
     "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@pestelite.co.za",
+    "emails": [
+      "info@pestelite.co.za"
+    ],
+    "description": "PEST ELITEspecializes in commercial, industrial and domestic pest control, using only the safest and most advanced products to target the relevant pest. We pride ourselves in understanding and satisfying our clients\u2019 individual needs by using high quality products and providing excellent service."
   },
   {
     "name": "Front Row Pest Control",
@@ -3857,7 +5696,18 @@
     "lat": 52.250712,
     "lng": -0.860013,
     "found_in_location": "Northampton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "info@frontrowservices.com",
+    "emails": [
+      "info@frontrowservices.com"
+    ],
+    "description": "Commercial pest control Northampton & UK - birds (pigeons & gulls), rats & mice, bed bugs, insects, mammals. Expert & discreet pest control.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Xpress Pest Control Services",
@@ -3874,7 +5724,16 @@
     "lat": 52.497274,
     "lng": -1.478961,
     "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Nuneaton Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Nuneaton, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hygiene Pest Control Ltd",
@@ -3908,7 +5767,17 @@
     "lat": 52.919019,
     "lng": -1.476851,
     "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Derby Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Derby, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Xpress",
@@ -3925,7 +5794,16 @@
     "lat": 53.220409,
     "lng": -0.53366,
     "found_in_location": "LocationLincoln",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Lincoln Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Lincoln, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Express Stafford Pest Control",
@@ -3942,7 +5820,17 @@
     "lat": 53.093953,
     "lng": -2.320185,
     "found_in_location": "Stafford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Stafford Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Stafford, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Staffordshire Pest Control",
@@ -3959,7 +5847,22 @@
     "lat": 52.806777,
     "lng": -2.121961,
     "found_in_location": "Stafford",
-    "found_with_query": "pest control midlands"
+    "found_with_query": "pest control midlands",
+    "email": "staffordshirepestcontrolltd@virginmedia.com",
+    "emails": [
+      "staffordshirepestcontrolltd@virginmedia.com",
+      "staffspestcontrol@gmail.com"
+    ],
+    "description": "07737 051 222staffordshirepestcontrolltd@virginmedia.com",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Ratverm Pest Contol - Rat, Rodent and Wasp specialists",

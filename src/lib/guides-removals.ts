@@ -158,6 +158,63 @@ function generate(r: GuideRegion): Guide[] {
       ],
       product: "removal-companies",
     },
+    {
+      slug: `removal-costs-${r.slug}`,
+      title: `Removal Costs ${r.mainCity}`,
+      metaTitle: `Removal Costs ${r.mainCity} | House Moving Prices & What to Expect (2026)`,
+      metaDescription: `How much do removals cost in ${r.mainCity}? Price breakdown by house size, what affects the cost, and how to get the best deal in ${r.theName}.`,
+      h1: `Removal Costs in ${r.mainCity} & ${r.theName}`,
+      intro: `The cost of hiring a removal company depends on the size of your home, the distance you are moving, and the services you need. This guide gives you a clear breakdown of typical removal costs in ${r.theName} so you can budget accurately and avoid surprises.`,
+      sections: [
+        {
+          heading: `How Much Do Removals Cost in ${r.theName}?`,
+          content: `Local house removals in ${r.theName} (within 30 miles) typically cost £300-£600 for a 1-2 bedroom property, £500-£900 for a 3 bedroom house, and £800-£1,500 for a 4-5 bedroom house. These prices are for a standard weekday move with 2-3 men and a van. Long-distance moves (100+ miles) cost more, typically £600-£1,200 for a small property and £1,000-£2,500 for a larger home. Man-and-van services for smaller moves or single items cost £40-£70 per hour with one person, or £60-£100 per hour with two. Most removal companies charge a half-day minimum (3-4 hours).`,
+        },
+        {
+          heading: "What Affects the Price?",
+          content: `The volume of belongings is the primary factor. More furniture and boxes means a larger van (or multiple trips) and more time. Distance matters because fuel costs and driver time increase with longer journeys. Access at both properties affects cost. Narrow streets, no parking, upper-floor flats without a lift, and long carries from the door to the van all add time and effort. The day of the week makes a difference. Friday and Monday moves are most popular and often more expensive. Mid-month moves are usually cheaper than end-of-month. Additional services like packing, disassembly and reassembly of furniture, and temporary storage all add to the total. Special items such as pianos, safes, hot tubs, or large appliances require specialist handling and extra charges.`,
+        },
+        {
+          heading: "How to Get the Best Price",
+          content: `Get at least three written quotes from removal companies in ${r.theName}. A good company will visit your home (or do a video survey) to give an accurate quote based on the actual volume. Be wary of quotes given over the phone without seeing your belongings, as these often increase on the day. Move midweek if possible. Tuesday, Wednesday and Thursday are typically 10-20% cheaper than Friday or Monday. Move mid-month rather than end-of-month. Declutter before the move. Less stuff means a smaller van, fewer hours, and a lower price. Pack as much as you can yourself. Most companies charge £200-£500 for a full packing service on a 3-bed house. If you pack your own boxes, you save this entirely.`,
+        },
+        {
+          heading: "What Is Included in the Price?",
+          content: `A standard removal quote in ${r.theName} typically includes loading your belongings at the old property, transport to the new property, and unloading. Most companies include basic furniture protection (blankets, straps) during transit. Goods-in-transit insurance is usually included, covering accidental damage during the move, though the level of cover varies. Items not usually included are packing materials and packing labour, disassembly and reassembly of furniture (beds, wardrobes), storage, cleaning, and parking suspension permits if needed. Always ask what is and is not included when comparing quotes. The cheapest quote may exclude things the others include.`,
+        },
+        {
+          heading: "Hidden Costs to Watch Out For",
+          content: `The most common unexpected charges are overtime fees (if the move takes longer than estimated), additional trip charges (if everything does not fit in one load), parking fines (if there is no suitable parking at either address), and stair charges (for upper-floor flats without a lift). If you need a parking suspension outside your property, the council charges £20-£50 and requires 5-10 working days notice. Some companies charge extra for moves that start very early or finish late. If you need temporary storage between moves, this costs £20-£40 per week for a standard container. Always confirm the total price in writing before the day and ask specifically about overtime rates.`,
+        },
+      ],
+      faq: [
+        {
+          question: "How much does it cost to move a 3-bed house?",
+          answer: `A local move (within 30 miles) for a 3-bed house in ${r.theName} typically costs £500-£900. A long-distance move (100+ miles) costs £800-£1,500. These prices are for a standard weekday move with a professional removal company including loading, transport and unloading.`,
+        },
+        {
+          question: "Is man-and-van cheaper than a removal company?",
+          answer: "For small moves (1-2 rooms, single items, student moves), man-and-van is usually cheaper at £40-£100 per hour. For a full house move, a removal company is often better value because they bring a larger van, more staff, proper equipment and insurance. A full house move by man-and-van can end up costing the same or more if it takes multiple trips.",
+        },
+        {
+          question: "Should I get a survey before booking?",
+          answer: "Yes. A reputable removal company will survey your home (in person or by video call) before giving a fixed quote. This ensures the price is accurate and there are no surprises on moving day. Avoid companies that quote a fixed price over the phone without seeing your belongings, as these quotes often increase.",
+        },
+        {
+          question: "Do removal companies charge more on Fridays?",
+          answer: "Yes. Friday and Monday are the busiest moving days, and many companies charge a premium of 10-20%. The end of the month is also more expensive. Moving midweek (Tuesday-Thursday) and mid-month typically gives you the best rates and more availability.",
+        },
+      ],
+      relatedLocations: r.locations,
+      keywords: [
+        `removal costs ${r.mainCity.toLowerCase()}`,
+        `house removal prices ${r.name.toLowerCase()}`,
+        `how much do removals cost ${r.mainCity.toLowerCase()}`,
+        `moving house cost ${r.name.toLowerCase()}`,
+        `removal company prices ${r.mainCity.toLowerCase()}`,
+      ],
+      product: "removal-companies",
+    },
   ];
 }
 

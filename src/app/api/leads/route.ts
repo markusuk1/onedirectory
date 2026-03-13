@@ -3,7 +3,8 @@ import { sendEmail } from "@/lib/email";
 import pool, { initDb } from "@/lib/db";
 import { getSiteId, getSiteConfig } from "@/lib/siteConfig";
 import { getPostHogClient } from "@/lib/posthog-server";
-import { createClaim } from "@/lib/claim";
+import { createClaim, sendClaimEmail } from "@/lib/claim";
+import { getAllBusinesses } from "@/lib/data";
 import { processAutoQuotes } from "@/lib/auto-quote";
 import { processOperatorOutreach } from "@/lib/operator-outreach";
 import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
@@ -88,6 +89,7 @@ export async function POST(request: NextRequest) {
         "limo-hire": "Limo Hire",
         "plant-hire": "Plant Hire",
         "driving-lessons": "Driving Lessons",
+        "pest-control": "Pest Control",
       };
       const productLabel = productLabels[body.product] || "Minibus Hire";
 
@@ -165,6 +167,14 @@ export async function POST(request: NextRequest) {
           <tr><td style="padding:4px 8px;font-weight:600">Experience</td><td style="padding:4px 8px">${d.experience || "—"}</td></tr>
           <tr><td style="padding:4px 8px;font-weight:600">Area</td><td style="padding:4px 8px">${d.area || "—"}</td></tr>
         `;
+      } else if (body.product === "pest-control" && body.details) {
+        const d = body.details;
+        detailRows = `
+          <tr><td style="padding:4px 8px;font-weight:600">Pest Type</td><td style="padding:4px 8px">${d.pestType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Urgency</td><td style="padding:4px 8px">${d.urgency || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Property Type</td><td style="padding:4px 8px">${d.propertyType || "—"}</td></tr>
+          <tr><td style="padding:4px 8px;font-weight:600">Location</td><td style="padding:4px 8px">${d.location || "—"}</td></tr>
+        `;
       } else {
         detailRows = `
           <tr><td style="padding:4px 8px;font-weight:600">Date</td><td style="padding:4px 8px">${body.date || "—"}</td></tr>
@@ -190,6 +200,19 @@ export async function POST(request: NextRequest) {
               <a href="${claimUrl}" style="display:inline-block;margin-top:8px;font-size:13px;color:#0369a1;word-break:break-all">${claimUrl}</a>
             </div>
           `;
+
+          // Send claim email directly to the business
+          const businesses = getAllBusinesses(body.product as ProductId);
+          const biz = businesses.find((b) => b.slug === body.businessSlug);
+          if (biz?.email) {
+            sendClaimEmail(
+              biz.email,
+              biz.name,
+              claimUrl,
+              site.name,
+              site.domain
+            ).catch((err) => console.error("Claim email to operator failed:", err));
+          }
         }
       }
 

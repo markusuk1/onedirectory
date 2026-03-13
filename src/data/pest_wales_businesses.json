@@ -14,7 +14,21 @@
     "lat": 51.579088,
     "lng": -2.98554,
     "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@citypest.wales",
+    "emails": [
+      "info@citypest.wales",
+      "ajp1175@yahoo.com"
+    ],
+    "description": "Reliable pest control services in Cardiff. Experts in rodents, insects, and wildlife. Fast response, eco-friendly solutions, and competitive prices.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Defender Pest Control",
@@ -31,7 +45,15 @@
     "lat": 53.384406,
     "lng": -3.102329,
     "found_in_location": "Wirral",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pest control services on the Wirral & North West for homes & businesses. Contact for a free estimate: info@defenderpest.co.uk or 07471745434.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Verminator Pest Control",
@@ -48,7 +70,13 @@
     "lat": 51.78913,
     "lng": -4.230245,
     "found_in_location": "Carmarthen",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pest Control South and West Wales. Cardiff, Birdgend, Swansea, Carmarthen, Llanelli, St Clears, Llandysul. Rats, Mice, Fleas, Bedbugs, Moths, Moles, Squirrels, Wasps, Hornets, Mites, Ants, Beetles, Flies.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JM Pest Solutions",
@@ -65,7 +93,17 @@
     "lat": 51.650619,
     "lng": -3.22524,
     "found_in_location": "Hengoed",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "jamie@jmpestsolutions.net",
+    "emails": [
+      "jamie@jmpestsolutions.net"
+    ],
+    "description": "JM Pest Solutions offers expert pest control in Cardiff, Caerphilly, Newport, & Gwent. 24/7 removal & prevention of rodents, insects, wasps, & wildlife.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PEST SHIELD - Pest Control",
@@ -82,7 +120,23 @@
     "lat": 54.949205,
     "lng": -1.451469,
     "found_in_location": "Boldon Colliery",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@pest-shield.co.uk",
+    "emails": [
+      "info@pest-shield.co.uk"
+    ],
+    "description": "Professional pest control for homes and businesses across the North East. Inspection-led services with clear reporting and practical prevention advice.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Hampton Pest Management Ltd",
@@ -99,7 +153,18 @@
     "lat": 51.701116,
     "lng": -3.310955,
     "found_in_location": "Treharris",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@hamptonpest.uk",
+    "emails": [
+      "info@hamptonpest.uk"
+    ],
+    "description": "Hampton Pest Management Ltd offer a wide range of professional pest control services throughout Merthyr Tydfil and the surrounding areas.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Flashback Pest Control",
@@ -116,7 +181,14 @@
     "lat": 52.768007,
     "lng": -2.384876,
     "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Flashback Pest Control specialises in pest control for Mice, Rats, Wasps, Birds, Flies, Fleas, Ants, Bed Bugs and more across Telford & Shropshire.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pure Pest Solutions ltd Anglesey, Gwynedd, Conwy",
@@ -133,7 +205,18 @@
     "lat": 53.380485,
     "lng": -4.291189,
     "found_in_location": "Dulas",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "purepestsolutions@mail.com",
+    "emails": [
+      "purepestsolutions@mail.com"
+    ],
+    "description": "Pure Pest Soultions is a Pest Control company in Anglesey specialising in Wasp Nest Removal, Wasp Extermination, Mice Removal, Rat Removal",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "ABC 24/7 Pest Control Ltd",
@@ -150,7 +233,19 @@
     "lat": 51.658501,
     "lng": -3.883936,
     "found_in_location": "Swansea",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "abc247pestcontrol@talktalk.net",
+    "emails": [
+      "abc247pestcontrol@talktalk.net"
+    ],
+    "description": "ABC 24/7 Pest Control -Family Run - Fast & Affordable - Free Quote's - Rats Wasps Mice Flea's Etc - Servicing Swansea Neath Llanelli & Carmarthen All Areas",
+    "services": [
+      "Cockroach Control",
+      "Emergency Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "AA Mole Control and pest control services Aberystwyth.",
@@ -187,7 +282,12 @@
     "lat": 53.316408,
     "lng": -3.501246,
     "found_in_location": "Rhyl",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "THS Pest Control offers reliable, discreet and affordable pest management in Leeds and the surrounding areas. Our fixed price services include rodent control, wasp removal, ant treatment, flea eradication and insect control. We tailor solutions to each client\u2019s needs, ensuring professional, cost-eff",
+    "services": [
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Platoon Pest Control",
@@ -204,7 +304,17 @@
     "lat": 51.755113,
     "lng": -3.198884,
     "found_in_location": "Ebbw Vale",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Expert pest control for fast removal of rats, mice, wasps & more. Same-day service available. Call now for local pest control",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Alpha Pest Control",
@@ -221,7 +331,17 @@
     "lat": 51.705234,
     "lng": -4.142507,
     "found_in_location": "Llanelli",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "nickatkinson74@gmail.com",
+    "emails": [
+      "nickatkinson74@gmail.com"
+    ],
+    "description": "Cheap domestic & commercial pest control Llanelli, South Wales",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MJ Pest Management",
@@ -238,7 +358,21 @@
     "lat": 53.312497,
     "lng": -3.472838,
     "found_in_location": "Rhyl",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@mjpestmanagement.com",
+    "emails": [
+      "info@mjpestmanagement.com",
+      "marlon@hypergroup.com"
+    ],
+    "description": "MJ Pest Management provides expert pest control in North Wales. Fast, friendly, and available 24/7 to keep homes and businesses pest-free.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Local Pest Controller",
@@ -255,7 +389,17 @@
     "lat": 53.165501,
     "lng": -2.984112,
     "found_in_location": "Chester",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@local-pestcontroller.co.uk",
+    "emails": [
+      "info@local-pestcontroller.co.uk"
+    ],
+    "description": "Professional pest control in Chester & North Wales. Fast emergency call-outs, expert technicians & preventative solutions for homes & businesses.",
+    "services": [
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Eliminator Pest Control",
@@ -272,7 +416,14 @@
     "lat": 51.635683,
     "lng": -3.961647,
     "found_in_location": "Swansea",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Eliminator Pest Control Pest Control Service for Swansea For Homes and Businesses",
+    "services": [
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "Titan Pest Control Cardiff",
@@ -289,7 +440,12 @@
     "lat": 51.516606,
     "lng": -3.238474,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "contact@titanpestcontrol.co.uk",
+    "emails": [
+      "contact@titanpestcontrol.co.uk"
+    ],
+    "description": "We are a professional, complete pest control service provider based in Cardiff, covering Cardiff / Newport, Penarth, Barry, Caerphilly & all surrounding areas. Specialising in the removal / treatment of wasps, rats, mice, fleas, bed-bugs and many more nuisance species including invasive weeds"
   },
   {
     "name": "J H Pest Patrol",
@@ -306,7 +462,17 @@
     "lat": 52.988944,
     "lng": -3.961578,
     "found_in_location": "Blaenau Ffestiniog",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "pestpatrol@hotmail.com",
+    "emails": [
+      "pestpatrol@hotmail.com"
+    ],
+    "description": "Got a problem with pests in your home or business? For discreet, reliable pest control services in Blaenau Ffestiniog and North Wales, call JH Pest Patrol",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Distinction Gardens",
@@ -323,7 +489,15 @@
     "lat": 51.586072,
     "lng": -2.973039,
     "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@distinctiongardens.com",
+    "emails": [
+      "info@distinctiongardens.com"
+    ],
+    "description": "Distinction Gardens should always be your first choice when you need expert garden services and maintenance. Based in Newport, Gwent, we are highly skilled with both domestic and commercial garden services.",
+    "services": [
+      "Mole Control"
+    ]
   },
   {
     "name": "Pembrey Pest Control",
@@ -340,7 +514,20 @@
     "lat": 51.688629,
     "lng": -4.260106,
     "found_in_location": "Burry Port",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@pembreypestcontrol.co.uk",
+    "emails": [
+      "info@pembreypestcontrol.co.uk"
+    ],
+    "description": "Pembrey Pest Control - Llanelli Pest Control - Carmarthen Pest Control. Commercial and Domestic Pest Control Carmarthenshire. Mice, rats, bees, wasps, ants.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "MDC Environmental",
@@ -357,7 +544,18 @@
     "lat": 51.607532,
     "lng": -3.664398,
     "found_in_location": "Maesteg",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "matt@mdcenvironmental.co.uk",
+    "emails": [
+      "matt@mdcenvironmental.co.uk"
+    ],
+    "description": "Pest Control Service Rodent Control Insect Eradication Based in Maesteg, South Wales",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pro-Site Maintenance (Wrexham)",
@@ -374,7 +572,17 @@
     "lat": 53.047315,
     "lng": -2.991709,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@prositemaintenance.co.uk",
+    "emails": [
+      "info@prositemaintenance.co.uk"
+    ],
+    "description": "Pro-site Pest Control & Maintenance provides expert pest control and property maintenance services in Wrexham, Chester, and North Wales. Call now!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "General Pest Control",
@@ -391,7 +599,17 @@
     "lat": 51.572038,
     "lng": -2.955641,
     "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@generalpestcontrol.org",
+    "emails": [
+      "info@generalpestcontrol.org",
+      "bryan.silcox@gmail.com"
+    ],
+    "description": "Protect your crops from birds with bird control measures for farmlands in Newport. Call General Pest Control on 01633 275 996 for a free estimate",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Complete Pest Control Services Wrexham",
@@ -408,7 +626,19 @@
     "lat": 53.040616,
     "lng": -2.91382,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "We provide pest control services in Shropshire, Wrexham, Chester, Tarporley, Crewe, Nantwich, Telford & surrounding areas. Contact us for a free quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Davison Pest Control",
@@ -425,7 +655,16 @@
     "lat": 53.290122,
     "lng": -3.84186,
     "found_in_location": "Conwy",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "terry@davisonpestcontrol.co.uk",
+    "emails": [
+      "terry@davisonpestcontrol.co.uk"
+    ],
+    "description": "Pest Control Services in North Wales, based in Conwy. Serving North Wales and North West England; Chester, Liverpool, Manchester",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Complete Pest Control Services Malpas",
@@ -442,7 +681,19 @@
     "lat": 53.04051,
     "lng": -2.749692,
     "found_in_location": "Malpas",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "We provide pest control services in Shropshire, Wrexham, Chester, Tarporley, Crewe, Nantwich, Telford & surrounding areas. Contact us for a free quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Homepro Pest Control",
@@ -459,7 +710,19 @@
     "lat": 51.664716,
     "lng": -4.162206,
     "found_in_location": "Llanelli",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@homepropestcontrol.co.uk",
+    "emails": [
+      "info@homepropestcontrol.co.uk"
+    ],
+    "description": "We provide fast, reliable, and effective pest control solutions tailored to protect your home or business. Contact us for more details.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Clearol Pest Control",
@@ -476,7 +739,18 @@
     "lat": 53.093083,
     "lng": -2.993921,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "clearolpestuk@aol.com",
+    "emails": [
+      "clearolpestuk@aol.com"
+    ],
+    "description": "Pest Control, Wrexham - Clearol Pest Control. 10+ 5.0 Rated. 24-Hours a Day, 7-Days a Week. Fully Insured. Domestic and Commercial Pest Control. Call Us Now.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Inbound Pest Control Ltd",
@@ -493,7 +767,8 @@
     "lat": 53.17493,
     "lng": -2.920922,
     "found_in_location": "Chester",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Inbound Pest Control Ltd provides Cheshire and the North West with a range of Pest Control services from treatment programs to prevention and preemptive measures for both domestic and commercial customers. Dealing with Rats, Mice, Wasps, Insects and many more, we at Inbound have you covered."
   },
   {
     "name": "ARI Pest Control & Wildlife Management Services",
@@ -510,7 +785,18 @@
     "lat": 51.852261,
     "lng": -4.296534,
     "found_in_location": "Carmarthen",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@aripestcontrol.co.uk",
+    "emails": [
+      "info@aripestcontrol.co.uk"
+    ],
+    "description": "Fully licensed, professional and experienced Pest control and Wildlife Maintenance Services. With 33 years experience in the industry, along with handyman e ...",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fox Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Peninsula Pest Control",
@@ -527,7 +813,14 @@
     "lat": 53.278035,
     "lng": -3.057721,
     "found_in_location": "Cheshire",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Peninsula Pest Control professional and efficient pest control and removal of wasp nests, insects, birds and rodents for customers based on the Wirral. Call us today on 0151 321 9796 and let us know how we can help!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "3C Pest Solutions",
@@ -578,7 +871,11 @@
     "lat": 51.681035,
     "lng": -3.99304,
     "found_in_location": "Swansea",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Swansea Pest Control is an independently run and owned pest control company offering a polite, professional and discrete service from the initial enquiry to the final visit. SPC is a full BPCA member and it is accredited with Think Wildlife and Basis Prompt.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Soot Doctor",
@@ -629,7 +926,8 @@
     "lat": 51.497623,
     "lng": -3.139921,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Artemis is a local Cardiff company specialising in Pest Control, washroom services including sanitary bin collections and Janitorial supplies"
   },
   {
     "name": "Adm Pest Solutions",
@@ -663,7 +961,15 @@
     "lat": 54.642406,
     "lng": -5.670738,
     "found_in_location": "Bangor",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "With over 45 years of experience, Vergo delivers expert pest control solutions to commercial and residential sectors across the UK.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Arrow Pest Services",
@@ -680,7 +986,12 @@
     "lat": 51.430553,
     "lng": -3.210959,
     "found_in_location": "Dinas Powys",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Welcome to Arrow Pest Services, specialists in pest control in Cardiff. Contact us now to arrange a free quotation.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "DS Pest Management",
@@ -697,7 +1008,16 @@
     "lat": 52.807743,
     "lng": -3.074112,
     "found_in_location": "Oswestry",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "dspm.darrensmith@gmail.com",
+    "emails": [
+      "dspm.darrensmith@gmail.com"
+    ],
+    "description": "DS Pest Management aims to control pests without damaging the environment. Oswestry & Shropshire. Darren Smith on 07730 873923 for a 360 degree survey",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "CF Pest Solutions",
@@ -714,7 +1034,18 @@
     "lat": 51.50178,
     "lng": -3.129904,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "craig@cfpestsolutions.co.uk",
+    "emails": [
+      "craig@cfpestsolutions.co.uk"
+    ],
+    "description": "Pest Control Solutions, Free Consulation, Local and Independant, Fully Accredited and Insured, Competitive Prices, Get In Touch Today!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "P & P PEST CONTROL LTD",
@@ -731,7 +1062,14 @@
     "lat": 51.813339,
     "lng": -3.115556,
     "found_in_location": "Abergavenny",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@pandppestcontrol.co.uk",
+    "emails": [
+      "info@pandppestcontrol.co.uk"
+    ],
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "CPC Pest Control",
@@ -748,7 +1086,17 @@
     "lat": 52.63903,
     "lng": -3.717991,
     "found_in_location": "Machynlleth",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@cpc-pestcontrol.co.uk",
+    "emails": [
+      "info@cpc-pestcontrol.co.uk"
+    ],
+    "description": "Are you looking for local, reliable pest control in Machynlleth, to help you keep your property clear of vermin and other problems? Call us today.",
+    "services": [
+      "Bed Bug Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A & R Pest Control Services",
@@ -802,7 +1150,8 @@
     "found_with_query": "pest control wales",
     "services": [
       "Mole Control"
-    ]
+    ],
+    "description": "If you have a problem with any kind of pest mammal then I can deal with it."
   },
   {
     "name": "Ian's Pest Control",
@@ -836,7 +1185,23 @@
     "lat": 51.484365,
     "lng": -3.172522,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@pestsolutions.co.uk",
+    "emails": [
+      "info@pestsolutions.co.uk",
+      "glasgow@pestsolutions.co.uk",
+      "newcastle@pestsolutions.co.uk"
+    ],
+    "description": "Pest Solutions | The Pest Control Professionals | BPCA Accredited Pest and Bird Control | Pest Control Services in Glasgow, Edinburgh, Aberdeen, Dundee,",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Tech Environmental Services",
@@ -904,7 +1269,18 @@
     "lat": 38.530108,
     "lng": -89.982047,
     "found_in_location": "Swansea",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "62226info@pointepestcontrol.com",
+    "emails": [
+      "62226info@pointepestcontrol.com"
+    ],
+    "description": "Swansea Pest Control Experts. Local and highly recommended. Get rid of and prevent over 40 different pests. Pest-Free Guaranteed.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "Complete Pest Control Services",
@@ -921,7 +1297,19 @@
     "lat": 52.973681,
     "lng": -2.805222,
     "found_in_location": "Whitchurch",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "We provide pest control services in Shropshire, Wrexham, Chester, Tarporley, Crewe, Nantwich, Telford & surrounding areas. Contact us for a free quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pestforce UK",
@@ -955,7 +1343,21 @@
     "lat": 41.75096,
     "lng": -71.227766,
     "found_in_location": "Swansea",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "owner@all-propest.net",
+    "emails": [
+      "owner@all-propest.net"
+    ],
+    "description": "Protecting Swansea, MA homes from pests like ants, rodents, and termites. All-Pro Pest Control offers safe and effective solutions for a pest-free home.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Absolute Pest Solutions Wales",
@@ -972,7 +1374,18 @@
     "lat": 51.771387,
     "lng": -3.076869,
     "found_in_location": "Pontypool",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "absolutepestsolutions1@gmail.com",
+    "emails": [
+      "absolutepestsolutions1@gmail.com"
+    ],
+    "description": "Pest controllers Cwmbran Newport Abergavenny Pontypool Torfaen",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "C & D Pest Control",
@@ -989,7 +1402,16 @@
     "lat": 51.640061,
     "lng": -2.655875,
     "found_in_location": "Chepstow",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "At C & D Pest Control we are able to tackle all aspects of Pest Control from cockroach to ant to pest control cleaning services.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "B FIRM Pest control ltd",
@@ -1006,7 +1428,18 @@
     "lat": 51.779287,
     "lng": -4.001702,
     "found_in_location": "Ammanford",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@bfirmpestcontrol.co.uk",
+    "emails": [
+      "info@bfirmpestcontrol.co.uk"
+    ],
+    "description": "With nearly a decade of industry experience, B Firm Pest Control in Ammanford will tackle all your pesky pest problems quickly & affordably!",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "ELITE Paper Solutions",
@@ -1023,7 +1456,12 @@
     "lat": 51.720973,
     "lng": -3.357717,
     "found_in_location": "Pentrebach",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "enquiries@elitepapersolutions.co.uk",
+    "emails": [
+      "enquiries@elitepapersolutions.co.uk"
+    ],
+    "description": "Secure Shredding, Document Scanning & Archive Storage. ELITE are a not for profit company that provides a bespoke & professional service throughout Wales."
   },
   {
     "name": "Clearall Pest Control Anglesey",
@@ -1040,7 +1478,21 @@
     "lat": 53.350637,
     "lng": -4.238743,
     "found_in_location": "Sychnant",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "hello@fabulouscleaning.co.uk",
+    "emails": [
+      "hello@fabulouscleaning.co.uk",
+      "clearall@me.com"
+    ],
+    "description": "The company to call for your pest control and prevention services on Anglesey and surrounds. ClearAll Pest Control",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "EVERGREEN ENVIRONMENTAL PEST CONTROL",
@@ -1057,7 +1509,8 @@
     "lat": 53.209869,
     "lng": -3.133386,
     "found_in_location": "Mold",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "We are a family business established in the 1980s. Our aim is to protect people and property in a manner that respects wildlife while minimising damage to the environment. We do not employ technicians, the success of our service relies on trusted personal relationships."
   },
   {
     "name": "Aber Pest Control",
@@ -1074,7 +1527,12 @@
     "lat": 51.733591,
     "lng": -3.128917,
     "found_in_location": "Abertillery",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@aberpestcontrol.co.uk",
+    "emails": [
+      "info@aberpestcontrol.co.uk"
+    ],
+    "description": "Offering all kinds of Pest Control Services throughoutBlaenau Gwent & the surrounding areas."
   },
   {
     "name": "Action Pest Control",
@@ -1091,7 +1549,17 @@
     "lat": 53.121332,
     "lng": -3.081269,
     "found_in_location": "Mold",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@actionpestcontrol.co.uk",
+    "emails": [
+      "info@actionpestcontrol.co.uk"
+    ],
+    "description": "Prevention and control of all pests, Discretion and professional, Single emergency treatment or a full service contract, Same day service on 95% call outs!",
+    "services": [
+      "Bed Bug Treatment",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Conwy Pest Solutions",
@@ -1142,7 +1610,16 @@
     "lat": 51.515983,
     "lng": -3.184403,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "mr.wasp@btconnect.com",
+    "emails": [
+      "mr.wasp@btconnect.com",
+      "mymail@mailservice.com"
+    ],
+    "description": "Mr Wasp provides expert pest control services in Cardiff and the surrounding areas, dealing with bee, hornet or wasp infestations 24/7 so contact us today.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wrexham Weed Control & Roof cleaning",
@@ -1159,7 +1636,12 @@
     "lat": 53.051116,
     "lng": -2.982703,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@wrexhamweedcontrol.co.uk",
+    "emails": [
+      "info@wrexhamweedcontrol.co.uk"
+    ],
+    "description": "Wrexham Weed Control perform Roof Cleaning, Moss Removal, pressure washing, jet spraying, pressure cleaning, drive way cleaning, patio cleaning and Japanese Knotweed Treatment, Garden Maintenance, Grounds Maintenance, Grass Cutting, Hedge Cutting, Tree Pruning, Landscaping in Wrexham and..."
   },
   {
     "name": "Servos Bird Control",
@@ -1179,7 +1661,8 @@
     "found_with_query": "pest control wales",
     "services": [
       "Bird & Pigeon Control"
-    ]
+    ],
+    "description": "Servos are a leading Exterior Building Cleaning company and can clean, restore, & protect almost any external surface."
   },
   {
     "name": "Pro Control Pest Control Services",
@@ -1196,7 +1679,18 @@
     "lat": 53.008082,
     "lng": -3.049756,
     "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "steve@procontrolpestservices.com",
+    "emails": [
+      "steve@procontrolpestservices.com"
+    ],
+    "description": "Local pest control for Wrexham, Chester and surrounding areas. All pests treated, Low Prices guaranteed. Same day attendance Wasp nest removal, rats, mice",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "P. Morris Pest & Vermin Control",
@@ -1213,7 +1707,16 @@
     "lat": 53.093062,
     "lng": -3.28474,
     "found_in_location": "Ruthin",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "wildlifeservices@btinternet.com",
+    "emails": [
+      "wildlifeservices@btinternet.com"
+    ],
+    "description": "Pests are any species that are not where they should be. Be that rats under your floors, a wasp nest in your shed, a squirrel in your loft, mice in your kitchen or a mole in your silage clamp. They bring disease and cause distress and damage. We understand how much stress an infestation can...",
+    "services": [
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Carmarthen Pest Control (CPC) Services",
@@ -1247,7 +1750,12 @@
     "lat": 51.572526,
     "lng": -2.908563,
     "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@pelsis.com",
+    "emails": [
+      "info@pelsis.com"
+    ],
+    "description": "Pelsis develops leading brands for commercial and retail customers, delivering innovative pest control and garden care products."
   },
   {
     "name": "Orkin",
@@ -1264,7 +1772,16 @@
     "lat": 44.784484,
     "lng": -68.799611,
     "found_in_location": "Bangor",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Contact our Bangor Branch 926 to schedule your pest control inspection to exterminate bed bugs, ticks, fleas, rodents, spiders, termites & more.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Fumigation"
+    ]
   },
   {
     "name": "Battys",
@@ -1332,7 +1849,19 @@
     "lat": 51.623963,
     "lng": -3.452012,
     "found_in_location": "Tonypandy",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@aderyn.co.uk",
+    "emails": [
+      "info@aderyn.co.uk"
+    ],
+    "description": "Residential and commercial exterminators offering South Wales pest control. With 25 years expertise in pest control Cardiff, Bridgend, Newport & Porthcawl.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "JAYS PEST SOLUTION",
@@ -1349,7 +1878,20 @@
     "lat": 53.261368,
     "lng": -3.165489,
     "found_in_location": "Bagillt",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "jayspestsolution@aol.com",
+    "emails": [
+      "jayspestsolution@aol.com"
+    ],
+    "description": "Jays Pest Control offer domestic and industrial pest control solutions across Flintshire, Denbighshire and Chester. Please contact us for a custom quote.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Price Catcher",
@@ -1383,7 +1925,8 @@
     "lat": 53.318946,
     "lng": -3.820464,
     "found_in_location": "Llandudno",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "Pets at Home Aberystwyth",
@@ -1400,7 +1943,8 @@
     "lat": 52.412364,
     "lng": -4.080429,
     "found_in_location": "Aberystwyth",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "Jollyes - The Pet People Merthyr Tydfil",
@@ -1417,7 +1961,15 @@
     "lat": 51.727371,
     "lng": -3.362385,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "merthyrtydfil@jollyes.com",
+    "emails": [
+      "merthyrtydfil@jollyes.com"
+    ],
+    "description": "A complete store for all the pet essentials you may need, from food to toys, for dogs, cats, small pets and many more as well.",
+    "services": [
+      "Flea Treatment"
+    ]
   },
   {
     "name": "Pets at Home Merthyr Tydfill",
@@ -1434,7 +1986,8 @@
     "lat": 51.752083,
     "lng": -3.396504,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "B&M Home Store",
@@ -1451,7 +2004,8 @@
     "lat": 51.76794,
     "lng": -3.341345,
     "found_in_location": "Retail Park",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Cash, credit card, debit card, please use contactless card payments where possible"
   },
   {
     "name": "PreventaPest Ltd, Pest Control, Confidential Shredding and PAT Testing",
@@ -1468,7 +2022,12 @@
     "lat": 51.781336,
     "lng": -4.04545,
     "found_in_location": "Capel Hendre, Ammanford",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "PreventaPest pest control offer efficient, discreet, routine and emergency pest control services for residential and commercial properties located in South and Mid Wales and surrounding counties.",
+    "services": [
+      "Bed Bug Treatment",
+      "Emergency Pest Control"
+    ]
   },
   {
     "name": "City Pest Control",
@@ -1502,7 +2061,8 @@
     "lat": 51.67508,
     "lng": -4.137649,
     "found_in_location": "Llanelli",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pets at Home Friern Barnet, your local one stop shop pet care centre. From high quality pet supplies to expert grooming for your pet. Visit us in store today."
   },
   {
     "name": "TradePoint Merthyr Tydfil",
@@ -1519,7 +2079,8 @@
     "lat": 51.751087,
     "lng": -3.396382,
     "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Visit our TradePoint Merthyr Tydfil store for all your home and garden supplies and for advice on all the latest DIY trends!"
   },
   {
     "name": "Falconry Services",
@@ -1536,7 +2097,19 @@
     "lat": 51.549753,
     "lng": -3.648148,
     "found_in_location": "Bridgend",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "enquiries@falconryservices.co.uk",
+    "emails": [
+      "enquiries@falconryservices.co.uk",
+      "daniel@falconryservices.co.uk"
+    ],
+    "description": "The UK's most experienced and well established falconry pest control experts. Offering nationwide services for bird control and falconry.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Abergele Pest Services",
@@ -1570,7 +2143,17 @@
     "lat": 51.419522,
     "lng": -3.363683,
     "found_in_location": "Barry",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "info@greener-ways.co.uk",
+    "emails": [
+      "info@greener-ways.co.uk"
+    ],
+    "description": "Pest prevention and wildlife management services, with years of experience can offer a professional service including: Bird Control, Fly killer and fly screens, Wildlife Management",
+    "services": [
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "M and k pest control",
@@ -1587,7 +2170,18 @@
     "lat": 51.990228,
     "lng": -3.484992,
     "found_in_location": "Brecon",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "kitty.bloyce@gmail.com",
+    "emails": [
+      "kitty.bloyce@gmail.com",
+      "kitty.boyce@gmail.com"
+    ],
+    "description": "Welcome to M&K Environmental. Pest control solutions for both domestic and commercial dwellings in Mid and South Wales and the Marches.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pest Control Services Llanelli",
@@ -1604,7 +2198,16 @@
     "lat": 51.680391,
     "lng": -4.159687,
     "found_in_location": "Llanelli",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "For Local Pest Control Near Me in Llanelli Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Llanelli, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Anti Pest South Wales",
@@ -1709,7 +2312,12 @@
     "found_with_query": "pest control wales",
     "services": [
       "Wasp Nest Removal"
-    ]
+    ],
+    "email": "contact@titanpestcontrol.co.uk",
+    "emails": [
+      "contact@titanpestcontrol.co.uk"
+    ],
+    "description": "We are a professional, complete pest control service provider based in Cardiff, covering Cardiff / Newport, Penarth, Barry, Caerphilly & all surrounding areas. Specialising in the removal / treatment of wasps, rats, mice, fleas, bed-bugs and many more nuisance species including invasive weeds"
   },
   {
     "name": "Artemis Pest Control",
@@ -1726,7 +2334,13 @@
     "lat": 51.505274,
     "lng": -3.15024,
     "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pest control company offering services to Cardiff and South Wales, We deal with all types of pest issues from mice infestations to fleas, bedbugs etc",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Welsh Pest Control Services",
@@ -1760,7 +2374,13 @@
     "lat": 51.855921,
     "lng": -4.30474,
     "found_in_location": "Carmarthen",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "description": "Pest Control South and West Wales. Cardiff, Birdgend, Swansea, Carmarthen, Llanelli, St Clears, Llandysul. Rats, Mice, Fleas, Bedbugs, Moths, Moles, Squirrels, Wasps, Hornets, Mites, Ants, Beetles, Flies.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Contact South Wales & Cardiff Pest Control",
@@ -1777,6 +2397,16 @@
     "lat": 51.713348,
     "lng": -3.267828,
     "found_in_location": "Bargoed",
-    "found_with_query": "pest control wales"
+    "found_with_query": "pest control wales",
+    "email": "hello@southwalesandcardiffpestcontrol.co.uk",
+    "emails": [
+      "hello@southwalesandcardiffpestcontrol.co.uk"
+    ],
+    "description": "Call South Wales & Cardiff Pest Control on 07790 699 725 for local pest control services in homes, farms and businesses. All pests treated. Fully insured & Qualified.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
   }
 ]

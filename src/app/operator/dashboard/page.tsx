@@ -3,6 +3,7 @@ import { redirect } from "next/navigation";
 import pool from "@/lib/db";
 import { initOperatorTables } from "@/lib/db-schema";
 import { getQuotaStatus, type QuotaStatus } from "@/lib/quota";
+import { getPurchasedLeadCount } from "@/lib/lead-report";
 import Link from "next/link";
 
 export default async function OperatorDashboard() {
@@ -40,6 +41,11 @@ export default async function OperatorDashboard() {
     );
   }
 
+  // Fetch purchased lead count (operator-level, not per-business)
+  const leadCount = session.user.email
+    ? await getPurchasedLeadCount(session.user.email).catch(() => 0)
+    : 0;
+
   return (
     <div>
       <div className="bg-gradient-to-br from-primary-dark via-primary to-primary-light rounded-2xl p-8 mb-8 shadow-lg">
@@ -50,6 +56,31 @@ export default async function OperatorDashboard() {
           Manage your business profiles, configure auto-quotes, and track performance
         </p>
       </div>
+
+      {/* My Purchased Leads — operator-level */}
+      {leadCount > 0 && (
+        <Link
+          href="/operator/leads"
+          className="flex items-center justify-between bg-white border border-border rounded-2xl p-5 mb-6 hover:shadow-lg hover:border-primary/20 transition-all duration-200"
+        >
+          <div className="flex items-center gap-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-accent to-accent-dark rounded-xl flex items-center justify-center shrink-0">
+              <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+            </div>
+            <div>
+              <h3 className="font-bold text-text text-lg">My Purchased Leads</h3>
+              <p className="text-sm text-text-light">
+                {leadCount} lead{leadCount !== 1 ? "s" : ""} purchased
+              </p>
+            </div>
+          </div>
+          <svg className="w-5 h-5 text-text-light" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          </svg>
+        </Link>
+      )}
 
       {pendingClaims.length > 0 && (
         <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6">

@@ -14,7 +14,17 @@
     "lat": 54.950901,
     "lng": -1.671628,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Pest control service with over 15 years experience in pest control, all staff trained to BPCA standard. Contact Pest Arrest pest control Newcastle today.",
+    "services": [
+      "Ant Control",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PEST SHIELD - Pest Control",
@@ -31,7 +41,23 @@
     "lat": 54.949205,
     "lng": -1.451469,
     "found_in_location": "Boldon Colliery",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@pest-shield.co.uk",
+    "emails": [
+      "info@pest-shield.co.uk"
+    ],
+    "description": "Professional pest control for homes and businesses across the North East. Inspection-led services with clear reporting and practical prevention advice.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Exopest Ltd",
@@ -48,7 +74,19 @@
     "lat": 54.607696,
     "lng": -1.102916,
     "found_in_location": "Redcar",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "jamie@exopest.co.uk",
+    "emails": [
+      "jamie@exopest.co.uk"
+    ],
+    "description": "Exopest Ltd are based in Redcar and provide a fast response and professional pest control service for the Redcar, Middlesbrough, Whitby area.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "GreenMaster Services - Lawn Treatment, Gutter Maintenance, Window Cleaning",
@@ -65,7 +103,11 @@
     "lat": 54.900026,
     "lng": -1.55569,
     "found_in_location": "Washington",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "We are the North East's premier home and garden maintenance business. Looking after your Lawn, Windows, Driveway, Roof, Gutters and more.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Every Season Pest Control",
@@ -82,7 +124,17 @@
     "lat": 54.905129,
     "lng": -1.517781,
     "found_in_location": "Washington",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "epestcontrol@yahoo.com",
+    "emails": [
+      "epestcontrol@yahoo.com",
+      "espestcontrol@yahoo.com"
+    ],
+    "description": "Our local, professional company has over 16 years' experience in controlling wildlife and general pests. Get in touch today to see how we can help.",
+    "services": [
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Nviro Pest Control Stockton on Tees",
@@ -99,7 +151,16 @@
     "lat": 54.676672,
     "lng": -1.440994,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "ralph.w@hotmail.co.uk",
+    "emails": [
+      "ralph.w@hotmail.co.uk"
+    ],
+    "description": "NVIRO Pest Control Services - Pest Control Stockton. Local Pest Control Company & Services. Trained Exterminator in Stockton. Find Out More.",
+    "services": [
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Baxter's Exterior Cleaning Ltd (Hexham)",
@@ -116,7 +177,15 @@
     "lat": 54.985223,
     "lng": -2.07193,
     "found_in_location": "Hexham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@baxtersexteriorcleaning.co.uk",
+    "emails": [
+      "info@baxtersexteriorcleaning.co.uk"
+    ],
+    "description": "Baxter\u2019s specialise in window cleaning and restoring all types of surfaces across the whole of Northumberland along with industrial equipment & expert industry knowledge.",
+    "services": [
+      "Fumigation"
+    ]
   },
   {
     "name": "AJN Pest Solutions",
@@ -133,7 +202,16 @@
     "lat": 54.845055,
     "lng": -1.342175,
     "found_in_location": "Seaham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "ajnpestsolutions@gmail.com",
+    "emails": [
+      "ajnpestsolutions@gmail.com"
+    ],
+    "description": "Here at AJN Pest Solutions we specialise in Honey Bee Removal across the UK. We also undertake all domestic and commercial forms of pest control \u2013 get in touch with us today to find out how we can help you!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "DH8PestControl",
@@ -150,7 +228,16 @@
     "lat": 54.840306,
     "lng": -1.866233,
     "found_in_location": "Consett",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "dh8pestcontrol@gmail.com",
+    "emails": [
+      "dh8pestcontrol@gmail.com"
+    ],
+    "description": "Our high class pest control in County Durham and throughout the UK is sure to meet your needs when it comes to ridding your home of any pests. With years of experience, trained and certified pest exterminators pest control durham, mole removal durham, pest controllers durham, pest control in...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "CLM Solar Pest Exclusion",
@@ -184,7 +271,22 @@
     "lat": 54.606171,
     "lng": -1.303723,
     "found_in_location": "Billingham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "cspestbusters@yahoo.com",
+    "emails": [
+      "cspestbusters@yahoo.com"
+    ],
+    "description": "Your Trusted Pest Control Experts | Discover the most effective pest control solutions at CS Pest Busters.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Moth Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "PERPESTUAL PEST CONTROL",
@@ -220,8 +322,14 @@
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "pest control northeast",
     "services": [
-      "Rat & Mouse Control"
-    ]
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "darrin@northernratcontrol.co.uk",
+    "emails": [
+      "darrin@northernratcontrol.co.uk"
+    ],
+    "description": "Vermin and rat control North East, Northern England, Cumbria, Yorkshire and the Scottish borders"
   },
   {
     "name": "WASP BUZZTERS & MOLE CONTROL",
@@ -240,8 +348,14 @@
     "found_in_location": "Corbridge",
     "found_with_query": "pest control northeast",
     "services": [
-      "Mole Control"
-    ]
+      "Mole Control",
+      "Wasp Nest Removal"
+    ],
+    "email": "info@waspbuzzters.co.uk",
+    "emails": [
+      "info@waspbuzzters.co.uk"
+    ],
+    "description": "Wasp Buzzters is a Corbridge-based specialist providing professional wasp nest elimination and mole control services across Corbridge (NE45) and surrounding Northumberland areas."
   },
   {
     "name": "Northumberland Pest Control",
@@ -258,7 +372,18 @@
     "lat": 55.242362,
     "lng": -1.767228,
     "found_in_location": "Morpeth",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@northumberlandpestcontrol.co.uk",
+    "emails": [
+      "info@northumberlandpestcontrol.co.uk",
+      "info@nothutmberlandpestcontrol.co.uk"
+    ],
+    "description": "Pest Probelm? Call Northumberland Pest Control today for expert advice and soloutions. Residential Properties, Agricultural & Estate, Commerical & Business.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Mole Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Tees Pest Quest ltd",
@@ -275,7 +400,20 @@
     "lat": 54.531199,
     "lng": -1.171709,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@pestquest.co.uk",
+    "emails": [
+      "info@pestquest.co.uk"
+    ],
+    "description": "Middlesbrough pest control service including rodent control, insect treatment in and around Middlesbrough, Redcar, Stockton, Billingham, Hartlepool and more.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Knights MT Pest Control",
@@ -309,7 +447,12 @@
     "lat": 54.554521,
     "lng": -1.35433,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "lawncarerepair@yahoo.com",
+    "emails": [
+      "lawncarerepair@yahoo.com"
+    ],
+    "description": "Based in Stockton-On-Tees, Lawn Care & Repair are lawn care experts who will bring your tired lawn back to life. View our services available."
   },
   {
     "name": "Hadrian Pest Control Services",
@@ -326,7 +469,13 @@
     "lat": 54.97315,
     "lng": -2.252919,
     "found_in_location": "Hexham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Professional expertise for your pest control needs!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "AJVerminatorpestcontrol",
@@ -343,7 +492,23 @@
     "lat": 54.875647,
     "lng": -1.497552,
     "found_in_location": "Houghton le Spring",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "ajverminator@gmail.com",
+    "emails": [
+      "ajverminator@gmail.com"
+    ],
+    "description": "Pest Control in the North East. Pest Control Experts, and Pest Removal Throughout Tyne and Wear. Call Us Now For A Fast Response.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fox Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Tyneside pest control",
@@ -411,7 +576,21 @@
     "lat": 54.531954,
     "lng": -1.187396,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@optimumpestcontrolservices.co.uk",
+    "emails": [
+      "info@optimumpestcontrolservices.co.uk"
+    ],
+    "description": "Professional pest control in Middlesbrough. Safe, affordable treatments for rodents, insects, wasps and commercial properties. Local family run pest specialists serving Teesside.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Lawn in order",
@@ -428,7 +607,13 @@
     "lat": 54.879852,
     "lng": -1.750205,
     "found_in_location": "Stanley",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "lawninorder@hotmail.co.uk",
+    "emails": [
+      "lawninorder@hotmail.co.uk",
+      "mymail@mailservice.com"
+    ],
+    "description": "Professional lawn care, tree surgery and gardening services across the North East. Lawn in Order provides reliable garden maintenance and expert care."
   },
   {
     "name": "Bailey garden services",
@@ -462,7 +647,17 @@
     "lat": 55.015103,
     "lng": -1.473297,
     "found_in_location": "North Shields",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "taff.northeastpc@gmail.com",
+    "emails": [
+      "taff.northeastpc@gmail.com"
+    ],
+    "description": "North East Pest Control is family run with a wealth of pest control knowledge and over 50 years experience. Covering all aspects of pest prevention we use up to date information and technology using the most human and cost effective methods.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "HPC Pest Control",
@@ -479,7 +674,17 @@
     "lat": 54.992048,
     "lng": -1.714214,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "housepestcontrol@hotmail.com",
+    "emails": [
+      "housepestcontrol@hotmail.com"
+    ],
+    "description": "Need pest and vermin control services? For advanced bed bug control, pigeon control and removal of ants, wasps and bees in Newcastle call on 07807 920 111",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Als Pest Solutions Ltd",
@@ -496,7 +701,20 @@
     "lat": 54.976974,
     "lng": -1.421424,
     "found_in_location": "South Shields",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "alspestsolutions@outlook.com",
+    "emails": [
+      "alspestsolutions@outlook.com"
+    ],
+    "description": "We carry out intensive treatments and offer service contracts to residential properties, shops, restaurants, warehouses, pubs, offices and more.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control"
+    ]
   },
   {
     "name": "The Pest Company - Teesside",
@@ -513,7 +731,21 @@
     "lat": 54.504281,
     "lng": -1.351027,
     "found_in_location": "Yarm",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@thepestcompany.co.uk",
+    "emails": [
+      "info@thepestcompany.co.uk"
+    ],
+    "description": "Professional pest control in Essex \ud83c\udfe1\ud83d\udc1c Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. \ud83d\udcde",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Optimum Pro Solutions",
@@ -547,7 +779,21 @@
     "lat": 54.37029,
     "lng": -1.323248,
     "found_in_location": "Farm",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@thepestcompany.co.uk",
+    "emails": [
+      "info@thepestcompany.co.uk"
+    ],
+    "description": "Professional pest control in Essex \ud83c\udfe1\ud83d\udc1c Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. \ud83d\udcde",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "TL Pest Control",
@@ -598,7 +844,8 @@
     "lat": 54.885917,
     "lng": -1.516677,
     "found_in_location": "Washington",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Build a website. Sell something. Blog. And so much more."
   },
   {
     "name": "Acorn Pest Control",
@@ -649,7 +896,13 @@
     "lat": 35.97914,
     "lng": -78.957465,
     "found_in_location": "Durham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "ClearDefense Pest Control Durham, NC Request A Quote FAQs",
+    "services": [
+      "Ant Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pest Solutions",
@@ -666,7 +919,23 @@
     "lat": 54.971375,
     "lng": -1.597461,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@pestsolutions.co.uk",
+    "emails": [
+      "info@pestsolutions.co.uk",
+      "glasgow@pestsolutions.co.uk",
+      "newcastle@pestsolutions.co.uk"
+    ],
+    "description": "Pest Solutions | The Pest Control Professionals | BPCA Accredited Pest and Bird Control | Pest Control Services in Glasgow, Edinburgh, Aberdeen, Dundee,",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Northern Pest Solutions",
@@ -700,7 +969,17 @@
     "lat": 54.920285,
     "lng": -1.749401,
     "found_in_location": "Rowlands Gill",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@greenwayipm.co.uk",
+    "emails": [
+      "info@greenwayipm.co.uk"
+    ],
+    "description": "Greenway IPM offers award-winning, low environmental impact pest control services in Newcastle and the North East.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Cobra Pest Control Services",
@@ -717,7 +996,15 @@
     "lat": 54.854451,
     "lng": -1.39658,
     "found_in_location": "Sunderland",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "paul@cobranortheast.com",
+    "emails": [
+      "paul@cobranortheast.com"
+    ],
+    "description": "Discover effective pest control solutions tailored to your needs at Cobra Pest Control. From eradication to prevention, we offer comprehensive services to ensure your home or business is pest-free. Contact us today at 0191 521 4545 to learn more.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "The Pest Technician Ltd.",
@@ -734,7 +1021,18 @@
     "lat": 54.611737,
     "lng": -1.284542,
     "found_in_location": "Billingham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "dale@thepesttechnician.co.uk",
+    "emails": [
+      "dale@thepesttechnician.co.uk"
+    ],
+    "description": "The Pest Technician Pest Control in Middlesbrough, Redcar, Skelton, Stockton on Tees, Thornaby, Guisborough, Hartlepool in Teesside & Cleveland. CALL 01287 599234",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cleveland Pest Control",
@@ -751,7 +1049,12 @@
     "lat": 54.531121,
     "lng": -1.084483,
     "found_in_location": "Guisborough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "clevelandpestcontrol@icloud.com",
+    "emails": [
+      "clevelandpestcontrol@icloud.com"
+    ],
+    "description": "Guisborough Pest Control Service dealing with various rodent & insect problems in Brotton, Guisborough, Marske, Middlesbrough, Redcar, Saltburn, Skelton, Great Ayton, Stokesley, Yarm"
   },
   {
     "name": "CiMEX Pest Control",
@@ -768,7 +1071,20 @@
     "lat": 54.629964,
     "lng": -1.71354,
     "found_in_location": "Bishop Auckland",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@cimexuk.co.uk",
+    "emails": [
+      "info@cimexuk.co.uk",
+      "mark@cimexuk.co.uk"
+    ],
+    "description": "Need local pest control in Durham? We provide fast, effective mouse control and pest management with professional, discreet service.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "ThermoPest Bed Bug Treatment",
@@ -787,8 +1103,15 @@
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "pest control northeast",
     "services": [
-      "Bed Bug Treatment"
-    ]
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ],
+    "email": "office@pest.co.uk",
+    "emails": [
+      "office@pest.co.uk"
+    ],
+    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
   },
   {
     "name": "Pestguard",
@@ -805,7 +1128,19 @@
     "lat": 54.61291,
     "lng": -1.575904,
     "found_in_location": "Newton Aycliffe",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "pestguard1@gmail.com",
+    "emails": [
+      "pestguard1@gmail.com"
+    ],
+    "description": "Pest control services Newton Aycliffe, County Durham, North East: Pestguard. Well-established independent pest control company offering 24-hour pest control helpline.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Kill Line Pest Control",
@@ -822,7 +1157,23 @@
     "lat": 54.531038,
     "lng": -1.174559,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "admin@killline.co.uk",
+    "emails": [
+      "admin@killline.co.uk"
+    ],
+    "description": "Looking to eliminate your commercial or domestic pest problems? Contact Kill Line today. 24 HOUR RESPONSE. NO HIDDEN COSTS OR FEES.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Cobra Pest Control",
@@ -839,7 +1190,15 @@
     "lat": 54.935539,
     "lng": -1.59584,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "paul@cobranortheast.com",
+    "emails": [
+      "paul@cobranortheast.com"
+    ],
+    "description": "Discover effective pest control solutions tailored to your needs at Cobra Pest Control. From eradication to prevention, we offer comprehensive services to ensure your home or business is pest-free. Contact us today at 0191 521 4545 to learn more.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "L & R Pest Control",
@@ -856,7 +1215,17 @@
     "lat": 55.016947,
     "lng": -1.469718,
     "found_in_location": "North Shields",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@landrpestcontrol.co.uk",
+    "emails": [
+      "info@landrpestcontrol.co.uk"
+    ],
+    "description": "Local experts in domestic & commercial pest control across Newcastle, Sunderland & the North East. Rodent removal, wasp nest treatments & more. Request a callback today.",
+    "services": [
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Will Kill Pest Control",
@@ -873,7 +1242,17 @@
     "lat": 54.747959,
     "lng": -1.448029,
     "found_in_location": "Durham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@will-kill.co.uk",
+    "emails": [
+      "info@will-kill.co.uk",
+      "luke.atherton@visualsoftaffiliates.co.uk"
+    ],
+    "description": "Expert, local pest control in the North East of England. Providing pest control services to Sunderland, Durham, Middlesbrough, Hartlepool and all other areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control"
+    ]
   },
   {
     "name": "Lawn Care Services Durham",
@@ -890,7 +1269,8 @@
     "lat": 54.787756,
     "lng": -1.537539,
     "found_in_location": "Durham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Lawn Care Services Durham is a trusted local company providing professional lawn treatments for homes across Durham."
   },
   {
     "name": "Laverock Hall Farm Bird Food",
@@ -907,7 +1287,8 @@
     "lat": 55.101128,
     "lng": -1.559411,
     "found_in_location": "Blyth",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "A huge selection of Wild Bird Foods, Pigeon Corns, Hen Corns & now Caged Bird Foods, all made here on our farm.Browse our selection and be assured of personal Customer Service if required."
   },
   {
     "name": "Lush Lawns Ltd",
@@ -924,7 +1305,12 @@
     "lat": 54.609187,
     "lng": -1.367927,
     "found_in_location": "Stockton-on-Tees",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "lushlawnsltd@outlook.com",
+    "emails": [
+      "lushlawnsltd@outlook.com"
+    ],
+    "description": "At Lush Lawns Ltd, we provide a wide range of garden services, including turfing, pruning, lawn care and more. We serve Stockton-on-Tees. Contact us today."
   },
   {
     "name": "Bug House",
@@ -941,7 +1327,13 @@
     "lat": 54.620237,
     "lng": -1.282766,
     "found_in_location": "Billingham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "shai1@site123-gal.com",
+    "emails": [
+      "shai1@site123-gal.com",
+      "theoandjoshinc29@gmail.com"
+    ],
+    "description": "Want to suggest an edit? Or want to make a suggestion? Email us now!"
   },
   {
     "name": "A Breeze Pest Control",
@@ -958,7 +1350,13 @@
     "lat": 54.515082,
     "lng": -1.660087,
     "found_in_location": "Darlington",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Commercial and Domestic Pest Control, Darlington, Richmond, Dales, Barnard Castle, Teesdale, Bishop Auckland, Weardale, Middlesbrough.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Arimos Pest Control Ltd",
@@ -975,7 +1373,16 @@
     "lat": 54.983054,
     "lng": -1.595493,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Arimos offer pest control for domestic, commericial and construction. Birds, rats, mice, bees, wasps, bugs, insects control and removal. Based in Newcastle.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A-2-Z Pestcontrol",
@@ -1009,7 +1416,16 @@
     "lat": 55.13315,
     "lng": -1.529493,
     "found_in_location": "Blyth",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@tyneteespc.co.uk",
+    "emails": [
+      "info@tyneteespc.co.uk"
+    ],
+    "description": "Thank you for taking the time to take a look at our web site. Tyne Tees Pest Control Ltd are one of the UKs leading pest control companies operating in the North of England and offering our services to all areas requiring pest control. We offer our services to anyone with a pest problem, from...",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Deluxe Pest Control",
@@ -1026,7 +1442,21 @@
     "lat": 54.547782,
     "lng": -1.263134,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "mercenarypestcontrol@proton.mail.com",
+    "emails": [
+      "mercenarypestcontrol@proton.mail.com"
+    ],
+    "description": "This is the home page's excerpt",
+    "services": [
+      "Ant Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Contego Environmental Services Ltd",
@@ -1043,7 +1473,18 @@
     "lat": 54.600974,
     "lng": -1.568887,
     "found_in_location": "Newton Aycliffe",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "service@contegoresponse.com",
+    "emails": [
+      "service@contegoresponse.com"
+    ],
+    "description": "Providing pest control, bird control, insect control and environmental services through through data-driven approaches to reduce your pest risk.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Northeast Damp Control",
@@ -1060,7 +1501,12 @@
     "lat": 54.857678,
     "lng": -1.811874,
     "found_in_location": "Consett",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "ontyneremedials@gmail.com",
+    "emails": [
+      "ontyneremedials@gmail.com"
+    ],
+    "description": "Welcome to On Tyne Remedials Specialist Damp Proofing Across the North East On Tyne Remedials are your local experts in damp proofing, condensation control, and timber treatments. With decades of experience and specialist knowledge, we restore homes and protect properties across the North East..."
   },
   {
     "name": "Brit Rem Ltd",
@@ -1077,7 +1523,12 @@
     "lat": 55.182926,
     "lng": -1.641171,
     "found_in_location": "Morpeth",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@britrem.com",
+    "emails": [
+      "info@britrem.com"
+    ],
+    "description": "At Brit - Rem Ltd we are able to provide a range of services for Rising Damp, including Damp Proofing-Woodworm-Wall Tie Corrosion-Wet & Dry Rot. From Morpeth, Northumberland, we are in easy reach of Newcastle, Bedlington, Blyth, Cramlington, Ashington, Whitley Bay, Hexham, Alnwick, Durham & Consett."
   },
   {
     "name": "Birds of Prey Seagull Control",
@@ -1094,7 +1545,15 @@
     "lat": 55.069164,
     "lng": -2.312434,
     "found_in_location": "Hexham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "mark@falconrydays.com",
+    "emails": [
+      "mark@falconrydays.com"
+    ],
+    "description": "Birds of Prey Seagull Controlare experts in solving extreme problems with roof nesting seagulls in urban environments. Years of observing the behaviour of nesting gulls has given us an in-depth understanding of what is required to eradicate areas from these aggressive infestations of nuisance birds.",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Invicta Pest Control Newcastle",
@@ -1111,7 +1570,16 @@
     "lat": 54.971298,
     "lng": -1.611375,
     "found_in_location": "Gateshead",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Invicta Environmental delivers fast and effective pest control Newcastle to homes and businesses. \u2713 More Pests Covered Than The Council \u2713 Guaranteed Success",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Newcastle Pest Control Co",
@@ -1128,7 +1596,22 @@
     "lat": 54.968378,
     "lng": -1.612146,
     "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "office@newcastlepestcontrolco.co.uk",
+    "emails": [
+      "office@newcastlepestcontrolco.co.uk"
+    ],
+    "description": "Our skilled pest technicians can handle anything from rats and mice to bed bugs, and cockroaches. Call us today for our expert pest control Newcastle services!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "A1 Pest Control Darlington",
@@ -1162,7 +1645,17 @@
     "lat": 54.523585,
     "lng": -1.559509,
     "found_in_location": "Darlington",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "For Local Pest Control Near Me in Darlington Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Darlington, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "DePest",
@@ -1196,7 +1689,15 @@
     "lat": 54.798759,
     "lng": -1.68664,
     "found_in_location": "Durham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@vfaviansolutions.co.uk",
+    "emails": [
+      "info@vfaviansolutions.co.uk"
+    ],
+    "description": "VF Avian Solutions in Durham offers expert pest control, including insect, bed bugs, rat & mice removal, mole & bird deterrence prevention methods. Pest Control, Pest Prevention, Pest Removal near Durham, Spennymoor, Barnard Castle, Bishop Auckland, Darlington, Newton Aycliffe, Washington,...",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
   },
   {
     "name": "Premier Pest Control Services Ltd",
@@ -1213,7 +1714,17 @@
     "lat": 54.561249,
     "lng": -1.24971,
     "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "info@nationalpestcontrol.co.uk",
+    "emails": [
+      "info@nationalpestcontrol.co.uk",
+      "5372info@nationalpestcontrol.co.uk"
+    ],
+    "description": "Trust our pest control experts to protect your business or home with fast, efficient service and comprehensive documentation. Call today for a free assessment!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Kill Line Pest Control Hartlepool",
@@ -1230,7 +1741,23 @@
     "lat": 54.670523,
     "lng": -1.242445,
     "found_in_location": "Hartlepool",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "admin@killline.co.uk",
+    "emails": [
+      "admin@killline.co.uk"
+    ],
+    "description": "Looking to eliminate your commercial or domestic pest problems? Contact Kill Line today. 24 HOUR RESPONSE. NO HIDDEN COSTS OR FEES.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Xpress",
@@ -1247,7 +1774,16 @@
     "lat": 54.691828,
     "lng": -1.212959,
     "found_in_location": "Durham",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "For Local Pest Control Near Me in Hartlepool Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Hartlepool, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Coast & County Pest Control Services",
@@ -1298,7 +1834,16 @@
     "lat": 54.990028,
     "lng": -1.53749,
     "found_in_location": "Wallsend",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "For Local Pest Control Near Me in Wallsend Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Wallsend, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Invicta Environmental Ltd",
@@ -1315,7 +1860,13 @@
     "lat": 54.693656,
     "lng": -1.613737,
     "found_in_location": "Spennymoor",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "description": "Pest control services provided across County Durham for insects, rodents and birds. Compare Invicta Environmental vs Durham Council.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Tyne And Wear Pest Control",
@@ -1349,6 +1900,11 @@
     "lat": 54.531121,
     "lng": -1.084483,
     "found_in_location": "Guisborough",
-    "found_with_query": "pest control northeast"
+    "found_with_query": "pest control northeast",
+    "email": "clevelandpestcontrol@icloud.com",
+    "emails": [
+      "clevelandpestcontrol@icloud.com"
+    ],
+    "description": "North Yorkshire Pest Control deal with various insect & rodent problems including: Wasps, Bees, Moles, Mice & Rats. We cover: Great Ayton, Stokesley, Northallerton, Staithes, Whitby, Castleton."
   }
 ]

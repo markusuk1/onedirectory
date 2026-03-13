@@ -26,8 +26,8 @@ export function generateOperatorHash(email: string): string {
 
 export function getLeadPrice(product: string): { pricePence: number; priceFormatted: string; sumupUrl: string } {
   const config = PRODUCT_CONFIGS[product as ProductId];
-  const pricePence = config?.leadPricePence ?? 299;
-  const sumupUrl = config?.sumupBuyLink ?? "https://pay.sumup.com/b2c/Q7TFZ16B";
+  const pricePence = config?.leadPricePence ?? 100;
+  const sumupUrl = config?.sumupBuyLink ?? "https://pay.sumup.com/b2c/QQF710VC";
   const priceFormatted = `£${(pricePence / 100).toFixed(2)}`;
   return { pricePence, priceFormatted, sumupUrl };
 }

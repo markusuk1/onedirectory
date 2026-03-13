@@ -7,6 +7,8 @@ import { getRemovalGuides } from "./guides-removals";
 import { getBouncyGuides } from "./guides-bouncy";
 import { getLimoGuides } from "./guides-limo";
 import { getPlantGuides } from "./guides-plant";
+import { getPestGuides } from "./guides-pest";
+import { getDrivingGuides } from "./guides-driving";
 
 export interface Guide {
   slug: string;
@@ -20,6 +22,7 @@ export interface Guide {
   relatedLocations: string[];
   keywords: string[];
   product?: ProductId;
+  lastUpdated?: string;
 }
 
 const NE_GUIDES: Guide[] = [
@@ -4269,36 +4272,6 @@ function getRegionalBoostGuides(): Guide[] {
       keywords: [`compare minibus operators ${site.shortName.toLowerCase()}`],
     },
     {
-      slug: `pricing-explained-${regionSlug}`,
-      title: `Pricing Explained for ${site.shortName}`,
-      metaTitle: `Minibus Pricing Explained in ${site.shortName}`,
-      metaDescription: `Understand what drives quote pricing in ${site.shortName} so you can compare offers fairly.`,
-      h1: `Minibus Pricing in ${site.shortName}: What Affects Cost`,
-      intro:
-        `Quote differences are usually caused by route assumptions, timing windows and vehicle allocation. This guide breaks it down clearly for ${site.region}.`,
-      sections: [
-        {
-          heading: "Main cost drivers",
-          content:
-            "Distance, pickup timing, return waiting, vehicle size and demand periods are the biggest pricing factors.",
-        },
-        {
-          heading: "Hidden mismatch issues",
-          content:
-            "Two quotes may look different because one includes extras (parking, waiting, late-return handling) while another excludes them.",
-        },
-      ],
-      faq: [
-        {
-          question: "Can we reduce cost without changing date?",
-          answer:
-            "Often yes: simplify stops, tighten pickup windows and share accurate luggage details.",
-        },
-      ],
-      relatedLocations: [],
-      keywords: [`minibus prices ${site.shortName.toLowerCase()}`],
-    },
-    {
       slug: `event-transport-checklist-${regionSlug}`,
       title: `Event Transport Checklist for ${site.shortName}`,
       metaTitle: `Event Transport Checklist | ${site.shortName}`,
@@ -4464,7 +4437,9 @@ function getGuides(): Guide[] {
   const bouncy = getBouncyGuides();
   const limo = getLimoGuides();
   const plant = getPlantGuides();
-  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith, ...removals, ...bouncy, ...limo, ...plant];
+  const pest = getPestGuides();
+  const driving = getDrivingGuides();
+  return [...minibus, ...regionalBoost, ...regionalResources, ...van, ...skip, ...locksmith, ...removals, ...bouncy, ...limo, ...plant, ...pest, ...driving];
 }
 
 export const GUIDES: Guide[] = getGuides();

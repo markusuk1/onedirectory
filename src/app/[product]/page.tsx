@@ -73,6 +73,24 @@ export default async function ProductHomePage({
       name: site.genericName,
       url: `https://${site.domain}`,
     },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: `https://${site.domain}`,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: productConfig.name,
+          item: `https://${site.domain}/${product}`,
+        },
+      ],
+    },
   ];
 
   return (

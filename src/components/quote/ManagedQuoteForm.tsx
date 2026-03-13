@@ -20,6 +20,7 @@ const MESSAGE_PLACEHOLDERS: Partial<Record<ProductId, string>> = {
   "limo-hire": "Any special requests, decorations, drinks packages...",
   "plant-hire": "Project type, ground conditions, access to site...",
   "driving-lessons": "Preferred days/times, any specific requirements, test date if booked...",
+  "pest-control": "Type of pest, severity, any access issues, commercial or domestic...",
 };
 
 // Extra fields for minibus in managed form (time + conditional returnDate)
@@ -98,6 +99,8 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
       details.serviceType = details.transmission || null;
     } else if (productId === "removal-companies") {
       details.serviceType = details.moveType || null;
+    } else if (productId === "pest-control") {
+      details.serviceType = details.pestType || null;
     }
 
     const consent = {

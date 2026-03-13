@@ -94,6 +94,63 @@ function generate(r: GuideRegion): Guide[] {
       keywords: [`limo hire ${r.mainCity.toLowerCase()}`, `limousine hire ${r.mainCity.toLowerCase()}`, `stretch limo ${r.mainCity.toLowerCase()}`],
       product: "limo-hire",
     },
+    {
+      slug: `limo-hire-costs-${r.slug}`,
+      title: `Limo Hire Costs ${r.mainCity}`,
+      metaTitle: `Limo Hire Prices ${r.mainCity} | How Much Does Limo Hire Cost? (2026)`,
+      metaDescription: `How much does limo hire cost in ${r.mainCity}? Prices by vehicle type, occasion, and hire duration. What to expect from limo companies in ${r.theName}.`,
+      h1: `Limo Hire Costs in ${r.mainCity} & ${r.theName}`,
+      intro: `Limo hire prices vary depending on the vehicle, the occasion, and how long you need it. Whether you are booking for a wedding, prom, hen party, or airport transfer, understanding typical costs helps you find the right deal. This guide covers limo hire prices across ${r.theName}.`,
+      sections: [
+        {
+          heading: `How Much Does Limo Hire Cost in ${r.theName}?`,
+          content: `A standard stretch limousine in ${r.theName} costs £150-£350 for a 2-3 hour hire. A Hummer or SUV limo costs £250-£500 for 2-3 hours. Vintage and classic cars for weddings cost £200-£450 for the ceremony (typically covering 3-4 hours). A party bus for hen and stag parties costs £300-£600 for 3-4 hours. Prom packages (1-2 hours) cost £150-£300 for a stretch limo or £200-£400 for a Hummer. Airport transfers in a luxury car cost £80-£200 depending on distance. Prices typically include a uniformed chauffeur, the vehicle, and a set route or time period. Drinks packages, decorations and red carpet service may be included or available as extras.`,
+        },
+        {
+          heading: "What Affects the Price?",
+          content: `Vehicle type is the biggest factor. A standard white stretch limo is the most affordable option. Hummer limos, Rolls-Royce, Bentley, and party buses command premium prices. Duration matters because most companies have a minimum hire of 1-2 hours and charge per hour beyond that. Additional hours typically cost £80-£150 per hour for a stretch limo and £120-£200 for a Hummer. Day of the week affects price. Saturday is peak demand for weddings and proms and is typically 10-20% more expensive than midweek. Season matters too, with May-September being the busiest period. Distance from the limo company's base to your pickup point affects cost, as travel time counts towards the hire. Passenger numbers determine vehicle size. A standard stretch limo seats 8, while a Hummer seats 14-16.`,
+        },
+        {
+          heading: "How to Get the Best Price",
+          content: `Book early, especially for proms (May-July) and wedding season (April-September). Popular vehicles book out months in advance. Compare at least three companies in ${r.theName} and check what is included in each quote. A lower price that excludes a drinks package or charges extra for decorations may cost more overall. Consider off-peak times. A Friday evening or Sunday limo hire is usually cheaper than Saturday. Midweek bookings can be 20-30% less. For proms, share the cost between a group. A Hummer limo at £350 split between 14 people is £25 each, which is excellent value. Ask about return journey discounts for events where you need pickup and drop-off at different times.`,
+        },
+        {
+          heading: "What Is Included in the Price?",
+          content: `A standard limo hire price in ${r.theName} includes the vehicle, a uniformed chauffeur, the agreed hire time or route, fuel, and insurance. Most companies include basic interior lighting, music system, and climate control. Many wedding packages include ribbons, bows, and a complimentary bottle of prosecco. Items that vary between companies include drinks (some include a set number of bottles, others charge extra), decorations and theming, red carpet arrival, route detours or extra stops, and waiting time beyond the quoted period. Gratuity for the chauffeur is not usually included and is at your discretion, typically £10-£20.`,
+        },
+        {
+          heading: "Hidden Costs to Watch Out For",
+          content: `The most common extra charges are overtime (if your event overruns the booked time), cleaning fees (if the vehicle is left in a significantly messy state), and additional stops or route changes. Some companies quote excluding VAT, which adds 20% to the price, so always confirm whether the quote is VAT-inclusive. Cancellation policies vary. Most require a non-refundable deposit (typically 25-50% of the total) and charge the full amount for cancellations within 14-30 days of the event. Damage deposits are common, typically £100-£200, refunded after the hire if no damage occurs. If you are booking a vehicle you have seen online, confirm exactly which vehicle you will receive, as some companies use stock photos that do not match their actual fleet.`,
+        },
+      ],
+      faq: [
+        {
+          question: "How much does a wedding car cost to hire?",
+          answer: `Wedding car hire in ${r.theName} costs £200-£450 for the ceremony, typically covering 3-4 hours. A modern luxury car (Rolls-Royce, Bentley) is at the top end, while a classic or vintage car costs £200-£350. Most include ribbons, bows, a uniformed chauffeur, and a bottle of prosecco.`,
+        },
+        {
+          question: "How much is a prom limo?",
+          answer: `Prom limo packages in ${r.theName} cost £150-£300 for a stretch limo (1-2 hours) or £200-£400 for a Hummer limo. Split between a group, this works out at £20-£40 per person. Book early as prom season (May-July) is extremely busy and popular vehicles sell out fast.`,
+        },
+        {
+          question: "Is there a minimum hire time for a limo?",
+          answer: "Yes. Most limo companies have a minimum hire of 1-2 hours. Some charge a flat rate for short packages (like a prom pickup or airport transfer) that covers a set route rather than a time period. Additional time beyond the minimum is charged per hour.",
+        },
+        {
+          question: "Can I bring my own drinks in a limo?",
+          answer: "Policies vary by company. Some allow you to bring your own alcohol at no extra charge, while others require you to purchase their drinks packages. Some prohibit outside drinks entirely. Always confirm the alcohol policy when booking, especially for party or hen/stag bookings.",
+        },
+      ],
+      relatedLocations: r.locations,
+      keywords: [
+        `limo hire prices ${r.mainCity.toLowerCase()}`,
+        `limo hire cost ${r.name.toLowerCase()}`,
+        `how much limo hire ${r.mainCity.toLowerCase()}`,
+        `wedding car hire cost ${r.name.toLowerCase()}`,
+        `prom limo prices ${r.mainCity.toLowerCase()}`,
+      ],
+      product: "limo-hire",
+    },
   ];
 }
 

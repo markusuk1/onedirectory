@@ -2,6 +2,7 @@ import crypto from "crypto";
 import bcrypt from "bcryptjs";
 import pool from "./db";
 import { initOperatorTables } from "./db-schema";
+import { sendEmail } from "./email";
 
 export function generateClaimToken(): string {
   return crypto.randomBytes(32).toString("hex");
@@ -115,4 +116,53 @@ export async function completeClaim(
   );
 
   return { success: true };
+}
+
+/**
+ * Send a claim email directly to the operator/business.
+ * Called automatically when a claim is created for a business with a known email.
+ */
+export async function sendClaimEmail(
+  email: string,
+  businessName: string,
+  claimUrl: string,
+  siteName: string,
+  domain: string
+): Promise<void> {
+  await sendEmail({
+    from: `${siteName} <notify@hirenortheast.co.uk>`,
+    to: email,
+    replyTo: "mark@hirenortheast.co.uk",
+    subject: `Claim your business profile on ${siteName}`,
+    html: `
+      <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto">
+        <h2 style="margin:0 0 12px;color:#1a1a1a">Hi ${businessName},</h2>
+        <p style="margin:0 0 12px;color:#444;line-height:1.6">
+          Your business is listed on <strong>${siteName}</strong> (${domain}) and a customer has requested a quote from you.
+        </p>
+        <p style="margin:0 0 16px;color:#444;line-height:1.6">
+          Claim your free profile to receive leads directly, manage your listing, and start getting more customers.
+        </p>
+        <div style="text-align:center;margin:24px 0">
+          <a href="${claimUrl}" style="display:inline-block;background:#2563eb;color:#fff;text-decoration:none;padding:14px 28px;border-radius:8px;font-weight:600;font-size:16px">
+            Claim My Profile
+          </a>
+        </div>
+        <p style="margin:0 0 8px;color:#666;font-size:13px">Or copy and paste this link:</p>
+        <p style="margin:0 0 16px;font-size:13px;color:#2563eb;word-break:break-all">${claimUrl}</p>
+        <div style="border-top:1px solid #e5e7eb;padding-top:16px;margin-top:16px">
+          <p style="margin:0 0 4px;color:#666;font-size:13px"><strong>What you get:</strong></p>
+          <ul style="margin:0;padding-left:20px;color:#666;font-size:13px;line-height:1.8">
+            <li>Receive customer quote requests directly</li>
+            <li>Manage your business listing and description</li>
+            <li>Buy exclusive leads from customers who want to hear from you</li>
+          </ul>
+        </div>
+        <p style="margin:16px 0 0;color:#999;font-size:12px">
+          If you didn't expect this email, you can safely ignore it. No account will be created unless you click the link above.
+        </p>
+        <p style="margin:8px 0 0;color:#999;font-size:12px">&mdash; ${siteName}</p>
+      </div>
+    `,
+  });
 }
