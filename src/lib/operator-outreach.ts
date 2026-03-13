@@ -292,18 +292,98 @@ interface ContactableOperator {
   score: number;
 }
 
+/** Wix sentry/tracking emails are scraping artifacts, not real contacts */
+function isRealEmail(email: string | null | undefined): boolean {
+  if (!email) return false;
+  const lower = email.toLowerCase();
+  if (lower.includes("@sentry.wixpress.com")) return false;
+  if (lower.includes("@sentry-next.wixpress.com")) return false;
+  if (lower.includes("noreply@")) return false;
+  if (lower.includes("no-reply@")) return false;
+  return true;
+}
+
+/**
+ * Product-specific junk keyword blocklist.
+ * Businesses matching these keywords in name+description are excluded from outreach.
+ */
+const JUNK_BLOCKLIST: Record<string, RegExp[]> = {
+  "minibus-hire": [
+    /\bballoon/i,
+    /\bgaming\s*(van|bus|party|truck)/i,
+    /\bmobile\s*gaming/i,
+    /\bbouncy\s*castle/i,
+    /\bsoft\s*play/i,
+    /\btrampoline/i,
+    /\broof\s*box/i,
+    /\broofbox/i,
+    /\broof\s*rack/i,
+    /\bbreakdown\s*recovery/i,
+    /\baccident\s*recovery/i,
+    /\bvehicle\s*recovery/i,
+    /\bcar\s*transport(?!ation)/i,
+    /\bphotograph/i,
+    /\bcatering\s+(?:compan|service|van|hire|business)/i,
+    /\bmarquee\s*hire/i,
+    /\bmagician/i,
+    /\bface\s*paint/i,
+    /\bmobile\s*disco/i,
+    /\bdisc\s*jockey/i,
+    /\bkaraoke/i,
+    /\b(?:wedding|event)\s*(?:dj|entertainer)/i,
+    /\bdj\s*(?:hire|entertainment|service)/i,
+  ],
+};
+
+/**
+ * Transport-related keywords. For minibus, at least one must appear
+ * in the business name or description to be considered relevant.
+ */
+const TRANSPORT_SIGNALS =
+  /\b(?:minibus|coach|bus(?:es)?|taxi|cab|travel|transport|transfer|chauffeur|limo(?:usine)?|shuttle|fleet|seater|driver|airport|passenger|tour[s]?|private\s*hire|executive\s*car|wedding\s*car|hire\b)/i;
+
+function isRelevantBusiness(
+  name: string,
+  description: string | null,
+  services: string[],
+  product: string
+): boolean {
+  const text = `${name} ${description || ""}`;
+
+  // Check junk blocklist
+  const blocklist = JUNK_BLOCKLIST[product];
+  if (blocklist) {
+    for (const pattern of blocklist) {
+      if (pattern.test(text)) return false;
+    }
+  }
+
+  // For minibus, require at least one transport signal in name or description
+  if (product === "minibus-hire") {
+    const nameAndDesc = `${name} ${description || ""} ${services.join(" ")}`;
+    if (!TRANSPORT_SIGNALS.test(nameAndDesc)) return false;
+  }
+
+  return true;
+}
+
 function findMatchingOperators(product: string): ContactableOperator[] {
   const businesses = getAllBusinesses(product as ProductId);
   const contactable: ContactableOperator[] = [];
 
   for (const b of businesses) {
+    // Filter out irrelevant businesses (balloon companies, gaming vans, etc.)
+    if (!isRelevantBusiness(b.name, b.description, b.services, product))
+      continue;
+
+    const realEmail = isRealEmail(b.email) ? b.email : null;
     const isMobile =
       b.mobilePhone &&
       /^07\d{9}$/.test(b.mobilePhone.replace(/\D/g, ""));
-    if (!isMobile && !b.email) continue;
+    if (!isMobile && !realEmail) continue;
 
     let score = 0;
-    if (b.email) score += 3;
+    if (realEmail) score += 3;
     if (isMobile) score += 2;
     if (b.website) score += 1;
     if (b.description) score += 1;
@@ -314,7 +394,7 @@ function findMatchingOperators(product: string): ContactableOperator[] {
       slug: b.slug,
       phone: b.phone,
       mobilePhone: isMobile ? b.mobilePhone : null,
-      email: b.email,
+      email: realEmail,
       score,
     });
   }
