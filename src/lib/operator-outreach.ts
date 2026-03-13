@@ -342,6 +342,16 @@ const JUNK_BLOCKLIST: Record<string, RegExp[]> = {
 const TRANSPORT_SIGNALS =
   /\b(?:minibus|coach|bus(?:es)?|taxi|cab|travel|transport|transfer|chauffeur|limo(?:usine)?|shuttle|fleet|seater|driver|airport|passenger|tour[s]?|private\s*hire|executive\s*car|wedding\s*car|hire\b)/i;
 
+/**
+ * Minibus/coach capability signals. For businesses with "taxi/cab" in their name,
+ * at least one of these must appear in name or description to confirm they have
+ * larger vehicles (not just car taxis).
+ */
+const MINIBUS_CAPABILITY =
+  /\b(?:minibus|mini[\s-]*bus|coach|bus(?:es)?\s*hire|hire\s*(?:a\s*)?bus|(?:\d+)\s*seat|seater|people\s*carrier|mpv|party\s*bus|group\s*(?:transport|booking|travel))/i;
+
+const TAXI_IN_NAME = /\b(?:taxi|taxis|cabs?|minicab)\b/i;
+
 function isRelevantBusiness(
   name: string,
   description: string | null,
@@ -362,6 +372,9 @@ function isRelevantBusiness(
   if (product === "minibus-hire") {
     const nameAndDesc = `${name} ${description || ""} ${services.join(" ")}`;
     if (!TRANSPORT_SIGNALS.test(nameAndDesc)) return false;
+
+    // Pure taxi/cab firms without minibus capability can't fulfill minibus requests
+    if (TAXI_IN_NAME.test(name) && !MINIBUS_CAPABILITY.test(text)) return false;
   }
 
   return true;
