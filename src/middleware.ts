@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import { PRODUCT_SLUGS } from "@/lib/productConfig";
 
 const STATIC_ROUTES = new Set([
   "about",
@@ -8,15 +9,9 @@ const STATIC_ROUTES = new Set([
   "quote",
   "privacy",
   "api",
-  "minibus-hire",
-  "van-hire",
-  "skip-hire",
-  "locksmith",
-  "removal-companies",
-  "bouncy-castle-hire",
-  "limo-hire",
-  "plant-hire",
-  "driving-lessons",
+  // Product slugs are imported from productConfig so new products are
+  // automatically included — no manual update needed.
+  ...PRODUCT_SLUGS,
   "_next",
   "images",
   "favicon.ico",
@@ -28,6 +23,7 @@ const STATIC_ROUTES = new Set([
   "terms",
   "contact",
   "site",
+  "events",
 ]);
 
 // Domains that have hosted mini-sites on subdomains
