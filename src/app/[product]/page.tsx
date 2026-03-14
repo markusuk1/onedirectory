@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getLocations, getFeaturedBusinesses, enrichWithPromotions } from "@/lib/data";
+import { getLocations, getFeaturedBusinesses } from "@/lib/data";
 import { getSiteConfig } from "@/lib/siteConfig";
 import {
   PRODUCT_SLUGS,
@@ -52,8 +52,7 @@ export default async function ProductHomePage({
   const productConfig = getProductConfig(product)!;
   const site = getSiteConfig();
   const locations = getLocations(productId);
-  const rawFeatured = getFeaturedBusinesses(6, productId);
-  const featured = await enrichWithPromotions(rawFeatured, product, site.id);
+  const featured = await getFeaturedBusinesses(6, productId, product, site.id);
   const totalBusinesses = locations.reduce(
     (sum, loc) => sum + loc.businessCount,
     0

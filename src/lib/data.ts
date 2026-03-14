@@ -500,13 +500,23 @@ export function getBusinessBySlug(
   );
 }
 
-export function getFeaturedBusinesses(
+export async function getFeaturedBusinesses(
   limit = 6,
-  productId: ProductId = "minibus-hire"
-): Business[] {
+  productId: ProductId = "minibus-hire",
+  productSlug?: string,
+  siteId?: string
+): Promise<Business[]> {
   const all = getAllBusinesses(productId);
-  const promoted = all.filter((b) => b.isFeatured || b.isRecommended);
-  const topRated = all
+
+  // Enrich with promotion flags BEFORE sorting so promoted businesses
+  // are correctly prioritised over top-rated ones
+  const enriched =
+    productSlug && siteId
+      ? await enrichWithPromotions(all, productSlug, siteId)
+      : all;
+
+  const promoted = enriched.filter((b) => b.isFeatured || b.isRecommended);
+  const topRated = enriched
     .filter((b) => !b.isFeatured && !b.isRecommended && b.rating && b.totalReviews > 0)
     .sort((a, b) => {
       const ratingDiff = (b.rating || 0) - (a.rating || 0);
