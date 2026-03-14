@@ -241,14 +241,14 @@ export default function BadgeEmbed({
               ✓
             </span>
             <p className="text-sm font-medium text-green-700">
-              Badge confirmed — 5 bonus quotes earned!
+              Badge confirmed — 3 months of free leads activated!
             </p>
           </div>
         ) : (
           <div>
             <p className="text-sm text-text-light mb-3">
               Once you&apos;ve added the badge to your website, click below to
-              confirm and earn <strong>5 bonus free quotes</strong>.
+              confirm and activate <strong>3 months of free leads</strong>.
             </p>
             <button
               onClick={handleConfirm}
@@ -257,7 +257,7 @@ export default function BadgeEmbed({
             >
               {confirming
                 ? "Confirming..."
-                : "I've Added the Badge — Claim 5 Free Quotes"}
+                : "I've Added the Badge — Activate Free Leads"}
             </button>
           </div>
         )}

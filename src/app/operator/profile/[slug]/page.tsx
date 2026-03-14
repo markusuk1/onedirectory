@@ -122,7 +122,7 @@ export default async function EditProfilePage({
         </h2>
         <p className="text-text-light text-sm mb-5">
           Display a &quot;Listed on {siteConfig.genericName}&quot; badge on your
-          website and earn <strong>5 bonus free quotes</strong>. It takes 2
+          website and get <strong>3 months of free leads</strong>. It takes 2
           minutes and works on any website platform.
         </p>
         <BadgeEmbed
