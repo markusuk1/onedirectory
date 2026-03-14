@@ -9,7 +9,7 @@ import { processAutoQuotes } from "@/lib/auto-quote";
 import { processOperatorOutreach } from "@/lib/operator-outreach";
 import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
 import { validateFields } from "@/lib/formValidation";
-// lead-buy imports kept for future re-enablement
+import { createBuyToken } from "@/lib/lead-buy";
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
@@ -89,6 +89,15 @@ export async function POST(request: NextRequest) {
       ]
     );
     const leadId = leadResult.rows[0].id;
+
+    // Create buy token for operators to purchase this lead
+    let buyToken: string | null = null;
+    if (body.allowDirectContact && body.product) {
+      buyToken = await createBuyToken(leadId, body.product).catch((err) => {
+        console.error("Buy token creation failed:", err);
+        return null;
+      });
+    }
 
     // Send email notification
     if (NOTIFY_EMAIL) {
@@ -328,7 +337,7 @@ export async function POST(request: NextRequest) {
         destination: body.destination,
         journeyType: body.journeyType,
         details: body.details,
-      }).catch((err) => console.error("Operator outreach failed:", err));
+      }, buyToken || undefined).catch((err) => console.error("Operator outreach failed:", err));
     }
 
     return NextResponse.json({ success: true });

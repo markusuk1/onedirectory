@@ -3,6 +3,7 @@ import { initTrackingTables } from "./db-schema";
 import { sendEmail } from "./email";
 import { getSiteConfig } from "./siteConfig";
 import { getAllBusinesses } from "./data";
+import { generateOperatorHash } from "./lead-buy";
 import type { ProductId } from "./productConfig";
 
 const WA_TEMPLATES: Record<string, string> = {
@@ -15,6 +16,7 @@ const WA_TEMPLATES: Record<string, string> = {
   "limo-hire": "lead_limo_hire",
   "plant-hire": "lead_plant_hire",
   "driving-lessons": "lead_driving_lessons",
+  "pest-control": "lead_pest_control",
 };
 
 interface OutreachLead {
@@ -98,7 +100,7 @@ function buildTemplateParams(
     case "limo-hire":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: s(d.pickupLocation || lead.pickup) },
+        { type: "text", text: sanitiseLocation(d.pickupLocation || lead.pickup) },
         { type: "text", text: s(d.occasion) },
         { type: "text", text: s(d.eventDate || lead.date) },
         { type: "text", text: s(d.passengers || lead.passengers) },
@@ -116,14 +118,21 @@ function buildTemplateParams(
         { type: "text", text: sanitiseLocation(d.area) },
         { type: "text", text: s(d.transmission) },
       ];
+    case "pest-control":
+      return [
+        { type: "text", text: operatorName },
+        { type: "text", text: sanitiseLocation(d.location) },
+        { type: "text", text: s(d.pestType) },
+        { type: "text", text: s(d.urgency) },
+      ];
     default:
       // minibus
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: s(lead.pickup) },
-        { type: "text", text: s(lead.destination) },
-        { type: "text", text: s(lead.date) },
-        { type: "text", text: s(lead.passengers) },
+        { type: "text", text: sanitiseLocation(d.pickup || lead.pickup) },
+        { type: "text", text: sanitiseLocation(d.destination || lead.destination) },
+        { type: "text", text: s(d.date || lead.date) },
+        { type: "text", text: s(d.passengers || lead.passengers) },
       ];
   }
 }
@@ -185,7 +194,8 @@ async function sendOperatorEmail(
   lead: OutreachLead,
   operatorName: string,
   siteName: string,
-  domain: string
+  domain: string,
+  buyUrl?: string
 ): Promise<boolean> {
   const d = lead.details || {};
   const productLabels: Record<string, string> = {
@@ -198,6 +208,7 @@ async function sendOperatorEmail(
     "limo-hire": "Limo Hire",
     "plant-hire": "Plant Hire",
     "driving-lessons": "Driving Lessons",
+    "pest-control": "Pest Control",
   };
   const productLabel = productLabels[product] || "Service";
 
@@ -216,52 +227,71 @@ async function sendOperatorEmail(
         <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${sanitiseLocation(d.address)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Skip Size</td><td style="padding:6px 12px">${d.skipSize || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Waste Type</td><td style="padding:6px 12px">${d.wasteType || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Duration</td><td style="padding:6px 12px">${d.duration || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Duration</td><td style="padding:6px 12px">${d.duration || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Placement</td><td style="padding:6px 12px">${d.placement || "\u2014"}</td></tr>`;
       break;
     case "locksmith":
       detailRows = `
         <tr><td style="padding:6px 12px;font-weight:600">Location</td><td style="padding:6px 12px">${sanitiseLocation(d.location)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Service</td><td style="padding:6px 12px">${d.serviceType || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Urgency</td><td style="padding:6px 12px">${d.urgency || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Urgency</td><td style="padding:6px 12px">${d.urgency || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Property</td><td style="padding:6px 12px">${d.propertyType || "\u2014"}</td></tr>`;
       break;
     case "removal-companies":
       detailRows = `
+        <tr><td style="padding:6px 12px;font-weight:600">Move Type</td><td style="padding:6px 12px">${d.moveType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Moving From</td><td style="padding:6px 12px">${sanitiseLocation(d.movingFrom)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Moving To</td><td style="padding:6px 12px">${sanitiseLocation(d.movingTo)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Date</td><td style="padding:6px 12px">${d.moveDate || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Bedrooms</td><td style="padding:6px 12px">${d.bedrooms || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Bedrooms</td><td style="padding:6px 12px">${d.bedrooms || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Packing</td><td style="padding:6px 12px">${d.needPacking || "\u2014"}</td></tr>`;
       break;
     case "bouncy-castle-hire":
       detailRows = `
         <tr><td style="padding:6px 12px;font-weight:600">Venue Area</td><td style="padding:6px 12px">${sanitiseLocation(d.venue)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Event Date</td><td style="padding:6px 12px">${d.eventDate || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Event Type</td><td style="padding:6px 12px">${d.eventType || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Event Type</td><td style="padding:6px 12px">${d.eventType || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Setting</td><td style="padding:6px 12px">${d.indoorOutdoor || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Age Range</td><td style="padding:6px 12px">${d.ageRange || "\u2014"}</td></tr>`;
       break;
     case "limo-hire":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Pickup</td><td style="padding:6px 12px">${d.pickupLocation || lead.pickup || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Pickup</td><td style="padding:6px 12px">${sanitiseLocation(d.pickupLocation || lead.pickup)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Destination</td><td style="padding:6px 12px">${sanitiseLocation(d.destination)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Occasion</td><td style="padding:6px 12px">${d.occasion || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Event Date</td><td style="padding:6px 12px">${d.eventDate || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Passengers</td><td style="padding:6px 12px">${d.passengers || lead.passengers || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Passengers</td><td style="padding:6px 12px">${d.passengers || lead.passengers || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Hours</td><td style="padding:6px 12px">${d.hours || "\u2014"}</td></tr>`;
       break;
     case "plant-hire":
       detailRows = `
         <tr><td style="padding:6px 12px;font-weight:600">Site</td><td style="padding:6px 12px">${sanitiseLocation(d.siteLocation)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Equipment</td><td style="padding:6px 12px">${d.equipmentType || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Operated/Self-Drive</td><td style="padding:6px 12px">${d.operatedOrSelfDrive || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Start Date</td><td style="padding:6px 12px">${d.startDate || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Duration</td><td style="padding:6px 12px">${d.duration || "\u2014"}</td></tr>`;
       break;
     case "driving-lessons":
       detailRows = `
         <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${sanitiseLocation(d.area)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Lesson Type</td><td style="padding:6px 12px">${d.lessonType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Transmission</td><td style="padding:6px 12px">${d.transmission || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Experience</td><td style="padding:6px 12px">${d.experience || "\u2014"}</td></tr>`;
       break;
+    case "pest-control":
+      detailRows = `
+        <tr><td style="padding:6px 12px;font-weight:600">Location</td><td style="padding:6px 12px">${sanitiseLocation(d.location)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Pest Type</td><td style="padding:6px 12px">${d.pestType || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Urgency</td><td style="padding:6px 12px">${d.urgency || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Property</td><td style="padding:6px 12px">${d.propertyType || "\u2014"}</td></tr>`;
+      break;
     default:
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Pickup</td><td style="padding:6px 12px">${lead.pickup || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Destination</td><td style="padding:6px 12px">${lead.destination || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Date</td><td style="padding:6px 12px">${lead.date || "\u2014"}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Passengers</td><td style="padding:6px 12px">${lead.passengers || "\u2014"}</td></tr>`;
+        <tr><td style="padding:6px 12px;font-weight:600">Pickup</td><td style="padding:6px 12px">${sanitiseLocation(d.pickup || lead.pickup)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Destination</td><td style="padding:6px 12px">${sanitiseLocation(d.destination || lead.destination)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Date</td><td style="padding:6px 12px">${d.date || lead.date || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Passengers</td><td style="padding:6px 12px">${d.passengers || lead.passengers || "\u2014"}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Journey Type</td><td style="padding:6px 12px">${d.journeyType || lead.journeyType || "\u2014"}</td></tr>`;
   }
 
   try {
@@ -277,7 +307,13 @@ async function sendOperatorEmail(
           <table style="border-collapse:collapse;width:100%;background:#f9fafb;border-radius:8px">
             ${detailRows}
           </table>
-          <p style="margin:16px 0 8px;color:#444">To provide a quote, reply to this email with your price and availability.</p>
+          ${buyUrl ? `
+          <div style="margin:16px 0;padding:12px 16px;background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px">
+            <p style="margin:0 0 8px;font-weight:600;color:#166534">Interested in this lead?</p>
+            <a href="${buyUrl}" style="display:inline-block;padding:10px 24px;background:#16a34a;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;font-size:14px">View Customer Details — £1</a>
+            <p style="margin:8px 0 0;font-size:12px;color:#666">Or add our badge to your website for 3 months of free leads</p>
+          </div>
+          ` : `<p style="margin:16px 0 8px;color:#444">To provide a quote, reply to this email with your price and availability.</p>`}
           <p style="margin:8px 0 0;color:#999;font-size:13px">\u2014 ${siteName} (${domain})</p>
         </div>
       `,
@@ -295,7 +331,97 @@ interface ContactableOperator {
   phone: string | null;
   mobilePhone: string | null;
   email: string | null;
+  lat: number;
+  lng: number;
   score: number;
+  distanceMiles?: number;
+}
+
+/** Max distance in miles from customer to operator. Operators beyond this are excluded. */
+const MAX_DISTANCE_MILES = 30;
+
+/**
+ * Haversine distance between two lat/lng points in miles.
+ */
+function haversineDistanceMiles(
+  lat1: number,
+  lng1: number,
+  lat2: number,
+  lng2: number
+): number {
+  const R = 3958.8; // Earth radius in miles
+  const toRad = (deg: number) => (deg * Math.PI) / 180;
+  const dLat = toRad(lat2 - lat1);
+  const dLng = toRad(lng2 - lng1);
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+/**
+ * Extract the customer's location string from a lead.
+ * Different products store location in different fields.
+ */
+function getLeadLocation(lead: OutreachLead): string | undefined {
+  const d = lead.details || {};
+  switch (lead.product) {
+    case "van-hire":
+      return d.collectionLocation;
+    case "skip-hire":
+      return d.address;
+    case "locksmith":
+    case "pest-control":
+      return d.location;
+    case "removal-companies":
+      return d.movingFrom;
+    case "bouncy-castle-hire":
+      return d.venue;
+    case "limo-hire":
+      return d.pickupLocation || lead.pickup;
+    case "plant-hire":
+      return d.siteLocation;
+    case "driving-lessons":
+      return d.area;
+    default:
+      // minibus
+      return d.pickup || lead.pickup;
+  }
+}
+
+/**
+ * Extract a UK postcode from a string.
+ */
+function extractPostcode(text: string | undefined | null): string | null {
+  if (!text) return null;
+  const match = text.match(
+    /\b([A-Z]{1,2}\d{1,2}[A-Z]?\s*\d[A-Z]{2})\b/i
+  );
+  return match ? match[1].toUpperCase().replace(/\s+/g, " ") : null;
+}
+
+/**
+ * Geocode a UK postcode using postcodes.io (free, no key needed).
+ * Returns { lat, lng } or null if lookup fails.
+ */
+async function geocodePostcode(
+  postcode: string
+): Promise<{ lat: number; lng: number } | null> {
+  try {
+    const encoded = encodeURIComponent(postcode.replace(/\s+/g, ""));
+    const res = await fetch(
+      `https://api.postcodes.io/postcodes/${encoded}`,
+      { signal: AbortSignal.timeout(5000) }
+    );
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (data?.status === 200 && data.result) {
+      return { lat: data.result.latitude, lng: data.result.longitude };
+    }
+    return null;
+  } catch {
+    return null;
+  }
 }
 
 /** Wix sentry/tracking emails are scraping artifacts, not real contacts */
@@ -386,7 +512,10 @@ function isRelevantBusiness(
   return true;
 }
 
-function findMatchingOperators(product: string): ContactableOperator[] {
+function findMatchingOperators(
+  product: string,
+  customerCoords?: { lat: number; lng: number } | null
+): ContactableOperator[] {
   const businesses = getAllBusinesses(product as ProductId);
   const contactable: ContactableOperator[] = [];
 
@@ -408,16 +537,60 @@ function findMatchingOperators(product: string): ContactableOperator[] {
     if (b.description) score += 1;
     if (b.rating && b.rating > 4) score += 1;
 
-    contactable.push({
+    const op: ContactableOperator = {
       name: b.name,
       slug: b.slug,
       phone: b.phone,
       mobilePhone: isMobile ? b.mobilePhone : null,
       email: realEmail,
+      lat: b.lat,
+      lng: b.lng,
       score,
-    });
+    };
+
+    // Calculate distance if we have customer coordinates
+    if (customerCoords && b.lat && b.lng) {
+      op.distanceMiles = haversineDistanceMiles(
+        customerCoords.lat,
+        customerCoords.lng,
+        b.lat,
+        b.lng
+      );
+    }
+
+    contactable.push(op);
   }
 
+  // If we have customer coordinates, filter by distance and sort by proximity
+  if (customerCoords) {
+    const nearby = contactable.filter(
+      (op) =>
+        op.distanceMiles !== undefined &&
+        op.distanceMiles <= MAX_DISTANCE_MILES
+    );
+
+    if (nearby.length >= 5) {
+      // Enough nearby operators — sort by distance first, then score
+      nearby.sort((a, b) => (a.distanceMiles! - b.distanceMiles!) || (b.score - a.score));
+      return nearby.slice(0, 20);
+    }
+
+    // Fewer than 5 nearby: take all nearby + fill from closest beyond radius
+    // This ensures we always try to contact at least 5 operators
+    const beyond = contactable
+      .filter(
+        (op) =>
+          op.distanceMiles !== undefined &&
+          op.distanceMiles > MAX_DISTANCE_MILES
+      )
+      .sort((a, b) => a.distanceMiles! - b.distanceMiles!);
+
+    const combined = [...nearby, ...beyond.slice(0, 5 - nearby.length)];
+    combined.sort((a, b) => (a.distanceMiles! - b.distanceMiles!) || (b.score - a.score));
+    return combined.slice(0, 20);
+  }
+
+  // No customer coordinates — fall back to score-based ranking
   contactable.sort((a, b) => b.score - a.score);
   return contactable.slice(0, 20);
 }
@@ -427,11 +600,20 @@ function findMatchingOperators(product: string): ContactableOperator[] {
  * Called fire-and-forget from the leads API route.
  */
 export async function processOperatorOutreach(
-  lead: OutreachLead
+  lead: OutreachLead,
+  buyToken?: string
 ): Promise<void> {
   await initTrackingTables();
 
-  const operators = findMatchingOperators(lead.product);
+  // Geocode customer's location for proximity filtering
+  const locationText = getLeadLocation(lead);
+  const postcode = extractPostcode(locationText);
+  let customerCoords: { lat: number; lng: number } | null = null;
+  if (postcode) {
+    customerCoords = await geocodePostcode(postcode);
+  }
+
+  const operators = findMatchingOperators(lead.product, customerCoords);
   if (operators.length === 0) return;
 
   const site = getSiteConfig();
@@ -459,6 +641,7 @@ export async function processOperatorOutreach(
             JSON.stringify({
               slug: op.slug,
               template: WA_TEMPLATES[lead.product],
+              distanceMiles: op.distanceMiles ? Math.round(op.distanceMiles * 10) / 10 : null,
             }),
           ]
         );
@@ -484,13 +667,21 @@ export async function processOperatorOutreach(
 
     if (op.email) {
       try {
+        // Build buy URL for this operator
+        let operatorBuyUrl: string | undefined;
+        if (buyToken) {
+          const opHash = generateOperatorHash(op.email);
+          operatorBuyUrl = `https://${site.domain}/leads/buy/${buyToken}?op=${opHash}`;
+        }
+
         const sent = await sendOperatorEmail(
           op.email,
           lead.product,
           lead,
           op.name,
           site.name,
-          site.domain
+          site.domain,
+          operatorBuyUrl
         );
         await pool.query(
           `INSERT INTO outreach_log (lead_id, channel, operator_email, operator_name, product, metadata)
@@ -501,7 +692,11 @@ export async function processOperatorOutreach(
             op.email,
             op.name,
             lead.product,
-            JSON.stringify({ slug: op.slug, sent }),
+            JSON.stringify({
+              slug: op.slug,
+              sent,
+              distanceMiles: op.distanceMiles ? Math.round(op.distanceMiles * 10) / 10 : null,
+            }),
           ]
         );
         if (sent) contacted++;

@@ -28,12 +28,12 @@ export async function POST(request: Request) {
   if (claim.rows.length === 0)
     return NextResponse.json({ error: "Not authorized" }, { status: 403 });
 
-  // Mark backlink as added (upsert profile row if needed)
+  // Mark backlink as added + record verification date (upsert profile row if needed)
   await pool.query(
-    `INSERT INTO operator_profiles (operator_id, business_slug, product, site, backlink_added)
-     VALUES ($1, $2, $3, $4, true)
+    `INSERT INTO operator_profiles (operator_id, business_slug, product, site, backlink_added, backlink_verified_at)
+     VALUES ($1, $2, $3, $4, true, NOW())
      ON CONFLICT (business_slug, product, site)
-     DO UPDATE SET backlink_added = true, updated_at = NOW()`,
+     DO UPDATE SET backlink_added = true, backlink_verified_at = COALESCE(operator_profiles.backlink_verified_at, NOW()), updated_at = NOW()`,
     [session.user.id, slug, product, site]
   );
 

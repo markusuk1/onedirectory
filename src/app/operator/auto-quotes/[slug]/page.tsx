@@ -100,8 +100,8 @@ export default async function AutoQuotesPage({
             </li>
             <li className="flex items-start gap-2">
               <span className="text-primary font-bold mt-0.5">•</span>
-              <strong>Completely free to use</strong> — we&apos;re building the
-              UK&apos;s best hire directory and want great operators like you on board
+              <strong>Leads are just &pound;1 each</strong> — or add our badge to your
+              website for 3 months of free leads
             </li>
           </ul>
         </div>

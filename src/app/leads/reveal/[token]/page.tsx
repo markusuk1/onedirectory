@@ -1,5 +1,5 @@
-import { notFound } from "next/navigation";
-import { getBuyTokenDetails, recordPurchase } from "@/lib/lead-buy";
+import { notFound, redirect } from "next/navigation";
+import { getBuyTokenDetails, recordPurchase, verifyLeadCheckout, isInBacklinkFreePeriod } from "@/lib/lead-buy";
 import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
 
 export const dynamic = "force-dynamic";
@@ -18,10 +18,29 @@ export default async function RevealLeadPage({
   if (!lead || !lead.allow_direct_contact) notFound();
   if (!op) notFound();
 
+  // Access control: must have paid or have active backlink free period
+  let hasAccess = false;
+
+  // Check 1: Active backlink free period
+  if (lead.business_slug && lead.product) {
+    hasAccess = await isInBacklinkFreePeriod(lead.business_slug, lead.product, lead.site || "northeast");
+  }
+
+  // Check 2: Verified SumUp payment
+  if (!hasAccess) {
+    const { verified } = await verifyLeadCheckout(lead.token_id, op);
+    hasAccess = verified;
+  }
+
+  // No access — redirect to buy page
+  if (!hasAccess) {
+    redirect(`/leads/buy/${token}?op=${op}`);
+  }
+
   const config = PRODUCT_CONFIGS[lead.product as ProductId];
   const productName = config?.shortName ?? lead.product;
 
-  // Record the view (idempotent)
+  // Record the purchase/view (idempotent)
   await recordPurchase(
     lead.token_id,
     lead.lead_id,

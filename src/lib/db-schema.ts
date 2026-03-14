@@ -86,8 +86,26 @@ export async function initOperatorTables() {
     );
 
     ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS backlink_added BOOLEAN DEFAULT false;
+    ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS backlink_verified_at TIMESTAMPTZ;
     ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS landline_phone VARCHAR(50);
     ALTER TABLE operator_profiles ADD COLUMN IF NOT EXISTS mobile_phone VARCHAR(50);
+
+    CREATE TABLE IF NOT EXISTS quote_credit_purchases (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      operator_id UUID REFERENCES operators(id) NOT NULL,
+      business_slug VARCHAR(255) NOT NULL,
+      product VARCHAR(50) NOT NULL,
+      site VARCHAR(50) NOT NULL,
+      credits INTEGER NOT NULL,
+      amount_pence INTEGER NOT NULL,
+      sumup_checkout_id VARCHAR(100),
+      status VARCHAR(20) DEFAULT 'pending',
+      created_at TIMESTAMPTZ DEFAULT NOW(),
+      verified_at TIMESTAMPTZ
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_credit_purchases_biz
+      ON quote_credit_purchases(business_slug, product, site);
   `);
 }
 
@@ -182,6 +200,21 @@ export async function initLeadBuyTables() {
 
     CREATE INDEX IF NOT EXISTS idx_lead_purchases_lead ON lead_purchases(lead_id);
     CREATE INDEX IF NOT EXISTS idx_lead_purchases_operator ON lead_purchases(operator_hash);
+
+    CREATE TABLE IF NOT EXISTS lead_checkouts (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      token_id UUID REFERENCES lead_buy_tokens(id) NOT NULL,
+      operator_hash VARCHAR(20) NOT NULL,
+      sumup_checkout_id VARCHAR(100) NOT NULL,
+      amount_pence INTEGER NOT NULL,
+      status VARCHAR(20) DEFAULT 'pending',
+      created_at TIMESTAMPTZ DEFAULT NOW(),
+      verified_at TIMESTAMPTZ,
+      UNIQUE(token_id, operator_hash)
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_lead_checkouts_token_op
+      ON lead_checkouts(token_id, operator_hash);
   `);
 }
 

@@ -273,7 +273,7 @@ export default async function OperatorDashboard() {
                         q.hasBacklink ? "bg-green-500" : "bg-purple-500"
                       }`}
                     >
-                      {q.hasBacklink ? "✓" : "+5"}
+                      {q.hasBacklink ? "✓" : "FREE"}
                     </span>
                     <div className="flex-1">
                       <p className="text-sm font-medium text-text">
@@ -281,13 +281,13 @@ export default async function OperatorDashboard() {
                       </p>
                       <p className="text-xs text-text-light">
                         {q.hasBacklink
-                          ? "Badge added — 5 bonus quotes earned"
-                          : "Add a \"Listed on\" badge to your site and earn 5 more"}
+                          ? "Badge added — 3 months of free leads activated"
+                          : "Add a \"Listed on\" badge and get 3 months of free leads"}
                       </p>
                     </div>
                     {q.hasBacklink ? (
                       <span className="text-green-600 text-xs font-semibold">
-                        Earned
+                        Active
                       </span>
                     ) : (
                       <Link
@@ -301,7 +301,7 @@ export default async function OperatorDashboard() {
                 </div>
                 <div className="mt-4 pt-3 border-t border-green-200">
                   <p className="text-sm text-text">
-                    <strong>Up to 15 free quotes</strong> — claim your profile and add our badge to unlock the full allowance
+                    Leads cost just <strong>&pound;1 each</strong>. Add our badge to your website for <strong>3 months of free leads</strong>.
                   </p>
                 </div>
               </div>
@@ -358,14 +358,13 @@ export default async function OperatorDashboard() {
               </span>
               <div>
                 <h3 className="font-semibold text-text mb-1">
-                  Completely free to use
+                  Just &pound;1 per lead — or free for 3 months
                 </h3>
                 <p className="text-sm text-text-light leading-relaxed">
-                  Every business automatically gets 5 free quotes with no
-                  sign-up or card required. Claim your profile for 5 more, and
-                  add our badge to your website for another 5 — up to 15 free.
-                  We&apos;re growing the platform and want to help operators win
-                  more business.
+                  When a customer requests a quote, you can view their contact
+                  details for just &pound;1. Or add our badge to your website
+                  and get <strong>3 months of free leads</strong> — no payment
+                  needed during that period.
                 </p>
               </div>
             </div>
@@ -407,13 +406,13 @@ export default async function OperatorDashboard() {
           </details>
           <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
-              How many free quotes do I get?
+              How much do leads cost?
             </summary>
             <p className="px-4 pb-4 text-sm text-text-light leading-relaxed">
-              Every business automatically gets 5 free quotes — no sign-up or
-              payment card needed. We track this for you behind the scenes.
-              Claim your business profile to earn 5 more, and add our badge to
-              your website for another 5 — up to 15 free quotes in total.
+              Leads cost just &pound;1 each — you only pay when you choose to
+              view a customer&apos;s contact details. Or add our badge to your
+              website and get 3 months of free leads. After the free period,
+              it&apos;s back to &pound;1 per lead.
             </p>
           </details>
           <details className="bg-white border border-border rounded-2xl shadow-sm group">
@@ -421,8 +420,10 @@ export default async function OperatorDashboard() {
               Is there a cost to receive quotes?
             </summary>
             <p className="px-4 pb-4 text-sm text-text-light leading-relaxed">
-              No — auto-quotes are completely free. We&apos;re growing the
-              platform and want to help operators win more business at no cost.
+              Auto-quotes are sent to customers on your behalf for free.
+              To view a customer&apos;s contact details when they respond,
+              it&apos;s just &pound;1 per lead. Add our badge to your website
+              for 3 months of free access.
             </p>
           </details>
           <details className="bg-white border border-border rounded-2xl shadow-sm group">
