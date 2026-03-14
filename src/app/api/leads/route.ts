@@ -23,6 +23,31 @@ export async function POST(request: NextRequest) {
     const siteId = getSiteId();
     const site = getSiteConfig();
 
+    // Honeypot — bots fill hidden fields
+    if (body._hp) {
+      return NextResponse.json({ success: true });
+    }
+
+    // Require core fields
+    const name = (body.name || "").trim();
+    const email = (body.email || "").trim();
+    const product = (body.product || "").trim();
+
+    if (!name || !email || !product) {
+      return NextResponse.json(
+        { error: "Missing required fields", fields: { name: !name, email: !email, product: !product } },
+        { status: 400 }
+      );
+    }
+
+    // Basic email format check
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      return NextResponse.json(
+        { error: "Invalid email address" },
+        { status: 400 }
+      );
+    }
+
     // Validate product-specific fields if config defines them
     if (body.product && body.details) {
       const config = PRODUCT_CONFIGS[body.product as ProductId];
