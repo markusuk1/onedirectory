@@ -31,10 +31,16 @@ interface OutreachLead {
   details?: Record<string, string>;
 }
 
-function extractOutwardCode(location: string | undefined | null): string {
+/**
+ * Sanitise location for operator outreach:
+ * - If a full UK postcode is present, extract it (strips street-level detail)
+ * - If no postcode, pass through the original string (town name, area, etc.)
+ * Postcodes identify ~15-20 addresses — safe for quoting, not directly identifiable.
+ */
+function sanitiseLocation(location: string | undefined | null): string {
   if (!location) return "Not specified";
   const match = location.match(
-    /\b([A-Z]{1,2}\d{1,2}[A-Z]?)\s*\d[A-Z]{2}\b/i
+    /\b([A-Z]{1,2}\d{1,2}[A-Z]?\s*\d[A-Z]{2})\b/i
   );
   if (match) return match[1].toUpperCase();
   return location;
@@ -53,7 +59,7 @@ function buildTemplateParams(
     case "van-hire":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.collectionLocation) },
+        { type: "text", text: sanitiseLocation(d.collectionLocation) },
         { type: "text", text: s(d.vanSize) },
         { type: "text", text: s(d.driveType) },
         { type: "text", text: s(d.startDate) },
@@ -61,21 +67,21 @@ function buildTemplateParams(
     case "skip-hire":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.address) },
+        { type: "text", text: sanitiseLocation(d.address) },
         { type: "text", text: s(d.skipSize) },
         { type: "text", text: s(d.duration || lead.date) },
       ];
     case "locksmith":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.location) },
+        { type: "text", text: sanitiseLocation(d.location) },
         { type: "text", text: s(d.serviceType) },
       ];
     case "removal-companies":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.movingFrom) },
-        { type: "text", text: extractOutwardCode(d.movingTo) },
+        { type: "text", text: sanitiseLocation(d.movingFrom) },
+        { type: "text", text: sanitiseLocation(d.movingTo) },
         { type: "text", text: s(d.moveDate || lead.date) },
         {
           type: "text",
@@ -85,7 +91,7 @@ function buildTemplateParams(
     case "bouncy-castle-hire":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.venue) },
+        { type: "text", text: sanitiseLocation(d.venue) },
         { type: "text", text: s(d.eventDate || lead.date) },
         { type: "text", text: s(d.eventType) },
       ];
@@ -100,14 +106,14 @@ function buildTemplateParams(
     case "plant-hire":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.siteLocation) },
+        { type: "text", text: sanitiseLocation(d.siteLocation) },
         { type: "text", text: s(d.equipmentType) },
         { type: "text", text: s(d.duration) },
       ];
     case "driving-lessons":
       return [
         { type: "text", text: operatorName },
-        { type: "text", text: extractOutwardCode(d.area) },
+        { type: "text", text: sanitiseLocation(d.area) },
         { type: "text", text: s(d.transmission) },
       ];
     default:
@@ -199,7 +205,7 @@ async function sendOperatorEmail(
   switch (product) {
     case "van-hire":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Collection</td><td style="padding:6px 12px">${extractOutwardCode(d.collectionLocation)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Collection</td><td style="padding:6px 12px">${sanitiseLocation(d.collectionLocation)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Van Size</td><td style="padding:6px 12px">${d.vanSize || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Drive Type</td><td style="padding:6px 12px">${d.driveType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Start</td><td style="padding:6px 12px">${d.startDate || "\u2014"}</td></tr>
@@ -207,27 +213,27 @@ async function sendOperatorEmail(
       break;
     case "skip-hire":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${extractOutwardCode(d.address)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${sanitiseLocation(d.address)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Skip Size</td><td style="padding:6px 12px">${d.skipSize || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Waste Type</td><td style="padding:6px 12px">${d.wasteType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Duration</td><td style="padding:6px 12px">${d.duration || "\u2014"}</td></tr>`;
       break;
     case "locksmith":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Location</td><td style="padding:6px 12px">${extractOutwardCode(d.location)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Location</td><td style="padding:6px 12px">${sanitiseLocation(d.location)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Service</td><td style="padding:6px 12px">${d.serviceType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Urgency</td><td style="padding:6px 12px">${d.urgency || "\u2014"}</td></tr>`;
       break;
     case "removal-companies":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Moving From</td><td style="padding:6px 12px">${extractOutwardCode(d.movingFrom)}</td></tr>
-        <tr><td style="padding:6px 12px;font-weight:600">Moving To</td><td style="padding:6px 12px">${extractOutwardCode(d.movingTo)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Moving From</td><td style="padding:6px 12px">${sanitiseLocation(d.movingFrom)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Moving To</td><td style="padding:6px 12px">${sanitiseLocation(d.movingTo)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Date</td><td style="padding:6px 12px">${d.moveDate || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Bedrooms</td><td style="padding:6px 12px">${d.bedrooms || "\u2014"}</td></tr>`;
       break;
     case "bouncy-castle-hire":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Venue Area</td><td style="padding:6px 12px">${extractOutwardCode(d.venue)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Venue Area</td><td style="padding:6px 12px">${sanitiseLocation(d.venue)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Event Date</td><td style="padding:6px 12px">${d.eventDate || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Event Type</td><td style="padding:6px 12px">${d.eventType || "\u2014"}</td></tr>`;
       break;
@@ -240,13 +246,13 @@ async function sendOperatorEmail(
       break;
     case "plant-hire":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Site</td><td style="padding:6px 12px">${extractOutwardCode(d.siteLocation)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Site</td><td style="padding:6px 12px">${sanitiseLocation(d.siteLocation)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Equipment</td><td style="padding:6px 12px">${d.equipmentType || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Duration</td><td style="padding:6px 12px">${d.duration || "\u2014"}</td></tr>`;
       break;
     case "driving-lessons":
       detailRows = `
-        <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${extractOutwardCode(d.area)}</td></tr>
+        <tr><td style="padding:6px 12px;font-weight:600">Area</td><td style="padding:6px 12px">${sanitiseLocation(d.area)}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Transmission</td><td style="padding:6px 12px">${d.transmission || "\u2014"}</td></tr>
         <tr><td style="padding:6px 12px;font-weight:600">Experience</td><td style="padding:6px 12px">${d.experience || "\u2014"}</td></tr>`;
       break;
