@@ -215,9 +215,6 @@ export default async function OperatorDashboard() {
                 {q.remaining > 0 ? (
                   <p className="text-sm text-green-700 mb-4">
                     <strong>{q.remaining} quotes remaining</strong>
-                    {q.purchasedCredits > 0 && (
-                      <span className="text-text-light"> ({q.freeTotal - Math.min(q.used, q.freeTotal)} free + {Math.max(0, q.purchasedCredits - Math.max(0, q.used - q.freeTotal))} purchased)</span>
-                    )}
                   </p>
                 ) : (
                   <p className="text-sm text-amber-600 mb-4">
