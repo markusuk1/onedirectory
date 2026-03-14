@@ -570,9 +570,9 @@ function findMatchingOperators(
     );
 
     if (nearby.length >= 5) {
-      // Enough nearby operators — sort by distance first, then score
+      // Return ALL operators within range — more eyes on paid leads = better
       nearby.sort((a, b) => (a.distanceMiles! - b.distanceMiles!) || (b.score - a.score));
-      return nearby.slice(0, 20);
+      return nearby;
     }
 
     // Fewer than 5 nearby: take all nearby + fill from closest beyond radius
@@ -587,12 +587,12 @@ function findMatchingOperators(
 
     const combined = [...nearby, ...beyond.slice(0, 5 - nearby.length)];
     combined.sort((a, b) => (a.distanceMiles! - b.distanceMiles!) || (b.score - a.score));
-    return combined.slice(0, 20);
+    return combined;
   }
 
   // No customer coordinates — fall back to score-based ranking
   contactable.sort((a, b) => b.score - a.score);
-  return contactable.slice(0, 20);
+  return contactable;
 }
 
 /**
