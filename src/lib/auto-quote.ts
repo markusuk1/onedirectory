@@ -2,6 +2,7 @@ import pool from "./db";
 import { initOperatorTables } from "./db-schema";
 import { sendEmail } from "./email";
 import { getSiteConfig } from "./siteConfig";
+// quota import kept for future re-enablement
 
 interface LeadData {
   id?: string;

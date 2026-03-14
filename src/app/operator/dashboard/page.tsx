@@ -214,12 +214,14 @@ export default async function OperatorDashboard() {
                 </div>
                 {q.remaining > 0 ? (
                   <p className="text-sm text-green-700 mb-4">
-                    <strong>{q.remaining} free quotes remaining</strong>
+                    <strong>{q.remaining} quotes remaining</strong>
+                    {q.purchasedCredits > 0 && (
+                      <span className="text-text-light"> ({q.freeTotal - Math.min(q.used, q.freeTotal)} free + {Math.max(0, q.purchasedCredits - Math.max(0, q.used - q.freeTotal))} purchased)</span>
+                    )}
                   </p>
                 ) : (
-                  <p className="text-sm text-red-600 mb-4">
-                    <strong>Free allowance used</strong> — service fee now
-                    applies on accepted quotes
+                  <p className="text-sm text-amber-600 mb-4">
+                    <strong>Free allowance used.</strong> Claim your profile and add our badge to your website to unlock more.
                   </p>
                 )}
                 <div className="space-y-3">
@@ -302,8 +304,7 @@ export default async function OperatorDashboard() {
                 </div>
                 <div className="mt-4 pt-3 border-t border-green-200">
                   <p className="text-sm text-text">
-                    <strong>Up to 15 free quotes</strong> — then our standard
-                    service fee applies on accepted quotes only
+                    <strong>Up to 15 free quotes</strong> — claim your profile and add our badge to unlock the full allowance
                   </p>
                 </div>
               </div>
@@ -360,14 +361,14 @@ export default async function OperatorDashboard() {
               </span>
               <div>
                 <h3 className="font-semibold text-text mb-1">
-                  Your first 5 quotes are free — no sign-up needed
+                  Completely free to use
                 </h3>
                 <p className="text-sm text-text-light leading-relaxed">
                   Every business automatically gets 5 free quotes with no
                   sign-up or card required. Claim your profile for 5 more, and
                   add our badge to your website for another 5 — up to 15 free.
-                  After that, our small service fee applies only on accepted
-                  quotes.
+                  We&apos;re growing the platform and want to help operators win
+                  more business.
                 </p>
               </div>
             </div>
@@ -379,12 +380,12 @@ export default async function OperatorDashboard() {
               </span>
               <div>
                 <h3 className="font-semibold text-text mb-1">
-                  You receive exactly what you quoted
+                  The customer contacts you directly
                 </h3>
                 <p className="text-sm text-text-light leading-relaxed">
-                  Our fee is added on top of your quote, paid by the customer.
-                  You always receive the full amount you quoted — our commission
-                  never comes out of your pocket.
+                  If the customer likes your quote, they get in touch with you
+                  directly. You deal with them on your own terms — we just make
+                  the introduction.
                 </p>
               </div>
             </div>
@@ -415,19 +416,16 @@ export default async function OperatorDashboard() {
               Every business automatically gets 5 free quotes — no sign-up or
               payment card needed. We track this for you behind the scenes.
               Claim your business profile to earn 5 more, and add our badge to
-              your website for another 5 — up to 15 free quotes in total. After
-              that, our standard service fee applies only on accepted quotes.
+              your website for another 5 — up to 15 free quotes in total.
             </p>
           </details>
           <details className="bg-white border border-border rounded-2xl shadow-sm group">
             <summary className="p-4 cursor-pointer font-medium text-text hover:text-primary transition-colors">
-              What is the service fee?
+              Is there a cost to receive quotes?
             </summary>
             <p className="px-4 pb-4 text-sm text-text-light leading-relaxed">
-              After your free quotes are used, we add a small fee (typically
-              10%, capped per product) on top of your quote. The customer pays
-              the combined total. You receive exactly what you quoted — our fee
-              never reduces your earnings.
+              No — auto-quotes are completely free. We&apos;re growing the
+              platform and want to help operators win more business at no cost.
             </p>
           </details>
           <details className="bg-white border border-border rounded-2xl shadow-sm group">

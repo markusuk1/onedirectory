@@ -21,7 +21,7 @@ export default async function RevealLeadPage({
   const config = PRODUCT_CONFIGS[lead.product as ProductId];
   const productName = config?.shortName ?? lead.product;
 
-  // Record the purchase (idempotent)
+  // Record the view (idempotent)
   await recordPurchase(
     lead.token_id,
     lead.lead_id,
@@ -80,7 +80,7 @@ export default async function RevealLeadPage({
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             <div>
-              <h1 className="text-xl font-bold">Lead Purchased</h1>
+              <h1 className="text-xl font-bold">Lead Details</h1>
               <p className="text-green-100 text-sm">{productName} lead</p>
             </div>
           </div>

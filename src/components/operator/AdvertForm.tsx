@@ -270,7 +270,7 @@ export default function AdvertForm({ slug, product, site, adverts }: Props) {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <div className="flex items-start gap-2">
             <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>
-            <p className="text-sm text-text"><strong>Unlimited free quotes</strong> — no service fee while your ad is active</p>
+            <p className="text-sm text-text"><strong>Premium visibility</strong> — your business shown prominently across the site</p>
           </div>
           <div className="flex items-start gap-2">
             <span className="shrink-0 w-5 h-5 rounded-full bg-green-500 text-white text-xs flex items-center justify-center mt-0.5">✓</span>

@@ -83,7 +83,7 @@ export default async function AutoQuotesPage({
         {/* How it works callout */}
         <div className="bg-blue-50 border border-blue-100 rounded-lg p-4 mb-6">
           <h3 className="font-semibold text-text text-sm mb-2">
-            How auto-quotes earn you money
+            How auto-quotes work
           </h3>
           <ul className="text-sm text-text-light space-y-1.5">
             <li className="flex items-start gap-2">
@@ -96,24 +96,14 @@ export default async function AutoQuotesPage({
             </li>
             <li className="flex items-start gap-2">
               <span className="text-primary font-bold mt-0.5">•</span>
-              If the customer accepts your quote and pays, you get the job
+              If the customer likes your quote, they contact you directly
             </li>
             <li className="flex items-start gap-2">
               <span className="text-primary font-bold mt-0.5">•</span>
-              <strong>Your first 5 quotes are free</strong> — no sign-up
-              needed. Earn up to 15 by claiming your profile and adding our
-              badge to your website
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-primary font-bold mt-0.5">•</span>
-              After your free allowance, our small service fee applies only on
-              accepted quotes — you never pay for leads that don&apos;t convert
+              <strong>Completely free to use</strong> — we&apos;re building the
+              UK&apos;s best hire directory and want great operators like you on board
             </li>
           </ul>
-          <p className="text-xs text-text-light mt-3">
-            You receive exactly what you quote. Our fee is added on top and paid
-            by the customer — it never comes out of your pocket.
-          </p>
         </div>
 
         <AutoQuoteConfig

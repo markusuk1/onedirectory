@@ -9,7 +9,7 @@ import { processAutoQuotes } from "@/lib/auto-quote";
 import { processOperatorOutreach } from "@/lib/operator-outreach";
 import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
 import { validateFields } from "@/lib/formValidation";
-import { createBuyToken, getLeadPrice } from "@/lib/lead-buy";
+// lead-buy imports kept for future re-enablement
 
 const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "";
 
@@ -89,16 +89,6 @@ export async function POST(request: NextRequest) {
       ]
     );
     const leadId = leadResult.rows[0].id;
-
-    // Generate buy token if customer opted in to direct contact
-    let buyToken: string | null = null;
-    if (body.allowDirectContact && body.product) {
-      try {
-        buyToken = await createBuyToken(leadId, body.product);
-      } catch (err) {
-        console.error("Buy token generation failed:", err);
-      }
-    }
 
     // Send email notification
     if (NOTIFY_EMAIL) {
@@ -241,21 +231,6 @@ export async function POST(request: NextRequest) {
         }
       }
 
-      // Buy lead section for admin email
-      let buySection = "";
-      if (buyToken) {
-        const { priceFormatted } = getLeadPrice(body.product);
-        const buyUrl = `https://${site.domain}/leads/buy/${buyToken}`;
-        buySection = `
-            <div style="margin:16px 0;padding:12px;background:#fef9c3;border:1px solid #fde68a;border-radius:8px">
-              <p style="margin:0 0 4px;font-weight:600;color:#92400e">Buy Lead Available — ${priceFormatted}</p>
-              <p style="margin:0 0 8px;font-size:13px;color:#555">Customer opted in to direct contact via: ${(body.contactMethods || []).join(", ")}</p>
-              <p style="margin:0;font-size:13px;color:#555">Send this link to operators:</p>
-              <a href="${buyUrl}" style="display:inline-block;margin-top:8px;font-size:13px;color:#92400e;word-break:break-all">${buyUrl}</a>
-            </div>
-          `;
-      }
-
       // Admin notification
       await sendEmail({
         from: fromAddress,
@@ -274,7 +249,6 @@ export async function POST(request: NextRequest) {
             ${body.message ? `<tr><td style="padding:4px 8px;font-weight:600">Message</td><td style="padding:4px 8px">${body.message}</td></tr>` : ""}
           </table>
           ${claimSection}
-          ${buySection}
         `,
       }).catch((err: unknown) => console.error("Email notification failed:", err));
 
