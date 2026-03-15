@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Emergency Locksmith in ${r.mainCity} & ${r.theName}`,
       intro: `Being locked out of your home, car or business is stressful. Knowing what to do and who to call makes all the difference. This guide covers everything you need to know about emergency locksmith services in ${r.theName}, from what to expect to how much it should cost.`,
       sections: [
+        ...(r.insights?.locksmith ? [{
+          heading: `Locksmiths in ${r.theName}: Local Market Insights`,
+          content: r.insights.locksmith,
+        }] : []),
         {
           heading: "What to Do If You Are Locked Out",
           content: `First, stay calm and check all doors and windows in case one is unlocked. Check with neighbours or family members who may have a spare key. If you rent, contact your landlord or letting agent as they usually hold a spare. If none of these options work, you will need an emergency locksmith. In ${r.theName}, most emergency locksmiths can reach you within 30-60 minutes, and many operate around the clock. Avoid trying to force entry yourself as this often causes more expensive damage to the lock or door.`,

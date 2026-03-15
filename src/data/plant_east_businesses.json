@@ -1,27 +1,5 @@
 [
   {
-    "name": "Construction Training Services",
-    "address": "Construction Training Services, Pipps Park, Needham Market, Ipswich, IP6 8TR, GB",
-    "phone": "01473 970152",
-    "international_phone": "01473 970152",
-    "website": "https://www.constructiontrainingservices.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Construction+Training+Services/data=!4m7!3m6!1s0x47d9a177b7dddae7:0xbd3d3d897b15e7f!8m2!3d52.1439656!4d1.0804108!16s%2Fg%2F11gl5ylmw_!19sChIJ59rdt3eh2UcRf16xl9jT0ws?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 119,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Training provider",
-    "lat": 52.143966,
-    "lng": 1.080411,
-    "found_in_location": "Ipswich",
-    "found_with_query": "plant east",
-    "email": "info@constructiontrainingservices.com",
-    "emails": [
-      "info@constructiontrainingservices.com"
-    ],
-    "description": "We are a CITB ATO approved training provider based in Suffolk. NPORS & CPCS plant training courses in construction, agriculture, demolition, utility, waste & recycling"
-  },
-  {
     "name": "Source UK Hire & Sales",
     "address": "Unit 1, Brooklands Farm, Broughton Grounds Ln, Broughton, Milton Keynes, MK16 0HY, GB",
     "phone": "01908 921007",
@@ -327,6 +305,23 @@
     ]
   },
   {
+    "name": "Adams Mini Dig Service",
+    "address": "66 Rayleigh Dr, Southend-on-Sea, Leigh-on-Sea, SS9 4JE, GB",
+    "phone": "07931 486276",
+    "international_phone": "07931 486276",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Adams+Mini+Dig+Service/data=!4m7!3m6!1s0x47d8dbd2cf0b0bfd:0xb2a1542496d3ab21!8m2!3d51.553802!4d0.6528058!16s%2Fg%2F1vtqvc9d!19sChIJ_QsLz9Lb2EcRIavTliRUobI?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 20,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–8 pm\"],\"Monday\":[\"7 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"7 am–8 pm\"],\"Thursday\":[\"7 am–8 pm\"],\"Tuesday\":[\"7 am–8 pm\"],\"Wednesday\":[\"7 am–8 pm\"]}",
+    "types": "Excavating contractor",
+    "lat": 51.553802,
+    "lng": 0.652806,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east"
+  },
+  {
     "name": "Dedham Vale Cherry Picker Hire",
     "address": "4, 96 Brook St, Colchester, CO1 2UZ, GB",
     "phone": "07756 811098",
@@ -352,41 +347,26 @@
     ]
   },
   {
-    "name": "Adams Mini Dig Service",
-    "address": "66 Rayleigh Dr, Southend-on-Sea, Leigh-on-Sea, SS9 4JE, GB",
-    "phone": "07931 486276",
-    "international_phone": "07931 486276",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Adams+Mini+Dig+Service/data=!4m7!3m6!1s0x47d8dbd2cf0b0bfd:0xb2a1542496d3ab21!8m2!3d51.553802!4d0.6528058!16s%2Fg%2F1vtqvc9d!19sChIJ_QsLz9Lb2EcRIavTliRUobI?authuser=0&hl=en&rclk=1",
+    "name": "Dudley Plant Hire Ltd.",
+    "address": "84A Station Rd, Woburn Sands, Milton Keynes, MK17 8SB, GB",
+    "phone": "01908 583373",
+    "international_phone": "01908 583373",
+    "website": "http://dudleyplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Dudley+Plant+Hire+Ltd./data=!4m7!3m6!1s0x4876534a68b817e7:0xc57e3d4b7dd88759!8m2!3d52.0161649!4d-0.6501797!16s%2Fg%2F1tf074nl!19sChIJ5xe4aEpTdkgRWYfYfUs9fsU?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 20,
+    "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–8 pm\"],\"Monday\":[\"7 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"7 am–8 pm\"],\"Thursday\":[\"7 am–8 pm\"],\"Tuesday\":[\"7 am–8 pm\"],\"Wednesday\":[\"7 am–8 pm\"]}",
-    "types": "Excavating contractor",
-    "lat": 51.553802,
-    "lng": 0.652806,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Blakes Self Loading Vehicles Ltd",
-    "address": "Wensum Lodge, Taverham Ln, Costessey, Norwich, NR8 5BE, GB",
-    "phone": "01603 746645",
-    "international_phone": "01603 746645",
-    "website": "http://www.blakes-slv.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Blakes+Self+Loading+Vehicles+Ltd/data=!4m7!3m6!1s0x47d9e073d0d6778b:0xd5abb9c4253524b!8m2!3d52.6756727!4d1.1943616!16s%2Fg%2F1vxz8w_7!19sChIJi3fW0HPg2UcRS1JTQpy7Wg0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 20,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Trucking company",
-    "lat": 52.675673,
-    "lng": 1.194362,
-    "found_in_location": "Norwich",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.016165,
+    "lng": -0.65018,
+    "found_in_location": "Bedford",
     "found_with_query": "plant east",
-    "description": "Reliable, efficient heavy transport backed by specialist HIAB capability. Whether it’s machinery, plant, or oversized loads, we provide safe, precise lifting and delivery across Norwich, Norfolk and the wider UK",
+    "description": "Whatever your requirements, we have the plant, transport, containers and more to make sure your industrial project runs smoothly. Call 01908 583373",
     "services": [
-      "Forklift"
+      "Dumper",
+      "Excavator",
+      "Roller"
     ]
   },
   {
@@ -414,29 +394,6 @@
       "Breaker",
       "Compactor",
       "Dumper"
-    ]
-  },
-  {
-    "name": "Dudley Plant Hire Ltd.",
-    "address": "84A Station Rd, Woburn Sands, Milton Keynes, MK17 8SB, GB",
-    "phone": "01908 583373",
-    "international_phone": "01908 583373",
-    "website": "http://dudleyplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Dudley+Plant+Hire+Ltd./data=!4m7!3m6!1s0x4876534a68b817e7:0xc57e3d4b7dd88759!8m2!3d52.0161649!4d-0.6501797!16s%2Fg%2F1tf074nl!19sChIJ5xe4aEpTdkgRWYfYfUs9fsU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.016165,
-    "lng": -0.65018,
-    "found_in_location": "Bedford",
-    "found_with_query": "plant east",
-    "description": "Whatever your requirements, we have the plant, transport, containers and more to make sure your industrial project runs smoothly. Call 01908 583373",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Roller"
     ]
   },
   {
@@ -561,31 +518,6 @@
     "description": "All machines are available for hire with or without operators, for long or short-term hire. All our operators are CPCS or CSCS Certified. We operate under CPA and RHA."
   },
   {
-    "name": "GENERAL CONSTRUCTION EQUIPMENT HIRE FLEET LTD",
-    "address": "37 Aaron Rd Industrial Est, Station Rd, Whittlesey, Peterborough, PE7 2EX, GB",
-    "phone": "01733 202969",
-    "international_phone": "01733 202969",
-    "website": "https://www.gcehirefleet.com/",
-    "google_maps_url": "https://www.google.com/maps/place/GENERAL+CONSTRUCTION+EQUIPMENT+HIRE+FLEET+LTD/data=!4m7!3m6!1s0x4877fb441cbab559:0x8d9ad6074b8870d2!8m2!3d52.5487707!4d-0.1126364!16s%2Fg%2F1tyzyhkt!19sChIJWbW6HET7d0gR0nCISwfWmo0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.548771,
-    "lng": -0.112636,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east",
-    "email": "sales@gcehirefleet.com",
-    "emails": [
-      "sales@gcehirefleet.com"
-    ],
-    "description": "We provide a wide range of premium quality new & used plant and construction equipment for hire nationwide and sale globally.",
-    "services": [
-      "Roller"
-    ]
-  },
-  {
     "name": "A&J TOPSOIL SUPPLIERS & MAN & DIGGER HIRE",
     "address": "Pattens Yard, Nayland Rd, Colchester, CO6 3DG, GB",
     "phone": "07722 965770",
@@ -609,6 +541,31 @@
     "services": [
       "Breaker",
       "Dumper"
+    ]
+  },
+  {
+    "name": "GENERAL CONSTRUCTION EQUIPMENT HIRE FLEET LTD",
+    "address": "37 Aaron Rd Industrial Est, Station Rd, Whittlesey, Peterborough, PE7 2EX, GB",
+    "phone": "01733 202969",
+    "international_phone": "01733 202969",
+    "website": "https://www.gcehirefleet.com/",
+    "google_maps_url": "https://www.google.com/maps/place/GENERAL+CONSTRUCTION+EQUIPMENT+HIRE+FLEET+LTD/data=!4m7!3m6!1s0x4877fb441cbab559:0x8d9ad6074b8870d2!8m2!3d52.5487707!4d-0.1126364!16s%2Fg%2F1tyzyhkt!19sChIJWbW6HET7d0gR0nCISwfWmo0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 11,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.548771,
+    "lng": -0.112636,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east",
+    "email": "sales@gcehirefleet.com",
+    "emails": [
+      "sales@gcehirefleet.com"
+    ],
+    "description": "We provide a wide range of premium quality new & used plant and construction equipment for hire nationwide and sale globally.",
+    "services": [
+      "Roller"
     ]
   },
   {
@@ -656,6 +613,28 @@
     ]
   },
   {
+    "name": "LV Plant Hire And Sales Ltd",
+    "address": "Station Rd, Thorney, Peterborough, PE6 0QE, GB",
+    "phone": "07934 978723",
+    "international_phone": "07934 978723",
+    "website": "http://www.lvplanthireandsales.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/LV+Plant+Hire+And+Sales+Ltd/data=!4m7!3m6!1s0x6ba48858b13ecf95:0x1ef567aa660cfb5a!8m2!3d52.6287158!4d-0.1100611!16s%2Fg%2F11s3ckm3_t!19sChIJlc8-sViIpGsRWvsMZqpn9R4?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 10,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.628716,
+    "lng": -0.110061,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east",
+    "description": "Sign up for our email list for updates, promotions, and more.",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
+  },
+  {
     "name": "Norfolk Plant Services",
     "address": "Little Edgewood, Norwich Rd, Reepham, Norwich, NR10 4NR, GB",
     "phone": "07899 777214",
@@ -677,28 +656,6 @@
     ],
     "description": "Norfolk Plant Services offers expert groundwork and plant hire across Norfolk. Fast, safe, and reliable for commercial and domestic jobs.",
     "services": [
-      "Excavator"
-    ]
-  },
-  {
-    "name": "LV Plant Hire And Sales Ltd",
-    "address": "Station Rd, Thorney, Peterborough, PE6 0QE, GB",
-    "phone": "07934 978723",
-    "international_phone": "07934 978723",
-    "website": "http://www.lvplanthireandsales.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/LV+Plant+Hire+And+Sales+Ltd/data=!4m7!3m6!1s0x6ba48858b13ecf95:0x1ef567aa660cfb5a!8m2!3d52.6287158!4d-0.1100611!16s%2Fg%2F11s3ckm3_t!19sChIJlc8-sViIpGsRWvsMZqpn9R4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.628716,
-    "lng": -0.110061,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east",
-    "description": "Sign up for our email list for updates, promotions, and more.",
-    "services": [
-      "Dumper",
       "Excavator"
     ]
   },
@@ -758,31 +715,21 @@
     ]
   },
   {
-    "name": "Whitnell Plant",
-    "address": "School Farm Buildings, School Rd, Langham, Colchester, CO4 5PB, GB",
-    "phone": "01206 272834",
-    "international_phone": "01206 272834",
-    "website": "http://www.whitnell.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Whitnell+Plant/data=!4m7!3m6!1s0x47d906111dd0b617:0x548302b3cc63fc18!8m2!3d51.947217!4d0.94605!16s%2Fg%2F1hbpwqw0h!19sChIJF7bQHREG2UcRGPxjzLMCg1Q?authuser=0&hl=en&rclk=1",
+    "name": "MMK Plant Hire",
+    "address": "27 Eccles Rd, Holt, NR25 6FN, GB",
+    "phone": "01263 710651",
+    "international_phone": "01263 710651",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/MMK+Plant+Hire/data=!4m7!3m6!1s0x47d76f69ff0052bd:0x99df5936b7a6682!8m2!3d52.9086403!4d1.0941774!16s%2Fg%2F11j0cvmf1f!19sChIJvVIA_2lv10cRgmZ6a5P1nQk?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:20 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 51.947217,
-    "lng": 0.94605,
-    "found_in_location": "Colchester",
-    "found_with_query": "plant east",
-    "email": "info@whitnell.co.uk",
-    "emails": [
-      "info@whitnell.co.uk"
-    ],
-    "description": "Whitnells Contracts Ltd, Plant Hire Earth Moving Contractors, Equipment For Hire, Excavators, Dump Trucks, Dozer, Tracked Dumpers And Rollers",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Roller"
-    ]
+    "lat": 52.90864,
+    "lng": 1.094177,
+    "found_in_location": "Norwich",
+    "found_with_query": "plant east"
   },
   {
     "name": "Sky High Access Ltd",
@@ -810,21 +757,59 @@
     ]
   },
   {
-    "name": "MMK Plant Hire",
-    "address": "27 Eccles Rd, Holt, NR25 6FN, GB",
-    "phone": "01263 710651",
-    "international_phone": "01263 710651",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/MMK+Plant+Hire/data=!4m7!3m6!1s0x47d76f69ff0052bd:0x99df5936b7a6682!8m2!3d52.9086403!4d1.0941774!16s%2Fg%2F11j0cvmf1f!19sChIJvVIA_2lv10cRgmZ6a5P1nQk?authuser=0&hl=en&rclk=1",
+    "name": "Whitnell Plant",
+    "address": "School Farm Buildings, School Rd, Langham, Colchester, CO4 5PB, GB",
+    "phone": "01206 272834",
+    "international_phone": "01206 272834",
+    "website": "http://www.whitnell.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Whitnell+Plant/data=!4m7!3m6!1s0x47d906111dd0b617:0x548302b3cc63fc18!8m2!3d51.947217!4d0.94605!16s%2Fg%2F1hbpwqw0h!19sChIJF7bQHREG2UcRGPxjzLMCg1Q?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:20 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 52.90864,
-    "lng": 1.094177,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east"
+    "lat": 51.947217,
+    "lng": 0.94605,
+    "found_in_location": "Colchester",
+    "found_with_query": "plant east",
+    "email": "info@whitnell.co.uk",
+    "emails": [
+      "info@whitnell.co.uk"
+    ],
+    "description": "Whitnells Contracts Ltd, Plant Hire Earth Moving Contractors, Equipment For Hire, Excavators, Dump Trucks, Dozer, Tracked Dumpers And Rollers",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "HG Plant Sales",
+    "address": "Unit, 10A, The Grainstore, Witham Rd, Langford, Maldon, CM9 4ST, GB",
+    "phone": "01245 231165",
+    "international_phone": "01245 231165",
+    "website": "http://www.hgplantsales.com/",
+    "google_maps_url": "https://www.google.com/maps/place/HG+Plant+Sales/data=!4m7!3m6!1s0x47d892b6fef894a9:0x659c83924d72c380!8m2!3d51.7518015!4d0.6606172!16s%2Fg%2F1tctl14b!19sChIJqZT4_raS2EcRgMNyTZKDnGU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 8,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Construction equipment supplier",
+    "lat": 51.751801,
+    "lng": 0.660617,
+    "found_in_location": "Chelmsford",
+    "found_with_query": "plant east",
+    "description": "Opening times: Monday - Friday 8am - 5pm and Saturday by appointment.",
+    "services": [
+      "Breaker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Huws Gray Plant & Tool Hire Norwich, Barker Street",
@@ -931,34 +916,6 @@
     "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
-    "name": "HG Plant Sales",
-    "address": "Unit, 10A, The Grainstore, Witham Rd, Langford, Maldon, CM9 4ST, GB",
-    "phone": "01245 231165",
-    "international_phone": "01245 231165",
-    "website": "http://www.hgplantsales.com/",
-    "google_maps_url": "https://www.google.com/maps/place/HG+Plant+Sales/data=!4m7!3m6!1s0x47d892b6fef894a9:0x659c83924d72c380!8m2!3d51.7518015!4d0.6606172!16s%2Fg%2F1tctl14b!19sChIJqZT4_raS2EcRgMNyTZKDnGU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Construction equipment supplier",
-    "lat": 51.751801,
-    "lng": 0.660617,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east",
-    "description": "Opening times: Monday - Friday 8am - 5pm and Saturday by appointment.",
-    "services": [
-      "Breaker",
-      "Compressor",
-      "Dumper",
-      "Excavator",
-      "Generator",
-      "Mini Digger",
-      "Roller",
-      "Skid Steer"
-    ]
-  },
-  {
     "name": "Eastern Structures",
     "address": "Cliff Road Dock Estate, Ipswich, IP3 0AX, GB",
     "phone": "01473 215888",
@@ -979,6 +936,53 @@
       "info@easternstructures.co.uk"
     ],
     "description": "Since the company’s inception in 1973, Eastern Structures has steadily and consistently built a reputation for providing quality workmanship backed by an enviable level of knowledge and expertise."
+  },
+  {
+    "name": "Downham Plant & Tool Hire",
+    "address": "Horseshoe Farm, The Row, King's Lynn, PE33 9RH, GB",
+    "phone": "07775 745742",
+    "international_phone": "07775 745742",
+    "website": "http://www.downhamplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Downham+Plant+%26+Tool+Hire/data=!4m7!3m6!1s0x47d81f57655bf5ad:0xd203cdbc48d426a0!8m2!3d52.5893734!4d0.4489679!16s%2Fg%2F11k9dbt4r9!19sChIJrfVbZVcf2EcRoCbUSLzNA9I?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.589373,
+    "lng": 0.448968,
+    "found_in_location": "Kings Lynn",
+    "found_with_query": "plant east",
+    "email": "garyjrobinson@hotmail.co.uk",
+    "emails": [
+      "garyjrobinson@hotmail.co.uk"
+    ],
+    "description": "Downham Plant & Tool Hire - Specialist Dumper & Digger Hire in Kings Lynn - 07775 745 742 | garyjrobinson@hotmail.co.uk",
+    "services": [
+      "Breaker",
+      "Compactor",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "Fen Plant Hire & Aggregates Ltd",
+    "address": "15, Aaron Road Industrial Estate, St Aaron Rd, Whittlesey, Whittlesey, PE7 2EX, GB",
+    "phone": "01733 204757",
+    "international_phone": "01733 204757",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Fen+Plant+Hire+%26+Aggregates+Ltd/data=!4m7!3m6!1s0x4877fb440a005555:0x1a8911d2bc6aaa42!8m2!3d52.5477655!4d-0.1146899!16s%2Fg%2F11cmtwhj14!19sChIJVVUACkT7d0gRQqpqvNIRiRo?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Logistics service",
+    "lat": 52.547765,
+    "lng": -0.11469,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east"
   },
   {
     "name": "H. E. Services (Plant Hire) Ltd - Cambridge Depot",
@@ -1013,78 +1017,29 @@
     ]
   },
   {
-    "name": "Fen Plant Hire & Aggregates Ltd",
-    "address": "15, Aaron Road Industrial Estate, St Aaron Rd, Whittlesey, Whittlesey, PE7 2EX, GB",
-    "phone": "01733 204757",
-    "international_phone": "01733 204757",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Fen+Plant+Hire+%26+Aggregates+Ltd/data=!4m7!3m6!1s0x4877fb440a005555:0x1a8911d2bc6aaa42!8m2!3d52.5477655!4d-0.1146899!16s%2Fg%2F11cmtwhj14!19sChIJVVUACkT7d0gRQqpqvNIRiRo?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Logistics service",
-    "lat": 52.547765,
-    "lng": -0.11469,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Downham Plant & Tool Hire",
-    "address": "Horseshoe Farm, The Row, King's Lynn, PE33 9RH, GB",
-    "phone": "07775 745742",
-    "international_phone": "07775 745742",
-    "website": "http://www.downhamplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Downham+Plant+%26+Tool+Hire/data=!4m7!3m6!1s0x47d81f57655bf5ad:0xd203cdbc48d426a0!8m2!3d52.5893734!4d0.4489679!16s%2Fg%2F11k9dbt4r9!19sChIJrfVbZVcf2EcRoCbUSLzNA9I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.589373,
-    "lng": 0.448968,
-    "found_in_location": "Kings Lynn",
-    "found_with_query": "plant east",
-    "email": "garyjrobinson@hotmail.co.uk",
-    "emails": [
-      "garyjrobinson@hotmail.co.uk"
-    ],
-    "description": "Downham Plant & Tool Hire - Specialist Dumper & Digger Hire in Kings Lynn - 07775 745 742 | garyjrobinson@hotmail.co.uk",
-    "services": [
-      "Breaker",
-      "Compactor",
-      "Dumper",
-      "Excavator",
-      "Generator",
-      "Roller"
-    ]
-  },
-  {
-    "name": "TMR Mini Digger & Driver Hire Luton",
-    "address": "16 Eldon Rd, Luton, LU4 0AU, GB",
-    "phone": "07734 924948",
-    "international_phone": "07734 924948",
-    "website": "https://minidiggerluton.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/TMR+Mini+Digger+%26+Driver+Hire+Luton/data=!4m7!3m6!1s0x487649b959d857dd:0x51acd9b98a47d7c9!8m2!3d51.891935!4d-0.472767!16s%2Fg%2F11kjn9yg0k!19sChIJ3VfYWblJdkgRyddHirnZrFE?authuser=0&hl=en&rclk=1",
+    "name": "Bennington Plant Ltd Earthmoving Contractor",
+    "address": "Severalls Rd, Methwold Hythe, Thetford, IP26 4QU, GB",
+    "phone": "01366 727016",
+    "international_phone": "01366 727016",
+    "website": "http://www.benningtonplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bennington+Plant+Ltd+Earthmoving+Contractor/data=!4m7!3m6!1s0x47d824b5b1a37493:0x2731b030a0655d53!8m2!3d52.5339682!4d0.511753!16s%2Fg%2F11bbrcgh62!19sChIJk3SjsbUk2EcRU11loDCwMSc?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.891935,
-    "lng": -0.472767,
-    "found_in_location": "Luton",
+    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
+    "types": "Earth works company",
+    "lat": 52.533968,
+    "lng": 0.511753,
+    "found_in_location": "Thetford",
     "found_with_query": "plant east",
-    "email": "info@minidiggerluton.co.uk",
+    "email": "info@benningtonplanthire.co.uk",
     "emails": [
-      "info@minidiggerluton.co.uk",
-      "john@gmail.com"
+      "info@benningtonplanthire.co.uk"
     ],
-    "description": "We are Bedfordshire-based, family-run business with years of experience in groundwork and excavation. We offer a range of diggers and attachments for both domestic and commercial projects.",
+    "description": "Bennington plant Ltd are a specialist Earthmoving contractor, providing a professional and reliable service nationwide, contact us today.",
     "services": [
-      "Breaker",
       "Dumper",
-      "Mini Digger"
+      "Excavator"
     ]
   },
   {
@@ -1209,32 +1164,6 @@
     "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
-    "name": "Bennington Plant Ltd Earthmoving Contractor",
-    "address": "Severalls Rd, Methwold Hythe, Thetford, IP26 4QU, GB",
-    "phone": "01366 727016",
-    "international_phone": "01366 727016",
-    "website": "http://www.benningtonplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bennington+Plant+Ltd+Earthmoving+Contractor/data=!4m7!3m6!1s0x47d824b5b1a37493:0x2731b030a0655d53!8m2!3d52.5339682!4d0.511753!16s%2Fg%2F11bbrcgh62!19sChIJk3SjsbUk2EcRU11loDCwMSc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–6 pm\"],\"Monday\":[\"7:30 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–6 pm\"],\"Tuesday\":[\"7:30 am–6 pm\"],\"Wednesday\":[\"7:30 am–6 pm\"]}",
-    "types": "Earth works company",
-    "lat": 52.533968,
-    "lng": 0.511753,
-    "found_in_location": "Thetford",
-    "found_with_query": "plant east",
-    "email": "info@benningtonplanthire.co.uk",
-    "emails": [
-      "info@benningtonplanthire.co.uk"
-    ],
-    "description": "Bennington plant Ltd are a specialist Earthmoving contractor, providing a professional and reliable service nationwide, contact us today.",
-    "services": [
-      "Dumper",
-      "Excavator"
-    ]
-  },
-  {
     "name": "J A Deeks Plant Hire",
     "address": "Blue Doors Farm, Newmarket, CB8 9HS, GB",
     "phone": "07889 237340",
@@ -1252,45 +1181,31 @@
     "found_with_query": "plant east"
   },
   {
-    "name": "hirehub tool hire Norwich",
-    "address": "*, Plantation Dr, Norwich, NR7 8LT, GB",
-    "phone": "07352 911160",
-    "international_phone": "07352 911160",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/hirehub+tool+hire+Norwich/data=!4m7!3m6!1s0xa8ca266521d239e1:0x33479053a8a9a601!8m2!3d52.6534771!4d1.3361222!16s%2Fg%2F11xdwz7wjm!19sChIJ4TnSIWUmyqgRAaapqFOQRzM?authuser=0&hl=en&rclk=1",
+    "name": "TMR Mini Digger & Driver Hire Luton",
+    "address": "16 Eldon Rd, Luton, LU4 0AU, GB",
+    "phone": "07734 924948",
+    "international_phone": "07734 924948",
+    "website": "https://minidiggerluton.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/TMR+Mini+Digger+%26+Driver+Hire+Luton/data=!4m7!3m6!1s0x487649b959d857dd:0x51acd9b98a47d7c9!8m2!3d51.891935!4d-0.472767!16s%2Fg%2F11kjn9yg0k!19sChIJ3VfYWblJdkgRyddHirnZrFE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 4,
+    "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Tool rental service",
-    "lat": 52.653477,
-    "lng": 1.336122,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Vertically Challenged Ltd",
-    "address": "Mary Ln S, Honeypot, CO7 7UD, GB",
-    "phone": "07429 626689",
-    "international_phone": "07429 626689",
-    "website": "http://vclcherrypicker.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Vertically+Challenged+Ltd/data=!4m7!3m6!1s0x47d9056b1e5019b3:0x13cf90ac12dad4aa!8m2!3d51.8845354!4d1.0431866!16s%2Fg%2F11n60rqt0x!19sChIJsxlQHmsF2UcRqtTaEqyQzxM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Property maintenance",
-    "lat": 51.884535,
-    "lng": 1.043187,
-    "found_in_location": "Colchester",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.891935,
+    "lng": -0.472767,
+    "found_in_location": "Luton",
     "found_with_query": "plant east",
-    "email": "vertically.challenged.info@gmail.com",
+    "email": "info@minidiggerluton.co.uk",
     "emails": [
-      "vertically.challenged.info@gmail.com"
+      "info@minidiggerluton.co.uk",
+      "john@gmail.com"
     ],
-    "description": "Vertically Challenged LTD, is an access and maintenance company, with our own 17-meter narrow tracked spider platform, to carry out safe tasks at height, access platform, cherry picker, property maintenance, gutter cleaning,",
+    "description": "We are Bedfordshire-based, family-run business with years of experience in groundwork and excavation. We offer a range of diggers and attachments for both domestic and commercial projects.",
     "services": [
-      "Cherry Picker"
+      "Breaker",
+      "Dumper",
+      "Mini Digger"
     ]
   },
   {
@@ -1398,20 +1313,45 @@
     "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
-    "name": "TTL Hire -Material Lifts & Access",
-    "address": "Castle Hill Rd, Totternhoe, Dunstable, LU6 1RG, GB",
-    "phone": "07886 779233",
-    "international_phone": "07886 779233",
-    "website": "http://www.ttlhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/TTL+Hire+-Material+Lifts+%26+Access/data=!4m7!3m6!1s0x48764fbd777dc9a1:0x7876960229c5b8a8!8m2!3d51.8822698!4d-0.5637159!16s%2Fg%2F11kpjh1sr6!19sChIJocl9d71PdkgRqLjFKQKWdng?authuser=0&hl=en&rclk=1",
+    "name": "Vertically Challenged Ltd",
+    "address": "Mary Ln S, Honeypot, CO7 7UD, GB",
+    "phone": "07429 626689",
+    "international_phone": "07429 626689",
+    "website": "http://vclcherrypicker.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Vertically+Challenged+Ltd/data=!4m7!3m6!1s0x47d9056b1e5019b3:0x13cf90ac12dad4aa!8m2!3d51.8845354!4d1.0431866!16s%2Fg%2F11n60rqt0x!19sChIJsxlQHmsF2UcRqtTaEqyQzxM?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 3,
+    "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"10 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.88227,
-    "lng": -0.563716,
-    "found_in_location": "Luton",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Property maintenance",
+    "lat": 51.884535,
+    "lng": 1.043187,
+    "found_in_location": "Colchester",
+    "found_with_query": "plant east",
+    "email": "vertically.challenged.info@gmail.com",
+    "emails": [
+      "vertically.challenged.info@gmail.com"
+    ],
+    "description": "Vertically Challenged LTD, is an access and maintenance company, with our own 17-meter narrow tracked spider platform, to carry out safe tasks at height, access platform, cherry picker, property maintenance, gutter cleaning,",
+    "services": [
+      "Cherry Picker"
+    ]
+  },
+  {
+    "name": "hirehub tool hire Norwich",
+    "address": "*, Plantation Dr, Norwich, NR7 8LT, GB",
+    "phone": "07352 911160",
+    "international_phone": "07352 911160",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/hirehub+tool+hire+Norwich/data=!4m7!3m6!1s0xa8ca266521d239e1:0x33479053a8a9a601!8m2!3d52.6534771!4d1.3361222!16s%2Fg%2F11xdwz7wjm!19sChIJ4TnSIWUmyqgRAaapqFOQRzM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Tool rental service",
+    "lat": 52.653477,
+    "lng": 1.336122,
+    "found_in_location": "Norwich",
     "found_with_query": "plant east"
   },
   {
@@ -1445,25 +1385,30 @@
     ]
   },
   {
-    "name": "Spanton Plant Hire",
-    "address": "34A Mill Rd, Hethersett, Norwich, NR9 3DP, GB",
-    "phone": "01603 819088",
-    "international_phone": "01603 819088",
-    "website": "https://spantonplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Spanton+Plant+Hire/data=!4m7!3m6!1s0x47d9ddefc1afb173:0xd33d05f39c5fc60b!8m2!3d52.5993914!4d1.1703538!16s%2Fg%2F1hc1grq3z!19sChIJc7Gvwe_d2UcRC8ZfnPMFPdM?authuser=0&hl=en&rclk=1",
+    "name": "D Driver & Son Ltd",
+    "address": "FARMHOUSE GRAYS, Maldon Rd, Hatfield Peverel, Chelmsford, CM3 2JP, GB",
+    "phone": "01245 381844",
+    "international_phone": "01245 381844",
+    "website": "http://ddriverandson.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/D+Driver+%26+Son+Ltd/data=!4m7!3m6!1s0x47d8e43acca82f5d:0x81df63486bfce49!8m2!3d51.7643699!4d0.6211482!16s%2Fg%2F1hc6gnll8!19sChIJXS-ozDrk2EcRSc6_hjT2HQg?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Farm",
-    "lat": 52.599391,
-    "lng": 1.170354,
-    "found_in_location": "Norwich",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.76437,
+    "lng": 0.621148,
+    "found_in_location": "Chelmsford",
     "found_with_query": "plant east",
-    "description": "Mike Spanton Plant Hire Contractor offers a professional, experienced plant hire service specialising in groundworks, covering Norwich and surrounding area",
+    "email": "driverdiggers@btinternet.com",
+    "emails": [
+      "driverdiggers@btinternet.com"
+    ],
+    "description": "D Driver & Son Ltd are a highly regarded firm based in Chelmsford and serving clients within a 50-mile radius. Call us today for more information.",
     "services": [
+      "Dumper",
       "Excavator",
-      "Roller"
+      "Mini Digger"
     ]
   },
   {
@@ -1492,57 +1437,6 @@
       "Dumper",
       "Excavator"
     ]
-  },
-  {
-    "name": "D Driver & Son Ltd",
-    "address": "FARMHOUSE GRAYS, Maldon Rd, Hatfield Peverel, Chelmsford, CM3 2JP, GB",
-    "phone": "01245 381844",
-    "international_phone": "01245 381844",
-    "website": "http://ddriverandson.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/D+Driver+%26+Son+Ltd/data=!4m7!3m6!1s0x47d8e43acca82f5d:0x81df63486bfce49!8m2!3d51.7643699!4d0.6211482!16s%2Fg%2F1hc6gnll8!19sChIJXS-ozDrk2EcRSc6_hjT2HQg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.76437,
-    "lng": 0.621148,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east",
-    "email": "driverdiggers@btinternet.com",
-    "emails": [
-      "driverdiggers@btinternet.com"
-    ],
-    "description": "D Driver & Son Ltd are a highly regarded firm based in Chelmsford and serving clients within a 50-mile radius. Call us today for more information.",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger"
-    ]
-  },
-  {
-    "name": "T&M Plant Hire LTD",
-    "address": "Slate Hall Farm Cottages, Huntingdon Rd, Bar Hill, Oakington, Cambridge, CB23 8HB, GB",
-    "phone": "01293 774500",
-    "international_phone": "01293 774500",
-    "website": "http://www.bowser-hire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/T%26M+Plant+Hire+LTD/data=!4m7!3m6!1s0x47d877fb632a60ed:0x79e1b324ec4d61c1!8m2!3d52.254864!4d0.0401168!16s%2Fg%2F11v3t2kb2q!19sChIJ7WAqY_t32EcRwWFN7CSz4Xk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
-    "types": "Association / Organization",
-    "lat": 52.254864,
-    "lng": 0.040117,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east",
-    "email": "info@tmplant.co.uk",
-    "emails": [
-      "info@tmplant.co.uk",
-      "iso@tmplant.co.uk",
-      "safety@tmplant.co.uk"
-    ],
-    "description": "We are T&M Plant Hire. We have the UK's largest fleet of adapted, engineered bowsers that help you deliver projects – on time, on spec. and on budget."
   },
   {
     "name": "Meldreth Plant Hire",
@@ -1580,38 +1474,214 @@
     "description": "we are undergoing maintenance, new website coming soon!"
   },
   {
-    "name": "Professional Plant Services",
-    "address": "UNIT 2, 6 Bilton Way, Luton, LU1 1UU, GB",
-    "phone": "01279 793325",
-    "international_phone": "01279 793325",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Professional+Plant+Services/data=!4m7!3m6!1s0x47d89e8b0433d0e9:0x5bdc426c87965189!8m2!3d51.8846026!4d-0.4499654!16s%2Fg%2F11byp82j2b!19sChIJ6dAzBIue2EcRiVGWh2xC3Fs?authuser=0&hl=en&rclk=1",
+    "name": "Spanton Plant Hire",
+    "address": "34A Mill Rd, Hethersett, Norwich, NR9 3DP, GB",
+    "phone": "01603 819088",
+    "international_phone": "01603 819088",
+    "website": "https://spantonplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Spanton+Plant+Hire/data=!4m7!3m6!1s0x47d9ddefc1afb173:0xd33d05f39c5fc60b!8m2!3d52.5993914!4d1.1703538!16s%2Fg%2F1hc1grq3z!19sChIJc7Gvwe_d2UcRC8ZfnPMFPdM?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "opening_hours": "{}",
+    "types": "Farm",
+    "lat": 52.599391,
+    "lng": 1.170354,
+    "found_in_location": "Norwich",
+    "found_with_query": "plant east",
+    "description": "Mike Spanton Plant Hire Contractor offers a professional, experienced plant hire service specialising in groundworks, covering Norwich and surrounding area",
+    "services": [
+      "Excavator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "T&M Plant Hire LTD",
+    "address": "Slate Hall Farm Cottages, Huntingdon Rd, Bar Hill, Oakington, Cambridge, CB23 8HB, GB",
+    "phone": "01293 774500",
+    "international_phone": "01293 774500",
+    "website": "http://www.bowser-hire.com/",
+    "google_maps_url": "https://www.google.com/maps/place/T%26M+Plant+Hire+LTD/data=!4m7!3m6!1s0x47d877fb632a60ed:0x79e1b324ec4d61c1!8m2!3d52.254864!4d0.0401168!16s%2Fg%2F11v3t2kb2q!19sChIJ7WAqY_t32EcRwWFN7CSz4Xk?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
+    "types": "Association / Organization",
+    "lat": 52.254864,
+    "lng": 0.040117,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east",
+    "email": "info@tmplant.co.uk",
+    "emails": [
+      "info@tmplant.co.uk",
+      "iso@tmplant.co.uk",
+      "safety@tmplant.co.uk"
+    ],
+    "description": "We are T&M Plant Hire. We have the UK's largest fleet of adapted, engineered bowsers that help you deliver projects – on time, on spec. and on budget."
+  },
+  {
+    "name": "TTL Hire -Material Lifts & Access",
+    "address": "Castle Hill Rd, Totternhoe, Dunstable, LU6 1RG, GB",
+    "phone": "07886 779233",
+    "international_phone": "07886 779233",
+    "website": "http://www.ttlhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/TTL+Hire+-Material+Lifts+%26+Access/data=!4m7!3m6!1s0x48764fbd777dc9a1:0x7876960229c5b8a8!8m2!3d51.8822698!4d-0.5637159!16s%2Fg%2F11kpjh1sr6!19sChIJocl9d71PdkgRqLjFKQKWdng?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"10 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 51.884603,
-    "lng": -0.449965,
+    "lat": 51.88227,
+    "lng": -0.563716,
     "found_in_location": "Luton",
     "found_with_query": "plant east"
   },
   {
-    "name": "Rumsby & Son Plant Hire",
-    "address": "The Lodge, Horsford, Hainford, Norwich, NR10 3AQ, GB",
-    "phone": "01603 425031",
-    "international_phone": "01603 425031",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Rumsby+%26+Son+Plant+Hire/data=!4m7!3m6!1s0x47d758c815f78f9f:0x6e7f80117b56ec5d!8m2!3d52.7181139!4d1.3012716!16s%2Fg%2F1hc9x17w7!19sChIJn4_3FchY10cRXexWexGAf24?authuser=0&hl=en&rclk=1",
+    "name": "Agricultural Plant Hire Limited (APH Ltd)",
+    "address": "Wisbech Rd, Coates, Friday Bridge, Peterborough, PE7 2DU, GB",
+    "phone": "01733 840691",
+    "international_phone": "01733 840691",
+    "website": "http://www.aphltd.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Agricultural+Plant+Hire+Limited+%28APH+Ltd%29/data=!4m7!3m6!1s0x47d8077dcb50a5ad:0x751df0df67cb41de!8m2!3d52.586604!4d-0.003607!16s%2Fg%2F1vcjlhmn!19sChIJraVQy30H2EcR3kHLZ9_wHXU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
+    "types": "Farm equipment supplier",
+    "lat": 52.586604,
+    "lng": -0.003607,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east",
+    "email": "info@aphltd.co.uk",
+    "emails": [
+      "info@aphltd.co.uk"
+    ],
+    "description": "Established in 1974 APH Ltd are commited to high standards of machinery and service support."
+  },
+  {
+    "name": "C R H Plant",
+    "address": "Bluebridge Industrial Estate, Second Avenue, Halstead, Essex, CO9 2SU, GB",
+    "phone": "01787 472338",
+    "international_phone": "01787 472338",
+    "website": "http://www.crhplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/C+R+H+Plant/data=!4m7!3m6!1s0x47d8f9599a25e835:0x9abb2f50f4e34454!8m2!3d51.939511!4d0.65643!16s%2Fg%2F11bzzxv6cy!19sChIJNeglmln52EcRVETj9FAvu5o?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 52.718114,
-    "lng": 1.301272,
-    "found_in_location": "Norwich",
+    "lat": 51.939511,
+    "lng": 0.65643,
+    "found_in_location": "Braintree",
+    "found_with_query": "plant east",
+    "email": "evesham@crhplant.co.uk",
+    "emails": [
+      "evesham@crhplant.co.uk"
+    ],
+    "description": "Cotswold Roller Hire was founded in 1965, since then we have grown to a nationwide supplier of non-operated plant.",
+    "services": [
+      "Roller"
+    ]
+  },
+  {
+    "name": "Clappits Plant Ltd",
+    "address": "Clappits Farm/Woodbridge Rd, Woodbridge, IP12 4PA, GB",
+    "phone": "01473 736733",
+    "international_phone": "01473 736733",
+    "website": "http://www.clappitsplant.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Clappits+Plant+Ltd/data=!4m7!3m6!1s0x47d99d089a46fa63:0x94b288dae679e0!8m2!3d52.0454927!4d1.3124375!16s%2Fg%2F11b6j0dd2l!19sChIJY_pGmgid2UcR4Hnm2oiylAA?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Recycling Centre",
+    "lat": 52.045493,
+    "lng": 1.312437,
+    "found_in_location": "Ipswich",
+    "found_with_query": "plant east",
+    "email": "richard@clappitsplant.co.uk",
+    "emails": [
+      "richard@clappitsplant.co.uk"
+    ],
+    "description": "grab hire, muck away, crushed concrete, operated plant hire and earthworks for the Ipswich and surrounding are.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
+  },
+  {
+    "name": "Diggerworx (Digger and Driver Hire Essex)",
+    "address": "Hill Farm, Stanbrook, Thaxted, Dunmow, CM6 2NG, GB",
+    "phone": "07503 665514",
+    "international_phone": "07503 665514",
+    "website": "http://www.diggerworx.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Diggerworx+%28Digger+and+Driver+Hire+Essex%29/data=!4m7!3m6!1s0x47d88be1666960a3:0xa10c5a76f025fe95!8m2!3d51.9435105!4d0.3268258!16s%2Fg%2F11gy3mvq7r!19sChIJo2BpZuGL2EcRlf4l8HZaDKE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.94351,
+    "lng": 0.326826,
+    "found_in_location": "Braintree",
+    "found_with_query": "plant east",
+    "email": "info@diggerworx.co.uk",
+    "emails": [
+      "info@diggerworx.co.uk"
+    ],
+    "description": "Diggerworx is a family run company based in Essex, we have over 25 years experience in the demolition & groundworks industry. We offer an extensive range of diggers",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
+  },
+  {
+    "name": "Gorilla Access Hire",
+    "address": "Saxon House, 27 Duke St, Chelmsford, CM1 1HT, GB",
+    "phone": "01245 967082",
+    "international_phone": "01245 967082",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Gorilla+Access+Hire/data=!4m7!3m6!1s0x47d8eb35798507ab:0xa52c82aec80bd6c8!8m2!3d51.7363236!4d0.4694259!16s%2Fg%2F11hkr4czlb!19sChIJqweFeTXr2EcRyNYLyK6CLKU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
+    "types": "Construction machine rental service",
+    "lat": 51.736324,
+    "lng": 0.469426,
+    "found_in_location": "Chelmsford",
     "found_with_query": "plant east"
+  },
+  {
+    "name": "KTHire",
+    "address": "Unit 15 Rosshill Industrial Park, Southend-on-Sea, SS2 5PZ, GB",
+    "phone": "01702 466353",
+    "international_phone": "01702 466353",
+    "website": "http://www.getyourdigger.com/",
+    "google_maps_url": "https://www.google.com/maps/place/KTHire/data=!4m7!3m6!1s0x47d8d9a219532b4f:0x533a24f79ef03f95!8m2!3d51.5572753!4d0.7181377!16s%2Fg%2F11j2chc44j!19sChIJTytTGaLZ2EcRlT_wnvckOlM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.557275,
+    "lng": 0.718138,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east",
+    "email": "hires@getyourdigger.com",
+    "emails": [
+      "hires@getyourdigger.com"
+    ],
+    "description": "For plant and tool hire in Southend-on-Sea and across Essex, look no further than Kursaal Plant Hire Ltd. We've been a trusted local name since 1982.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Scissor Lift",
+      "Skid Steer"
+    ]
   },
   {
     "name": "MH Services & Hire",
@@ -1657,87 +1727,6 @@
     "found_with_query": "plant east"
   },
   {
-    "name": "C R H Plant",
-    "address": "Bluebridge Industrial Estate, Second Avenue, Halstead, Essex, CO9 2SU, GB",
-    "phone": "01787 472338",
-    "international_phone": "01787 472338",
-    "website": "http://www.crhplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/C+R+H+Plant/data=!4m7!3m6!1s0x47d8f9599a25e835:0x9abb2f50f4e34454!8m2!3d51.939511!4d0.65643!16s%2Fg%2F11bzzxv6cy!19sChIJNeglmln52EcRVETj9FAvu5o?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 51.939511,
-    "lng": 0.65643,
-    "found_in_location": "Braintree",
-    "found_with_query": "plant east",
-    "email": "evesham@crhplant.co.uk",
-    "emails": [
-      "evesham@crhplant.co.uk"
-    ],
-    "description": "Cotswold Roller Hire was founded in 1965, since then we have grown to a nationwide supplier of non-operated plant.",
-    "services": [
-      "Roller"
-    ]
-  },
-  {
-    "name": "Diggerworx (Digger and Driver Hire Essex)",
-    "address": "Hill Farm, Stanbrook, Thaxted, Dunmow, CM6 2NG, GB",
-    "phone": "07503 665514",
-    "international_phone": "07503 665514",
-    "website": "http://www.diggerworx.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Diggerworx+%28Digger+and+Driver+Hire+Essex%29/data=!4m7!3m6!1s0x47d88be1666960a3:0xa10c5a76f025fe95!8m2!3d51.9435105!4d0.3268258!16s%2Fg%2F11gy3mvq7r!19sChIJo2BpZuGL2EcRlf4l8HZaDKE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.94351,
-    "lng": 0.326826,
-    "found_in_location": "Braintree",
-    "found_with_query": "plant east",
-    "email": "info@diggerworx.co.uk",
-    "emails": [
-      "info@diggerworx.co.uk"
-    ],
-    "description": "Diggerworx is a family run company based in Essex, we have over 25 years experience in the demolition & groundworks industry. We offer an extensive range of diggers",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger"
-    ]
-  },
-  {
-    "name": "KTHire",
-    "address": "Unit 15 Rosshill Industrial Park, Southend-on-Sea, SS2 5PZ, GB",
-    "phone": "01702 466353",
-    "international_phone": "01702 466353",
-    "website": "http://www.getyourdigger.com/",
-    "google_maps_url": "https://www.google.com/maps/place/KTHire/data=!4m7!3m6!1s0x47d8d9a219532b4f:0x533a24f79ef03f95!8m2!3d51.5572753!4d0.7181377!16s%2Fg%2F11j2chc44j!19sChIJTytTGaLZ2EcRlT_wnvckOlM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.557275,
-    "lng": 0.718138,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east",
-    "email": "hires@getyourdigger.com",
-    "emails": [
-      "hires@getyourdigger.com"
-    ],
-    "description": "For plant and tool hire in Southend-on-Sea and across Essex, look no further than Kursaal Plant Hire Ltd. We've been a trusted local name since 1982.",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger",
-      "Scissor Lift",
-      "Skid Steer"
-    ]
-  },
-  {
     "name": "North Norfolk Digger Hire Ltd",
     "address": "20 Church Cl, Antingham, North Walsham, NR28 0NN, GB",
     "phone": "01263 663533",
@@ -1755,19 +1744,36 @@
     "found_with_query": "plant east"
   },
   {
-    "name": "Sunbelt Rentals Power",
-    "address": "Unit A Oldhall Rd, Norwich, NR4 6ES, GB",
-    "phone": "01603 250928",
-    "international_phone": "01603 250928",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/norwich-old-hall-road/?utm_source=google&utm_medium=Yext&utm_campaign=268&y_source=1_MjI0OTM5NTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Power/data=!4m7!3m6!1s0x47d9e7a3690de321:0x4ef9e001e7df3569!8m2!3d52.5993064!4d1.2780897!16s%2Fg%2F11gjs98snm!19sChIJIeMNaaPn2UcRaTXf5wHg-U4?authuser=0&hl=en&rclk=1",
+    "name": "Professional Plant Services",
+    "address": "UNIT 2, 6 Bilton Way, Luton, LU1 1UU, GB",
+    "phone": "01279 793325",
+    "international_phone": "01279 793325",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Professional+Plant+Services/data=!4m7!3m6!1s0x47d89e8b0433d0e9:0x5bdc426c87965189!8m2!3d51.8846026!4d-0.4499654!16s%2Fg%2F11byp82j2b!19sChIJ6dAzBIue2EcRiVGWh2xC3Fs?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Electrician",
-    "lat": 52.599306,
-    "lng": 1.27809,
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.884603,
+    "lng": -0.449965,
+    "found_in_location": "Luton",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Rumsby & Son Plant Hire",
+    "address": "The Lodge, Horsford, Hainford, Norwich, NR10 3AQ, GB",
+    "phone": "01603 425031",
+    "international_phone": "01603 425031",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rumsby+%26+Son+Plant+Hire/data=!4m7!3m6!1s0x47d758c815f78f9f:0x6e7f80117b56ec5d!8m2!3d52.7181139!4d1.3012716!16s%2Fg%2F1hc9x17w7!19sChIJn4_3FchY10cRXexWexGAf24?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 52.718114,
+    "lng": 1.301272,
     "found_in_location": "Norwich",
     "found_with_query": "plant east"
   },
@@ -1797,70 +1803,29 @@
     ]
   },
   {
-    "name": "Clappits Plant Ltd",
-    "address": "Clappits Farm/Woodbridge Rd, Woodbridge, IP12 4PA, GB",
-    "phone": "01473 736733",
-    "international_phone": "01473 736733",
-    "website": "http://www.clappitsplant.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Clappits+Plant+Ltd/data=!4m7!3m6!1s0x47d99d089a46fa63:0x94b288dae679e0!8m2!3d52.0454927!4d1.3124375!16s%2Fg%2F11b6j0dd2l!19sChIJY_pGmgid2UcR4Hnm2oiylAA?authuser=0&hl=en&rclk=1",
+    "name": "A Bothwell Plant Hire",
+    "address": "11 King St, Somersham, Huntingdon, PE28 3EJ, GB",
+    "phone": "07941 187527",
+    "international_phone": "07941 187527",
+    "website": "http://www.abothwellplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/A+Bothwell+Plant+Hire/data=!4m7!3m6!1s0x4877e021b992c7b5:0x16d895b4dbaa4668!8m2!3d52.3845742!4d-0.0034713!16s%2Fg%2F1hc4ssp1j!19sChIJtceSuSHgd0gRaEaq27SV2BY?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Recycling Centre",
-    "lat": 52.045493,
-    "lng": 1.312437,
-    "found_in_location": "Ipswich",
+    "opening_hours": "{\"Friday\":[\"6 am–6 pm\"],\"Monday\":[\"6 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–6 pm\"],\"Tuesday\":[\"6 am–6 pm\"],\"Wednesday\":[\"6 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.384574,
+    "lng": -0.003471,
+    "found_in_location": "Huntingdon",
     "found_with_query": "plant east",
-    "email": "richard@clappitsplant.co.uk",
+    "email": "andrewbothwell@aol.com",
     "emails": [
-      "richard@clappitsplant.co.uk"
+      "andrewbothwell@aol.com"
     ],
-    "description": "grab hire, muck away, crushed concrete, operated plant hire and earthworks for the Ipswich and surrounding are.",
+    "description": "Established in 1994, and with over 30 years operating plant, we have built up a reputation throughout Cambridgeshire for our experience in a wide variety of work we undertake.",
     "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger"
+      "Excavator"
     ]
-  },
-  {
-    "name": "Agricultural Plant Hire Limited (APH Ltd)",
-    "address": "Wisbech Rd, Coates, Friday Bridge, Peterborough, PE7 2DU, GB",
-    "phone": "01733 840691",
-    "international_phone": "01733 840691",
-    "website": "http://www.aphltd.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Agricultural+Plant+Hire+Limited+%28APH+Ltd%29/data=!4m7!3m6!1s0x47d8077dcb50a5ad:0x751df0df67cb41de!8m2!3d52.586604!4d-0.003607!16s%2Fg%2F1vcjlhmn!19sChIJraVQy30H2EcR3kHLZ9_wHXU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Farm equipment supplier",
-    "lat": 52.586604,
-    "lng": -0.003607,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east",
-    "email": "info@aphltd.co.uk",
-    "emails": [
-      "info@aphltd.co.uk"
-    ],
-    "description": "Established in 1974 APH Ltd are commited to high standards of machinery and service support."
-  },
-  {
-    "name": "Gorilla Access Hire",
-    "address": "Saxon House, 27 Duke St, Chelmsford, CM1 1HT, GB",
-    "phone": "01245 967082",
-    "international_phone": "01245 967082",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Gorilla+Access+Hire/data=!4m7!3m6!1s0x47d8eb35798507ab:0xa52c82aec80bd6c8!8m2!3d51.7363236!4d0.4694259!16s%2Fg%2F11hkr4czlb!19sChIJqweFeTXr2EcRyNYLyK6CLKU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
-    "types": "Construction machine rental service",
-    "lat": 51.736324,
-    "lng": 0.469426,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east"
   },
   {
     "name": "ACM plant",
@@ -1878,6 +1843,96 @@
     "lng": 1.084247,
     "found_in_location": "Norwich",
     "found_with_query": "plant east"
+  },
+  {
+    "name": "Arches Plant Hire",
+    "address": "72 Chitts Hill, Colchester, CO3 9SX, GB",
+    "phone": "01206 574896",
+    "international_phone": "01206 574896",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arches+Plant+Hire/data=!4m7!3m6!1s0x47d90384aede430b:0xa4e4e39ab30e5f0e!8m2!3d51.8971652!4d0.8522331!16s%2Fg%2F1v46zmb9!19sChIJC0PeroQD2UcRDl8Os5rj5KQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 51.897165,
+    "lng": 0.852233,
+    "found_in_location": "Colchester",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Cherry Picker Hire Suffolk",
+    "address": "Ixworth Rd, Norton, Bury Saint Edmunds, IP31 3LE, GB",
+    "phone": "07801 270582",
+    "international_phone": "07801 270582",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Suffolk/data=!4m7!3m6!1s0x47d9b3d9a93e10cd:0x81df5d4541f83521!8m2!3d52.2572675!4d0.864568!16s%2Fg%2F11mscgs9ct!19sChIJzRA-qdmz2UcRITX4QUVd34E?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 52.257267,
+    "lng": 0.864568,
+    "found_in_location": "Bury St Edmunds",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Colmer Plant Hire",
+    "address": "Colmer Plant Hire Ltd Units 2, 3 & 4 Copyhold Farm, Blackmore Rd, Blackmore, Ingatestone, CM4 0JR, GB",
+    "phone": "01277 811001",
+    "international_phone": "01277 811001",
+    "website": "http://www.colmerplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Colmer+Plant+Hire/data=!4m7!3m6!1s0x47d8b9236cc793b5:0xb1da3563e0e7243f!8m2!3d51.687845!4d0.308532!16s%2Fg%2F1tgvcxbd!19sChIJtZPHbCO52EcRPyTn4GM12rE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.687845,
+    "lng": 0.308532,
+    "found_in_location": "Chelmsford",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Essex cherrypicker hire",
+    "address": "5 thames drive, Leigh-on-Sea, SS9 2XQ, GB",
+    "phone": "07442 747060",
+    "international_phone": "07442 747060",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Essex+cherrypicker+hire/data=!4m7!3m6!1s0x47d8d92acd385ebf:0xbb33924adc6dac3a!8m2!3d51.5704494!4d0.6836036!16s%2Fg%2F11gjhbnj9h!19sChIJv144zSrZ2EcROqxt3EqSM7s?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.570449,
+    "lng": 0.683604,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "FDS (Cambridge) Ltd",
+    "address": "ELY, GB",
+    "phone": "",
+    "international_phone": "",
+    "website": "http://www.fdscambridgeltd.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/FDS+%28Cambridge%29+Ltd/data=!4m7!3m6!1s0x47d86d00599a137f:0x18b7ad58453167e3!8m2!3d52.360624!4d0.2335618!16s%2Fg%2F11vq3tbg9g!19sChIJfxOaWQBt2EcR42cxRVittxg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"7 am–5 pm\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Construction Company",
+    "lat": 52.360624,
+    "lng": 0.233562,
+    "found_in_location": "Newmarket",
+    "found_with_query": "plant east",
+    "email": "fdssales@outlook.com",
+    "emails": [
+      "fdssales@outlook.com"
+    ],
+    "description": "Welcome to FDS (Cambridge) Ltd. We are a family run Haulage, Plant Hire and Aggregate supplier based near Ely in Cambridgeshire, Covering the whole of the region and beyond with our services. We have a range of vehicles and plant for hire on both self drive under CPA Hire Rules or with our skilled o"
   },
   {
     "name": "Marwood Group Ltd",
@@ -1906,23 +1961,6 @@
     ]
   },
   {
-    "name": "Arches Plant Hire",
-    "address": "72 Chitts Hill, Colchester, CO3 9SX, GB",
-    "phone": "01206 574896",
-    "international_phone": "01206 574896",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Arches+Plant+Hire/data=!4m7!3m6!1s0x47d90384aede430b:0xa4e4e39ab30e5f0e!8m2!3d51.8971652!4d0.8522331!16s%2Fg%2F1v46zmb9!19sChIJC0PeroQD2UcRDl8Os5rj5KQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 51.897165,
-    "lng": 0.852233,
-    "found_in_location": "Colchester",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "R & C Plant Services Ltd",
     "address": "218A Old Heath Rd, Colchester, CO2 8AU, GB",
     "phone": "07775 793363",
@@ -1946,23 +1984,6 @@
     ]
   },
   {
-    "name": "Colmer Plant Hire",
-    "address": "Colmer Plant Hire Ltd Units 2, 3 & 4 Copyhold Farm, Blackmore Rd, Blackmore, Ingatestone, CM4 0JR, GB",
-    "phone": "01277 811001",
-    "international_phone": "01277 811001",
-    "website": "http://www.colmerplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Colmer+Plant+Hire/data=!4m7!3m6!1s0x47d8b9236cc793b5:0xb1da3563e0e7243f!8m2!3d51.687845!4d0.308532!16s%2Fg%2F1tgvcxbd!19sChIJtZPHbCO52EcRPyTn4GM12rE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.687845,
-    "lng": 0.308532,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "Three 60 Hire",
     "address": "Yard 8 Ashtree Farm, Boyton Cross, Chelmsford, CM1 4LP, GB",
     "phone": "01245 249321",
@@ -1977,23 +1998,6 @@
     "lat": 51.755975,
     "lng": 0.391425,
     "found_in_location": "Chelmsford",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Essex cherrypicker hire",
-    "address": "5 thames drive, Leigh-on-Sea, SS9 2XQ, GB",
-    "phone": "07442 747060",
-    "international_phone": "07442 747060",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Essex+cherrypicker+hire/data=!4m7!3m6!1s0x47d8d92acd385ebf:0xbb33924adc6dac3a!8m2!3d51.5704494!4d0.6836036!16s%2Fg%2F11gjhbnj9h!19sChIJv144zSrZ2EcROqxt3EqSM7s?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.570449,
-    "lng": 0.683604,
-    "found_in_location": "Southend-on-Sea",
     "found_with_query": "plant east"
   },
   {
@@ -2012,53 +2016,6 @@
     "lng": 0.751774,
     "found_in_location": "Colchester",
     "found_with_query": "plant east"
-  },
-  {
-    "name": "A Bothwell Plant Hire",
-    "address": "11 King St, Somersham, Huntingdon, PE28 3EJ, GB",
-    "phone": "07941 187527",
-    "international_phone": "07941 187527",
-    "website": "http://www.abothwellplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A+Bothwell+Plant+Hire/data=!4m7!3m6!1s0x4877e021b992c7b5:0x16d895b4dbaa4668!8m2!3d52.3845742!4d-0.0034713!16s%2Fg%2F1hc4ssp1j!19sChIJtceSuSHgd0gRaEaq27SV2BY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6 am–6 pm\"],\"Monday\":[\"6 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–6 pm\"],\"Tuesday\":[\"6 am–6 pm\"],\"Wednesday\":[\"6 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.384574,
-    "lng": -0.003471,
-    "found_in_location": "Huntingdon",
-    "found_with_query": "plant east",
-    "email": "andrewbothwell@aol.com",
-    "emails": [
-      "andrewbothwell@aol.com"
-    ],
-    "description": "Established in 1994, and with over 30 years operating plant, we have built up a reputation throughout Cambridgeshire for our experience in a wide variety of work we undertake.",
-    "services": [
-      "Excavator"
-    ]
-  },
-  {
-    "name": "FDS (Cambridge) Ltd",
-    "address": "ELY, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "http://www.fdscambridgeltd.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/FDS+%28Cambridge%29+Ltd/data=!4m7!3m6!1s0x47d86d00599a137f:0x18b7ad58453167e3!8m2!3d52.360624!4d0.2335618!16s%2Fg%2F11vq3tbg9g!19sChIJfxOaWQBt2EcR42cxRVittxg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"7 am–5 pm\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Construction Company",
-    "lat": 52.360624,
-    "lng": 0.233562,
-    "found_in_location": "Newmarket",
-    "found_with_query": "plant east",
-    "email": "fdssales@outlook.com",
-    "emails": [
-      "fdssales@outlook.com"
-    ],
-    "description": "Welcome to FDS (Cambridge) Ltd. We are a family run Haulage, Plant Hire and Aggregate supplier based near Ely in Cambridgeshire, Covering the whole of the region and beyond with our services. We have a range of vehicles and plant for hire on both self drive under CPA Hire Rules or with our skilled o"
   },
   {
     "name": "Versatile Equipment East Anglia",
@@ -2084,48 +2041,6 @@
       "Roller",
       "Skid Steer",
       "Telehandler"
-    ]
-  },
-  {
-    "name": "Cherry Picker Hire Suffolk",
-    "address": "Ixworth Rd, Norton, Bury Saint Edmunds, IP31 3LE, GB",
-    "phone": "07801 270582",
-    "international_phone": "07801 270582",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Suffolk/data=!4m7!3m6!1s0x47d9b3d9a93e10cd:0x81df5d4541f83521!8m2!3d52.2572675!4d0.864568!16s%2Fg%2F11mscgs9ct!19sChIJzRA-qdmz2UcRITX4QUVd34E?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 52.257267,
-    "lng": 0.864568,
-    "found_in_location": "Bury St Edmunds",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Trott Rentals",
-    "address": "21 Hurricane Way, Norwich, NR6 6EZ, GB",
-    "phone": "01603 426487",
-    "international_phone": "01603 426487",
-    "website": "https://www.trott-rentals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Trott+Rentals/data=!4m7!3m6!1s0x47d9e189a4e7a389:0xcdde8c94994f3060!8m2!3d52.6672851!4d1.2866067!16s%2Fg%2F1tftw746!19sChIJiaPnpInh2UcRYDBPmZSM3s0?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 252,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 52.667285,
-    "lng": 1.286607,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east",
-    "email": "info@trott-rentals.com",
-    "emails": [
-      "info@trott-rentals.com"
-    ],
-    "description": "Trott Rentals has an abundance of vans for hire to suit all requirements. Offering flexible and affordable hire, Book your Norwich van rental today.",
-    "services": [
-      "Excavator"
     ]
   },
   {
@@ -2430,23 +2345,6 @@
     "description": "At Stable Hire we offer the highest levels of quality and service to all stakeholders within the plant and vehicle hire industries."
   },
   {
-    "name": "DM Plant Hire LTD",
-    "address": "priory industrial park, unit 15 Stock Rd, Southend-on-Sea, SS2 5QL, GB",
-    "phone": "07543 284357",
-    "international_phone": "07543 284357",
-    "website": "https://www.dmplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/DM+Plant+Hire+LTD/data=!4m7!3m6!1s0x47d8d9f529fdfdcf:0xfbfff2a05668403b!8m2!3d51.5564343!4d0.7136179!16s%2Fg%2F11zj4mc5t8!19sChIJz_39KfXZ2EcRO0BoVqDy__s?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.556434,
-    "lng": 0.713618,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "727 Toolhire",
     "address": "Hoblongs Industrial Estate, Chelmsford Rd, Great Dunmow, Dunmow, CM6 1JA, GB",
     "phone": "01371 700727",
@@ -2473,29 +2371,21 @@
     ]
   },
   {
-    "name": "Templant Rental Power",
-    "address": "Highwood Rd, Edney Common, Chelmsford, CM1 3PU, GB",
-    "phone": "0333 240 0872",
-    "international_phone": "0333 240 0872",
-    "website": "https://www.templant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Templant+Rental+Power/data=!4m7!3m6!1s0x47d89e28abeb6993:0x1f89a7c260768ffe!8m2!3d51.7147309!4d0.3897246!16s%2Fg%2F1td9zyr6!19sChIJk2nrqyie2EcR_o92YMKniR8?authuser=0&hl=en&rclk=1",
+    "name": "DM Plant Hire LTD",
+    "address": "priory industrial park, unit 15 Stock Rd, Southend-on-Sea, SS2 5QL, GB",
+    "phone": "07543 284357",
+    "international_phone": "07543 284357",
+    "website": "https://www.dmplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/DM+Plant+Hire+LTD/data=!4m7!3m6!1s0x47d8d9f529fdfdcf:0xfbfff2a05668403b!8m2!3d51.5564343!4d0.7136179!16s%2Fg%2F11zj4mc5t8!19sChIJz_39KfXZ2EcRO0BoVqDy__s?authuser=0&hl=en&rclk=1",
     "rating": 4.9,
-    "total_reviews": 17,
+    "total_reviews": 18,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Power Station Equipment Supplier",
-    "lat": 51.714731,
-    "lng": 0.389725,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east",
-    "email": "rental@templant.co.uk",
-    "emails": [
-      "rental@templant.co.uk"
-    ],
-    "description": "Choose Templant for professional temporary power solutions. Specialising in the complete power hire management. Power your projects with confidence!",
-    "services": [
-      "Generator"
-    ]
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.556434,
+    "lng": 0.713618,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east"
   },
   {
     "name": "Cambridge Crane Hire & Huntingdon Plant Hire Ltd",
@@ -2773,23 +2663,6 @@
     "description": "Eynesbury Group in St Neots for Plant Hire. Plant Machinery Hire, Transport & Haulage, Road Sweeper Hire in Bedfordshire, Cambridgeshire and Hertfordshire"
   },
   {
-    "name": "Superior Mini Diggers",
-    "address": "28 Cagefield Rd, Rochford, SS4 2BE, GB",
-    "phone": "01702 257459",
-    "international_phone": "01702 257459",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Superior+Mini+Diggers/data=!4m7!3m6!1s0x47d8d95ce27c263d:0x66fc4270ef564632!8m2!3d51.5936537!4d0.7432686!16s%2Fg%2F11j00skpq4!19sChIJPSZ84lzZ2EcRMkZW73BC_GY?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 22,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6 am–8:30 pm\"],\"Monday\":[\"6 am–8:30 pm\"],\"Saturday\":[\"6 am–8:30 pm\"],\"Sunday\":[\"6 am–8:30 pm\"],\"Thursday\":[\"6 am–8:30 pm\"],\"Tuesday\":[\"6 am–8:30 pm\"],\"Wednesday\":[\"6 am–8:30 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.593654,
-    "lng": 0.743269,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "Mooney Demolition, Reclaimed Building Materials And Plant Hire",
     "address": "Gypsy Lane, Norwich, NR20 3RS, GB",
     "phone": "01603 881401",
@@ -2813,6 +2686,23 @@
     "services": [
       "Telehandler"
     ]
+  },
+  {
+    "name": "Superior Mini Diggers",
+    "address": "28 Cagefield Rd, Rochford, SS4 2BE, GB",
+    "phone": "01702 257459",
+    "international_phone": "01702 257459",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Superior+Mini+Diggers/data=!4m7!3m6!1s0x47d8d95ce27c263d:0x66fc4270ef564632!8m2!3d51.5936537!4d0.7432686!16s%2Fg%2F11j00skpq4!19sChIJPSZ84lzZ2EcRMkZW73BC_GY?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 22,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"6 am–8:30 pm\"],\"Monday\":[\"6 am–8:30 pm\"],\"Saturday\":[\"6 am–8:30 pm\"],\"Sunday\":[\"6 am–8:30 pm\"],\"Thursday\":[\"6 am–8:30 pm\"],\"Tuesday\":[\"6 am–8:30 pm\"],\"Wednesday\":[\"6 am–8:30 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.593654,
+    "lng": 0.743269,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east"
   },
   {
     "name": "JAG Plant",
@@ -2846,6 +2736,23 @@
     ]
   },
   {
+    "name": "Ipswich Grab Hire Ltd",
+    "address": "Copdock Enterprise Park, London Rd, Copdock, Ipswich, IP8 3JW, GB",
+    "phone": "01473 839055",
+    "international_phone": "01473 839055",
+    "website": "https://ipswichgrabhire.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Ipswich+Grab+Hire+Ltd/data=!4m7!3m6!1s0x47d9a3d3254846df:0x420805bc72c40a7c!8m2!3d52.0168394!4d1.0703946!16s%2Fg%2F1hc1_cm_7!19sChIJ30ZIJdOj2UcRfArEcrwFCEI?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 18,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–4:45 pm\"],\"Monday\":[\"7 am–4:45 pm\"],\"Saturday\":[\"8–11:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–4:45 pm\"],\"Tuesday\":[\"7 am–4:45 pm\"],\"Wednesday\":[\"7 am–4:45 pm\"]}",
+    "types": "Waste-Management Service",
+    "lat": 52.016839,
+    "lng": 1.070395,
+    "found_in_location": "Ipswich",
+    "found_with_query": "plant east"
+  },
+  {
     "name": "JMP Plant Hire Essex",
     "address": "The Forge, Norton Heath, Ingatestone, CM4 0LJ, GB",
     "phone": "01277 821631",
@@ -2877,23 +2784,6 @@
       "Skid Steer",
       "Telehandler"
     ]
-  },
-  {
-    "name": "Ipswich Grab Hire Ltd",
-    "address": "Copdock Enterprise Park, London Rd, Copdock, Ipswich, IP8 3JW, GB",
-    "phone": "01473 839055",
-    "international_phone": "01473 839055",
-    "website": "https://ipswichgrabhire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Ipswich+Grab+Hire+Ltd/data=!4m7!3m6!1s0x47d9a3d3254846df:0x420805bc72c40a7c!8m2!3d52.0168394!4d1.0703946!16s%2Fg%2F1hc1_cm_7!19sChIJ30ZIJdOj2UcRfArEcrwFCEI?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–4:45 pm\"],\"Monday\":[\"7 am–4:45 pm\"],\"Saturday\":[\"8–11:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–4:45 pm\"],\"Tuesday\":[\"7 am–4:45 pm\"],\"Wednesday\":[\"7 am–4:45 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 52.016839,
-    "lng": 1.070395,
-    "found_in_location": "Ipswich",
-    "found_with_query": "plant east"
   },
   {
     "name": "Trade Price Fork Trucks",
@@ -3112,24 +3002,6 @@
     "lng": 1.037602,
     "found_in_location": "Norwich",
     "found_with_query": "plant east"
-  },
-  {
-    "name": "Gallagher Rentals Ltd",
-    "address": "10 Boss Hall Rd, Ipswich, IP1 5BN, GB",
-    "phone": "01473 745556",
-    "international_phone": "01473 745556",
-    "website": "http://www.gallagher-rentals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gallagher+Rentals+Ltd/data=!4m7!3m6!1s0x47d9a1ae3a81dc3d:0xc3fb0167e4adc3fa!8m2!3d52.0657394!4d1.1242634!16s%2Fg%2F1v0lk0z7!19sChIJPdyBOq6h2UcR-sOt5GcB-8M?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 139,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"8:30–9:30 am\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Car rental company",
-    "lat": 52.065739,
-    "lng": 1.124263,
-    "found_in_location": "Ipswich",
-    "found_with_query": "plant east",
-    "description": "Car Hire, Van Rentals, MPV Hire & Truck Vehicle Hire in Ipswich from Go Gallagher. Local vehicle hire in Ipswich, Suffolk from Go Gallagher Car and Van Rentals."
   },
   {
     "name": "TRU7 Group",
@@ -3652,37 +3524,6 @@
     ]
   },
   {
-    "name": "R.C.Boreham & Co",
-    "address": "Woodfield Farm, Pleshey, Chelmsford, CM3 1HU, GB",
-    "phone": "01245 231320",
-    "international_phone": "01245 231320",
-    "website": "http://www.rcboreham.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/R.C.Boreham+%26+Co/data=!4m7!3m6!1s0x47d892cc79d74d25:0xeaf00682da847928!8m2!3d51.825056!4d0.377333!16s%2Fg%2F1tdpqx_k!19sChIJJU3XecyS2EcRKHmE2oIG8Oo?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Agricultural service",
-    "lat": 51.825056,
-    "lng": 0.377333,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east",
-    "email": "anna.hunter@rcboreham.co.uk",
-    "emails": [
-      "anna.hunter@rcboreham.co.uk",
-      "ian.collar@rcboreham.co.uk",
-      "matt.boreham@rcboreham.co.uk",
-      "nigel.boreham@rcboreham.co.uk",
-      "sandra.smith@rcboreham.co.uk",
-      "service@rcboreham.co.uk",
-      "stuart.kreetzer@rcboreham.co.uk"
-    ],
-    "description": "R C Boreham & Co Deutz Fahr main dealers, plus Merlo, Kuhn farm machinery, Polaris and more.",
-    "services": [
-      "Telehandler"
-    ]
-  },
-  {
     "name": "G B Digger Hire",
     "address": "Woodland Farm, Short Thorn Road, Norwich, NR10 5NU, GB",
     "phone": "01603 754286",
@@ -3917,47 +3758,6 @@
     ]
   },
   {
-    "name": "Luton Hire Centre",
-    "address": "11 Sundon Park Rd, Sundon Park, Luton, LU3 3BH, GB",
-    "phone": "01582 573694",
-    "international_phone": "01582 573694",
-    "website": "http://www.lutonhirecentre.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Luton+Hire+Centre/data=!4m7!3m6!1s0x48764949c844827d:0xeba61d4030f52138!8m2!3d51.9160615!4d-0.4698068!16s%2Fg%2F1tj88y21!19sChIJfYJEyElJdkgROCH1MEAdpus?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Tool Shop",
-    "lat": 51.916061,
-    "lng": -0.469807,
-    "found_in_location": "Luton",
-    "found_with_query": "plant east",
-    "description": "We sell power tools, hand tools, safety clothing and equipment, Makita, Bosch, Hitachi, DeWalt, Einhell, Marshalltown, Stanley, Bahco, Worksafe, Refina, Irwin, Faithfull, Fisco, Ryobi, and many other leading brands of tools at competitive prices."
-  },
-  {
-    "name": "N&S Plant Hire",
-    "address": "Ellough Industrial Estate, Sandpit Ln, Beccles, NR34 7TH, GB",
-    "phone": "01502 710731",
-    "international_phone": "01502 710731",
-    "website": "http://www.norfolkandsuffolkplant.co.uk/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=Google%20my%20Business%20Traffic",
-    "google_maps_url": "https://www.google.com/maps/place/N%26S+Plant+Hire/data=!4m7!3m6!1s0x47da1de0b697fc27:0x1dd9fc70b93af475!8m2!3d52.4392894!4d1.6014669!16s%2Fg%2F11b7q8rj8s!19sChIJJ_yXtuAd2kcRdfQ6uXD82R0?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.439289,
-    "lng": 1.601467,
-    "found_in_location": "Lowestoft",
-    "found_with_query": "plant east",
-    "description": "N&S Plant Hire provides reliable, cost-effective plant and equipment hire across East Anglia. Fast delivery, flexible service, and expert support for every project.",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Roller"
-    ]
-  },
-  {
     "name": "Bullimores Plant Hire (Bourne, Lincolnshire)",
     "address": "Mays Road, (Off) Pinfold Road, Bourne, PE10 9HT, GB",
     "phone": "01778 423309",
@@ -3990,6 +3790,46 @@
       "Roller",
       "Telehandler"
     ]
+  },
+  {
+    "name": "N&S Plant Hire",
+    "address": "Ellough Industrial Estate, Sandpit Ln, Beccles, NR34 7TH, GB",
+    "phone": "01502 710731",
+    "international_phone": "01502 710731",
+    "website": "http://www.norfolkandsuffolkplant.co.uk/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=Google%20my%20Business%20Traffic",
+    "google_maps_url": "https://www.google.com/maps/place/N%26S+Plant+Hire/data=!4m7!3m6!1s0x47da1de0b697fc27:0x1dd9fc70b93af475!8m2!3d52.4392894!4d1.6014669!16s%2Fg%2F11b7q8rj8s!19sChIJJ_yXtuAd2kcRdfQ6uXD82R0?authuser=0&hl=en&rclk=1",
+    "rating": 4.5,
+    "total_reviews": 15,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.439289,
+    "lng": 1.601467,
+    "found_in_location": "Lowestoft",
+    "found_with_query": "plant east",
+    "description": "N&S Plant Hire provides reliable, cost-effective plant and equipment hire across East Anglia. Fast delivery, flexible service, and expert support for every project.",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "JCH - Aggregates - Grab Hire - Digger Hire - Peterborough",
+    "address": "Aaron Road Industrial Estate, Aaron Rd, Whittlesey, Peterborough, PE7 2EX, GB",
+    "phone": "07577 418962",
+    "international_phone": "07577 418962",
+    "website": "http://www.jch-aggregates-peterborough.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/JCH+-+Aggregates+-+Grab+Hire+-+Digger+Hire+-+Peterborough/data=!4m7!3m6!1s0x4877fc9ece58c201:0x64838824287e769c!8m2!3d52.5472366!4d-0.114534!16s%2Fg%2F11j00s53q2!19sChIJAcJYzp78d0gRnHZ-KCSIg2Q?authuser=0&hl=en&rclk=1",
+    "rating": 4.5,
+    "total_reviews": 8,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"8 am–1:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.547237,
+    "lng": -0.114534,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east"
   },
   {
     "name": "Suffolk Plant Machinery Ltd",
@@ -4035,23 +3875,6 @@
     ]
   },
   {
-    "name": "JCH - Aggregates - Grab Hire - Digger Hire - Peterborough",
-    "address": "Aaron Road Industrial Estate, Aaron Rd, Whittlesey, Peterborough, PE7 2EX, GB",
-    "phone": "07577 418962",
-    "international_phone": "07577 418962",
-    "website": "http://www.jch-aggregates-peterborough.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/JCH+-+Aggregates+-+Grab+Hire+-+Digger+Hire+-+Peterborough/data=!4m7!3m6!1s0x4877fc9ece58c201:0x64838824287e769c!8m2!3d52.5472366!4d-0.114534!16s%2Fg%2F11j00s53q2!19sChIJAcJYzp78d0gRnHZ-KCSIg2Q?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6:30 am–5 pm\"],\"Monday\":[\"6:30 am–5 pm\"],\"Saturday\":[\"8 am–1:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6:30 am–5 pm\"],\"Tuesday\":[\"6:30 am–5 pm\"],\"Wednesday\":[\"6:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.547237,
-    "lng": -0.114534,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "All Plant Hire",
     "address": "Apex Business Centre, Boscombe Rd, Dunstable, LU5 4SB, GB",
     "phone": "01582 477200",
@@ -4089,28 +3912,6 @@
     "lng": 0.848571,
     "found_in_location": "Colchester",
     "found_with_query": "plant east"
-  },
-  {
-    "name": "JD Robertson & Co Ltd",
-    "address": "23 Magdalen St, Colchester, CO1 2LD, GB",
-    "phone": "01206 572368",
-    "international_phone": "01206 572368",
-    "website": "http://www.robertsonvehiclehire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/JD+Robertson+%26+Co+Ltd/data=!4m7!3m6!1s0x47d904fc026499d3:0x246736454f390f70!8m2!3d51.8857879!4d0.9063473!16s%2Fg%2F11c45ry_4r!19sChIJ05lkAvwE2UcRcA85T0U2ZyQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 188,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"8:30–11 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.885788,
-    "lng": 0.906347,
-    "found_in_location": "Colchester",
-    "found_with_query": "plant east",
-    "email": "carhire@jdrobertson.co.uk",
-    "emails": [
-      "carhire@jdrobertson.co.uk"
-    ],
-    "description": "A days hire can start any time from 8:30 am but must end by 8:30 am the following day (days) or start at 4 pm and end at 4 pm the following day (days).AM collection / returns – Mon – Sat.PM collection / returns – only available Mon – Wed"
   },
   {
     "name": "Ben Burgess Norwich",
@@ -4200,29 +4001,6 @@
     "description": "Discover National Plant Hire, Transport & Haulage Services"
   },
   {
-    "name": "Load & Go",
-    "address": "17 Clabon Rd, Norwich, NR3 4HF, GB",
-    "phone": "07764 679802",
-    "international_phone": "07764 679802",
-    "website": "http://www.loadandgo-norwich.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Load+%26+Go/data=!4m7!3m6!1s0x47d9e26071654015:0x563463391e713063!8m2!3d52.650947!4d1.3033761!16s%2Fg%2F11b7q2x885!19sChIJFUBlcWDi2UcRYzBxHjljNFY?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 44,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Waste-Management Service",
-    "lat": 52.650947,
-    "lng": 1.303376,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east",
-    "email": "allendaynes@gmail.com",
-    "emails": [
-      "allendaynes@gmail.com",
-      "loadandgonorwich@gmail.com"
-    ],
-    "description": "Are you looking for a waste removal service that is fast and efficient? Contact the experts at Load & Go in Norwich today to arrange a collection."
-  },
-  {
     "name": "Dale Hire Centre",
     "address": "39 Robjohns Rd, Chelmsford, CM1 3AG, GB",
     "phone": "01245 357152",
@@ -4293,45 +4071,6 @@
     "lng": 1.282736,
     "found_in_location": "Norwich",
     "found_with_query": "plant east"
-  },
-  {
-    "name": "Sunbelt Rentals Norwich - Old Hall Road",
-    "address": "Unit A, Oldhall Rd, Norwich, NR4 6ES, GB",
-    "phone": "01603 456636",
-    "international_phone": "01603 456636",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/norwich-old-hall-road/?utm_source=google&utm_medium=Yext&utm_campaign=norwich-old-hall-road&y_source=1_MjI0OTM4NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Norwich+-+Old+Hall+Road/data=!4m7!3m6!1s0x47d9e6a615189255:0xc10e0abb0f18d7af!8m2!3d52.5993064!4d1.2780897!16s%2Fg%2F1tf9s2nq!19sChIJVZIYFabm2UcRr9cYD7sKDsE?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 52.599306,
-    "lng": 1.27809,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Smarts Load and Go",
-    "address": "13 Penryn Cl, Norwich, NR4 7LY, GB",
-    "phone": "01603 259711",
-    "international_phone": "01603 259711",
-    "website": "http://www.smartsloadandgo.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Smarts+Load+and+Go/data=!4m7!3m6!1s0x47d9e13b4701ef5f:0x4512eb4ea6c62b5!8m2!3d52.6255288!4d1.2490125!16s%2Fg%2F1vqtg1mb!19sChIJX-8BRzvh2UcRtWJs6rQuUQQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Waste-Management Service",
-    "lat": 52.625529,
-    "lng": 1.249012,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east",
-    "email": "info@smartsloadandgo.co.uk",
-    "emails": [
-      "info@smartsloadandgo.co.uk"
-    ],
-    "description": "Smarts Load and Go offer an alternative service to Skip Hire, We offer a hassle free Load and Go Service, where we give you a free quotation for the job, and collect and remove the waste for you. Skip Hire Norwich, Waste Collection Norwich"
   },
   {
     "name": "Rob Deeba Grab Lorry & Plant Hire",
@@ -4572,6 +4311,29 @@
     "description": "The Home of State-Of-The-Art Piling and Foundation Equipment – National and International Supply"
   },
   {
+    "name": "Adastra Hire",
+    "address": "Unit C, Dales Brewery, Gwydir St, Cambridge, CB1 2LJ, GB",
+    "phone": "07920 843609",
+    "international_phone": "07920 843609",
+    "website": "https://adastrahire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Adastra+Hire/data=!4m7!3m6!1s0x47d8709024978f75:0xe043886b89453f55!8m2!3d52.2001515!4d0.1382164!16s%2Fg%2F1yh9tq5vs!19sChIJdY-XJJBw2EcRVT9FiWuIQ-A?authuser=0&hl=en&rclk=1",
+    "rating": 4.3,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
+    "types": "Equipment rental agency",
+    "lat": 52.200151,
+    "lng": 0.138216,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east",
+    "email": "sales@adastrahire.co.uk",
+    "emails": [
+      "sales@adastrahire.co.uk",
+      "highworth@adastrahire.co.uk"
+    ],
+    "description": "Test equipment hire made easy, order and reserve online. Modern up-to-date equipment, long term hire discounts and next day UK mainland delivery."
+  },
+  {
     "name": "Wormell Plant Hire",
     "address": "Hall/Hall La, Langenhoe, Colchester, CO5 7NA, GB",
     "phone": "01206 735687",
@@ -4598,29 +4360,6 @@
     ]
   },
   {
-    "name": "Adastra Hire",
-    "address": "Unit C, Dales Brewery, Gwydir St, Cambridge, CB1 2LJ, GB",
-    "phone": "07920 843609",
-    "international_phone": "07920 843609",
-    "website": "https://adastrahire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Adastra+Hire/data=!4m7!3m6!1s0x47d8709024978f75:0xe043886b89453f55!8m2!3d52.2001515!4d0.1382164!16s%2Fg%2F1yh9tq5vs!19sChIJdY-XJJBw2EcRVT9FiWuIQ-A?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Equipment rental agency",
-    "lat": 52.200151,
-    "lng": 0.138216,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east",
-    "email": "sales@adastrahire.co.uk",
-    "emails": [
-      "sales@adastrahire.co.uk",
-      "highworth@adastrahire.co.uk"
-    ],
-    "description": "Test equipment hire made easy, order and reserve online. Modern up-to-date equipment, long term hire discounts and next day UK mainland delivery."
-  },
-  {
     "name": "PJH Hire Plant",
     "address": "Bulls Barn Farm, King's Delph Drove, Farcet, Peterborough, PE7 3DQ, GB",
     "phone": "07860 486586",
@@ -4636,28 +4375,6 @@
     "lng": -0.210196,
     "found_in_location": "Peterborough",
     "found_with_query": "plant east"
-  },
-  {
-    "name": "Northgate Vehicle Hire",
-    "address": "Eastway Business Park, Europa Way, Ipswich, Ipswich, IP1 5DL, GB",
-    "phone": "01473 240321",
-    "international_phone": "01473 240321",
-    "website": "https://www.northgatevehiclehire.co.uk/branch-finder/ipswich?utm_source=google&utm_medium%20=organic&utm_campaign=gmb-listing",
-    "google_maps_url": "https://www.google.com/maps/place/Northgate+Vehicle+Hire/data=!4m7!3m6!1s0x47d9a1a91ccdeeed:0xfe8d458ec4309f2b!8m2!3d52.067357!4d1.1145636!16s%2Fg%2F1tdd93bc!19sChIJ7e7NHKmh2UcRK58wxI5Fjf4?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 63,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 52.067357,
-    "lng": 1.114564,
-    "found_in_location": "Ipswich",
-    "found_with_query": "plant east",
-    "email": "rental.ipswich@northgatevehiclehire.co.uk",
-    "emails": [
-      "rental.ipswich@northgatevehiclehire.co.uk"
-    ],
-    "description": "Find a wide range of fleet vehicles at our Northgate Ipswich branch. Our van rental in Ipswich offers flexible hire options and more! Call today."
   },
   {
     "name": "J T Few Plant Hire",
@@ -4926,6 +4643,23 @@
     ]
   },
   {
+    "name": "Power Lift Plant - Plant Machinery Hire & Sales",
+    "address": "The Garage, Panfield Ln, Braintree, CM7 5RN, GB",
+    "phone": "01376 320245",
+    "international_phone": "01376 320245",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Power+Lift+Plant+-+Plant+Machinery+Hire+%26+Sales/data=!4m7!3m6!1s0x47d8f05f23574123:0x558ab4efcdc6f3f0!8m2!3d51.8910554!4d0.5457352!16s%2Fg%2F1vhlxg1w!19sChIJI0FXI1_w2EcR8PPGze-0ilU?authuser=0&hl=en&rclk=1",
+    "rating": 4.0,
+    "total_reviews": 5,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
+    "types": "Equipment rental agency",
+    "lat": 51.891055,
+    "lng": 0.545735,
+    "found_in_location": "Braintree",
+    "found_with_query": "plant east"
+  },
+  {
     "name": "Watling JCB Ltd",
     "address": "Bridge Estate, Silfield Rd, Wymondham, NR18 9AU, GB",
     "phone": "01953 857100",
@@ -4952,40 +4686,6 @@
     ]
   },
   {
-    "name": "Sunbelt Rentals Peterborough",
-    "address": "10 Nene Valley Business Park, Oundle, Peterborough, PE8 4HN, GB",
-    "phone": "01832 272408",
-    "international_phone": "01832 272408",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/peterborough/?utm_source=google&utm_medium=Yext&utm_campaign=peterborough&y_source=1_MjI0OTM5NjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Peterborough/data=!4m7!3m6!1s0x487793b6f457d1d1:0xc3877c36a3c3588!8m2!3d52.48117!4d-0.45927!16s%2Fg%2F1tr1722t!19sChIJ0dFX9LaTd0gRiDU8asN3OAw?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 52.48117,
-    "lng": -0.45927,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Power Lift Plant - Plant Machinery Hire & Sales",
-    "address": "The Garage, Panfield Ln, Braintree, CM7 5RN, GB",
-    "phone": "01376 320245",
-    "international_phone": "01376 320245",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Power+Lift+Plant+-+Plant+Machinery+Hire+%26+Sales/data=!4m7!3m6!1s0x47d8f05f23574123:0x558ab4efcdc6f3f0!8m2!3d51.8910554!4d0.5457352!16s%2Fg%2F1vhlxg1w!19sChIJI0FXI1_w2EcR8PPGze-0ilU?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Equipment rental agency",
-    "lat": 51.891055,
-    "lng": 0.545735,
-    "found_in_location": "Braintree",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "Rose Plant Hire",
     "address": "Padholme Rd E, Peterborough, PE1 5XL, GB",
     "phone": "01733 557575",
@@ -5000,23 +4700,6 @@
     "lat": 52.576117,
     "lng": -0.214995,
     "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Sunbelt Rentals Ipswich - Sproughton Road",
-    "address": "Business Park, Unit 5 Boss Hall Rd, Sproughton Rd, Ipswich, IP1 5BN, GB",
-    "phone": "0845 872 5609",
-    "international_phone": "0845 872 5609",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/ipswich-sproughton-road/?utm_source=google&utm_medium=Yext&utm_campaign=ipswich-sproughton-road&y_source=1_MjI0OTM4NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Ipswich+-+Sproughton+Road/data=!4m7!3m6!1s0x47d9a1ae31c5473d:0xc5eec4af758c9c7a!8m2!3d52.065029!4d1.1250528!16s%2Fg%2F1tp1y25p!19sChIJPUfFMa6h2UcRepyMda_E7sU?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 52.065029,
-    "lng": 1.125053,
-    "found_in_location": "Ipswich",
     "found_with_query": "plant east"
   },
   {
@@ -5176,24 +4859,6 @@
       "Scissor Lift",
       "Telehandler"
     ]
-  },
-  {
-    "name": "Dig Rent",
-    "address": "Unit 3 Sixth Ave, Halstead, CO9 2FL, GB",
-    "phone": "01206 588111",
-    "international_phone": "01206 588111",
-    "website": "https://www.dig-rent.com/grab-hire-colchester-essex-aggregates-suppliers-muck-away-haulage-type1-shingle-ballast-sand-tipper-maldon-chelmsford-6f2-6f5-recycling-earth-moving/",
-    "google_maps_url": "https://www.google.com/maps/place/Dig+Rent/data=!4m7!3m6!1s0x47d8fd6efb6817ff:0xb8e327ca987515e3!8m2!3d51.9415975!4d0.6569261!16s%2Fg%2F11b73ppz1_!19sChIJ_xdo-2792EcR4xV1mMon47g?authuser=0&hl=en&rclk=1",
-    "rating": 3.7,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
-    "types": "Aggregate supplier",
-    "lat": 51.941598,
-    "lng": 0.656926,
-    "found_in_location": "Braintree",
-    "found_with_query": "plant east",
-    "description": "We are market leaders and have established a strong reputation thanks to our effective muck away & waste removal methods. Essex & Suffolk"
   },
   {
     "name": "Dig Safe Suction Excavations Ltd",
@@ -5417,23 +5082,6 @@
     ]
   },
   {
-    "name": "Sunbelt Rentals",
-    "address": "Industrial Estate, Unit B Mercers Row, Swanns Rd, Cambridge, CB5 8JZ, GB",
-    "phone": "07866 814514",
-    "international_phone": "07866 814514",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/cambridge/",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals/data=!4m7!3m6!1s0x47d871004d436c71:0xe86227384e7e28a5!8m2!3d52.2145743!4d0.1509672!16s%2Fg%2F11wc3krv3f!19sChIJcWxDTQBx2EcRpSh-TjgnYug?authuser=0&hl=en&rclk=1",
-    "rating": 1.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.214574,
-    "lng": 0.150967,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east"
-  },
-  {
     "name": "Digger Hire Peterborough",
     "address": "8 Fenlake Business Centre, Peterborough, PE1 5BQ, GB",
     "phone": "01733 641002",
@@ -5448,6 +5096,55 @@
     "lat": 52.572079,
     "lng": -0.209903,
     "found_in_location": "Peterborough",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Grant Handling Forklifts - London & East Anglia",
+    "address": "66, 68 Victoria Rd, Southend-on-Sea, SS1 2TF, GB",
+    "phone": "01245 442171",
+    "international_phone": "01245 442171",
+    "website": "http://www.granthandling.com/coverage/locations/",
+    "google_maps_url": "https://www.google.com/maps/place/Grant+Handling+Forklifts+-+London+%26+East+Anglia/data=!4m7!3m6!1s0x47d8d83f8d1f14b7:0x75b6ff0a074af432!8m2!3d51.533254!4d0.7316778!16s%2Fg%2F11cn31bfml!19sChIJtxQfjT_Y2EcRMvRKBwr_tnU?authuser=0&hl=en&rclk=1",
+    "rating": 1.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.533254,
+    "lng": 0.731678,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east",
+    "email": "info@granthandling.com",
+    "emails": [
+      "info@granthandling.com",
+      "bristol@granthandling.com",
+      "newcastle@granthandling.com",
+      "newcastle@www.granthandling.com",
+      "surrey@granthandling.com",
+      "info@abilityhandling.co.uk",
+      "info@anguslifttrucks.co.uk",
+      "info@granthandling.co.uk"
+    ],
+    "description": "Grant Handling has 6 regional depots across the UK. Please contact Grant Handling on 0845 073 9407 for more information and your local dealer.",
+    "services": [
+      "Forklift"
+    ]
+  },
+  {
+    "name": "Sunbelt Rentals",
+    "address": "Industrial Estate, Unit B Mercers Row, Swanns Rd, Cambridge, CB5 8JZ, GB",
+    "phone": "07866 814514",
+    "international_phone": "07866 814514",
+    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/cambridge/",
+    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals/data=!4m7!3m6!1s0x47d871004d436c71:0xe86227384e7e28a5!8m2!3d52.2145743!4d0.1509672!16s%2Fg%2F11wc3krv3f!19sChIJcWxDTQBx2EcRpSh-TjgnYug?authuser=0&hl=en&rclk=1",
+    "rating": 1.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.214574,
+    "lng": 0.150967,
+    "found_in_location": "Cambridge",
     "found_with_query": "plant east"
   },
   {
@@ -5483,93 +5180,272 @@
     ]
   },
   {
-    "name": "Grant Handling Forklifts - London & East Anglia",
-    "address": "66, 68 Victoria Rd, Southend-on-Sea, SS1 2TF, GB",
-    "phone": "01245 442171",
-    "international_phone": "01245 442171",
-    "website": "http://www.granthandling.com/coverage/locations/",
-    "google_maps_url": "https://www.google.com/maps/place/Grant+Handling+Forklifts+-+London+%26+East+Anglia/data=!4m7!3m6!1s0x47d8d83f8d1f14b7:0x75b6ff0a074af432!8m2!3d51.533254!4d0.7316778!16s%2Fg%2F11cn31bfml!19sChIJtxQfjT_Y2EcRMvRKBwr_tnU?authuser=0&hl=en&rclk=1",
-    "rating": 1.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.533254,
-    "lng": 0.731678,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east",
-    "email": "info@granthandling.com",
-    "emails": [
-      "info@granthandling.com",
-      "bristol@granthandling.com",
-      "newcastle@granthandling.com",
-      "newcastle@www.granthandling.com",
-      "surrey@granthandling.com",
-      "info@abilityhandling.co.uk",
-      "info@anguslifttrucks.co.uk",
-      "info@granthandling.co.uk"
-    ],
-    "description": "Grant Handling has 6 regional depots across the UK. Please contact Grant Handling on 0845 073 9407 for more information and your local dealer.",
-    "services": [
-      "Forklift"
-    ]
-  },
-  {
-    "name": "Noblelift UK",
-    "address": "Unit 9, Apex Park, Fraserfields Wy, Leighton Buzzard, LU7 3RE, GB",
-    "phone": "01525 493777",
-    "international_phone": "01525 493777",
-    "website": "https://www.noblelift.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Noblelift+UK/data=!4m7!3m6!1s0x48765153ddb8e5f1:0x528c03d0a1e1d2a6!8m2!3d51.91137!4d-0.628628!16s%2Fg%2F11x8p9kq7q!19sChIJ8eW43VNRdkgRptLhodADjFI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Material handling equipment supplier",
-    "lat": 51.91137,
-    "lng": -0.628628,
-    "found_in_location": "Luton",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Pauly's Mini Digger Hire",
-    "address": "21 Elm Grove Ln, Norwich, NR3 3LE, GB",
-    "phone": "07999 976127",
-    "international_phone": "07999 976127",
-    "website": "https://www.paulysdiggerhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pauly%27s+Mini+Digger+Hire/data=!4m7!3m6!1s0x47d9e3d3cbf9dcaf:0x18bf24c3805909fa!8m2!3d52.6486115!4d1.2960404!16s%2Fg%2F11frdw6byb!19sChIJr9z5y9Pj2UcR-glZgMMkvxg?authuser=0&hl=en&rclk=1",
+    "name": "A B Plant Hire",
+    "address": "New Kildare, Hall Road, Hockley, SS5 5JT, GB",
+    "phone": "01268 786228",
+    "international_phone": "01268 786228",
+    "website": "http://planthireessex.net/",
+    "google_maps_url": "https://www.google.com/maps/place/A+B+Plant+Hire/data=!4m7!3m6!1s0x47d8dc068b036615:0x65740ba66c8b9c11!8m2!3d51.619078!4d0.6788922!16s%2Fg%2F11y3d6nb3k!19sChIJFWYDiwbc2EcREZyLbKYLdGU?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 52.648611,
-    "lng": 1.29604,
-    "found_in_location": "Norwich",
+    "lat": 51.619078,
+    "lng": 0.678892,
+    "found_in_location": "Southend-on-Sea",
     "found_with_query": "plant east",
-    "description": "*1-21 Tonne Digger Hire With Experienced Operators - Fully Insured - Excellent Rates* Demolition & Groundwork :We offer a personal service and work closely with our customers to make sure they get the best out of any project.",
+    "description": "For specialist plant machinery hire services in the Essex area, contact A B Plant Hire. Call us on 01268 786228.",
     "services": [
       "Breaker",
+      "Compressor",
       "Dumper",
-      "Excavator"
+      "Excavator",
+      "Mini Digger",
+      "Roller"
     ]
   },
   {
-    "name": "Mooney Telehander hire",
-    "address": "Gypsy Ln, Norwich, NR20 3RS, GB",
-    "phone": "07768 692015",
-    "international_phone": "07768 692015",
-    "website": "http://www.mooneytelehandlerhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Mooney+Telehander+hire/data=!4m7!3m6!1s0x47d9d9ecbf691635:0xdfc1fa3cac3ec6b2!8m2!3d52.673302!4d1.073334!16s%2Fg%2F11y6m5j1hr!19sChIJNRZpv-zZ2UcRssY-rDz6wd8?authuser=0&hl=en&rclk=1",
+    "name": "Adcock Plant Ltd",
+    "address": "20 Hardley St, Hardley, Norwich, NR14 6BY, GB",
+    "phone": "01508 528533",
+    "international_phone": "01508 528533",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Adcock+Plant+Ltd/data=!4m7!3m6!1s0x47d9f9a2fe45f485:0x9e12c207f27559b!8m2!3d52.5567199!4d1.5110434!16s%2Fg%2F1tj20tk1!19sChIJhfRF_qL52UcRm1UnfyAs4Qk?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
+    "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 52.673302,
-    "lng": 1.073334,
+    "lat": 52.55672,
+    "lng": 1.511043,
     "found_in_location": "Norwich",
     "found_with_query": "plant east"
+  },
+  {
+    "name": "Ash Plant Hire Ltd",
+    "address": "Suite 12, 648-656 London Rd, Westcliff-on-Sea, Southend-on-Sea, Westcliff-on-Sea, SS0 9HR, GB",
+    "phone": "01277 829000",
+    "international_phone": "01277 829000",
+    "website": "https://aphgroundworksolutions.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Ash+Plant+Hire+Ltd/data=!4m7!3m6!1s0x47d8d999c5913fd1:0xaae5c476f16500ac!8m2!3d51.545454!4d0.6821381!16s%2Fg%2F11g9ghzskg!19sChIJ0T-RxZnZ2EcRrABl8XbE5ao?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 51.545454,
+    "lng": 0.682138,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east",
+    "description": "Site will be available soon. Thank you for your patience!"
+  },
+  {
+    "name": "Atlas Plant Hire Limited",
+    "address": "CB1 Business Centre, Station Rd, Cambridge, CB1 2TD, GB",
+    "phone": "07756 988665",
+    "international_phone": "07756 988665",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Atlas+Plant+Hire+Limited/data=!4m7!3m6!1s0x47d8708323455555:0xcf6023f0a3489e95!8m2!3d52.1944016!4d0.1335879!16s%2Fg%2F11ggngjtkn!19sChIJVVVFI4Nw2EcRlZ5Io_AjYM8?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 52.194402,
+    "lng": 0.133588,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Brookfarm Plant Hire & Grounds Maintenance",
+    "address": "Halstead Rd, Fordham, Colchester, CO6 3LW, GB",
+    "phone": "07946 212260",
+    "international_phone": "07946 212260",
+    "website": "https://www.brookfarmplantandsales.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Brookfarm+Plant+Hire+%26+Grounds+Maintenance/data=!4m7!3m6!1s0x27f75cf1b79ab985:0xae2407bacfede76c!8m2!3d51.9136912!4d0.7833442!16s%2Fg%2F11yz6jd2h3!19sChIJhbmat_Fc9ycRbOftz7oHJK4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.913691,
+    "lng": 0.783344,
+    "found_in_location": "Colchester",
+    "found_with_query": "plant east",
+    "email": "brookfarmplant@outlook.com",
+    "emails": [
+      "brookfarmplant@outlook.com"
+    ],
+    "description": "Plant and machinery hire and sales, and driver only hire."
+  },
+  {
+    "name": "CM PLANT AND TOOL HIRE",
+    "address": "26 Fenlake Business Centre, Peterborough, PE1 5BQ, GB",
+    "phone": "07701 325656",
+    "international_phone": "07701 325656",
+    "website": "https://cmdemolition.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/CM+PLANT+AND+TOOL+HIRE/data=!4m7!3m6!1s0x4877f1b4097fff6b:0xf07f21879691409a!8m2!3d52.571407!4d-0.2091697!16s%2Fg%2F11y3n901gw!19sChIJa_9_CbTxd0gRmkCRlochf_A?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.571407,
+    "lng": -0.20917,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Cambridge Plant Hire",
+    "address": "Grasshopper Fishery, Cambridge, CB25 9NN, GB",
+    "phone": "07983 755126",
+    "international_phone": "07983 755126",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cambridge+Plant+Hire/data=!4m7!3m6!1s0x47d871cdf3e949f9:0xab40940ab3851b22!8m2!3d52.2561514!4d0.1748419!16s%2Fg%2F11kbsxx7f7!19sChIJ-Unp881x2EcRIhuFswqUQKs?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.256151,
+    "lng": 0.174842,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Diggerworx (Chelmsford)",
+    "address": "39 Jubilee Ave, Broomfield, Chelmsford, CM1 7HE, GB",
+    "phone": "07503 665514",
+    "international_phone": "07503 665514",
+    "website": "https://www.diggerworx.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Diggerworx+%28Chelmsford%29/data=!4m7!3m6!1s0x47d8ed0ac7189373:0x658a3ea66056c990!8m2!3d51.7692467!4d0.4688995!16s%2Fg%2F11h0rfxzdl!19sChIJc5MYxwrt2EcRkMlWYKY-imU?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.769247,
+    "lng": 0.468899,
+    "found_in_location": "Chelmsford",
+    "found_with_query": "plant east",
+    "email": "info@diggerworx.co.uk",
+    "emails": [
+      "info@diggerworx.co.uk"
+    ],
+    "description": "Diggerworx is a family run company based in Essex, we have over 25 years experience in the demolition & groundworks industry. We offer an extensive range of diggers",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
+  },
+  {
+    "name": "Groundworks & Demolition Essex - BC Digger Hire",
+    "address": "27 Tempest Way, Rainham, RM13 7PX, GB",
+    "phone": "07984 948929",
+    "international_phone": "07984 948929",
+    "website": "https://bcdiggerhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Groundworks+%26+Demolition+Essex+-+BC+Digger+Hire/data=!4m7!3m6!1s0x47d8bbc07796cc7d:0x68da970aaf5e3410!8m2!3d51.5418497!4d0.1962923!16s%2Fg%2F11fk185gdc!19sChIJfcyWd8C72EcREDRerwqX2mg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Excavating contractor",
+    "lat": 51.54185,
+    "lng": 0.196292,
+    "found_in_location": "Basildon",
+    "found_with_query": "plant east",
+    "email": "info@bcdiggerhire.co.uk",
+    "emails": [
+      "info@bcdiggerhire.co.uk",
+      "bcdiggerhire@hotmail.com"
+    ],
+    "description": "We specialise in digger hire across East London and Essex. For digger hire in London & Essex or for any of our other services call 07984 948929.",
+    "services": [
+      "Excavator",
+      "Mini Digger"
+    ]
+  },
+  {
+    "name": "HN Plant & Machinery Hire - Ely",
+    "address": "16 Orchard Way, Haddenham, ELY, CB6 3UT, GB",
+    "phone": "07887 499668",
+    "international_phone": "07887 499668",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/HN+Plant+%26+Machinery+Hire+-+Ely/data=!4m7!3m6!1s0x47d8737f5979ec53:0xbe5180388990e353!8m2!3d52.3532302!4d0.1528088!16s%2Fg%2F11t4c9fvc5!19sChIJU-x5WX9z2EcRU-OQiTiAUb4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.35323,
+    "lng": 0.152809,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Hireforce - Cambridge",
+    "address": "2-3, Brickyard Industrial Estate, Coldham's Rd, Cambridge, CB1 3EW, GB",
+    "phone": "01223 739555",
+    "international_phone": "01223 739555",
+    "website": "https://www.hireforce.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Hireforce+-+Cambridge/data=!4m7!3m6!1s0x47d8719db00d2971:0xe7bbbec136a729b7!8m2!3d52.2083381!4d0.1488214!16s%2Fg%2F11ybz86gj8!19sChIJcSkNsJ1x2EcRtymnNsG-u-c?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Tool rental service",
+    "lat": 52.208338,
+    "lng": 0.148821,
+    "found_in_location": "Cambridge",
+    "found_with_query": "plant east",
+    "email": "enquiries@hireforce.com",
+    "emails": [
+      "enquiries@hireforce.com",
+      "cambridge@hireforce.com",
+      "derby@hireforce.com",
+      "nottingham@hireforce.com",
+      "sheffield@hireforce.com",
+      "enquiries@hireforceuk.com",
+      "birmingham@hireforce.co",
+      "birmingham@hireforceuk.com",
+      "derby@hireforceuk.com",
+      "derekgratton@hireforceuk.com",
+      "hiredesk@hireforce-one.com",
+      "leicester@hireforce.co",
+      "leicester@hireforceuk.com",
+      "nottingham@hireforceuk.com"
+    ],
+    "description": "Hireforce Ltd provides high quality, fast response tool and equipment hire from its network of depots across the Midlands in Birmingham, Leicester, Nottingham, Derby, Sheffield and Cambridge"
+  },
+  {
+    "name": "Huntingdon Plant Hire",
+    "address": "Cross Rd, Peterborough, PE6 9QA, GB",
+    "phone": "0808 202 4531",
+    "international_phone": "0808 202 4531",
+    "website": "https://www.huntingdon-plant-hire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Huntingdon+Plant+Hire/data=!4m7!3m6!1s0x48781e15c70cce67:0xeeb3f2e70a80acb3!8m2!3d52.7063929!4d-0.3050821!16s%2Fg%2F1hc3wtk9c!19sChIJZ84MxxUeeEgRs6yACufys-4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.706393,
+    "lng": -0.305082,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east",
+    "email": "sales@huntingdon-plant-hire.co.uk",
+    "emails": [
+      "sales@huntingdon-plant-hire.co.uk"
+    ],
+    "description": "Huntingdon Plant Hire specialising in mobile crane hire for a range of terrains in Cambridge, Bedford, Peterborough and Northampton. We also offer sweeper hire and access platform hire in Cambridgeshire.",
+    "services": [
+      "Cherry Picker",
+      "Excavator",
+      "Forklift",
+      "Telehandler"
+    ]
   },
   {
     "name": "Huws Gray Plant & Tool Hire Nuffield Road, Cambridge",
@@ -5676,21 +5552,121 @@
     "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
-    "name": "Cambridge Plant Hire",
-    "address": "Grasshopper Fishery, Cambridge, CB25 9NN, GB",
-    "phone": "07983 755126",
-    "international_phone": "07983 755126",
+    "name": "MEC Digger Hire LTD",
+    "address": "Kingsmans Farm, Tye Common Rd, Billericay, CM12 9PZ, GB",
+    "phone": "01277 376090",
+    "international_phone": "01277 376090",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Cambridge+Plant+Hire/data=!4m7!3m6!1s0x47d871cdf3e949f9:0xab40940ab3851b22!8m2!3d52.2561514!4d0.1748419!16s%2Fg%2F11kbsxx7f7!19sChIJ-Unp881x2EcRIhuFswqUQKs?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/MEC+Digger+Hire+LTD/data=!4m7!3m6!1s0x47d8c1e553ec1b3b:0xe3a24d792fdbcfa5!8m2!3d51.6174445!4d0.4049459!16s%2Fg%2F11jmxt98_b!19sChIJOxvsU-XB2EcRpc_bL3lNouM?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
-    "lat": 52.256151,
-    "lng": 0.174842,
-    "found_in_location": "Cambridge",
+    "lat": 51.617444,
+    "lng": 0.404946,
+    "found_in_location": "Basildon",
     "found_with_query": "plant east"
+  },
+  {
+    "name": "Mineral Processing & Safety Ltd",
+    "address": "Peterborough Rd, Whittlesey, Peterborough, PE7 1PD, GB",
+    "phone": "07879 447561",
+    "international_phone": "07879 447561",
+    "website": "http://mpsgb.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Mineral+Processing+%26+Safety+Ltd/data=!4m7!3m6!1s0x47d800fff5c2a6b7:0x4648a7c37a5ed5a1!8m2!3d52.5601181!4d-0.1525731!16s%2Fg%2F11g03vb3gy!19sChIJt6bC9f8A2EcRodVeesOnSEY?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.560118,
+    "lng": -0.152573,
+    "found_in_location": "Peterborough",
+    "found_with_query": "plant east",
+    "email": "amoseley@mpsgb.com",
+    "emails": [
+      "amoseley@mpsgb.com"
+    ],
+    "description": "At Mineral Processing & Safety LTD we source and sell the most reliable heavy machinery across the country! Get your new machine today!",
+    "services": [
+      "Dumper",
+      "Excavator"
+    ]
+  },
+  {
+    "name": "Mini Digger Hire Self-Drive and Operated",
+    "address": "3 College Dr, Dunstable, LU5 4NB, GB",
+    "phone": "07897 036591",
+    "international_phone": "07897 036591",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Mini+Digger+Hire+Self-Drive+and+Operated/data=!4m7!3m6!1s0x48764f6ca4fdc3ef:0xd45b0a6e568140c9!8m2!3d51.8904631!4d-0.5174206!16s%2Fg%2F11ryfn73_d!19sChIJ78P9pGxPdkgRyUCBVm4KW9Q?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.890463,
+    "lng": -0.517421,
+    "found_in_location": "Luton",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Mooney Telehander hire",
+    "address": "Gypsy Ln, Norwich, NR20 3RS, GB",
+    "phone": "07768 692015",
+    "international_phone": "07768 692015",
+    "website": "http://www.mooneytelehandlerhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Mooney+Telehander+hire/data=!4m7!3m6!1s0x47d9d9ecbf691635:0xdfc1fa3cac3ec6b2!8m2!3d52.673302!4d1.073334!16s%2Fg%2F11y6m5j1hr!19sChIJNRZpv-zZ2UcRssY-rDz6wd8?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–4:30 pm\"],\"Monday\":[\"7:30 am–4:30 pm\"],\"Saturday\":[\"9 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–4:30 pm\"],\"Tuesday\":[\"7:30 am–4:30 pm\"],\"Wednesday\":[\"7:30 am–4:30 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 52.673302,
+    "lng": 1.073334,
+    "found_in_location": "Norwich",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Noblelift UK",
+    "address": "Unit 9, Apex Park, Fraserfields Wy, Leighton Buzzard, LU7 3RE, GB",
+    "phone": "01525 493777",
+    "international_phone": "01525 493777",
+    "website": "https://www.noblelift.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Noblelift+UK/data=!4m7!3m6!1s0x48765153ddb8e5f1:0x528c03d0a1e1d2a6!8m2!3d51.91137!4d-0.628628!16s%2Fg%2F11x8p9kq7q!19sChIJ8eW43VNRdkgRptLhodADjFI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
+    "types": "Material handling equipment supplier",
+    "lat": 51.91137,
+    "lng": -0.628628,
+    "found_in_location": "Luton",
+    "found_with_query": "plant east"
+  },
+  {
+    "name": "Pauly's Mini Digger Hire",
+    "address": "21 Elm Grove Ln, Norwich, NR3 3LE, GB",
+    "phone": "07999 976127",
+    "international_phone": "07999 976127",
+    "website": "https://www.paulysdiggerhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Pauly%27s+Mini+Digger+Hire/data=!4m7!3m6!1s0x47d9e3d3cbf9dcaf:0x18bf24c3805909fa!8m2!3d52.6486115!4d1.2960404!16s%2Fg%2F11frdw6byb!19sChIJr9z5y9Pj2UcR-glZgMMkvxg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 52.648611,
+    "lng": 1.29604,
+    "found_in_location": "Norwich",
+    "found_with_query": "plant east",
+    "description": "*1-21 Tonne Digger Hire With Experienced Operators - Fully Insured - Excellent Rates* Demolition & Groundwork :We offer a personal service and work closely with our customers to make sure they get the best out of any project.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator"
+    ]
   },
   {
     "name": "Prestige Digger And Driver",
@@ -5716,184 +5692,6 @@
     "services": [
       "Excavator",
       "Mini Digger"
-    ]
-  },
-  {
-    "name": "Atlas Plant Hire Limited",
-    "address": "CB1 Business Centre, Station Rd, Cambridge, CB1 2TD, GB",
-    "phone": "07756 988665",
-    "international_phone": "07756 988665",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Atlas+Plant+Hire+Limited/data=!4m7!3m6!1s0x47d8708323455555:0xcf6023f0a3489e95!8m2!3d52.1944016!4d0.1335879!16s%2Fg%2F11ggngjtkn!19sChIJVVVFI4Nw2EcRlZ5Io_AjYM8?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 52.194402,
-    "lng": 0.133588,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "CM PLANT AND TOOL HIRE",
-    "address": "26 Fenlake Business Centre, Peterborough, PE1 5BQ, GB",
-    "phone": "07701 325656",
-    "international_phone": "07701 325656",
-    "website": "https://cmdemolition.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/CM+PLANT+AND+TOOL+HIRE/data=!4m7!3m6!1s0x4877f1b4097fff6b:0xf07f21879691409a!8m2!3d52.571407!4d-0.2091697!16s%2Fg%2F11y3n901gw!19sChIJa_9_CbTxd0gRmkCRlochf_A?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.571407,
-    "lng": -0.20917,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Huntingdon Plant Hire",
-    "address": "Cross Rd, Peterborough, PE6 9QA, GB",
-    "phone": "0808 202 4531",
-    "international_phone": "0808 202 4531",
-    "website": "https://www.huntingdon-plant-hire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Huntingdon+Plant+Hire/data=!4m7!3m6!1s0x48781e15c70cce67:0xeeb3f2e70a80acb3!8m2!3d52.7063929!4d-0.3050821!16s%2Fg%2F1hc3wtk9c!19sChIJZ84MxxUeeEgRs6yACufys-4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.706393,
-    "lng": -0.305082,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east",
-    "email": "sales@huntingdon-plant-hire.co.uk",
-    "emails": [
-      "sales@huntingdon-plant-hire.co.uk"
-    ],
-    "description": "Huntingdon Plant Hire specialising in mobile crane hire for a range of terrains in Cambridge, Bedford, Peterborough and Northampton. We also offer sweeper hire and access platform hire in Cambridgeshire.",
-    "services": [
-      "Cherry Picker",
-      "Excavator",
-      "Forklift",
-      "Telehandler"
-    ]
-  },
-  {
-    "name": "Trinity Tool & Plant Hire",
-    "address": "Crease Drove, Crowland, Peterborough, PE6 0BN, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Trinity+Tool+%26+Plant+Hire/data=!4m7!3m6!1s0x4877f8380eecba87:0xbc2d6f9420b5cdbb!8m2!3d52.6715055!4d-0.1720034!16s%2Fg%2F11gvrllr8n!19sChIJh7rsDjj4d0gRu821IJRvLbw?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6:30 pm\"],\"Monday\":[\"8 am–6:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6:30 pm\"],\"Tuesday\":[\"8 am–6:30 pm\"],\"Wednesday\":[\"8 am–6:30 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.671505,
-    "lng": -0.172003,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Diggerworx (Chelmsford)",
-    "address": "39 Jubilee Ave, Broomfield, Chelmsford, CM1 7HE, GB",
-    "phone": "07503 665514",
-    "international_phone": "07503 665514",
-    "website": "https://www.diggerworx.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Diggerworx+%28Chelmsford%29/data=!4m7!3m6!1s0x47d8ed0ac7189373:0x658a3ea66056c990!8m2!3d51.7692467!4d0.4688995!16s%2Fg%2F11h0rfxzdl!19sChIJc5MYxwrt2EcRkMlWYKY-imU?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.769247,
-    "lng": 0.468899,
-    "found_in_location": "Chelmsford",
-    "found_with_query": "plant east",
-    "email": "info@diggerworx.co.uk",
-    "emails": [
-      "info@diggerworx.co.uk"
-    ],
-    "description": "Diggerworx is a family run company based in Essex, we have over 25 years experience in the demolition & groundworks industry. We offer an extensive range of diggers",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger"
-    ]
-  },
-  {
-    "name": "MEC Digger Hire LTD",
-    "address": "Kingsmans Farm, Tye Common Rd, Billericay, CM12 9PZ, GB",
-    "phone": "01277 376090",
-    "international_phone": "01277 376090",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/MEC+Digger+Hire+LTD/data=!4m7!3m6!1s0x47d8c1e553ec1b3b:0xe3a24d792fdbcfa5!8m2!3d51.6174445!4d0.4049459!16s%2Fg%2F11jmxt98_b!19sChIJOxvsU-XB2EcRpc_bL3lNouM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.617444,
-    "lng": 0.404946,
-    "found_in_location": "Basildon",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Groundworks & Demolition Essex - BC Digger Hire",
-    "address": "27 Tempest Way, Rainham, RM13 7PX, GB",
-    "phone": "07984 948929",
-    "international_phone": "07984 948929",
-    "website": "https://bcdiggerhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Groundworks+%26+Demolition+Essex+-+BC+Digger+Hire/data=!4m7!3m6!1s0x47d8bbc07796cc7d:0x68da970aaf5e3410!8m2!3d51.5418497!4d0.1962923!16s%2Fg%2F11fk185gdc!19sChIJfcyWd8C72EcREDRerwqX2mg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Excavating contractor",
-    "lat": 51.54185,
-    "lng": 0.196292,
-    "found_in_location": "Basildon",
-    "found_with_query": "plant east",
-    "email": "info@bcdiggerhire.co.uk",
-    "emails": [
-      "info@bcdiggerhire.co.uk",
-      "bcdiggerhire@hotmail.com"
-    ],
-    "description": "We specialise in digger hire across East London and Essex. For digger hire in London & Essex or for any of our other services call 07984 948929.",
-    "services": [
-      "Excavator",
-      "Mini Digger"
-    ]
-  },
-  {
-    "name": "Southend mini diggers",
-    "address": "Poynters Ln, Southend-on-Sea, SS3 9TS, GB",
-    "phone": "07747 673822",
-    "international_phone": "07747 673822",
-    "website": "http://www.southendminidiggers.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Southend+mini+diggers/data=!4m7!3m6!1s0x47d9273cf2815799:0xc917f1978f8c14ae!8m2!3d51.5422582!4d0.8017125!16s%2Fg%2F11v044jyj1!19sChIJmVeB8jwn2UcRrhSMj5fxF8k?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.542258,
-    "lng": 0.801712,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east",
-    "email": "hire@southendminidiggers.co.uk",
-    "emails": [
-      "hire@southendminidiggers.co.uk"
-    ],
-    "services": [
-      "Breaker",
-      "Dumper",
-      "Excavator",
-      "Mini Digger",
-      "Skid Steer"
     ]
   },
   {
@@ -5925,38 +5723,65 @@
     ]
   },
   {
-    "name": "Ash Plant Hire Ltd",
-    "address": "Suite 12, 648-656 London Rd, Westcliff-on-Sea, Southend-on-Sea, Westcliff-on-Sea, SS0 9HR, GB",
-    "phone": "01277 829000",
-    "international_phone": "01277 829000",
-    "website": "https://aphgroundworksolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Ash+Plant+Hire+Ltd/data=!4m7!3m6!1s0x47d8d999c5913fd1:0xaae5c476f16500ac!8m2!3d51.545454!4d0.6821381!16s%2Fg%2F11g9ghzskg!19sChIJ0T-RxZnZ2EcRrABl8XbE5ao?authuser=0&hl=en&rclk=1",
+    "name": "Southend mini diggers",
+    "address": "Poynters Ln, Southend-on-Sea, SS3 9TS, GB",
+    "phone": "07747 673822",
+    "international_phone": "07747 673822",
+    "website": "http://www.southendminidiggers.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Southend+mini+diggers/data=!4m7!3m6!1s0x47d9273cf2815799:0xc917f1978f8c14ae!8m2!3d51.5422582!4d0.8017125!16s%2Fg%2F11v044jyj1!19sChIJmVeB8jwn2UcRrhSMj5fxF8k?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 51.542258,
+    "lng": 0.801712,
+    "found_in_location": "Southend-on-Sea",
+    "found_with_query": "plant east",
+    "email": "hire@southendminidiggers.co.uk",
+    "emails": [
+      "hire@southendminidiggers.co.uk"
+    ],
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Skid Steer"
+    ]
+  },
+  {
+    "name": "Tracked Dumper Hire",
+    "address": "Manor Farm, C & A Taylor Farms Ltd, Field Dalling Rd, Binham, Fakenham, NR21 0DE, GB",
+    "phone": "07775 728839",
+    "international_phone": "07775 728839",
+    "website": "http://www.trackeddumperhireuk.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Tracked+Dumper+Hire/data=!4m7!3m6!1s0x47d771abb5aedf95:0x7eb4db1003b269b5!8m2!3d52.9169818!4d0.9500397!16s%2Fg%2F1tjwg_l7!19sChIJld-utatx10cRtWmyAxDbtH4?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 51.545454,
-    "lng": 0.682138,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east",
-    "description": "Site will be available soon. Thank you for your patience!"
+    "lat": 52.916982,
+    "lng": 0.95004,
+    "found_in_location": "Norwich",
+    "found_with_query": "plant east"
   },
   {
-    "name": "Mini Digger Hire Self-Drive and Operated",
-    "address": "3 College Dr, Dunstable, LU5 4NB, GB",
-    "phone": "07897 036591",
-    "international_phone": "07897 036591",
+    "name": "Trinity Tool & Plant Hire",
+    "address": "Crease Drove, Crowland, Peterborough, PE6 0BN, GB",
+    "phone": "",
+    "international_phone": "",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Mini+Digger+Hire+Self-Drive+and+Operated/data=!4m7!3m6!1s0x48764f6ca4fdc3ef:0xd45b0a6e568140c9!8m2!3d51.8904631!4d-0.5174206!16s%2Fg%2F11ryfn73_d!19sChIJ78P9pGxPdkgRyUCBVm4KW9Q?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/Trinity+Tool+%26+Plant+Hire/data=!4m7!3m6!1s0x4877f8380eecba87:0xbc2d6f9420b5cdbb!8m2!3d52.6715055!4d-0.1720034!16s%2Fg%2F11gvrllr8n!19sChIJh7rsDjj4d0gRu821IJRvLbw?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6:30 pm\"],\"Monday\":[\"8 am–6:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6:30 pm\"],\"Tuesday\":[\"8 am–6:30 pm\"],\"Wednesday\":[\"8 am–6:30 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 51.890463,
-    "lng": -0.517421,
-    "found_in_location": "Luton",
+    "lat": 52.671505,
+    "lng": -0.172003,
+    "found_in_location": "Peterborough",
     "found_with_query": "plant east"
   },
   {
@@ -5976,115 +5801,6 @@
     "found_in_location": "Ipswich",
     "found_with_query": "plant east",
     "description": "Explore TRU7: A diversified supplier to the construction, demolition and agriculture industries in Ipswich, Suffolk with vehicles for hire, sale & more"
-  },
-  {
-    "name": "Mineral Processing & Safety Ltd",
-    "address": "Peterborough Rd, Whittlesey, Peterborough, PE7 1PD, GB",
-    "phone": "07879 447561",
-    "international_phone": "07879 447561",
-    "website": "http://mpsgb.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Mineral+Processing+%26+Safety+Ltd/data=!4m7!3m6!1s0x47d800fff5c2a6b7:0x4648a7c37a5ed5a1!8m2!3d52.5601181!4d-0.1525731!16s%2Fg%2F11g03vb3gy!19sChIJt6bC9f8A2EcRodVeesOnSEY?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.560118,
-    "lng": -0.152573,
-    "found_in_location": "Peterborough",
-    "found_with_query": "plant east",
-    "email": "amoseley@mpsgb.com",
-    "emails": [
-      "amoseley@mpsgb.com"
-    ],
-    "description": "At Mineral Processing & Safety LTD we source and sell the most reliable heavy machinery across the country! Get your new machine today!",
-    "services": [
-      "Dumper",
-      "Excavator"
-    ]
-  },
-  {
-    "name": "Brookfarm Plant Hire & Grounds Maintenance",
-    "address": "Halstead Rd, Fordham, Colchester, CO6 3LW, GB",
-    "phone": "07946 212260",
-    "international_phone": "07946 212260",
-    "website": "https://www.brookfarmplantandsales.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Brookfarm+Plant+Hire+%26+Grounds+Maintenance/data=!4m7!3m6!1s0x27f75cf1b79ab985:0xae2407bacfede76c!8m2!3d51.9136912!4d0.7833442!16s%2Fg%2F11yz6jd2h3!19sChIJhbmat_Fc9ycRbOftz7oHJK4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 51.913691,
-    "lng": 0.783344,
-    "found_in_location": "Colchester",
-    "found_with_query": "plant east",
-    "email": "brookfarmplant@outlook.com",
-    "emails": [
-      "brookfarmplant@outlook.com"
-    ],
-    "description": "Plant and machinery hire and sales, and driver only hire."
-  },
-  {
-    "name": "Hireforce - Cambridge",
-    "address": "2-3, Brickyard Industrial Estate, Coldham's Rd, Cambridge, CB1 3EW, GB",
-    "phone": "01223 739555",
-    "international_phone": "01223 739555",
-    "website": "https://www.hireforce.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Hireforce+-+Cambridge/data=!4m7!3m6!1s0x47d8719db00d2971:0xe7bbbec136a729b7!8m2!3d52.2083381!4d0.1488214!16s%2Fg%2F11ybz86gj8!19sChIJcSkNsJ1x2EcRtymnNsG-u-c?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Tool rental service",
-    "lat": 52.208338,
-    "lng": 0.148821,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east",
-    "email": "enquiries@hireforce.com",
-    "emails": [
-      "enquiries@hireforce.com",
-      "cambridge@hireforce.com",
-      "derby@hireforce.com",
-      "nottingham@hireforce.com",
-      "sheffield@hireforce.com",
-      "enquiries@hireforceuk.com",
-      "birmingham@hireforce.co",
-      "birmingham@hireforceuk.com",
-      "derby@hireforceuk.com",
-      "derekgratton@hireforceuk.com",
-      "hiredesk@hireforce-one.com",
-      "leicester@hireforce.co",
-      "leicester@hireforceuk.com",
-      "nottingham@hireforceuk.com"
-    ],
-    "description": "Hireforce Ltd provides high quality, fast response tool and equipment hire from its network of depots across the Midlands in Birmingham, Leicester, Nottingham, Derby, Sheffield and Cambridge"
-  },
-  {
-    "name": "A B Plant Hire",
-    "address": "New Kildare, Hall Road, Hockley, SS5 5JT, GB",
-    "phone": "01268 786228",
-    "international_phone": "01268 786228",
-    "website": "http://planthireessex.net/",
-    "google_maps_url": "https://www.google.com/maps/place/A+B+Plant+Hire/data=!4m7!3m6!1s0x47d8dc068b036615:0x65740ba66c8b9c11!8m2!3d51.619078!4d0.6788922!16s%2Fg%2F11y3d6nb3k!19sChIJFWYDiwbc2EcREZyLbKYLdGU?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 51.619078,
-    "lng": 0.678892,
-    "found_in_location": "Southend-on-Sea",
-    "found_with_query": "plant east",
-    "description": "For specialist plant machinery hire services in the Essex area, contact A B Plant Hire. Call us on 01268 786228.",
-    "services": [
-      "Breaker",
-      "Compressor",
-      "Dumper",
-      "Excavator",
-      "Mini Digger",
-      "Roller"
-    ]
   },
   {
     "name": "Wix Mini Plant Hire",
@@ -6109,109 +5825,5 @@
       "Dumper",
       "Mini Digger"
     ]
-  },
-  {
-    "name": "Tracked Dumper Hire",
-    "address": "Manor Farm, C & A Taylor Farms Ltd, Field Dalling Rd, Binham, Fakenham, NR21 0DE, GB",
-    "phone": "07775 728839",
-    "international_phone": "07775 728839",
-    "website": "http://www.trackeddumperhireuk.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Tracked+Dumper+Hire/data=!4m7!3m6!1s0x47d771abb5aedf95:0x7eb4db1003b269b5!8m2!3d52.9169818!4d0.9500397!16s%2Fg%2F1tjwg_l7!19sChIJld-utatx10cRtWmyAxDbtH4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 52.916982,
-    "lng": 0.95004,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "JLG Farm Services LTD",
-    "address": "JLG Farm Services Ltd, The Heath, Hevingham, Norwich, NR10 5QL, GB",
-    "phone": "07810 583321",
-    "international_phone": "07810 583321",
-    "website": "http://www.webuyanymachinery.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/JLG+Farm+Services+LTD/data=!4m7!3m6!1s0x47d75c31fea7c877:0xa3cce1e64676e2f4!8m2!3d52.7472898!4d1.233178!16s%2Fg%2F11c5841wzt!19sChIJd8in_jFc10cR9OJ2RubhzKM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Farm equipment supplier",
-    "lat": 52.74729,
-    "lng": 1.233178,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east",
-    "description": "Here at JLG Farm Services Ltd, we are a family run business, located in Norfolk, a rural part of East Anglia. Our business specialises in buying and selling used machinery.",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Forklift",
-      "Roller"
-    ]
-  },
-  {
-    "name": "HN Plant & Machinery Hire - Ely",
-    "address": "16 Orchard Way, Haddenham, ELY, CB6 3UT, GB",
-    "phone": "07887 499668",
-    "international_phone": "07887 499668",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/HN+Plant+%26+Machinery+Hire+-+Ely/data=!4m7!3m6!1s0x47d8737f5979ec53:0xbe5180388990e353!8m2!3d52.3532302!4d0.1528088!16s%2Fg%2F11t4c9fvc5!19sChIJU-x5WX9z2EcRU-OQiTiAUb4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.35323,
-    "lng": 0.152809,
-    "found_in_location": "Cambridge",
-    "found_with_query": "plant east"
-  },
-  {
-    "name": "Pioneer Pump Solutions Ltd",
-    "address": "21 Boss Hall Rd, Ipswich, IP1 5BN, GB",
-    "phone": "0800 707 6011",
-    "international_phone": "0800 707 6011",
-    "website": "http://www.pioneer-hire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pioneer+Pump+Solutions+Ltd/data=!4m7!3m6!1s0x47d9a14b74b538b5:0x238eaf8f7504033d!8m2!3d52.0644233!4d1.1243454!16s%2Fg%2F11fjy34zks!19sChIJtTi1dEuh2UcRPQMEdY-vjiM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 52.064423,
-    "lng": 1.124345,
-    "found_in_location": "Ipswich",
-    "found_with_query": "plant east",
-    "email": "east@pioneer-hire.co.uk",
-    "emails": [
-      "east@pioneer-hire.co.uk",
-      "europe@pioneer-hire.co.uk",
-      "midlands@pioneer-hire.co.uk",
-      "northeast@pioneer-hire.co.uk",
-      "northwest@pioneer-hire.co.uk",
-      "southeast@pioneer-hire.co.uk",
-      "southwest@pioneer-hire.co.uk",
-      "wales@pioneer-hire.co.uk"
-    ],
-    "description": "Explore our range of pump packages designed for optimal performance in the toughest environments."
-  },
-  {
-    "name": "Adcock Plant Ltd",
-    "address": "20 Hardley St, Hardley, Norwich, NR14 6BY, GB",
-    "phone": "01508 528533",
-    "international_phone": "01508 528533",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Adcock+Plant+Ltd/data=!4m7!3m6!1s0x47d9f9a2fe45f485:0x9e12c207f27559b!8m2!3d52.5567199!4d1.5110434!16s%2Fg%2F1tj20tk1!19sChIJhfRF_qL52UcRm1UnfyAs4Qk?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 52.55672,
-    "lng": 1.511043,
-    "found_in_location": "Norwich",
-    "found_with_query": "plant east"
   }
 ]

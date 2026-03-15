@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Driving Lessons in ${r.mainCity} & ${r.theName}`,
       intro: `Learning to drive is a major milestone and choosing the right instructor makes all the difference. Whether you are a complete beginner or looking to switch instructors, this guide covers everything you need to know about driving lessons in ${r.theName}, from what to look for in an instructor to how many lessons you will need.`,
       sections: [
+        ...(r.insights?.driving ? [{
+          heading: `Driving Lessons in ${r.theName}: Local Market Insights`,
+          content: r.insights.driving,
+        }] : []),
         {
           heading: "How to Choose a Driving Instructor",
           content: `The most important factor is finding an instructor you feel comfortable with. A good instructor is patient, clear in their explanations, and adapts to your learning pace. Check that they are DVSA-approved (look for the green badge on the windscreen, which means they are a fully qualified Approved Driving Instructor). Trainee instructors display a pink badge and are still learning to teach, though they can be perfectly good. Read Google reviews from past pupils in ${r.theName} and ask for recommendations from friends or family who have recently passed. Most instructors offer a discounted first lesson so you can try before committing to a block booking.`,

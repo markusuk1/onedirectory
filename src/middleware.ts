@@ -4,6 +4,8 @@ import { PRODUCT_SLUGS } from "@/lib/productConfig";
 
 const STATIC_ROUTES = new Set([
   "about",
+  "blog",
+  "faq",
   "guides",
   "get-quotes",
   "quote",

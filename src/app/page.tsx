@@ -219,31 +219,30 @@ export default async function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-white border border-border rounded-xl p-6 md:p-8">
-              <h2 className="text-2xl font-bold text-text mb-3">What we do</h2>
+              <h2 className="text-2xl font-bold text-text mb-3">
+                {site.homepageContent.whatWeDo.heading}
+              </h2>
               <p className="text-text-light leading-relaxed">
-                {site.genericName} is a multi-service local comparison platform.
-                We connect customers with relevant providers across many service
-                categories, locations and use cases — not just one vertical.
+                {site.homepageContent.whatWeDo.body}
               </p>
               <ul className="mt-4 space-y-2 text-text-light list-disc pl-5">
-                <li>One platform for many service types and regions</li>
-                <li>Structured quote requests routed to suitable providers</li>
-                <li>Clear side-by-side comparison before booking</li>
+                {site.homepageContent.whatWeDo.bullets.map((b, i) => (
+                  <li key={i}>{b}</li>
+                ))}
               </ul>
             </div>
 
             <div className="bg-white border border-border rounded-xl p-6 md:p-8">
-              <h2 className="text-2xl font-bold text-text mb-3">Why we do it</h2>
+              <h2 className="text-2xl font-bold text-text mb-3">
+                {site.homepageContent.whyWeDo.heading}
+              </h2>
               <p className="text-text-light leading-relaxed">
-                Finding reliable local providers is fragmented in most
-                categories. We built this to standardise discovery, quote
-                collection and comparison so customers get better decisions and
-                providers receive clearer enquiries.
+                {site.homepageContent.whyWeDo.body}
               </p>
               <ul className="mt-4 space-y-2 text-text-light list-disc pl-5">
-                <li>Reduce friction in local service discovery</li>
-                <li>Improve quality and consistency of incoming enquiries</li>
-                <li>Scale cleanly as new categories are added</li>
+                {site.homepageContent.whyWeDo.bullets.map((b, i) => (
+                  <li key={i}>{b}</li>
+                ))}
               </ul>
             </div>
           </div>

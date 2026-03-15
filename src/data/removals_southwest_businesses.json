@@ -16,6 +16,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "dlremovals@gmail.com",
+    "emails": [
+      "dlremovals@gmail.com"
+    ],
     "description": "DL Removals Bristol – Home and Office Removals Removals in Bristol DL Removals Bristol are here to make your next move as simple as possible! From packing to transporting your belongings, our team is on hand to help with every aspect of the move. Our fleet consists of fully equipped removal..."
   },
   {
@@ -35,6 +38,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@bigtunamoving.com",
+    "emails": [
+      "info@bigtunamoving.com"
+    ],
     "description": "Need reliable removals in Plymouth? Big Tuna offers stress-free moving services with an experienced, friendly team. Get your free quote!"
   },
   {
@@ -54,6 +60,9 @@
     "found_in_location": "Torquay",
     "found_with_query": "removals southwest",
     "email": "info@clearance4less.co.uk",
+    "emails": [
+      "info@clearance4less.co.uk"
+    ],
     "description": "Is your domestic or commercial property in need of a complete cleaning in Totnes? If so, call us for waste collection throughout Devon."
   },
   {
@@ -73,6 +82,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@houseclearance4u.com",
+    "emails": [
+      "info@houseclearance4u.com"
+    ],
     "description": "Home, Office & Commercial clearance services to customers across Dorset and Hampshire. Call for a FREE quote."
   },
   {
@@ -92,25 +104,6 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "description": "We understand that moving can be stressful, which is why we offer a range of removal services to make your relocation quick, easy and stress free."
-  },
-  {
-    "name": "BM Services 24HR Rescue And Recovery Exeter",
-    "address": "Exeter, EX2 9SQ, GB",
-    "phone": "07946 272620",
-    "international_phone": "07946 272620",
-    "website": "https://bmservicesrecovery.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/BM+Services+24HR+Rescue+And+Recovery+Exeter/data=!4m7!3m6!1s0xe2912132e295999:0x3763af9cb4cd1d10!8m2!3d50.67163!4d-3.5366454!16s%2Fg%2F11y3mmz6_c!19sChIJmVkpLhMSKQ4REB3NtJyvYzc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 237,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Towing service",
-    "lat": 50.67163,
-    "lng": -3.536645,
-    "found_in_location": "Exeter",
-    "found_with_query": "removals southwest",
-    "email": "bmservicesdevon@hotmail.com",
-    "description": "Exeter, Recovery, Exeter, Breakdown, Exeter, Roadside Assistance, Exeter, Broken Down, Exeter, Rescue"
   },
   {
     "name": "Moving Professionals Ltd",
@@ -165,6 +158,9 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "enquiries@clearandcleancompany.com",
+    "emails": [
+      "enquiries@clearandcleancompany.com"
+    ],
     "description": "A Family-run House Clearance Company in Gloucestershire: House, Shed, Garage, Lettings Properties. Eco-friendly House Clearance."
   },
   {
@@ -184,6 +180,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "luckylukas.removals@gmail.com",
+    "emails": [
+      "luckylukas.removals@gmail.com"
+    ],
     "description": "Get stress-free removals, storage, and commercial services in Dorset. Contact Lucky Lukas Removals for a custom quote today!"
   },
   {
@@ -203,6 +202,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@dorsetremovals.uk",
+    "emails": [
+      "info@dorsetremovals.uk"
+    ],
     "description": "Need reliable, insured Dorset removals? We offer guaranteed residential and commercial moving services, professional packing, and secure storage across the entire region. Get a fixed quote today!"
   },
   {
@@ -222,6 +224,10 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "tim@ghclearances.co.uk",
+    "emails": [
+      "tim@ghclearances.co.uk",
+      "user@domain.com"
+    ],
     "description": "Gloucestershire's only Social Enterprise House Clearance Company"
   },
   {
@@ -241,6 +247,12 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "bookings.pereramovers@gmail.com",
+    "emails": [
+      "bookings.pereramovers@gmail.com",
+      "bookings@pereramovers.co.uk",
+      "email@youremail.com",
+      "emailbookings@pereramovers.co.uk"
+    ],
     "description": "PERERA Movers Removals Company Plymouth Call Us Get Quote Removal Company Plymouth If your're looking for a Plymouth removals company welcome to Perera Movers."
   },
   {
@@ -260,26 +272,10 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@snbservices.co.uk",
+    "emails": [
+      "info@snbservices.co.uk"
+    ],
     "description": "Make S & B Services your first choice for man and van service in Gloucester and the surrounding areas. We are a trusted man and van company. Call us today."
-  },
-  {
-    "name": "wemove",
-    "address": "Store & Secure House, 5 Yeomans Way, Bournemouth, BH8 0BL, GB",
-    "phone": "01202 287587",
-    "international_phone": "01202 287587",
-    "website": "http://www.wemovesouth.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/wemove/data=!4m7!3m6!1s0x4873a202ffff1371:0x9c3198501ad307ef!8m2!3d50.7539561!4d-1.8393755!16s%2Fg%2F11cjh_z5l8!19sChIJcRP__wKic0gR7wfTGlCYMZw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 131,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Removals company",
-    "lat": 50.753956,
-    "lng": -1.839375,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "removals southwest",
-    "email": "talktous@wemovesouth.co.uk",
-    "description": "Looking for trusted removals in Bournemouth, Poole or Christchurch? We Move South offers insured, professional moving services at competitive prices. Get a free quote today!"
   },
   {
     "name": "Bournemouth Rubbish Clearance DMG Waste Management",
@@ -298,7 +294,32 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@dmgwaste.co.uk",
+    "emails": [
+      "info@dmgwaste.co.uk"
+    ],
     "description": "Bournemouth's Leading Low Cost Rubbish Removal. 24-Hour, Same Day Rubbish Clearance. Operating Across Dorset, Poole, Christchurch. Call 07939150757"
+  },
+  {
+    "name": "wemove",
+    "address": "Store & Secure House, 5 Yeomans Way, Bournemouth, BH8 0BL, GB",
+    "phone": "01202 287587",
+    "international_phone": "01202 287587",
+    "website": "http://www.wemovesouth.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/wemove/data=!4m7!3m6!1s0x4873a202ffff1371:0x9c3198501ad307ef!8m2!3d50.7539561!4d-1.8393755!16s%2Fg%2F11cjh_z5l8!19sChIJcRP__wKic0gR7wfTGlCYMZw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 131,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
+    "types": "Removals company",
+    "lat": 50.753956,
+    "lng": -1.839375,
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest",
+    "email": "talktous@wemovesouth.co.uk",
+    "emails": [
+      "talktous@wemovesouth.co.uk"
+    ],
+    "description": "Looking for trusted removals in Bournemouth, Poole or Christchurch? We Move South offers insured, professional moving services at competitive prices. Get a free quote today!"
   },
   {
     "name": "DragonFly Removals Ltd",
@@ -335,6 +356,15 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "contact@ccr-limited.co.uk",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
     "description": "Best Price guaranteed, stress free clearances and removal services in Cheltenham and surroundings. Cotswold Clearance and Removals Ltd"
   },
   {
@@ -354,6 +384,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "tomsvans@gmail.com",
+    "emails": [
+      "tomsvans@gmail.com",
+      "tomsvansbrighton@gmail.com"
+    ],
     "description": "Tom's Vans Bristol Removals is a professional Man with a Van Removals company based in Bristol covering the UK and Europe"
   },
   {
@@ -373,6 +407,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "movingonremovals@hotmail.co.uk",
+    "emails": [
+      "movingonremovals@hotmail.co.uk"
+    ],
     "description": "Removals Plymouth - Moving on Removals is your family run removals service in Plymouth. With over 20 years experience and a reliable service. Grab a free quote today!"
   },
   {
@@ -392,6 +429,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@landjhome.co.uk",
+    "emails": [
+      "info@landjhome.co.uk"
+    ],
     "description": "Moving anything and everything in and around Plymouth. We also cater for all your handyman jobs. Contact us for your no obligation FREE quote. No job is too small!"
   },
   {
@@ -411,6 +451,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@getamoveonremovals.co.uk",
+    "emails": [
+      "info@getamoveonremovals.co.uk"
+    ],
     "description": "If you need removals in Bristol, we have you covered. We offer a wide range of removal services from house moves & office relocations & more."
   },
   {
@@ -430,6 +473,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@rubyremovals.co.uk",
+    "emails": [
+      "info@rubyremovals.co.uk"
+    ],
     "description": "If you are looking for a house removal, house clearance or man and van company in Exeter, look no further than Ruby Removals. Contact us for a quote."
   },
   {
@@ -449,6 +495,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "info@colnclearances.co.uk",
+    "emails": [
+      "info@colnclearances.co.uk"
+    ],
     "description": "Coln Clearances of Cheltenham can often clear your house for free depending on the value of your house items. Visit our website for more details."
   },
   {
@@ -469,25 +518,6 @@
     "found_with_query": "removals southwest"
   },
   {
-    "name": "Macro Removals",
-    "address": "77 Gloucester Rd, Staple Hill, Bristol, BS16 4SL, GB",
-    "phone": "0117 318 5112",
-    "international_phone": "0117 318 5112",
-    "website": "https://macroremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Macro+Removals/data=!4m7!3m6!1s0x48718dddf4d655f5:0x1eac9de14c1dd78a!8m2!3d51.4769231!4d-2.5015924!16s%2Fg%2F11b7q7p75g!19sChIJ9VXW9N2NcUgRitcdTOGdrB4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 91,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
-    "types": "Removals company",
-    "lat": 51.476923,
-    "lng": -2.501592,
-    "found_in_location": "Bristol",
-    "found_with_query": "removals southwest",
-    "email": "info@macroremovals.co.uk",
-    "description": "Macro Removals Bristol. Top-rated and trusted Bristol removal company. We specialise in efficient home removals & packing. Get your free quote today!"
-  },
-  {
     "name": "Cotswold Services Removals Ltd",
     "address": "246 Bath Rd, Cheltenham, GL53 7NB, GB",
     "phone": "0330 043 9735",
@@ -504,7 +534,32 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "hello@cotswoldservicesremovals.co.uk",
+    "emails": [
+      "hello@cotswoldservicesremovals.co.uk"
+    ],
     "description": "Cheltenham's No.1 Moving House & Office Removals offers moving services at affordable prices. Make your next move stress-free. Call Us Today!"
+  },
+  {
+    "name": "Macro Removals",
+    "address": "77 Gloucester Rd, Staple Hill, Bristol, BS16 4SL, GB",
+    "phone": "0117 318 5112",
+    "international_phone": "0117 318 5112",
+    "website": "https://macroremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Macro+Removals/data=!4m7!3m6!1s0x48718dddf4d655f5:0x1eac9de14c1dd78a!8m2!3d51.4769231!4d-2.5015924!16s%2Fg%2F11b7q7p75g!19sChIJ9VXW9N2NcUgRitcdTOGdrB4?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 91,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
+    "types": "Removals company",
+    "lat": 51.476923,
+    "lng": -2.501592,
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest",
+    "email": "info@macroremovals.co.uk",
+    "emails": [
+      "info@macroremovals.co.uk"
+    ],
+    "description": "Macro Removals Bristol. Top-rated and trusted Bristol removal company. We specialise in efficient home removals & packing. Get your free quote today!"
   },
   {
     "name": "McBains and Co",
@@ -522,7 +577,10 @@
     "lng": -3.484382,
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
-    "email": "mcbaintrading@gmail.com"
+    "email": "mcbaintrading@gmail.com",
+    "emails": [
+      "mcbaintrading@gmail.com"
+    ]
   },
   {
     "name": "Vandyman Removals & Storage",
@@ -541,6 +599,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@vandyman.com",
+    "emails": [
+      "info@vandyman.com"
+    ],
     "description": "Welcome to vandyman removals , where we set out the different services we offer, along with how you can contact us for more information."
   },
   {
@@ -578,6 +639,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@sasremovalsplymouth.co.uk",
+    "emails": [
+      "info@sasremovalsplymouth.co.uk"
+    ],
     "description": "SAS Removals delivers reliable removals in Plymouth. House, office, and clearance services from a trusted local removals company. Contact us for a free quote."
   },
   {
@@ -597,6 +661,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "info@clickandmoveltd.co.uk",
+    "emails": [
+      "info@clickandmoveltd.co.uk"
+    ],
     "description": "Professional Removal Company based in Swindon, Wiltshire."
   },
   {
@@ -616,6 +683,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "youremail@domain.com",
+    "emails": [
+      "youremail@domain.com"
+    ],
     "description": "Man and van services. Fast and efficient house, garage and garden clearances in the Clevedon, Nailsea and Portishead area with"
   },
   {
@@ -635,6 +705,17 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@gentlemansmove.com"
+    ],
     "description": "At Gentleman's Move, we provide high- quality, personalised furniture removals with a gentleman's touch throughout Cheltenham & the Cotswolds."
   },
   {
@@ -672,24 +753,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@packandgo-removals.co.uk",
+    "emails": [
+      "info@packandgo-removals.co.uk"
+    ],
     "description": "Pack & Go Removals provides professional moving and packing solutions in Bristol. Family-run, fully insured, and reliable. Contact us for your move."
-  },
-  {
-    "name": "JEAM Courier Ltd",
-    "address": "321 Princess Elizabeth Way, Cheltenham, GL51 7PD, GB",
-    "phone": "07969 910159",
-    "international_phone": "07969 910159",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/JEAM+Courier+Ltd/data=!4m7!3m6!1s0x48711bed30c6a9cb:0x971cb4377e32273c!8m2!3d51.9076841!4d-2.1119579!16s%2Fg%2F11r6lkz_x4!19sChIJy6nGMO0bcUgRPCcyfje0HJc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 65,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–7 pm\"],\"Sunday\":[\"7 am–7 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
-    "types": "Courier service",
-    "lat": 51.907684,
-    "lng": -2.111958,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "removals southwest"
   },
   {
     "name": "Removals & Storage Plymouth",
@@ -708,7 +775,27 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@vandyman.com",
+    "emails": [
+      "info@vandyman.com"
+    ],
     "description": "Whether you need local or nationwide removal services, FC Removals in Plymouth have got you covered. Call now to receive a free quotation!"
+  },
+  {
+    "name": "Magpie Mole Clearance House & Waste Clearance",
+    "address": "32 Leighton Dr, Creech Saint Michael, Taunton, TA3 5DW, GB",
+    "phone": "07521 484943",
+    "international_phone": "07521 484943",
+    "website": "https://m.facebook.com/Magpiemoletreasures/",
+    "google_maps_url": "https://www.google.com/maps/place/Magpie+Mole+Clearance+House+%26+Waste+Clearance/data=!4m7!3m6!1s0x48720b4fbfafd77d:0xdf634d339be3f1d3!8m2!3d51.0292103!4d-3.0444477!16s%2Fg%2F11qbd1jbtq!19sChIJfdevv08LckgR0_HjmzNNY98?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 63,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Waste Collection Service",
+    "lat": 51.02921,
+    "lng": -3.044448,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "The Somerset Removal Company",
@@ -727,24 +814,10 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "info@thesomersetremovalcompany.co.uk",
+    "emails": [
+      "info@thesomersetremovalcompany.co.uk"
+    ],
     "description": "Essential house removal services and self-storage solutions in Somerset and Devon."
-  },
-  {
-    "name": "Magpie Mole Clearance House & Waste Clearance",
-    "address": "32 Leighton Dr, Creech Saint Michael, Taunton, TA3 5DW, GB",
-    "phone": "07521 484943",
-    "international_phone": "07521 484943",
-    "website": "https://m.facebook.com/Magpiemoletreasures/",
-    "google_maps_url": "https://www.google.com/maps/place/Magpie+Mole+Clearance+House+%26+Waste+Clearance/data=!4m7!3m6!1s0x48720b4fbfafd77d:0xdf634d339be3f1d3!8m2!3d51.0292103!4d-3.0444477!16s%2Fg%2F11qbd1jbtq!19sChIJfdevv08LckgR0_HjmzNNY98?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 63,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Waste Collection Service",
-    "lat": 51.02921,
-    "lng": -3.044448,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest"
   },
   {
     "name": "The Original Gentle Man & Van",
@@ -780,6 +853,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@vanmanexeter.co.uk",
+    "emails": [
+      "info@vanmanexeter.co.uk"
+    ],
     "description": "Removals Exeter & Removal Company Exeter, Van Man Removals Exeter 650+ 5 Star Removal Reviews, Approved Removals Exeter - The South Wests Trusted Mover"
   },
   {
@@ -799,7 +875,33 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com"
+    ],
     "description": "Rock Steady Removals: Expert home & business moves and waste disposal in Bristol, Bath, and the Southwest. Fast, reliable, local."
+  },
+  {
+    "name": "Glide Removals",
+    "address": "43 Carmarthen Rd, Cheltenham, GL51 3JZ, GB",
+    "phone": "01242 238940",
+    "international_phone": "01242 238940",
+    "website": "http://www.glideremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Glide+Removals/data=!4m7!3m6!1s0x48711b9d7ea8e0bd:0x374fc991a2a7a008!8m2!3d51.8844577!4d-2.1182266!16s%2Fg%2F11qh2yrf8p!19sChIJveCofp0bcUgRCKCnopHJTzc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 54,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"9 am–1 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Removals Service",
+    "lat": 51.884458,
+    "lng": -2.118227,
+    "found_in_location": "Cheltenham",
+    "found_with_query": "removals southwest",
+    "email": "info@glideremovals.co.uk",
+    "emails": [
+      "info@glideremovals.co.uk"
+    ],
+    "description": "Get your free quote for home and business removals in Cheltenham! Contact the Glide Removal experts today for reliable and efficient service"
   },
   {
     "name": "Superb Moves Swindon",
@@ -819,25 +921,6 @@
     "found_with_query": "removals southwest"
   },
   {
-    "name": "Glide Removals",
-    "address": "43 Carmarthen Rd, Cheltenham, GL51 3JZ, GB",
-    "phone": "01242 238940",
-    "international_phone": "01242 238940",
-    "website": "http://www.glideremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Glide+Removals/data=!4m7!3m6!1s0x48711b9d7ea8e0bd:0x374fc991a2a7a008!8m2!3d51.8844577!4d-2.1182266!16s%2Fg%2F11qh2yrf8p!19sChIJveCofp0bcUgRCKCnopHJTzc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 54,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"9 am–1 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.884458,
-    "lng": -2.118227,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "removals southwest",
-    "email": "info@glideremovals.co.uk",
-    "description": "Get your free quote for home and business removals in Cheltenham! Contact the Glide Removal experts today for reliable and efficient service"
-  },
-  {
     "name": "My Removals and Storage Ltd",
     "address": "4 Cork St, Upper Weston, Bath, BA1 3BB, GB",
     "phone": "01225 941046",
@@ -854,6 +937,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "ashley@myremovals.uk",
+    "emails": [
+      "ashley@myremovals.uk"
+    ],
     "description": "Low cost house removals in Bath and the surrounding area. We also do storage hire and international removals. Call for 01225 941046 a quote."
   },
   {
@@ -873,6 +959,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "enquiries@removeandclear.com",
+    "emails": [
+      "enquiries@removeandclear.com"
+    ],
     "description": "Domestic and commercial waste removal in Plymouth and the surrounding area. Contact us today to arrange a free quote."
   },
   {
@@ -892,6 +981,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "jim@jobdoneuk.co.uk",
+    "emails": [
+      "jim@jobdoneuk.co.uk"
+    ],
     "description": "Need to clear a property in Cheltenham, Gloucester, Tewkesbury, Stroud? Call Jim on 07792271117 for a free, accurate quote. Affordable, 5* waste collection."
   },
   {
@@ -911,26 +1003,10 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@vanmanexeter.co.uk",
+    "emails": [
+      "info@vanmanexeter.co.uk"
+    ],
     "description": "Removals Exeter & Removal Company Exeter, Van Man Removals Exeter 650+ 5 Star Removal Reviews, Approved Removals Exeter - The South Wests Trusted Mover"
-  },
-  {
-    "name": "Man And Van Kowalski-Bristol",
-    "address": "207b Avonmouth Rd, Avonmouth, Bristol, BS11 9EG, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "https://manandvankowalski.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Man+And+Van+Kowalski-Bristol/data=!4m7!3m6!1s0x4871930afa6e73a1:0xe24a04069662ec3c!8m2!3d51.4995155!4d-2.6954017!16s%2Fg%2F11y67f24wc!19sChIJoXNu-gqTcUgRPOxilgYESuI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 49,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals Service",
-    "lat": 51.499516,
-    "lng": -2.695402,
-    "found_in_location": "Bristol",
-    "found_with_query": "removals southwest",
-    "email": "contact@manandvankowalski.co.uk",
-    "description": "Professional man and van Bristol service. House removals and transport by Man And Van Kowalski. Fast, affordable and reliable."
   },
   {
     "name": "Abacus Removals Bristol",
@@ -951,6 +1027,28 @@
     "description": "Removals Bristol. House, Office and Piano removal Specialists. Packing service available. Friendly family run removal business Get your online quote now."
   },
   {
+    "name": "Man And Van Kowalski-Bristol",
+    "address": "207b Avonmouth Rd, Avonmouth, Bristol, BS11 9EG, GB",
+    "phone": "",
+    "international_phone": "",
+    "website": "https://manandvankowalski.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Man+And+Van+Kowalski-Bristol/data=!4m7!3m6!1s0x4871930afa6e73a1:0xe24a04069662ec3c!8m2!3d51.4995155!4d-2.6954017!16s%2Fg%2F11y67f24wc!19sChIJoXNu-gqTcUgRPOxilgYESuI?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 49,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals Service",
+    "lat": 51.499516,
+    "lng": -2.695402,
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest",
+    "email": "contact@manandvankowalski.co.uk",
+    "emails": [
+      "contact@manandvankowalski.co.uk"
+    ],
+    "description": "Professional man and van Bristol service. House removals and transport by Man And Van Kowalski. Fast, affordable and reliable."
+  },
+  {
     "name": "Bournemouth Man And Van",
     "address": "5 Wolverton Rd, Boscombe, Bournemouth, Bournemouth, BH7 6HT, GB",
     "phone": "07786 712784",
@@ -967,6 +1065,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "enquiries@bournemouthmanandvan.co.uk",
+    "emails": [
+      "enquiries@bournemouthmanandvan.co.uk"
+    ],
     "description": "Bournemouth Man and Van is a Family Run Home and Office Furniture Removals Business. Local and National Removals Services catered for. We also provide quotations for House and Office Clearance Services. We are Waste Carrier Licensed."
   },
   {
@@ -1020,6 +1121,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@gpwaste.co.uk",
+    "emails": [
+      "info@gpwaste.co.uk"
+    ],
     "description": "We do Rubbish or trade waste removal, house clearance, recycling, collection and disposal in Plymouth - GPWast removals Plymouth"
   },
   {
@@ -1039,6 +1143,15 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@themovingsolution.com"
+    ],
     "description": "Removal Company Cheltenham Gloucester - Moving Solutions. Are a family run business delivering exceptional and affordable house removals for over 25 years."
   },
   {
@@ -1076,6 +1189,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "waynemunday@removalswiltshire.co.uk",
+    "emails": [
+      "waynemunday@removalswiltshire.co.uk"
+    ],
     "description": "Make your next move less stressful! Whenever you are moving house it is always best to invite the removal company of your choice to your present property. This allows us to find out your requirements before the move."
   },
   {
@@ -1129,6 +1245,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "contact@vinnyvanman.com",
+    "emails": [
+      "contact@vinnyvanman.com"
+    ],
     "description": "Residential and office moves, event transport, special devileries, disposal and unwanted items."
   },
   {
@@ -1184,6 +1303,13 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "bigvanbristol@gmail.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
     "description": "BVM Removals Bristol provide professional and affordable services to clients in Bristol as well as UK-Wide. Leave worry out of the equation by taking advantage"
   },
   {
@@ -1203,6 +1329,9 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@promovegloucester.co.uk",
+    "emails": [
+      "info@promovegloucester.co.uk"
+    ],
     "description": "Trusted Removal Services for Gloucestershire Homes Pro Move Gloucester offers reliable packing, moving, and storage services designed to make your transition smooth and stress-free. Request a quote online with ease and experience professional care tailored to your needs. Book Now Experience..."
   },
   {
@@ -1240,25 +1369,10 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "swindon@blueskyrelocation.co.uk",
+    "emails": [
+      "swindon@blueskyrelocation.co.uk"
+    ],
     "description": "Removals Swindon – 15 Years of expertise for Stress-Free House & Office Removals. Professional, Affordable & Friendly Service. Get a FREE Quote Today!"
-  },
-  {
-    "name": "West Somerset Removals",
-    "address": "8 Needhams Patch, Cotford Saint Luke, Taunton, TA4 1JF, GB",
-    "phone": "01823 429897",
-    "international_phone": "01823 429897",
-    "website": "http://westsomersetremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/West+Somerset+Removals/data=!4m7!3m6!1s0x486df3cc454bcfa9:0x16088af22d852271!8m2!3d51.038639!4d-3.189445!16s%2Fg%2F11ckxxvsxg!19sChIJqc9LRczzbUgRcSKFLfKKCBY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 25,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals company",
-    "lat": 51.038639,
-    "lng": -3.189445,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "info@westsomersetremovals.co.uk"
   },
   {
     "name": "Bright Move",
@@ -1279,6 +1393,27 @@
     "description": "It seems we can’t find what you’re looking for. Perhaps searching can help."
   },
   {
+    "name": "West Somerset Removals",
+    "address": "8 Needhams Patch, Cotford Saint Luke, Taunton, TA4 1JF, GB",
+    "phone": "01823 429897",
+    "international_phone": "01823 429897",
+    "website": "http://westsomersetremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/West+Somerset+Removals/data=!4m7!3m6!1s0x486df3cc454bcfa9:0x16088af22d852271!8m2!3d51.038639!4d-3.189445!16s%2Fg%2F11ckxxvsxg!19sChIJqc9LRczzbUgRcSKFLfKKCBY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 25,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Removals company",
+    "lat": 51.038639,
+    "lng": -3.189445,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest",
+    "email": "info@westsomersetremovals.co.uk",
+    "emails": [
+      "info@westsomersetremovals.co.uk"
+    ]
+  },
+  {
     "name": "Taylor's Removal Services",
     "address": "How Hill, Twerton, Bath, BA2 1DL, GB",
     "phone": "07751 788811",
@@ -1295,6 +1430,10 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "support@webador.com",
+    "emails": [
+      "support@webador.com",
+      "taylorsremovalservice@gmail.com"
+    ],
     "description": "Welcome to Taylor's Removal Services, your trusted family-run removal company based in Bath. We're dedicated to providing a stress-free and efficient moving experience. Let us take the load off your shoulders and help you settle into your new home."
   },
   {
@@ -1314,6 +1453,9 @@
     "found_in_location": "Truro",
     "found_with_query": "removals southwest",
     "email": "kernowremovers@outlook.com",
+    "emails": [
+      "kernowremovers@outlook.com"
+    ],
     "description": "Based in Truro, Cornwall, Kernow Removers provides professional removal and transportation services for domestic and commercial properties."
   },
   {
@@ -1333,6 +1475,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "allrubbishremovedgloucester@gmail.com",
+    "emails": [
+      "allrubbishremovedgloucester@gmail.com"
+    ],
     "description": "Looking for a cheaper alternative to skip hire in Gloucester and surrounding areas. Call us today for FREE Same day quotes & collection. All Rubbish Removed"
   },
   {
@@ -1353,25 +1498,6 @@
     "found_with_query": "removals southwest"
   },
   {
-    "name": "Express Removals and Storage Ltd",
-    "address": "Unit 2, Glevum Works, Upton St, Gloucester, GL1 4LA, GB",
-    "phone": "01452 523676",
-    "international_phone": "01452 523676",
-    "website": "https://express-removals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Express+Removals+and+Storage+Ltd/data=!4m7!3m6!1s0x67e317904fb5a181:0x4da50db302648720!8m2!3d51.8554878!4d-2.2330421!16s%2Fg%2F11j5jkfkv0!19sChIJgaG1T5AX42cRIIdkArMNpU0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.855488,
-    "lng": -2.233042,
-    "found_in_location": "Gloucester",
-    "found_with_query": "removals southwest",
-    "email": "info@express-removals.co.uk",
-    "description": "Removal company Gloucestershire providing removals in Cheltenham, Tewkesbury, Stroud and throughout the rest of county and beyond."
-  },
-  {
     "name": "Ayrton & Co",
     "address": "1 Horace Rd, Boscombe, Bournemouth, BH5 1DY, GB",
     "phone": "0330 229 5242",
@@ -1388,7 +1514,32 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "sales@ayrtonco.co.uk",
+    "emails": [
+      "sales@ayrtonco.co.uk"
+    ],
     "description": "Removals, House & Waste clearance, and Painting & Decorating services. Based in Dorset, covering the UK and beyond."
+  },
+  {
+    "name": "Express Removals and Storage Ltd",
+    "address": "Unit 2, Glevum Works, Upton St, Gloucester, GL1 4LA, GB",
+    "phone": "01452 523676",
+    "international_phone": "01452 523676",
+    "website": "https://express-removals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Express+Removals+and+Storage+Ltd/data=!4m7!3m6!1s0x67e317904fb5a181:0x4da50db302648720!8m2!3d51.8554878!4d-2.2330421!16s%2Fg%2F11j5jkfkv0!19sChIJgaG1T5AX42cRIIdkArMNpU0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 15,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Removals Service",
+    "lat": 51.855488,
+    "lng": -2.233042,
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest",
+    "email": "info@express-removals.co.uk",
+    "emails": [
+      "info@express-removals.co.uk"
+    ],
+    "description": "Removal company Gloucestershire providing removals in Cheltenham, Tewkesbury, Stroud and throughout the rest of county and beyond."
   },
   {
     "name": "Robbins Removals Swindon",
@@ -1407,6 +1558,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "info@robbinsremovals.com",
+    "emails": [
+      "info@robbinsremovals.com"
+    ],
     "description": "Removal Company Swindon by local professionals, Helping you move, whether large or small. Friendly service, great prices and High-quality service."
   },
   {
@@ -1426,26 +1580,10 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "info@allwrightremovals.co.uk",
+    "emails": [
+      "info@allwrightremovals.co.uk"
+    ],
     "description": "With over 30 years of experience, All Wright Removals offers expert removals and secure storage solutions, ensuring a smooth and stress-free move locally, nationally, or internationally."
-  },
-  {
-    "name": "Herbert Davis Removals",
-    "address": "Unit 2A Myers Rd, Gloucester, GL1 3QD, GB",
-    "phone": "0800 195 8474",
-    "international_phone": "0800 195 8474",
-    "website": "https://www.herbert-davis-removals.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Herbert+Davis+Removals/data=!4m7!3m6!1s0x4871050d8689cd51:0xac45135c2d1550ec!8m2!3d51.8634952!4d-2.2272414!16s%2Fg%2F11ss3d0sb2!19sChIJUc2Jhg0FcUgR7FAVLVwTRaw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Removals company",
-    "lat": 51.863495,
-    "lng": -2.227241,
-    "found_in_location": "Gloucester",
-    "found_with_query": "removals southwest",
-    "email": "info@herbert-davis-removals.com",
-    "description": "Herbert Davis has been offering domestic removals, business removals and international moves in Gloucestershire since 1919."
   },
   {
     "name": "D.W. Removals & Services in Bournemouth, Christchurch and Poole",
@@ -1464,7 +1602,33 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@dwremovals.uk",
+    "emails": [
+      "info@dwremovals.uk",
+      "user@domain.com"
+    ],
     "description": "Trusted Bournemouth removals company offering home & office moves, packing services, and storage solutions. Affordable, reliable, and stress-free."
+  },
+  {
+    "name": "Herbert Davis Removals",
+    "address": "Unit 2A Myers Rd, Gloucester, GL1 3QD, GB",
+    "phone": "0800 195 8474",
+    "international_phone": "0800 195 8474",
+    "website": "https://www.herbert-davis-removals.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Herbert+Davis+Removals/data=!4m7!3m6!1s0x4871050d8689cd51:0xac45135c2d1550ec!8m2!3d51.8634952!4d-2.2272414!16s%2Fg%2F11ss3d0sb2!19sChIJUc2Jhg0FcUgR7FAVLVwTRaw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 13,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Removals company",
+    "lat": 51.863495,
+    "lng": -2.227241,
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest",
+    "email": "info@herbert-davis-removals.com",
+    "emails": [
+      "info@herbert-davis-removals.com"
+    ],
+    "description": "Herbert Davis has been offering domestic removals, business removals and international moves in Gloucestershire since 1919."
   },
   {
     "name": "A P C Removals",
@@ -1501,6 +1665,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "eben@eyebytes.com",
+    "emails": [
+      "eben@eyebytes.com"
+    ],
     "description": "COVERING SWINDON, WILTSHIRE & SURROUNDING AREAS"
   },
   {
@@ -1520,6 +1687,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "info@thehouseclearanceshop.com",
+    "emails": [
+      "info@thehouseclearanceshop.com"
+    ],
     "description": "We understand that dealing with a deceased estate, and the life time of possessions can be emotionally and physically overwhelming. We will try to help relieve some of that pressure."
   },
   {
@@ -1539,6 +1709,9 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@sseremovals.co.uk",
+    "emails": [
+      "info@sseremovals.co.uk"
+    ],
     "description": "Greetings from SSE Removals! We offer trustworthy and secure moving services for residences, workplaces, and businesses. We're ready to make your move easy, whether you need assistance with packing, transportation, storage, or house removals. Our staff are ready to help with man-and-van..."
   },
   {
@@ -1575,6 +1748,12 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+      "elitemovingservices01@gmail.com"
+    ],
     "description": "Discover Elite Moving Services, your multi award-winning, professional, and reliable removal company. Get free quotes and estimates today!"
   },
   {
@@ -1611,25 +1790,27 @@
     "found_in_location": "Truro",
     "found_with_query": "removals southwest",
     "email": "enquiries@truroremovals.co.uk",
+    "emails": [
+      "enquiries@truroremovals.co.uk"
+    ],
     "description": "We do domestic and commercial removals and clearances of any size including business and office moves and will assist you with the planning and implementation. Removals are carried out by our uniformed staff."
   },
   {
-    "name": "The handy van man and Van Taunton",
-    "address": "3 Priory Ave, Taunton, TA1 1QS, GB",
-    "phone": "01823 662963",
-    "international_phone": "01823 662963",
-    "website": "http://www.thehandyvan.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+handy+van+man+and+Van+Taunton/data=!4m7!3m6!1s0x486df527ae5e0961:0xea9e89a1341657c3!8m2!3d51.020663!4d-3.0929665!16s%2Fg%2F11tp7dpd51!19sChIJYQlerif1bUgRw1cWNKGJnuo?authuser=0&hl=en&rclk=1",
+    "name": "Blatchford International Movers",
+    "address": "Peamore Commercial Centre, Alphington, Exeter, EX2 9SL, GB",
+    "phone": "01392 833200",
+    "international_phone": "01392 833200",
+    "website": "http://www.blatchfordsint.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Blatchford+International+Movers/data=!4m7!3m6!1s0x486da6f0210477a9:0xaf05b3c205a79550!8m2!3d50.6799366!4d-3.5293927!16s%2Fg%2F1tct847v!19sChIJqXcEIfCmbUgRUJWnBcKzBa8?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Transportation service",
-    "lat": 51.020663,
-    "lng": -3.092966,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "description": "For a removals van you can trust in Taunton, contact The Handy Van today. For more information about the removal services provided, call today on 07788 450274."
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
+    "types": "Removals Service",
+    "lat": 50.679937,
+    "lng": -3.529393,
+    "found_in_location": "Exeter",
+    "found_with_query": "removals southwest"
   },
   {
     "name": "House Clearance Cheltenham",
@@ -1648,6 +1829,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "chris@houseclearancecheltenham.com",
+    "emails": [
+      "chris@houseclearancecheltenham.com"
+    ],
     "description": "We’re a family run house clearance company, proud to serve Cheltenham and Gloucestershire. Whether it’s one room or a whole house, we have the experience and the patience to handle it with care. No fuss, no flapping. Just a thoughtful, reliable service from people who know a house is more than..."
   },
   {
@@ -1669,21 +1853,22 @@
     "description": "Are you looking for a professional house clearance service in Gloucestershire? Get in touch today with J.P. Townsend & Son for a free no obligation quote."
   },
   {
-    "name": "Blatchford International Movers",
-    "address": "Peamore Commercial Centre, Alphington, Exeter, EX2 9SL, GB",
-    "phone": "01392 833200",
-    "international_phone": "01392 833200",
-    "website": "http://www.blatchfordsint.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Blatchford+International+Movers/data=!4m7!3m6!1s0x486da6f0210477a9:0xaf05b3c205a79550!8m2!3d50.6799366!4d-3.5293927!16s%2Fg%2F1tct847v!19sChIJqXcEIfCmbUgRUJWnBcKzBa8?authuser=0&hl=en&rclk=1",
+    "name": "The handy van man and Van Taunton",
+    "address": "3 Priory Ave, Taunton, TA1 1QS, GB",
+    "phone": "01823 662963",
+    "international_phone": "01823 662963",
+    "website": "http://www.thehandyvan.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/The+handy+van+man+and+Van+Taunton/data=!4m7!3m6!1s0x486df527ae5e0961:0xea9e89a1341657c3!8m2!3d51.020663!4d-3.0929665!16s%2Fg%2F11tp7dpd51!19sChIJYQlerif1bUgRw1cWNKGJnuo?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Removals Service",
-    "lat": 50.679937,
-    "lng": -3.529393,
-    "found_in_location": "Exeter",
-    "found_with_query": "removals southwest"
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Transportation service",
+    "lat": 51.020663,
+    "lng": -3.092966,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest",
+    "description": "For a removals van you can trust in Taunton, contact The Handy Van today. For more information about the removal services provided, call today on 07788 450274."
   },
   {
     "name": "PLYMOUTH MOVERS",
@@ -1702,7 +1887,32 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "bookings.plymouthmovers@gmail.com",
+    "emails": [
+      "bookings.plymouthmovers@gmail.com"
+    ],
     "description": "Experience a seamless moving process with our expert team dedicated to customer satisfaction and efficiency."
+  },
+  {
+    "name": "Gloucester Removals",
+    "address": "9 St Albans Rd, Gloucester, GL2 5FW, GB",
+    "phone": "01452 307070",
+    "international_phone": "01452 307070",
+    "website": "http://www.gloucesterremovalsandstorage.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Gloucester+Removals/data=!4m7!3m6!1s0x4871063ce4ba2c57:0x4ed7704d10620eb0!8m2!3d51.8433065!4d-2.260813!16s%2Fg%2F1td29s9s!19sChIJVyy65DwGcUgRsA5iEE1w104?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"2–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
+    "types": "Removals Service",
+    "lat": 51.843306,
+    "lng": -2.260813,
+    "found_in_location": "Gloucester",
+    "found_with_query": "removals southwest",
+    "email": "srfstorage@gmail.com",
+    "emails": [
+      "srfstorage@gmail.com"
+    ],
+    "description": "Gloucester removals and storage. Offering expert and professional service at low cost. Over 50% recommendations and 30+ years experience"
   },
   {
     "name": "Iron Van",
@@ -1723,25 +1933,6 @@
     "description": "Collections & deliveries across Europe Iron Van is based in Bath, Somerset and can cater for all types of delivery and collection. No job too small, no distance too far…Iron Van will deliver the goods. Call now on 07446 859138 Contact Us for a Quote House Clearances  5/5 UK &..."
   },
   {
-    "name": "Gloucester Removals",
-    "address": "9 St Albans Rd, Gloucester, GL2 5FW, GB",
-    "phone": "01452 307070",
-    "international_phone": "01452 307070",
-    "website": "http://www.gloucesterremovalsandstorage.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gloucester+Removals/data=!4m7!3m6!1s0x4871063ce4ba2c57:0x4ed7704d10620eb0!8m2!3d51.8433065!4d-2.260813!16s%2Fg%2F1td29s9s!19sChIJVyy65DwGcUgRsA5iEE1w104?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–6 pm\"],\"Monday\":[\"8:30 am–6 pm\"],\"Saturday\":[\"2–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–6 pm\"],\"Tuesday\":[\"8:30 am–6 pm\"],\"Wednesday\":[\"8:30 am–6 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.843306,
-    "lng": -2.260813,
-    "found_in_location": "Gloucester",
-    "found_with_query": "removals southwest",
-    "email": "srfstorage@gmail.com",
-    "description": "Gloucester removals and storage. Offering expert and professional service at low cost. Over 50% recommendations and 30+ years experience"
-  },
-  {
     "name": "Nick Trott Man And Van",
     "address": "6 Mountfields Rd, Taunton, TA1 3BQ, GB",
     "phone": "07974 410396",
@@ -1757,25 +1948,6 @@
     "lng": -3.088295,
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest"
-  },
-  {
-    "name": "TAUNTON TREE SERVICES",
-    "address": "Priory Bridge Rd, Taunton, TA1 1QB, GB",
-    "phone": "07780 927938",
-    "international_phone": "07780 927938",
-    "website": "http://tauntontreeservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/TAUNTON+TREE+SERVICES/data=!4m7!3m6!1s0x486df453dfa02d25:0x88de1b1c22de573f!8m2!3d51.0197509!4d-3.0989125!16s%2Fg%2F11n03gwp0t!19sChIJJS2g31P0bUgRP1feIhwb3og?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Tree service",
-    "lat": 51.019751,
-    "lng": -3.098912,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "info@tauntontreeservices.co.uk",
-    "description": "We are a committed tree surgery team that takes pride in our professionalism, punctuality, and value for money. We aim to provide all of our customers with a friendly and reliable service that you may not find elsewhere. Our commitment to uphold high standards of work and keep good customer..."
   },
   {
     "name": "The Man With Van Network",
@@ -1794,23 +1966,45 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "enquiries@themanwithvannetwork.com",
+    "emails": [
+      "enquiries@themanwithvannetwork.com",
+      "mclaren7500@aol.com"
+    ],
     "description": "If you’re looking for a reliable and stress-free move in the South West, then don’t hesitate to call us."
   },
   {
-    "name": "Smoover Moover",
-    "address": "52 Ramsbury Ave, Swindon, SN2 5PG, GB",
-    "phone": "07852 503783",
-    "international_phone": "07852 503783",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Smoover+Moover/data=!4m7!3m6!1s0x4871469a13cb0001:0x82788f693fefab54!8m2!3d51.5952595!4d-1.7898255!16s%2Fg%2F11pv82ngyd!19sChIJAQDLE5pGcUgRVKvvP2mPeII?authuser=0&hl=en&rclk=1",
+    "name": "Removals Plymouth",
+    "address": "33 Notte St, Plymouth, PL1 2AZ, GB",
+    "phone": "0871 704 2805",
+    "international_phone": "0871 704 2805",
+    "website": "http://www.removalsplymouth.org.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Removals+Plymouth/data=!4m7!3m6!1s0x486c934d951a7ab7:0xdf949385ac7d87a4!8m2!3d50.3686699!4d-4.1417785!16s%2Fg%2F1v2ppn0c!19sChIJt3oalU2TbEgRpId9rIWTlN8?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 1,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
-    "types": "Delivery Company",
-    "lat": 51.595259,
-    "lng": -1.789825,
-    "found_in_location": "Swindon",
+    "types": "Removals Service",
+    "lat": 50.36867,
+    "lng": -4.141779,
+    "found_in_location": "Plymouth",
+    "found_with_query": "removals southwest",
+    "description": "Removals Plymouth. Affordable removals in Devon. Professional personal removals service at outstanding value. Call Removals Plymouth today for great advice and free quotes."
+  },
+  {
+    "name": "Simon's Van Removals",
+    "address": "59 Belvedere Rd, Taunton, TA1 1BU, GB",
+    "phone": "07731 774883",
+    "international_phone": "07731 774883",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Simon%27s+Van+Removals/data=!4m7!3m6!1s0x486df45aea517fb1:0xd05215669fe05b6!8m2!3d51.0217359!4d-3.1071159!16s%2Fg%2F11c1wt0p9p!19sChIJsX9R6lr0bUgRtgX-aVYhBQ0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals Service",
+    "lat": 51.021736,
+    "lng": -3.107116,
+    "found_in_location": "Taunton",
     "found_with_query": "removals southwest"
   },
   {
@@ -1832,41 +2026,6 @@
     "description": "Need Removals In Bournemouth? Get Unbeatable Quotes For House, Office and Furniture removals! Great Savings · Experienced Professionals"
   },
   {
-    "name": "Simon's Van Removals",
-    "address": "59 Belvedere Rd, Taunton, TA1 1BU, GB",
-    "phone": "07731 774883",
-    "international_phone": "07731 774883",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Simon%27s+Van+Removals/data=!4m7!3m6!1s0x486df45aea517fb1:0xd05215669fe05b6!8m2!3d51.0217359!4d-3.1071159!16s%2Fg%2F11c1wt0p9p!19sChIJsX9R6lr0bUgRtgX-aVYhBQ0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals Service",
-    "lat": 51.021736,
-    "lng": -3.107116,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest"
-  },
-  {
-    "name": "Removals Plymouth",
-    "address": "33 Notte St, Plymouth, PL1 2AZ, GB",
-    "phone": "0871 704 2805",
-    "international_phone": "0871 704 2805",
-    "website": "http://www.removalsplymouth.org.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Removals+Plymouth/data=!4m7!3m6!1s0x486c934d951a7ab7:0xdf949385ac7d87a4!8m2!3d50.3686699!4d-4.1417785!16s%2Fg%2F1v2ppn0c!19sChIJt3oalU2TbEgRpId9rIWTlN8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Removals Service",
-    "lat": 50.36867,
-    "lng": -4.141779,
-    "found_in_location": "Plymouth",
-    "found_with_query": "removals southwest",
-    "description": "Removals Plymouth. Affordable removals in Devon. Professional personal removals service at outstanding value. Call Removals Plymouth today for great advice and free quotes."
-  },
-  {
     "name": "Advanced Removals & Gloucester Removals",
     "address": "Gloucester Business Park, Bamel Way, Brockworth, Gloucester, GL3 4BH, GB",
     "phone": "01452 617600",
@@ -1883,6 +2042,9 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@advanced-removals.co.uk",
+    "emails": [
+      "info@advanced-removals.co.uk"
+    ],
     "description": "Discover affordable & reliable home and commercial removals with secure storage solutions across Gloucestershire. Your moving journey starts here!"
   },
   {
@@ -1902,6 +2064,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@bristolvanremovals.co.uk",
+    "emails": [
+      "info@bristolvanremovals.co.uk"
+    ],
     "description": "Trusted for Bristol removals for 18 years, with 1,000+ happy customers each year. Quick quotes and a friendly and efficient team, ready to help."
   },
   {
@@ -1921,6 +2086,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@busychaps.co.uk",
+    "emails": [
+      "info@busychaps.co.uk"
+    ],
     "description": "From the moment you first contact Busy Chaps Removals you are in the safest hands."
   },
   {
@@ -1940,6 +2108,10 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "bookings@twomanremovals.co.uk",
+    "emails": [
+      "bookings@twomanremovals.co.uk",
+      "hello@twomanremovals.co.uk"
+    ],
     "description": "Removals Plymouth | Two Man Removals is a family-run removals company in Plymouth. We also cover Devon and Cornwall, helping people move across the UK."
   },
   {
@@ -1959,6 +2131,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@smartmovebristol.co.uk",
+    "emails": [
+      "info@smartmovebristol.co.uk"
+    ],
     "description": "Established 20 years. Insurance and packing materials included. We’ll beat any reasonable quote and now offer video surveys. Check our independent reviews."
   },
   {
@@ -1978,6 +2153,17 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com"
+    ],
     "description": "Mr S Removals offers the full Man and Van and Removals Service. Single Items to full loads. Round the corner or to the other end of the country. A to B with TLC"
   },
   {
@@ -1997,6 +2183,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@ajm-removals.co.uk",
+    "emails": [
+      "info@ajm-removals.co.uk"
+    ],
     "description": "Trusted, award-winning Bristol removals company offering top-notch moving and packing services since 2011. Your go-to experts for reliable, stress-free relocations in Bristol."
   },
   {
@@ -2016,6 +2205,11 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "example@mail.com",
+    "emails": [
+      "example@mail.com",
+      "removals@moveonremovalsandstorage.co.uk",
+      "removals@removeon.com"
+    ],
     "description": "Welcome to Move On Removals. Bristol’s award winning, professional removal & storage. We're here for home and business moves so get in touch!"
   },
   {
@@ -2035,6 +2229,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@mvremovals.com",
+    "emails": [
+      "info@mvremovals.com"
+    ],
     "description": "We specialise in Removals, Man with a Van Services, Clearances, and Storage. Get a quick and FREE quote in minutes - book today!"
   },
   {
@@ -2054,6 +2251,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "info@firbankremovals.co.uk",
+    "emails": [
+      "info@firbankremovals.co.uk"
+    ],
     "description": "Whether you’re moving home or business, Thomas Firbank Removals and Storage provides everything you need for a smooth move."
   },
   {
@@ -2073,6 +2273,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@onthedotremovals.co.uk",
+    "emails": [
+      "info@onthedotremovals.co.uk",
+      "onthedotremovalsbristol@gmail.com"
+    ],
     "description": "Bristol Removal Company. Environmentally responsible. House and Office removal Specailists. Packing service available. Get your online quote now."
   },
   {
@@ -2092,6 +2296,23 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed.kowalski.transport@gmail.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com"
+    ],
     "description": "Ed Kowalski Removals Exeter, Devon is a guarantee of the highest quality for removal servis moving-related services. Professional friendly and safe Man And Van."
   },
   {
@@ -2111,6 +2332,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "hello@hintzremovals.co.uk",
+    "emails": [
+      "hello@hintzremovals.co.uk"
+    ],
     "description": "Looking for reliable removals in Bournemouth? Hintz Removals provides affordable, professional home, office, and storage moves. Get your free quote today!"
   },
   {
@@ -2148,6 +2372,11 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "enquiries@removalsandstoragebristol.co.uk",
+    "emails": [
+      "enquiries@removalsandstoragebristol.co.uk",
+      "enquiries@wilkinsonsremovals.co.uk",
+      "enquiries@wilkinsonsremovals.co.uk.co.uk"
+    ],
     "description": "Wilkinson's is a trusted Bristol removal company specialising in domestic and commercial removals, storage and packaging services to all postcodes throughout Bristol & Bath."
   },
   {
@@ -2167,6 +2396,10 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "cheltenham@gbliners.com",
+    "emails": [
+      "cheltenham@gbliners.com",
+      "info@gbliners.com"
+    ],
     "description": "Removals company in Cheltenham, covering Gloucestershire, Worcestershire & Oxfordshire. Local & International moves along with storage services."
   },
   {
@@ -2186,6 +2419,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "hello@painlessremovals.com",
+    "emails": [
+      "hello@painlessremovals.com",
+      "thello@painlessremovals.com"
+    ],
     "description": "Use our Online Instant Quote Generator and get your estimate in less than a minute with Bristol's maybe best rated home removals company."
   },
   {
@@ -2205,6 +2442,10 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "enquiries@whitemoveltd.co.uk",
+    "emails": [
+      "enquiries@whitemoveltd.co.uk",
+      "wweeiihhuuaanngg@gmail.com"
+    ],
     "description": "WhiteMove is an experienced family run removals & storage company based in Cheltenham, offering a friendly and professional service."
   },
   {
@@ -2224,6 +2465,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "kostaf@hotmail.co.uk",
+    "emails": [
+      "kostaf@hotmail.co.uk"
+    ],
     "description": "Man With Van Removals Bristol Established in 1995, we offer an efficient, reliable and affordable Man and Van Removal Service to, from in and around Bristol. Contact Kosta on 07970 590807 or 0117 9553782 for a free quote; or email Kostaf@hotmail.co.uk From single Items to complete house and office"
   },
   {
@@ -2243,6 +2487,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@thevanmanco.co.uk",
+    "emails": [
+      "info@thevanmanco.co.uk"
+    ],
     "description": "Get an instant online quote and book a trusted man and van service anywhere in the UK. Instant quotes, same-day jobs and real local drivers."
   },
   {
@@ -2262,25 +2509,12 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "info@5valleysremovals.com",
+      "matt.newham@gmail.com"
+    ],
     "description": "Five Valleys Removals offers removals and storage solutions in the heart of the Five Valleys."
-  },
-  {
-    "name": "Cleanfootprints",
-    "address": "33 Mountfields Rd, Taunton, TA1 3BL, GB",
-    "phone": "07814 623718",
-    "international_phone": "07814 623718",
-    "website": "https://cleanfootprints.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cleanfootprints/data=!4m7!3m6!1s0x486df502bd8cdc6b:0xbe8f22ff6945775e!8m2!3d51.0042911!4d-3.0896564!16s%2Fg%2F11gfj5xdbb!19sChIJa9yMvQL1bUgRXndFaf8ij74?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 83,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Carpet cleaning service",
-    "lat": 51.004291,
-    "lng": -3.089656,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "description": "Cleanfootprints provides professional Carpet, Rug and Upholstery cleaning services in Taunton, Yeovil, Glastonbury, Bridgwater, Ilminster, Chard, Wellington, Somerset."
   },
   {
     "name": "Bournemouth and Poole House Clearance",
@@ -2317,26 +2551,10 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@westbourneremovals.co.uk",
+    "emails": [
+      "info@westbourneremovals.co.uk"
+    ],
     "description": "Bournemouth & Poole Removals. Domestic & Commercial Service Throughout The UK. Free Boxes & Home Removals Survey. Call FREE 0800 321 3965."
-  },
-  {
-    "name": "Be Laser & Skin Clinic",
-    "address": "1 The Crescent, Taunton, TA1 4EA, GB",
-    "phone": "01823 747748",
-    "international_phone": "01823 747748",
-    "website": "http://www.beaestheticstaunton.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Be+Laser+%26+Skin+Clinic/data=!4m7!3m6!1s0x486df58ca5ee1225:0x2d057f0ef587909e!8m2!3d51.0136725!4d-3.1058954!16s%2Fg%2F11t7cxszpk!19sChIJJRLupYz1bUgRnpCH9Q5_BS0?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 78,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
-    "types": "Laser hair removal service",
-    "lat": 51.013672,
-    "lng": -3.105895,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "info@beaestheticstaunton.com",
-    "description": "Looking for your next holiday treatment? Laser Hair Removal & IPL Skin Treatments, Taunton treatments, get in contact today."
   },
   {
     "name": "Somerset Man with a Van",
@@ -2355,7 +2573,40 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "hello@somersetmanwithavan.co.uk",
+    "emails": [
+      "hello@somersetmanwithavan.co.uk"
+    ],
     "description": "Our aim is to take the hassle out of your move and provide you with a smooth transition between your location and destination. We know these times are stressful so let us take control of your move."
+  },
+  {
+    "name": "Afordable Services",
+    "address": "49 Powells Way, Dunkeswell, Honiton, EX14 4XL, GB",
+    "phone": "01404 890194",
+    "international_phone": "01404 890194",
+    "website": "http://www.afordableservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Afordable+Services/data=!4m7!3m6!1s0x486d8e287230a767:0xaae9e323e9f3d69e!8m2!3d50.8532698!4d-3.2186904!16s%2Fg%2F11c1rtfdpd!19sChIJZ6cwciiObUgRntbz6SPj6ao?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 74,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–3 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
+    "types": "Removals company",
+    "lat": 50.85327,
+    "lng": -3.21869,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "emails": [
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "afordableservice@aoll.com",
+      "afordableservice@gmail.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com"
+    ],
+    "description": "Phil and Tania Ford - aFORDable Services | A family run business offering a complete personal moving service from start to finish | Removals, Man and Van, Clearances, Packing, Unpacking, Packing Materials and Storage Solutions | Give us a call for your free quote on 01404 890194."
   },
   {
     "name": "RH Removals & Storage",
@@ -2376,25 +2627,6 @@
     "description": "Moving home in Wiltshire or the Cotswolds? Get a free, no-obligation quote today ."
   },
   {
-    "name": "Afordable Services",
-    "address": "49 Powells Way, Dunkeswell, Honiton, EX14 4XL, GB",
-    "phone": "01404 890194",
-    "international_phone": "01404 890194",
-    "website": "http://www.afordableservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Afordable+Services/data=!4m7!3m6!1s0x486d8e287230a767:0xaae9e323e9f3d69e!8m2!3d50.8532698!4d-3.2186904!16s%2Fg%2F11c1rtfdpd!19sChIJZ6cwciiObUgRntbz6SPj6ao?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 74,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–7 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–3 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
-    "types": "Removals company",
-    "lat": 50.85327,
-    "lng": -3.21869,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
-    "description": "Phil and Tania Ford - aFORDable Services | A family run business offering a complete personal moving service from start to finish | Removals, Man and Van, Clearances, Packing, Unpacking, Packing Materials and Storage Solutions | Give us a call for your free quote on 01404 890194."
-  },
-  {
     "name": "SLM REMOVALS",
     "address": "6 New St, Exmouth, Exmouth, EX8 1RT, GB",
     "phone": "07926 373929",
@@ -2411,6 +2643,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "steve@slmremovals.co.uk",
+    "emails": [
+      "steve@slmremovals.co.uk"
+    ],
     "description": "With over 20 years experience, SLM Removals have helped many happy customers across Exmouth, East Devon and beyond."
   },
   {
@@ -2428,26 +2663,12 @@
     "lat": 51.448536,
     "lng": -2.514242,
     "found_in_location": "Bristol",
-    "found_with_query": "removals southwest"
-  },
-  {
-    "name": "Knights Removals of Bristol",
-    "address": "White Lodge Rd, Bristol, BS16 5ND, GB",
-    "phone": "0117 956 3119",
-    "international_phone": "0117 956 3119",
-    "website": "https://www.knightsremovalsofbristol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Knights+Removals+of+Bristol/data=!4m7!3m6!1s0x487191c29511133d:0x6f51c230ff571fbc!8m2!3d51.4795851!4d-2.4972968!16s%2Fg%2F11f_p24wjj!19sChIJPRMRlcKRcUgRvB9X_zDCUW8?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 70,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals company",
-    "lat": 51.479585,
-    "lng": -2.497297,
-    "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
-    "email": "adsremovalsuk@gmail.com",
-    "description": "Knights of Bristol Removals is a local company providing a personal service for packing, removal, storage and export for large or small moves"
+    "email": "cristianlurci@yahoo.com",
+    "emails": [
+      "cristianlurci@yahoo.com"
+    ],
+    "description": "The quick and easy way to hire a helpful and reliable moving company in Bristol with our safe and reliable removals."
   },
   {
     "name": "ABRACADABRA WASTE DISPOSAL,COLLECTION & RECYCLING SERVICES",
@@ -2466,7 +2687,33 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "abracadabrawaste1@hotmail.com",
+    "emails": [
+      "abracadabrawaste1@hotmail.com"
+    ],
     "description": "Abracdabra Waste Disposal is the answer to all of your rubbish removal needs in Bath and the surrounding areas. Whethers you want to get rid of white goods, green waste, builders waste, scrap metal or any non-hazardous waste, we're the firm for you."
+  },
+  {
+    "name": "Knights Removals of Bristol",
+    "address": "White Lodge Rd, Bristol, BS16 5ND, GB",
+    "phone": "0117 956 3119",
+    "international_phone": "0117 956 3119",
+    "website": "https://www.knightsremovalsofbristol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Knights+Removals+of+Bristol/data=!4m7!3m6!1s0x487191c29511133d:0x6f51c230ff571fbc!8m2!3d51.4795851!4d-2.4972968!16s%2Fg%2F11f_p24wjj!19sChIJPRMRlcKRcUgRvB9X_zDCUW8?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 70,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals company",
+    "lat": 51.479585,
+    "lng": -2.497297,
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest",
+    "email": "adsremovalsuk@gmail.com",
+    "emails": [
+      "adsremovalsuk@gmail.com",
+      "info@knightsremovalsofbristol.co.uk"
+    ],
+    "description": "Knights of Bristol Removals is a local company providing a personal service for packing, removal, storage and export for large or small moves"
   },
   {
     "name": "Devon Move",
@@ -2485,6 +2732,9 @@
     "found_in_location": "Torquay",
     "found_with_query": "removals southwest",
     "email": "info@devon-move.co.uk",
+    "emails": [
+      "info@devon-move.co.uk"
+    ],
     "description": "Devon Move Removals and Storage are one of the leading removal companies in Devon, offering professional removal services locally, across the UK and Europe"
   },
   {
@@ -2504,6 +2754,10 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "431info@removals-swindon.co.ukwww.removals-swindon.co.uk",
+    "emails": [
+      "431info@removals-swindon.co.ukwww.removals-swindon.co.uk",
+      "info@removals-swindon.co.uk"
+    ],
     "description": "Get A Free Moving Quote About A. Luckes & Son Removals and Storage Services in Swindon​, Wiltshire At A. Luckes & Son, we offer professional, friendly and expert house or business moving. We’re also dedicated to the removal of something else too – stress! Moving home is exciting, but it can..."
   },
   {
@@ -2523,6 +2777,11 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "alex@ab-transport.co.uk",
+    "emails": [
+      "alex@ab-transport.co.uk",
+      "alex@expectbest.co.uk",
+      "info@ab-transport.co.uk"
+    ],
     "description": "Rely on AB Transport Removals & Storage Ltd for seamless transport solutions in Bournemouth & Poole. From home moves to commercial relocations."
   },
   {
@@ -2542,6 +2801,10 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "liamhagon2024@gmail.com",
+    "emails": [
+      "liamhagon2024@gmail.com",
+      "office@minimoves.co.uk"
+    ],
     "description": "Trusted house removals Cheltenham experts with 5-star service. Serving Cheltenham, Gloucester, Tewkesbury, Stroud, Cirencester and Worcester."
   },
   {
@@ -2561,6 +2824,10 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "sales@themoveteam.co.uk",
+    "emails": [
+      "sales@themoveteam.co.uk",
+      "suekellyuk@gmail.com"
+    ],
     "description": "Home & Office Removals & Storage Company based in Bournemouth. Covering the New Forest, South Coast and Beyond. Family-Run, 5 Star Reviews."
   },
   {
@@ -2580,6 +2847,10 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "tomsvans@gmail.com",
+    "emails": [
+      "tomsvans@gmail.com",
+      "tomsvansbrighton@gmail.com"
+    ],
     "description": "We are a small Bath Removals company covering the Bath area. Visit our website to see all our services and information. Thanks for visiting Tom's Vans!"
   },
   {
@@ -2599,6 +2870,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "darrenbythell@yahoo.co.uk",
+    "emails": [
+      "darrenbythell@yahoo.co.uk"
+    ],
     "description": "Reliable Van & Man offers top-notch removal services for households and businesses. Contact us today for a smooth and hassle-free moving experience."
   },
   {
@@ -2618,6 +2892,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@vanmoveit.co.uk",
+    "emails": [
+      "info@vanmoveit.co.uk"
+    ],
     "description": "Van Move It is a Bristol based van removals and delivery company. We offer a \"man and van\" service for removals and deliveries nationwide. Call or text: 07707888608"
   },
   {
@@ -2637,26 +2914,10 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "info@mardanremovals.co.uk",
+    "emails": [
+      "info@mardanremovals.co.uk"
+    ],
     "description": "Mardan is #1 for Bath Removals & Storage. Friendly removals staff. Storage hire with 24-7 access & CCTV. 300+ 5 star reviews. Call 01225 313233 now."
-  },
-  {
-    "name": "Renwick's Removals",
-    "address": "72 Stawell Rd, Bishops Lydeard, Taunton, TA4 3FA, GB",
-    "phone": "07736 669980",
-    "international_phone": "07736 669980",
-    "website": "http://www.renwicksremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Renwick%27s+Removals/data=!4m7!3m6!1s0x6d769fd3eeb0cb:0x8e1689ab7f9bf3f8!8m2!3d51.0520009!4d-3.181394!16s%2Fg%2F11trbr_y0c!19sChIJy7Du0592bQAR-PObf6uJFo4?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 27,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.052001,
-    "lng": -3.181394,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "info@renwicksremovals.co.uk",
-    "description": "If you need an experienced removal company in Taunton, choose us. We offer a comprehensive range of removal services tailored to your needs. Book now."
   },
   {
     "name": "Kingsdown removals",
@@ -2677,6 +2938,28 @@
     "description": "Kingsdown Removals we are a Swindon based house and office moving business providing removals, packing and clearance services for all your Swindon, Cirencester and Cheltenham moving and relocation needs."
   },
   {
+    "name": "Renwick's Removals",
+    "address": "72 Stawell Rd, Bishops Lydeard, Taunton, TA4 3FA, GB",
+    "phone": "07736 669980",
+    "international_phone": "07736 669980",
+    "website": "http://www.renwicksremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Renwick%27s+Removals/data=!4m7!3m6!1s0x6d769fd3eeb0cb:0x8e1689ab7f9bf3f8!8m2!3d51.0520009!4d-3.181394!16s%2Fg%2F11trbr_y0c!19sChIJy7Du0592bQAR-PObf6uJFo4?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 27,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
+    "types": "Removals Service",
+    "lat": 51.052001,
+    "lng": -3.181394,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest",
+    "email": "info@renwicksremovals.co.uk",
+    "emails": [
+      "info@renwicksremovals.co.uk"
+    ],
+    "description": "If you need an experienced removal company in Taunton, choose us. We offer a comprehensive range of removal services tailored to your needs. Book now."
+  },
+  {
     "name": "Aardvark House Removals of Cheltenham",
     "address": "19 Medoc Cl, Cheltenham, GL50 4SW, GB",
     "phone": "0800 195 9239",
@@ -2693,6 +2976,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "info@aardvark-removals.co.uk",
+    "emails": [
+      "info@aardvark-removals.co.uk"
+    ],
     "description": "Aardvark House Removals of Cheltenham, Gloucestershire - quality low cost nationwide removal company, packing service, online quotation"
   },
   {
@@ -2712,6 +2998,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "info@wemoveandclean.co.uk",
+    "emails": [
+      "info@wemoveandclean.co.uk"
+    ],
     "description": "Removals Swindon based company with over 500 POSITIVE REVIEWS that you can TRUST. Call ☎️ 01793 335429 ☎️ right now for a FREE quote! Professional home moving service."
   },
   {
@@ -2731,6 +3020,9 @@
     "found_in_location": "Truro",
     "found_with_query": "removals southwest",
     "email": "cornwall@britannialanes.co.uk",
+    "emails": [
+      "cornwall@britannialanes.co.uk"
+    ],
     "description": "Trusted professional Cornwall removals by Britannia Lanes. Let our expert team provide a tailored service for you, from Bodmin to Penzance and beyond."
   },
   {
@@ -2750,6 +3042,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "enquiries@nowweremoving.co.uk",
+    "emails": [
+      "enquiries@nowweremoving.co.uk"
+    ],
     "description": "Removals Bath - Your #1 Leading Removal Company Bath - Price Match Promise - We Will Beat Any Quote - Call 01225 684514"
   },
   {
@@ -2769,6 +3064,16 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+      "info@roseremovals.co.uk"
+    ],
     "description": "Rose Removals is a trusted removal company in Devon offering reliable services for homes and businesses. For stress-free moving, call us today."
   },
   {
@@ -2788,6 +3093,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "bristol@fox-moving.com",
+    "emails": [
+      "bristol@fox-moving.com",
+      "info@fox-moving.com"
+    ],
     "description": "Fox Moving & Storage are a company offering removals and storage services to customers in Bristol and beyond. Get a free quote for a stress-free move."
   },
   {
@@ -2807,6 +3116,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "carol-ryder@live.co.uk",
+    "emails": [
+      "carol-ryder@live.co.uk"
+    ],
     "description": "Are you looking for rubbish clearance services in Plymouth or the surrounding areas, then look no further than RWS Waste Disposal? For high quality services, get in touch with us today."
   },
   {
@@ -2844,6 +3156,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "sales.bwremovals@aol.co.uk",
+    "emails": [
+      "sales.bwremovals@aol.co.uk"
+    ],
     "description": "B.W. Removals offers affordable removal services in Trowbridge. Call us on 01225 768 083 or 07966 176 779 for short and long term storage."
   },
   {
@@ -2863,6 +3178,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@welike2moveit.co.uk",
+    "emails": [
+      "info@welike2moveit.co.uk"
+    ],
     "description": "Removals Bristol moving your home or office. Friendly and affordable moving company, experienced in specialist items including pianos and antiques."
   },
   {
@@ -2881,8 +3199,11 @@
     "lng": -4.042286,
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
-    "email": "mail@cambridgeremovalsandstorage.co.uk",
-    "description": "Cambridge Removals & Storage offer an industry-leading range of removal & storage services. Call Cambridge Removal & Storage on 01223 882 118."
+    "email": "info@cambridge-removals.com",
+    "emails": [
+      "info@cambridge-removals.com"
+    ],
+    "description": "Cambridge Removals & Storage is the best choice if you need a removal company in Plymouth. Local & national moving is a breeze with our affordable services!"
   },
   {
     "name": "GB Liners Removals & Storage - Bristol",
@@ -2901,26 +3222,11 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "bristol@gbliners.com",
+    "emails": [
+      "bristol@gbliners.com",
+      "info@gbliners.com"
+    ],
     "description": "GB Liners is a removals company in Bristol providing UK house moves & international removals and storage services. For a FREE quote, call today."
-  },
-  {
-    "name": "Removals Unlimited",
-    "address": "215 Capstone Rd, Bournemouth, BH8 8SA, GB",
-    "phone": "01202 531391",
-    "international_phone": "01202 531391",
-    "website": "http://www.removalsunlimited.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Removals+Unlimited/data=!4m7!3m6!1s0x4873a1fec350089d:0x5dbfb46ed1af6540!8m2!3d50.7359221!4d-1.8634382!16s%2Fg%2F11f__24jx9!19sChIJnQhQw_6hc0gRQGWv0W60v10?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 58,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Removals company",
-    "lat": 50.735922,
-    "lng": -1.863438,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "removals southwest",
-    "email": "removalsunlimited@mail.co.uk",
-    "description": "Removals and Storage Company in Bournemouth | Call us today on 01202 531391 | We pack, move and store homes in Bournemouth, Christchurch and Poole."
   },
   {
     "name": "East Devon Removals",
@@ -2939,7 +3245,33 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "info@eastdevonremovals.co.uk",
+    "emails": [
+      "info@eastdevonremovals.co.uk"
+    ],
     "description": "Trusted, reliable removal services and storage solutions – for homes and businesses in East Devon, including Exeter, Sidmouth, Seaton, Cranbrook and Honiton."
+  },
+  {
+    "name": "Removals Unlimited",
+    "address": "215 Capstone Rd, Bournemouth, BH8 8SA, GB",
+    "phone": "01202 531391",
+    "international_phone": "01202 531391",
+    "website": "http://www.removalsunlimited.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Removals+Unlimited/data=!4m7!3m6!1s0x4873a1fec350089d:0x5dbfb46ed1af6540!8m2!3d50.7359221!4d-1.8634382!16s%2Fg%2F11f__24jx9!19sChIJnQhQw_6hc0gRQGWv0W60v10?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 58,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
+    "types": "Removals company",
+    "lat": 50.735922,
+    "lng": -1.863438,
+    "found_in_location": "Bournemouth",
+    "found_with_query": "removals southwest",
+    "email": "removalsunlimited@mail.co.uk",
+    "emails": [
+      "removalsunlimited@mail.co.uk",
+      "user@domain.com"
+    ],
+    "description": "Removals and Storage Company in Bournemouth | Call us today on 01202 531391 | We pack, move and store homes in Bournemouth, Christchurch and Poole."
   },
   {
     "name": "Manley van removals",
@@ -2975,6 +3307,10 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "info@arkremovals.co.uk",
+    "emails": [
+      "info@arkremovals.co.uk",
+      "info@arkremovals.com"
+    ],
     "description": "Ark Removals & Storage has been safely transporting and storing the possessions of families and businesses in the South West for over 25 years. We have the experience and expertise to meet any challenge, and can tailor our solution to your specific needs."
   },
   {
@@ -2994,6 +3330,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "info@a2bmoving.com",
+    "emails": [
+      "info@a2bmoving.com"
+    ],
     "description": "A2B Removals and Storage covering Cheltenham, Gloucestershire, Cotswolds, Oxfordshire, Wiltshire and surrounding counties."
   },
   {
@@ -3013,6 +3352,14 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "example@mysite.com",
+      "info@mifremovals.co.uk"
+    ],
     "description": "MIF Removals trusted by thousands across the UK for home removals, office moves, van hire, and packing. Reliable service done properly. Get your free quote today."
   },
   {
@@ -3050,6 +3397,9 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "info@colemanremovals.co.uk",
+    "emails": [
+      "info@colemanremovals.co.uk"
+    ],
     "description": "For over thirty years we have been offering a high-class removals service throughout the UK, Europe and internationally"
   },
   {
@@ -3087,6 +3437,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "info@parkandsons.co.uk",
+    "emails": [
+      "info@parkandsons.co.uk"
+    ],
     "description": "Park & Sons are a leading and highly respected removals and storage company, operating since 2008, covering the Poole, Bournemouth and surrounding areas. We are the most re-used and recommended removal company in Poole."
   },
   {
@@ -3106,6 +3459,24 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+    "emails": [
+      "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
+      "noblemenremovals@gmail.com"
+    ],
     "description": "We're a Bournemouth based family run Removals and Logistics company. Contact Noblemen Removals Ltd today for all your removal needs. We provide clearances, man and van service, home moving services, packing, dismantling and more."
   },
   {
@@ -3125,6 +3496,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "enquiries@nowweremoving.co.uk",
+    "emails": [
+      "enquiries@nowweremoving.co.uk"
+    ],
     "description": "Removals Bath - Your #1 Leading Removal Company Bath - Price Match Promise - We Will Beat Any Quote - Call 01225 684514"
   },
   {
@@ -3144,6 +3518,10 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@wmcmullinandsons.com",
+    "emails": [
+      "info@wmcmullinandsons.com",
+      "info@wmcmullinsandsons.com"
+    ],
     "description": "Choose our moving company in Plymouth today for reliable house moves and office removals. Call our movers today to learn more about us."
   },
   {
@@ -3163,6 +3541,16 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@romanremovalsbath.co.uk"
+    ],
     "description": "Trusted Removal Company in Bath | Local & Nationwide Removals. Roman Removals Bath provides expert home, office, and long-distance removals throughout Bath and the UK. Our experienced team takes care of everything — from packing to transport — ensuring a smooth, stress-free move every time...."
   },
   {
@@ -3216,6 +3604,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "devon@britannialanes.co.uk",
+    "emails": [
+      "devon@britannialanes.co.uk"
+    ],
     "description": "Manage your Devon removals with Britannia Lanes. Trust our expert team for local, European, and international removals to and within Devon and the South West."
   },
   {
@@ -3235,6 +3626,11 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "jenni@westonandedwards.co.uk",
+    "emails": [
+      "jenni@westonandedwards.co.uk",
+      "removals@ablemove.net",
+      "removals@westonandedwards.co.uk"
+    ],
     "description": "We cover Removals in Somerset - Taunton, Bridgwater, Yeovil, Minehead, Weston super Mare. House moves & container storage."
   },
   {
@@ -3254,6 +3650,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@easymovebristol.co.uk",
+    "emails": [
+      "info@easymovebristol.co.uk"
+    ],
     "description": "We are highly professional removals and storage specialists, based in Bristol but servicing the West Country including Bath and Weston-Super-Mare."
   },
   {
@@ -3273,6 +3672,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "removals@ablemove.net",
+    "emails": [
+      "removals@ablemove.net"
+    ],
     "description": "Ablemove is a part of The Weston & Edwards Group. Run by the family, it was taken over in 2008 having been founded 20 years previously. With such a good reputation in the area, the name and branding has been kept, incorporated into the group and remains a thriving branch. You can be assured of […]"
   },
   {
@@ -3310,6 +3712,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "contact@amanandvan247.com",
+    "emails": [
+      "contact@amanandvan247.com"
+    ],
     "description": "Hire a man and van in Bournemouth. Removals, packing and storage services available across Bournemouth, Poole and Dorset. Call us 01202 974781 now!"
   },
   {
@@ -3329,6 +3734,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "info@themanwithavanswindon.co.uk",
+    "emails": [
+      "info@themanwithavanswindon.co.uk"
+    ],
     "description": "The Man With A Van Swindon – UK Nationwide removal company Swindon, providing, house removals and office relocation services, based in Swindon. Call us now 01793 772 888"
   },
   {
@@ -3348,6 +3756,10 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "131kingandkearey@aol.com",
+    "emails": [
+      "131kingandkearey@aol.com",
+      "kingandkearey@aol.com"
+    ],
     "description": "King & KeareyWelcome to King and Kearey, we have been moving homes safely for 100 years locally, nationally and internationally.King & Kearey is a traditional family removals company working from Exeter. We have regular runs across the UK helping our clients move throughout the westcountry and..."
   },
   {
@@ -3367,6 +3779,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@bristolmanwithvan.co.uk",
+    "emails": [
+      "info@bristolmanwithvan.co.uk"
+    ],
     "description": "Bristol Man With Van provide Low-Cost Man and Van Services, House, Student & Commercial Removals Services and Waste Clearance. Fully Insured & Professional."
   },
   {
@@ -3386,6 +3801,9 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "johndoe@gmail.com",
+    "emails": [
+      "johndoe@gmail.com"
+    ],
     "description": "We offer a range of house clearance services across Bournemouth and Dorset. Our professional team does the hard work so you don't have to - call the team today for a free quote!"
   },
   {
@@ -3405,6 +3823,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "enquiries@kwikmove.co.uk",
+    "emails": [
+      "enquiries@kwikmove.co.uk"
+    ],
     "description": "The Bristol Moving Company offer a full range of professional removal and storage solutions for both home and business."
   },
   {
@@ -3424,26 +3845,10 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "john@doe.com",
+    "emails": [
+      "john@doe.com"
+    ],
     "description": "Pro-Porters | Professional home removal, downsizing, commercial distribution, and storage company covering the UK. Call 01793 299528 - no-obligation quotation."
-  },
-  {
-    "name": "Centurion Truck Rental - Taunton",
-    "address": "Galmington Trading Estate, Cornishway E, Taunton, TA1 5LZ, GB",
-    "phone": "01823 324021",
-    "international_phone": "01823 324021",
-    "website": "http://www.falconvehiclesolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Centurion+Truck+Rental+-+Taunton/data=!4m7!3m6!1s0x486df488734fd597:0x88d3f7c1d88f273b!8m2!3d51.0110667!4d-3.1282142!16s%2Fg%2F1vbnnv06!19sChIJl9VPc4j0bUgROyeP2MH304g?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 95,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 51.011067,
-    "lng": -3.128214,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "info@centuriontruckrental.co.uk",
-    "description": "Falcon Vehicle Solutions has over 30 years’ experience providing retail car and van rental alongside long-term hire of LCV, HGV and trailers."
   },
   {
     "name": "AJ Removals & Deliveries Ltd",
@@ -3462,6 +3867,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "enquiries@ajremovalsbath.co.uk",
+    "emails": [
+      "enquiries@ajremovalsbath.co.uk"
+    ],
     "description": "Welcome to AJ Removals, Bath, we pride ourselves on providing a friendly removals service with competitive prices."
   },
   {
@@ -3481,6 +3889,10 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "keith@hamptonsremovals.com",
+    "emails": [
+      "keith@hamptonsremovals.com",
+      "support@yahoo.com"
+    ],
     "description": "Hamptons Removals the professional, Bristol based removal company specialising in Removals ( residential and commercial ), Storage, Packing and Assembly Services * Locally Recommended *"
   },
   {
@@ -3500,6 +3912,14 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "removals southwest",
     "email": "enquiries@pickfords.com",
+    "emails": [
+      "enquiries@pickfords.com",
+      "exportrates@pickfords.com",
+      "hr@pickfords.com",
+      "importrates@pickfords.com",
+      "marketing@pickfords.com",
+      "partnerwithus@pickfords.com"
+    ],
     "description": "Experience a stress-free move with Pickfords. Our team provides professional house removals and secure self storage options near you in the UK, Europe"
   },
   {
@@ -3519,6 +3939,11 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "dave@bathmanandvan.co.uk",
+    "emails": [
+      "dave@bathmanandvan.co.uk",
+      "info@bathmanandvan.co.uk",
+      "user@domain.com"
+    ],
     "description": "Bath removals | furniture delivery | flat removals | student removals | office relocation | Bath man and van | Bath house clearance | bath recycling | waste licence | courier Bath | delivery | Bath Man and Van | Friendly | Reliable"
   },
   {
@@ -3538,6 +3963,10 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@whgremovals.com",
+    "emails": [
+      "info@whgremovals.com",
+      "name@email.com"
+    ],
     "description": "Removals Gloucester you can move with total confidence and get easy Removal Quotes. By entrusting Moving Company in Gloucester with your move you are in good hands. 46 Willow Avenue, Gloucester, GL4 4NY"
   },
   {
@@ -3557,6 +3986,9 @@
     "found_in_location": "Taunton",
     "found_with_query": "removals southwest",
     "email": "southwestremovalsltd@gmail.com",
+    "emails": [
+      "southwestremovalsltd@gmail.com"
+    ],
     "description": "We offer house and furniture removal services across Taunton, Yeovil & Somerset. We provide high quality service with genuine customer care."
   },
   {
@@ -3576,6 +4008,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "malcolm@cdremovals.com",
+    "emails": [
+      "malcolm@cdremovals.com"
+    ],
     "description": "Professional Removal and Delivery company located in Cheltenham, Gloucestershire. Home and office removals both large and small."
   },
   {
@@ -3595,6 +4030,9 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@armstrongremovalsandservices.co.uk",
+    "emails": [
+      "info@armstrongremovalsandservices.co.uk"
+    ],
     "description": "House Removal Services in Gloucester, professional house movers offering domestic house removals, house clearances, commercial removals & light haulage."
   },
   {
@@ -3614,6 +4052,9 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "email": "enquiries@williamsandwhite.co.uk",
+    "emails": [
+      "enquiries@williamsandwhite.co.uk"
+    ],
     "description": "Williams & White Removals is a high-quality removals company based in Wiltshire specialising in house moves, storage & office relocations."
   },
   {
@@ -3633,26 +4074,16 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "example@mysite.com",
+      "info@themovingsolution.com"
+    ],
     "description": "Removal Company Cheltenham Gloucester - Moving Solutions. Are a family run business delivering exceptional and affordable house removals for over 25 years."
-  },
-  {
-    "name": "AVM Storage and Shipping",
-    "address": "Freedom House, 2 Rutherford Way, Swindon Village, Cheltenham, GL51 9TU, GB",
-    "phone": "01242 238277",
-    "international_phone": "01242 238277",
-    "website": "https://www.avmstorage.com/?utm_source=gmb&utm_medium=organic",
-    "google_maps_url": "https://www.google.com/maps/place/AVM+Storage+and+Shipping/data=!4m7!3m6!1s0x48711b72669ccf21:0x14634ab9f7bf270f!8m2!3d51.9166733!4d-2.1011879!16s%2Fg%2F1hc7xqxh_!19sChIJIc-cZnIbcUgRDye_97lKYxQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 90,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.916673,
-    "lng": -2.101188,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "removals southwest",
-    "email": "info@avmstorage.co.uk",
-    "description": "Find storage units in Cheltenham. Browse storage units by size - Cheltenham secure storage units - Self Storage - Call for FREE quotes."
   },
   {
     "name": "Tripp Removals and Storage",
@@ -3671,6 +4102,10 @@
     "found_in_location": "Truro",
     "found_with_query": "removals southwest",
     "email": "info@tripp-removals.co.uk",
+    "emails": [
+      "info@tripp-removals.co.uk",
+      "tripp@katieclarke.co.uk"
+    ],
     "description": "If you're moving to Cornwall, within the UK, or overseas, we can help. We're an independent family removals company offering home removals and storage."
   },
   {
@@ -3708,6 +4143,10 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "hq@whiteandcompany.co.uk",
+    "emails": [
+      "hq@whiteandcompany.co.uk",
+      "plymouth@whiteandcompany.co.uk"
+    ],
     "description": "Plymouth removals company. Providing packing, storage, transport and removals to Plymouth since 1871. Book a free online survey and quote."
   },
   {
@@ -3727,6 +4166,10 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "info@kirtley.co.uk",
+    "emails": [
+      "info@kirtley.co.uk",
+      "uv0g@zuaxq2h.vg.rz"
+    ],
     "description": "Based in Plymouth, Devon, we cover both local and national moves."
   },
   {
@@ -3746,6 +4189,9 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "email": "sales@cheltenhamremoval.co.uk",
+    "emails": [
+      "sales@cheltenhamremoval.co.uk"
+    ],
     "description": "Cheltenham Removal Company are the original removal company in Cheltenham that has been helping people move thier homes and offices for more than 30 years."
   },
   {
@@ -3765,6 +4211,9 @@
     "found_in_location": "Plymouth",
     "found_with_query": "removals southwest",
     "email": "adrian@manvanplymouth.co.uk",
+    "emails": [
+      "adrian@manvanplymouth.co.uk"
+    ],
     "description": "ManVan Plymouth Plymouth's cheapest Man and Van and Removals service. An all inclusive ?25 per hour, no minimum charge, no extra costs and guaranteed lowest online prices! Light removals, store pick-ups, anything that needs shifting quickly and efficiently"
   },
   {
@@ -3784,6 +4233,16 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+      "info@roseremovals.co.uk"
+    ],
     "description": "Rose Removals is a trusted removal company in Devon offering reliable services for homes and businesses. For stress-free moving, call us today."
   },
   {
@@ -3803,6 +4262,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@bristolmanandvan.com",
+    "emails": [
+      "info@bristolmanandvan.com"
+    ],
     "description": "The Bristol Man and Van offers uncompromising quality service at very low cost. All our removal vans come fully equipped with blankets, bungee cords, trolleysteam etc. Get the reliable professional movers for your home or office. For more details call us."
   },
   {
@@ -3822,6 +4284,9 @@
     "found_in_location": "Bristol",
     "found_with_query": "removals southwest",
     "email": "info@simply-removals.com",
+    "emails": [
+      "info@simply-removals.com"
+    ],
     "description": "Choose our removal company in Bristol for professional, eco-friendly home removals and storage services tailored to your needs."
   },
   {
@@ -3841,6 +4306,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "sales@britannia-movers.co.uk",
+    "emails": [
+      "sales@britannia-movers.co.uk"
+    ],
     "description": "Est in 1982 and with 40+ UK local removal company branches, Britannia Movers are the expert moving company for all UK or overseas removals and storage."
   },
   {
@@ -3860,6 +4328,12 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@dgoodenough.co.uk"
+    ],
     "description": "Looking for a transport and removals company in the Swindon area? Call D.Goodenough Transport & Removals Ltd today for a free competitive quote."
   },
   {
@@ -3879,6 +4353,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "post@smartmovers.co.uk",
+    "emails": [
+      "post@smartmovers.co.uk"
+    ],
     "description": "UK and Worldwide removal specialists based in Swindon, Wiltshire and Guildford, Surrey. Also packing, exporting, crate hire and storage."
   },
   {
@@ -3898,6 +4375,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "enquiries@bishopsmove.com",
+    "emails": [
+      "enquiries@bishopsmove.com"
+    ],
     "description": "Looking for a professional removals and storage service in Swindon? Get in touch with Bishop’s Move Swindon. Find out more."
   },
   {
@@ -3917,25 +4397,6 @@
     "found_in_location": "Cheltenham",
     "found_with_query": "removals southwest",
     "description": "We offer low cost removals in Cheltenham and the surrounding areas and we would be delighted to give you a quote for our services today."
-  },
-  {
-    "name": "Taunton Recycling Centre",
-    "address": "Crown Industrial Estate, Taunton, Taunton, TA2 8QY, GB",
-    "phone": "01823 338615",
-    "international_phone": "01823 338615",
-    "website": "https://www.somerset.gov.uk/locations/taunton-recycling-centre/",
-    "google_maps_url": "https://www.google.com/maps/place/Taunton+Recycling+Centre/data=!4m7!3m6!1s0x486df5ba52df2387:0xcdb89f8ed5bbafcc!8m2!3d51.0270408!4d-3.0782348!16s%2Fg%2F11cn67tmqq!19sChIJhyPfUrr1bUgRzK-71Y6fuM0?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 307,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"9 am–4 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Recycling Centre",
-    "lat": 51.027041,
-    "lng": -3.078235,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "aandfrecruitmentenquiryline@somerset.gov.uk",
-    "description": "Address:Taunton Recycling Centre, Crown Industrial Estate, Taunton TA2 8QY"
   },
   {
     "name": "Get Moved UK Removals",
@@ -3972,6 +4433,9 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "denniss@youngeuropean.co.uk",
+    "emails": [
+      "denniss@youngeuropean.co.uk"
+    ],
     "description": "Are you moving? Request a no obligation quote now Get a quote Welcome to Dennis’s Removals & Storage Dennis’s Removals and Storage is a long standing, experienced, family run business. Our business has been safely moving and storing people’s furniture and prized possessions since we were formed,..."
   },
   {
@@ -3991,6 +4455,10 @@
     "found_in_location": "Gloucester",
     "found_with_query": "removals southwest",
     "email": "info@simonlongremovals.co.uk",
+    "emails": [
+      "info@simonlongremovals.co.uk",
+      "movers@simonlongremovals.co.uk"
+    ],
     "description": "Simon Long Removals Gloucestershire are residential & commercial removal specialists. They also offer storage solutions in Gloucester"
   },
   {
@@ -4010,6 +4478,9 @@
     "found_in_location": "Exeter",
     "found_with_query": "removals southwest",
     "email": "enquiries@bishopsmove.com",
+    "emails": [
+      "enquiries@bishopsmove.com"
+    ],
     "description": "Moving to Exeter? Bishop's Move is the local removal company for you! Discover how our friendly and professional team can help you move home more easily."
   },
   {
@@ -4029,6 +4500,9 @@
     "found_in_location": "Truro",
     "found_with_query": "removals southwest",
     "email": "enquiries@bishopsmove.com",
+    "emails": [
+      "enquiries@bishopsmove.com"
+    ],
     "description": "Looking for a professional removals and storage service in Truro? Get in touch with Bishop’s Move Truro. Find out more."
   },
   {
@@ -4068,43 +4542,6 @@
     "description": "Searching for a reliable house moving company in Bath? Nightingale Removals, your trusted local experts for seamless home relocation services. Contact us now!"
   },
   {
-    "name": "Biffa Waste Management Taunton",
-    "address": "Crown Industrial Estate, Taunton, TA2 8QY, GB",
-    "phone": "0800 307307",
-    "international_phone": "0800 307307",
-    "website": "https://www.biffa.co.uk/waste-services-and-products/collection-management/small-businesses?utm_campaign=google&utm_medium=organic&utm_source=google_business_profile",
-    "google_maps_url": "https://www.google.com/maps/place/Biffa+Waste+Management+Taunton/data=!4m7!3m6!1s0x486df451bdb6f547:0xa487f77f83f4651!8m2!3d51.0282257!4d-3.0811509!16s%2Fg%2F1hc18ywbt!19sChIJR_W2vVH0bUgRUUY_-Hd_SAo?authuser=0&hl=en&rclk=1",
-    "rating": 1.3,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 51.028226,
-    "lng": -3.081151,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "description": "Biffa provides efficient commercial waste collection services for small and medium size businesses. Get a quote or contact us to find out more!"
-  },
-  {
-    "name": "Find My Man and Van Bristol",
-    "address": "13 Harbury Rd, Henleaze, Bristol, BS9 4PN, GB",
-    "phone": "0333 123 0240",
-    "international_phone": "0333 123 0240",
-    "website": "https://findmymanandvan.co.uk/man-with-a-van/bristol",
-    "google_maps_url": "https://www.google.com/maps/place/Find+My+Man+and+Van+Bristol/data=!4m7!3m6!1s0x4871935ce272ae9b:0xe0d79d4c50b8d2ca!8m2!3d51.4914883!4d-2.5994367!16s%2Fg%2F11sk0zw_mz!19sChIJm65y4lyTcUgRytK4UEyd1-A?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 am\"],\"Monday\":[\"9:30 am–12 am\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–12 am\"],\"Tuesday\":[\"9:30 am–12 am\"],\"Wednesday\":[\"9:30 am–12 am\"]}",
-    "types": "Removals company",
-    "lat": 51.491488,
-    "lng": -2.599437,
-    "found_in_location": "Bristol",
-    "found_with_query": "removals southwest",
-    "email": "info@findmymanandvan.co.uk",
-    "description": "Need a man and van in Bristol? Book vetted local drivers for small moves and furniture transport with same-day availability and secure online booking."
-  },
-  {
     "name": "Bath Removals and Storage",
     "address": "1 Queen Square, Bath, BA1 2HA, GB",
     "phone": "01225 852863",
@@ -4121,44 +4558,6 @@
     "found_in_location": "Bath",
     "found_with_query": "removals southwest",
     "description": "Bath Removals and Storage quick quote Contact Us Local and National Removals Climate Controlled Storage"
-  },
-  {
-    "name": "Pickfords Removals & Storage",
-    "address": "Unit 5, Merlin Industrial Park, Venture Way, Taunton, TA2 8DG, GB",
-    "phone": "0800 019 8556",
-    "international_phone": "0800 019 8556",
-    "website": "https://www.pickfords.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pickfords+Removals+%26+Storage/data=!4m7!3m6!1s0x486df5b1907bbce5:0xf729543199d35e61!8m2!3d51.0254116!4d-3.0865543!16s%2Fg%2F1tg5z1lt!19sChIJ5bx7kLH1bUgRYV7TmTFUKfc?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–3:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Removals Service",
-    "lat": 51.025412,
-    "lng": -3.086554,
-    "found_in_location": "Taunton",
-    "found_with_query": "removals southwest",
-    "email": "enquiries@pickfords.com",
-    "description": "Experience a stress-free move with Pickfords. Our team provides professional house removals and secure self storage options near you in the UK, Europe"
-  },
-  {
-    "name": "Truro House Clearances",
-    "address": "9 Trehaverne Ter, Truro, TR1 3SE, GB",
-    "phone": "01872 241958",
-    "international_phone": "01872 241958",
-    "website": "http://www.trurohouseclearances.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Truro+House+Clearances/data=!4m7!3m6!1s0x486b17b45047cf79:0x7cd0fa43b4e6dc94!8m2!3d50.2680894!4d-5.0579576!16s%2Fg%2F11t2c3nfs4!19sChIJec9HULQXa0gRlNzmtEP60Hw?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "House clearance service",
-    "lat": 50.268089,
-    "lng": -5.057958,
-    "found_in_location": "Truro",
-    "found_with_query": "removals southwest",
-    "email": "enquiries@truroremovals.co.uk",
-    "description": "Any size house or commercial clearance, from single items to whole properties. We limit the amount that goes into landfill by recycling, repurposing and donating to charity. We provide a discreet and compassionate service."
   },
   {
     "name": "Cooper the Man with a Van",
@@ -4178,6 +4577,28 @@
     "found_with_query": "removals southwest"
   },
   {
+    "name": "Find My Man and Van Bristol",
+    "address": "13 Harbury Rd, Henleaze, Bristol, BS9 4PN, GB",
+    "phone": "0333 123 0240",
+    "international_phone": "0333 123 0240",
+    "website": "https://findmymanandvan.co.uk/man-with-a-van/bristol",
+    "google_maps_url": "https://www.google.com/maps/place/Find+My+Man+and+Van+Bristol/data=!4m7!3m6!1s0x4871935ce272ae9b:0xe0d79d4c50b8d2ca!8m2!3d51.4914883!4d-2.5994367!16s%2Fg%2F11sk0zw_mz!19sChIJm65y4lyTcUgRytK4UEyd1-A?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 am\"],\"Monday\":[\"9:30 am–12 am\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–12 am\"],\"Tuesday\":[\"9:30 am–12 am\"],\"Wednesday\":[\"9:30 am–12 am\"]}",
+    "types": "Removals company",
+    "lat": 51.491488,
+    "lng": -2.599437,
+    "found_in_location": "Bristol",
+    "found_with_query": "removals southwest",
+    "email": "info@findmymanandvan.co.uk",
+    "emails": [
+      "info@findmymanandvan.co.uk"
+    ],
+    "description": "Need a man and van in Bristol? Book vetted local drivers for small moves and furniture transport with same-day availability and secure online booking."
+  },
+  {
     "name": "Man and Van Swindon",
     "address": "Flemming Way, Swindon, SN1 2NG, GB",
     "phone": "01793 205070",
@@ -4194,6 +4615,59 @@
     "found_in_location": "Swindon",
     "found_with_query": "removals southwest",
     "email": "enquiries@themanwithvannetwork.com",
+    "emails": [
+      "enquiries@themanwithvannetwork.com",
+      "mclaren7500@aol.com"
+    ],
     "description": "Need a man with a van in Bristol? The Man With a Van Network has for the last 20 years been renowned for low prices and great service! Call 0117 9513180 for a free quote"
+  },
+  {
+    "name": "Pickfords Removals & Storage",
+    "address": "Unit 5, Merlin Industrial Park, Venture Way, Taunton, TA2 8DG, GB",
+    "phone": "0800 019 8556",
+    "international_phone": "0800 019 8556",
+    "website": "https://www.pickfords.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Pickfords+Removals+%26+Storage/data=!4m7!3m6!1s0x486df5b1907bbce5:0xf729543199d35e61!8m2!3d51.0254116!4d-3.0865543!16s%2Fg%2F1tg5z1lt!19sChIJ5bx7kLH1bUgRYV7TmTFUKfc?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–3:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Removals Service",
+    "lat": 51.025412,
+    "lng": -3.086554,
+    "found_in_location": "Taunton",
+    "found_with_query": "removals southwest",
+    "email": "enquiries@pickfords.com",
+    "emails": [
+      "enquiries@pickfords.com",
+      "exportrates@pickfords.com",
+      "hr@pickfords.com",
+      "importrates@pickfords.com",
+      "marketing@pickfords.com",
+      "partnerwithus@pickfords.com"
+    ],
+    "description": "Experience a stress-free move with Pickfords. Our team provides professional house removals and secure self storage options near you in the UK, Europe"
+  },
+  {
+    "name": "Truro House Clearances",
+    "address": "9 Trehaverne Ter, Truro, TR1 3SE, GB",
+    "phone": "01872 241958",
+    "international_phone": "01872 241958",
+    "website": "http://www.trurohouseclearances.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Truro+House+Clearances/data=!4m7!3m6!1s0x486b17b45047cf79:0x7cd0fa43b4e6dc94!8m2!3d50.2680894!4d-5.0579576!16s%2Fg%2F11t2c3nfs4!19sChIJec9HULQXa0gRlNzmtEP60Hw?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "House clearance service",
+    "lat": 50.268089,
+    "lng": -5.057958,
+    "found_in_location": "Truro",
+    "found_with_query": "removals southwest",
+    "email": "enquiries@truroremovals.co.uk",
+    "emails": [
+      "enquiries@truroremovals.co.uk"
+    ],
+    "description": "Any size house or commercial clearance, from single items to whole properties. We limit the amount that goes into landfill by recycling, repurposing and donating to charity. We provide a discreet and compassionate service."
   }
 ]

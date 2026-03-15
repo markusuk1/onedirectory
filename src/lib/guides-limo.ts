@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Limo Hire Guide for ${r.mainCity} & ${r.theName}`,
       intro: `Whether it is a wedding, prom, hen night or corporate event, arriving in a limousine makes any occasion special. This guide covers everything you need to know about limo hire in ${r.theName}, including prices, vehicle types and how to find the right company.`,
       sections: [
+        ...(r.insights?.limo ? [{
+          heading: `Limo & Wedding Car Hire in ${r.theName}: Local Market Insights`,
+          content: r.insights.limo,
+        }] : []),
         {
           heading: `How Much Does Limo Hire Cost in ${r.theName}?`,
           content: `Limo hire prices in ${r.theName} vary depending on the vehicle, duration and day of the week. A standard stretch limo for a three-hour evening hire typically costs £250-£400. Hummer limos and larger party vehicles cost £350-£600 for three hours. Wedding car hire for the day usually ranges from £300-£800 depending on the vehicle. Prom packages for a one to two hour journey start from £150-£300. Midweek bookings are often cheaper than weekends. Most companies in ${r.areas} offer packages that include a set number of hours, complimentary drinks and red carpet arrival.`,

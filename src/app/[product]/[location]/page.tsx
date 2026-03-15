@@ -41,12 +41,14 @@ export async function generateMetadata({
   const location = getLocationBySlugWithCount(locationSlug, product as ProductId);
   if (!location) return {};
   const site = getSiteConfig();
+  const shouldIndex = location.businessCount >= 3;
   return {
     title: `${productConfig.name} ${location.name} | Compare ${location.businessCount} Companies`,
     description: productConfig.locationDescriptionTemplate(location.name),
     alternates: {
       canonical: `https://${site.domain}/${product}/${locationSlug}`,
     },
+    ...(!shouldIndex && { robots: { index: false, follow: true } }),
   };
 }
 
@@ -170,6 +172,27 @@ export default async function ProductLocationPage({
         </div>
       </section>
 
+      {/* Location editorial */}
+      {productConfig.locationEditorial && (() => {
+        const editorial = productConfig.locationEditorial!(location.name);
+        return (
+          <section className="py-8 md:py-10">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="bg-white border border-border rounded-xl p-6 md:p-8">
+                <h2 className="text-xl font-bold text-text mb-4">
+                  {editorial.heading}
+                </h2>
+                <div className="space-y-3 text-text-light text-sm leading-relaxed">
+                  {editorial.paragraphs.map((p, i) => (
+                    <p key={i}>{p}</p>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </section>
+        );
+      })()}
+
       {/* Sponsored ad */}
       <section className="py-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -227,7 +250,7 @@ export default async function ProductLocationPage({
               {servicePages.map((svc) => (
                 <Link
                   key={svc.slug}
-                  href={`/${product}/${locationSlug}/services/${svc.slug}`}
+                  href={`/${product}/services/${svc.slug}`}
                   className="bg-white border border-border rounded-lg p-4 hover:shadow-md hover:border-primary-light transition-all text-sm group"
                 >
                   <span className="font-medium text-text group-hover:text-primary transition-colors">

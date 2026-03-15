@@ -5,24 +5,57 @@ import { getAllBusinesses, getLocations } from "@/lib/data";
 import { ALL_PRODUCTS } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
 
-const site = getSiteConfig();
-const totalBusinesses = ALL_PRODUCTS.reduce(
-  (sum, p) => sum + getAllBusinesses(p.id as ProductId).length,
-  0
-);
-const totalLocations = getLocations().length;
-
-export const metadata: Metadata = {
-  title: "About Us",
-  description: site.aboutDescription,
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const site = getSiteConfig();
+  return {
+    title: `About Us | ${site.genericName}`,
+    description: site.aboutDescription,
+    alternates: {
+      canonical: `https://${site.domain}/about`,
+    },
+  };
+}
 
 export default function AboutPage() {
+  const site = getSiteConfig();
+  const totalBusinesses = ALL_PRODUCTS.reduce(
+    (sum, p) => sum + getAllBusinesses(p.id as ProductId).length,
+    0
+  );
+  const totalLocations = getLocations().length;
+  const { aboutContent } = site;
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: `https://${site.domain}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "About",
+        item: `https://${site.domain}/about`,
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+
       <nav className="bg-surface border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 text-sm text-text-light">
-          <Link href="/" className="hover:text-primary">Home</Link>
+          <Link href="/" className="hover:text-primary">
+            Home
+          </Link>
           <span className="mx-2">/</span>
           <span className="text-text font-medium">About</span>
         </div>
@@ -34,38 +67,61 @@ export default function AboutPage() {
         </h1>
 
         <div className="space-y-4 text-text-light leading-relaxed">
-          <p>
-            We are the {site.shortName}&apos;s most comprehensive directory of
-            hire companies. Our mission is to make it easy for you to find
-            trusted, reliable operators in your area.
-          </p>
-          <p>
-            Whether you need a minibus for a night out, a van for moving house,
-            a coach for a school trip, or a party bus for a celebration, we list
-            over {totalBusinesses} verified companies across {totalLocations}{" "}
-            locations in the {site.region}.
-          </p>
-          <p>
-            Every listing includes verified contact details, Google ratings and
-            reviews, opening hours and location information. You can compare
-            operators side by side and request free, no-obligation quotes.
-          </p>
-          <p>
-            {site.genericName} is created and owned by Mark McCormick.
-          </p>
+          <p>{aboutContent.intro}</p>
+
+          <h2 className="text-xl font-bold text-text mt-8 mb-3">
+            Our Mission
+          </h2>
+          <p>{aboutContent.mission}</p>
+
+          <div className="bg-surface border border-border rounded-lg p-5 my-6">
+            <div className="grid grid-cols-3 gap-4 text-center">
+              <div>
+                <p className="text-2xl font-bold text-primary">
+                  {totalBusinesses.toLocaleString()}+
+                </p>
+                <p className="text-sm text-text-light">Verified Companies</p>
+              </div>
+              <div>
+                <p className="text-2xl font-bold text-primary">
+                  {totalLocations}
+                </p>
+                <p className="text-sm text-text-light">Locations</p>
+              </div>
+              <div>
+                <p className="text-2xl font-bold text-primary">
+                  {ALL_PRODUCTS.length}
+                </p>
+                <p className="text-sm text-text-light">Service Categories</p>
+              </div>
+            </div>
+          </div>
 
           <h2 className="text-xl font-bold text-text mt-8 mb-3">
             Areas We Cover
           </h2>
-          <p>{site.locationsList}.</p>
+          <p>{aboutContent.coverage}</p>
+          <p className="text-sm text-text-light mt-2">
+            Key locations: {site.locationsList}.
+          </p>
 
           <h2 className="text-xl font-bold text-text mt-8 mb-3">
             For Operators
           </h2>
-          <p>
-            If you run a hire company in the {site.shortName} and would like to
-            update your listing or discuss premium placement, please get in
-            touch.
+          <p>{aboutContent.forOperators}</p>
+          <p className="mt-2">
+            <Link
+              href="/contact"
+              className="text-primary hover:underline font-medium"
+            >
+              Get in touch
+            </Link>{" "}
+            to claim your listing or discuss how we can help grow your business.
+          </p>
+
+          <hr className="border-border my-8" />
+          <p className="text-sm">
+            {site.genericName} is created and owned by Mark McCormick.
           </p>
         </div>
       </div>

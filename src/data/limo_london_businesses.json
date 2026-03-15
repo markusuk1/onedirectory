@@ -51,31 +51,6 @@
     ]
   },
   {
-    "name": "Banana Bus",
-    "address": "8 Hillcrest Ave, London, NW11 0EN, GB",
-    "phone": "020 7062 4000",
-    "international_phone": "020 7062 4000",
-    "website": "http://www.bananabus.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Banana+Bus/data=!4m7!3m6!1s0x4876111ce6d551b1:0x4762b5aa19e467eb!8m2!3d51.585522!4d-0.2041392!16s%2Fg%2F11hzhdy7ry!19sChIJsVHV5hwRdkgR62fkGaq1Ykc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 162,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–3:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"10 am–3 pm\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
-    "types": "Children's party service",
-    "lat": 51.585522,
-    "lng": -0.204139,
-    "found_in_location": "Camden",
-    "found_with_query": "limo london",
-    "email": "hello@bananabus.co.uk",
-    "emails": [
-      "hello@bananabus.co.uk"
-    ],
-    "description": "Kids Are Going To Go Bananas For Our Monkey Themed Banana Bus. Next Stop London! Our Childrens Party Bus Is Perfect For Birthday Parties, School Events & More!",
-    "services": [
-      "Party Bus"
-    ]
-  },
-  {
     "name": "Just Wedding Cars",
     "address": "G11 Chadwell Heath Industrial Estate, Kemp Rd, Dagenham, RM8 1SL, GB",
     "phone": "07775 344171",
@@ -375,6 +350,34 @@
     ]
   },
   {
+    "name": "Lady R Wedding & Chauffeur Hire",
+    "address": "16 High Trees, Dartford, DA2 6PL, GB",
+    "phone": "07970 490084",
+    "international_phone": "07970 490084",
+    "website": "https://ladyr.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Lady+R+Wedding+%26+Chauffeur+Hire/data=!4m7!3m6!1s0x47d8b176b497a961:0x3d17670181e7ea0d!8m2!3d51.4455177!4d0.2408011!16s%2Fg%2F1tf6r13h!19sChIJYamXtHax2EcRDerngQFnFz0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 41,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"12–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
+    "types": "Chauffeur service",
+    "lat": 51.445518,
+    "lng": 0.240801,
+    "found_in_location": "Romford",
+    "found_with_query": "limo london",
+    "email": "info@ladyr.co.uk",
+    "emails": [
+      "info@ladyr.co.uk"
+    ],
+    "description": "Luxury wedding car hire in Kent with chauffeur-driven Rolls-Royce and Bentley. Boutique, owner-led service delivering refined wedding journeys.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
+  },
+  {
     "name": "Mercedes Chauffeur Hire",
     "address": "16 High Holborn, London, WC1V 6BX, GB",
     "phone": "020 7989 0609",
@@ -400,34 +403,6 @@
       "Bentley",
       "Chauffeur Service",
       "Classic & Vintage",
-      "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Lady R Wedding & Chauffeur Hire",
-    "address": "16 High Trees, Dartford, DA2 6PL, GB",
-    "phone": "07970 490084",
-    "international_phone": "07970 490084",
-    "website": "https://ladyr.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Lady+R+Wedding+%26+Chauffeur+Hire/data=!4m7!3m6!1s0x47d8b176b497a961:0x3d17670181e7ea0d!8m2!3d51.4455177!4d0.2408011!16s%2Fg%2F1tf6r13h!19sChIJYamXtHax2EcRDerngQFnFz0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 41,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"12–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.445518,
-    "lng": 0.240801,
-    "found_in_location": "Romford",
-    "found_with_query": "limo london",
-    "email": "info@ladyr.co.uk",
-    "emails": [
-      "info@ladyr.co.uk"
-    ],
-    "description": "Luxury wedding car hire in Kent with chauffeur-driven Rolls-Royce and Bentley. Boutique, owner-led service delivering refined wedding journeys.",
-    "services": [
-      "Bentley",
-      "Chauffeur Service",
       "Rolls Royce",
       "Wedding Car"
     ]
@@ -733,6 +708,23 @@
     ]
   },
   {
+    "name": "BAR Minibuses",
+    "address": "Wraysbury Gardens, Staines, TW18 4US, GB",
+    "phone": "07737 018446",
+    "international_phone": "07737 018446",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/BAR+Minibuses/data=!4m7!3m6!1s0x48766d8eb7638ae7:0xdb21c90c732d6460!8m2!3d51.437967!4d-0.5145298!16s%2Fg%2F11f09533bt!19sChIJ54pjt45tdkgRYGQtcwzJIds?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 14,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Coach and minibus hire",
+    "lat": 51.437967,
+    "lng": -0.51453,
+    "found_in_location": "Hounslow",
+    "found_with_query": "limo london"
+  },
+  {
     "name": "Deluxe Drive London - Premium Chauffeur Service in London.",
     "address": "44 Princess St, Elephant and Castle, London, SE1 6JR, GB",
     "phone": "07308 204357",
@@ -757,23 +749,6 @@
       "Airport Transfer",
       "Chauffeur Service"
     ]
-  },
-  {
-    "name": "BAR Minibuses",
-    "address": "Wraysbury Gardens, Staines, TW18 4US, GB",
-    "phone": "07737 018446",
-    "international_phone": "07737 018446",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/BAR+Minibuses/data=!4m7!3m6!1s0x48766d8eb7638ae7:0xdb21c90c732d6460!8m2!3d51.437967!4d-0.5145298!16s%2Fg%2F11f09533bt!19sChIJ54pjt45tdkgRYGQtcwzJIds?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.437967,
-    "lng": -0.51453,
-    "found_in_location": "Hounslow",
-    "found_with_query": "limo london"
   },
   {
     "name": "Morse Wedding Services",
@@ -827,28 +802,6 @@
       "Airport Transfer",
       "Chauffeur Service"
     ]
-  },
-  {
-    "name": "Rickshaw Hire London",
-    "address": "Phoenix Pl, London, WC1X 0DG, GB",
-    "phone": "07926 820437",
-    "international_phone": "07926 820437",
-    "website": "http://www.ukrickshawhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Rickshaw+Hire+London/data=!4m7!3m6!1s0x48761bf19e7bc151:0xa5f72cf89af1eaac!8m2!3d51.52418!4d-0.112894!16s%2Fg%2F11scscqjzd!19sChIJUcF7nvEbdkgRrOrxmvgs96U?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Media company",
-    "lat": 51.52418,
-    "lng": -0.112893,
-    "found_in_location": "Islington",
-    "found_with_query": "limo london",
-    "email": "ukrickshaws@gmail.com",
-    "emails": [
-      "ukrickshaws@gmail.com"
-    ],
-    "description": "Rickshaw Hire specialist London. Rickshaw Advertising, Shuttle service Films and Wedding TukTuk. Fast Service, ExCel, Olympia London, Wimbledon and the UK."
   },
   {
     "name": "Mash Limousines",
@@ -907,30 +860,26 @@
     ]
   },
   {
-    "name": "Surrey Limo Hire",
-    "address": "33 Hanger Ln, London, W5 3HJ, GB",
-    "phone": "07889 889886",
-    "international_phone": "07889 889886",
-    "website": "https://www.surreylimohire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Surrey+Limo+Hire/data=!4m7!3m6!1s0x487613bc39757a99:0xe39938cefa40f115!8m2!3d51.5161337!4d-0.2911307!16s%2Fg%2F11jsrd9btf!19sChIJmXp1ObwTdkgRFfFA-s44meM?authuser=0&hl=en&rclk=1",
+    "name": "Knights Wedding Cars",
+    "address": "18 Salisbury Rd, Worcester Park, KT4 7DG, GB",
+    "phone": "07957 485874",
+    "international_phone": "07957 485874",
+    "website": "http://www.knightsweddingcars.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Knights+Wedding+Cars/data=!4m7!3m6!1s0x4876099376f22063:0xd621e3457dad2051!8m2!3d51.3701174!4d-0.264268!16s%2Fg%2F11bw4708qt!19sChIJYyDydpMJdkgRUSCtfUXjIdY?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
     "types": "Limousine service",
-    "lat": 51.516134,
-    "lng": -0.291131,
-    "found_in_location": "Ealing",
+    "lat": 51.370117,
+    "lng": -0.264268,
+    "found_in_location": "Kingston",
     "found_with_query": "limo london",
-    "email": "info@booklimo.co.uk",
-    "emails": [
-      "info@booklimo.co.uk",
-      "booklimolondon@gmail.com"
-    ],
-    "description": "Get the luxurious Limousine transport in LONDON feeling with our wide range of finest limousine cars at SURREY LIMO HIRE. Book Now at +44 7889889886",
+    "description": "Classic Wedding Transport from Knights Wedding Cars. Covering Surrey and the South East of England. Transport as unique as your day.",
     "services": [
-      "Party Bus",
-      "Prom Transport"
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Wedding Car"
     ]
   },
   {
@@ -961,6 +910,33 @@
     ]
   },
   {
+    "name": "Surrey Limo Hire",
+    "address": "33 Hanger Ln, London, W5 3HJ, GB",
+    "phone": "07889 889886",
+    "international_phone": "07889 889886",
+    "website": "https://www.surreylimohire.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Surrey+Limo+Hire/data=!4m7!3m6!1s0x487613bc39757a99:0xe39938cefa40f115!8m2!3d51.5161337!4d-0.2911307!16s%2Fg%2F11jsrd9btf!19sChIJmXp1ObwTdkgRFfFA-s44meM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Limousine service",
+    "lat": 51.516134,
+    "lng": -0.291131,
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@booklimo.co.uk",
+    "emails": [
+      "info@booklimo.co.uk",
+      "booklimolondon@gmail.com"
+    ],
+    "description": "Get the luxurious Limousine transport in LONDON feeling with our wide range of finest limousine cars at SURREY LIMO HIRE. Book Now at +44 7889889886",
+    "services": [
+      "Party Bus",
+      "Prom Transport"
+    ]
+  },
+  {
     "name": "party bus",
     "address": "2 Garth Rd, London, NW2 2NJ, GB",
     "phone": "07393 102651",
@@ -988,29 +964,6 @@
       "Party Bus",
       "Rolls Royce",
       "Stretch Limo"
-    ]
-  },
-  {
-    "name": "Knights Wedding Cars",
-    "address": "18 Salisbury Rd, Worcester Park, KT4 7DG, GB",
-    "phone": "07957 485874",
-    "international_phone": "07957 485874",
-    "website": "http://www.knightsweddingcars.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Knights+Wedding+Cars/data=!4m7!3m6!1s0x4876099376f22063:0xd621e3457dad2051!8m2!3d51.3701174!4d-0.264268!16s%2Fg%2F11bw4708qt!19sChIJYyDydpMJdkgRUSCtfUXjIdY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Limousine service",
-    "lat": 51.370117,
-    "lng": -0.264268,
-    "found_in_location": "Kingston",
-    "found_with_query": "limo london",
-    "description": "Classic Wedding Transport from Knights Wedding Cars. Covering Surrey and the South East of England. Transport as unique as your day.",
-    "services": [
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Wedding Car"
     ]
   },
   {
@@ -1060,6 +1013,51 @@
     ]
   },
   {
+    "name": "Aspire Prestige",
+    "address": "84 Brook St, London, W1K 5EH, GB",
+    "phone": "020 7078 7487",
+    "international_phone": "020 7078 7487",
+    "website": "http://www.aspireprestige.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Aspire+Prestige/data=!4m7!3m6!1s0x4876052d01c376c3:0x851a69b4f7dd9d66!8m2!3d51.512513!4d-0.149834!16s%2Fg%2F11cn18c26_!19sChIJw3bDAS0FdkgRZp3d97RpGoU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Chauffeur service",
+    "lat": 51.512513,
+    "lng": -0.149834,
+    "found_in_location": "Central London",
+    "found_with_query": "limo london",
+    "email": "contact@aspireprestige.com",
+    "emails": [
+      "contact@aspireprestige.com",
+      "accounts@aspireprestige.com"
+    ],
+    "description": "Aspire Prestige is London’s leading luxury chauffeur service, offering Rolls Royce, Mercedes, and VIP transfers for business, weddings, and airport travel.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Rolls Royce"
+    ]
+  },
+  {
+    "name": "JB Limousines",
+    "address": "3 The Grn, Orpington, BR5 3DP, GB",
+    "phone": "07956 546028",
+    "international_phone": "07956 546028",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/JB+Limousines/data=!4m7!3m6!1s0x47d8ade468a5eacb:0x73942314c3ae5b79!8m2!3d51.4135781!4d0.1088522!16s%2Fg%2F11kpzt2jry!19sChIJy-qlaOSt2EcReVuuwxQjlHM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.413578,
+    "lng": 0.108852,
+    "found_in_location": "Bromley",
+    "found_with_query": "limo london"
+  },
+  {
     "name": "Limo hire in London",
     "address": "36 Central Avenue West Molesey Greater London, London, Molesey, West Molesey, KT8 2QZ, GB",
     "phone": "020 3907 8702",
@@ -1094,23 +1092,6 @@
     ]
   },
   {
-    "name": "JB Limousines",
-    "address": "3 The Grn, Orpington, BR5 3DP, GB",
-    "phone": "07956 546028",
-    "international_phone": "07956 546028",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/JB+Limousines/data=!4m7!3m6!1s0x47d8ade468a5eacb:0x73942314c3ae5b79!8m2!3d51.4135781!4d0.1088522!16s%2Fg%2F11kpzt2jry!19sChIJy-qlaOSt2EcReVuuwxQjlHM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.413578,
-    "lng": 0.108852,
-    "found_in_location": "Bromley",
-    "found_with_query": "limo london"
-  },
-  {
     "name": "Stafford Wedding Cars",
     "address": "7a, Romford Rd, Astonfields Industrial Estate, Stafford, ST16 3DZ, GB",
     "phone": "07891 249911",
@@ -1133,114 +1114,6 @@
     "description": "Our gorgeous 6 & 7 seater chauffeur driven Vintage style Wedding Cars are available in Stafford, Staffordshire to transport the Bride & Groom on their first journey as a married couple. Get an Instant Wedding Car Hire Quote for your seven seater wedding transport.",
     "services": [
       "Chauffeur Service",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Aspire Prestige",
-    "address": "84 Brook St, London, W1K 5EH, GB",
-    "phone": "020 7078 7487",
-    "international_phone": "020 7078 7487",
-    "website": "http://www.aspireprestige.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Aspire+Prestige/data=!4m7!3m6!1s0x4876052d01c376c3:0x851a69b4f7dd9d66!8m2!3d51.512513!4d-0.149834!16s%2Fg%2F11cn18c26_!19sChIJw3bDAS0FdkgRZp3d97RpGoU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.512513,
-    "lng": -0.149834,
-    "found_in_location": "Central London",
-    "found_with_query": "limo london",
-    "email": "contact@aspireprestige.com",
-    "emails": [
-      "contact@aspireprestige.com",
-      "accounts@aspireprestige.com"
-    ],
-    "description": "Aspire Prestige is London’s leading luxury chauffeur service, offering Rolls Royce, Mercedes, and VIP transfers for business, weddings, and airport travel.",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service",
-      "Rolls Royce"
-    ]
-  },
-  {
-    "name": "Premier Carriage Wedding Cars",
-    "address": "195 Wood St, Barbican, London, E17 3NU, GB",
-    "phone": "020 3876 0749",
-    "international_phone": "020 3876 0749",
-    "website": "https://www.premiercarriage.co.uk/wedding-cars/london",
-    "google_maps_url": "https://www.google.com/maps/place/Premier+Carriage+Wedding+Cars/data=!4m7!3m6!1s0x48761b7d87eaf627:0x8d06c7b62c3a735c!8m2!3d51.5165368!4d-0.093935!16s%2Fg%2F11x0gx2hy0!19sChIJJ_bqh30bdkgRXHM6LLbHBo0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Wedding service",
-    "lat": 51.516537,
-    "lng": -0.093935,
-    "found_in_location": "Islington",
-    "found_with_query": "limo london",
-    "email": "enquiries@premiercarriage.co.uk",
-    "emails": [
-      "enquiries@premiercarriage.co.uk"
-    ],
-    "description": "Choose a luxe wedding car for hire in London. Over 23,500 couples chauffeured. Classic, modern &amp; novelty vehicles. Call Premier Carriage for a bespoke package.",
-    "services": [
-      "Bentley",
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Hummer Limo",
-      "Rolls Royce",
-      "Stretch Limo",
-      "Supercar Hire",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Limo Hire North London",
-    "address": "11 Gardenia Rd, Enfield, EN1 2JA, GB",
-    "phone": "020 8845 6465",
-    "international_phone": "020 8845 6465",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Limo+Hire+North+London/data=!4m7!3m6!1s0x48761ede50d0e60d:0x35fe168344e7bf27!8m2!3d51.6382023!4d-0.0732938!16s%2Fg%2F11_0nn9cg!19sChIJDebQUN4edkgRJ7_nRIMW_jU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.638202,
-    "lng": -0.073294,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london"
-  },
-  {
-    "name": "LIMO HIRE WEDDINGS",
-    "address": "33 Hanger Ln, London, W5 3HJ, GB",
-    "phone": "020 8385 2662",
-    "international_phone": "020 8385 2662",
-    "website": "http://limohireweddings.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/LIMO+HIRE+WEDDINGS/data=!4m7!3m6!1s0x487612070a61afe9:0x16bffa4bbb15cbca!8m2!3d51.5161337!4d-0.2911307!16s%2Fg%2F11vslg1mfq!19sChIJ6a9hCgcSdkgRyssVu0v6vxY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.516134,
-    "lng": -0.291131,
-    "found_in_location": "Ealing",
-    "found_with_query": "limo london",
-    "email": "info@limohireweddings.co.uk",
-    "emails": [
-      "info@limohireweddings.co.uk",
-      "info@booklimo.co.uk"
-    ],
-    "description": "You Will Get The Best Prices & Vehicles, Along With Friendly, Helpful Advice!",
-    "services": [
-      "Chauffeur Service",
-      "Hummer Limo",
-      "Party Bus",
-      "Rolls Royce",
-      "Stretch Limo",
       "Wedding Car"
     ]
   },
@@ -1277,6 +1150,86 @@
     "lng": 0.052544,
     "found_in_location": "Bromley",
     "found_with_query": "limo london"
+  },
+  {
+    "name": "LIMO HIRE WEDDINGS",
+    "address": "33 Hanger Ln, London, W5 3HJ, GB",
+    "phone": "020 8385 2662",
+    "international_phone": "020 8385 2662",
+    "website": "http://limohireweddings.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/LIMO+HIRE+WEDDINGS/data=!4m7!3m6!1s0x487612070a61afe9:0x16bffa4bbb15cbca!8m2!3d51.5161337!4d-0.2911307!16s%2Fg%2F11vslg1mfq!19sChIJ6a9hCgcSdkgRyssVu0v6vxY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.516134,
+    "lng": -0.291131,
+    "found_in_location": "Ealing",
+    "found_with_query": "limo london",
+    "email": "info@limohireweddings.co.uk",
+    "emails": [
+      "info@limohireweddings.co.uk",
+      "info@booklimo.co.uk"
+    ],
+    "description": "You Will Get The Best Prices & Vehicles, Along With Friendly, Helpful Advice!",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Limo Hire North London",
+    "address": "11 Gardenia Rd, Enfield, EN1 2JA, GB",
+    "phone": "020 8845 6465",
+    "international_phone": "020 8845 6465",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Limo+Hire+North+London/data=!4m7!3m6!1s0x48761ede50d0e60d:0x35fe168344e7bf27!8m2!3d51.6382023!4d-0.0732938!16s%2Fg%2F11_0nn9cg!19sChIJDebQUN4edkgRJ7_nRIMW_jU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.638202,
+    "lng": -0.073294,
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london"
+  },
+  {
+    "name": "Premier Carriage Wedding Cars",
+    "address": "195 Wood St, Barbican, London, E17 3NU, GB",
+    "phone": "020 3876 0749",
+    "international_phone": "020 3876 0749",
+    "website": "https://www.premiercarriage.co.uk/wedding-cars/london",
+    "google_maps_url": "https://www.google.com/maps/place/Premier+Carriage+Wedding+Cars/data=!4m7!3m6!1s0x48761b7d87eaf627:0x8d06c7b62c3a735c!8m2!3d51.5165368!4d-0.093935!16s%2Fg%2F11x0gx2hy0!19sChIJJ_bqh30bdkgRXHM6LLbHBo0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
+    "types": "Wedding service",
+    "lat": 51.516537,
+    "lng": -0.093935,
+    "found_in_location": "Islington",
+    "found_with_query": "limo london",
+    "email": "enquiries@premiercarriage.co.uk",
+    "emails": [
+      "enquiries@premiercarriage.co.uk"
+    ],
+    "description": "Choose a luxe wedding car for hire in London. Over 23,500 couples chauffeured. Classic, modern &amp; novelty vehicles. Call Premier Carriage for a bespoke package.",
+    "services": [
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Wedding Cars UK",
@@ -1328,28 +1281,6 @@
       "Stretch Limo",
       "Supercar Hire",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "London Bus Hire",
-    "address": "Unit 6 Stockley Farm Rd, London, UB7 9BW, GB",
-    "phone": "07956 224399",
-    "international_phone": "07956 224399",
-    "website": "http://www.london-bus-hire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/London+Bus+Hire/data=!4m7!3m6!1s0x487673a339e6d6d9:0x175c431dbb36ef7c!8m2!3d51.5044067!4d-0.452094!16s%2Fg%2F11rc8z57d1!19sChIJ2dbmOaNzdkgRfO82ux1DXBc?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 310,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Coach and minibus hire",
-    "lat": 51.504407,
-    "lng": -0.452094,
-    "found_in_location": "Uxbridge",
-    "found_with_query": "limo london",
-    "description": "Coach hire London and UK by London Bus Hire to or from Airports. Sightseeing Tours in the UK also",
-    "services": [
-      "Airport Transfer",
-      "Party Bus"
     ]
   },
   {
@@ -1406,50 +1337,6 @@
       "Chauffeur Service",
       "Classic & Vintage",
       "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Palmer & Martin Vehicle Hire ltd - Bishop's Stortford",
-    "address": "Unit 14, London Rd, Bishop's Stortford, CM23 3YT, GB",
-    "phone": "01279 505072",
-    "international_phone": "01279 505072",
-    "website": "http://www.palmerandmartin.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Palmer+%26+Martin+Vehicle+Hire+ltd+-+Bishop%27s+Stortford/data=!4m7!3m6!1s0x47d8853611f22b73:0xf79035079c56b4a!8m2!3d51.858261!4d0.16621!16s%2Fg%2F1tgdmtvr!19sChIJcyvyETaF2EcRSmvFeVADeQ8?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 237,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"9–9:30 am\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 51.858261,
-    "lng": 0.16621,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london",
-    "description": "Providing a one-stop-shop for all of your Hire requirements."
-  },
-  {
-    "name": "Minibus It",
-    "address": "Unit C1, Seedbed Centre, Davidson Way, Romford, RM7 0AZ, GB",
-    "phone": "020 3576 2009",
-    "international_phone": "020 3576 2009",
-    "website": "http://www.minibus-it.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Minibus+It/data=!4m7!3m6!1s0x47d8a6601daaaaab:0xa9bdb524c245aa68!8m2!3d51.5700374!4d0.1846857!16s%2Fg%2F11lfr6r9rf!19sChIJq6qqHWCm2EcRaKpFwiS1vak?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 235,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.570037,
-    "lng": 0.184686,
-    "found_in_location": "Romford",
-    "found_with_query": "limo london",
-    "email": "info@minibus-it.co.uk",
-    "emails": [
-      "info@minibus-it.co.uk"
-    ],
-    "description": "Reliable Coach & Minibus Hire with driver Essex. Various Minibus Sizes Available. Call us on 020 3576 2009 for bookings.",
-    "services": [
-      "Airport Transfer",
       "Wedding Car"
     ]
   },
@@ -2030,30 +1917,6 @@
     ]
   },
   {
-    "name": "Dharma Hall",
-    "address": "442-446 Hertford Rd, Enfield, EN3 5QH, GB",
-    "phone": "07778 308318",
-    "international_phone": "07778 308318",
-    "website": "https://www.dharmamandir.com/hall-hire",
-    "google_maps_url": "https://www.google.com/maps/place/Dharma+Hall/data=!4m7!3m6!1s0x48761f0e1b860b1d:0x492817616eebbe27!8m2!3d51.6648352!4d-0.0443019!16s%2Fg%2F11t3nmr6r2!19sChIJHQuGGw4fdkgRJ77rbmEXKEk?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Banquet hall",
-    "lat": 51.664835,
-    "lng": -0.044302,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london",
-    "email": "info@dharmamandir.com",
-    "emails": [
-      "info@dharmamandir.com",
-      "info@dharmahallhire.co.uk",
-      "dharmahallhire@gmail.com"
-    ],
-    "description": "Learn more about how you can hire the Dharma Hall for your special events."
-  },
-  {
     "name": "Limo Hire Essex - L.A. Stretch Limos",
     "address": "115 Beehive Ln, Ilford, IG1 3RW, GB",
     "phone": "020 8554 9292",
@@ -2258,67 +2121,6 @@
     ]
   },
   {
-    "name": "Capel Manor Gardens",
-    "address": "Bullsmoor Lane Middlesex, Enfield, Waltham Cross, Waltham Cross, EN1 4RQ, GB",
-    "phone": "0303 003 1234",
-    "international_phone": "0303 003 1234",
-    "website": "http://www.capelmanorgardens.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Capel+Manor+Gardens/data=!4m7!3m6!1s0x48761f7c53f51171:0x30746f710e2bf3ec!8m2!3d51.680121!4d-0.0553427!16s%2Fg%2F11g7zy9nr2!19sChIJcRH1U3wfdkgR7PMrDnFvdDA?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 1493,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–5:30 pm\"],\"Monday\":[\"10 am–5:30 pm\"],\"Saturday\":[\"10 am–5:30 pm\"],\"Sunday\":[\"10 am–5:30 pm\"],\"Thursday\":[\"10 am–5:30 pm\"],\"Tuesday\":[\"10 am–5:30 pm\"],\"Wednesday\":[\"10 am–5:30 pm\"]}",
-    "types": "Park and Garden",
-    "lat": 51.680121,
-    "lng": -0.055343,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london",
-    "description": "Enjoy a day out for all the family in the heart of North London. Have fun exploring our Gardens and make sure to say hello to the animals in our mini zoo!",
-    "services": [
-      "Classic & Vintage"
-    ]
-  },
-  {
-    "name": "Beckenham Place Mansion",
-    "address": "The Mansion, Beckenham Pl Park, Beckenham, BR3 1SY, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "http://www.beckenhamplace.org/",
-    "google_maps_url": "https://www.google.com/maps/place/Beckenham+Place+Mansion/data=!4m7!3m6!1s0x487601edc6703e65:0x70dcd3ebb00c7de!8m2!3d51.4186047!4d-0.0187478!16s%2Fg%2F11c5s7sdwt!19sChIJZT5wxu0BdkgR3scAuz7NDQc?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 1143,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 51.418605,
-    "lng": -0.018748,
-    "found_in_location": "Lewisham",
-    "found_with_query": "limo london",
-    "description": "For the first time in decades, Beckenham Place Park's beautiful Georgian mansion is open daily to the public as an arts, cultural and community centre."
-  },
-  {
-    "name": "Bustronome London",
-    "address": "Coach Bay, 40B Victoria Embankment, London, WC2N 6PB, GB",
-    "phone": "020 3744 5554",
-    "international_phone": "020 3744 5554",
-    "website": "https://www.bustronome.com/en/london/concept/?utm_source=Google&utm_medium=Organic&utm_campaign=Google+Listing",
-    "google_maps_url": "https://www.google.com/maps/place/Bustronome+London/data=!4m7!3m6!1s0x487604b24620faf3:0x8b0f9998fe9204ce!8m2!3d51.5080059!4d-0.1214692!16s%2Fg%2F11gjx06k0_!19sChIJ8_ogRrIEdkgRzgSS_piZD4s?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 506,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12–2 pm\",\"7–10 pm\"],\"Monday\":[\"12–2 pm\",\"7–10 pm\"],\"Saturday\":[\"12–2 pm\",\"7–10 pm\"],\"Sunday\":[\"12–2 pm\",\"7–10 pm\"],\"Thursday\":[\"12–3 pm\",\"7–10 pm\"],\"Tuesday\":[\"12–3 pm\",\"7–10 pm\"],\"Wednesday\":[\"12–3 pm\",\"7–10 pm\"]}",
-    "types": "Restaurant",
-    "lat": 51.508006,
-    "lng": -0.121469,
-    "found_in_location": "Central London",
-    "found_with_query": "limo london",
-    "email": "london@bustronome.com",
-    "emails": [
-      "london@bustronome.com"
-    ],
-    "description": "Enjoy a unique gastronomic experience in London aboard the Bustronome, a glass double-decker bus. Enjoy exceptional dishes with a panoramic view."
-  },
-  {
     "name": "Royal Rentals",
     "address": "Suite 35 Berkeley Square, London, W1J 5BF, GB",
     "phone": "0800 772 0297",
@@ -2463,28 +2265,6 @@
     ]
   },
   {
-    "name": "Minibus London",
-    "address": "26 Bloomsbury St, London, WC1B 3QJ, GB",
-    "phone": "020 3011 4620",
-    "international_phone": "020 3011 4620",
-    "website": "https://www.minibuslondon.org/",
-    "google_maps_url": "https://www.google.com/maps/place/Minibus+London/data=!4m7!3m6!1s0x48761b325d6dd375:0x69d1e8915192b470!8m2!3d51.5181102!4d-0.1276772!16s%2Fg%2F11gf62d6k8!19sChIJddNtXTIbdkgRcLSSUZHo0Wk?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.51811,
-    "lng": -0.127677,
-    "found_in_location": "Central London",
-    "found_with_query": "limo london",
-    "email": "info@minibuslondon.org",
-    "emails": [
-      "info@minibuslondon.org"
-    ],
-    "description": "Intro page to GB Coach Hire. GB Coach Hire has been providing professional coach hire to private and corporate customers for many years. We’ve built up a fantastic reputation, becoming renowned throughout the UK for our commitment to comfort, safety and value for money."
-  },
-  {
     "name": "Shirley Chauffeurs",
     "address": "15 Temple Ave, Croydon, CR0 8QE, GB",
     "phone": "020 8777 2916",
@@ -2596,88 +2376,6 @@
     ]
   },
   {
-    "name": "Brigit's Bakery & Afternoon Tea Bus Tours",
-    "address": "6-7 Chandos Pl, London, WC2N 4HU, GB",
-    "phone": "020 3026 1188",
-    "international_phone": "020 3026 1188",
-    "website": "https://b-bakery.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Brigit%27s+Bakery+%26+Afternoon+Tea+Bus+Tours/data=!4m7!3m6!1s0x487604cc1af88479:0xc3b69fa667ac5340!8m2!3d51.5100768!4d-0.1245529!16s%2Fg%2F11fz286q4_!19sChIJeYT4GswEdkgRQFOsZ6aftsM?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 1642,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–7 pm\"],\"Monday\":[\"10 am–7 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"10 am–7 pm\"],\"Tuesday\":[\"10 am–7 pm\"],\"Wednesday\":[\"10 am–7 pm\"]}",
-    "types": "Bakery",
-    "lat": 51.510077,
-    "lng": -0.124553,
-    "found_in_location": "Central London",
-    "found_with_query": "limo london",
-    "email": "info@b-bakery.com",
-    "emails": [
-      "info@b-bakery.com"
-    ],
-    "description": "Brigit’s Bakery is one of the best places for Afternoon Tea London. Hop aboard our Afternoon Tea Sightseeing Bus Tours or visit the relaxing sanctuary of Brigit’s Bakery Covent Garden."
-  },
-  {
-    "name": "The Ghost Bus Tours",
-    "address": "8 Northumberland Ave, London, WC2N 5BY, GB",
-    "phone": "0844 567 8666",
-    "international_phone": "0844 567 8666",
-    "website": "http://www.theghostbustours.com/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Ghost+Bus+Tours/data=!4m7!3m6!1s0x48761b330e0d926d:0x62be82840412129a!8m2!3d51.506935!4d-0.126012!16s%2Fg%2F12hkhyq38!19sChIJbZINDjMbdkgRmhISBISCvmI?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 794,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
-    "types": "Tour operator",
-    "lat": 51.506935,
-    "lng": -0.126012,
-    "found_in_location": "Central London",
-    "found_with_query": "limo london",
-    "description": "Edinburgh, London & York Welcome dear mourner to the world’s ONLY comedy horror theatre show on wheels, Great Britains must do, number one attraction. But beware…",
-    "services": [
-      "Rolls Royce"
-    ]
-  },
-  {
-    "name": "Keston Village Hall",
-    "address": "132 Heathfield Rd, Bromley, Keston, BR2 6BF, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "https://www.kestonvillagehall.org.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Keston+Village+Hall/data=!4m7!3m6!1s0x47d8aac698be2977:0xf4af3d69309c9bea!8m2!3d51.3564034!4d0.0319885!16s%2Fg%2F1tgjkk3m!19sChIJdym-mMaq2EcR6pucMGk9r_Q?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 112,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
-    "types": "Village hall",
-    "lat": 51.356403,
-    "lng": 0.031988,
-    "found_in_location": "Bromley",
-    "found_with_query": "limo london",
-    "description": "The Main Hall (27ft x 55ft (8.3m x 16.8m)) is a large bright space with wooden sprung flooring marked out for badminton. At one end is a raised stage of 65 sqm, perfect for amateur dramatics, with a manual curtain with stage lighting plugs. At the other end is a storeroom (adjacent to the..."
-  },
-  {
-    "name": "DING DONG FUN BUS",
-    "address": "Selby centre, Selby Rd, London, N17 8JL, GB",
-    "phone": "020 8885 0680",
-    "international_phone": "020 8885 0680",
-    "website": "http://www.dingdongfunbus.com/",
-    "google_maps_url": "https://www.google.com/maps/place/DING+DONG+FUN+BUS/data=!4m7!3m6!1s0x48761ea443bbfd55:0xe2e15c8998a588e!8m2!3d51.6075594!4d-0.0794109!16s%2Fg%2F1yh9tt0s3!19sChIJVf27Q6QedkgRjliKmcgVLg4?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 109,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:15 am–5:15 pm\"],\"Monday\":[\"10:15 am–5:15 pm\"],\"Saturday\":[\"10:15 am–5:15 pm\"],\"Sunday\":[\"10:15 am–5:15 pm\"],\"Thursday\":[\"10:15 am–5:15 pm\"],\"Tuesday\":[\"10:15 am–5:15 pm\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Children's Amusement Centre",
-    "lat": 51.607559,
-    "lng": -0.079411,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london",
-    "description": "Play. explore. celebrate. London’s Most Fun-Filled Soft Play & Party Bus Experience! Safe, stress-free fun for kids. Easy, reliable booking for parents.” Book",
-    "services": [
-      "Party Bus"
-    ]
-  },
-  {
     "name": "Limo Hire London Central London",
     "address": "65, 69 Lots Rd, London, SW10 0QD, GB",
     "phone": "020 3962 0035",
@@ -2779,34 +2477,6 @@
     "lng": 0.139577,
     "found_in_location": "Romford",
     "found_with_query": "limo london"
-  },
-  {
-    "name": "Green's Carriage Masters",
-    "address": "25 Fordmill Rd, London, SE6 3JH, GB",
-    "phone": "020 8695 9500",
-    "international_phone": "020 8695 9500",
-    "website": "http://www.greenscarriages.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Green%27s+Carriage+Masters/data=!4m7!3m6!1s0x48760218779a957f:0x87f9d9fa80e7811a!8m2!3d51.4392905!4d-0.0228445!16s%2Fg%2F1td1cw_h!19sChIJf5WadxgCdkgRGoHngPrZ-Yc?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Limousine service",
-    "lat": 51.43929,
-    "lng": -0.022845,
-    "found_in_location": "Lewisham",
-    "found_with_query": "limo london",
-    "email": "office@greenscarriages.com",
-    "emails": [
-      "office@greenscarriages.com",
-      "accounts@greenscarriages.com",
-      "office@greeenscarriages.com",
-      "accounts@greeenscarriages.com"
-    ],
-    "description": "We are an independent family-run business, based in South East London, providing a diverse range of Limousines and Hearses to the funeral trade nationwide",
-    "services": [
-      "Wedding Car"
-    ]
   },
   {
     "name": "Limos & Cars Hire London",
@@ -2917,6 +2587,32 @@
     ]
   },
   {
+    "name": "La Limo's Ltd",
+    "address": "Forest View Newgatestreet Road, Goffs Oak, EN7 5RY, GB",
+    "phone": "01992 447300",
+    "international_phone": "01992 447300",
+    "website": "https://www.lalimousines.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/La+Limo%27s+Ltd/data=!4m7!3m6!1s0x4876222a7277dfeb:0x96c84f77a06bf33c!8m2!3d51.7218172!4d-0.095371!16s%2Fg%2F1q5blrb55!19sChIJ6993cioidkgRPPNroHdPyJY?authuser=0&hl=en&rclk=1",
+    "rating": 3.5,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
+    "types": "Limousine service",
+    "lat": 51.721817,
+    "lng": -0.095371,
+    "found_in_location": "Enfield",
+    "found_with_query": "limo london",
+    "email": "info@lalimousines.co.uk",
+    "emails": [
+      "info@lalimousines.co.uk"
+    ],
+    "description": "LA Limos | Stretch limousines rental | 07956 595428 | Luxury Cars | Limos for all occasions in London | Hertfordshire and surrounding areas | Proms | Race Days| weddings",
+    "services": [
+      "Chauffeur Service",
+      "Stretch Limo"
+    ]
+  },
+  {
     "name": "Limo hire london",
     "address": "20 Macbeth St, London, W6 9JJ, GB",
     "phone": "07884 472042",
@@ -2948,32 +2644,6 @@
       "Stretch Limo",
       "Supercar Hire",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "La Limo's Ltd",
-    "address": "Forest View Newgatestreet Road, Goffs Oak, EN7 5RY, GB",
-    "phone": "01992 447300",
-    "international_phone": "01992 447300",
-    "website": "https://www.lalimousines.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/La+Limo%27s+Ltd/data=!4m7!3m6!1s0x4876222a7277dfeb:0x96c84f77a06bf33c!8m2!3d51.7218172!4d-0.095371!16s%2Fg%2F1q5blrb55!19sChIJ6993cioidkgRPPNroHdPyJY?authuser=0&hl=en&rclk=1",
-    "rating": 3.5,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Limousine service",
-    "lat": 51.721817,
-    "lng": -0.095371,
-    "found_in_location": "Enfield",
-    "found_with_query": "limo london",
-    "email": "info@lalimousines.co.uk",
-    "emails": [
-      "info@lalimousines.co.uk"
-    ],
-    "description": "LA Limos | Stretch limousines rental | 07956 595428 | Luxury Cars | Limos for all occasions in London | Hertfordshire and surrounding areas | Proms | Race Days| weddings",
-    "services": [
-      "Chauffeur Service",
-      "Stretch Limo"
     ]
   },
   {
@@ -3057,60 +2727,21 @@
     "found_with_query": "limo london"
   },
   {
-    "name": "London Bus Party",
-    "address": "77 East Rd, London, N1 6AH, GB",
-    "phone": "07538 820537",
-    "international_phone": "07538 820537",
-    "website": "https://londonbusparty.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/London+Bus+Party/data=!4m7!3m6!1s0x48761d880ff97ad3:0x60833937ec8b82a2!8m2!3d51.5291125!4d-0.0875946!16s%2Fg%2F11w2k6nv0b!19sChIJ03r5D4gddkgRooKL7Dc5g2A?authuser=0&hl=en&rclk=1",
+    "name": "Adairs Limousine",
+    "address": "1 Lake Rise, Romford, RM1 4DZ, GB",
+    "phone": "01708 763152",
+    "international_phone": "01708 763152",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Adairs+Limousine/data=!4m7!3m6!1s0x47d8bb4cda563e73:0x47655dba38b13d9d!8m2!3d51.5853683!4d0.1894196!16s%2Fg%2F11dxhyqqb9!19sChIJcz5W2ky72EcRnT2xOLpdZUc?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
-    "types": "Bus tour agency",
-    "lat": 51.529112,
-    "lng": -0.087595,
-    "found_in_location": "Islington",
-    "found_with_query": "limo london",
-    "email": "hello@londonbusparty.co.uk",
-    "emails": [
-      "hello@londonbusparty.co.uk"
-    ],
-    "description": "London Bus Party—your private double-decker rave on wheels! Perfect for birthdays, hen/stag parties, and corporate events. Let's roll!",
-    "services": [
-      "Airport Transfer",
-      "Party Bus"
-    ]
-  },
-  {
-    "name": "Limousine Hires",
-    "address": "182 High St N, London, E6 2JA, GB",
-    "phone": "07562 564549",
-    "international_phone": "07562 564549",
-    "website": "https://limousinehires.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Limousine+Hires/data=!4m7!3m6!1s0x47d8a7a22cee6c91:0x5f3b1914406d7662!8m2!3d51.5387023!4d0.0520481!16s%2Fg%2F11wfs8n8jw!19sChIJkWzuLKKn2EcRYnZtQBQZO18?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Limousine service",
-    "lat": 51.538702,
-    "lng": 0.052048,
-    "found_in_location": "Stratford",
-    "found_with_query": "limo london",
-    "description": "Discover top-notch limo hire in the UK for every occasion. Travel in style with luxurious Rides Call us today! 7893946619",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Hummer Limo",
-      "Party Bus",
-      "Prom Transport",
-      "Rolls Royce",
-      "Stretch Limo",
-      "Supercar Hire",
-      "Wedding Car"
-    ]
+    "lat": 51.585368,
+    "lng": 0.18942,
+    "found_in_location": "Romford",
+    "found_with_query": "limo london"
   },
   {
     "name": "G and R limousines",
@@ -3147,23 +2778,6 @@
     "found_with_query": "limo london"
   },
   {
-    "name": "Adairs Limousine",
-    "address": "1 Lake Rise, Romford, RM1 4DZ, GB",
-    "phone": "01708 763152",
-    "international_phone": "01708 763152",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Adairs+Limousine/data=!4m7!3m6!1s0x47d8bb4cda563e73:0x47655dba38b13d9d!8m2!3d51.5853683!4d0.1894196!16s%2Fg%2F11dxhyqqb9!19sChIJcz5W2ky72EcRnT2xOLpdZUc?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.585368,
-    "lng": 0.18942,
-    "found_in_location": "Romford",
-    "found_with_query": "limo london"
-  },
-  {
     "name": "Hk Limos",
     "address": "157 Roycraft Ave, Barking, IG11 0NS, GB",
     "phone": "07939 007613",
@@ -3182,6 +2796,36 @@
     "description": "Limousine service in Essex that gets you there in style - HK Limos",
     "services": [
       "Airport Transfer",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Limousine Hires",
+    "address": "182 High St N, London, E6 2JA, GB",
+    "phone": "07562 564549",
+    "international_phone": "07562 564549",
+    "website": "https://limousinehires.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Limousine+Hires/data=!4m7!3m6!1s0x47d8a7a22cee6c91:0x5f3b1914406d7662!8m2!3d51.5387023!4d0.0520481!16s%2Fg%2F11wfs8n8jw!19sChIJkWzuLKKn2EcRYnZtQBQZO18?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Limousine service",
+    "lat": 51.538702,
+    "lng": 0.052048,
+    "found_in_location": "Stratford",
+    "found_with_query": "limo london",
+    "description": "Discover top-notch limo hire in the UK for every occasion. Travel in style with luxurious Rides Call us today! 7893946619",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Stretch Limo",
+      "Supercar Hire",
       "Wedding Car"
     ]
   }

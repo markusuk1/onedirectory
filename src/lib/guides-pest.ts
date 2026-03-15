@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Pest Control Services in ${r.mainCity} & ${r.theName}`,
       intro: `Dealing with a pest problem can be stressful and unpleasant. Whether it is mice in your kitchen, wasps in your loft, or cockroaches in a commercial property, professional pest control is often the fastest and most effective solution. This guide covers everything you need to know about pest control services in ${r.theName}, including common pests, costs, and how to choose a reliable company.`,
       sections: [
+        ...(r.insights?.pest ? [{
+          heading: `Pest Control in ${r.theName}: Local Market Insights`,
+          content: r.insights.pest,
+        }] : []),
         {
           heading: `Common Pests in ${r.theName}`,
           content: `The most common pest problems reported across ${r.theName} are rats and mice, wasps, ants, cockroaches, bed bugs and fleas. Rodents are a year-round problem but peak in autumn and winter as they seek warmth and food indoors. Wasp nests are most common between May and September. Bed bugs can appear at any time and are often brought into homes via luggage, second-hand furniture or clothing. Bird problems, particularly pigeons, are common in urban areas like ${r.mainCity}. Moles are a frequent issue in gardens and green spaces across ${r.areas}.`,

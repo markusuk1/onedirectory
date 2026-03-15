@@ -89,27 +89,6 @@
     ]
   },
   {
-    "name": "GreenMaster Services - Lawn Treatment, Gutter Maintenance, Window Cleaning",
-    "address": "The Hub, New Century House, Crowther, Washington, NE38 0AQ, GB",
-    "phone": "0800 612 5312",
-    "international_phone": "0800 612 5312",
-    "website": "https://greenmasterservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/GreenMaster+Services+-+Lawn+Treatment,+Gutter+Maintenance,+Window+Cleaning/data=!4m7!3m6!1s0x487e7b0291ccde47:0x3de6ad8f0948d24a!8m2!3d54.9000259!4d-1.5556899!16s%2Fg%2F1vrq95_7!19sChIJR97MkQJ7fkgRStJICY-t5j0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 109,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Lawn care service",
-    "lat": 54.900026,
-    "lng": -1.55569,
-    "found_in_location": "Washington",
-    "found_with_query": "pest control northeast",
-    "description": "We are the North East's premier home and garden maintenance business. Looking after your Lawn, Windows, Driveway, Roof, Gutters and more.",
-    "services": [
-      "Bird & Pigeon Control"
-    ]
-  },
-  {
     "name": "Every Season Pest Control",
     "address": "25 Rushmore Grange, Washington, NE38 7LF, GB",
     "phone": "07952 003275",
@@ -163,31 +142,6 @@
     ]
   },
   {
-    "name": "Baxter's Exterior Cleaning Ltd (Hexham)",
-    "address": "Meadow Barn, Anick, Hexham, Hexham, NE46 4LW, GB",
-    "phone": "07754 449702",
-    "international_phone": "07754 449702",
-    "website": "https://baxtersexteriorcleaning.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Baxter%27s+Exterior+Cleaning+Ltd+%28Hexham%29/data=!4m7!3m6!1s0x487dc67cfe15dfdd:0xc459892142ac673!8m2!3d54.9852231!4d-2.0719302!16s%2Fg%2F11g_1q1tv!19sChIJ3d8V_nzGfUgRc8YqFJKYRQw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 72,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-4:30 pm; Tuesday: 8:30 am-4:30 pm; Wednesday: 8:30 am-4:30 pm; Thursday: 8:30 am-4:30 pm; Friday: 8:30 am-4:30 pm; Saturday: 10 am-2 pm; Sunday: Closed",
-    "types": "Window cleaning service",
-    "lat": 54.985223,
-    "lng": -2.07193,
-    "found_in_location": "Hexham",
-    "found_with_query": "pest control northeast",
-    "email": "info@baxtersexteriorcleaning.co.uk",
-    "emails": [
-      "info@baxtersexteriorcleaning.co.uk"
-    ],
-    "description": "Baxter\u2019s specialise in window cleaning and restoring all types of surfaces across the whole of Northumberland along with industrial equipment & expert industry knowledge.",
-    "services": [
-      "Fumigation"
-    ]
-  },
-  {
     "name": "AJN Pest Solutions",
     "address": "19 Marsdon Way, Seaham, SR7 7WX, GB",
     "phone": "07779 853071",
@@ -207,7 +161,7 @@
     "emails": [
       "ajnpestsolutions@gmail.com"
     ],
-    "description": "Here at AJN Pest Solutions we specialise in Honey Bee Removal across the UK. We also undertake all domestic and commercial forms of pest control \u2013 get in touch with us today to find out how we can help you!",
+    "description": "Here at AJN Pest Solutions we specialise in Honey Bee Removal across the UK. We also undertake all domestic and commercial forms of pest control – get in touch with us today to find out how we can help you!",
     "services": [
       "Bird & Pigeon Control",
       "Commercial Pest Control"
@@ -321,15 +275,15 @@
     "lng": -1.72096,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "pest control northeast",
-    "services": [
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ],
     "email": "darrin@northernratcontrol.co.uk",
     "emails": [
       "darrin@northernratcontrol.co.uk"
     ],
-    "description": "Vermin and rat control North East, Northern England, Cumbria, Yorkshire and the Scottish borders"
+    "description": "Vermin and rat control North East, Northern England, Cumbria, Yorkshire and the Scottish borders",
+    "services": [
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "WASP BUZZTERS & MOLE CONTROL",
@@ -347,15 +301,15 @@
     "lng": -2.018794,
     "found_in_location": "Corbridge",
     "found_with_query": "pest control northeast",
-    "services": [
-      "Mole Control",
-      "Wasp Nest Removal"
-    ],
     "email": "info@waspbuzzters.co.uk",
     "emails": [
       "info@waspbuzzters.co.uk"
     ],
-    "description": "Wasp Buzzters is a Corbridge-based specialist providing professional wasp nest elimination and mole control services across Corbridge (NE45) and surrounding Northumberland areas."
+    "description": "Wasp Buzzters is a Corbridge-based specialist providing professional wasp nest elimination and mole control services across Corbridge (NE45) and surrounding Northumberland areas.",
+    "services": [
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Northumberland Pest Control",
@@ -564,33 +518,6 @@
     ]
   },
   {
-    "name": "HPC Pest Control",
-    "address": "43 Aisgill Dr, Newcastle upon Tyne, NE5 1AS, GB",
-    "phone": "07853 906931",
-    "international_phone": "07853 906931",
-    "website": "http://www.housepestcontrolnewcastle.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/HPC+Pest+Control/data=!4m7!3m6!1s0x487e77cd2168c9ef:0xe9fb75ec928bbc1e!8m2!3d54.9920485!4d-1.7142141!16s%2Fg%2F1td1_v04!19sChIJ78loIc13fkgRHryLkux1--k?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: 8 am-12 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 54.992048,
-    "lng": -1.714214,
-    "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast",
-    "email": "housepestcontrol@hotmail.com",
-    "emails": [
-      "housepestcontrol@hotmail.com"
-    ],
-    "description": "Need pest and vermin control services? For advanced bed bug control, pigeon control and removal of ants, wasps and bees in Newcastle call on 07807 920 111",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control",
-      "Rat & Mouse Control"
-    ]
-  },
-  {
     "name": "Als Pest Solutions Ltd",
     "address": "3 Grasmere Gardens, South Shields, NE34 0DZ, GB",
     "phone": "07572 453281",
@@ -621,35 +548,48 @@
     ]
   },
   {
-    "name": "The Pest Company - Teesside",
-    "address": "1 Goose Pasture, Yarm, TS15 9EP, GB",
-    "phone": "01642 549831",
-    "international_phone": "01642 549831",
-    "website": "https://www.thepestcompany.co.uk/pest-control-teesside/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Pest+Company+-+Teesside/data=!4m7!3m6!1s0x87b914194b4a2f1d:0x6420d9888ce8b660!8m2!3d54.504281!4d-1.351027!16s%2Fg%2F11xyfytr9y!19sChIJHS9KSxkUuYcRYLbojIjZIGQ?authuser=0&hl=en&rclk=1",
+    "name": "HPC Pest Control",
+    "address": "43 Aisgill Dr, Newcastle upon Tyne, NE5 1AS, GB",
+    "phone": "07853 906931",
+    "international_phone": "07853 906931",
+    "website": "http://www.housepestcontrolnewcastle.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/HPC+Pest+Control/data=!4m7!3m6!1s0x487e77cd2168c9ef:0xe9fb75ec928bbc1e!8m2!3d54.9920485!4d-1.7142141!16s%2Fg%2F1td1_v04!19sChIJ78loIc13fkgRHryLkux1--k?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-5 pm; Tuesday: 8:30 am-5 pm; Wednesday: 8:30 am-5 pm; Thursday: 8:30 am-5 pm; Friday: 8:30 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: 8 am-12 pm; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 54.504281,
-    "lng": -1.351027,
-    "found_in_location": "Yarm",
+    "lat": 54.992048,
+    "lng": -1.714214,
+    "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "pest control northeast",
-    "email": "info@thepestcompany.co.uk",
+    "email": "housepestcontrol@hotmail.com",
     "emails": [
-      "info@thepestcompany.co.uk"
+      "housepestcontrol@hotmail.com"
     ],
-    "description": "Professional pest control in Essex \ud83c\udfe1\ud83d\udc1c Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. \ud83d\udcde",
+    "description": "Need pest and vermin control services? For advanced bed bug control, pigeon control and removal of ants, wasps and bees in Newcastle call on 07807 920 111",
     "services": [
       "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
       "Commercial Pest Control",
-      "Emergency Pest Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
+      "Rat & Mouse Control"
     ]
+  },
+  {
+    "name": "TL Pest Control",
+    "address": "26 Love Ave, Dudley, Cramlington, NE23 7BJ, GB",
+    "phone": "07886 325299",
+    "international_phone": "07886 325299",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/TL+Pest+Control/data=!4m7!3m6!1s0x487e73cf439a49dd:0xcd72d35c182dc73d!8m2!3d55.0545749!4d-1.5821615!16s%2Fg%2F1hg4vrhsp!19sChIJ3UmaQ89zfkgRPcctGFzTcs0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 55.054575,
+    "lng": -1.582161,
+    "found_in_location": "Cramlington",
+    "found_with_query": "pest control northeast"
   },
   {
     "name": "The Pest Company - North East",
@@ -671,7 +611,7 @@
     "emails": [
       "info@thepestcompany.co.uk"
     ],
-    "description": "Professional pest control in Essex \ud83c\udfe1\ud83d\udc1c Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. \ud83d\udcde",
+    "description": "Professional pest control in Essex 🏡🐜 Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. 📞",
     "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
@@ -683,21 +623,35 @@
     ]
   },
   {
-    "name": "TL Pest Control",
-    "address": "26 Love Ave, Dudley, Cramlington, NE23 7BJ, GB",
-    "phone": "07886 325299",
-    "international_phone": "07886 325299",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/TL+Pest+Control/data=!4m7!3m6!1s0x487e73cf439a49dd:0xcd72d35c182dc73d!8m2!3d55.0545749!4d-1.5821615!16s%2Fg%2F1hg4vrhsp!19sChIJ3UmaQ89zfkgRPcctGFzTcs0?authuser=0&hl=en&rclk=1",
+    "name": "The Pest Company - Teesside",
+    "address": "1 Goose Pasture, Yarm, TS15 9EP, GB",
+    "phone": "01642 549831",
+    "international_phone": "01642 549831",
+    "website": "https://www.thepestcompany.co.uk/pest-control-teesside/",
+    "google_maps_url": "https://www.google.com/maps/place/The+Pest+Company+-+Teesside/data=!4m7!3m6!1s0x87b914194b4a2f1d:0x6420d9888ce8b660!8m2!3d54.504281!4d-1.351027!16s%2Fg%2F11xyfytr9y!19sChIJHS9KSxkUuYcRYLbojIjZIGQ?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "",
+    "opening_hours": "Monday: 8:30 am-5 pm; Tuesday: 8:30 am-5 pm; Wednesday: 8:30 am-5 pm; Thursday: 8:30 am-5 pm; Friday: 8:30 am-5 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 55.054575,
-    "lng": -1.582161,
-    "found_in_location": "Cramlington",
-    "found_with_query": "pest control northeast"
+    "lat": 54.504281,
+    "lng": -1.351027,
+    "found_in_location": "Yarm",
+    "found_with_query": "pest control northeast",
+    "email": "info@thepestcompany.co.uk",
+    "emails": [
+      "info@thepestcompany.co.uk"
+    ],
+    "description": "Professional pest control in Essex 🏡🐜 Control of rodents, insects & birds in your home or business! Call now for an fast & reliable service. 📞",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Wilder North Pest Management",
@@ -972,16 +926,16 @@
     "lng": -1.608364,
     "found_in_location": "Newcastle upon Tyne",
     "found_with_query": "pest control northeast",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control",
-      "Fumigation"
-    ],
     "email": "office@pest.co.uk",
     "emails": [
       "office@pest.co.uk"
     ],
-    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
+    "description": "London’s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Fumigation"
+    ]
   },
   {
     "name": "Pestguard",
@@ -1123,47 +1077,6 @@
       "Bed Bug Treatment",
       "Cockroach Control"
     ]
-  },
-  {
-    "name": "Laverock Hall Farm Bird Food",
-    "address": "Laverock Hall Rd, Blyth, NE24 4HE, GB",
-    "phone": "01670 736581",
-    "international_phone": "01670 736581",
-    "website": "http://www.laverockhallfarm.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Laverock+Hall+Farm+Bird+Food/data=!4m7!3m6!1s0x487e72e610c4cb5d:0xec29c3a1695d73a1!8m2!3d55.1011284!4d-1.5594106!16s%2Fg%2F1pty8zq5t!19sChIJXcvEEOZyfkgRoXNdaaHDKew?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 82,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Closed; Tuesday: 9:30 am-3 pm; Wednesday: 9:30 am-3 pm; Thursday: 9:30 am-3 pm; Friday: 9:30 am-3 pm; Saturday: 9:30 am-1 pm; Sunday: 9:30 am-12 pm",
-    "types": "Pet Shop",
-    "lat": 55.101128,
-    "lng": -1.559411,
-    "found_in_location": "Blyth",
-    "found_with_query": "pest control northeast",
-    "description": "A huge selection of Wild Bird Foods, Pigeon Corns, Hen Corns & now Caged Bird Foods, all made here on our farm.Browse our selection and be assured of personal Customer Service if required."
-  },
-  {
-    "name": "Bug House",
-    "address": "30 Sherburn Ave, Stockton-on-Tees, Billingham, TS23 3PX, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "https://5fca71270e660.site123.me/",
-    "google_maps_url": "https://www.google.com/maps/place/Bug+House/data=!4m7!3m6!1s0x487e8d5a388663f5:0x5253b98ebcbf6e6d!8m2!3d54.6202374!4d-1.2827665!16s%2Fg%2F11hk9fvnnv!19sChIJ9WOGOFqNfkgRbW6_vI65U1I?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Tourist attraction",
-    "lat": 54.620237,
-    "lng": -1.282766,
-    "found_in_location": "Billingham",
-    "found_with_query": "pest control northeast",
-    "email": "shai1@site123-gal.com",
-    "emails": [
-      "shai1@site123-gal.com",
-      "theoandjoshinc29@gmail.com"
-    ],
-    "description": "Want to suggest an edit? Or want to make a suggestion? Email us now!"
   },
   {
     "name": "A Breeze Pest Control",
@@ -1342,64 +1255,6 @@
     ]
   },
   {
-    "name": "Invicta Pest Control Newcastle",
-    "address": "4 Castlegate Gardens, Gateshead, NE8 2QR, GB",
-    "phone": "0191 468 2839",
-    "international_phone": "0191 468 2839",
-    "website": "https://invictaenv.co.uk/newcastle/",
-    "google_maps_url": "https://www.google.com/maps/place/Invicta+Pest+Control+Newcastle/data=!4m7!3m6!1s0x487e774732c2ea01:0x436b760ccd33f3ed!8m2!3d54.9712982!4d-1.6113748!16s%2Fg%2F11y4q9_dy5!19sChIJAerCMkd3fkgR7fMzzQx2a0M?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6:30 am-9 pm; Tuesday: 6:30 am-9 pm; Wednesday: 6:30 am-9 pm; Thursday: 6:30 am-9 pm; Friday: 6:30 am-9 pm; Saturday: 8 am-5 pm; Sunday: 8 am-5 pm",
-    "types": "Pest control service",
-    "lat": 54.971298,
-    "lng": -1.611375,
-    "found_in_location": "Gateshead",
-    "found_with_query": "pest control northeast",
-    "description": "Invicta Environmental delivers fast and effective pest control Newcastle to homes and businesses. \u2713 More Pests Covered Than The Council \u2713 Guaranteed Success",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Newcastle Pest Control Co",
-    "address": "Business Centre, Clavering Pl, Newcastle upon Tyne, NE1 3NG, GB",
-    "phone": "0191 607 1555",
-    "international_phone": "0191 607 1555",
-    "website": "https://newcastlepestcontrolco.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Newcastle+Pest+Control+Co/data=!4m7!3m6!1s0x487e7121020e084f:0x6a4b3bddd29220c!8m2!3d54.968378!4d-1.6121461!16s%2Fg%2F11xvnd_4y4!19sChIJTwgOAiFxfkgRDCIp3b2zpAY?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 54.968378,
-    "lng": -1.612146,
-    "found_in_location": "Newcastle upon Tyne",
-    "found_with_query": "pest control northeast",
-    "email": "office@newcastlepestcontrolco.co.uk",
-    "emails": [
-      "office@newcastlepestcontrolco.co.uk"
-    ],
-    "description": "Our skilled pest technicians can handle anything from rats and mice to bed bugs, and cockroaches. Call us today for our expert pest control Newcastle services!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Moth Treatment",
-      "Rat & Mouse Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
     "name": "A1 Pest Control Darlington",
     "address": "2 Grange Rd, Darlington, DL1 5NQ, GB",
     "phone": "01325 965226",
@@ -1415,161 +1270,6 @@
     "lng": -1.558119,
     "found_in_location": "Darlington",
     "found_with_query": "pest control northeast"
-  },
-  {
-    "name": "Express Darlington Pest Control",
-    "address": "High Northgate, Darlington, DL1 1UW, GB",
-    "phone": "0800 051 8640",
-    "international_phone": "0800 051 8640",
-    "website": "http://pestcontroldarlington.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Express+Darlington+Pest+Control/data=!4m7!3m6!1s0x487e9bc4a6f37d95:0xfa349724ae14dfdd!8m2!3d54.5235854!4d-1.5595093!16s%2Fg%2F11vyj08dxf!19sChIJlX3zpsSbfkgR3d8UriSXNPo?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 54.523585,
-    "lng": -1.559509,
-    "found_in_location": "Darlington",
-    "found_with_query": "pest control northeast",
-    "description": "For Local Pest Control Near Me in Darlington Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Darlington, Fast for Home & Commercial Pest Problems!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
-      "Rat & Mouse Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "DePest",
-    "address": "73 Shakespeare Rd, Darlington, DL1 5BQ, GB",
-    "phone": "07845 038777",
-    "international_phone": "07845 038777",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/DePest/data=!4m7!3m6!1s0x4b35f33a7833f563:0x9111d6cc5911f65b!8m2!3d54.5114596!4d-1.5486994!16s%2Fg%2F11t4fs82d1!19sChIJY_UzeDrzNUsRW_YRWczWEZE?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-8 pm; Tuesday: 7 am-8 pm; Wednesday: 7 am-8 pm; Thursday: 7 am-8 pm; Friday: 7 am-8 pm; Saturday: 7-8 am; Sunday: 7 am-8 pm",
-    "types": "Pest control service",
-    "lat": 54.51146,
-    "lng": -1.548699,
-    "found_in_location": "Darlington",
-    "found_with_query": "pest control northeast"
-  },
-  {
-    "name": "VF Avian Solutions",
-    "address": "57 The Crescent, Langley Park, Durham, DH7 9UL, GB",
-    "phone": "07557 331310",
-    "international_phone": "07557 331310",
-    "website": "https://www.vfaviansolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/VF+Avian+Solutions/data=!4m7!3m6!1s0x487e7f4d4afb397b:0xee4abf00b6d13ab8!8m2!3d54.7987595!4d-1.6866399!16s%2Fg%2F11w9q7bb5k!19sChIJezn7Sk1_fkgRuDrRtgC_Su4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 54.798759,
-    "lng": -1.68664,
-    "found_in_location": "Durham",
-    "found_with_query": "pest control northeast",
-    "email": "info@vfaviansolutions.co.uk",
-    "emails": [
-      "info@vfaviansolutions.co.uk"
-    ],
-    "description": "VF Avian Solutions in Durham offers expert pest control, including insect, bed bugs, rat & mice removal, mole & bird deterrence prevention methods. Pest Control, Pest Prevention, Pest Removal near Durham, Spennymoor, Barnard Castle, Bishop Auckland, Darlington, Newton Aycliffe, Washington,...",
-    "services": [
-      "Bird & Pigeon Control"
-    ]
-  },
-  {
-    "name": "Premier Pest Control Services Ltd",
-    "address": "1 Roman Rd, Middlesbrough, TS5 5AD, GB",
-    "phone": "0800 093 5372",
-    "international_phone": "0800 093 5372",
-    "website": "http://www.nationalpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Premier+Pest+Control+Services+Ltd/data=!4m7!3m6!1s0x487eed7faec54185:0xfd254aabefb5c944!8m2!3d54.5612494!4d-1.2497097!16s%2Fg%2F11q1q8szv0!19sChIJhUHFrn_tfkgRRMm176tKJf0?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-5 pm; Tuesday: 8:30 am-5 pm; Wednesday: 8:30 am-5 pm; Thursday: 8:30 am-5 pm; Friday: 8:30 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 54.561249,
-    "lng": -1.24971,
-    "found_in_location": "Middlesbrough",
-    "found_with_query": "pest control northeast",
-    "email": "info@nationalpestcontrol.co.uk",
-    "emails": [
-      "info@nationalpestcontrol.co.uk",
-      "5372info@nationalpestcontrol.co.uk"
-    ],
-    "description": "Trust our pest control experts to protect your business or home with fast, efficient service and comprehensive documentation. Call today for a free assessment!",
-    "services": [
-      "Bird & Pigeon Control",
-      "Commercial Pest Control"
-    ]
-  },
-  {
-    "name": "Kill Line Pest Control Hartlepool",
-    "address": "Kill Line Pest Control, 29 Drayton Rd, Hartlepool, TS25 4NN, GB",
-    "phone": "07540 535281",
-    "international_phone": "07540 535281",
-    "website": "https://www.killline.co.uk/pest-control-hartlepool",
-    "google_maps_url": "https://www.google.com/maps/place/Kill+Line+Pest+Control+Hartlepool/data=!4m7!3m6!1s0x487ef327b1e1991b:0x86f3b65d78d86a13!8m2!3d54.6705232!4d-1.2424451!16s%2Fg%2F11s1pz2ct3!19sChIJG5nhsSfzfkgRE2rYeF2284Y?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 54.670523,
-    "lng": -1.242445,
-    "found_in_location": "Hartlepool",
-    "found_with_query": "pest control northeast",
-    "email": "admin@killline.co.uk",
-    "emails": [
-      "admin@killline.co.uk"
-    ],
-    "description": "Looking to eliminate your commercial or domestic pest problems? Contact Kill Line today. 24 HOUR RESPONSE. NO HIDDEN COSTS OR FEES.",
-    "services": [
-      "Ant Control",
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Flea Treatment",
-      "Mole Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Xpress",
-    "address": "County, Hartlepool, Raby Rd, Durham, TS24 8HF, GB",
-    "phone": "0800 051 8640",
-    "international_phone": "0800 051 8640",
-    "website": "http://pestcontrolhartlepool.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Xpress/data=!4m7!3m6!1s0x487ef4780dcb7a85:0xdd3cb88b62f10bf6!8m2!3d54.6918276!4d-1.2129591!16s%2Fg%2F11vqty8s9v!19sChIJhXrLDXj0fkgR9gvxYou4PN0?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 54.691828,
-    "lng": -1.212959,
-    "found_in_location": "Durham",
-    "found_with_query": "pest control northeast",
-    "description": "For Local Pest Control Near Me in Hartlepool Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Hartlepool, Fast for Home & Commercial Pest Problems!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
   },
   {
     "name": "Coast & County Pest Control Services",
@@ -1606,28 +1306,46 @@
     "found_with_query": "pest control northeast"
   },
   {
-    "name": "Xpress Pest Control Services",
-    "address": "Tyne and Wear, Border Rd, Wallsend, NE28 6RX, GB",
+    "name": "DePest",
+    "address": "73 Shakespeare Rd, Darlington, DL1 5BQ, GB",
+    "phone": "07845 038777",
+    "international_phone": "07845 038777",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/DePest/data=!4m7!3m6!1s0x4b35f33a7833f563:0x9111d6cc5911f65b!8m2!3d54.5114596!4d-1.5486994!16s%2Fg%2F11t4fs82d1!19sChIJY_UzeDrzNUsRW_YRWczWEZE?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7 am-8 pm; Tuesday: 7 am-8 pm; Wednesday: 7 am-8 pm; Thursday: 7 am-8 pm; Friday: 7 am-8 pm; Saturday: 7-8 am; Sunday: 7 am-8 pm",
+    "types": "Pest control service",
+    "lat": 54.51146,
+    "lng": -1.548699,
+    "found_in_location": "Darlington",
+    "found_with_query": "pest control northeast"
+  },
+  {
+    "name": "Express Darlington Pest Control",
+    "address": "High Northgate, Darlington, DL1 1UW, GB",
     "phone": "0800 051 8640",
     "international_phone": "0800 051 8640",
-    "website": "http://pestcontrolwallsend.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Xpress+Pest+Control+Services/data=!4m7!3m6!1s0x487e70360a790331:0x7933acf953649842!8m2!3d54.9900278!4d-1.5374903!16s%2Fg%2F11y3sm3l35!19sChIJMQN5CjZwfkgRQphkU_msM3k?authuser=0&hl=en&rclk=1",
+    "website": "http://pestcontroldarlington.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Express+Darlington+Pest+Control/data=!4m7!3m6!1s0x487e9bc4a6f37d95:0xfa349724ae14dfdd!8m2!3d54.5235854!4d-1.5595093!16s%2Fg%2F11vyj08dxf!19sChIJlX3zpsSbfkgR3d8UriSXNPo?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "",
     "types": "Pest control service",
-    "lat": 54.990028,
-    "lng": -1.53749,
-    "found_in_location": "Wallsend",
+    "lat": 54.523585,
+    "lng": -1.559509,
+    "found_in_location": "Darlington",
     "found_with_query": "pest control northeast",
-    "description": "For Local Pest Control Near Me in Wallsend Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Wallsend, Fast for Home & Commercial Pest Problems!",
+    "description": "For Local Pest Control Near Me in Darlington Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Darlington, Fast for Home & Commercial Pest Problems!",
     "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
       "Emergency Pest Control",
       "Flea Treatment",
       "Rat & Mouse Control",
+      "Squirrel Control",
       "Wasp Nest Removal"
     ]
   },
@@ -1655,21 +1373,95 @@
     ]
   },
   {
-    "name": "Tyne And Wear Pest Control",
-    "address": "2 Consett Rd, Consett, DH8 5NE, GB",
-    "phone": "07923 246242",
-    "international_phone": "07923 246242",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Tyne+And+Wear+Pest+Control/data=!4m7!3m6!1s0x487dd3c0dc24ceab:0x280f427b95ff0740!8m2!3d54.839217!4d-1.8634975!16s%2Fg%2F1yh9vk1vh!19sChIJq84k3MDTfUgRQAf_lXtCDyg?authuser=0&hl=en&rclk=1",
+    "name": "Invicta Pest Control Newcastle",
+    "address": "4 Castlegate Gardens, Gateshead, NE8 2QR, GB",
+    "phone": "0191 468 2839",
+    "international_phone": "0191 468 2839",
+    "website": "https://invictaenv.co.uk/newcastle/",
+    "google_maps_url": "https://www.google.com/maps/place/Invicta+Pest+Control+Newcastle/data=!4m7!3m6!1s0x487e774732c2ea01:0x436b760ccd33f3ed!8m2!3d54.9712982!4d-1.6113748!16s%2Fg%2F11y4q9_dy5!19sChIJAerCMkd3fkgR7fMzzQx2a0M?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "",
+    "opening_hours": "Monday: 6:30 am-9 pm; Tuesday: 6:30 am-9 pm; Wednesday: 6:30 am-9 pm; Thursday: 6:30 am-9 pm; Friday: 6:30 am-9 pm; Saturday: 8 am-5 pm; Sunday: 8 am-5 pm",
     "types": "Pest control service",
-    "lat": 54.839217,
-    "lng": -1.863497,
-    "found_in_location": "Consett",
-    "found_with_query": "pest control northeast"
+    "lat": 54.971298,
+    "lng": -1.611375,
+    "found_in_location": "Gateshead",
+    "found_with_query": "pest control northeast",
+    "description": "Invicta Environmental delivers fast and effective pest control Newcastle to homes and businesses. ✓ More Pests Covered Than The Council ✓ Guaranteed Success",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Kill Line Pest Control Hartlepool",
+    "address": "Kill Line Pest Control, 29 Drayton Rd, Hartlepool, TS25 4NN, GB",
+    "phone": "07540 535281",
+    "international_phone": "07540 535281",
+    "website": "https://www.killline.co.uk/pest-control-hartlepool",
+    "google_maps_url": "https://www.google.com/maps/place/Kill+Line+Pest+Control+Hartlepool/data=!4m7!3m6!1s0x487ef327b1e1991b:0x86f3b65d78d86a13!8m2!3d54.6705232!4d-1.2424451!16s%2Fg%2F11s1pz2ct3!19sChIJG5nhsSfzfkgRE2rYeF2284Y?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 54.670523,
+    "lng": -1.242445,
+    "found_in_location": "Hartlepool",
+    "found_with_query": "pest control northeast",
+    "email": "admin@killline.co.uk",
+    "emails": [
+      "admin@killline.co.uk"
+    ],
+    "description": "Looking to eliminate your commercial or domestic pest problems? Contact Kill Line today. 24 HOUR RESPONSE. NO HIDDEN COSTS OR FEES.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Flea Treatment",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Newcastle Pest Control Co",
+    "address": "Business Centre, Clavering Pl, Newcastle upon Tyne, NE1 3NG, GB",
+    "phone": "0191 607 1555",
+    "international_phone": "0191 607 1555",
+    "website": "https://newcastlepestcontrolco.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Newcastle+Pest+Control+Co/data=!4m7!3m6!1s0x487e7121020e084f:0x6a4b3bddd29220c!8m2!3d54.968378!4d-1.6121461!16s%2Fg%2F11xvnd_4y4!19sChIJTwgOAiFxfkgRDCIp3b2zpAY?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 54.968378,
+    "lng": -1.612146,
+    "found_in_location": "Newcastle upon Tyne",
+    "found_with_query": "pest control northeast",
+    "email": "office@newcastlepestcontrolco.co.uk",
+    "emails": [
+      "office@newcastlepestcontrolco.co.uk"
+    ],
+    "description": "Our skilled pest technicians can handle anything from rats and mice to bed bugs, and cockroaches. Call us today for our expert pest control Newcastle services!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "North Yorkshire Pest Control",
@@ -1692,5 +1484,126 @@
       "clevelandpestcontrol@icloud.com"
     ],
     "description": "North Yorkshire Pest Control deal with various insect & rodent problems including: Wasps, Bees, Moles, Mice & Rats. We cover: Great Ayton, Stokesley, Northallerton, Staithes, Whitby, Castleton."
+  },
+  {
+    "name": "Premier Pest Control Services Ltd",
+    "address": "1 Roman Rd, Middlesbrough, TS5 5AD, GB",
+    "phone": "0800 093 5372",
+    "international_phone": "0800 093 5372",
+    "website": "http://www.nationalpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Premier+Pest+Control+Services+Ltd/data=!4m7!3m6!1s0x487eed7faec54185:0xfd254aabefb5c944!8m2!3d54.5612494!4d-1.2497097!16s%2Fg%2F11q1q8szv0!19sChIJhUHFrn_tfkgRRMm176tKJf0?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8:30 am-5 pm; Tuesday: 8:30 am-5 pm; Wednesday: 8:30 am-5 pm; Thursday: 8:30 am-5 pm; Friday: 8:30 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 54.561249,
+    "lng": -1.24971,
+    "found_in_location": "Middlesbrough",
+    "found_with_query": "pest control northeast",
+    "email": "info@nationalpestcontrol.co.uk",
+    "emails": [
+      "info@nationalpestcontrol.co.uk",
+      "5372info@nationalpestcontrol.co.uk"
+    ],
+    "description": "Trust our pest control experts to protect your business or home with fast, efficient service and comprehensive documentation. Call today for a free assessment!",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control"
+    ]
+  },
+  {
+    "name": "Tyne And Wear Pest Control",
+    "address": "2 Consett Rd, Consett, DH8 5NE, GB",
+    "phone": "07923 246242",
+    "international_phone": "07923 246242",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Tyne+And+Wear+Pest+Control/data=!4m7!3m6!1s0x487dd3c0dc24ceab:0x280f427b95ff0740!8m2!3d54.839217!4d-1.8634975!16s%2Fg%2F1yh9vk1vh!19sChIJq84k3MDTfUgRQAf_lXtCDyg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 54.839217,
+    "lng": -1.863497,
+    "found_in_location": "Consett",
+    "found_with_query": "pest control northeast"
+  },
+  {
+    "name": "VF Avian Solutions",
+    "address": "57 The Crescent, Langley Park, Durham, DH7 9UL, GB",
+    "phone": "07557 331310",
+    "international_phone": "07557 331310",
+    "website": "https://www.vfaviansolutions.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/VF+Avian+Solutions/data=!4m7!3m6!1s0x487e7f4d4afb397b:0xee4abf00b6d13ab8!8m2!3d54.7987595!4d-1.6866399!16s%2Fg%2F11w9q7bb5k!19sChIJezn7Sk1_fkgRuDrRtgC_Su4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 54.798759,
+    "lng": -1.68664,
+    "found_in_location": "Durham",
+    "found_with_query": "pest control northeast",
+    "email": "info@vfaviansolutions.co.uk",
+    "emails": [
+      "info@vfaviansolutions.co.uk"
+    ],
+    "description": "VF Avian Solutions in Durham offers expert pest control, including insect, bed bugs, rat & mice removal, mole & bird deterrence prevention methods. Pest Control, Pest Prevention, Pest Removal near Durham, Spennymoor, Barnard Castle, Bishop Auckland, Darlington, Newton Aycliffe, Washington,...",
+    "services": [
+      "Bird & Pigeon Control"
+    ]
+  },
+  {
+    "name": "Xpress",
+    "address": "County, Hartlepool, Raby Rd, Durham, TS24 8HF, GB",
+    "phone": "0800 051 8640",
+    "international_phone": "0800 051 8640",
+    "website": "http://pestcontrolhartlepool.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Xpress/data=!4m7!3m6!1s0x487ef4780dcb7a85:0xdd3cb88b62f10bf6!8m2!3d54.6918276!4d-1.2129591!16s%2Fg%2F11vqty8s9v!19sChIJhXrLDXj0fkgR9gvxYou4PN0?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 54.691828,
+    "lng": -1.212959,
+    "found_in_location": "Durham",
+    "found_with_query": "pest control northeast",
+    "description": "For Local Pest Control Near Me in Hartlepool Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Hartlepool, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Xpress Pest Control Services",
+    "address": "Tyne and Wear, Border Rd, Wallsend, NE28 6RX, GB",
+    "phone": "0800 051 8640",
+    "international_phone": "0800 051 8640",
+    "website": "http://pestcontrolwallsend.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Xpress+Pest+Control+Services/data=!4m7!3m6!1s0x487e70360a790331:0x7933acf953649842!8m2!3d54.9900278!4d-1.5374903!16s%2Fg%2F11y3sm3l35!19sChIJMQN5CjZwfkgRQphkU_msM3k?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 54.990028,
+    "lng": -1.53749,
+    "found_in_location": "Wallsend",
+    "found_with_query": "pest control northeast",
+    "description": "For Local Pest Control Near Me in Wallsend Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Wallsend, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   }
 ]

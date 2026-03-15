@@ -26,31 +26,6 @@
     ]
   },
   {
-    "name": "Manta Ray Events",
-    "address": "45 James Watt St, Glasgow, G2 8NF, GB",
-    "phone": "0843 658 4524",
-    "international_phone": "0843 658 4524",
-    "website": "http://www.mantarayevents.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Manta+Ray+Events/data=!4m7!3m6!1s0x488845d5d2c7df57:0xf125663bd600badd!8m2!3d55.8579265!4d-4.2639079!16s%2Fg%2F11cjx0xqbd!19sChIJV9_H0tVFiEgR3boA1jtmJfE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 147,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Event Planning Service",
-    "lat": 55.857926,
-    "lng": -4.263908,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@mantarayevents.com",
-    "emails": [
-      "info@mantarayevents.com"
-    ],
-    "description": "We are a professional Fun Casino & Photo Booth hire company covering all of mainland Scotland, the Scottish Isles & the North of England.",
-    "services": [
-      "Photo Booth"
-    ]
-  },
-  {
     "name": "Funhouse Inflatables",
     "address": "Andrew Baxter Ave, Ashgill, Larkhall, ML9 3RG, GB",
     "phone": "07497 821502",
@@ -152,28 +127,6 @@
     "found_with_query": "bouncy scotland"
   },
   {
-    "name": "88 Events",
-    "address": "157-159 Woodville St, Glasgow, G51 2RQ, GB",
-    "phone": "0141 445 2288",
-    "international_phone": "0141 445 2288",
-    "website": "http://www.88events.com/",
-    "google_maps_url": "https://www.google.com/maps/place/88+Events/data=!4m7!3m6!1s0x4888467363c4d7c9:0x6940966822649415!8m2!3d55.8545667!4d-4.3082117!16s%2Fg%2F1tqpytz9!19sChIJydfEY3NGiEgRFZRkImiWQGk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 88,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–4:30 pm\"],\"Monday\":[\"8:30 am–4:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–4:30 pm\"],\"Tuesday\":[\"8:30 am–4:30 pm\"],\"Wednesday\":[\"8:30 am–4:30 pm\"]}",
-    "types": "Event Planning Service",
-    "lat": 55.854567,
-    "lng": -4.308212,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@88events.com",
-    "emails": [
-      "info@88events.com"
-    ],
-    "description": "Luxury linen hire & table styling for wow-factor events and weddings."
-  },
-  {
     "name": "Forget Me Not Children's Parties",
     "address": "63 E Trinity Rd, Edinburgh, EH5 3EL, GB",
     "phone": "0131 367 1418",
@@ -227,28 +180,6 @@
     ]
   },
   {
-    "name": "Green Field Marquees",
-    "address": "42 Ormidale Terrace, Edinburgh, EH12 6EF, GB",
-    "phone": "0131 531 0683",
-    "international_phone": "0131 531 0683",
-    "website": "http://www.greenfieldmarquees.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Green+Field+Marquees/data=!4m7!3m6!1s0x4887c7bbfb06029b:0x9db1ee73a1d41bc5!8m2!3d55.9475092!4d-3.2422434!16s%2Fg%2F124t3p50j!19sChIJmwIG-7vHh0gRxRvUoXPusZ0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 72,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Marquee hire service",
-    "lat": 55.947509,
-    "lng": -3.242243,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@greenfieldmarquees.com",
-    "emails": [
-      "info@greenfieldmarquees.com"
-    ],
-    "description": "Full marquee hire Scotland service, marquee hire for all occasions from bespoke wedding marquees & events to corporate clients & large festivals."
-  },
-  {
     "name": "Tiggeriffic Bouncy Castle Hire",
     "address": "28 Lennox Cres, Ayrshire, Kilmarnock, Kilmarnock, KA1 2LJ, GB",
     "phone": "07866 503865",
@@ -275,28 +206,6 @@
       "Obstacle Course",
       "Soft Play"
     ]
-  },
-  {
-    "name": "Fifty Six Events",
-    "address": "30 Laird St, Dundee, DD3 9QE, GB",
-    "phone": "07736 806799",
-    "international_phone": "07736 806799",
-    "website": "http://fiftysixevents.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Fifty+Six+Events/data=!4m7!3m6!1s0x48865db6e9635e83:0x4d92b8f0c947ba10!8m2!3d56.4953857!4d-3.0034987!16s%2Fg%2F11jv1fnfsq!19sChIJg15j6bZdhkgRELpHyfC4kk0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 56,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Wedding service",
-    "lat": 56.495386,
-    "lng": -3.003499,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "email": "hello@fiftysixevents.co.uk",
-    "emails": [
-      "hello@fiftysixevents.co.uk"
-    ],
-    "description": "Wedding Prop Hire & Styling in Dundee, Fife & Perthshire, Scotland."
   },
   {
     "name": "Kirkwoods Bouncy Castles",
@@ -356,46 +265,6 @@
     ]
   },
   {
-    "name": "Party Party Inverness",
-    "address": "Gean Pl, Westhill, Inverness, IV2 5TB, GB",
-    "phone": "07723 037006",
-    "international_phone": "07723 037006",
-    "website": "http://www.partyparty-inverness.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Party+Party+Inverness/data=!4m7!3m6!1s0x488f7150dba4f509:0x3eafb8baaed2eb24!8m2!3d57.4738407!4d-4.1398125!16s%2Fg%2F11ftwcmc2z!19sChIJCfWk21Bxj0gRJOvSrrq4rz4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 29,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"11 am–4 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
-    "types": "Balloon artist",
-    "lat": 57.473841,
-    "lng": -4.139812,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "email": "balloons@partyparty-inverness.co.uk",
-    "emails": [
-      "balloons@partyparty-inverness.co.uk"
-    ],
-    "description": "From balloon-in-a-box surprises to show-stopping displays, we bring your celebrations to life."
-  },
-  {
-    "name": "Trapeze Entertainment",
-    "address": "Lochalsh Rd, Inverness, Inverness, IV3 5QS, GB",
-    "phone": "07582 602181",
-    "international_phone": "07582 602181",
-    "website": "http://www.trapezeentertainment.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Trapeze+Entertainment/data=!4m7!3m6!1s0x488f713bb077f569:0xcaccf12f448abd3e!8m2!3d57.481428!4d-4.2387044!16s%2Fg%2F11f712gn8n!19sChIJafV3sDtxj0gRPr2KRC_xzMo?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 25,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"2–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Entertainer",
-    "lat": 57.481428,
-    "lng": -4.238704,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "description": "Looking for the perfect party for your child, keeping your children entertained during the wedding ceremony or a workshop for your school or club? You have come to the right place."
-  },
-  {
     "name": "The Funki Factory",
     "address": "17 Macpherson Wy, Ardersier, Inverness, IV2 7BQ, GB",
     "phone": "07449 986213",
@@ -420,31 +289,6 @@
       "Bouncy Castles",
       "Garden Games",
       "Soft Play"
-    ]
-  },
-  {
-    "name": "LA Create",
-    "address": "1 Carron Pl, Leith, Edinburgh, EH6 7RE, GB",
-    "phone": "0131 235 2636",
-    "international_phone": "0131 235 2636",
-    "website": "http://www.lacreate.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/LA+Create/data=!4m7!3m6!1s0x4887b98ab622d0dd:0xfe3be0ef375531e0!8m2!3d55.973206!4d-3.1585032!16s%2Fg%2F11nngflws9!19sChIJ3dAitoq5h0gR4DFVN-_gO_4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–5:30 pm\"],\"Monday\":[\"9:30 am–5:30 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9:30 am–5:30 pm\"],\"Tuesday\":[\"9:30 am–5:30 pm\"],\"Wednesday\":[\"9:30 am–5:30 pm\"]}",
-    "types": "Party equipment rental service",
-    "lat": 55.973206,
-    "lng": -3.158503,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@lacreate.co.uk",
-    "emails": [
-      "info@lacreate.co.uk"
-    ],
-    "description": "Check out our range of backdrops available to hire at LA Create.",
-    "services": [
-      "Photo Booth"
     ]
   },
   {
@@ -498,49 +342,6 @@
       "Disco Dome",
       "Hot Tub Hire",
       "Soft Play"
-    ]
-  },
-  {
-    "name": "KBE Event Services",
-    "address": "unit 2, KBE Events, Highland House, 20 Longman Rd, Inverness, IV1 1RY, GB",
-    "phone": "01463 830396",
-    "international_phone": "01463 830396",
-    "website": "http://www.kbe-events.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/KBE+Event+Services/data=!4m7!3m6!1s0x488f73ce12e37219:0xc2162c89a29847f2!8m2!3d57.4836238!4d-4.2211017!16s%2Fg%2F11grv3kdvc!19sChIJGXLjEs5zj0gR8keYooksFsI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Audio Visual Equipment Hire Service",
-    "lat": 57.483624,
-    "lng": -4.221102,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "description": "Sound hire lighting hire stage hire power hire Inverness Highlands Creative production"
-  },
-  {
-    "name": "Crest Events",
-    "address": "35 Levern Bridge Pl, Glasgow, G53 7AB, GB",
-    "phone": "0141 266 0044",
-    "international_phone": "0141 266 0044",
-    "website": "https://www.crestevents.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Crest+Events/data=!4m7!3m6!1s0x4888495be5c2f5d5:0x102f4812598ea602!8m2!3d55.8185735!4d-4.363731!16s%2Fg%2F11f66qy9fl!19sChIJ1fXC5VtJiEgRAqaOWRJILxA?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"10 am–2 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
-    "types": "Event management company",
-    "lat": 55.818573,
-    "lng": -4.363731,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "hello@crestevents.co.uk",
-    "emails": [
-      "hello@crestevents.co.uk"
-    ],
-    "description": "Crest Events do LED dance floor hire Glasgow, Photo Booth Hire, light up letters & numbers hire for Weddings & Parties Glasgow & surrounding.",
-    "services": [
-      "Photo Booth"
     ]
   },
   {
@@ -643,89 +444,6 @@
     ]
   },
   {
-    "name": "So this is love event hire",
-    "address": "unit 65, 147 Drakemire Dr, Glasgow, G45 9SA, GB",
-    "phone": "07860 248532",
-    "international_phone": "07860 248532",
-    "website": "https://www.sothisislove.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/So+this+is+love+event+hire/data=!4m7!3m6!1s0x488847d5f8f90551:0xb63a6b603c3cbe63!8m2!3d55.8045254!4d-4.2490747!16s%2Fg%2F11zk24t23h!19sChIJUQX5-NVHiEgRY748PGBrOrY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Wedding Shop",
-    "lat": 55.804525,
-    "lng": -4.249075,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Splendid Hire",
-    "address": "1 Corunna Pl, Edinburgh, EH6 5JG, GB",
-    "phone": "0131 524 9393",
-    "international_phone": "0131 524 9393",
-    "website": "http://www.splendidhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Splendid+Hire/data=!4m7!3m6!1s0x4887b9764ba7285f:0x1136549b4ac4b3f3!8m2!3d55.9719149!4d-3.1754888!16s%2Fg%2F11wh_74w3h!19sChIJXyinS3a5h0gR87PESptUNhE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Party equipment rental service",
-    "lat": 55.971915,
-    "lng": -3.175489,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "ops@splendidhire.co.uk",
-    "emails": [
-      "ops@splendidhire.co.uk"
-    ],
-    "description": "We love this new addition to our cordless table lamp range. The base is 35.5cm tall and works with any of our 16cm or 20cm lampshades."
-  },
-  {
-    "name": "Allansmagic",
-    "address": "3 Faulds Row, Aberdeen, AB12 5NP, GB",
-    "phone": "07405 155862",
-    "international_phone": "07405 155862",
-    "website": "http://www.wizard-school.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Allansmagic/data=!4m7!3m6!1s0x48840ffdafce12d9:0xed2ba91882cae554!8m2!3d57.1217607!4d-2.105122!16s%2Fg%2F11fm4wj468!19sChIJ2RLOr_0PhEgRVOXKghipK-0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Children's party service",
-    "lat": 57.121761,
-    "lng": -2.105122,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "email": "allansmagicevents@gmail.com",
-    "emails": [
-      "allansmagicevents@gmail.com"
-    ],
-    "description": "The Best in Aberdeen for a kids magician, party entertainer Guaranteed"
-  },
-  {
-    "name": "Sonus Events",
-    "address": "Unit 2, 6 Mackean St, Paisley, PA3 1QP, GB",
-    "phone": "0141 648 3366",
-    "international_phone": "0141 648 3366",
-    "website": "http://www.sonusevents.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Sonus+Events/data=!4m7!3m6!1s0x488849bbd23998f5:0x41b97f45ba5c821d!8m2!3d55.8524796!4d-4.4372494!16s%2Fg%2F11bwnd2_0y!19sChIJ9Zg50rtJiEgRHYJcukV_uUE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
-    "types": "Audio-visual equipment supplier",
-    "lat": 55.85248,
-    "lng": -4.437249,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland",
-    "email": "info@sonusevents.com",
-    "emails": [
-      "info@sonusevents.com"
-    ],
-    "description": "We're a full event production company based in Glasgow, specialising in designing and producing events that are a bit different!"
-  },
-  {
     "name": "BDM Entertainment",
     "address": "Coshneuk Rd, Millerston, Glasgow, GB",
     "phone": "07495 678022",
@@ -740,23 +458,6 @@
     "lat": 55.885643,
     "lng": -4.164843,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Sweltering Serenity",
-    "address": "62 Ivy Gdns, Paisley, PA1 2BF, GB",
-    "phone": "07494 954130",
-    "international_phone": "07494 954130",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Sweltering+Serenity/data=!4m7!3m6!1s0x48884be1190f616d:0xf06a6d98b9cedaa3!8m2!3d55.8401387!4d-4.4565299!16s%2Fg%2F11jv8dsxj9!19sChIJbWEPGeFLiEgRo9rOuZhtavA?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Hot Tub Shop",
-    "lat": 55.840139,
-    "lng": -4.45653,
-    "found_in_location": "Paisley",
     "found_with_query": "bouncy scotland"
   },
   {
@@ -783,28 +484,6 @@
       "Garden Games",
       "Popcorn & Candy Floss"
     ]
-  },
-  {
-    "name": "Inverhall Marquees",
-    "address": "5 Mary St, Johnstone, PA5 8BT, GB",
-    "phone": "01505 329968",
-    "international_phone": "01505 329968",
-    "website": "http://www.inverhall.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Inverhall+Marquees/data=!4m7!3m6!1s0x48884b9baec64893:0xe343990eae53bc93!8m2!3d55.8392499!4d-4.5040843!16s%2Fg%2F1tdw_384!19sChIJk0jGrptLiEgRk7xTrg6ZQ-M?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Marquee hire service",
-    "lat": 55.83925,
-    "lng": -4.504084,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland",
-    "email": "enquiry@inverhall.com",
-    "emails": [
-      "enquiry@inverhall.com"
-    ],
-    "description": "Inverhall Marquees – quality marquee hire for weddings, party or corporate events. Call Inverhall Marquees for prices and venues for marquees in Scotland UK."
   },
   {
     "name": "Ace Bouncy Castles",
@@ -836,28 +515,6 @@
     ]
   },
   {
-    "name": "PJC Entertainment",
-    "address": "97 Morvich Way, Inverness, IV2 4PJ, GB",
-    "phone": "01463 718694",
-    "international_phone": "01463 718694",
-    "website": "http://www.pjcentertainment.com/",
-    "google_maps_url": "https://www.google.com/maps/place/PJC+Entertainment/data=!4m7!3m6!1s0x488f716a9e417d3f:0x89f2bfe2adca99a5!8m2!3d57.4596937!4d-4.2099298!16s%2Fg%2F11c1t59t4n!19sChIJP31Bnmpxj0gRpZnKreK_8ok?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "DJ",
-    "lat": 57.459694,
-    "lng": -4.20993,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "email": "info@pjcentertainment.com",
-    "emails": [
-      "info@pjcentertainment.com"
-    ],
-    "description": "PJC Entertainment are smartly attired and professional DJs, covering the Highlands of Scotland, with bespoke music and lighting for all ages and tastes. For Weddings, Birthdays, Karaoke and Celebrations or Events of all kinds. We are here to make your event as special as the way you wish no..."
-  },
-  {
     "name": "Tiny Play Events",
     "address": "Darvel Grove, Blantyre, Glasgow, G72 0JU, GB",
     "phone": "07850 499005",
@@ -873,28 +530,6 @@
     "lng": -4.09306,
     "found_in_location": "Glasgow",
     "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Parteepee",
-    "address": "23 Burnett Dr, Aberdeen, AB15 8GX, GB",
-    "phone": "06699",
-    "international_phone": "+44 6699",
-    "website": "https://parteepee.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Parteepee/data=!4m7!3m6!1s0x488411000f69f343:0x5bb3f122e61302ae!8m2!3d57.1368054!4d-2.2146833!16s%2Fg%2F11y4_z63tk!19sChIJQ_NpDwARhEgRrgIT5iLxs1s?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Party equipment rental service",
-    "lat": 57.136805,
-    "lng": -2.214683,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "email": "contact@parteepee.co.uk",
-    "emails": [
-      "contact@parteepee.co.uk"
-    ],
-    "description": "Mini indoor teepee hire in Aberdeen and Aberdeenshire"
   },
   {
     "name": "Bounce A Lot Castles",
@@ -943,50 +578,6 @@
     ]
   },
   {
-    "name": "Tents and Events",
-    "address": "15 Nasmyth Rd S, Hillington, Glasgow, G52 4RE, GB",
-    "phone": "0141 366 3206",
-    "international_phone": "0141 366 3206",
-    "website": "https://www.tentsandevents.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
-    "google_maps_url": "https://www.google.com/maps/place/Tents+and+Events/data=!4m7!3m6!1s0x488848b2fcbfc789:0x6b6c02e408d8ed2b!8m2!3d55.8567509!4d-4.3573868!16s%2Fg%2F1hm4zqht3!19sChIJice__LJIiEgRK-3YCOQCbGs?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"8 am–8 pm\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Marquee hire service",
-    "lat": 55.856751,
-    "lng": -4.357387,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@tentsandevents.co.uk",
-    "emails": [
-      "info@tentsandevents.co.uk"
-    ],
-    "description": "Luxury marquee hire in Glasgow and Edinburgh. For weddings, corporate and long-term use. Providing high-quality structures for every occasion."
-  },
-  {
-    "name": "Glow with the Flow",
-    "address": "77d Ann St, Dundee, DD3 7TF, GB",
-    "phone": "07761 006700",
-    "international_phone": "07761 006700",
-    "website": "http://www.glowwiththeflow.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Glow+with+the+Flow/data=!4m7!3m6!1s0x48865d13746c2191:0xcd657f118c510e15!8m2!3d56.4681354!4d-2.9696225!16s%2Fg%2F11r6s1dxxb!19sChIJkSFsdBNdhkgRFQ5RjBF_Zc0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Event Planning Service",
-    "lat": 56.468135,
-    "lng": -2.969622,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "description": "Had aHalloweenthemedsilentdisco for mydaughters10th with Glow With the Flow, complete with beer (juice) pong, boom blasters, hook a duck andgiant4 in a row and some glow furniture. Kids all had an absolute ball. Everything was dropped off and collected after.Definitely recommendamazing service",
-    "services": [
-      "Garden Games",
-      "Hot Tub Hire"
-    ]
-  },
-  {
     "name": "Central Inflatables",
     "address": "61 Newpark Rd, Stirling, FK7 0QF, GB",
     "phone": "07835 810575",
@@ -1001,41 +592,6 @@
     "lat": 56.096183,
     "lng": -3.937753,
     "found_in_location": "Stirling",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "The Entertainment Experience",
-    "address": "62 Redwood Ave, Inverness, IV2 6HA, GB",
-    "phone": "01463 515311",
-    "international_phone": "01463 515311",
-    "website": "https://www.the-entertainment-experience.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Entertainment+Experience/data=!4m7!3m6!1s0x488f7137fcae9c13:0xa8e0e9ff2ede2f6a!8m2!3d57.4478478!4d-4.1729395!16s%2Fg%2F1hd_0y19d!19sChIJE5yu_Ddxj0gRai_eLv_p4Kg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
-    "types": "Entertainment agency",
-    "lat": 57.447848,
-    "lng": -4.17294,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "description": "The Entertainment Experience | DJ, Music, Events, Disco Hire in Inverness and the Highlands"
-  },
-  {
-    "name": "Fun K Pix Photo Booth Rental",
-    "address": "39 Hebrides Dr, Dundee, DD4 9SS, GB",
-    "phone": "07738 904442",
-    "international_phone": "07738 904442",
-    "website": "http://www.funkpix-photobooth.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Fun+K+Pix+Photo+Booth+Rental/data=!4m7!3m6!1s0x4886433a84bcf121:0xcc93cf78c3933b37!8m2!3d56.4902901!4d-2.9553532!16s%2Fg%2F113k43skv!19sChIJIfG8hDpDhkgRNzuTw3jPk8w?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:15 am–4 am\"],\"Monday\":[\"7:15 am–4 am\"],\"Saturday\":[\"7:15 am–4 am\"],\"Sunday\":[\"7:15 am–4 am\"],\"Thursday\":[\"7:15 am–4 am\"],\"Tuesday\":[\"7:15 am–4 am\"],\"Wednesday\":[\"7:15 am–4 am\"]}",
-    "types": "Party equipment rental service",
-    "lat": 56.49029,
-    "lng": -2.955353,
-    "found_in_location": "Dundee",
     "found_with_query": "bouncy scotland"
   },
   {
@@ -1056,21 +612,26 @@
     "found_with_query": "bouncy scotland"
   },
   {
-    "name": "Martin's",
-    "address": "23 Alder Pl, Culloden, Inverness, IV2 7LG, GB",
-    "phone": "01463 792781",
-    "international_phone": "01463 792781",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Martin%27s/data=!4m7!3m6!1s0x488f774938be74db:0x5962799f85355928!8m2!3d57.4925304!4d-4.1410242!16s%2Fg%2F1wj_5md4!19sChIJ23S-OEl3j0gRKFk1hZ95Ylk?authuser=0&hl=en&rclk=1",
+    "name": "Inchgarth Kids Parties",
+    "address": "Aboyne Pl, Aberdeen, AB10 7DR, GB",
+    "phone": "01224 479061",
+    "international_phone": "01224 479061",
+    "website": "https://www.inchgarth.co.uk/party-hire",
+    "google_maps_url": "https://www.google.com/maps/place/Inchgarth+Kids+Parties/data=!4m7!3m6!1s0x4884111f3488e819:0xc76ec8066c44a0a8!8m2!3d57.1217078!4d-2.1338015!16s%2Fg%2F11l9ls8287!19sChIJGeiINB8RhEgRqKBEbAbIbsc?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bouncy castle hire",
-    "lat": 57.49253,
-    "lng": -4.141024,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
+    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"9:30 am–9:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"10 am–10 pm\"],\"Thursday\":[\"9:30 am–9:30 pm\"],\"Tuesday\":[\"10 am–9:30 pm\"],\"Wednesday\":[\"9:30 am–10 pm\"]}",
+    "types": "Children's party service",
+    "lat": 57.121708,
+    "lng": -2.133801,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "bouncy scotland",
+    "description": "Inchgarth provides music, sports, fitness, education, parties, recreation, leisure, art, shows, events, letting, for the disabled, elderly, youth, classes, martial arts, gym. A centre for all ages in Garthdee Aberdeen.",
+    "services": [
+      "Bouncy Castles",
+      "Soft Play"
+    ]
   },
   {
     "name": "Kool Kids Entertainment",
@@ -1100,44 +661,21 @@
     ]
   },
   {
-    "name": "Inchgarth Kids Parties",
-    "address": "Aboyne Pl, Aberdeen, AB10 7DR, GB",
-    "phone": "01224 479061",
-    "international_phone": "01224 479061",
-    "website": "https://www.inchgarth.co.uk/party-hire",
-    "google_maps_url": "https://www.google.com/maps/place/Inchgarth+Kids+Parties/data=!4m7!3m6!1s0x4884111f3488e819:0xc76ec8066c44a0a8!8m2!3d57.1217078!4d-2.1338015!16s%2Fg%2F11l9ls8287!19sChIJGeiINB8RhEgRqKBEbAbIbsc?authuser=0&hl=en&rclk=1",
+    "name": "Martin's",
+    "address": "23 Alder Pl, Culloden, Inverness, IV2 7LG, GB",
+    "phone": "01463 792781",
+    "international_phone": "01463 792781",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Martin%27s/data=!4m7!3m6!1s0x488f774938be74db:0x5962799f85355928!8m2!3d57.4925304!4d-4.1410242!16s%2Fg%2F1wj_5md4!19sChIJ23S-OEl3j0gRKFk1hZ95Ylk?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–9 pm\"],\"Monday\":[\"9:30 am–9:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"10 am–10 pm\"],\"Thursday\":[\"9:30 am–9:30 pm\"],\"Tuesday\":[\"10 am–9:30 pm\"],\"Wednesday\":[\"9:30 am–10 pm\"]}",
-    "types": "Children's party service",
-    "lat": 57.121708,
-    "lng": -2.133801,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "description": "Inchgarth provides music, sports, fitness, education, parties, recreation, leisure, art, shows, events, letting, for the disabled, elderly, youth, classes, martial arts, gym. A centre for all ages in Garthdee Aberdeen.",
-    "services": [
-      "Bouncy Castles",
-      "Soft Play"
-    ]
-  },
-  {
-    "name": "Highland Cater Hire",
-    "address": "39 Tomnahurich St, Inverness, IV3 5DU, GB",
-    "phone": "01463 213363",
-    "international_phone": "01463 213363",
-    "website": "http://highlandcaterhire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Highland+Cater+Hire/data=!4m7!3m6!1s0x488f7163152ad221:0xc6b36c21183a2c82!8m2!3d57.4755738!4d-4.2311062!16s%2Fg%2F11ss54nrm4!19sChIJIdIqFWNxj0gRgiw6GCFss8Y?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Party equipment rental service",
-    "lat": 57.475574,
-    "lng": -4.231106,
+    "opening_hours": "{}",
+    "types": "Bouncy castle hire",
+    "lat": 57.49253,
+    "lng": -4.141024,
     "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "description": "cater hire equipment, trestles tables, chairs, crockery, cutlery, commercial kitchen equipment, conference tables, round tables, fridges, refrigerated van"
+    "found_with_query": "bouncy scotland"
   },
   {
     "name": "Adventure Planet Paisley",
@@ -1191,28 +729,6 @@
     ]
   },
   {
-    "name": "Bloc10 Bouldering",
-    "address": "Unit 3, Angus Works, N Isla St, Dundee, DD3 7JQ, GB",
-    "phone": "01382 900352",
-    "international_phone": "01382 900352",
-    "website": "http://www.bloc10.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bloc10+Bouldering/data=!4m7!3m6!1s0x48865db75d6ae363:0x2c8608334857dcaf!8m2!3d56.4736516!4d-2.9703928!16s%2Fg%2F11s9y6f__g!19sChIJY-NqXbddhkgRr9xXSDMIhiw?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 145,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–10 pm\"],\"Monday\":[\"10 am–10 pm\"],\"Saturday\":[\"12–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"10 am–10 pm\"],\"Tuesday\":[\"10 am–10 pm\"],\"Wednesday\":[\"10 am–10 pm\"]}",
-    "types": "Rock climbing gym",
-    "lat": 56.473652,
-    "lng": -2.970393,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "email": "memberships@block10.uk",
-    "emails": [
-      "memberships@block10.uk"
-    ],
-    "description": "Bloc10 Bouldering in North East of Scotland with climbing gyms in Dundee and Aberdeen"
-  },
-  {
     "name": "Kidnetick - Kids parties",
     "address": "Office 2/3, 48 W George St, Glasgow, G2 1BP, GB",
     "phone": "07719 236321",
@@ -1256,28 +772,6 @@
       "Bouncy Castles",
       "Soft Play"
     ]
-  },
-  {
-    "name": "Season Quayside",
-    "address": "72 Commercial St, Leith, Edinburgh, EH6 6LX, GB",
-    "phone": "0131 603 7990",
-    "international_phone": "0131 603 7990",
-    "website": "http://www.seasonquayside.co.uk/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary",
-    "google_maps_url": "https://www.google.com/maps/place/Season+Quayside/data=!4m7!3m6!1s0x4887b8043b504715:0xa40e22873996a114!8m2!3d55.9769115!4d-3.1722307!16s%2Fg%2F11rsd65vd2!19sChIJFUdQOwS4h0gRFKGWOYciDqQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 83,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 55.976911,
-    "lng": -3.172231,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@seasonquayside.co.uk",
-    "emails": [
-      "info@seasonquayside.co.uk"
-    ],
-    "description": "PRIVATE HIRE VENUEMultipurpose events venue with a full bar, available for any occasion Learn MoreWeddingsWe are proud to offer you wedding at our stylish welcoming events venue with a barLearn MorePRIVATE DININGSeason Quayside is the perfect place to celebrate with your friends and family in..."
   },
   {
     "name": "Edinbugh Event Company",
@@ -1418,110 +912,6 @@
     ]
   },
   {
-    "name": "Bridge Gardens",
-    "address": "60 Washington St, Glasgow, G3 8AZ, GB",
-    "phone": "0141 266 0664",
-    "international_phone": "0141 266 0664",
-    "website": "https://www.boxhub.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bridge+Gardens/data=!4m7!3m6!1s0x488847ae3446e36b:0x1787e1afaed7e836!8m2!3d55.8574937!4d-4.2688874!16s%2Fg%2F11wj3w72bc!19sChIJa-NGNK5HiEgRNujXrq_hhxc?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 25,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Events Venue",
-    "lat": 55.857494,
-    "lng": -4.268887,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@boxhub.uk",
-    "emails": [
-      "info@boxhub.uk"
-    ],
-    "description": "Box Hub is a top venue hire provider in the heart of Glasgow. From hall hire to warehouse spaces to wedding venues - contact today!"
-  },
-  {
-    "name": "Little Party House",
-    "address": "35 Rosyth Road Morris Park Roadway 5 - Unit 91, Glasgow, G5 0YE, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Little+Party+House/data=!4m7!3m6!1s0x488847201eb00aa5:0xc25349e8c17097db!8m2!3d55.8359466!4d-4.2332715!16s%2Fg%2F11tx60d1zc!19sChIJpQqwHiBHiEgR25dwwehJU8I?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"9 am–6:30 pm\"],\"Sunday\":[\"9 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Event Planning Service",
-    "lat": 55.835947,
-    "lng": -4.233271,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Pinkston Watersports",
-    "address": "75 N Canal Bank St, Glasgow, G4 9XP, GB",
-    "phone": "0141 332 5636",
-    "international_phone": "0141 332 5636",
-    "website": "http://www.pinkston.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pinkston+Watersports/data=!4m7!3m6!1s0x48884419cb0e2969:0xf7f292a151c04df9!8m2!3d55.8728033!4d-4.2486564!16s%2Fg%2F11b633dwd2!19sChIJaSkOyxlEiEgR-U3AUaGS8vc?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 612,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–5:30 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Sports complex",
-    "lat": 55.872803,
-    "lng": -4.248656,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@pinkston.co.uk",
-    "emails": [
-      "info@pinkston.co.uk"
-    ],
-    "description": "Pinkston Watersports is the ideal place to participate in whitewater and flatwater watersports just 5 minutes from Glasgow City Centre. Book online today!"
-  },
-  {
-    "name": "The Haberdashery",
-    "address": "545 Sauchiehall St, Glasgow, G3 7PQ, GB",
-    "phone": "0141 261 6332",
-    "international_phone": "0141 261 6332",
-    "website": "https://www.haberdasheryevents.com/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Haberdashery/data=!4m7!3m6!1s0x4888452f72cd9095:0x9b00ba7c4b27afa2!8m2!3d55.8661382!4d-4.2729096!16s%2Fg%2F11q3tw9gdn!19sChIJlZDNci9FiEgRoq8nS3y6AJs?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 105,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.866138,
-    "lng": -4.27291,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "hello@thehaberdasheryglasgow.com",
-    "emails": [
-      "hello@thehaberdasheryglasgow.com"
-    ]
-  },
-  {
-    "name": "Box Hub",
-    "address": "50 Washington St, Glasgow, G3 8AZ, GB",
-    "phone": "0141 266 0664",
-    "international_phone": "0141 266 0664",
-    "website": "https://boxhub.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Box+Hub/data=!4m7!3m6!1s0x488847bdf21c727d:0xb889cb504a799fe4!8m2!3d55.858005!4d-4.2687228!16s%2Fg%2F11qn63dxt6!19sChIJfXIc8r1HiEgR5J95SlDLibg?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 97,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Events Venue",
-    "lat": 55.858005,
-    "lng": -4.268723,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@boxhub.uk",
-    "emails": [
-      "info@boxhub.uk"
-    ],
-    "description": "Box Hub is a top venue hire provider in the heart of Glasgow. From hall hire to warehouse spaces to wedding venues - contact today!"
-  },
-  {
     "name": "Mascot Madness Entertainment Bouncy Castle/Inflatable Hire",
     "address": "Croy, Marybank, IV2 5PG, GB",
     "phone": "07581 363097",
@@ -1551,23 +941,6 @@
       "Soft Play",
       "Sumo Suits"
     ]
-  },
-  {
-    "name": "Monty's Stay and Play, Dundee",
-    "address": "60-68 Constitution St, Dundee, DD3 6NE, GB",
-    "phone": "07907 587990",
-    "international_phone": "07907 587990",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Monty%27s+Stay+and+Play,+Dundee/data=!4m7!3m6!1s0x48865cdd6dd26391:0x86a1b680e7afb498!8m2!3d56.4670624!4d-2.9772757!16s%2Fg%2F11fx_2ccj1!19sChIJkWPSbd1chkgRmLSv54C2oYY?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 29,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Monday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Saturday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Sunday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Thursday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Tuesday\":[\"10 am–12 pm\",\"1–3 pm\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Children's club",
-    "lat": 56.467062,
-    "lng": -2.977276,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
   },
   {
     "name": "Scotbounce ltd",
@@ -1625,28 +998,6 @@
     ]
   },
   {
-    "name": "RollerStop CIC",
-    "address": "139 Middlesex St, Kinning Park, Glasgow, G41 1EE, GB",
-    "phone": "0141 429 7298",
-    "international_phone": "0141 429 7298",
-    "website": "http://www.rollerstop.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/RollerStop+CIC/data=!4m7!3m6!1s0x4888467d21439065:0xe93e611b65bf8607!8m2!3d55.850427!4d-4.282693!16s%2Fg%2F11byflj66f!19sChIJZZBDIX1GiEgRB4a_ZRthPuk?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 641,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12–2 pm\",\"5:30–7:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"12–6 pm\",\"8–10 pm\"],\"Sunday\":[\"12–6 pm\"],\"Thursday\":[\"7:30–10 pm\"],\"Tuesday\":[\"5:30–7:30 pm\"],\"Wednesday\":[\"12–2 pm\"]}",
-    "types": "Roller skating rink",
-    "lat": 55.850427,
-    "lng": -4.282693,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@rollerstop.co.uk",
-    "emails": [
-      "info@rollerstop.co.uk"
-    ],
-    "description": "JOIN OUR MAILING LIST WE ARE OPEN TODAY! We’re Open! Here’s How to Get to Us Today. Hey skaters! Just a quick heads-up about getting to the rink today. You may have seen reports of an incident in Kinning Park. We want to reassure you that our venue is safe and open for business as […]"
-  },
-  {
     "name": "Inchgarth Community Centre",
     "address": "Aboyne Pl, Aberdeen, AB10 7DR, GB",
     "phone": "01224 479061",
@@ -1694,67 +1045,6 @@
     ]
   },
   {
-    "name": "Avertical World Climbing & Bouldering Centre",
-    "address": "7-11 Blinshall St, Dundee, DD1 5DF, GB",
-    "phone": "01382 201901",
-    "international_phone": "01382 201901",
-    "website": "http://www.averticalworld.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Avertical+World+Climbing+%26+Bouldering+Centre/data=!4m7!3m6!1s0x48865cc73dd88d29:0x8f6f35308818db42!8m2!3d56.460475!4d-2.9813665!16s%2Fg%2F1xtf1429!19sChIJKY3YPcdchkgRQtsYiDA1b48?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 278,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–10 pm\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"10 am–7 pm\"],\"Sunday\":[\"10 am–7 pm\"],\"Thursday\":[\"8:30 am–10 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
-    "types": "Rock climbing gym",
-    "lat": 56.460475,
-    "lng": -2.981367,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "email": "info@averticalworld.co.uk",
-    "emails": [
-      "info@averticalworld.co.uk"
-    ],
-    "description": "We’re offering juniors - 16’s & under - climbing and hire (shoes + harness) for only £8.50 from January 2026."
-  },
-  {
-    "name": "The Engine Works",
-    "address": "23-25 Lochburn Rd, Glasgow, G20 9AE, GB",
-    "phone": "0141 945 3180",
-    "international_phone": "0141 945 3180",
-    "website": "http://theengine.works/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Engine+Works/data=!4m7!3m6!1s0x488845b3077b7de9:0xf7e6b4d05dfac7b!8m2!3d55.891412!4d-4.2897165!16s%2Fg%2F11g03msp13!19sChIJ6X17B7NFiEgRe6zfBU1rfg8?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 239,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.891412,
-    "lng": -4.289716,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "hello@theengine.works",
-    "emails": [
-      "hello@theengine.works"
-    ],
-    "description": "The Engine Works provides a multifunctional use events space in Glasgow, unlike any other."
-  },
-  {
-    "name": "Civic House",
-    "address": "Civic House, 26 Civic St, Glasgow, G4 9RH, GB",
-    "phone": "07491 577044",
-    "international_phone": "07491 577044",
-    "website": "https://agile-city.com/building/civic-house/",
-    "google_maps_url": "https://www.google.com/maps/place/Civic+House/data=!4m7!3m6!1s0x4888452307dbc2a7:0xbdd1abbe0ab9f4b4!8m2!3d55.871222!4d-4.2592423!16s%2Fg%2F11flfdjhqv!19sChIJp8LbByNFiEgRtPS5Cr6r0b0?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 77,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Co-working Space",
-    "lat": 55.871222,
-    "lng": -4.259242,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
     "name": "BeezkneezCastles and Disco Hot Tub Hire",
     "address": "Park Rd, Ormiston, Tranent, EH35 5JS, GB",
     "phone": "07917 042099",
@@ -1785,26 +1075,33 @@
     ]
   },
   {
-    "name": "Glasgow Gazebo Hire",
-    "address": "10 Cameron St, Coatbridge, ML5 2EJ, GB",
-    "phone": "0141 370 9893",
-    "international_phone": "0141 370 9893",
-    "website": "https://www.glasgowgazebohire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Glasgow+Gazebo+Hire/data=!4m7!3m6!1s0x48884741b289e62b:0x1cce7130c32246f9!8m2!3d55.869624!4d-4.0138722!16s%2Fg%2F11qyk_w_f_!19sChIJK-aJskFHiEgR-UYiwzBxzhw?authuser=0&hl=en&rclk=1",
+    "name": "Cee Cee Entertainments",
+    "address": "66 Uist Pl, Perth, PH1 3BY, GB",
+    "phone": "07943 351471",
+    "international_phone": "07943 351471",
+    "website": "https://cee-cee.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Cee+Cee+Entertainments/data=!4m7!3m6!1s0x4849c16f346cfba3:0xf0e7722ddf925c67!8m2!3d56.4160536!4d-3.4497492!16s%2Fg%2F11t8mfxzw3!19sChIJo_tsNG_BSUgRZ1yS3y1y5_A?authuser=0&hl=en&rclk=1",
     "rating": 4.7,
-    "total_reviews": 25,
+    "total_reviews": 15,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Marquee hire service",
-    "lat": 55.869624,
-    "lng": -4.013872,
-    "found_in_location": "Cumbernauld",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Bouncy castle hire",
+    "lat": 56.416054,
+    "lng": -3.449749,
+    "found_in_location": "Perth",
     "found_with_query": "bouncy scotland",
-    "email": "info@glasgowgazebohire.com",
+    "email": "bookings@cee-cee.co.uk",
     "emails": [
-      "info@glasgowgazebohire.com"
+      "bookings@cee-cee.co.uk"
     ],
-    "description": "Glasgow Gazebo Hire - Event equipment rental throughout Scotland, Weddings, festivals, parties & more Call 01413709893 for a quote today"
+    "services": [
+      "Bouncy Castles",
+      "Disco Dome",
+      "Hot Tub Hire",
+      "Obstacle Course",
+      "Photo Booth",
+      "Soft Play"
+    ]
   },
   {
     "name": "Dreamtime Events Scotland",
@@ -1833,35 +1130,6 @@
       "Inflatable Slide",
       "Obstacle Course",
       "Popcorn & Candy Floss",
-      "Soft Play"
-    ]
-  },
-  {
-    "name": "Cee Cee Entertainments",
-    "address": "66 Uist Pl, Perth, PH1 3BY, GB",
-    "phone": "07943 351471",
-    "international_phone": "07943 351471",
-    "website": "https://cee-cee.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cee+Cee+Entertainments/data=!4m7!3m6!1s0x4849c16f346cfba3:0xf0e7722ddf925c67!8m2!3d56.4160536!4d-3.4497492!16s%2Fg%2F11t8mfxzw3!19sChIJo_tsNG_BSUgRZ1yS3y1y5_A?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Bouncy castle hire",
-    "lat": 56.416054,
-    "lng": -3.449749,
-    "found_in_location": "Perth",
-    "found_with_query": "bouncy scotland",
-    "email": "bookings@cee-cee.co.uk",
-    "emails": [
-      "bookings@cee-cee.co.uk"
-    ],
-    "services": [
-      "Bouncy Castles",
-      "Disco Dome",
-      "Hot Tub Hire",
-      "Obstacle Course",
-      "Photo Booth",
       "Soft Play"
     ]
   },
@@ -1900,253 +1168,6 @@
     ]
   },
   {
-    "name": "The Space",
-    "address": "183 Dalry Rd, Edinburgh, EH11 2EB, GB",
-    "phone": "07920 425955",
-    "international_phone": "07920 425955",
-    "website": "https://www.facebook.com/dalry183/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Space/data=!4m7!3m6!1s0x4887c7a3b58df8af:0x503b36376c9295d1!8m2!3d55.9422881!4d-3.2217401!16s%2Fg%2F11gvy0w9gh!19sChIJr_iNtaPHh0gR0ZWSbDc2O1A?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.942288,
-    "lng": -3.22174,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Applehill Party House",
-    "address": "Entrance via, 4-6 Staffa Pl, Baird Ave, Dundee, DD2 3SX, GB",
-    "phone": "07734 834098",
-    "international_phone": "07734 834098",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Applehill+Party+House/data=!4m7!3m6!1s0x488643f8c8e4d561:0xb2514c9983c1e039!8m2!3d56.4831742!4d-3.0039277!16s%2Fg%2F11ww8vbxlp!19sChIJYdXkyPhDhkgROeDBg5lMUbI?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Events Venue",
-    "lat": 56.483174,
-    "lng": -3.003928,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "The Caves",
-    "address": "12 Niddry St S, Edinburgh, EH1 1NS, GB",
-    "phone": "0131 510 1122",
-    "international_phone": "0131 510 1122",
-    "website": "http://unusualvenuesedinburgh.com/venues/the-caves-venue-edinburgh",
-    "google_maps_url": "https://www.google.com/maps/place/The+Caves/data=!4m7!3m6!1s0x4887c785b84b2277:0x88ef35a5074621be!8m2!3d55.9484553!4d-3.1864096!16s%2Fg%2F1vs5w8xp!19sChIJdyJLuIXHh0gRviFGB6U174g?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 814,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–3 am\"],\"Monday\":[\"10 am–3 am\"],\"Saturday\":[\"10 am–3 am\"],\"Sunday\":[\"10 am–3 am\"],\"Thursday\":[\"10 am–3 am\"],\"Tuesday\":[\"10 am–3 am\"],\"Wednesday\":[\"10 am–3 am\"]}",
-    "types": "Events Venue",
-    "lat": 55.948455,
-    "lng": -3.18641,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "description": "A truly unique location steeped in Edinburgh's history, The Caves is one of Edinburgh's most popular venues hosting all types of events. Get in touch now…"
-  },
-  {
-    "name": "Venue Paisley",
-    "address": "5 Wellmeadow St, Paisley, PA1 2EF, GB",
-    "phone": "07949 025635",
-    "international_phone": "07949 025635",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Venue+Paisley/data=!4m7!3m6!1s0x488849f05985f6cf:0x7687236ebc72d9e8!8m2!3d55.8440441!4d-4.4332623!16s%2Fg%2F11j119bjgf!19sChIJz_aFWfBJiEgR6NlyvG4jh3Y?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 140,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:45 pm\"],\"Monday\":[\"8 am–5:45 pm\"],\"Saturday\":[\"8 am–5:45 pm\"],\"Sunday\":[\"8 am–5:45 pm\"],\"Thursday\":[\"8 am–5:45 pm\"],\"Tuesday\":[\"8 am–5:45 pm\"],\"Wednesday\":[\"8 am–5:45 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.844044,
-    "lng": -4.433262,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Jojo's Parties",
-    "address": "Unit 72A, Ocean Terminal Shopping Centre, Ocean Dr, Leith, Edinburgh, EH6 6JJ, GB",
-    "phone": "07480 251524",
-    "international_phone": "07480 251524",
-    "website": "http://www.jojosparties.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Jojo%27s+Parties/data=!4m7!3m6!1s0x4887b924de77e39d:0x3e0c8f10277e7901!8m2!3d55.9813163!4d-3.1773357!16s%2Fg%2F11sbw_868s!19sChIJneN33iS5h0gRAXl-JxCPDD4?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 41,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 am–12 pm\"],\"Saturday\":[\"10 am–9 pm\"],\"Sunday\":[\"10 am–9 pm\"],\"Thursday\":[\"9 am–12 pm\"],\"Tuesday\":[\"9 am–12 pm\"],\"Wednesday\":[\"9 am–12 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.981316,
-    "lng": -3.177336,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "hellojojosparties@gmail.com",
-    "emails": [
-      "hellojojosparties@gmail.com"
-    ]
-  },
-  {
-    "name": "Party Wizard",
-    "address": "214 Perth Rd, Dundee, DD1 4JY, GB",
-    "phone": "01382 566655",
-    "international_phone": "01382 566655",
-    "website": "http://www.party-wizard.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Party+Wizard/data=!4m7!3m6!1s0x488643498ae7d7a7:0x2575ef54b845bab6!8m2!3d56.4559406!4d-2.9887224!16s%2Fg%2F1hc2_84zr!19sChIJp9fniklDhkgRtrpFuFTvdSU?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
-    "types": "Costume shop",
-    "lat": 56.455941,
-    "lng": -2.988722,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "description": "Get your fancy dress outfits and accessories from Scotlands leading fancy dress shop"
-  },
-  {
-    "name": "91B Private Venue Hire",
-    "address": "91b Berkeley St., Glasgow, G3 7DX, GB",
-    "phone": "07897 670747",
-    "international_phone": "07897 670747",
-    "website": "http://91bprivatevenue.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/91B+Private+Venue+Hire/data=!4m7!3m6!1s0x48884520d2b2b9bb:0x74ac3c7e27db3065!8m2!3d55.8649835!4d-4.2757176!16s%2Fg%2F11r24zvgl0!19sChIJu7my0iBFiEgRZTDbJ348rHQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–12 am\"],\"Monday\":[\"11 am–10 pm\"],\"Saturday\":[\"10 am–12 am\"],\"Sunday\":[\"11 am–10 pm\"],\"Thursday\":[\"11 am–11 pm\"],\"Tuesday\":[\"11 am–10 pm\"],\"Wednesday\":[\"11 am–10 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.864984,
-    "lng": -4.275718,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "description": "91B private venue hire is an event location based in Glasgow which offers of organizing various events for all of your needs from corporate events to birthdays"
-  },
-  {
-    "name": "UPSTAIRS INVERNESS",
-    "address": "14 Bridge St, Inverness, IV1 1HD, GB",
-    "phone": "01463 233648",
-    "international_phone": "01463 233648",
-    "website": "http://www.upstairsinverness.com/",
-    "google_maps_url": "https://www.google.com/maps/place/UPSTAIRS+INVERNESS/data=!4m7!3m6!1s0x488f71528ac43547:0x9f805ec635abbbf1!8m2!3d57.4774173!4d-4.2259207!16s%2Fg%2F11h6yvy99x!19sChIJRzXEilJxj0gR8burNcZegJ8?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Events Venue",
-    "lat": 57.477417,
-    "lng": -4.225921,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "email": "marketing@mrg.scot",
-    "emails": [
-      "marketing@mrg.scot",
-      "upstairs@mrg.scot"
-    ],
-    "description": "Upstairs is Inverness' 100 Capacity Music & Cultural arts space."
-  },
-  {
-    "name": "Leith Arches",
-    "address": "6 Manderston St, Edinburgh, EH6 8LY, GB",
-    "phone": "0131 547 0137",
-    "international_phone": "0131 547 0137",
-    "website": "https://leitharches.com/?utm_source=google&utm_medium=gmb&utm_campaign=local_maps",
-    "google_maps_url": "https://www.google.com/maps/place/Leith+Arches/data=!4m7!3m6!1s0x4887b9f38fdfb82d:0xf78dd38a427dbde4!8m2!3d55.9689264!4d-3.1726831!16s%2Fg%2F11fnv84rnf!19sChIJLbjfj_O5h0gR5L19QorTjfc?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 248,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 55.968926,
-    "lng": -3.172683,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@leitharches.com",
-    "emails": [
-      "info@leitharches.com",
-      "freightexpress@mail.com"
-    ],
-    "description": "Your event, the Leith Arches way. Our Edinburgh venue hire can suit any event, come see what all the fuss is about."
-  },
-  {
-    "name": "Woodside Halls",
-    "address": "36 Glenfarg St, Glasgow, G20 7QE, GB",
-    "phone": "0141 287 5919",
-    "international_phone": "0141 287 5919",
-    "website": "https://www.glasgowlife.org.uk/communities/venues/woodside-halls",
-    "google_maps_url": "https://www.google.com/maps/place/Woodside+Halls/data=!4m7!3m6!1s0x4888453a51f2d495:0x83ea728c979dfb20!8m2!3d55.8730572!4d-4.2672604!16s%2Fg%2F11h0c235hk!19sChIJldTyUTpFiEgRIPudl4xy6oM?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 75,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Community centre",
-    "lat": 55.873057,
-    "lng": -4.26726,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@glasgowlife.org.uk",
-    "emails": [
-      "info@glasgowlife.org.uk",
-      "schoolletting@glasgowlife.org.uk"
-    ],
-    "description": "Glasgow Life community centres and programmes create positive spaces and places to bring people together."
-  },
-  {
-    "name": "Glenburn Community Centre",
-    "address": "Fairway Ave, Glenburn, Paisley, PA2 8DX, GB",
-    "phone": "0141 884 1776",
-    "international_phone": "0141 884 1776",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Glenburn+Community+Centre/data=!4m7!3m6!1s0x4888496de4ca9531:0x5d963714f1d3da3c!8m2!3d55.8237541!4d-4.432276!16s%2Fg%2F1td9vp_1!19sChIJMZXK5G1JiEgRPNrT8RQ3ll0?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 55,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Community centre",
-    "lat": 55.823754,
-    "lng": -4.432276,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Foxbar Community Centre",
-    "address": "Amochrie Rd, Paisley, PA2 0LB, GB",
-    "phone": "0141 487 1603",
-    "international_phone": "0141 487 1603",
-    "website": "https://m.facebook.com/profile.php?id=100080772334692&sk=photos",
-    "google_maps_url": "https://www.google.com/maps/place/Foxbar+Community+Centre/data=!4m7!3m6!1s0x48884bdc01d5059d:0xc84de20c7d755f2d!8m2!3d55.8271758!4d-4.461843!16s%2Fg%2F1tqf_xq8!19sChIJnQXVAdxLiEgRLV91fQziTcg?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 33,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Community centre",
-    "lat": 55.827176,
-    "lng": -4.461843,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Bricks 4 Kidz (City West, Perth)",
-    "address": "Unit 65/102 Railway St, West Perth, 6005, AU",
-    "phone": "+61 415 829 511",
-    "international_phone": "+61 415 829 511",
-    "website": "https://bricks4kidz.au/perth-karrinyup/",
-    "google_maps_url": "https://www.google.com/maps/place/Bricks+4+Kidz+%28City+West,+Perth%29/data=!4m7!3m6!1s0x2a32a58dff0a2ddf:0xc61f103edd7d344a!8m2!3d-31.943658!4d115.84519!16s%2Fg%2F11qyvd4kks!19sChIJ3y0K_42lMioRSjR93T4QH8Y?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 27,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Children's party service",
-    "lat": -31.943658,
-    "lng": 115.84519,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "description": "BRICKS 4 KIDZ Educational Play programs provide an extraordinary atmosphere for kids to build unique creations and have loads of fun using LEGO® Bricks!"
-  },
-  {
     "name": "Aaba Bouncy Castles",
     "address": "Daviot, Inverness, IV2 6XN, GB",
     "phone": "07817 074557",
@@ -2162,97 +1183,6 @@
     "lng": -4.148125,
     "found_in_location": "Inverness",
     "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Òran Mór",
-    "address": "Byres Rd, Glasgow, G12 8QX, GB",
-    "phone": "0141 357 6200",
-    "international_phone": "0141 357 6200",
-    "website": "http://www.oran-mor.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/%C3%92ran+M%C3%B3r/data=!4m7!3m6!1s0x488845cc72f33203:0x50a165a3f7d3388d!8m2!3d55.8775633!4d-4.2897597!16s%2Fg%2F1tjgp50w!19sChIJAzLzcsxFiEgRjTjT96NloVA?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 6552,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11 am–3 am\"],\"Monday\":[\"11 am–2 am\"],\"Saturday\":[\"11 am–3 am\"],\"Sunday\":[\"11 am–3 am\"],\"Thursday\":[\"11 am–3 am\"],\"Tuesday\":[\"11 am–2 am\"],\"Wednesday\":[\"11 am–2 am\"]}",
-    "types": "Pub",
-    "lat": 55.877563,
-    "lng": -4.28976,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@oran-mor.co.uk",
-    "emails": [
-      "info@oran-mor.co.uk",
-      "barryshaw@oran-mor.co.uk",
-      "boxoffice@oran-mor.co.uk",
-      "creon@oran-mor.co.uk",
-      "events@oran-mor.co.uk",
-      "jamie@oran-mor.co.uk",
-      "info@playpiepint.com"
-    ],
-    "description": "Discover Òran Mór, Glasgow’s iconic multi-purpose venue for arts, events, weddings, and dining. Located in the heart of the West End, enjoy a rich history, fine Scottish food, and live entertainment beneath Scotland’s largest mural."
-  },
-  {
-    "name": "Platform",
-    "address": "253 Argyle St, Glasgow, G2 8DL, GB",
-    "phone": "0345 241 6253",
-    "international_phone": "0345 241 6253",
-    "website": "https://platformgla.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Platform/data=!4m7!3m6!1s0x4888469c2097a555:0xdded21b82f8a5d33!8m2!3d55.8584979!4d-4.2586479!16zL20vMGJqcDl4!19sChIJVaWXIJxGiEgRM12KL7gh7d0?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 1088,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 55.858498,
-    "lng": -4.258648,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "hello@platformgla.co.uk",
-    "emails": [
-      "hello@platformgla.co.uk",
-      "events@platformgla.co.uk"
-    ],
-    "description": "Platform is an event venue in Glasgow, in the heart of the city. This historically significant space comprises six interconnected arches."
-  },
-  {
-    "name": "Dundee Science Centre",
-    "address": "14 Greenmarket, Dundee, DD1 4QB, GB",
-    "phone": "01382 228800",
-    "international_phone": "01382 228800",
-    "website": "http://www.dundeesciencecentre.org.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Dundee+Science+Centre/data=!4m7!3m6!1s0x48865cbfb894e571:0x81b58c09ceecccd7!8m2!3d56.4564569!4d-2.9747332!16s%2Fm%2F04cx2md!19sChIJceWUuL9chkgR18zszgmMtYE?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 1080,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–4 pm\"],\"Monday\":[\"10 am–4 pm\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"10 am–4 pm\"],\"Tuesday\":[\"10 am–4 pm\"],\"Wednesday\":[\"10 am–4 pm\"]}",
-    "types": "Science museum",
-    "lat": 56.456457,
-    "lng": -2.974733,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "email": "staff@dundeesciencecentre.org.uk",
-    "emails": [
-      "staff@dundeesciencecentre.org.uk"
-    ],
-    "description": "Experience our award-winning, interactive visitor attraction & explore the wonders of science through events, exhibitions, hands-on activities, and more. See what's on."
-  },
-  {
-    "name": "The Hub",
-    "address": "The Hub, Edinburgh, EH1, GB",
-    "phone": "0131 473 2015",
-    "international_phone": "0131 473 2015",
-    "website": "https://www.eif.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Hub/data=!4m7!3m6!1s0x4887c79a8d11456f:0xba94c2588607fa5d!8m2!3d55.9489389!4d-3.1946105!16s%2Fg%2F1vnnhzmz!19sChIJb0URjZrHh0gRXfoHhljClLo?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 609,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 55.948939,
-    "lng": -3.194611,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "description": "Edinburgh International Festival. Discover the best artists from opera, music, theatre & dance on the world’s greatest stage. 1-24 August 2025."
   },
   {
     "name": "Innoflate Dundee",
@@ -2275,191 +1205,6 @@
       "dundee@innoflate.co.uk"
     ],
     "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
-  },
-  {
-    "name": "Powerleague Paisley",
-    "address": "Anchor Grounds, Blackhall St, Paisley, PA1 1TD, GB",
-    "phone": "0141 848 1921",
-    "international_phone": "0141 848 1921",
-    "website": "https://www.powerleague.com/location/paisley",
-    "google_maps_url": "https://www.google.com/maps/place/Powerleague+Paisley/data=!4m7!3m6!1s0x4888492352b304f5:0x32468e09854188f9!8m2!3d55.839557!4d-4.4108121!16s%2Fg%2F1v9lbbz9!19sChIJ9QSzUiNJiEgR-YhBhQmORjI?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 258,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10:30 pm\"],\"Monday\":[\"9 am–10:30 pm\"],\"Saturday\":[\"9 am–10:30 pm\"],\"Sunday\":[\"9 am–10:30 pm\"],\"Thursday\":[\"9 am–10:30 pm\"],\"Tuesday\":[\"9 am–10:30 pm\"],\"Wednesday\":[\"9 am–10:30 pm\"]}",
-    "types": "Sports complex",
-    "lat": 55.839557,
-    "lng": -4.410812,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland",
-    "email": "peterborough@powerleague.com",
-    "emails": [
-      "peterborough@powerleague.com",
-      "enquiries@powerleague.co.uk",
-      "email@email.com"
-    ],
-    "description": "Powerleague Peterborough has 5-a-Side football, kids' parties, camps, and a function room. A fantastic hub for fun and fitness!"
-  },
-  {
-    "name": "The Counting House",
-    "address": "34 W Nicolson St, Newington, Edinburgh, EH8 9DD, GB",
-    "phone": "0131 667 7533",
-    "international_phone": "0131 667 7533",
-    "website": "https://www.countinghouseedinburgh.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Counting+House/data=!4m7!3m6!1s0x4887c783f3982231:0x35291b11cb7a71c!8m2!3d55.9445052!4d-3.1850857!16s%2Fg%2F11bw2g4rz1!19sChIJMSKY84PHh0gRHKe3HLGRUgM?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 198,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 55.944505,
-    "lng": -3.185086,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@peartreeedinburgh.co.uk",
-    "emails": [
-      "info@peartreeedinburgh.co.uk"
-    ],
-    "description": "Welcome to The Counting House a historic building in the south of Edinburgh City Centre above the famous Pear Tree House. Click to learn more"
-  },
-  {
-    "name": "The Quay",
-    "address": "Unit 26 Camperdown St, Dundee, DD1 3JA, GB",
-    "phone": "07402 444338",
-    "international_phone": "07402 444338",
-    "website": "https://www.facebook.com/thequaycityquay/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Quay/data=!4m7!3m6!1s0x48865ced083dc7ed:0x1f97d130a3c48880!8m2!3d56.4624112!4d-2.9603197!16s%2Fg%2F11g725yx97!19sChIJ7cc9CO1chkgRgIjEozDRlx8?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 193,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Events Venue",
-    "lat": 56.462411,
-    "lng": -2.96032,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Planet Play",
-    "address": "67-69 Cross Arthurlie St, Barrhead, Glasgow, G78 1RR, GB",
-    "phone": "0141 881 8585",
-    "international_phone": "0141 881 8585",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Planet+Play/data=!4m7!3m6!1s0x488849b1fa0ccf71:0x56647564eb00f3db!8m2!3d55.800931!4d-4.3977137!16s%2Fg%2F1tmkkkdn!19sChIJcc8M-rFJiEgR2_MA62R1ZFY?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 178,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9:30 am–6 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9:30 am–6 pm\"],\"Tuesday\":[\"9:30 am–6 pm\"],\"Wednesday\":[\"9:30 am–6 pm\"]}",
-    "types": "Bakery",
-    "lat": 55.800931,
-    "lng": -4.397714,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Paisley Town Hall",
-    "address": "Abbey Cl, Paisley, Paisley, PA1 1JF, GB",
-    "phone": "0300 300 1210",
-    "international_phone": "0300 300 1210",
-    "website": "http://www.renfrewshireleisure.com/arts",
-    "google_maps_url": "https://www.google.com/maps/place/Paisley+Town+Hall/data=!4m7!3m6!1s0x48884939e7815b33:0xb1643772bcdcc04d!8m2!3d55.845341!4d-4.42151!16s%2Fg%2F1tdm7xd2!19sChIJM1uB5zlJiEgRTcDcvHI3ZLE?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 106,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Town Hall",
-    "lat": 55.845341,
-    "lng": -4.42151,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland",
-    "description": "OneRen is the local charitable trust in Renfrewshire providing leisure, culture and sporting opportunities to help people enjoy active and healthy lives."
-  },
-  {
-    "name": "Wee Tait Events & Decor",
-    "address": "Wee Tait Events, Edmiston Trade Park, 240a Edmiston Dr, Glasgow, G51 2YU, GB",
-    "phone": "07400 717277",
-    "international_phone": "07400 717277",
-    "website": "http://www.weetait.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Wee+Tait+Events+%26+Decor/data=!4m7!3m6!1s0x4888467a909b940f:0x82d9757ef688f16a!8m2!3d55.8535206!4d-4.312903!16s%2Fg%2F1td69g07!19sChIJD5SbkHpGiEgRavGI9n512YI?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 96,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
-    "types": "Wedding service",
-    "lat": 55.853521,
-    "lng": -4.312903,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "sales@weetait.com",
-    "emails": [
-      "sales@weetait.com"
-    ],
-    "description": "Wee Tait has the perfect solution for every occasion, from grand weddings to kids parties at home. Contact us to discuss your special event.",
-    "services": [
-      "Photo Booth"
-    ]
-  },
-  {
-    "name": "Marlins Wynd",
-    "address": "34A Blair St, Edinburgh, EH1 1QR, GB",
-    "phone": "0131 510 4414",
-    "international_phone": "0131 510 4414",
-    "website": "http://unusualvenuesedinburgh.com/venues/marlins-wynd-venue-Edinburgh",
-    "google_maps_url": "https://www.google.com/maps/place/Marlins+Wynd/data=!4m7!3m6!1s0x4887c7859f6ae6f3:0x63be7799dacc7647!8m2!3d55.9490288!4d-3.187308!16s%2Fg%2F1tf9x_hr!19sChIJ8-Zqn4XHh0gRR3bM2pl3vmM?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 89,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–1 am\"],\"Monday\":[\"10 am–1 am\"],\"Saturday\":[\"10 am–1 am\"],\"Sunday\":[\"10 am–1 am\"],\"Thursday\":[\"10 am–1 am\"],\"Tuesday\":[\"10 am–1 am\"],\"Wednesday\":[\"10 am–1 am\"]}",
-    "types": "Events Venue",
-    "lat": 55.949029,
-    "lng": -3.187308,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "description": "A truly unique location steeped in Edinburgh's history, The Caves is one of Edinburgh's most popular venues hosting all types of events. Get in touch now…"
-  },
-  {
-    "name": "Wedding Events @ Mains Castle Dundee",
-    "address": "Mains Loan, Dundee, DD4 9BX, GB",
-    "phone": "07340 677346",
-    "international_phone": "07340 677346",
-    "website": "http://www.mainscastle.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Wedding+Events+@+Mains+Castle+Dundee/data=!4m7!3m6!1s0x48865d0313c85135:0x8fd3d5527c9c7544!8m2!3d56.4855084!4d-2.9582342!16s%2Fm%2F026yfxk!19sChIJNVHIEwNdhkgRRHWcfFLV048?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 87,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11 am–1 am\"],\"Monday\":[\"11 am–1 am\"],\"Saturday\":[\"11 am–1 am\"],\"Sunday\":[\"11 am–1 am\"],\"Thursday\":[\"11 am–1 am\"],\"Tuesday\":[\"11 am–1 am\"],\"Wednesday\":[\"11 am–1 am\"]}",
-    "types": "Events Venue",
-    "lat": 56.485508,
-    "lng": -2.958234,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "description": "Host your special day within our romantic castle, a truly unique15th-century venue. This breathtaking setting features two elegant banqueting suites, a charming courtyard, and a majestic 70-foot tower house—offering the perfect backdrop for your wedding."
-  },
-  {
-    "name": "Partymania",
-    "address": "292 George St, Aberdeen, AB25 1HL, GB",
-    "phone": "01224 633567",
-    "international_phone": "01224 633567",
-    "website": "http://www.partymania.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Partymania/data=!4m7!3m6!1s0x48840e180d8e0a1b:0xca4257b7805f9ad3!8m2!3d57.152035!4d-2.103521!16s%2Fg%2F1tdwk1xp!19sChIJGwqODRgOhEgR05pfgLdXQso?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 82,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5 pm\"]}",
-    "types": "Party shop",
-    "lat": 57.152035,
-    "lng": -2.103521,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "email": "info@partymania.co.uk",
-    "emails": [
-      "info@partymania.co.uk",
-      "%20info@partymania.co.uk"
-    ],
-    "description": "Halloween Fancy Dress at Partymania, Aberdeen Scotland - Halloween fancy dress costumes, halloween accessories, fancy dress, masks, wigs, fake blood, fangs, wounds, makeup",
-    "services": [
-      "Face Painting"
-    ]
   },
   {
     "name": "Tots Toun Soft Play",
@@ -2488,24 +1233,6 @@
       "Obstacle Course",
       "Soft Play"
     ]
-  },
-  {
-    "name": "Crown Marquee Hire",
-    "address": "Sievewright St, Rutherglen, Glasgow, G73 1LB, GB",
-    "phone": "07450 968027",
-    "international_phone": "07450 968027",
-    "website": "https://www.crownmarqueehire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Crown+Marquee+Hire/data=!4m7!3m6!1s0x4888473a8fd23ee5:0xb356f9470e45447b!8m2!3d55.834499!4d-4.2016405!16s%2Fg%2F11c48s5k3n!19sChIJ5T7SjzpHiEgRe0RFDkf5VrM?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 30,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"9 am–5:30 pm\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Marquee hire service",
-    "lat": 55.834499,
-    "lng": -4.20164,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "description": "Queensberry Marquee Hire provide marquee structures for an array of events throughout Scotland, Cumbria and The Lake District."
   },
   {
     "name": "Unique Children's Parties",
@@ -2658,31 +1385,6 @@
     ]
   },
   {
-    "name": "The Castle Rooms",
-    "address": "63 Old Mill Rd, Uddingston, Glasgow, G71 7PE, GB",
-    "phone": "01698 810889",
-    "international_phone": "01698 810889",
-    "website": "http://lisini.co.uk/weddings-at-the-castle-rooms",
-    "google_maps_url": "https://www.google.com/maps/place/The+Castle+Rooms/data=!4m7!3m6!1s0x48886a888e92f0eb:0x73161fc5b66e0b59!8m2!3d55.8202922!4d-4.0813657!16s%2Fg%2F1td64x4n!19sChIJ6_CSjohqiEgRWQtutsUfFnM?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 281,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–12 am\"],\"Monday\":[\"9 am–12 am\"],\"Saturday\":[\"9 am–12 am\"],\"Sunday\":[\"9 am–12 am\"],\"Thursday\":[\"9 am–12 am\"],\"Tuesday\":[\"9 am–12 am\"],\"Wednesday\":[\"9 am–12 am\"]}",
-    "types": "Wedding venue",
-    "lat": 55.820292,
-    "lng": -4.081366,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "angels@lisini.co.uk",
-    "emails": [
-      "angels@lisini.co.uk",
-      "castle@lisini.co.uk",
-      "dalziel@lisini.co.uk",
-      "parkville@lisini.co.uk"
-    ],
-    "description": "Lisini Pub Company has firmly established itself as one of the most successful, independent, family run hospitality businesses in Scotland."
-  },
-  {
     "name": "Airpark Adventure",
     "address": "Rosyth Rd, Glasgow, G5 0YE, GB",
     "phone": "0141 473 8071",
@@ -2708,51 +1410,6 @@
       "Obstacle Course",
       "Soft Play"
     ]
-  },
-  {
-    "name": "Hilton Community Centre",
-    "address": "Hilton Village, Oldtown Rd, Inverness, IV2 4HT, GB",
-    "phone": "01463 644337",
-    "international_phone": "01463 644337",
-    "website": "https://www.highlifehighland.com/hilton-community-centre/",
-    "google_maps_url": "https://www.google.com/maps/place/Hilton+Community+Centre/data=!4m7!3m6!1s0x488f7169faafa75b:0xbd844f2219ab0071!8m2!3d57.4597225!4d-4.2139064!16s%2Fg%2F1hc1dhdwm!19sChIJW6ev-mlxj0gRcQCrGSJPhL0?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 182,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
-    "types": "Community centre",
-    "lat": 57.459722,
-    "lng": -4.213906,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "email": "info@highlifehighland.com",
-    "emails": [
-      "info@highlifehighland.com",
-      "hiltoncc@highlifehighland.com"
-    ],
-    "description": "Hilton Community Centre offers clubs, fitness, and a games hall - plus rooms to hire and a warm welcome for all visitors."
-  },
-  {
-    "name": "Ferryhill Community Centre",
-    "address": "Albury Rd, Aberdeen, AB11 6TN, GB",
-    "phone": "01224 584118",
-    "international_phone": "01224 584118",
-    "website": "http://www.ferryhillcommunitycentre.org.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Ferryhill+Community+Centre/data=!4m7!3m6!1s0x48840e2f337d50c5:0x182868ddba242d62!8m2!3d57.140274!4d-2.1061377!16s%2Fg%2F1wn_5p7c!19sChIJxVB9My8OhEgRYi0kut1oKBg?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 147,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–6 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"9:30 am–6 pm\"],\"Sunday\":[\"9:30 am–6 pm\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
-    "types": "Community centre",
-    "lat": 57.140274,
-    "lng": -2.106138,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "bouncy scotland",
-    "email": "manager@ferryhillcommunitycentre.org.uk",
-    "emails": [
-      "manager@ferryhillcommunitycentre.org.uk"
-    ],
-    "description": "We love our customers, so feel free to visit during normal business hours."
   },
   {
     "name": "Springkerse View Wacky Warehouse",
@@ -2807,23 +1464,6 @@
     ]
   },
   {
-    "name": "JK Entertainment",
-    "address": "Cotton St, Glasgow, G40 4HU, GB",
-    "phone": "07540 462597",
-    "international_phone": "07540 462597",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/JK+Entertainment/data=!4m7!3m6!1s0x488846b41107b7e9:0xcf8152ad6e604b55!8m2!3d55.8379416!4d-4.2203617!16s%2Fg%2F1wn_5pl5!19sChIJ6bcHEbRGiEgRVUtgbq1Sgc8?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 18,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12 am–6 pm\"],\"Monday\":[\"11 am–6 pm\"],\"Saturday\":[\"11 am–4:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"11 pm–12 am\"],\"Tuesday\":[\"11 am–6 pm\"],\"Wednesday\":[\"11 am–6 pm\"]}",
-    "types": "Entertainer",
-    "lat": 55.837942,
-    "lng": -4.220362,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
     "name": "A1 Bouncy Fun",
     "address": "Unit H, College Mill Rd, Almondbank, Perth, PH1 3JY, GB",
     "phone": "07565 706446",
@@ -2839,24 +1479,6 @@
     "lng": -3.511293,
     "found_in_location": "Perth",
     "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Arta",
-    "address": "62 Albion St, Glasgow, G1 1PA, GB",
-    "phone": "0141 552 2101",
-    "international_phone": "0141 552 2101",
-    "website": "http://www.arta.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Arta/data=!4m7!3m6!1s0x488846a14ebf0869:0x89bb823940fe5fc3!8m2!3d55.8580979!4d-4.2441518!16s%2Fg%2F1vlqpskc!19sChIJaQi_TqFGiEgRw1_-QDmCu4k?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 1031,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"5 pm–1 am\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"5 pm–3 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"5 pm–1 am\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Tapas restaurant",
-    "lat": 55.858098,
-    "lng": -4.244152,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "description": "Arta is a mediterranean bar, tapas restaurant and club set in the heart of Glasgow's Merchant City, celebrating the culture of eating together."
   },
   {
     "name": "Wonder World Soft Play and Kids & Group Party Venue Falkirk",
@@ -2928,52 +1550,6 @@
     "description": "Fancy a day filled with laughter and bouncing at Innoflate Dundee?Situated at Ethiebeaton Park, Monifieth, our inflatable park is a fantastic spot for families and friends looking for an active day out."
   },
   {
-    "name": "Partick Burgh Hall",
-    "address": "9 Burgh Hall St, Glasgow, G11 5LW, GB",
-    "phone": "0141 357 5399",
-    "international_phone": "0141 357 5399",
-    "website": "https://www.glasgowlife.org.uk/communities/venues/partick-burgh-hall",
-    "google_maps_url": "https://www.google.com/maps/place/Partick+Burgh+Hall/data=!4m7!3m6!1s0x488845dcd5ce1827:0x1b01c9afe63053c0!8m2!3d55.8713!4d-4.3086!16s%2Fg%2F1vqtgcc9!19sChIJJxjO1dxFiEgRwFMw5q_JARs?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 331,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Historical landmark",
-    "lat": 55.8713,
-    "lng": -4.3086,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland",
-    "email": "info@glasgowlife.org.uk",
-    "emails": [
-      "info@glasgowlife.org.uk",
-      "schoolletting@glasgowlife.org.uk"
-    ],
-    "description": "Glasgow Life community centres and programmes create positive spaces and places to bring people together."
-  },
-  {
-    "name": "The Biscuit Factory",
-    "address": "4-6 Anderson Pl, Edinburgh, EH6 5NP, GB",
-    "phone": "0131 629 1300",
-    "international_phone": "0131 629 1300",
-    "website": "http://www.biscuitfactory.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Biscuit+Factory/data=!4m7!3m6!1s0x4887c7f7c7c68cb1:0xa6d6796b12662a4a!8m2!3d55.9708099!4d-3.1815312!16s%2Fg%2F11b88tp05v!19sChIJsYzGx_fHh0gRSipmEmt51qY?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 260,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"12–10 pm\"],\"Sunday\":[\"12–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.97081,
-    "lng": -3.181531,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "info@biscuitfactory.co.uk",
-    "emails": [
-      "info@biscuitfactory.co.uk",
-      "events@biscuitfactory.co.uk"
-    ],
-    "description": "The Biscuit Factory is a unique experience to visit, with live events, venue hire, historical background, and colourful future."
-  },
-  {
     "name": "FunParx Dundee",
     "address": "15 Balunie Dr, Dundee, DD4 8PS, GB",
     "phone": "01382 213646",
@@ -3024,28 +1600,6 @@
     ]
   },
   {
-    "name": "The Pavilion at Myreside",
-    "address": "79 Myreside Rd, Edinburgh, EH10 5DB, GB",
-    "phone": "0131 446 6100",
-    "international_phone": "0131 446 6100",
-    "website": "https://www.gwc.org.uk/pavilion",
-    "google_maps_url": "https://www.google.com/maps/place/The+Pavilion+at+Myreside/data=!4m7!3m6!1s0x4887c77a11587b71:0x5e9675418a44ffcc!8m2!3d55.9265921!4d-3.2244338!16s%2Fg%2F11rr21v5d2!19sChIJcXtYEXrHh0gRzP9EikF1ll4?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 61,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–4:30 pm\"],\"Monday\":[\"8:30 am–4:30 pm\"],\"Saturday\":[\"8:30 am–3:30 pm\"],\"Sunday\":[\"8:30 am–3:30 pm\"],\"Thursday\":[\"8:30 am–4:30 pm\"],\"Tuesday\":[\"8:30 am–4:30 pm\"],\"Wednesday\":[\"8:30 am–4:30 pm\"]}",
-    "types": "Cafe",
-    "lat": 55.926592,
-    "lng": -3.224434,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "email": "thepavilion@gwc.org.uk",
-    "emails": [
-      "thepavilion@gwc.org.uk"
-    ],
-    "description": "Situated amongst beautiful green fields with outstanding views, The Pavilion at Myreside features a café, bar, and a variety of versatile venue hire spaces."
-  },
-  {
     "name": "Simply Events",
     "address": "43 Cairntrodlie, Peterhead, AB42 2BP, GB",
     "phone": "01779 478806",
@@ -3093,27 +1647,6 @@
       "customerservice@wonderworldgroup.co.uk"
     ],
     "description": "Step into Wonder World Soft Play Falkirk – the UK’s biggest indoor adventure for kids. Exciting, safe, and packed with fun for all ages!",
-    "services": [
-      "Soft Play"
-    ]
-  },
-  {
-    "name": "Tenpin Dundee",
-    "address": "Kingsway West Retail Park, Clepington Rd, Dundee, DD3 8RX, GB",
-    "phone": "0333 038 6565",
-    "international_phone": "0333 038 6565",
-    "website": "https://www.tenpin.co.uk/our-locations/dundee/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp_website",
-    "google_maps_url": "https://www.google.com/maps/place/Tenpin+Dundee/data=!4m7!3m6!1s0x48865d55edc0f0c1:0x34ba99039825776!8m2!3d56.4819752!4d-2.9986695!16s%2Fg%2F11ks2ng7v3!19sChIJwfDA7VVdhkgRdleCOZCpSwM?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 568,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–1 am\"],\"Monday\":[\"10 am–12 am\"],\"Saturday\":[\"10 am–1 am\"],\"Sunday\":[\"10 am–12 am\"],\"Thursday\":[\"10 am–12 am\"],\"Tuesday\":[\"10 am–12 am\"],\"Wednesday\":[\"10 am–12 am\"]}",
-    "types": "Bowling Alley",
-    "lat": 56.481975,
-    "lng": -2.998669,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "description": "Get ready for a great time in Dundee with the best bowling, karaoke, laser tag, soft play and escape rooms around. You'll love our range of parties too.",
     "services": [
       "Soft Play"
     ]
@@ -3208,24 +1741,6 @@
     ]
   },
   {
-    "name": "Nicolson Square Venues",
-    "address": "25 Nicolson Square, Edinburgh, EH8 9BX, GB",
-    "phone": "07808 401451",
-    "international_phone": "07808 401451",
-    "website": "https://www.nsvenues.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Nicolson+Square+Venues/data=!4m7!3m6!1s0x4887c7f1f348970f:0x7f2417fe48053459!8m2!3d55.9454583!4d-3.1859606!16s%2Fg%2F11ll1kdr90!19sChIJD5dI8_HHh0gRWTQFSP4XJH8?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 31,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–3 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–3 pm\"],\"Tuesday\":[\"9 am–3 pm\"],\"Wednesday\":[\"9 am–3 pm\"]}",
-    "types": "Events Venue",
-    "lat": 55.945458,
-    "lng": -3.185961,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "bouncy scotland",
-    "description": "Explore Nicolson Square Venues as a historic venue hire in central Edinburgh. From small meetings, large conferences, to craft fairs, markets, and rehearsals and theatre performances, NSV has flexible spaces to ensure your function hire needs can be met."
-  },
-  {
     "name": "Cairns Event Hire",
     "address": "55 Causewayside St, Tollcross, Glasgow, G32 8LT, GB",
     "phone": "0141 778 8333",
@@ -3244,33 +1759,6 @@
     "email": "sales@cairnseventhire.scot",
     "emails": [
       "sales@cairnseventhire.scot"
-    ]
-  },
-  {
-    "name": "The Time Capsule",
-    "address": "100 Buchanan St, Coatbridge, ML5 1DL, GB",
-    "phone": "01236 812679",
-    "international_phone": "01236 812679",
-    "website": "https://www.activenl.co.uk/time-capsule",
-    "google_maps_url": "https://www.google.com/maps/place/The+Time+Capsule/data=!4m7!3m6!1s0x48886bd1f8be2609:0x9071e6c4d0372d42!8m2!3d55.8596116!4d-4.035182!16s%2Fg%2F1wt3m_8s!19sChIJCSa--NFriEgRQi030MTmcZA?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 3948,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"4–8 pm\"],\"Monday\":[\"4–8 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"4–8 pm\"],\"Tuesday\":[\"4–8 pm\"],\"Wednesday\":[\"4–8 pm\"]}",
-    "types": "Water park",
-    "lat": 55.859612,
-    "lng": -4.035182,
-    "found_in_location": "Motherwell",
-    "found_with_query": "bouncy scotland",
-    "email": "activenl@northlan.gov.uk",
-    "emails": [
-      "activenl@northlan.gov.uk",
-      "learntoskate@northlan.gov.uk",
-      "timecapsulereception@northlan.gov.uk"
-    ],
-    "description": "The Time Capsule in Coatbridge offers swimming experience, ice skating and gym facilities. Swim with the tornado experience",
-    "services": [
-      "Soft Play"
     ]
   },
   {
@@ -3398,23 +1886,6 @@
     ]
   },
   {
-    "name": "Baillies Events",
-    "address": "15 Charleston Square, Paisley, PA2 6EX, GB",
-    "phone": "07943 751125",
-    "international_phone": "07943 751125",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Baillies+Events/data=!4m7!3m6!1s0x4888497a6f91026f:0x3e47d83285a5cf08!8m2!3d55.8323732!4d-4.4214811!16s%2Fg%2F11gjhkr05b!19sChIJbwKRb3pJiEgRCM-lhTLYRz4?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Event Planning Service",
-    "lat": 55.832373,
-    "lng": -4.421481,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
     "name": "The Bouncy Castle Man",
     "address": "Thistle Industrial Estate, 4c Church St, Cowdenbeath, KY4 8LP, GB",
     "phone": "07513 593073",
@@ -3535,28 +2006,6 @@
     ]
   },
   {
-    "name": "Henderson Gray Marquee Hire",
-    "address": "12c Kilspindie Rd, Dundee, DD2 3JP, GB",
-    "phone": "01250 884722",
-    "international_phone": "01250 884722",
-    "website": "http://www.hendersongray.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Henderson+Gray+Marquee+Hire/data=!4m7!3m6!1s0x488616e5fe1a24eb:0xa840ba193da630e7!8m2!3d56.4788632!4d-3.0136473!16s%2Fg%2F1tfny4qy!19sChIJ6yQa_uUWhkgR5zCmPRm6QKg?authuser=0&hl=en&rclk=1",
-    "rating": 3.8,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Marquee hire service",
-    "lat": 56.478863,
-    "lng": -3.013647,
-    "found_in_location": "Dundee",
-    "found_with_query": "bouncy scotland",
-    "email": "info@hendersongray.co.uk",
-    "emails": [
-      "info@hendersongray.co.uk"
-    ],
-    "description": "Henderson Gray Marquee Hire specialise in the supply of modern, high quality clear-span frame marquees that can be used with full confidence all year round."
-  },
-  {
     "name": "Innoflate Inverness",
     "address": "FRJC+W9 Inverness Retail Park Eastfield Way, Inverness, Inverness, IV2 7GD, GB",
     "phone": "01463 214777",
@@ -3630,20 +2079,71 @@
     ]
   },
   {
-    "name": "Dundee Fun",
-    "address": "34 Fintry Gardens, Dundee, DD4 9EE, GB",
-    "phone": "07731 004569",
-    "international_phone": "07731 004569",
+    "name": "Anns Bouncy Castles Dundee Ltd",
+    "address": "Harestane House, 88 Harestane Rd, Dundee, DD3 0LH, GB",
+    "phone": "01382 826276",
+    "international_phone": "01382 826276",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Dundee+Fun/data=!4m7!3m6!1s0x48865da98d5b83d3:0x19b85372220029d7!8m2!3d56.4882853!4d-2.9443359!16s%2Fg%2F1tdbkkgd!19sChIJ04NbjaldhkgR1ykAInJTuBk?authuser=0&hl=en&rclk=1",
-    "rating": 2.3,
-    "total_reviews": 3,
+    "google_maps_url": "https://www.google.com/maps/place/Anns+Bouncy+Castles+Dundee+Ltd/data=!4m7!3m6!1s0x48865d3a721869cd:0x960744bf66008ba!8m2!3d56.4953401!4d-2.98653!16s%2Fg%2F1tddrs8g!19sChIJzWkYcjpdhkgRughg9kt0YAk?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"Closed\"]}",
-    "types": "Company",
-    "lat": 56.488285,
-    "lng": -2.944336,
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Bouncy castle hire",
+    "lat": 56.49534,
+    "lng": -2.98653,
     "found_in_location": "Dundee",
+    "found_with_query": "bouncy scotland"
+  },
+  {
+    "name": "Bouncy Castles Dunoon",
+    "address": "Nirvana, Paisley, PA2 7BJ, GB",
+    "phone": "07950 599582",
+    "international_phone": "07950 599582",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bouncy+Castles+Dunoon/data=!4m7!3m6!1s0x488848e07370809b:0x2f1d28c2ff161ffb!8m2!3d55.8348948!4d-4.3933084!16s%2Fg%2F11g_43zzc!19sChIJm4Bwc-BIiEgR-x8W_8IoHS8?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Party equipment rental service",
+    "lat": 55.834895,
+    "lng": -4.393308,
+    "found_in_location": "Paisley",
+    "found_with_query": "bouncy scotland"
+  },
+  {
+    "name": "Bouncy Castles Glasgow",
+    "address": "Carnwadric Rd, Glasgow, G46 8HH, GB",
+    "phone": "07552 021945",
+    "international_phone": "07552 021945",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Bouncy+Castles+Glasgow/data=!4m7!3m6!1s0x488847bcf0acd587:0xd1bc3fd7477e843f!8m2!3d55.8117926!4d-4.3274036!16s%2Fg%2F11s8h1shfy!19sChIJh9Ws8LxHiEgRP4R-R9c_vNE?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Bouncy castle hire",
+    "lat": 55.811793,
+    "lng": -4.327404,
+    "found_in_location": "Glasgow",
+    "found_with_query": "bouncy scotland"
+  },
+  {
+    "name": "Castle capers Inverness",
+    "address": "95 morvich way, Inverness IV24PJ, 95 Morvich Way, Inverness, IV2 4PJ, GB",
+    "phone": "07795 371759",
+    "international_phone": "07795 371759",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Castle+capers+Inverness/data=!4m7!3m6!1s0x488f716a6febf167:0x167a7e05ca4d0340!8m2!3d57.4596968!4d-4.2099191!16s%2Fg%2F11ghn3x0yq!19sChIJZ_Hrb2pxj0gRQANNygV-ehY?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Bouncy castle hire",
+    "lat": 57.459697,
+    "lng": -4.209919,
+    "found_in_location": "Inverness",
     "found_with_query": "bouncy scotland"
   },
   {
@@ -3661,23 +2161,6 @@
     "lat": 55.848236,
     "lng": -4.439213,
     "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Anns Bouncy Castles Dundee Ltd",
-    "address": "Harestane House, 88 Harestane Rd, Dundee, DD3 0LH, GB",
-    "phone": "01382 826276",
-    "international_phone": "01382 826276",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Anns+Bouncy+Castles+Dundee+Ltd/data=!4m7!3m6!1s0x48865d3a721869cd:0x960744bf66008ba!8m2!3d56.4953401!4d-2.98653!16s%2Fg%2F1tddrs8g!19sChIJzWkYcjpdhkgRughg9kt0YAk?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Bouncy castle hire",
-    "lat": 56.49534,
-    "lng": -2.98653,
-    "found_in_location": "Dundee",
     "found_with_query": "bouncy scotland"
   },
   {
@@ -3703,23 +2186,6 @@
     "services": [
       "Bouncy Castles"
     ]
-  },
-  {
-    "name": "Bouncy Castles Glasgow",
-    "address": "Carnwadric Rd, Glasgow, G46 8HH, GB",
-    "phone": "07552 021945",
-    "international_phone": "07552 021945",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Bouncy+Castles+Glasgow/data=!4m7!3m6!1s0x488847bcf0acd587:0xd1bc3fd7477e843f!8m2!3d55.8117926!4d-4.3274036!16s%2Fg%2F11s8h1shfy!19sChIJh9Ws8LxHiEgRP4R-R9c_vNE?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Bouncy castle hire",
-    "lat": 55.811793,
-    "lng": -4.327404,
-    "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
   },
   {
     "name": "King of My Castle",
@@ -3753,85 +2219,6 @@
     "lat": 55.824872,
     "lng": -4.270258,
     "found_in_location": "Glasgow",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Castle capers Inverness",
-    "address": "95 morvich way, Inverness IV24PJ, 95 Morvich Way, Inverness, IV2 4PJ, GB",
-    "phone": "07795 371759",
-    "international_phone": "07795 371759",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Castle+capers+Inverness/data=!4m7!3m6!1s0x488f716a6febf167:0x167a7e05ca4d0340!8m2!3d57.4596968!4d-4.2099191!16s%2Fg%2F11ghn3x0yq!19sChIJZ_Hrb2pxj0gRQANNygV-ehY?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bouncy castle hire",
-    "lat": 57.459697,
-    "lng": -4.209919,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Bouncy Castles Dunoon",
-    "address": "Nirvana, Paisley, PA2 7BJ, GB",
-    "phone": "07950 599582",
-    "international_phone": "07950 599582",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Bouncy+Castles+Dunoon/data=!4m7!3m6!1s0x488848e07370809b:0x2f1d28c2ff161ffb!8m2!3d55.8348948!4d-4.3933084!16s%2Fg%2F11g_43zzc!19sChIJm4Bwc-BIiEgR-x8W_8IoHS8?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Party equipment rental service",
-    "lat": 55.834895,
-    "lng": -4.393308,
-    "found_in_location": "Paisley",
-    "found_with_query": "bouncy scotland"
-  },
-  {
-    "name": "Instant Images Alness",
-    "address": "9novar road, Alness, IV17 0QQ, GB",
-    "phone": "07517 490496",
-    "international_phone": "07517 490496",
-    "website": "https://www.iialness.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Instant+Images+Alness/data=!4m7!3m6!1s0x488f9b8eb7c67e5d:0x4425359552650f26!8m2!3d57.6957614!4d-4.2605612!16s%2Fg%2F11w4dpnb70!19sChIJXX7Gt46bj0gRJg9lUpU1JUQ?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Party equipment rental service",
-    "lat": 57.695761,
-    "lng": -4.260561,
-    "found_in_location": "Inverness",
-    "found_with_query": "bouncy scotland",
-    "email": "info@iialness.co.uk",
-    "emails": [
-      "info@iialness.co.uk"
-    ],
-    "description": "Inverness Alness Dingwall Invergordon Tainhighland castle entertainment mascot madnes entertainment",
-    "services": [
-      "Bouncy Castles",
-      "Photo Booth",
-      "Popcorn & Candy Floss",
-      "Rodeo Bull"
-    ]
-  },
-  {
-    "name": "Ease Event Solutions",
-    "address": "Unit 8a, 3 Carsegate Rd, Inverness, IV3 8DU, GB",
-    "phone": "01463 830389",
-    "international_phone": "01463 830389",
-    "website": "http://www.easeevents.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Ease+Event+Solutions/data=!4m7!3m6!1s0x488f75dacf40c7f9:0xac26a7cfa893fece!8m2!3d57.4873917!4d-4.2445245!16s%2Fg%2F11p9pc80lr!19sChIJ-cdAz9p1j0gRzv6TqM-nJqw?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Event technology service",
-    "lat": 57.487392,
-    "lng": -4.244524,
-    "found_in_location": "Inverness",
     "found_with_query": "bouncy scotland"
   }
 ]

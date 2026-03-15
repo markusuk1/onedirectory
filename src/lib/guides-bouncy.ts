@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Bouncy Castle Hire Guide for ${r.mainCity} & ${r.theName}`,
       intro: `Bouncy castles are a staple of children's parties, school fetes and family events across ${r.theName}. This guide covers everything you need to know about hiring a bouncy castle in ${r.theName}, including typical prices, safety considerations and how to choose the right inflatable for your event.`,
       sections: [
+        ...(r.insights?.bouncy ? [{
+          heading: `Bouncy Castle Hire in ${r.theName}: Local Market Insights`,
+          content: r.insights.bouncy,
+        }] : []),
         {
           heading: `How Much Does Bouncy Castle Hire Cost in ${r.theName}?`,
           content: `Bouncy castle hire prices in ${r.theName} typically range from £60-£90 for a standard children's castle for a full day. Larger castles and themed inflatables cost £80-£150. Specialist items like assault courses, disco domes and gladiator duels usually cost £120-£200 for a day hire. Most companies in ${r.areas} include delivery, setup and collection in their price. Weekend bookings tend to cost more than midweek, and prices may be higher during peak season from May to September.`,

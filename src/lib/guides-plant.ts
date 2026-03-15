@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Plant Hire Guide for ${r.mainCity} & ${r.theName}`,
       intro: `Whether you are a builder, landscaper or homeowner tackling a big project, hiring the right plant equipment saves time and money. This guide covers plant hire options across ${r.theName}, including prices, equipment types and what to look for in a hire company.`,
       sections: [
+        ...(r.insights?.plant ? [{
+          heading: `Plant Hire in ${r.theName}: Local Market Insights`,
+          content: r.insights.plant,
+        }] : []),
         {
           heading: `Plant Hire Prices in ${r.theName}`,
           content: `Plant hire prices in ${r.theName} vary by equipment type and hire duration. A micro digger (under 1 tonne) typically costs £80-£120 per day or £300-£450 per week. A mini digger (1.5-3 tonnes) costs £120-£180 per day or £450-£700 per week. Full-size excavators (8-14 tonnes) cost £250-£400 per day. Dumpers range from £60-£150 per day depending on size. Cherry pickers and access platforms cost £100-£250 per day. Most companies in ${r.areas} offer discounted weekly and monthly rates. Delivery and collection charges apply and are typically £50-£150 each way depending on distance.`,

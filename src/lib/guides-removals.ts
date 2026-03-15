@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `House Removals Guide for ${r.mainCity} & ${r.theName}`,
       intro: `Moving house is one of the most stressful events in life, but choosing the right removal company makes a huge difference. This guide covers everything you need to know about house removals in ${r.theName}, including typical costs, what to look for in a mover, and how to prepare for moving day.`,
       sections: [
+        ...(r.insights?.removals ? [{
+          heading: `Removals in ${r.theName}: Local Market Insights`,
+          content: r.insights.removals,
+        }] : []),
         {
           heading: `How Much Do House Removals Cost in ${r.theName}?`,
           content: `The cost of a house move in ${r.theName} depends on the size of your property, the distance you are moving, and the services you need. A one-bedroom flat move within the same city typically costs £300-£500. A two to three bedroom house move locally costs £500-£900. Larger properties with four or more bedrooms usually cost £800-£1,500 for a local move. Long-distance moves across the UK add significantly to the cost. Most removal companies in ${r.areas} offer free surveys and quotes, so always get at least three estimates before booking.`,

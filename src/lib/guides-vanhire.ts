@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Luton Van Hire in ${r.mainCity} & ${r.theName}`,
       intro: `Moving house or shifting a large load in ${r.mainCity}? A Luton van is the go-to choice for house moves, furniture deliveries and bulky items. We list trusted van hire companies across ${r.theName} so you can compare prices and book with confidence.`,
       sections: [
+        ...(r.insights?.vanHire ? [{
+          heading: `Van Hire in ${r.theName}: Local Market Insights`,
+          content: r.insights.vanHire,
+        }] : []),
         {
           heading: "What Is a Luton Van?",
           content: `A Luton van is a large box-body vehicle with an enclosed cargo area that sits over the cab, giving extra loading space. They typically offer 12-15 cubic metres of cargo space, enough for the contents of a 1-2 bedroom flat. Most Luton vans come with a tail lift for easy loading of heavy items like washing machines, sofas and wardrobes. They can be driven on a standard UK car licence (Category B) as long as the gross vehicle weight is under 3.5 tonnes.`,

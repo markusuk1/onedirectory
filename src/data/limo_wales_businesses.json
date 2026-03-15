@@ -1,49 +1,5 @@
 [
   {
-    "name": "Gaming Squad Gaming Vans",
-    "address": "Gaming Squad House, Barry, CF63 4DG, GB",
-    "phone": "01446 327111",
-    "international_phone": "01446 327111",
-    "website": "https://gamingsquad.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gaming+Squad+Gaming+Vans/data=!4m7!3m6!1s0x486e0542c2c02161:0xc0056f1d426616e!8m2!3d51.4004838!4d-3.2711699!16s%2Fg%2F11f66rnv4h!19sChIJYSHAwkIFbkgRbmEm1PFWAAw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 148,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Children's party service",
-    "lat": 51.400484,
-    "lng": -3.27117,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "partytime@gamingsquad.co.uk",
-    "emails": [
-      "partytime@gamingsquad.co.uk"
-    ],
-    "description": "Our gaming vans are packed with 4K TVs, HD surround sound and the best in console gaming technology. We deliver multiplayer gaming to your doorstep."
-  },
-  {
-    "name": "J&K TRAVEL LTD",
-    "address": "34 Clarendon Rd, Wallasey, CH44 8EL, GB",
-    "phone": "07709 071710",
-    "international_phone": "07709 071710",
-    "website": "http://jktravelwirral.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/J%26K+TRAVEL+LTD/data=!4m7!3m6!1s0x487b268a075c3019:0x8e3e9c8a84edecf9!8m2!3d53.4162591!4d-3.0272447!16s%2Fg%2F11gfn9yk6w!19sChIJGTBcB4ome0gR-ezthIqcPo4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 137,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 53.416259,
-    "lng": -3.027245,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales",
-    "email": "hello@jktravelwirral.co.uk",
-    "emails": [
-      "hello@jktravelwirral.co.uk"
-    ],
-    "description": "J&K Travel are a family business committed to providing a friendly, customer-focused transport service throughout the Wirral and North West."
-  },
-  {
     "name": "American Car Weddings",
     "address": "Edge Hill, Tavern Y Coed, Cardiff, Tonteg, Pontypridd, CF38 1LH, GB",
     "phone": "07759 724226",
@@ -71,100 +27,6 @@
     ]
   },
   {
-    "name": "Bolers Travel Services Ltd",
-    "address": "Barley-Fields Industrial Estate, Nantyglo, Ebbw Vale, NP23 4YF, GB",
-    "phone": "07493 811172",
-    "international_phone": "07493 811172",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Bolers+Travel+Services+Ltd/data=!4m7!3m6!1s0x486e26ee32f04065:0x7471747069b9859b!8m2!3d51.7934724!4d-3.1715475!16s%2Fg%2F11dz26tbd3!19sChIJZUDwMu4mbkgRm4W5aXB0cXQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 59,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–3 pm\"],\"Monday\":[\"9 am–3 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–3 pm\"],\"Tuesday\":[\"9 am–3 pm\"],\"Wednesday\":[\"9 am–3 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.793472,
-    "lng": -3.171547,
-    "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "CAB X",
-    "address": "5 Caxton Pl, Bridge St, Baneswell, Newport, NP20 4BN, GB",
-    "phone": "01633 500500",
-    "international_phone": "01633 500500",
-    "website": "https://cabx.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/CAB+X/data=!4m7!3m6!1s0x81c887cb9ccf9b7:0x64a818c5af571681!8m2!3d51.587331!4d-2.9997762!16s%2Fg%2F11mrzg2nfh!19sChIJt_nMuXyIHAgRgRZXr8UYqGQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 46,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.587331,
-    "lng": -2.999776,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales",
-    "email": "info@cabx.uk",
-    "emails": [
-      "info@cabx.uk"
-    ],
-    "description": "Cab X Taxis Newport Local Reliable & Professional Taxi firm Servicing South Wales & Newport area 24/7 365 days",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
-    "name": "J&L Elite Travel Ltd",
-    "address": "Bridge Rd, Wrexham, LL13 9SQ, GB",
-    "phone": "07999 010609",
-    "international_phone": "07999 010609",
-    "website": "https://www.jandlelitetravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/J%26L+Elite+Travel+Ltd/data=!4m7!3m6!1s0xadb43f5a3d1db323:0x2d21d3b672fe22f7!8m2!3d53.0323183!4d-2.9363989!16s%2Fg%2F11wjdz4tf_!19sChIJI7MdPVo_tK0R9yL-crbTIS0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 39,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 53.032318,
-    "lng": -2.936399,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales",
-    "email": "enquiries@jandlelitetravel.co.uk",
-    "emails": [
-      "enquiries@jandlelitetravel.co.uk"
-    ],
-    "description": "Call 07799 768872 J&L Elite Travel offers a luxurious and personalised premium car service in Wrexham. We specialise in seamless VIP transportation tailored for both business and leisure to airports, city breaks and special occasions.",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "Cardiff Diamond Transport",
-    "address": "31 Appledore Rd, Cardiff, CF14 3HU, GB",
-    "phone": "07590 848852",
-    "international_phone": "07590 848852",
-    "website": "https://cardiffdiamondtransport.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Cardiff+Diamond+Transport/data=!4m7!3m6!1s0x486e1bbdacb5f8b5:0xdc2143576a878f0!8m2!3d51.5043569!4d-3.2020918!16s%2Fg%2F11mdhzs7c1!19sChIJtfi1rL0bbkgR8HiodjUUwg0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 39,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.504357,
-    "lng": -3.202092,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "info@cardiffdiamondtransport.com",
-    "emails": [
-      "info@cardiffdiamondtransport.com",
-      "sample@mail.com"
-    ],
-    "description": "Book Your Ride Address Pickup We always pick up our clients on time, 24/7 availability. Airport Pickup GetCab specialized in 24 hours airport transfer service. Long Distance We offer you a long distance taxi service to anywhere. Transport Hire Professional transport hire services tailored to...",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Ebony & Ivory Wedding Cars Ltd",
     "address": "3 Mountjoy Pl, Penarth, CF64 2TB, GB",
     "phone": "",
@@ -188,23 +50,6 @@
     "services": [
       "Wedding Car"
     ]
-  },
-  {
-    "name": "Morgan’s Minibus and airport shuttle service",
-    "address": "Load of Hay Rd, Newbridge, Newport, NP11 3AQ, GB",
-    "phone": "07500 375935",
-    "international_phone": "07500 375935",
-    "website": "http://morgansminibus.com/?utm_source=gmb&utm_medium=referral",
-    "google_maps_url": "https://www.google.com/maps/place/Morgan%E2%80%99s+Minibus+and+airport+shuttle+service/data=!4m7!3m6!1s0x486e218e67765157:0x40f631e599b3da2f!8m2!3d51.6843406!4d-3.1488397!16s%2Fg%2F11fmtjcw44!19sChIJV1F2Z44hbkgRL9qzmeUx9kA?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 51.684341,
-    "lng": -3.14884,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales"
   },
   {
     "name": "Angels Wedding Cars NI",
@@ -277,31 +122,6 @@
     "found_with_query": "limo wales"
   },
   {
-    "name": "MH Travel North Wales",
-    "address": "Butchers Market, High St, Wrexham, LL13 8HY, GB",
-    "phone": "01978 534280",
-    "international_phone": "01978 534280",
-    "website": "https://www.mhtravelnorthwales.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1450023104214124369",
-    "google_maps_url": "https://www.google.com/maps/place/MH+Travel+North+Wales/data=!4m7!3m6!1s0x4643f0cdd06ee915:0xc1e2b2d0e3b46704!8m2!3d53.0453819!4d-2.9922941!16s%2Fg%2F11vc040k96!19sChIJFelu0M3wQ0YRBGe049Cy4sE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 53.045382,
-    "lng": -2.992294,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales",
-    "email": "contact.mhtravel@gmail.com",
-    "emails": [
-      "contact.mhtravel@gmail.com"
-    ],
-    "description": "MH Travel North Wales specialises in coach hire, day trips and tours, as well as airport transfers and corporate hospitality.",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Happy Days Cars",
     "address": "26 Second Ave, Caerphilly, CF83 2SN, GB",
     "phone": "07853 145966",
@@ -349,23 +169,6 @@
     ]
   },
   {
-    "name": "Chris’s Luxury Travel",
-    "address": "3 Haig Rd, Wrexham, LL13 7BU, GB",
-    "phone": "0800 118 2452",
-    "international_phone": "0800 118 2452",
-    "website": "http://www.chrisluxurytravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Chris%E2%80%99s+Luxury+Travel/data=!4m7!3m6!1s0x487ac71765e70d3b:0xf83974d9006bae92!8m2!3d53.0401535!4d-2.9880478!16s%2Fg%2F1thmkjht!19sChIJOw3nZRfHekgRkq5rANl0Ofg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 53.040153,
-    "lng": -2.988048,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "VW Weddings Wales",
     "address": "Pontygwindy Rd, Caerphilly, CF83 3AB, GB",
     "phone": "",
@@ -391,23 +194,6 @@
     ]
   },
   {
-    "name": "Thomas Coaches Ltd",
-    "address": "Plot 10, Ogmore Vale, Bridgend, CF32 7AX, GB",
-    "phone": "01656 769889",
-    "international_phone": "01656 769889",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Thomas+Coaches+Ltd/data=!4m7!3m6!1s0x486e6b34228e62af:0x12f5b57e476382ee!8m2!3d51.6077178!4d-3.5415745!16s%2Fg%2F11rd1jy5zp!19sChIJr2KOIjRrbkgR7oJjR3619RI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.607718,
-    "lng": -3.541574,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "My Day Wedding Cars",
     "address": "9 Shirley Dr, Heolgerrig, Merthyr Tydfil, CF48 1SE, GB",
     "phone": "07780 814791",
@@ -424,64 +210,6 @@
     "found_in_location": "Merthyr Tydfil",
     "found_with_query": "limo wales",
     "description": "We're ensuring your connection is secure and authentic. This process typically takes just a few moments."
-  },
-  {
-    "name": "Meirion Williams & Son",
-    "address": "Cae Rodyn, Pantllyn Terrace, Pantllyn, Llandybie, Ammanford, SA18 3JU, GB",
-    "phone": "01269 832389",
-    "international_phone": "01269 832389",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Meirion+Williams+%26+Son/data=!4m7!3m6!1s0x486ef973b5dc646b:0xd3110626b01f0d10!8m2!3d51.8333045!4d-4.0298453!16s%2Fg%2F1tfch5xq!19sChIJa2TctXP5bkgREA0fsCYGEdM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Trucking company",
-    "lat": 51.833304,
-    "lng": -4.029845,
-    "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "South Wales Wedding Cars",
-    "address": "54 Snowdon Ct, Cwmbran, NP44 2JB, GB",
-    "phone": "07715 583822",
-    "international_phone": "07715 583822",
-    "website": "https://southwalesweddingcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/South+Wales+Wedding+Cars/data=!4m7!3m6!1s0x4871dde1e830b8e3:0x84db7547f21206e9!8m2!3d51.6619259!4d-3.0128061!16s%2Fg%2F1hc1g8gbm!19sChIJ47gw6OHdcUgR6QYS8kd124Q?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Wedding service",
-    "lat": 51.661926,
-    "lng": -3.012806,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales",
-    "description": "We specialise in providing Classic Rolls Royce and Daimler Limousine for your Wedding Day in Newport, Cardiff, Swansea in South Wales. Tel: 077 155 83822.",
-    "services": [
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Arrive In Style",
-    "address": "46 Maesteg Rd, Tondu, Bridgend, CF32 9BT, GB",
-    "phone": "01656 723869",
-    "international_phone": "01656 723869",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Arrive+In+Style/data=!4m7!3m6!1s0x486e6bf8cca13115:0x753ee43796da2fe!8m2!3d51.5450026!4d-3.5978662!16s%2Fg%2F1trxjq7g!19sChIJFTGhzPhrbkgR_qJteUPuUwc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.545003,
-    "lng": -3.597866,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
   },
   {
     "name": "ABC Executive Travel (Chauffeur Service)",
@@ -511,6 +239,23 @@
     ]
   },
   {
+    "name": "Arrive In Style",
+    "address": "46 Maesteg Rd, Tondu, Bridgend, CF32 9BT, GB",
+    "phone": "01656 723869",
+    "international_phone": "01656 723869",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Arrive+In+Style/data=!4m7!3m6!1s0x486e6bf8cca13115:0x753ee43796da2fe!8m2!3d51.5450026!4d-3.5978662!16s%2Fg%2F1trxjq7g!19sChIJFTGhzPhrbkgR_qJteUPuUwc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.545003,
+    "lng": -3.597866,
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales"
+  },
+  {
     "name": "Bay Executive Wedding and Airport Travel",
     "address": "11 St Helen's Rd, Swansea, SA1 4AW, GB",
     "phone": "07956 431961",
@@ -526,6 +271,30 @@
     "lng": -3.951086,
     "found_in_location": "Swansea",
     "found_with_query": "limo wales"
+  },
+  {
+    "name": "South Wales Wedding Cars",
+    "address": "54 Snowdon Ct, Cwmbran, NP44 2JB, GB",
+    "phone": "07715 583822",
+    "international_phone": "07715 583822",
+    "website": "https://southwalesweddingcars.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/South+Wales+Wedding+Cars/data=!4m7!3m6!1s0x4871dde1e830b8e3:0x84db7547f21206e9!8m2!3d51.6619259!4d-3.0128061!16s%2Fg%2F1hc1g8gbm!19sChIJ47gw6OHdcUgR6QYS8kd124Q?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Wedding service",
+    "lat": 51.661926,
+    "lng": -3.012806,
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales",
+    "description": "We specialise in providing Classic Rolls Royce and Daimler Limousine for your Wedding Day in Newport, Cardiff, Swansea in South Wales. Tel: 077 155 83822.",
+    "services": [
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
   },
   {
     "name": "Executive Cars Wales Ltd",
@@ -554,40 +323,6 @@
     ]
   },
   {
-    "name": "M J N Travel",
-    "address": "8 Greenwood Pl, Portmead, Swansea, SA5 5HQ, GB",
-    "phone": "01792 586712",
-    "international_phone": "01792 586712",
-    "website": "http://www.mjntravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/M+J+N+Travel/data=!4m7!3m6!1s0x486ef4fbfc7948f1:0xcc4814476f421ab0!8m2!3d51.6540747!4d-3.9838087!16s%2Fg%2F11b6jkhqxm!19sChIJ8Uh5_Pv0bkgRsBpCb0cUSMw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"9 am–9 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.654075,
-    "lng": -3.983809,
-    "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "Denway Travel",
-    "address": "10 Y Llest, Pen-y-fai, Bridgend, CF31 4NA, GB",
-    "phone": "01656 725266",
-    "international_phone": "01656 725266",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Denway+Travel/data=!4m7!3m6!1s0x486e6c1eb3155b8d:0x7360adbac79a849!8m2!3d51.527508!4d-3.59533!16s%2Fg%2F1q66wnmpv!19sChIJjVsVsx5sbkgRSah5rNsKNgc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"12:01 am–11:59 pm\"],\"Monday\":[\"12:01 am–11:59 pm\"],\"Saturday\":[\"12:01 am–11:59 pm\"],\"Sunday\":[\"12:01 am–11:59 pm\"],\"Thursday\":[\"12:01 am–11:59 pm\"],\"Tuesday\":[\"12:01 am–11:59 pm\"],\"Wednesday\":[\"12:01 am–11:59 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.527508,
-    "lng": -3.59533,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "M L Executive Chauffeur Services",
     "address": "83 Ynysddu, Pontyclun, CF72 9UB, GB",
     "phone": "07572 015249",
@@ -614,6 +349,40 @@
     ]
   },
   {
+    "name": "1st Class Weddings",
+    "address": "45 Waun Bant Road, Kenfig Hill, Bridgend, CF33 6DE, GB",
+    "phone": "07884 314818",
+    "international_phone": "07884 314818",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/1st+Class+Weddings/data=!4m7!3m6!1s0x486e6f480a6c0efd:0xf438dbbaf42d0ecb!8m2!3d51.5307209!4d-3.6775358!16s%2Fg%2F1jkvz5b3f!19sChIJ_Q5sCkhvbkgRyw4t9LrbOPQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
+    "types": "Wedding service",
+    "lat": 51.530721,
+    "lng": -3.677536,
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales"
+  },
+  {
+    "name": "Castell Coaches",
+    "address": "9, Trecenydd Business Park, Caerphilly, CF83 2RZ, GB",
+    "phone": "029 2086 1863",
+    "international_phone": "029 2086 1863",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Castell+Coaches/data=!4m7!3m6!1s0x486e19151e7d0d85:0x1f315b2394d594ab!8m2!3d51.5773963!4d-3.2333756!16s%2Fg%2F11c3tj9yn4!19sChIJhQ19HhUZbkgRq5TVlCNbMR8?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.577396,
+    "lng": -3.233376,
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales"
+  },
+  {
     "name": "DrivenByQ Chauffeur for Business Travel",
     "address": "St. Andrews House, Yale Business Village, Ellice Way, Wrexham, LL13 7YP, GB",
     "phone": "01978 846678",
@@ -634,40 +403,6 @@
       "Airport Transfer",
       "Chauffeur Service"
     ]
-  },
-  {
-    "name": "Castell Coaches",
-    "address": "9, Trecenydd Business Park, Caerphilly, CF83 2RZ, GB",
-    "phone": "029 2086 1863",
-    "international_phone": "029 2086 1863",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Castell+Coaches/data=!4m7!3m6!1s0x486e19151e7d0d85:0x1f315b2394d594ab!8m2!3d51.5773963!4d-3.2333756!16s%2Fg%2F11c3tj9yn4!19sChIJhQ19HhUZbkgRq5TVlCNbMR8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.577396,
-    "lng": -3.233376,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "1st Class Weddings",
-    "address": "45 Waun Bant Road, Kenfig Hill, Bridgend, CF33 6DE, GB",
-    "phone": "07884 314818",
-    "international_phone": "07884 314818",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/1st+Class+Weddings/data=!4m7!3m6!1s0x486e6f480a6c0efd:0xf438dbbaf42d0ecb!8m2!3d51.5307209!4d-3.6775358!16s%2Fg%2F1jkvz5b3f!19sChIJ_Q5sCkhvbkgRyw4t9LrbOPQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
-    "types": "Wedding service",
-    "lat": 51.530721,
-    "lng": -3.677536,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales"
   },
   {
     "name": "Prestige Chauffeurs Cardiff Ltd (Chauffeur Service )",
@@ -752,31 +487,6 @@
     ]
   },
   {
-    "name": "Gwyn Jones & Son Ltd",
-    "address": "Whitecroft Garage, Bryncethin, CF32 9YR, GB",
-    "phone": "01656 720300",
-    "international_phone": "01656 720300",
-    "website": "http://www.gwynjonescoaches.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gwyn+Jones+%26+Son+Ltd/data=!4m7!3m6!1s0x486e6b88298d0a0b:0x5493e1754cf3b23e!8m2!3d51.545106!4d-3.568675!16s%2Fg%2F1td7smg9!19sChIJCwqNKYhrbkgRPrLzTHXhk1Q?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 20,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus company",
-    "lat": 51.545106,
-    "lng": -3.568675,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "admin@gwynjonescoaches.wales",
-    "emails": [
-      "admin@gwynjonescoaches.wales"
-    ],
-    "description": "Coach Hire Directory, Coach, MiniBus, Excursions, Private Hire, UK",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Big Day Wedding Cars",
     "address": "Unit 3 Blackwood Rd, Pontllanfraith, Blackwood, NP12 2BW, GB",
     "phone": "07452 865414",
@@ -803,23 +513,6 @@
     ]
   },
   {
-    "name": "Truck & Bus Services",
-    "address": "Unit 4, F. Lloyd (Penley) Ltd, Bridge Rd S, Wrexham, LL13 9SQ, GB",
-    "phone": "01978 855506",
-    "international_phone": "01978 855506",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Truck+%26+Bus+Services/data=!4m7!3m6!1s0x487ac41e539a9be5:0x6c6c5d1af7106c83!8m2!3d53.030738!4d-2.9369441!16s%2Fg%2F1tdvzf4t!19sChIJ5ZuaUx7EekgRg2wQ9xpdbGw?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Truck repair shop",
-    "lat": 53.030738,
-    "lng": -2.936944,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "Glyn's Wedding Cars",
     "address": "rose cottage, Mynydd Cerrig, Llanelli, SA15 5BD, GB",
     "phone": "07970 038531",
@@ -835,28 +528,6 @@
     "lng": -4.158193,
     "found_in_location": "Swansea",
     "found_with_query": "limo wales"
-  },
-  {
-    "name": "Lakeside Venue",
-    "address": "Glyn Ogwr, Blackmill, Bridgend, CF35 6EN, GB",
-    "phone": "01443 674840",
-    "international_phone": "01443 674840",
-    "website": "http://lakesidevenue.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Lakeside+Venue/data=!4m7!3m6!1s0x486e6cf95f49c877:0x5e32c0900d4f0174!8m2!3d51.582344!4d-3.48022!16s%2Fg%2F12hrygk2w!19sChIJd8hJX_lsbkgRdAFPDZDAMl4?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 204,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"10 am–6 pm\"],\"Saturday\":[\"10 am–6 pm\"],\"Sunday\":[\"10 am–6 pm\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"10 am–6 pm\"],\"Wednesday\":[\"10 am–6 pm\"]}",
-    "types": "Wedding venue",
-    "lat": 51.582344,
-    "lng": -3.48022,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "lakesidevenue@gmail.com",
-    "emails": [
-      "lakesidevenue@gmail.com"
-    ],
-    "description": "Wedding venue, corporate functions and events set alongside a beautiful lake and rolling countryside."
   },
   {
     "name": "Wrexham Chauffeurs Ltd",
@@ -904,31 +575,6 @@
     "found_with_query": "limo wales"
   },
   {
-    "name": "Twisted Hen & Stag Parties",
-    "address": "Cardiff, CF10, GB",
-    "phone": "07450 891479",
-    "international_phone": "07450 891479",
-    "website": "https://www.epicmoments.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Twisted+Hen+%26+Stag+Parties/data=!4m7!3m6!1s0x486e1cccf289d54f:0x3c918cdf176fe2b!8m2!3d51.4697688!4d-3.1649216!16s%2Fg%2F1thx80sx!19sChIJT9WJ8swcbkgRK_528c0YyQM?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 20,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Entertainment agency",
-    "lat": 51.469769,
-    "lng": -3.164922,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "epicmoments.uk@gmail.com",
-    "emails": [
-      "epicmoments.uk@gmail.com"
-    ],
-    "description": "Book professional hen and stag party entertainment across the UK. Strippers, buff butlers, dance parties and more delivered to your venue or home.",
-    "services": [
-      "Party Bus"
-    ]
-  },
-  {
     "name": "Dubs Travels",
     "address": "Cragside Cl, Saint Mellons, Cardiff, CF3 0HU, GB",
     "phone": "07793 129328",
@@ -951,6 +597,32 @@
     "description": "Discover Cardiff in comfort with Dubs Travels – your premier choice for mini-bus hire and chauffeur services. Explore the Welsh capital hassle-free, whether it's for a group outing or corporate event. Book now for a seamless travel experience.",
     "services": [
       "Airport Transfer",
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Prices Wedding Cars",
+    "address": "Unit B1, Fram Enterprise Centre Edwards Business Park, Ynysmaerdy, Pontyclun, CF72 8YU, GB",
+    "phone": "01443 201940",
+    "international_phone": "01443 201940",
+    "website": "http://www.pricesweddingcars.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Prices+Wedding+Cars/data=!4m7!3m6!1s0x486e1732f9192f3b:0x9de42743f6b8bcf2!8m2!3d51.5522113!4d-3.3908489!16s%2Fg%2F1hc1_w639!19sChIJOy8Z-TIXbkgR8ry49kMn5J0?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 16,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"10:30 am–4:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10:30 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30 am–3 pm\"],\"Tuesday\":[\"10:30 am–7 pm\"],\"Wednesday\":[\"10:30 am–3 pm\"]}",
+    "types": "Limousine service",
+    "lat": 51.552211,
+    "lng": -3.390849,
+    "found_in_location": "Bridgend",
+    "found_with_query": "limo wales",
+    "email": "info@pricesweddingcars.co.uk",
+    "emails": [
+      "info@pricesweddingcars.co.uk"
+    ],
+    "description": "If you’re looking for something exceptional to complete your wedding day plans, then Prices’ Wedding car hire will provide the perfect showpiece. Our wedding car hire showroom is at the epicentre of some of the finest wedding venues in South Wales.",
+    "services": [
       "Chauffeur Service",
       "Wedding Car"
     ]
@@ -981,88 +653,6 @@
     ]
   },
   {
-    "name": "Prices Wedding Cars",
-    "address": "Unit B1, Fram Enterprise Centre Edwards Business Park, Ynysmaerdy, Pontyclun, CF72 8YU, GB",
-    "phone": "01443 201940",
-    "international_phone": "01443 201940",
-    "website": "http://www.pricesweddingcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Prices+Wedding+Cars/data=!4m7!3m6!1s0x486e1732f9192f3b:0x9de42743f6b8bcf2!8m2!3d51.5522113!4d-3.3908489!16s%2Fg%2F1hc1_w639!19sChIJOy8Z-TIXbkgR8ry49kMn5J0?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30 am–4:30 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10:30 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10:30 am–3 pm\"],\"Tuesday\":[\"10:30 am–7 pm\"],\"Wednesday\":[\"10:30 am–3 pm\"]}",
-    "types": "Limousine service",
-    "lat": 51.552211,
-    "lng": -3.390849,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "info@pricesweddingcars.co.uk",
-    "emails": [
-      "info@pricesweddingcars.co.uk"
-    ],
-    "description": "If you’re looking for something exceptional to complete your wedding day plans, then Prices’ Wedding car hire will provide the perfect showpiece. Our wedding car hire showroom is at the epicentre of some of the finest wedding venues in South Wales.",
-    "services": [
-      "Chauffeur Service",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Valentines Travel",
-    "address": "Unit 12, Ruabon, Wrexham, LL14 6HA, GB",
-    "phone": "01978 844450",
-    "international_phone": "01978 844450",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Valentines+Travel/data=!4m7!3m6!1s0x487ac7fc6a47282f:0x767133be804588a8!8m2!3d53.0010458!4d-3.0389995!16s%2Fg%2F1thwzznb!19sChIJLyhHavzHekgRqIhFgL4zcXY?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Company",
-    "lat": 53.001046,
-    "lng": -3.039,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "Game Station Bus Gaming Van",
-    "address": "Meadow Sweet Dr, Saint Mellons, Cardiff, CF3 0RD, GB",
-    "phone": "07562 530002",
-    "international_phone": "07562 530002",
-    "website": "https://www.gamestationbus.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Game+Station+Bus+Gaming+Van/data=!4m7!3m6!1s0x281292d25a74bf7d:0xdb5fb406d1daa59a!8m2!3d51.5200314!4d-3.0896461!16s%2Fg%2F11y48t_vls!19sChIJfb90WtKSEigRmqXa0Qa0X9s?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 29,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–9 pm\"],\"Sunday\":[\"7 am–9 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
-    "types": "Children's party service",
-    "lat": 51.520031,
-    "lng": -3.089646,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "info@gamestationbus.co.uk",
-    "emails": [
-      "info@gamestationbus.co.uk"
-    ],
-    "description": "# SOUTH WALES & SURROUNDING AREAS ULTIMATE GAMING BUSTO YOUR DOOR! ENQUIRE CALL NOW Level Up Your Party on Wheels Bring the ultimate gaming experience straight to your doorstep. Our fully-equipped gaming bus is perfect for birthdays, events, and epic battles on the go. BOOK NOW Level Up Your..."
-  },
-  {
-    "name": "Voel Coaches Ltd",
-    "address": "Long Acre, Road, Dyserth, Rhyl, LL18 6BP, GB",
-    "phone": "01745 570154",
-    "international_phone": "01745 570154",
-    "website": "http://www.voelholidays.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Voel+Coaches+Ltd/data=!4m7!3m6!1s0x4865298493196035:0xcab544972246eda1!8m2!3d53.3056462!4d-3.4208437!16s%2Fg%2F1trxjps0!19sChIJNWAZk4QpZUgRoe1GIpdEtco?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 356,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Tours",
-    "lat": 53.305646,
-    "lng": -3.420844,
-    "found_in_location": "Llandudno",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "The Limo People Ltd",
     "address": "50a, Symondscliffe Way, Severn Bridge Industrial Estate, Caldicot, NP26 5PW, GB",
     "phone": "0800 180 4128",
@@ -1089,55 +679,6 @@
     ]
   },
   {
-    "name": "Bryngarw House",
-    "address": "Brynmenyn, Bridgend, CF32 8UU, GB",
-    "phone": "01656 729009",
-    "international_phone": "01656 729009",
-    "website": "http://www.bryngarwhouse.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Bryngarw+House/data=!4m10!3m9!1s0x486e037034273669:0x91e27330389e2b18!5m2!4m1!1i2!8m2!3d51.558261!4d-3.581462!16s%2Fg%2F1tdp4gw2!19sChIJaTYnNHADbkgRGCueODBz4pE?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 353,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Wedding venue",
-    "lat": 51.558261,
-    "lng": -3.581462,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "events@bryngarwhouse.com",
-    "emails": [
-      "events@bryngarwhouse.com"
-    ],
-    "description": "Whether you’re organising a beautiful wedding, planning a private party to remember or arranging an important business event, Bryngarw House has it all."
-  },
-  {
-    "name": "Cathays Community Centre",
-    "address": "36-38 Cathays Terrace, Cardiff, CF24 4HX, GB",
-    "phone": "029 2037 3144",
-    "international_phone": "029 2037 3144",
-    "website": "https://www.cathays.org.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cathays+Community+Centre/data=!4m7!3m6!1s0x486e1cbd12d8849b:0x83f26044f4dfd1d5!8m2!3d51.491697!4d-3.180694!16s%2Fg%2F1thtp09d!19sChIJm4TYEr0cbkgR1dHf9ERg8oM?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 260,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–10 pm\"],\"Monday\":[\"9 am–10 pm\"],\"Saturday\":[\"9 am–10 pm\"],\"Sunday\":[\"9 am–10 pm\"],\"Thursday\":[\"9 am–10 pm\"],\"Tuesday\":[\"9 am–10 pm\"],\"Wednesday\":[\"9 am–10 pm\"]}",
-    "types": "Community centre",
-    "lat": 51.491697,
-    "lng": -3.180694,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "damian.bridgeman@cathays.org.uk",
-    "emails": [
-      "damian.bridgeman@cathays.org.uk",
-      "ieuan.bater@cathays.org.uk",
-      "isobel.sweet@cathays.org.uk",
-      "khalid.awad-khan@cathays.org.uk",
-      "rhiannon.mcnamara@cathays.org.uk",
-      "simon.murray@cathays.org.uk"
-    ],
-    "description": "Cathays & Central Youth & Community Project aims to support the community in Cathays and central Cardiff. It manages Cathays Community Centre that has an independent Café, Recording Studio, Bakery together with its own meeting room, two large halls, music rehearsal rooms, and social space. It..."
-  },
-  {
     "name": "Pat's Coaches",
     "address": "Derwen House, Southsea Rd, Southsea, Wrexham, LL11 6PP, GB",
     "phone": "01978 720171",
@@ -1158,50 +699,6 @@
       "enquiries@patscoaches.co.uk"
     ],
     "description": "From Private Hire to luxury travel, here at Pat's Coaches we can cater for all your needs."
-  },
-  {
-    "name": "Gibbons Coaches",
-    "address": "Ty Cerbyd, 8 George St, Bedlinog, Treharris, CF46 6RT, GB",
-    "phone": "01443 710604",
-    "international_phone": "01443 710604",
-    "website": "https://www.gibbonscoaches.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Gibbons+Coaches/data=!4m7!3m6!1s0x486e23493121a863:0x8a139887a8467f90!8m2!3d51.7037338!4d-3.3113341!16s%2Fg%2F1tn056xz!19sChIJY6ghMUkjbkgRkH9GqIeYE4o?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 101,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus company",
-    "lat": 51.703734,
-    "lng": -3.311334,
-    "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "limo wales",
-    "email": "info@gibbonscoaches.com",
-    "emails": [
-      "info@gibbonscoaches.com"
-    ],
-    "description": "Gibbons Coaches is a well-established family run business based in South Wales specialising in Coach Holidays, Coach Hire and Day Trips."
-  },
-  {
-    "name": "Day's Rental | Bridgend",
-    "address": "David St, Bridgend, CF31 3SA, GB",
-    "phone": "01656 808099",
-    "international_phone": "01656 808099",
-    "website": "http://www.daysrental.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Day%27s+Rental+%7C+Bridgend/data=!4m7!3m6!1s0x486e6d0290665cab:0x68fdd99ddc8f2716!8m2!3d51.502802!4d-3.539431!16s%2Fg%2F1tff712n!19sChIJq1xmkAJtbkgRFieP3J3Z_Wg?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 34,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.502802,
-    "lng": -3.539431,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "hire@daysrental.co.uk",
-    "emails": [
-      "hire@daysrental.co.uk"
-    ],
-    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
   },
   {
     "name": "Cheringham Wedding Cars Cardiff",
@@ -1235,28 +732,6 @@
     ]
   },
   {
-    "name": "Gower Mini Travel",
-    "address": "White Lodge, Swansea Rd, Gorseinon, Swansea, SA4 4LQ, GB",
-    "phone": "01792 895777",
-    "international_phone": "01792 895777",
-    "website": "http://www.gowerminitravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gower+Mini+Travel/data=!4m7!3m6!1s0x486ef47e1fc2d5af:0x6e8d36c65406e41a!8m2!3d51.6567197!4d-4.0193197!16s%2Fg%2F1tdd98kl!19sChIJr9XCH370bkgRGuQGVMY2jW4?authuser=0&hl=en&rclk=1",
-    "rating": 4.4,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.65672,
-    "lng": -4.01932,
-    "found_in_location": "Swansea",
-    "found_with_query": "limo wales",
-    "email": "info@shepherdpublishing.co.uk",
-    "emails": [
-      "info@shepherdpublishing.co.uk"
-    ],
-    "description": "Gower Mini Travel provide professional and reliable Minibus and Mini Coach hire. We are specialists in home to school transport, corporate travel, private hire and wedding transport. We only use experienced drivers which are DBS approved by the City and County of Swansea. Gower Mini Travel we..."
-  },
-  {
     "name": "Coastal Mini Coaches",
     "address": "42 Maes-Y-Capel, Pembrey, Llanelli, Burry Port, SA16 0EG, GB",
     "phone": "07789 988721",
@@ -1272,28 +747,6 @@
     "lng": -4.26951,
     "found_in_location": "Swansea",
     "found_with_query": "limo wales"
-  },
-  {
-    "name": "The Cobbles Collective",
-    "address": "Tymaen Farm Buildings, Ogmore Rd, Ogmore-by-Sea, Bridgend, CF32 0QP, GB",
-    "phone": "01656 646361",
-    "international_phone": "01656 646361",
-    "website": "http://www.cobblescollective.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Cobbles+Collective/data=!4m7!3m6!1s0x486e6e12bb05691f:0x83d878358d064ff6!8m2!3d51.4821373!4d-3.5945242!16s%2Fg%2F11cjkvsk60!19sChIJH2kFuxJubkgR9k8GjTV42IM?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 1104,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9:30 am–4 pm\"],\"Monday\":[\"9:30 am–4 pm\"],\"Saturday\":[\"9:30 am–4 pm\"],\"Sunday\":[\"9:30 am–4 pm\"],\"Thursday\":[\"9:30 am–4 pm\"],\"Tuesday\":[\"9:30 am–4 pm\"],\"Wednesday\":[\"9:30 am–4 pm\"]}",
-    "types": "Wedding venue",
-    "lat": 51.482137,
-    "lng": -3.594524,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "weddings@cobbleskitchen.co.uk",
-    "emails": [
-      "weddings@cobbleskitchen.co.uk"
-    ],
-    "description": "Discover The Cobbles Collective in Vale of Glamorgan, South Wales—a grade II listed barn wedding venue brimming with charm. Enjoy timeless elegance with high ceilings, oak beams, and stunning surroundings perfect for your photographs. Book your tour today!"
   },
   {
     "name": "Creigiau Travel Ltd",
@@ -1319,32 +772,6 @@
     "services": [
       "Airport Transfer"
     ]
-  },
-  {
-    "name": "Charter Vehicle Hire",
-    "address": "Free School Court, Rear of Brackla Street Shopping Centre, Bridgend, CF31 1DD, GB",
-    "phone": "01656 652719",
-    "international_phone": "01656 652719",
-    "website": "http://www.chartervehiclehire.co.uk/index.php",
-    "google_maps_url": "https://www.google.com/maps/place/Charter+Vehicle+Hire/data=!4m7!3m6!1s0x486e6c351940746b:0x77638dd8e7da3967!8m2!3d51.5037388!4d-3.5744217!16s%2Fg%2F1tmy4h44!19sChIJa3RAGTVsbkgRZzna59iNY3c?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 43,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.503739,
-    "lng": -3.574422,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "info@cvhl.co.uk",
-    "emails": [
-      "info@cvhl.co.uk",
-      "charter.bridgend@cvhl.co.uk",
-      "charter.cardiff@cvhl.co.uk",
-      "charter.pontypridd@cvhl.co.uk",
-      "name@emaildomain.com"
-    ],
-    "description": "Covering Cardiff, Bridgend & Pontypridd for affordable car and van hire. All our reliable vehicles can be hired for a day, week, month or year. Contact Charter Vehicle Hire or book online today to secure your perfect vehicle hire."
   },
   {
     "name": "Cresta Coaches",
@@ -1375,92 +802,6 @@
     ]
   },
   {
-    "name": "Day's Rental | Newport",
-    "address": "Frederick St, Newport, Newport, NP20 2DR, GB",
-    "phone": "01633 445022",
-    "international_phone": "01633 445022",
-    "website": "http://www.daysrental.co.uk/newport",
-    "google_maps_url": "https://www.google.com/maps/place/Day%27s+Rental+%7C+Newport/data=!4m7!3m6!1s0x4871e6beb1aebb63:0x69272e4e27adad54!8m2!3d51.578508!4d-2.983794!16s%2Fg%2F1twyy_g2!19sChIJY7uusb7mcUgRVK2tJ04uJ2k?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 35,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.578508,
-    "lng": -2.983794,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales",
-    "email": "hire@daysrental.co.uk",
-    "emails": [
-      "hire@daysrental.co.uk"
-    ],
-    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
-  },
-  {
-    "name": "1st Choice Ltd",
-    "address": "Sandy Rd, Llanelli, SA15 4DP, GB",
-    "phone": "01554 759888",
-    "international_phone": "01554 759888",
-    "website": "http://www.1stchoiceltd.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/1st+Choice+Ltd/data=!4m7!3m6!1s0x486eec2d24e21cb7:0xda4a6b62b24a7d20!8m2!3d51.6843412!4d-4.1808745!16s%2Fg%2F1tmxd_85!19sChIJtxziJC3sbkgRIH1KsmJrSto?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 21,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus company",
-    "lat": 51.684341,
-    "lng": -4.180874,
-    "found_in_location": "Swansea",
-    "found_with_query": "limo wales",
-    "email": "info@1stchoiceltd.co.uk",
-    "emails": [
-      "info@1stchoiceltd.co.uk"
-    ],
-    "description": "To book standard and executive transportation for local and nationwide locations, call our coach hire company in Llanelli today.",
-    "services": [
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "VMS Vehicle Hire Bridgend",
-    "address": "Coychurch, Bridgend, Bridgend, CF35 5NS, GB",
-    "phone": "01656 530064",
-    "international_phone": "01656 530064",
-    "website": "https://www.vmsvehiclehire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/VMS+Vehicle+Hire+Bridgend/data=!4m7!3m6!1s0x486e6d8c43aee9a7:0xffaab0dac6d2d92d!8m2!3d51.504632!4d-3.5403437!16s%2Fg%2F11ll7cxtxj!19sChIJp-muQ4xtbkgRLdnSxtqwqv8?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"9 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.504632,
-    "lng": -3.540344,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "elyssa.fagan@vmsglobal.co.uk",
-    "emails": [
-      "elyssa.fagan@vmsglobal.co.uk"
-    ],
-    "description": "Car, Van, Electric, HGV & Refrigerated Vehicle Hire. Vehicle Rental Specialists based all across the UK. Modern & Safe Fleet at Competitive Rates."
-  },
-  {
-    "name": "D J Thomas Coaches Ltd",
-    "address": "15/16 Old Market St, Neath, SA11 3NA, GB",
-    "phone": "01639 635502",
-    "international_phone": "01639 635502",
-    "website": "http://www.djthomascoaches.com/",
-    "google_maps_url": "https://www.google.com/maps/place/D+J+Thomas+Coaches+Ltd/data=!4m7!3m6!1s0x486e5dd1724b5c03:0x6c62b2d528039564!8m2!3d51.6640419!4d-3.8033012!16s%2Fg%2F1tj730b9!19sChIJA1xLctFdbkgRZJUDKNWyYmw?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 53,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"9 am–2 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.664042,
-    "lng": -3.803301,
-    "found_in_location": "Neath",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "Unicorn Travel",
     "address": "Unit 1, West Bank Rd, Llay, Wrexham, LL12 0PZ, GB",
     "phone": "01978 856048",
@@ -1487,28 +828,6 @@
     ]
   },
   {
-    "name": "Veezu",
-    "address": "Unit 5, Martin Rd, Tremorfa Industrial Estate, Cardiff, CF24 5SD, GB",
-    "phone": "029 2033 3333",
-    "international_phone": "029 2033 3333",
-    "website": "https://www.veezu.co.uk/cardiff?utm_source=GBP+CF24+5SD&utm_medium=GBP&utm_campaign=GBP",
-    "google_maps_url": "https://www.google.com/maps/place/Veezu/data=!4m7!3m6!1s0x486e1d31c7a1fb37:0x840527354b026c71!8m2!3d51.4742546!4d-3.1385462!16s%2Fg%2F1tm68c02!19sChIJN_uhxzEdbkgRcWwCSzUnBYQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 4164,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.474255,
-    "lng": -3.138546,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "description": "Need to book a taxi in Portsmouth? Book a smarter local ride with Veezu and travel with the biggest private hire cab service in Portsmouth. Call 02392 654 321.",
-    "services": [
-      "Airport Transfer",
-      "Wedding Car"
-    ]
-  },
-  {
     "name": "Price Coaches",
     "address": "The Haven, Bersham Rd, New Broughton, Wrexham, LL11 6TF, GB",
     "phone": "01978 756834",
@@ -1525,70 +844,6 @@
     "found_in_location": "Wrexham",
     "found_with_query": "limo wales",
     "description": "Price Coaches Coach Hire. Wrexham, Chester and North Wales - Call 01978 756834"
-  },
-  {
-    "name": "Cardiff Cruises",
-    "address": "Mermaid Quay, Cardiff, CF10 5BZ, GB",
-    "phone": "029 2166 1166",
-    "international_phone": "029 2166 1166",
-    "website": "http://www.cardiffcruises.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cardiff+Cruises/data=!4m7!3m6!1s0x486e0337f6e3b89b:0xadc0743882adab9d!8m2!3d51.4630434!4d-3.1642372!16s%2Fg%2F1hc74z2sy!19sChIJm7jj9jcDbkgRnautgjh0wK0?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 168,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10:30 am–5:30 pm\",\"7:30–10:30 pm\"],\"Monday\":[\"10:30 am–5:30 pm\"],\"Saturday\":[\"10:30 am–5:30 pm\",\"7:30–10:30 pm\"],\"Sunday\":[\"10:30 am–6:30 pm\"],\"Thursday\":[\"10:30 am–5:30 pm\"],\"Tuesday\":[\"10:30 am–5:30 pm\"],\"Wednesday\":[\"10:30 am–5:30 pm\"]}",
-    "types": "Boat tour agency",
-    "lat": 51.463043,
-    "lng": -3.164237,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales",
-    "email": "info@cardiffcruises.co.uk",
-    "emails": [
-      "info@cardiffcruises.co.uk"
-    ],
-    "description": "Explore Cardiff Bay and beyond with Cardiff Cruises. Activities for all occasions from Hen Parties to Birthdays to just a great day out!",
-    "services": [
-      "Rolls Royce"
-    ]
-  },
-  {
-    "name": "Veezu Newport",
-    "address": "Station St, Newport, NP20 4AX, GB",
-    "phone": "01633 216216",
-    "international_phone": "01633 216216",
-    "website": "https://www.veezu.co.uk/newport?utm_source=GBP+NP20+4AX&utm_medium=GBP&utm_campaign=GBP",
-    "google_maps_url": "https://www.google.com/maps/place/Veezu+Newport/data=!4m7!3m6!1s0x4871e6ce57e00529:0x8ff67147ea81dae!8m2!3d51.5895754!4d-2.998688!16s%2Fg%2F1thn4zkd!19sChIJKQXgV87mcUgRrh2ofhRn_wg?authuser=0&hl=en&rclk=1",
-    "rating": 3.8,
-    "total_reviews": 2281,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.589575,
-    "lng": -2.998688,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales",
-    "description": "Need to book a taxi in Portsmouth? Book a smarter local ride with Veezu and travel with the biggest private hire cab service in Portsmouth. Call 02392 654 321.",
-    "services": [
-      "Airport Transfer",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Elite Travel",
-    "address": "56 Pandy Rd, Bedwas, Caerphilly, CF83 8EJ, GB",
-    "phone": "029 2088 5180",
-    "international_phone": "029 2088 5180",
-    "website": "http://www.elitetravelwales.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Elite+Travel/data=!4m7!3m6!1s0x486e1ed38c605a39:0x90bf5f3f26eca2a1!8m2!3d51.5922729!4d-3.2032168!16s%2Fg%2F1tfj_8t_!19sChIJOVpgjNMebkgRoaLsJj9fv5A?authuser=0&hl=en&rclk=1",
-    "rating": 3.7,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Travel Agent",
-    "lat": 51.592273,
-    "lng": -3.203217,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
   },
   {
     "name": "Cymru Coaches",
@@ -1609,33 +864,6 @@
     "description": "Cymru Coaches in Swansea have luxury coaches for hire in Glamorgan and across Wales. Cymru Coaches provide private coach hire across the UK.",
     "services": [
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "Peyton Travel",
-    "address": "Brackla Ind. Estate, Main Ave, Bridgend, CF31 2AG, GB",
-    "phone": "01656 661221",
-    "international_phone": "01656 661221",
-    "website": "http://www.peytontravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Peyton+Travel/data=!4m7!3m6!1s0x486e6db500000001:0x69cd2f90ac05a880!8m2!3d51.5174266!4d-3.5611989!16s%2Fg%2F11g9f4_yqr!19sChIJAQAAALVtbkgRgKgFrJAvzWk?authuser=0&hl=en&rclk=1",
-    "rating": 3.1,
-    "total_reviews": 60,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus tour agency",
-    "lat": 51.517427,
-    "lng": -3.561199,
-    "found_in_location": "Bridgend",
-    "found_with_query": "limo wales",
-    "email": "bookings.peytontravel@aol.com",
-    "emails": [
-      "bookings.peytontravel@aol.com",
-      "peytontravel@aol.com"
-    ],
-    "description": "Call us on 01656 661221 or email uspeytontravel@aol.com",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
     ]
   },
   {
@@ -1737,23 +965,6 @@
     ]
   },
   {
-    "name": "PTS Travel",
-    "address": "24 Grugos Ave, Pontyberem, Llanelli, SA15 5AF, GB",
-    "phone": "01269 870609",
-    "international_phone": "01269 870609",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/PTS+Travel/data=!4m7!3m6!1s0x486ee55bf794fd71:0x9c2ed4555958166b!8m2!3d51.78416!4d-4.1659415!16s%2Fg%2F1tdwv3gr!19sChIJcf2U91vlbkgRaxZYWVXULpw?authuser=0&hl=en&rclk=1",
-    "rating": 2.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 51.78416,
-    "lng": -4.165941,
-    "found_in_location": "Swansea",
-    "found_with_query": "limo wales"
-  },
-  {
     "name": "Swansea Limousine Hire",
     "address": "West Glamorgan House, 12 Orchard St, Swansea, SA1 5AD, GB",
     "phone": "01792 775871",
@@ -1778,117 +989,6 @@
       "Stretch Limo",
       "Wedding Car"
     ]
-  },
-  {
-    "name": "Unicorn Travel Wrexham Limited",
-    "address": "10 Fairfield, Brymbo, Wrexham, LL11 5ED, GB",
-    "phone": "01978 856048",
-    "international_phone": "01978 856048",
-    "website": "https://www.unicorntravelwrexham.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Unicorn+Travel+Wrexham+Limited/data=!4m7!3m6!1s0x487ac74fd0d048e9:0x68c57ff7bca0c316!8m2!3d53.0768689!4d-3.0503355!16s%2Fg%2F11h63vyh4k!19sChIJ6UjQ0E_HekgRFsOgvPd_xWg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 53.076869,
-    "lng": -3.050335,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales",
-    "email": "info@unicorntravelwrexham.co.uk",
-    "emails": [
-      "info@unicorntravelwrexham.co.uk"
-    ],
-    "description": "Rely on our coach hire company when you need first-class travel services. Call us now, in Wrexham, on 01978 856048 to receive more information.",
-    "services": [
-      "Airport Transfer",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Wrexham Minibus Co",
-    "address": "Aberderfyn Rd, Ponciau, Wrexham, LL14 1SP, GB",
-    "phone": "01978 843355",
-    "international_phone": "01978 843355",
-    "website": "https://www.wrexhamminibus.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Wrexham+Minibus+Co/data=!4m7!3m6!1s0x487ab7fb01aee4b3:0xc2ca476e322f39be!8m2!3d53.0113818!4d-3.0468382!16s%2Fg%2F11f3_zw96v!19sChIJs-SuAfu3ekgRvjkvMm5HysI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus charter",
-    "lat": 53.011382,
-    "lng": -3.046838,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "R.B Wedding Cars",
-    "address": "Hermitage Park, 3 Avalon Ct, Wrexham, LL13 7GX, GB",
-    "phone": "07783 074320",
-    "international_phone": "07783 074320",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/R.B+Wedding+Cars/data=!4m7!3m6!1s0x487ac7141b71a281:0xdcd81ac8683348d8!8m2!3d53.03496!4d-2.9893987!16s%2Fg%2F1tg5bn44!19sChIJgaJxGxTHekgR2EgzaMga2Nw?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
-    "types": "Limousine service",
-    "lat": 53.03496,
-    "lng": -2.989399,
-    "found_in_location": "Wrexham",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "Newport Hummer",
-    "address": "182 Maesglas Cres, Newport, NP2 0 3DB, GB",
-    "phone": "01633 746578",
-    "international_phone": "01633 746578",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Newport+Hummer/data=!4m7!3m6!1s0x4871e150f857f587:0x68b65f09f2b4878e!8m2!3d51.5683304!4d-3.0141624!16s%2Fg%2F11jh76_tg9!19sChIJh_VX-FDhcUgRjoe08glftmg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.56833,
-    "lng": -3.014162,
-    "found_in_location": "Newport",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "Dreamland Limos",
-    "address": "10 Ainon Rd, Bangor, LL57 2YD, GB",
-    "phone": "01248 372372",
-    "international_phone": "01248 372372",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Dreamland+Limos/data=!4m7!3m6!1s0x4865075b042c4335:0xf9d79a414ae10d6!8m2!3d53.2184232!4d-4.1402897!16s%2Fg%2F1vp6zlt6!19sChIJNUMsBFsHZUgR1hCuFKR5nQ8?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 53.218423,
-    "lng": -4.14029,
-    "found_in_location": "Bangor",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "The Private Driver",
-    "address": "Sovereign Quay, 2 Havannah St, Cardiff, CF10 5SF, GB",
-    "phone": "07523 342911",
-    "international_phone": "07523 342911",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/The+Private+Driver/data=!4m7!3m6!1s0x486e03e37da8d91b:0xaa2032180b5a3803!8m2!3d51.4617413!4d-3.1678747!16s%2Fg%2F11lp7ms7yd!19sChIJG9mofeMDbkgRAzhaCxgyIKo?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.461741,
-    "lng": -3.167875,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
   },
   {
     "name": "Cardiff and Bristol Limo Hire",
@@ -1919,54 +1019,37 @@
     ]
   },
   {
-    "name": "Island Limousine Ltd",
-    "address": "Spithead Business Centre, Newport Rd, Sandown, PO36 9PH, GB",
-    "phone": "01983 407373",
-    "international_phone": "01983 407373",
+    "name": "Dreamland Limos",
+    "address": "10 Ainon Rd, Bangor, LL57 2YD, GB",
+    "phone": "01248 372372",
+    "international_phone": "01248 372372",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Island+Limousine+Ltd/data=!4m7!3m6!1s0x48748a3bcb7abc3b:0x81d4d26ac3289a54!8m2!3d50.6449988!4d-1.1813525!16s%2Fg%2F1tgfplg8!19sChIJO7x6yzuKdEgRVJoow2rS1IE?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/Dreamland+Limos/data=!4m7!3m6!1s0x4865075b042c4335:0xf9d79a414ae10d6!8m2!3d53.2184232!4d-4.1402897!16s%2Fg%2F1vp6zlt6!19sChIJNUMsBFsHZUgR1hCuFKR5nQ8?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
     "types": "Limousine service",
-    "lat": 50.644999,
-    "lng": -1.181353,
-    "found_in_location": "Newport",
+    "lat": 53.218423,
+    "lng": -4.14029,
+    "found_in_location": "Bangor",
     "found_with_query": "limo wales"
   },
   {
-    "name": "Lady Tiara Wedding Cars",
-    "address": "New Premier Buildings, Newport Rd, Bedwas, Caerphilly, CF83 8YE, GB",
-    "phone": "07808 700007",
-    "international_phone": "07808 700007",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Lady+Tiara+Wedding+Cars/data=!4m7!3m6!1s0x486e1edb0b794c7d:0x40c48f10ed1d24ea!8m2!3d51.5898362!4d-3.1897247!16s%2Fg%2F1pp2wyl0d!19sChIJfUx5C9sebkgR6iQd7RCPxEA?authuser=0&hl=en&rclk=1",
+    "name": "Fairytale Carriages wedding cars",
+    "address": "Pontcynon Ind Est, Abercynon, Mountain Ash, CF45 4EP, GB",
+    "phone": "07756 046640",
+    "international_phone": "07756 046640",
+    "website": "http://fairytaleweddingcarhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Fairytale+Carriages+wedding+cars/data=!4m7!3m6!1s0x486e3d40f708450b:0x126a1e8b6aa0fecf!8m2!3d51.6553541!4d-3.3368239!16s%2Fg%2F11y6kfwd8j!19sChIJC0UI90A9bkgRz_6gaoseahI?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.589836,
-    "lng": -3.189725,
-    "found_in_location": "Cardiff",
-    "found_with_query": "limo wales"
-  },
-  {
-    "name": "G T Mini Bus Hire",
-    "address": "15 Pen Llwyn, Bridgend, CF31 5AZ, GB",
-    "phone": "01656 652362",
-    "international_phone": "01656 652362",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/G+T+Mini+Bus+Hire/data=!4m7!3m6!1s0x486e6c2ccbd1be8f:0x938d8bc7ab03644c!8m2!3d51.5025439!4d-3.5902082!16s%2Fg%2F11c54b28_p!19sChIJj77RyyxsbkgRTGQDq8eLjZM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.502544,
-    "lng": -3.590208,
-    "found_in_location": "Bridgend",
+    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
+    "types": "Wedding service",
+    "lat": 51.655354,
+    "lng": -3.336824,
+    "found_in_location": "Merthyr Tydfil",
     "found_with_query": "limo wales"
   },
   {
@@ -2013,20 +1096,114 @@
     ]
   },
   {
-    "name": "Fairytale Carriages wedding cars",
-    "address": "Pontcynon Ind Est, Abercynon, Mountain Ash, CF45 4EP, GB",
-    "phone": "07756 046640",
-    "international_phone": "07756 046640",
-    "website": "http://fairytaleweddingcarhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Fairytale+Carriages+wedding+cars/data=!4m7!3m6!1s0x486e3d40f708450b:0x126a1e8b6aa0fecf!8m2!3d51.6553541!4d-3.3368239!16s%2Fg%2F11y6kfwd8j!19sChIJC0UI90A9bkgRz_6gaoseahI?authuser=0&hl=en&rclk=1",
+    "name": "Island Limousine Ltd",
+    "address": "Spithead Business Centre, Newport Rd, Sandown, PO36 9PH, GB",
+    "phone": "01983 407373",
+    "international_phone": "01983 407373",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Island+Limousine+Ltd/data=!4m7!3m6!1s0x48748a3bcb7abc3b:0x81d4d26ac3289a54!8m2!3d50.6449988!4d-1.1813525!16s%2Fg%2F1tgfplg8!19sChIJO7x6yzuKdEgRVJoow2rS1IE?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4:30 pm\"],\"Monday\":[\"8 am–4:30 pm\"],\"Saturday\":[\"8 am–11 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4:30 pm\"],\"Tuesday\":[\"8 am–4:30 pm\"],\"Wednesday\":[\"8 am–4:30 pm\"]}",
-    "types": "Wedding service",
-    "lat": 51.655354,
-    "lng": -3.336824,
-    "found_in_location": "Merthyr Tydfil",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.644999,
+    "lng": -1.181353,
+    "found_in_location": "Newport",
     "found_with_query": "limo wales"
+  },
+  {
+    "name": "Lady Tiara Wedding Cars",
+    "address": "New Premier Buildings, Newport Rd, Bedwas, Caerphilly, CF83 8YE, GB",
+    "phone": "07808 700007",
+    "international_phone": "07808 700007",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Lady+Tiara+Wedding+Cars/data=!4m7!3m6!1s0x486e1edb0b794c7d:0x40c48f10ed1d24ea!8m2!3d51.5898362!4d-3.1897247!16s%2Fg%2F1pp2wyl0d!19sChIJfUx5C9sebkgR6iQd7RCPxEA?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.589836,
+    "lng": -3.189725,
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales"
+  },
+  {
+    "name": "Newport Hummer",
+    "address": "182 Maesglas Cres, Newport, NP2 0 3DB, GB",
+    "phone": "01633 746578",
+    "international_phone": "01633 746578",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Newport+Hummer/data=!4m7!3m6!1s0x4871e150f857f587:0x68b65f09f2b4878e!8m2!3d51.5683304!4d-3.0141624!16s%2Fg%2F11jh76_tg9!19sChIJh_VX-FDhcUgRjoe08glftmg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.56833,
+    "lng": -3.014162,
+    "found_in_location": "Newport",
+    "found_with_query": "limo wales"
+  },
+  {
+    "name": "R.B Wedding Cars",
+    "address": "Hermitage Park, 3 Avalon Ct, Wrexham, LL13 7GX, GB",
+    "phone": "07783 074320",
+    "international_phone": "07783 074320",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/R.B+Wedding+Cars/data=!4m7!3m6!1s0x487ac7141b71a281:0xdcd81ac8683348d8!8m2!3d53.03496!4d-2.9893987!16s%2Fg%2F1tg5bn44!19sChIJgaJxGxTHekgR2EgzaMga2Nw?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–8 pm\"],\"Monday\":[\"9 am–8 pm\"],\"Saturday\":[\"10 am–8 pm\"],\"Sunday\":[\"10 am–8 pm\"],\"Thursday\":[\"9 am–8 pm\"],\"Tuesday\":[\"9 am–8 pm\"],\"Wednesday\":[\"9 am–8 pm\"]}",
+    "types": "Limousine service",
+    "lat": 53.03496,
+    "lng": -2.989399,
+    "found_in_location": "Wrexham",
+    "found_with_query": "limo wales"
+  },
+  {
+    "name": "The Private Driver",
+    "address": "Sovereign Quay, 2 Havannah St, Cardiff, CF10 5SF, GB",
+    "phone": "07523 342911",
+    "international_phone": "07523 342911",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/The+Private+Driver/data=!4m7!3m6!1s0x486e03e37da8d91b:0xaa2032180b5a3803!8m2!3d51.4617413!4d-3.1678747!16s%2Fg%2F11lp7ms7yd!19sChIJG9mofeMDbkgRAzhaCxgyIKo?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Chauffeur service",
+    "lat": 51.461741,
+    "lng": -3.167875,
+    "found_in_location": "Cardiff",
+    "found_with_query": "limo wales"
+  },
+  {
+    "name": "Unicorn Travel Wrexham Limited",
+    "address": "10 Fairfield, Brymbo, Wrexham, LL11 5ED, GB",
+    "phone": "01978 856048",
+    "international_phone": "01978 856048",
+    "website": "https://www.unicorntravelwrexham.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Unicorn+Travel+Wrexham+Limited/data=!4m7!3m6!1s0x487ac74fd0d048e9:0x68c57ff7bca0c316!8m2!3d53.0768689!4d-3.0503355!16s%2Fg%2F11h63vyh4k!19sChIJ6UjQ0E_HekgRFsOgvPd_xWg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
+    "types": "Coach and minibus hire",
+    "lat": 53.076869,
+    "lng": -3.050335,
+    "found_in_location": "Wrexham",
+    "found_with_query": "limo wales",
+    "email": "info@unicorntravelwrexham.co.uk",
+    "emails": [
+      "info@unicorntravelwrexham.co.uk"
+    ],
+    "description": "Rely on our coach hire company when you need first-class travel services. Call us now, in Wrexham, on 01978 856048 to receive more information.",
+    "services": [
+      "Airport Transfer",
+      "Wedding Car"
+    ]
   }
 ]

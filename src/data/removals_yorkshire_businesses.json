@@ -16,6 +16,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@whiteroseremovals.com",
+    "emails": [
+      "info@whiteroseremovals.com"
+    ],
     "description": "Professional Domestic & Commercial Removal Company. White Rose Removals provides the same security, expertise and professionalism."
   },
   {
@@ -35,6 +38,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@thewasteteam.co.uk",
+    "emails": [
+      "info@thewasteteam.co.uk"
+    ],
     "description": "For rubbish, junk and waste removal in Leeds, Wakefield and across West Yorkshire. Contact us at 0113 5312 919 for commercial, domestic, garden and house waste removal."
   },
   {
@@ -56,25 +62,6 @@
     "description": "Junk Movers Rubbish Removal And House Clearance in West Yorkshire. Get rid of your rubbish and Junk. Call for a quote ☎ 07532 723371"
   },
   {
-    "name": "SH Vehicle Recovery Hull",
-    "address": "4 Wyke St, Hull, HU9 1PA, GB",
-    "phone": "07727 150180",
-    "international_phone": "07727 150180",
-    "website": "https://www.shrecoveryhull.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/SH+Vehicle+Recovery+Hull/data=!4m7!3m6!1s0x4878bd8c41489287:0x7b7cff6f1efb6383!8m2!3d53.7480235!4d-0.3071092!16s%2Fg%2F11lfcl7xl6!19sChIJh5JIQYy9eEgRg2P7Hm__fHs?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 475,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Towing service",
-    "lat": 53.748023,
-    "lng": -0.307109,
-    "found_in_location": "Hull",
-    "found_with_query": "removals yorkshire",
-    "email": "recovery.com@me.com",
-    "description": "S. H Vehicle Recovery Hull provide wide-ranging vehicle services that you can rely on. We provide convenient roadside assistance in Hull & East Riding. Call us now on 07727 150180."
-  },
-  {
     "name": "1 Van 1 Man Removals",
     "address": "7 Lawnswood Dr, York, YO30 5QL, GB",
     "phone": "01904 390906",
@@ -91,6 +78,9 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "info@1van1man.com",
+    "emails": [
+      "info@1van1man.com"
+    ],
     "description": "Searching for an Easy Way to Move Your Stuff from One Spot to Another? We're Experts In Home Removals. Vetted Staff. Bespoke Moving Services. Five Star Rated Company Call Us on 01904 390 906"
   },
   {
@@ -110,26 +100,10 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@aimremovals.co.uk",
+    "emails": [
+      "info@aimremovals.co.uk"
+    ],
     "description": "Aim Delivery & Removals are the number one Local Removals Company in Yorkshire and the surrounding areas. Contact us today!"
-  },
-  {
-    "name": "Laser Away Wakefield",
-    "address": "9, 11 Potovens Ln, Lofthouse Gate, Lofthouse, Wakefield, WF3 3JE, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "http://www.laserawaywakefield.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Laser+Away+Wakefield/data=!4m7!3m6!1s0x487967de0ce25697:0x2752e840ab5e1934!8m2!3d53.7171322!4d-1.497397!16s%2Fg%2F11s19t9vq9!19sChIJl1biDN5neUgRNBleq0DoUic?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 380,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"10 am–8 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–8 pm\"],\"Tuesday\":[\"10 am–8 pm\"],\"Wednesday\":[\"10 am–8 pm\"]}",
-    "types": "Laser hair removal service",
-    "lat": 53.717132,
-    "lng": -1.497397,
-    "found_in_location": "Wakefield",
-    "found_with_query": "removals yorkshire",
-    "email": "hello@laserawaywakefield.co.uk",
-    "description": "Experience cutting-edge laser and skincare treatments with Laser Away Wakefield. Specialising in laser hair removal, tattoo removal, and more. Serving Wakefield, York, Clayton, Bradford and Leeds. Contact us today for a consultation!"
   },
   {
     "name": "KB REMOVALS",
@@ -148,6 +122,9 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "info@kbremovals.com",
+    "emails": [
+      "info@kbremovals.com"
+    ],
     "description": "If you are looking for moving companies, trust UK's #1 - KB Removals. We offer seamless full-service moving solutions. Request a FREE Quote!"
   },
   {
@@ -167,25 +144,10 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "hello@greenboxremovals.co.uk",
+    "emails": [
+      "hello@greenboxremovals.co.uk"
+    ],
     "description": "Our wide range of custom services suit every type of move, across multiple sectors, Removal services from Greenbox Removals can help you."
-  },
-  {
-    "name": "Trident Tree Works - York Tree Surgeons",
-    "address": "177 Water Ln, York, YO30 6PJ, GB",
-    "phone": "07378 305270",
-    "international_phone": "07378 305270",
-    "website": "https://www.tridenttreeworks.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Trident+Tree+Works+-+York+Tree+Surgeons/data=!4m7!3m6!1s0xa3ca0c79e7740b67:0x817d2b134d73d689!8m2!3d53.9775881!4d-1.0976594!16s%2Fg%2F11rwq9c0ws!19sChIJZwt053kMyqMRidZzTRMrfYE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 292,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Arborist service",
-    "lat": 53.977588,
-    "lng": -1.097659,
-    "found_in_location": "York",
-    "found_with_query": "removals yorkshire",
-    "description": "Tree Surgeon York - Trident Tree Works offers professional tree services. Contact us for quality services at great prices."
   },
   {
     "name": "Go4removals",
@@ -240,6 +202,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@candg-removals.co.uk",
+    "emails": [
+      "enquiries@candg-removals.co.uk",
+      "enquiries@candgremovals.co.uk"
+    ],
     "description": "Moving your home, business, or even art gallery? Just get in touch for removal services that handle with care & professionalism!"
   },
   {
@@ -259,6 +225,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@proremovalsleeds.co.uk",
+    "emails": [
+      "info@proremovalsleeds.co.uk"
+    ],
     "description": "Book Rhino Removals Leeds Today... We Are The Expert House Removals Company. A family-owned removals business at your service!"
   },
   {
@@ -278,6 +247,10 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "info@lmswasteandhouseremovals.com",
+    "emails": [
+      "info@lmswasteandhouseremovals.com",
+      "johnappleseed@domain.com"
+    ],
     "description": "Welcome to LMS Waste and House Removals, your trusted partner in York and North Yorkshire for a range of services designed to..."
   },
   {
@@ -297,26 +270,13 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "fivestarwasteremoval@hotmail.com"
+    ],
     "description": "5* Waste Removal Waste and rubbish removal in Leeds & surrounding areas"
-  },
-  {
-    "name": "Easy Removals Hull",
-    "address": "Kedrum Rd., HU9, Hull, HU9 3TZ, GB",
-    "phone": "07907 644199",
-    "international_phone": "07907 644199",
-    "website": "http://www.easyremovalshull.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Easy+Removals+Hull/data=!4m7!3m6!1s0x4878bd947dacc211:0x969798197aff6ee8!8m2!3d53.7553896!4d-0.2919091!16s%2Fg%2F1tpn220b!19sChIJEcKsfZS9eEgR6G7_ehmYl5Y?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 145,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"7 am–2 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
-    "types": "Removals company",
-    "lat": 53.75539,
-    "lng": -0.291909,
-    "found_in_location": "Hull",
-    "found_with_query": "removals yorkshire",
-    "email": "info@easyremoavalshull.co.uk",
-    "description": "Easy Removals in Hull offers removals that will suit you if you require a larger van for your flat or house move or simply a man with van in Hull. Our easy removals service in Hull utilises large Luton vans and an extra long wheel base panel van at a fraction of the cost of using larger national..."
   },
   {
     "name": "Bargain Waste Disposal LTD",
@@ -335,7 +295,34 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@bargainwastedisposalltd.co.uk",
+    "emails": [
+      "info@bargainwastedisposalltd.co.uk"
+    ],
     "description": "In need of safe & efficient waste removal service in Wakefield & Leeds at budget prices? We offer both domestic & commercial waste disposal."
+  },
+  {
+    "name": "Easy Removals Hull",
+    "address": "Kedrum Rd., HU9, Hull, HU9 3TZ, GB",
+    "phone": "07907 644199",
+    "international_phone": "07907 644199",
+    "website": "http://www.easyremovalshull.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Easy+Removals+Hull/data=!4m7!3m6!1s0x4878bd947dacc211:0x969798197aff6ee8!8m2!3d53.7553896!4d-0.2919091!16s%2Fg%2F1tpn220b!19sChIJEcKsfZS9eEgR6G7_ehmYl5Y?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 145,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–9 pm\"],\"Monday\":[\"7 am–9 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"7 am–2 pm\"],\"Thursday\":[\"7 am–9 pm\"],\"Tuesday\":[\"7 am–9 pm\"],\"Wednesday\":[\"7 am–9 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.75539,
+    "lng": -0.291909,
+    "found_in_location": "Hull",
+    "found_with_query": "removals yorkshire",
+    "email": "info@easyremoavalshull.co.uk",
+    "emails": [
+      "info@easyremoavalshull.co.uk",
+      "info@easyremovalshull.co.uk",
+      "mail@demolink.org"
+    ],
+    "description": "Easy Removals in Hull offers removals that will suit you if you require a larger van for your flat or house move or simply a man with van in Hull. Our easy removals service in Hull utilises large Luton vans and an extra long wheel base panel van at a fraction of the cost of using larger national..."
   },
   {
     "name": "HD3 Removals & Storage Ltd Huddersfield",
@@ -354,6 +341,9 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "info@hd3removals.co.uk",
+    "emails": [
+      "info@hd3removals.co.uk"
+    ],
     "description": "At HD3 Removals, we bring years of expertise to the West Yorkshire Removals and Storage industry. We're called on every week to perform Huddersfield removals."
   },
   {
@@ -373,6 +363,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "info@removalsheffield.co.uk",
+    "emails": [
+      "info@removalsheffield.co.uk"
+    ],
     "description": "Looking for house moving Sheffield? Our trusted removal services make moving simple. Rated among the best removal companies Sheffield for quality service."
   },
   {
@@ -392,6 +385,10 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@totalmovers.co.uk",
+    "emails": [
+      "enquiries@totalmovers.co.uk",
+      "info@totalmovers.co.uk"
+    ],
     "description": "Are you looking for a professional, reliable and affordable home removals company? Total Movers are experts at home removals making your next move a great one."
   },
   {
@@ -411,6 +408,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "bmhspecialist@aol.com",
+    "emails": [
+      "bmhspecialist@aol.com"
+    ],
     "description": "The #1 Removal Company In Sheffield, South Yorkshire"
   },
   {
@@ -430,6 +430,10 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "returns@mail.com",
+    "emails": [
+      "returns@mail.com",
+      "trustedremovalsyorkshire@gmail.com"
+    ],
     "description": "Serving Customers in the 5 towns, Leeds & Wakefield Areas - Local & National Removers."
   },
   {
@@ -449,6 +453,20 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com",
+      "hullmovers@gmail.com",
+      "info@mysite.com"
+    ],
     "description": "Experienced and friendly Hull Movers House Clearance Service. We are Licensed, insured and highly recommended. Free estimates, onsite quotes and advice."
   },
   {
@@ -468,6 +486,9 @@
     "found_in_location": "Doncaster",
     "found_with_query": "removals yorkshire",
     "email": "info@removalsfordoncaster.co.uk",
+    "emails": [
+      "info@removalsfordoncaster.co.uk"
+    ],
     "description": "What do you look for in a removals company? Professionalism? Glowing references? Fair prices? Flexibility and availability? How about all of the above? It"
   },
   {
@@ -504,6 +525,17 @@
     "found_in_location": "Doncaster",
     "found_with_query": "removals yorkshire",
     "email": "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+    "emails": [
+      "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "kristofremovals@gmail.com"
+    ],
     "description": "If you're looking for a local or long-distance house removals service, please call Kristof Removals for a free quote"
   },
   {
@@ -557,25 +589,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "bradfordremovals01@gmail.com",
+    "emails": [
+      "bradfordremovals01@gmail.com"
+    ],
     "description": "Looking for reliable Bradford removals? Our man with a van Bradford service offers cost-effective solutions for house, flat, and office removals in Bradford and surrounding areas. Let us handle your heavy lifting and ensure a hassle-free moving experience!"
-  },
-  {
-    "name": "Hancock Removals",
-    "address": "66 High Nook Rd, Dinnington, Sheffield, S25 2PH, GB",
-    "phone": "01909 560845",
-    "international_phone": "01909 560845",
-    "website": "http://www.hancockremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Hancock+Removals/data=!4m7!3m6!1s0x4879a016844cb423:0x3fd01b99aa11abca!8m2!3d53.3663897!4d-1.1980923!16s%2Fg%2F1tt1gr7y!19sChIJI7RMhBageUgRyqsRqpkb0D8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 95,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.36639,
-    "lng": -1.198092,
-    "found_in_location": "Sheffield",
-    "found_with_query": "removals yorkshire",
-    "description": "• Local and National Removals / Smooth, Reliable & Professional Service / UK & Ireland Coverage / Secure Storage •"
   },
   {
     "name": "A2B Removals Harrogate",
@@ -594,7 +611,29 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "a2bremovalsharrogate@outlook.com",
+    "emails": [
+      "a2bremovalsharrogate@outlook.com",
+      "info@webaheadinternetltd.co.uk"
+    ],
     "description": "Removals company in Harrogate offering home removals, office removals, full relocation services, nationwide removals, commercial moves and dry container storage."
+  },
+  {
+    "name": "Hancock Removals",
+    "address": "66 High Nook Rd, Dinnington, Sheffield, S25 2PH, GB",
+    "phone": "01909 560845",
+    "international_phone": "01909 560845",
+    "website": "http://www.hancockremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Hancock+Removals/data=!4m7!3m6!1s0x4879a016844cb423:0x3fd01b99aa11abca!8m2!3d53.3663897!4d-1.1980923!16s%2Fg%2F1tt1gr7y!19sChIJI7RMhBageUgRyqsRqpkb0D8?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 95,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.36639,
+    "lng": -1.198092,
+    "found_in_location": "Sheffield",
+    "found_with_query": "removals yorkshire",
+    "description": "• Local and National Removals / Smooth, Reliable & Professional Service / UK & Ireland Coverage / Secure Storage •"
   },
   {
     "name": "WH Removal & House clearances",
@@ -632,25 +671,6 @@
     "description": "✅ Top Rated Man and Van Removals in Bradford, Leeds, Harrogate, Keighley & Halifax. Fast & Friendly Service. Get a Free Quote Today !"
   },
   {
-    "name": "ND man with van",
-    "address": "74 Halliwell Cres, Sheffield, S5 8LY, GB",
-    "phone": "07436 945532",
-    "international_phone": "07436 945532",
-    "website": "https://ndmanwithvan.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/ND+man+with+van/data=!4m7!3m6!1s0x48798392dc678001:0x22d6775cc13803b9!8m2!3d53.4184213!4d-1.4890504!16s%2Fg%2F11rxyjw074!19sChIJAYBn3JKDeUgRuQM4wVx31iI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 84,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals company",
-    "lat": 53.418421,
-    "lng": -1.48905,
-    "found_in_location": "Sheffield",
-    "found_with_query": "removals yorkshire",
-    "email": "ndmanandvan@gmail.com",
-    "description": "Looking for an affordable price? Request a free quote today from our reliable company in sheffield and discover how we can meet your needs without breaking the bank."
-  },
-  {
     "name": "Jack & Jill Removals",
     "address": "Unit BS3, bridge mills, Huddersfield Rd, Holmfirth, HD9 3TW, GB",
     "phone": "01484 681327",
@@ -667,7 +687,32 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "info@jandjremovals.uk",
+    "emails": [
+      "info@jandjremovals.uk"
+    ],
     "description": "Jack & Jill Removals offer home removals, office removals, clearances services across Huddersfield, Holmfirth, Halifax, Barnsley and West Yorkshire."
+  },
+  {
+    "name": "ND man with van",
+    "address": "74 Halliwell Cres, Sheffield, S5 8LY, GB",
+    "phone": "07436 945532",
+    "international_phone": "07436 945532",
+    "website": "https://ndmanwithvan.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/ND+man+with+van/data=!4m7!3m6!1s0x48798392dc678001:0x22d6775cc13803b9!8m2!3d53.4184213!4d-1.4890504!16s%2Fg%2F11rxyjw074!19sChIJAYBn3JKDeUgRuQM4wVx31iI?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 84,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals company",
+    "lat": 53.418421,
+    "lng": -1.48905,
+    "found_in_location": "Sheffield",
+    "found_with_query": "removals yorkshire",
+    "email": "ndmanandvan@gmail.com",
+    "emails": [
+      "ndmanandvan@gmail.com"
+    ],
+    "description": "Looking for an affordable price? Request a free quote today from our reliable company in sheffield and discover how we can meet your needs without breaking the bank."
   },
   {
     "name": "Hodgsons Removals",
@@ -686,6 +731,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "aaron.hodgson@ymail.com",
+    "emails": [
+      "aaron.hodgson@ymail.com"
+    ],
     "description": "For a complete removal service in Leeds, single items to full house moves and storage facilities call Hodgson's Removals 0113 282 2525 for a free quote"
   },
   {
@@ -705,6 +753,9 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "info@lloydremovals.com",
+    "emails": [
+      "info@lloydremovals.com"
+    ],
     "description": "Lloyd Removals is a family run York and Easingwold based business providing stress free house removals, clearances, specialist packing services, full project management and storage facilities across Yorkshire and beyond."
   },
   {
@@ -724,6 +775,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "info@sheffieldremovers.com",
+    "emails": [
+      "info@sheffieldremovers.com"
+    ],
     "description": "REMOVALS & HOUSE CLEARANCES - From moving home, to clearing houses, single item delivery to waste removal... We've got you covered."
   },
   {
@@ -743,6 +797,9 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "info@mattsmoovers.co.uk",
+    "emails": [
+      "info@mattsmoovers.co.uk"
+    ],
     "description": "Matts Moovers and team offer the complete removal service from one item removals to whole house moves. Matts Moovers have been moving families, moving students and single items in the Huddersfield area for over 10 years. We are a family owned company established to provide you with a stress free..."
   },
   {
@@ -762,6 +819,10 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "bookings@awmovingsolutions.co.uk",
+    "emails": [
+      "bookings@awmovingsolutions.co.uk",
+      "info@awmovingsolutions.co.uk"
+    ],
     "description": "We know moving home can be daunting, but with our caring service, you’ll find the process easy! We take immense pride in delivering a removals service of unparalleled quality."
   },
   {
@@ -781,6 +842,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "%20info@thetransporterco.com",
+    "emails": [
+      "%20info@thetransporterco.com",
+      "info@thetransporterco.com"
+    ],
     "description": "Welcome to Man & Van Bradford and Keighley! We are the answer to all your removal needs. Our removal company has reliably got you covered, going the"
   },
   {
@@ -800,25 +865,10 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@megamoves.co.uk",
+    "emails": [
+      "info@megamoves.co.uk"
+    ],
     "description": "Let us know exactly what you need and we will give you a100% FREE No Obligationhouse removal quote in minutes"
-  },
-  {
-    "name": "York Transport And Waste Solutions Ltd",
-    "address": "Wigginton Rd, York, YO32 2RJ, GB",
-    "phone": "07590 231219",
-    "international_phone": "07590 231219",
-    "website": "https://yorktandwsolutions.com/",
-    "google_maps_url": "https://www.google.com/maps/place/York+Transport+And+Waste+Solutions+Ltd/data=!4m7!3m6!1s0x48793300514651f7:0x610ef1b71027fa04!8m2!3d53.9985331!4d-1.0901282!16s%2Fg%2F11yb3wbb6c!19sChIJ91FGUQAzeUgRBPonELfxDmE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 49,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Waste-Management Service",
-    "lat": 53.998533,
-    "lng": -1.090128,
-    "found_in_location": "York",
-    "found_with_query": "removals yorkshire",
-    "email": "yorktandwsolutions@yahoo.com"
   },
   {
     "name": "Green Bin Hull",
@@ -837,6 +887,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "hullgreenbin@gmail.com",
+    "emails": [
+      "hullgreenbin@gmail.com"
+    ],
     "description": "Green Bin Hull offers reliable garden debris clearance and garage clear-outs in Hull. Fast, eco-friendly waste removal tailored to your needs."
   },
   {
@@ -858,21 +911,25 @@
     "description": "Welcome to Tardis Removals. Established in 1998, we are a Leeds based removal company providing a competitively priced and professional service to both domestic and business customers. We do Full and Part House Clearances and also Rubbish Removal. We are fully insured for both public liability..."
   },
   {
-    "name": "Leeds Bradford Handyman With A Van",
-    "address": "1 Viaduct St., Stanningley, Pudsey, LS28 6RR, GB",
-    "phone": "07538 866741",
-    "international_phone": "07538 866741",
-    "website": "http://www.thehandymanwithavan.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Leeds+Bradford+Handyman+With+A+Van/data=!4m7!3m6!1s0x487be1a376762103:0x15aab41b285c19e3!8m2!3d53.804565!4d-1.6681887!16s%2Fg%2F11ygdsmkxx!19sChIJAyF2dqPhe0gR4xlcKBu0qhU?authuser=0&hl=en&rclk=1",
+    "name": "York Transport And Waste Solutions Ltd",
+    "address": "Wigginton Rd, York, YO32 2RJ, GB",
+    "phone": "07590 231219",
+    "international_phone": "07590 231219",
+    "website": "https://yorktandwsolutions.com/",
+    "google_maps_url": "https://www.google.com/maps/place/York+Transport+And+Waste+Solutions+Ltd/data=!4m7!3m6!1s0x48793300514651f7:0x610ef1b71027fa04!8m2!3d53.9985331!4d-1.0901282!16s%2Fg%2F11yb3wbb6c!19sChIJ91FGUQAzeUgRBPonELfxDmE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 45,
+    "total_reviews": 49,
     "business_status": "OPERATIONAL",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals company",
-    "lat": 53.804565,
-    "lng": -1.668189,
-    "found_in_location": "Bradford",
-    "found_with_query": "removals yorkshire"
+    "types": "Waste-Management Service",
+    "lat": 53.998533,
+    "lng": -1.090128,
+    "found_in_location": "York",
+    "found_with_query": "removals yorkshire",
+    "email": "yorktandwsolutions@yahoo.com",
+    "emails": [
+      "yorktandwsolutions@yahoo.com"
+    ]
   },
   {
     "name": "AR Waste Removal Ltd",
@@ -891,26 +948,29 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@argroupwakefield.co.uk",
+    "emails": [
+      "info@argroupwakefield.co.uk",
+      "info@arremovalswakefield.co.uk",
+      "info@arwasteremoval.co.uk"
+    ],
     "description": "AR Waste Removal Wakefield offers low-cost waste removal services across Yorkshire. Cheaper than a skip + 90% of waste is recycled! For homes, business & garden clearances"
   },
   {
-    "name": "MooveIt Removals",
-    "address": "5 Cosgrove Ct, Edenthorpe, Doncaster, DN3 2RJ, GB",
-    "phone": "01302 891295",
-    "international_phone": "01302 891295",
-    "website": "https://www.wemooveit.com/",
-    "google_maps_url": "https://www.google.com/maps/place/MooveIt+Removals/data=!4m7!3m6!1s0x48790fd682ae939f:0x3452606a5565b815!8m2!3d53.5554862!4d-1.0652263!16s%2Fg%2F11b5s2fvyj!19sChIJn5OugtYPeUgRFbhlVWpgUjQ?authuser=0&hl=en&rclk=1",
+    "name": "Leeds Bradford Handyman With A Van",
+    "address": "1 Viaduct St., Stanningley, Pudsey, LS28 6RR, GB",
+    "phone": "07538 866741",
+    "international_phone": "07538 866741",
+    "website": "http://www.thehandymanwithavan.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Leeds+Bradford+Handyman+With+A+Van/data=!4m7!3m6!1s0x487be1a376762103:0x15aab41b285c19e3!8m2!3d53.804565!4d-1.6681887!16s%2Fg%2F11ygdsmkxx!19sChIJAyF2dqPhe0gR4xlcKBu0qhU?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 42,
+    "total_reviews": 45,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Removals company",
-    "lat": 53.555486,
-    "lng": -1.065226,
-    "found_in_location": "Doncaster",
-    "found_with_query": "removals yorkshire",
-    "email": "adams.removals2@gmail.com",
-    "description": "Are you planning a home removal in Doncaster and looking for a reliable and professional house removals company to handle the job? Look no further than Moovit Removals! With their extensive experience and commitment to delivering exceptional service, MoveIt Removals has established itself as a..."
+    "lat": 53.804565,
+    "lng": -1.668189,
+    "found_in_location": "Bradford",
+    "found_with_query": "removals yorkshire"
   },
   {
     "name": "Little Movers Removals",
@@ -929,7 +989,32 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "littlemovers.chris@gmail.com",
+    "emails": [
+      "littlemovers.chris@gmail.com"
+    ],
     "description": "Providers of affordable and professional house removals and man & van service in Garforth and surrounding areas, contact us now."
+  },
+  {
+    "name": "MooveIt Removals",
+    "address": "5 Cosgrove Ct, Edenthorpe, Doncaster, DN3 2RJ, GB",
+    "phone": "01302 891295",
+    "international_phone": "01302 891295",
+    "website": "https://www.wemooveit.com/",
+    "google_maps_url": "https://www.google.com/maps/place/MooveIt+Removals/data=!4m7!3m6!1s0x48790fd682ae939f:0x3452606a5565b815!8m2!3d53.5554862!4d-1.0652263!16s%2Fg%2F11b5s2fvyj!19sChIJn5OugtYPeUgRFbhlVWpgUjQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 42,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–9 pm\"],\"Monday\":[\"8 am–9 pm\"],\"Saturday\":[\"8 am–9 pm\"],\"Sunday\":[\"8 am–9 pm\"],\"Thursday\":[\"8 am–9 pm\"],\"Tuesday\":[\"8 am–9 pm\"],\"Wednesday\":[\"8 am–9 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.555486,
+    "lng": -1.065226,
+    "found_in_location": "Doncaster",
+    "found_with_query": "removals yorkshire",
+    "email": "adams.removals2@gmail.com",
+    "emails": [
+      "adams.removals2@gmail.com"
+    ],
+    "description": "Are you planning a home removal in Doncaster and looking for a reliable and professional house removals company to handle the job? Look no further than Moovit Removals! With their extensive experience and commitment to delivering exceptional service, MoveIt Removals has established itself as a..."
   },
   {
     "name": "Knaresborough Movers - Professional Removals",
@@ -968,25 +1053,6 @@
     "description": "In саѕе you’re planning tо mоvе уоur hоuѕе аnd уоu don’t really hаvе thе rеѕоurсеѕ tо саrrу оut the entire рrосеѕѕ оn уоur own then you muѕt соnѕіdеr hіrіng a рrоfеѕѕіоnаl rеmоvаl соmраnу. Yоu muѕt ensure thаt you dо rеlосаtе уоur еntіrе hоuѕе according tо уоur preference. A rерutеd аnd..."
   },
   {
-    "name": "SHEFFIELD REMOVALS",
-    "address": "31 Washington Rd, Highfield, Sheffield, S11 8DP, GB",
-    "phone": "07888 220088",
-    "international_phone": "07888 220088",
-    "website": "https://www.catchmenow.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/SHEFFIELD+REMOVALS/data=!4m7!3m6!1s0x48798366f5dbe809:0xa1599ef847db8fee!8m2!3d53.3703456!4d-1.4821719!16s%2Fg%2F11lzww8vdk!19sChIJCejb9WaDeUgR7o_bR_ieWaE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 32,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals Service",
-    "lat": 53.370346,
-    "lng": -1.482172,
-    "found_in_location": "Sheffield",
-    "found_with_query": "removals yorkshire",
-    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "description": "At Catch Me Now Removals LTD, we understand that moving can be a significant expense. That's why we offer affordable moving and storage solutions tailored to fit your budget. Our transparent pricing ensures you won’t encounter hidden fees, and our experienced team is dedicated to providing..."
-  },
-  {
     "name": "Appleyards of East Yorkshire",
     "address": "Britannia Appleyards, Therm Rd, Cleveland St, Hull, HU8 7BF, GB",
     "phone": "01482 221898",
@@ -1003,7 +1069,36 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "info@removalshull.com",
+    "emails": [
+      "info@removalshull.com"
+    ],
     "description": "Trusted removals in Hull. House moves, office relocations & storage. Over 30 years of care, planning & service. Get your free moving estimate."
+  },
+  {
+    "name": "SHEFFIELD REMOVALS",
+    "address": "31 Washington Rd, Highfield, Sheffield, S11 8DP, GB",
+    "phone": "07888 220088",
+    "international_phone": "07888 220088",
+    "website": "https://www.catchmenow.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/SHEFFIELD+REMOVALS/data=!4m7!3m6!1s0x48798366f5dbe809:0xa1599ef847db8fee!8m2!3d53.3703456!4d-1.4821719!16s%2Fg%2F11lzww8vdk!19sChIJCejb9WaDeUgR7o_bR_ieWaE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 32,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals Service",
+    "lat": 53.370346,
+    "lng": -1.482172,
+    "found_in_location": "Sheffield",
+    "found_with_query": "removals yorkshire",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "catchme@catchmenow.co.uk",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@mysite.com"
+    ],
+    "description": "At Catch Me Now Removals LTD, we understand that moving can be a significant expense. That's why we offer affordable moving and storage solutions tailored to fit your budget. Our transparent pricing ensures you won’t encounter hidden fees, and our experienced team is dedicated to providing..."
   },
   {
     "name": "The york van man",
@@ -1022,6 +1117,10 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "micah@micahrich.com",
+    "emails": [
+      "micah@micahrich.com",
+      "wezbidd@gmail.com"
+    ],
     "description": "Tel: 07930156666 Email: Wezbidd@gmail.com"
   },
   {
@@ -1060,23 +1159,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Rocky Elite Removals LEEDS MAN WITH VAN",
-    "address": "48 Dorset Terrace, Harehills, Leeds, LS8 3QR, GB",
-    "phone": "07405 201320",
-    "international_phone": "07405 201320",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Rocky+Elite+Removals+LEEDS+MAN+WITH+VAN/data=!4m7!3m6!1s0x48795ba8da498905:0x6c02b3b07f96040b!8m2!3d53.814344!4d-1.5120946!16s%2Fg%2F11z0nr7j37!19sChIJBYlJ2qhbeUgRCwSWf7CzAmw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 27,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"6 am–10 pm\"],\"Monday\":[\"6 am–10 pm\"],\"Saturday\":[\"6 am–10 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–10 pm\"],\"Tuesday\":[\"6 am–10 pm\"],\"Wednesday\":[\"6 am–10 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.814344,
-    "lng": -1.512095,
-    "found_in_location": "Leeds",
-    "found_with_query": "removals yorkshire"
-  },
-  {
     "name": "My House Removals Ltd",
     "address": "James St, York, YO10 3WW, GB",
     "phone": "01904 375007",
@@ -1093,23 +1175,26 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "bookings@myhouseremovals.co.uk",
+    "emails": [
+      "bookings@myhouseremovals.co.uk"
+    ],
     "description": "Are you looking for a removals & storage company? Myhouseremovals offers quality house removals in York , Call No 01904 375 007"
   },
   {
-    "name": "Jack & Van",
-    "address": "46 Rutland Ave, Wakefield, WF2 7LD, GB",
-    "phone": "07835 103076",
-    "international_phone": "07835 103076",
+    "name": "Rocky Elite Removals LEEDS MAN WITH VAN",
+    "address": "48 Dorset Terrace, Harehills, Leeds, LS8 3QR, GB",
+    "phone": "07405 201320",
+    "international_phone": "07405 201320",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Jack+%26+Van/data=!4m7!3m6!1s0x487966f4dddb2d69:0xca12b869c179f938!8m2!3d53.663771!4d-1.4954489!16s%2Fg%2F11hcysb7l2!19sChIJaS3b3fRmeUgROPl5wWm4Eso?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/Rocky+Elite+Removals+LEEDS+MAN+WITH+VAN/data=!4m7!3m6!1s0x48795ba8da498905:0x6c02b3b07f96040b!8m2!3d53.814344!4d-1.5120946!16s%2Fg%2F11z0nr7j37!19sChIJBYlJ2qhbeUgRCwSWf7CzAmw?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 26,
+    "total_reviews": 27,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Transportation service",
-    "lat": 53.663771,
-    "lng": -1.495449,
-    "found_in_location": "Wakefield",
+    "opening_hours": "{\"Friday\":[\"6 am–10 pm\"],\"Monday\":[\"6 am–10 pm\"],\"Saturday\":[\"6 am–10 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"6 am–10 pm\"],\"Tuesday\":[\"6 am–10 pm\"],\"Wednesday\":[\"6 am–10 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.814344,
+    "lng": -1.512095,
+    "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire"
   },
   {
@@ -1129,26 +1214,10 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "blexhotransport@gmail.com",
+    "emails": [
+      "blexhotransport@gmail.com"
+    ],
     "description": "Reliable and affordable delivery, removals and transport services in Yorkshire. Call us for a quote on 07375551390"
-  },
-  {
-    "name": "Chain2Grain Tree Services",
-    "address": "7 Lawrence Rd, Marsh, Huddersfield, HD1 4LY, GB",
-    "phone": "07759 519663",
-    "international_phone": "07759 519663",
-    "website": "http://www.chain2grain.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Chain2Grain+Tree+Services/data=!4m7!3m6!1s0x487bddd82dbe1bbf:0x2cf027767a3463b8!8m2!3d53.6480475!4d-1.8040572!16s%2Fg%2F11q9tjpqqh!19sChIJvxu-Ldjde0gRuGM0enYn8Cw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 22,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Tree service",
-    "lat": 53.648047,
-    "lng": -1.804057,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
-    "description": "Tree Surgeon Huddersfield, Tree Services, Tree Surgeon near me, Hedge Trimming, Garden Maintenance. Chain2Grain Tree Surgery & Site Clearance in Huddersfield and West Yorkshire, Professional, fully insured arborists for storm damage, hedge management and commercial clearance. We specialise in..."
   },
   {
     "name": "DAP Man and Van removals",
@@ -1167,6 +1236,18 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "daleparker@live.co.uk",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "example@mysite.com"
+    ],
     "description": "Yorkshires Premier Removals company | Dap man & van services is a well established and trusted removals company, Transport Company"
   },
   {
@@ -1186,6 +1267,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "info@ravenhillremovals.co.uk",
+    "emails": [
+      "info@ravenhillremovals.co.uk"
+    ],
     "description": "Professional moving company in Sheffield and the UK, providing house removals, business moves, office clearances, packing services and more. Find out why Ravenhill Removals have been voted the best removals company in Sheffield for 6 years running."
   },
   {
@@ -1205,7 +1289,34 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@monstermoverswaste.co.uk",
+    "emails": [
+      "info@monstermoverswaste.co.uk"
+    ],
     "description": "Learn more about Monster Movers. Waste Removal specialists based in Leeds. We are fully insured to carry any Domestic, Commercial or Industrial waste."
+  },
+  {
+    "name": "Cass Removals",
+    "address": "36 Cornflower Dr, Bessacarr, Doncaster, DN4 7DH, GB",
+    "phone": "07717 406602",
+    "international_phone": "07717 406602",
+    "website": "https://cassremovals.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Cass+Removals/data=!4m7!3m6!1s0x48790fa4397314d1:0x4b45f54b95dbac6b!8m2!3d53.5082702!4d-1.0978359!16s%2Fg%2F11vbvfh4fj!19sChIJ0RRzOaQPeUgRa6zblUv1RUs?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 17,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.50827,
+    "lng": -1.097836,
+    "found_in_location": "Doncaster",
+    "found_with_query": "removals yorkshire",
+    "email": "info@cassrem.com",
+    "emails": [
+      "info@cassrem.com",
+      "info@cassremovals.co.uk",
+      "john@mycompany.com"
+    ],
+    "description": "Here at Cass Removals, we provide a range of fully insured services to cover all of your residential or commercial moving needs. From single items, to full house or even office moves, we have a service to suit you. We offer a various range of vehicle sizes to suit your move, big or small, we’ll..."
   },
   {
     "name": "Monstermove",
@@ -1226,25 +1337,6 @@
     "description": "Monster Move are a friendly, professional and fully insured removal company in the Hull, East Yorkshire region. We also do office relocations."
   },
   {
-    "name": "Cass Removals",
-    "address": "36 Cornflower Dr, Bessacarr, Doncaster, DN4 7DH, GB",
-    "phone": "07717 406602",
-    "international_phone": "07717 406602",
-    "website": "https://cassremovals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cass+Removals/data=!4m7!3m6!1s0x48790fa4397314d1:0x4b45f54b95dbac6b!8m2!3d53.5082702!4d-1.0978359!16s%2Fg%2F11vbvfh4fj!19sChIJ0RRzOaQPeUgRa6zblUv1RUs?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Removals company",
-    "lat": 53.50827,
-    "lng": -1.097836,
-    "found_in_location": "Doncaster",
-    "found_with_query": "removals yorkshire",
-    "email": "info@cassrem.com",
-    "description": "Here at Cass Removals, we provide a range of fully insured services to cover all of your residential or commercial moving needs. From single items, to full house or even office moves, we have a service to suit you. We offer a various range of vehicle sizes to suit your move, big or small, we’ll..."
-  },
-  {
     "name": "The Van Man",
     "address": "Regent Rd, Ilkley, LS29 9EA, GB",
     "phone": "07880 089983",
@@ -1261,43 +1353,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "thevanmanservice@gmail.com",
+    "emails": [
+      "thevanmanservice@gmail.com"
+    ],
     "description": "At The Van Man, we’re your trusted local experts for house removals, transport services and everything in-between throughout Leeds, Ilkley, Skipton, Bradford, Headingley, Otley, Keighley, Horsforth & surrounding areas. Whether you’re moving home, relocating your business, requiring same day..."
-  },
-  {
-    "name": "AK Recovery Huddersfield",
-    "address": "31 Thistle St, Huddersfield, HD1 6PU, GB",
-    "phone": "07854 499558",
-    "international_phone": "07854 499558",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/AK+Recovery+Huddersfield/data=!4m7!3m6!1s0x487bddf157b64d39:0x2398714dcfe715d1!8m2!3d53.6544568!4d-1.7737595!16s%2Fg%2F11v59yt3hh!19sChIJOU22V_Hde0gR0RXnz01xmCM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Vehicle shipping agent",
-    "lat": 53.654457,
-    "lng": -1.773759,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire"
-  },
-  {
-    "name": "Simon Morris Removals & Storage Ltd",
-    "address": "20-21 Hassacarr Cl, Chessingham Park, Dunnington, York, YO19 5SN, GB",
-    "phone": "01904 481366",
-    "international_phone": "01904 481366",
-    "website": "https://www.simonmorristransport.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Simon+Morris+Removals+%26+Storage+Ltd/data=!4m7!3m6!1s0x48792efbc1048a73:0xd2e30f4e0475148f!8m2!3d53.957209!4d-0.975122!16s%2Fg%2F1hfgf_sz4!19sChIJc4oEwfsueUgRjxR1BE4P49I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 14,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.957209,
-    "lng": -0.975122,
-    "found_in_location": "York",
-    "found_with_query": "removals yorkshire",
-    "email": "simonmorristransport@gmail.com",
-    "description": "Your Trusted York Removal Company. Reliable, Affordable, Stress-Free Moves. Contact Us Today at Simon Morris Removals & Transport Services"
   },
   {
     "name": "Harrogate Removals",
@@ -1316,7 +1375,66 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "emails": [
+      "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "463991d7bca24f02a0baf16f9e6eda73@sentry.wixpress.com",
+      "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+      "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "info@harrogateremovals.com"
+    ],
     "description": "Reliable house removals company in Harrogate and North Yorkshire. Professional movers for homes, flats, and offices. Get your free quote today!"
+  },
+  {
+    "name": "Simon Morris Removals & Storage Ltd",
+    "address": "20-21 Hassacarr Cl, Chessingham Park, Dunnington, York, YO19 5SN, GB",
+    "phone": "01904 481366",
+    "international_phone": "01904 481366",
+    "website": "https://www.simonmorristransport.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Simon+Morris+Removals+%26+Storage+Ltd/data=!4m7!3m6!1s0x48792efbc1048a73:0xd2e30f4e0475148f!8m2!3d53.957209!4d-0.975122!16s%2Fg%2F1hfgf_sz4!19sChIJc4oEwfsueUgRjxR1BE4P49I?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 14,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.957209,
+    "lng": -0.975122,
+    "found_in_location": "York",
+    "found_with_query": "removals yorkshire",
+    "email": "simonmorristransport@gmail.com",
+    "emails": [
+      "simonmorristransport@gmail.com"
+    ],
+    "description": "Your Trusted York Removal Company. Reliable, Affordable, Stress-Free Moves. Contact Us Today at Simon Morris Removals & Transport Services"
+  },
+  {
+    "name": "A2B House Clearance & Waste",
+    "address": "43 Broom Pl, Belle Isle, Leeds, LS10 3LS, GB",
+    "phone": "07921 512796",
+    "international_phone": "07921 512796",
+    "website": "https://www.a2bhouseclearances.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/A2B+House+Clearance+%26+Waste/data=!4m7!3m6!1s0xa8dc6253a092b013:0xdef26ef685fce513!8m2!3d53.755697!4d-1.5196238!16s%2Fg%2F11kqg5wjsb!19sChIJE7CSoFNi3KgRE-X8hfZu8t4?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 13,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "House clearance service",
+    "lat": 53.755697,
+    "lng": -1.519624,
+    "found_in_location": "Leeds",
+    "found_with_query": "removals yorkshire",
+    "email": "andy@a2bhouseclearances.co.uk",
+    "emails": [
+      "andy@a2bhouseclearances.co.uk"
+    ],
+    "description": "Hi, I’m Andy, At A2B House Clearance & Waste removals we offer an alternative to the usual skip service and save time as saving you money and time. Whether it’s that one item that’s been sitting in your garden all season or a full property clearance including fixtures and fittings. Our service..."
   },
   {
     "name": "Alwoodley man and van",
@@ -1334,6 +1452,28 @@
     "lng": -1.559463,
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire"
+  },
+  {
+    "name": "Benns of Halifax",
+    "address": "Huddersfield Rd, Halifax, Brighouse, Brighouse, HD6 3RQ, GB",
+    "phone": "01422 747036",
+    "international_phone": "01422 747036",
+    "website": "http://www.darvills.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Benns+of+Halifax/data=!4m7!3m6!1s0x487bddc72a65259d:0xe71e0cb2a87b331c!8m2!3d53.6968489!4d-1.7784735!16s%2Fg%2F1q5ccfl9r!19sChIJnSVlKsfde0gRHDN7qLIMHuc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 13,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.696849,
+    "lng": -1.778473,
+    "found_in_location": "Huddersfield",
+    "found_with_query": "removals yorkshire",
+    "email": "info@darvills.co.uk",
+    "emails": [
+      "info@darvills.co.uk"
+    ],
+    "description": "Looking for reputable Removals Companies that also offers Storage in Bradford & Halifax? We can help give us a call for a FREE Quotation."
   },
   {
     "name": "Britannia Olivers",
@@ -1370,25 +1510,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Benns of Halifax",
-    "address": "Huddersfield Rd, Halifax, Brighouse, Brighouse, HD6 3RQ, GB",
-    "phone": "01422 747036",
-    "international_phone": "01422 747036",
-    "website": "http://www.darvills.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Benns+of+Halifax/data=!4m7!3m6!1s0x487bddc72a65259d:0xe71e0cb2a87b331c!8m2!3d53.6968489!4d-1.7784735!16s%2Fg%2F1q5ccfl9r!19sChIJnSVlKsfde0gRHDN7qLIMHuc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 13,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–5:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Removals company",
-    "lat": 53.696849,
-    "lng": -1.778473,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "info@darvills.co.uk",
-    "description": "Looking for reputable Removals Companies that also offers Storage in Bradford & Halifax? We can help give us a call for a FREE Quotation."
-  },
-  {
     "name": "Yorkshire Piano Logistics",
     "address": "6 Hill Grove Lea, Huddersfield, HD3 3YD, GB",
     "phone": "0300 302 3116",
@@ -1407,23 +1528,21 @@
     "description": "Expert piano removals across Yorkshire and the UK. Our trained team moves upright and grand pianos safely, locally or nationally. Get your free quote today."
   },
   {
-    "name": "A2B House Clearance & Waste",
-    "address": "43 Broom Pl, Belle Isle, Leeds, LS10 3LS, GB",
-    "phone": "07921 512796",
-    "international_phone": "07921 512796",
-    "website": "https://www.a2bhouseclearances.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A2B+House+Clearance+%26+Waste/data=!4m7!3m6!1s0xa8dc6253a092b013:0xdef26ef685fce513!8m2!3d53.755697!4d-1.5196238!16s%2Fg%2F11kqg5wjsb!19sChIJE7CSoFNi3KgRE-X8hfZu8t4?authuser=0&hl=en&rclk=1",
+    "name": "Hwrs, Hubbard's Waste & Rubbish Services",
+    "address": "Bull Ring, Wakefield, WF1 1HB, GB",
+    "phone": "07731 833294",
+    "international_phone": "07731 833294",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hwrs,+Hubbard%27s+Waste+%26+Rubbish+Services/data=!4m7!3m6!1s0x4879674f2c968795:0x8235f7a1375f661a!8m2!3d53.683378!4d-1.4988801!16s%2Fg%2F11jx6dg7rq!19sChIJlYeWLE9neUgRGmZfN6H3NYI?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 13,
+    "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "House clearance service",
-    "lat": 53.755697,
-    "lng": -1.519624,
-    "found_in_location": "Leeds",
-    "found_with_query": "removals yorkshire",
-    "email": "andy@a2bhouseclearances.co.uk",
-    "description": "Hi, I’m Andy, At A2B House Clearance & Waste removals we offer an alternative to the usual skip service and save time as saving you money and time. Whether it’s that one item that’s been sitting in your garden all season or a full property clearance including fixtures and fittings. Our service..."
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Waste-Management Service",
+    "lat": 53.683378,
+    "lng": -1.49888,
+    "found_in_location": "Wakefield",
+    "found_with_query": "removals yorkshire"
   },
   {
     "name": "JS Movers UK LTD",
@@ -1442,23 +1561,6 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "description": "Do you require house movers in Huddersfield and West Yorkshire? Our reliable moving company offers house clearance, removals and storage solutions."
-  },
-  {
-    "name": "Hwrs, Hubbard's Waste & Rubbish Services",
-    "address": "Bull Ring, Wakefield, WF1 1HB, GB",
-    "phone": "07731 833294",
-    "international_phone": "07731 833294",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Hwrs,+Hubbard%27s+Waste+%26+Rubbish+Services/data=!4m7!3m6!1s0x4879674f2c968795:0x8235f7a1375f661a!8m2!3d53.683378!4d-1.4988801!16s%2Fg%2F11jx6dg7rq!19sChIJlYeWLE9neUgRGmZfN6H3NYI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 12,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 53.683378,
-    "lng": -1.49888,
-    "found_in_location": "Wakefield",
-    "found_with_query": "removals yorkshire"
   },
   {
     "name": "Man and Van Leeds",
@@ -1495,23 +1597,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Ivan Sheffield | Man Van Sheffield | Moving and Storage service in Sheffield",
-    "address": "145 Boundary Rd, Sheffield, S2 5FH, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "http://ivansheffield.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Ivan+Sheffield+%7C+Man+Van+Sheffield+%7C+Moving+and+Storage+service+in+Sheffield/data=!4m7!3m6!1s0x487982c300c676e5:0x48dac7e12039f6f7!8m2!3d53.3770397!4d-1.444945!16s%2Fg%2F11c6yzvm1p!19sChIJ5XbGAMOCeUgR9_Y5IOHH2kg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.37704,
-    "lng": -1.444945,
-    "found_in_location": "Sheffield",
-    "found_with_query": "removals yorkshire"
-  },
-  {
     "name": "Doncaster Van Man",
     "address": "Bentley, Doncaster, Doncaster, DN5 9NE, GB",
     "phone": "07939 415901",
@@ -1528,7 +1613,28 @@
     "found_in_location": "Doncaster",
     "found_with_query": "removals yorkshire",
     "email": "john@doncastervanman.com",
+    "emails": [
+      "john@doncastervanman.com",
+      "johnsmorrell@hotmail.co.uk"
+    ],
     "description": "Doncaster's Quality Man and Van Service"
+  },
+  {
+    "name": "Ivan Sheffield | Man Van Sheffield | Moving and Storage service in Sheffield",
+    "address": "145 Boundary Rd, Sheffield, S2 5FH, GB",
+    "phone": "",
+    "international_phone": "",
+    "website": "http://ivansheffield.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Ivan+Sheffield+%7C+Man+Van+Sheffield+%7C+Moving+and+Storage+service+in+Sheffield/data=!4m7!3m6!1s0x487982c300c676e5:0x48dac7e12039f6f7!8m2!3d53.3770397!4d-1.444945!16s%2Fg%2F11c6yzvm1p!19sChIJ5XbGAMOCeUgR9_Y5IOHH2kg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.37704,
+    "lng": -1.444945,
+    "found_in_location": "Sheffield",
+    "found_with_query": "removals yorkshire"
   },
   {
     "name": "Yes Waste Management",
@@ -1565,6 +1671,9 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "info@yeswaste.com",
+    "emails": [
+      "info@yeswaste.com"
+    ],
     "description": "We are a licensed & fully-insured business waste disposal & waste management company. Nationwide commercial waste management service provider."
   },
   {
@@ -1585,25 +1694,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Your Man With A Van",
-    "address": "26 Paradise St, Bradford, BD1 2HR, GB",
-    "phone": "01274 963093",
-    "international_phone": "01274 963093",
-    "website": "https://yourmanwithavan.com/bradford-yorkshire/",
-    "google_maps_url": "https://www.google.com/maps/place/Your+Man+With+A+Van/data=!4m7!3m6!1s0x487be75b2a4a45df:0xd592c7f900af5fd7!8m2!3d53.7961069!4d-1.7634351!16s%2Fg%2F11vrynjxpj!19sChIJ30VKKlvne0gR11-vAPnHktU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
-    "types": "Removals company",
-    "lat": 53.796107,
-    "lng": -1.763435,
-    "found_in_location": "Bradford",
-    "found_with_query": "removals yorkshire",
-    "email": "chelmsford@yourmanwithavan.com",
-    "description": "A friendly local moving service for the town of Chelmsford, Essex. Covering light removals for both commercial and domestic sectors."
-  },
-  {
     "name": "Webbo's Removals",
     "address": "34 Causeway Cres, Linthwaite, Huddersfield, HD7 5NN, GB",
     "phone": "07817 387141",
@@ -1619,6 +1709,28 @@
     "lng": -1.854246,
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire"
+  },
+  {
+    "name": "Your Man With A Van",
+    "address": "26 Paradise St, Bradford, BD1 2HR, GB",
+    "phone": "01274 963093",
+    "international_phone": "01274 963093",
+    "website": "https://yourmanwithavan.com/bradford-yorkshire/",
+    "google_maps_url": "https://www.google.com/maps/place/Your+Man+With+A+Van/data=!4m7!3m6!1s0x487be75b2a4a45df:0xd592c7f900af5fd7!8m2!3d53.7961069!4d-1.7634351!16s%2Fg%2F11vrynjxpj!19sChIJ30VKKlvne0gR11-vAPnHktU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 7,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–8 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"8 am–8 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–8 pm\"],\"Tuesday\":[\"8 am–8 pm\"],\"Wednesday\":[\"8 am–8 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.796107,
+    "lng": -1.763435,
+    "found_in_location": "Bradford",
+    "found_with_query": "removals yorkshire",
+    "email": "bradford@yourmanwithavan.com",
+    "emails": [
+      "bradford@yourmanwithavan.com"
+    ],
+    "description": "A friendly local moving service for the west side of the city of Bradford. Covering light removals for both commercial and domestic sectors."
   },
   {
     "name": "Clearance Hull",
@@ -1724,25 +1836,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "huddersfield house clearance",
-    "address": "11 forest cottages, Holmfirth, HD9 6RJ, GB",
-    "phone": "01484 665739",
-    "international_phone": "01484 665739",
-    "website": "http://www.huddersfieldhouseclearance.com/",
-    "google_maps_url": "https://www.google.com/maps/place/huddersfield+house+clearance/data=!4m7!3m6!1s0x487bdaffbeeff231:0xbb76db89f31fe8ac!8m2!3d53.5917132!4d-1.8022449!16s%2Fg%2F11b6bdvfr4!19sChIJMfLvvv_ae0gRrOgf84nbdrs?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
-    "types": "House clearance service",
-    "lat": 53.591713,
-    "lng": -1.802245,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-    "description": "house clearance services in huddersfield , huddersfield house clearance , deceased houses cleared"
-  },
-  {
     "name": "Jorvik Removals & Self Storage Leeds",
     "address": "7 Lotherton Way, Garforth, Leeds, LS25 2JY, GB",
     "phone": "0113 824 0696",
@@ -1759,7 +1852,33 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@jorvikremovals.co.uk",
+    "emails": [
+      "info@jorvikremovals.co.uk"
+    ],
     "description": "Expert removals and house clearances in Leeds. Commercial moves also covered. 80+ years experience. Call today for a free quote."
+  },
+  {
+    "name": "huddersfield house clearance",
+    "address": "11 forest cottages, Holmfirth, HD9 6RJ, GB",
+    "phone": "01484 665739",
+    "international_phone": "01484 665739",
+    "website": "http://www.huddersfieldhouseclearance.com/",
+    "google_maps_url": "https://www.google.com/maps/place/huddersfield+house+clearance/data=!4m7!3m6!1s0x487bdaffbeeff231:0xbb76db89f31fe8ac!8m2!3d53.5917132!4d-1.8022449!16s%2Fg%2F11b6bdvfr4!19sChIJMfLvvv_ae0gRrOgf84nbdrs?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–7 pm\"],\"Monday\":[\"8 am–8 pm\"],\"Saturday\":[\"7 am–8 pm\"],\"Sunday\":[\"8 am–7 pm\"],\"Thursday\":[\"8 am–7 pm\"],\"Tuesday\":[\"8 am–7 pm\"],\"Wednesday\":[\"8 am–7 pm\"]}",
+    "types": "House clearance service",
+    "lat": 53.591713,
+    "lng": -1.802245,
+    "found_in_location": "Huddersfield",
+    "found_with_query": "removals yorkshire",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "mark.redfearn@btopenworld.com"
+    ],
+    "description": "house clearance services in huddersfield , huddersfield house clearance , deceased houses cleared"
   },
   {
     "name": "Leeds Junk & Rubbish Removal",
@@ -1778,6 +1897,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "bookings@leeds-junk.co.uk",
+    "emails": [
+      "bookings@leeds-junk.co.uk"
+    ],
     "description": "Need Waste Removal In Leeds - Bradford - Harrogate - Wakefield? Waste Collection For Your Home Or Business From Only £45. Get A Free Quote Now"
   },
   {
@@ -1797,6 +1919,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "hello@mjmccarthy.co.uk",
+    "emails": [
+      "hello@mjmccarthy.co.uk"
+    ],
     "description": "With over 50 years experience in removals and storage McCarthys is the largest privately owned removals company in Yorkshire."
   },
   {
@@ -1816,6 +1941,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@dandgmoves.co.uk",
+    "emails": [
+      "info@dandgmoves.co.uk"
+    ],
     "description": "D&G Moves offers professional, house & office removals in Leeds & Yorkshire. Fully accredited, No deposit, No waiting fees, No cancellation fees."
   },
   {
@@ -1835,6 +1963,14 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "9b2d036865304345b559aff283cf26f3@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "enquiries@newtonsremovalservices.co.uk"
+    ],
     "description": "Newtons Removal Services, One of Leeds & Yorkshires most trusted & reliable, family owned moving companies. Over 500 5* Online Reviews."
   },
   {
@@ -1854,6 +1990,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "info@hallamremovals.co.uk",
+    "emails": [
+      "info@hallamremovals.co.uk"
+    ],
     "description": "We deliver dedicated and high-quality removals in Sheffield, locally and nationally, ensuring that your move is stress-free. Contact us for a free quote today!"
   },
   {
@@ -1873,26 +2012,10 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "info@proremovalsyork.co.uk",
+    "emails": [
+      "info@proremovalsyork.co.uk"
+    ],
     "description": "Efficient, stress-free house removals in York. Expert team, careful handling, and tailored services to ensure a smooth transition to your new home. Trust Pro"
-  },
-  {
-    "name": "OCD Services Kirklees Ltd",
-    "address": "6 Queen St, Huddersfield, HD1 2SQ, GB",
-    "phone": "07804 045062",
-    "international_phone": "07804 045062",
-    "website": "https://www.ocdcleaningkirklees.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/OCD+Services+Kirklees+Ltd/data=!4m7!3m6!1s0x487bdc5cb511352d:0x7e2e4e5d63d32e79!8m2!3d53.6453803!4d-1.7803685!16s%2Fg%2F1q5bmt5jm!19sChIJLTURtVzce0gReS7TY11OLn4?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 188,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–4 pm\"],\"Monday\":[\"9 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–4 pm\"],\"Tuesday\":[\"9 am–4 pm\"],\"Wednesday\":[\"9 am–4 pm\"]}",
-    "types": "Cleaners",
-    "lat": 53.64538,
-    "lng": -1.780369,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "info@ocdcleaningkirklees.co.uk",
-    "description": "Choose OCD Services Kirklees Ltd for professional, reliable, and thorough cleaning solutions tailored to your needs. Contact us in Kirklees"
   },
   {
     "name": "Van Demand",
@@ -1929,26 +2052,10 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "info@rapidmoveuk.co.uk",
+    "emails": [
+      "info@rapidmoveuk.co.uk"
+    ],
     "description": "Based in Hull we offer house and business removals across Hull, Grimsby & Humberside, Quick, Efficient and friendly, get in touch for a FREE QUOTE today!"
-  },
-  {
-    "name": "Yorkshire Movers",
-    "address": "29 Blackmoor Ct, Leeds, LS17 7RS, GB",
-    "phone": "07849 026842",
-    "international_phone": "07849 026842",
-    "website": "http://www.yorkshiremovers.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Yorkshire+Movers/data=!4m7!3m6!1s0x4879599ea604964d:0x675a59db7f4911e4!8m2!3d53.8559224!4d-1.5614676!16s%2Fg%2F11h1s5g0vq!19sChIJTZYEpp5ZeUgR5BFJf9tZWmc?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 174,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.855922,
-    "lng": -1.561468,
-    "found_in_location": "Leeds",
-    "found_with_query": "removals yorkshire",
-    "email": "info@yorkshiremovers.co.uk",
-    "description": "Our promise to you is to provide the most efficient and professional house removals service in Leeds at a highly competitive price. We are a professional, experienced and trustworthy company delivering a high quality removals service."
   },
   {
     "name": "Hero Man & Van",
@@ -1967,7 +2074,32 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "helpdesk@heroservices.co.uk",
+    "emails": [
+      "helpdesk@heroservices.co.uk"
+    ],
     "description": "Expert house removals with 15+ years experience. Reliable man & van services for homes & offices across South Yorkshire. Free no-obligation quotes!"
+  },
+  {
+    "name": "Yorkshire Movers",
+    "address": "29 Blackmoor Ct, Leeds, LS17 7RS, GB",
+    "phone": "07849 026842",
+    "international_phone": "07849 026842",
+    "website": "http://www.yorkshiremovers.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Yorkshire+Movers/data=!4m7!3m6!1s0x4879599ea604964d:0x675a59db7f4911e4!8m2!3d53.8559224!4d-1.5614676!16s%2Fg%2F11h1s5g0vq!19sChIJTZYEpp5ZeUgR5BFJf9tZWmc?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 174,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.855922,
+    "lng": -1.561468,
+    "found_in_location": "Leeds",
+    "found_with_query": "removals yorkshire",
+    "email": "info@yorkshiremovers.co.uk",
+    "emails": [
+      "info@yorkshiremovers.co.uk"
+    ],
+    "description": "Our promise to you is to provide the most efficient and professional house removals service in Leeds at a highly competitive price. We are a professional, experienced and trustworthy company delivering a high quality removals service."
   },
   {
     "name": "Clearance and Clean Up",
@@ -2004,6 +2136,9 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "info@bradfordremovalservice.com",
+    "emails": [
+      "info@bradfordremovalservice.com"
+    ],
     "description": "We know that a house move can be stressful, especially if you’re moving locally. Luckily for all of our customers in Bradford and surrounding areas, we offer"
   },
   {
@@ -2023,6 +2158,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "info@arnolds-removals.com",
+    "emails": [
+      "info@arnolds-removals.com"
+    ],
     "description": "The premier removal and storage company in Hull, East Yorkshire. Are you moving house or office? Contact us today about our removals service."
   },
   {
@@ -2042,6 +2180,9 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@removalswakefield.co.uk",
+    "emails": [
+      "info@removalswakefield.co.uk"
+    ],
     "description": "Professional removals in Wakefield for homes, offices & students. Reliable packing, storage & transport. Free quotes – stress-free moving you can trust."
   },
   {
@@ -2061,6 +2202,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@yorkshirevanman.co.uk",
+    "emails": [
+      "info@yorkshirevanman.co.uk"
+    ],
     "description": "Whether you are looking for help with home removals, house and waste clearance services, or commercial courier support, Yorkshire Van Man operates a full logistics service throughout the UK, Ireland and mainland Europe, all from our headquarters in Leeds."
   },
   {
@@ -2080,6 +2224,9 @@
     "found_in_location": "Halifax",
     "found_with_query": "removals yorkshire",
     "email": "info@halifaxremovals.com",
+    "emails": [
+      "info@halifaxremovals.com"
+    ],
     "description": "House, Office, Student, Piano, Furniture Movers"
   },
   {
@@ -2099,6 +2246,18 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "bradford@dsdremovalsltd.com",
+    "emails": [
+      "bradford@dsdremovalsltd.com",
+      "halifax@dsdremovalsltd.com",
+      "harrogate@dsdremovalsltd.com",
+      "huddersfield@dsdremovalsltd.com",
+      "info@dsdremovalsltd.com",
+      "leeds@dsdremovalsltd.com",
+      "manchester@dsdremovalsltd.com",
+      "oldham@dsdremovalsltd.com",
+      "rochdale@dsdremovalsltd.com",
+      "wakefield@dsdremovalsltd.com"
+    ],
     "description": "Professional house, office and international removals across West Yorkshire. Reliable team offering packing services and secure storage options."
   },
   {
@@ -2118,6 +2277,9 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "info@proremovalsharrogate.co.uk",
+    "emails": [
+      "info@proremovalsharrogate.co.uk"
+    ],
     "description": "Harrogate Removals offer House #Removals, Office Moving, Student Relocation and Piano, Furniture services. +01423434786 Call us for Man van Services as well."
   },
   {
@@ -2137,6 +2299,9 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "info@huddersfieldremoval.co.uk",
+    "emails": [
+      "info@huddersfieldremoval.co.uk"
+    ],
     "description": "House, Office, Student, Piano, Furniture Movers"
   },
   {
@@ -2173,6 +2338,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "movers@cmbremovals.co.uk",
+    "emails": [
+      "movers@cmbremovals.co.uk"
+    ],
     "description": "Man with van removals Sheffield professional house movers and packers find how to move homes efficiently and stress free how to be ready for your relocation"
   },
   {
@@ -2192,6 +2360,9 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "rob@rsandsonsremovals.co.uk",
+    "emails": [
+      "rob@rsandsonsremovals.co.uk"
+    ],
     "description": "Removal companies in Shelley, Huddersfield? We are a reputed Removals company provides professional moving services for residential and commercial clients."
   },
   {
@@ -2211,6 +2382,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@aireremovalsleeds.co.uk",
+    "emails": [
+      "info@aireremovalsleeds.co.uk"
+    ],
     "description": "Trusted removal company in Leeds with 20+ years experience. Specializing in home removals, office relocations, packing & storage. Fully insured. Free quotes. Call 0113 305 3362"
   },
   {
@@ -2230,6 +2404,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "info@humbersidedeliveries.co.uk",
+    "emails": [
+      "info@humbersidedeliveries.co.uk"
+    ],
     "description": "Expert house removal services in Humberside. Get instant quotes for residential and commercial removals, storage solutions, and moving services."
   },
   {
@@ -2249,6 +2426,10 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "andrewsremovals@hotmail.co.uk",
+    "emails": [
+      "andrewsremovals@hotmail.co.uk",
+      "info@andrewsremovals.com"
+    ],
     "description": "Andrews Removals Company Sheffield provides expert house moving services and affordable packing plus storage for a stress free move."
   },
   {
@@ -2268,6 +2449,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "movebox@icloud.com",
+    "emails": [
+      "movebox@icloud.com",
+      "swiftremovalsnw@gmail.com"
+    ],
     "description": "Move Box Removals| We are moving experts. MoveBOX Removals- Cheap Budget Removals in Bradford, Shipley, Saltaire, Bingley, Keighley, Ilkley, Otley, Leeds York and Harrogate. We deal in House Removals, Business and office removals, Cheap Man and van services, Single Item pick up, Packing and..."
   },
   {
@@ -2304,6 +2489,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "gdas92@hotmail.com",
+    "emails": [
+      "gdas92@hotmail.com"
+    ],
     "description": "Reliable removals company serving Leeds, Wakefield, Harrogate, Halifax and Huddersfield. We handle house removals, domestic removals, office moves, commercial removals, man and van services, and clearance solutions. Trusted movers for smooth relocations and stress-free service."
   },
   {
@@ -2323,6 +2511,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "glennsmovers@outlook.com",
+    "emails": [
+      "glennsmovers@outlook.com"
+    ],
     "description": "Discover Stress-Free Moving Solutions with Glenns Movers Morley! Our dedicated team in Morley is committed to providing top-notch removal services, ensuring a seamless and efficient transition to your new home or office. From expert packing to secure transportation, we handle every detail,..."
   },
   {
@@ -2342,26 +2533,11 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@gbliners.com",
+    "emails": [
+      "info@gbliners.com",
+      "leeds@gbliners.com"
+    ],
     "description": "GB Liners is a removals company specialising in home moves & storage for Leeds & West Yorkshire, including York, Harrogate and beyond."
-  },
-  {
-    "name": "Bargain Box",
-    "address": "333 Manchester Rd, Crosland Moor, Huddersfield, HD4 5AA, GB",
-    "phone": "01484 435322",
-    "international_phone": "01484 435322",
-    "website": "https://www.bargainboxltd.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Bargain+Box/data=!4m7!3m6!1s0x487bdc7e391b6aeb:0xaf270644fe71620!8m2!3d53.6399099!4d-1.8051066!16s%2Fg%2F1thx_by_!19sChIJ62obOX7ce0gRIBbnT2Rw8go?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 51,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4 pm\"],\"Monday\":[\"8 am–4 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–4 pm\"],\"Tuesday\":[\"8 am–4 pm\"],\"Wednesday\":[\"8 am–4 pm\"]}",
-    "types": "Packaging Supply Shop",
-    "lat": 53.63991,
-    "lng": -1.805107,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "enquiries@bargainboxltd.com",
-    "description": "New, used and custom boxes supplier in West Yorkshire. We buy used and new surplus cardboard boxes at a higher price than scrap value. And we can sell boxes by the pallete load for commercial use. We also offer a custom box service. We can make boxes to your exact specifications. We can also..."
   },
   {
     "name": "Britannia Turnbulls of Leeds Removals",
@@ -2380,6 +2556,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@britanniaturnbulls.co.uk",
+    "emails": [
+      "info@britanniaturnbulls.co.uk"
+    ],
     "description": "If you are looking for a removals company in Leeds then Britannia Turnbull's are the experts. We are celebrating 150 years of Leeds Removals. Call us today."
   },
   {
@@ -2400,6 +2579,23 @@
     "found_with_query": "removals yorkshire"
   },
   {
+    "name": "AAA Removals",
+    "address": "Wheatley Hall Rd, Doncaster, DN2 4PE, GB",
+    "phone": "07983 874650",
+    "international_phone": "07983 874650",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/AAA+Removals/data=!4m7!3m6!1s0x8c2ba42548730761:0x144e7c5a839674!8m2!3d53.5415854!4d-1.1050068!16s%2Fg%2F11rhqctljt!19sChIJYQdzSCWkK4wRdJaDWnxOFAA?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 37,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Removals company",
+    "lat": 53.541585,
+    "lng": -1.105007,
+    "found_in_location": "Doncaster",
+    "found_with_query": "removals yorkshire"
+  },
+  {
     "name": "Mr Shifter Removals",
     "address": "1019 Harrogate Rd, Apperley Bridge, Bradford, BD10 0LT, GB",
     "phone": "07900 317400",
@@ -2416,23 +2612,6 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "description": "Mr Shifter Bradford offers Removals Bradford, Man and Van Bradford, why not call us today on 07900 317400 for a free quotation?"
-  },
-  {
-    "name": "AAA Removals",
-    "address": "Wheatley Hall Rd, Doncaster, DN2 4PE, GB",
-    "phone": "07983 874650",
-    "international_phone": "07983 874650",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/AAA+Removals/data=!4m7!3m6!1s0x8c2ba42548730761:0x144e7c5a839674!8m2!3d53.5415854!4d-1.1050068!16s%2Fg%2F11rhqctljt!19sChIJYQdzSCWkK4wRdJaDWnxOFAA?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Removals company",
-    "lat": 53.541585,
-    "lng": -1.105007,
-    "found_in_location": "Doncaster",
-    "found_with_query": "removals yorkshire"
   },
   {
     "name": "WKO Waste Management - Free Scrap Collections, House Clearances and much more",
@@ -2468,6 +2647,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "steve@thevanmanleeds.co.uk",
+    "emails": [
+      "steve@thevanmanleeds.co.uk"
+    ],
     "description": "Man with a van Leeds - from as little as £10 we offer a cheap removal service for Leeds and Headingley - student moves Leeds"
   },
   {
@@ -2487,6 +2669,11 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "contact@sansoxygen.com",
+    "emails": [
+      "contact@sansoxygen.com",
+      "rmrserv@yahoo.co.uk",
+      "rmrservyork@gmail.com"
+    ],
     "description": "York removals service. Affordable Home Removals for your house and office moves"
   },
   {
@@ -2525,24 +2712,6 @@
     "description": "Removals Harrogate - From a single item to a full home or office - M R Removals can help can help - Call us now on 07801 100183 for a free quote."
   },
   {
-    "name": "Copley Pest Solutions UK",
-    "address": "Office A, 1-9, Albion Square, Clifford St, Broomfields, Bradford, BD5 0HQ, GB",
-    "phone": "0800 302 9447",
-    "international_phone": "0800 302 9447",
-    "website": "https://copleypestcontrol.co.uk/?utm_source=google&utm_medium=business_profile&utm_campaign=tradius&utm_content=website_button",
-    "google_maps_url": "https://www.google.com/maps/place/Copley+Pest+Solutions+UK/data=!4m7!3m6!1s0x487be6c273f6c8ed:0xc9a0e6d5df124f6f!8m2!3d53.7881933!4d-1.7526932!16s%2Fg%2F11cn9mnw74!19sChIJ7cj2c8Lme0gRb08S39XmoMk?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 2875,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Pest control service",
-    "lat": 53.788193,
-    "lng": -1.752693,
-    "found_in_location": "Bradford",
-    "found_with_query": "removals yorkshire",
-    "description": "Copley Pest Solutions is a top provider of commercial & domestic pest control across Bradford and West Yorkshire. Call Now."
-  },
-  {
     "name": "Henry Speight Ltd",
     "address": "42-44 Leppings Ln, Sheffield, S6 1ST, GB",
     "phone": "0114 258 5883",
@@ -2559,6 +2728,9 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "welcome@henryspeight.co.uk",
+    "emails": [
+      "welcome@henryspeight.co.uk"
+    ],
     "description": "We understand that you’ll want a removal company that’s dedicated to making your move easier. You’ll want a company that you can trust, knowing your belongings will be safe during transit."
   },
   {
@@ -2578,26 +2750,10 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "info@prosheffieldremovals.co.uk",
+    "emails": [
+      "info@prosheffieldremovals.co.uk"
+    ],
     "description": "We are top rated removals company in Sheffield, providing house removals, office removals, student removals, piano removals and furniture removals services."
-  },
-  {
-    "name": "The Expert Cleaners",
-    "address": "63 Laburnum Terrace, Huddersfield, HD1 6JG, GB",
-    "phone": "07418 312851",
-    "international_phone": "07418 312851",
-    "website": "https://theexpertcleaners.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Expert+Cleaners/data=!4m7!3m6!1s0x487bdd91e09d3bb5:0x7f6692cffcb6c668!8m2!3d53.6548532!4d-1.7809625!16s%2Fg%2F11lf0r42ld!19sChIJtTud4JHde0gRaMa2_M-SZn8?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 180,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–11 pm\"],\"Monday\":[\"7 am–11 pm\"],\"Saturday\":[\"7 am–11 pm\"],\"Sunday\":[\"7 am–11 pm\"],\"Thursday\":[\"7 am–11 pm\"],\"Tuesday\":[\"7 am–11 pm\"],\"Wednesday\":[\"7 am–11 pm\"]}",
-    "types": "Carpet cleaning service",
-    "lat": 53.654853,
-    "lng": -1.780963,
-    "found_in_location": "Huddersfield",
-    "found_with_query": "removals yorkshire",
-    "email": "info@theexpertcleaners.co.uk",
-    "description": "The Expert Cleaners provide professional carpet cleaning in Huddersfield, UK with deep steam cleaning and quick drying for fresh, spotless carpets every time. Call your nearby carpet cleaners."
   },
   {
     "name": "AR Removals Wakefield",
@@ -2616,6 +2772,10 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@argroupwakefield.co.uk",
+    "emails": [
+      "info@argroupwakefield.co.uk",
+      "info@arremovalswakefield.co.uk"
+    ],
     "description": "AR Removals Wakefield does house or office removals across Yorkshire. From single items to relocations. Get a free removals quote online now"
   },
   {
@@ -2636,25 +2796,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Removals For You",
-    "address": "Unit 3, Apollo Business Centre, Hull Rd, Lund, Selby, YO8 5HX, GB",
-    "phone": "07960 618248",
-    "international_phone": "07960 618248",
-    "website": "https://www.removals-yorkshire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Removals+For+You/data=!4m7!3m6!1s0x48793ce05fae8465:0xf53fc941feef9304!8m2!3d53.7871913!4d-1.0177029!16s%2Fg%2F11g_5l9y3!19sChIJZYSuX-A8eUgRBJPv_kHJP_U?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 81,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
-    "types": "Removals Service",
-    "lat": 53.787191,
-    "lng": -1.017703,
-    "found_in_location": "York",
-    "found_with_query": "removals yorkshire",
-    "email": "removalsforyou@aol.com",
-    "description": "A premier removals company in Selby and York. If you need any kind of removal or storage service in the Selby area, call 01757 700602 today!"
-  },
-  {
     "name": "Ace and Quick Moves",
     "address": "3 Marlowe St, Hull, HU8 8NE, GB",
     "phone": "01482 701595",
@@ -2671,7 +2812,32 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "aceandquickmoves@yahoo.co.uk",
+    "emails": [
+      "aceandquickmoves@yahoo.co.uk"
+    ],
     "description": "Ace & Quick Moves – Local & Long-Distance Moving Experts You Can Trust"
+  },
+  {
+    "name": "Removals For You",
+    "address": "Unit 3, Apollo Business Centre, Hull Rd, Lund, Selby, YO8 5HX, GB",
+    "phone": "07960 618248",
+    "international_phone": "07960 618248",
+    "website": "https://www.removals-yorkshire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Removals+For+You/data=!4m7!3m6!1s0x48793ce05fae8465:0xf53fc941feef9304!8m2!3d53.7871913!4d-1.0177029!16s%2Fg%2F11g_5l9y3!19sChIJZYSuX-A8eUgRBJPv_kHJP_U?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 81,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–7 pm\"],\"Monday\":[\"7 am–7 pm\"],\"Saturday\":[\"7 am–5 pm\"],\"Sunday\":[\"10 am–4 pm\"],\"Thursday\":[\"7 am–7 pm\"],\"Tuesday\":[\"7 am–7 pm\"],\"Wednesday\":[\"7 am–7 pm\"]}",
+    "types": "Removals Service",
+    "lat": 53.787191,
+    "lng": -1.017703,
+    "found_in_location": "York",
+    "found_with_query": "removals yorkshire",
+    "email": "removalsforyou@aol.com",
+    "emails": [
+      "removalsforyou@aol.com"
+    ],
+    "description": "A premier removals company in Selby and York. If you need any kind of removal or storage service in the Selby area, call 01757 700602 today!"
   },
   {
     "name": "JAMES KAHN REMOVALS",
@@ -2690,6 +2856,9 @@
     "found_in_location": "Huddersfield",
     "found_with_query": "removals yorkshire",
     "email": "jameskahnremovals@gmail.com",
+    "emails": [
+      "jameskahnremovals@gmail.com"
+    ],
     "description": "Experience a smooth move with our expert team, where every step is a step closer to your new home. From packing to unpacking, we handle it all, making your transition effortless. Trust us to move your memories with care, because your journey begins with us."
   },
   {
@@ -2709,6 +2878,9 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@holdsworthsremovals.co.uk",
+    "emails": [
+      "enquiries@holdsworthsremovals.co.uk"
+    ],
     "description": "With over 100 years of experience, Holdsworths of Leeds have extensive knowledge of home & business removals as well as supplying a storage & packing service"
   },
   {
@@ -2728,6 +2900,12 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "emails": [
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "info@arrowremovals.co.uk"
+    ],
     "description": "Professional Removal and storage service that has been trading 27 years with the same name. With our central location and own storage facility our trained staff will be happy to help you with all your moving needs. get in contact here at Arrow storage and removals."
   },
   {
@@ -2747,6 +2925,9 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "enquiry@rocketremovalsandstorage.co.uk",
+    "emails": [
+      "enquiry@rocketremovalsandstorage.co.uk"
+    ],
     "description": "We were established in 2008 and now provide a wide range of local, nationwide and European moving and storage services for homes and businesses around Harrogate and District, York and North Leeds; home removals, business relocations, exhibitions, container storage, self storage, archiving,..."
   },
   {
@@ -2783,6 +2964,9 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "info@yorkshireremovals.com",
+    "emails": [
+      "info@yorkshireremovals.com"
+    ],
     "description": "Home Removals from and to Harrogate, Knaresborough, Boroughbridge, Ripon, Pateley Bridge, and surrounding areas"
   },
   {
@@ -2820,7 +3004,33 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "andrew@hooksremovals.co.uk",
+    "emails": [
+      "andrew@hooksremovals.co.uk",
+      "john@hooksremovals.co.uk"
+    ],
     "description": "Hooks Removals is a family-run York Removals company. We offer quality removal services at reasonable prices. Call us today for a free estimate."
+  },
+  {
+    "name": "Junk Doctor",
+    "address": "42C Kings Rd, Doncaster, DN1 2LX, GB",
+    "phone": "01302 353311",
+    "international_phone": "01302 353311",
+    "website": "https://junkdoctor.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Junk+Doctor/data=!4m7!3m6!1s0x48790dd8358eaaab:0xa44f652da22f39b8!8m2!3d53.5271515!4d-1.1250711!16s%2Fg%2F11c1sjlxsm!19sChIJq6qONdgNeUgRuDkvoi1lT6Q?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 24,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "House clearance service",
+    "lat": 53.527151,
+    "lng": -1.125071,
+    "found_in_location": "Doncaster",
+    "found_with_query": "removals yorkshire",
+    "email": "info@junkdoctor.co.uk",
+    "emails": [
+      "info@junkdoctor.co.uk"
+    ],
+    "description": "Junk Doctor has been serving hundreds of people companies and organisations in Doncaster, Barnsley, Rotherham and throughout Yorkshire since 2010 >>"
   },
   {
     "name": "Mr Shifter Removals & Storage",
@@ -2842,25 +3052,6 @@
     "description": "Family run removals company delivering exemplary removal services and storage in Middlesbrough and throughout Teesside for over 47 years."
   },
   {
-    "name": "Junk Doctor",
-    "address": "42C Kings Rd, Doncaster, DN1 2LX, GB",
-    "phone": "01302 353311",
-    "international_phone": "01302 353311",
-    "website": "https://junkdoctor.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Junk+Doctor/data=!4m7!3m6!1s0x48790dd8358eaaab:0xa44f652da22f39b8!8m2!3d53.5271515!4d-1.1250711!16s%2Fg%2F11c1sjlxsm!19sChIJq6qONdgNeUgRuDkvoi1lT6Q?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "House clearance service",
-    "lat": 53.527151,
-    "lng": -1.125071,
-    "found_in_location": "Doncaster",
-    "found_with_query": "removals yorkshire",
-    "email": "info@junkdoctor.co.uk",
-    "description": "Junk Doctor has been serving hundreds of people companies and organisations in Doncaster, Barnsley, Rotherham and throughout Yorkshire since 2010 >>"
-  },
-  {
     "name": "All4one removals & Storage",
     "address": "4, Suffolk Terrace, Suffolk St, Hull, HU5 1PH, GB",
     "phone": "07523 210528",
@@ -2877,6 +3068,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "all4oneremovals@gmail.com",
+    "emails": [
+      "all4oneremovals@gmail.com"
+    ],
     "description": "All4One Removals - We are Hull's No.1 Home Removals Service - At All4One, we cover all aspects of home removals."
   },
   {
@@ -2896,6 +3090,11 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "-dtsolutions2924@gmail.com",
+    "emails": [
+      "-dtsolutions2924@gmail.com",
+      "details-dtsolutions2924@gmail.com",
+      "support@webador.com"
+    ],
     "description": "At DTS Removals Hull LTD, we take pride in providing exceptional removals and transport services across Yorkshire,+ We Do Much Much More Regarding Transportation and Moving. Our dedicated team ensures a seamless experience from start to finish, making us the best at what we do."
   },
   {
@@ -2915,6 +3114,9 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "info@darvills.co.uk",
+    "emails": [
+      "info@darvills.co.uk"
+    ],
     "description": "Looking for reputable Removals Companies that also offers Storage in Bradford & Halifax? We can help give us a call for a FREE Quotation."
   },
   {
@@ -2969,6 +3171,10 @@
     "found_in_location": "Doncaster",
     "found_with_query": "removals yorkshire",
     "email": "hello@carringtoncommunications.com",
+    "emails": [
+      "hello@carringtoncommunications.com",
+      "info@ballards-move.co.uk"
+    ],
     "description": "Moving locally, across the UK or to Europe? We provide removals, storage and van hire across Nottinghamshire, the East Midlands and beyond, with free surveys and fixed pricing."
   },
   {
@@ -2988,6 +3194,9 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "info@jorvikremovals.co.uk",
+    "emails": [
+      "info@jorvikremovals.co.uk"
+    ],
     "description": "From house removals in York to moving office in Sheffield, Jorvik Removals in York can perform any move. We're a family-run business with 80+ years experience."
   },
   {
@@ -3006,7 +3215,7 @@
     "lng": -1.446437,
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
-    "description": "An established Edinburgh removals company, Clockwork Removals & Storage offer home moves, office relocations and secure storage. Get your free quote today."
+    "description": "Clockwork Removals and Storage provides reliable house, office & international removal services across Sheffield, as well as storage & packing services to support your move."
   },
   {
     "name": "Hardakers Removals & Storage Ltd.",
@@ -3043,6 +3252,9 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@hughesremovals.co.uk",
+    "emails": [
+      "enquiries@hughesremovals.co.uk"
+    ],
     "description": "Removal Experts For The York Area - Expert Removal & Storage Services with 70 years experience, Call on 0800 435 449 to receive your free quote - Hughes Removals"
   },
   {
@@ -3080,6 +3292,10 @@
     "found_in_location": "Doncaster",
     "found_with_query": "removals yorkshire",
     "email": "stusremovals@gmail.com",
+    "emails": [
+      "stusremovals@gmail.com",
+      "you@domain.com"
+    ],
     "description": "Fully insured removals and storage. Property size and distance no problem. One item or a full load. For domestic or commercial properties."
   },
   {
@@ -3099,6 +3315,10 @@
     "found_in_location": "Rotherham",
     "found_with_query": "removals yorkshire",
     "email": "admin@happleyard.co.uk",
+    "emails": [
+      "admin@happleyard.co.uk",
+      "h.apple@btconnect.com"
+    ],
     "description": "Trusted removals and storage in Rotherham, South Yorkshire. UK, European & international moves with secure storage. Get your free quote today."
   },
   {
@@ -3118,6 +3338,9 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "kgz_waste@outlook.com",
+    "emails": [
+      "kgz_waste@outlook.com"
+    ],
     "description": "KGZ waste removal is a family run business established in 2012. From House Clearances to Waste Removal, Scrap Meta and Scrap Cars. Knaresborugh & Harrogate area"
   },
   {
@@ -3156,24 +3379,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "Midland Road Household Waste Recycling Centre",
-    "address": "Midland Rd, Manningham, Bradford, BD8 7DQ, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "https://www.bradford.gov.uk/recycling-and-waste/household-waste-recycling-centres/household-waste-recycling-centres/midland-road-hwrc/",
-    "google_maps_url": "https://www.google.com/maps/place/Midland+Road+Household+Waste+Recycling+Centre/data=!4m7!3m6!1s0x487be154e49408af:0xfb722de10629f4a4!8m2!3d53.8071965!4d-1.7598588!16s%2Fg%2F11g6nz1pmq!19sChIJrwiU5FThe0gRpPQpBuEtcvs?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 265,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–4:45 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 am–3:45 pm\"],\"Sunday\":[\"10 am–3:45 pm\"],\"Thursday\":[\"8 am–4:45 pm\"],\"Tuesday\":[\"8 am–4:45 pm\"],\"Wednesday\":[\"8 am–4:45 pm\"]}",
-    "types": "Recycling Centre",
-    "lat": 53.807196,
-    "lng": -1.759859,
-    "found_in_location": "Bradford",
-    "found_with_query": "removals yorkshire",
-    "description": "For changes to these opening times, for example over Christmas, please see ourbank holidays page."
-  },
-  {
     "name": "J Middleton & Sons",
     "address": "Unit 22, Ripley Drive, Business Park, Normanton, WF6 1QT, GB",
     "phone": "0800 567 7667",
@@ -3208,6 +3413,11 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "info@matthews-removals.co.uk",
+    "emails": [
+      "info@matthews-removals.co.uk",
+      "matthewsremovalsleeds@gmail.com",
+      "terrymatthews1966@hotmail.co.uk"
+    ],
     "description": "Based in Belle Isle, Leeds; you can trust Matthews Removals with cheap removals, office removals across Morley, Rothwell, Beeston, Armley & West Yorkshire."
   },
   {
@@ -3247,25 +3457,6 @@
     "description": "Abacus Removal (York) LTD offers highly trained house removal companies in York, and the wider Yorkshire area. Get your free online quote today."
   },
   {
-    "name": "Eco-Power Skips",
-    "address": "Kelham Street Industrial Estate, Balby Rd, Doncaster, DN1 3RE, GB",
-    "phone": "01302 868681",
-    "international_phone": "01302 868681",
-    "website": "https://eco-powerskips.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Eco-Power+Skips/data=!4m7!3m6!1s0x48790c3260aacd99:0x97249fd078146191!8m2!3d53.5112609!4d-1.1350154!16s%2Fg%2F1tftkqmy!19sChIJmc2qYDIMeUgRkWEUeNCfJJc?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 25,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 53.511261,
-    "lng": -1.135015,
-    "found_in_location": "Doncaster",
-    "found_with_query": "removals yorkshire",
-    "email": "info@eco-powerskips.co.uk",
-    "description": "Doncaster Skip Hire provide quick delivery for domestic and commercial trade customers looking to hire a skip in Doncaster, Barnsley & Rotherham. For our range of skip sizes at competitive, prices give us a call today!"
-  },
-  {
     "name": "Yellowdot Removals",
     "address": "Unit 15, Royds enterprise park, 20 Future Fields, Chartwell Dr, Bradford, BD6 3EW, GB",
     "phone": "01274 355641",
@@ -3282,26 +3473,10 @@
     "found_in_location": "Bradford",
     "found_with_query": "removals yorkshire",
     "email": "office@yellowdotremovals.com",
+    "emails": [
+      "office@yellowdotremovals.com"
+    ],
     "description": "Yellowdot Removalsand Storageare regarded as one of Yorkshire's leading removal companies. Based in Bradford West Yorkshire, we provide a second to none removals service using highly experienced staff with customer satisfaction guaranteed."
-  },
-  {
-    "name": "EFR Skips & Waste Recycling Wakefield",
-    "address": "Raines House, Denby Dale Rd, Wakefield, WF1 1HR, GB",
-    "phone": "01924 637777",
-    "international_phone": "01924 637777",
-    "website": "https://efrskips.com/",
-    "google_maps_url": "https://www.google.com/maps/place/EFR+Skips+%26+Waste+Recycling+Wakefield/data=!4m7!3m6!1s0x487966fbf52cc3f9:0xe31a25590dca8054!8m2!3d53.6784873!4d-1.500681!16s%2Fg%2F11gdthmf01!19sChIJ-cMs9ftmeUgRVIDKDVklGuM?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 225,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 53.678487,
-    "lng": -1.500681,
-    "found_in_location": "Wakefield",
-    "found_with_query": "removals yorkshire",
-    "email": "bradford@efrskips.com",
-    "description": "16 Yard Skips are for General Waste ONLY.No Soil, No Bricks, No Rubble, No Concrete or Heavy Materials."
   },
   {
     "name": "BusinessWaste.co.uk",
@@ -3320,6 +3495,11 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "billing@businesswaste.co.uk",
+    "emails": [
+      "billing@businesswaste.co.uk",
+      "customers@businesswaste.co.uk",
+      "sales@businesswaste.co.uk"
+    ],
     "description": "Business Waste collects all types of commercial waste from anywhere in the UK. Get free wheelie bins delivered and only pay for collections."
   },
   {
@@ -3339,6 +3519,14 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@pickfords.com",
+    "emails": [
+      "enquiries@pickfords.com",
+      "exportrates@pickfords.com",
+      "hr@pickfords.com",
+      "importrates@pickfords.com",
+      "marketing@pickfords.com",
+      "partnerwithus@pickfords.com"
+    ],
     "description": "Experience a stress-free move with Pickfords. Our team provides professional house removals and secure self storage options near you in the UK, Europe"
   },
   {
@@ -3358,6 +3546,10 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "hq@whiteandcompany.co.uk",
+    "emails": [
+      "hq@whiteandcompany.co.uk",
+      "knaresborough@whiteandcompany.co.uk"
+    ],
     "description": "Knaresborough removals company. Providing packing, storage and removals in Knaresborough since 1871. Book a free online survey and quote."
   },
   {
@@ -3394,6 +3586,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "rubbishremovalshull@hotmail.co.uk",
+    "emails": [
+      "rubbishremovalshull@hotmail.co.uk"
+    ],
     "description": "Rubbish Removal Hull Offer A Complete Rubbish Removal Service For Both Domestic And Commercial Customers… Call Now 01482 24 24 10 /> <!--[if lte IE 6]> <STYLE>@css/IE6.css; <![endif]--> <meta http-equiv="
   },
   {
@@ -3413,6 +3608,14 @@
     "found_in_location": "Leeds",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@pickfords.com",
+    "emails": [
+      "enquiries@pickfords.com",
+      "exportrates@pickfords.com",
+      "hr@pickfords.com",
+      "importrates@pickfords.com",
+      "marketing@pickfords.com",
+      "partnerwithus@pickfords.com"
+    ],
     "description": "Experience a stress-free move with Pickfords. Our team provides professional house removals and secure self storage options near you in the UK, Europe"
   },
   {
@@ -3432,6 +3635,10 @@
     "found_in_location": "York",
     "found_with_query": "removals yorkshire",
     "email": "david@daviddale.co.uk",
+    "emails": [
+      "david@daviddale.co.uk",
+      "sales@daviddale.co.uk"
+    ],
     "description": "With offices in York, Harrogate & Spain, David Dale Removals specialise in local, national & international moving & storage services for home & business"
   },
   {
@@ -3469,6 +3676,10 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "service@specialisedmovers.com",
+    "emails": [
+      "service@specialisedmovers.com",
+      "services@specialisedmovers.com"
+    ],
     "description": "Removals company in Sheffield. Experts in home and business removals and storage wherever you are in the world."
   },
   {
@@ -3488,6 +3699,10 @@
     "found_in_location": "Harrogate",
     "found_with_query": "removals yorkshire",
     "email": "info@evans-in.com",
+    "emails": [
+      "info@evans-in.com",
+      "info@evans-int.com"
+    ],
     "description": "Harrogate local, national or international removals. If you have something that needs moving then we will find the best way for you."
   },
   {
@@ -3506,25 +3721,6 @@
     "lng": -1.078585,
     "found_in_location": "York",
     "found_with_query": "removals yorkshire"
-  },
-  {
-    "name": "Renewi Waste Management",
-    "address": "Denby Dale Rd, Wakefield, WF2 7AH, GB",
-    "phone": "0345 850 6506",
-    "international_phone": "0345 850 6506",
-    "website": "https://biffawakefield.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Renewi+Waste+Management/data=!4m7!3m6!1s0x487966ed1e6c64cb:0x3ba7a38ec390a259!8m2!3d53.664105!4d-1.5083907!16s%2Fg%2F11cn2zn904!19sChIJy2RsHu1meUgRWaKQw46jpzs?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 267,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"9 am–4 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Recycling Centre",
-    "lat": 53.664105,
-    "lng": -1.508391,
-    "found_in_location": "Wakefield",
-    "found_with_query": "removals yorkshire",
-    "email": "wakefield@biffa.co.uk",
-    "description": "Changing the way people think about waste Biffa is the UK’s leading sustainable waste management company. We have been at the forefront of the waste industry for over a century and are committed to changing the way people think about waste. We see waste as a valuable resource that can be reused,..."
   },
   {
     "name": "AB Castle Removals & Storage",
@@ -3578,6 +3774,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "enquiries@tigersremovals.co.uk",
+    "emails": [
+      "enquiries@tigersremovals.co.uk"
+    ],
     "description": "Looking for Removals Hull? Tigers Removals & Storage of East Yorkshire offers removals and storage both locally and throughout the country, call us on 01482 620172"
   },
   {
@@ -3597,6 +3796,10 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@shiresremovals.co.uk",
+    "emails": [
+      "info@shiresremovals.co.uk",
+      "info@shiresremovals.com"
+    ],
     "description": "Shires Removals & Storage, West Yorkshire offer house or office removals services From single items to relocations. Get a free removals quote"
   },
   {
@@ -3633,6 +3836,10 @@
     "found_in_location": "Sheffield",
     "found_with_query": "removals yorkshire",
     "email": "sales@housleysremovals.com",
+    "emails": [
+      "sales@housleysremovals.com",
+      "service@ballandwaite.co.uk"
+    ],
     "description": "Housleys Removals and Storage Sheffield - Office & Home removal & storage services throughout South Yorkshire - Removal Companies Sheffield."
   },
   {
@@ -3652,6 +3859,10 @@
     "found_in_location": "Wakefield",
     "found_with_query": "removals yorkshire",
     "email": "info@argroupwakefield.co.uk",
+    "emails": [
+      "info@argroupwakefield.co.uk",
+      "info@arremovalswakefield.co.uk"
+    ],
     "description": "Discover AR Group and our brands: AR Removals and AR School Of Motoring. Wakefield's best-rated removals company and driving school."
   },
   {
@@ -3706,6 +3917,9 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "info@arthurs-removals.co.uk",
+    "emails": [
+      "info@arthurs-removals.co.uk"
+    ],
     "description": "Arthur & Son Removals provide Removals in Hull which include House Removals, Furniture Removals, Office Removals, Storage Hull and Piano Moves. Covering Hull we can cater to all your needs including Antique removals and Storage"
   },
   {
@@ -3795,6 +4009,51 @@
     "found_with_query": "removals yorkshire"
   },
   {
+    "name": "Evans International Removals & Storage",
+    "address": "Rydal House, 5 Princes Square, Harrogate, HG1 1ND, GB",
+    "phone": "01423 572172",
+    "international_phone": "01423 572172",
+    "website": "http://www.evans-int.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Evans+International+Removals+%26+Storage/data=!4m7!3m6!1s0x48795350cb51daef:0x1da82460df9b6b8c!8m2!3d53.9915277!4d-1.5392087!16s%2Fg%2F11fpgxv1nh!19sChIJ79pRy1BTeUgRjGub32AkqB0?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
+    "types": "Storage facility",
+    "lat": 53.991528,
+    "lng": -1.539209,
+    "found_in_location": "Harrogate",
+    "found_with_query": "removals yorkshire",
+    "email": "info@evans-in.com",
+    "emails": [
+      "info@evans-in.com",
+      "info@evans-int.com"
+    ],
+    "description": "Harrogate local, national or international removals. If you have something that needs moving then we will find the best way for you."
+  },
+  {
+    "name": "Jorvik Removals & Self Storage Harrogate",
+    "address": "Unit 1 Beckwith Head Rd, Harrogate, HG3 1RZ, GB",
+    "phone": "01423 369899",
+    "international_phone": "01423 369899",
+    "website": "https://www.jorvikremovals.co.uk/removals-and-self-storage-harrogate/",
+    "google_maps_url": "https://www.google.com/maps/place/Jorvik+Removals+%26+Self+Storage+Harrogate/data=!4m7!3m6!1s0x487957ce993ee515:0x17a626a1ab18e69d!8m2!3d53.9772157!4d-1.5696867!16s%2Fg%2F11td45q11k!19sChIJFeU-mc5XeUgRneYYq6Emphc?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Removals company",
+    "lat": 53.977216,
+    "lng": -1.569687,
+    "found_in_location": "Harrogate",
+    "found_with_query": "removals yorkshire",
+    "email": "info@jorvikremovals.co.uk",
+    "emails": [
+      "info@jorvikremovals.co.uk"
+    ],
+    "description": "Expert removals and house clearances in Harrogate Commercial moves also covered. 80+ years experience. Call today for a free quote."
+  },
+  {
     "name": "LEEDS REMOVALS MAN AND VAN",
     "address": "Old Cl, Churwell, Leeds, LS11 0HT, GB",
     "phone": "07958 078441",
@@ -3829,23 +4088,6 @@
     "found_with_query": "removals yorkshire"
   },
   {
-    "name": "West Yorkshire man and van ltd",
-    "address": "2 Ellis terrace, Headingley, Leeds, LS6 4BN, GB",
-    "phone": "07435 135320",
-    "international_phone": "07435 135320",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/West+Yorkshire+man+and+van+ltd/data=!4m7!3m6!1s0x487959cb0e648d73:0x31e5a5778799c10!8m2!3d53.8283274!4d-1.5808866!16s%2Fg%2F11fjh1pd0f!19sChIJc41kDstZeUgREJx5eFdaHgM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–6:30 pm\"],\"Monday\":[\"8:30 am–6:30 pm\"],\"Saturday\":[\"8:30 am–6:30 pm\"],\"Sunday\":[\"8:30 am–6:30 pm\"],\"Thursday\":[\"8:30 am–6:30 pm\"],\"Tuesday\":[\"8:30 am–6:30 pm\"],\"Wednesday\":[\"8:30 am–6:30 pm\"]}",
-    "types": "House clearance service",
-    "lat": 53.828327,
-    "lng": -1.580887,
-    "found_in_location": "Leeds",
-    "found_with_query": "removals yorkshire"
-  },
-  {
     "name": "Office Removals Hull",
     "address": "563 Anlaby Rd, Hull, HU3 6SH, GB",
     "phone": "01482 704843",
@@ -3862,44 +4104,26 @@
     "found_in_location": "Hull",
     "found_with_query": "removals yorkshire",
     "email": "removalmanhull@hotmail.co.uk",
+    "emails": [
+      "removalmanhull@hotmail.co.uk"
+    ],
     "description": "office removals hull are a family ran local business providing commercial removals and office relocations in hull"
   },
   {
-    "name": "Jorvik Removals & Self Storage Harrogate",
-    "address": "Unit 1 Beckwith Head Rd, Harrogate, HG3 1RZ, GB",
-    "phone": "01423 369899",
-    "international_phone": "01423 369899",
-    "website": "https://www.jorvikremovals.co.uk/removals-and-self-storage-harrogate/",
-    "google_maps_url": "https://www.google.com/maps/place/Jorvik+Removals+%26+Self+Storage+Harrogate/data=!4m7!3m6!1s0x487957ce993ee515:0x17a626a1ab18e69d!8m2!3d53.9772157!4d-1.5696867!16s%2Fg%2F11td45q11k!19sChIJFeU-mc5XeUgRneYYq6Emphc?authuser=0&hl=en&rclk=1",
+    "name": "West Yorkshire man and van ltd",
+    "address": "2 Ellis terrace, Headingley, Leeds, LS6 4BN, GB",
+    "phone": "07435 135320",
+    "international_phone": "07435 135320",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/West+Yorkshire+man+and+van+ltd/data=!4m7!3m6!1s0x487959cb0e648d73:0x31e5a5778799c10!8m2!3d53.8283274!4d-1.5808866!16s%2Fg%2F11fjh1pd0f!19sChIJc41kDstZeUgREJx5eFdaHgM?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Removals company",
-    "lat": 53.977216,
-    "lng": -1.569687,
-    "found_in_location": "Harrogate",
-    "found_with_query": "removals yorkshire",
-    "email": "info@jorvikremovals.co.uk",
-    "description": "Expert removals and house clearances in Harrogate Commercial moves also covered. 80+ years experience. Call today for a free quote."
-  },
-  {
-    "name": "Evans International Removals & Storage",
-    "address": "Rydal House, 5 Princes Square, Harrogate, HG1 1ND, GB",
-    "phone": "01423 572172",
-    "international_phone": "01423 572172",
-    "website": "http://www.evans-int.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Evans+International+Removals+%26+Storage/data=!4m7!3m6!1s0x48795350cb51daef:0x1da82460df9b6b8c!8m2!3d53.9915277!4d-1.5392087!16s%2Fg%2F11fpgxv1nh!19sChIJ79pRy1BTeUgRjGub32AkqB0?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Storage facility",
-    "lat": 53.991528,
-    "lng": -1.539209,
-    "found_in_location": "Harrogate",
-    "found_with_query": "removals yorkshire",
-    "email": "info@evans-in.com",
-    "description": "Harrogate local, national or international removals. If you have something that needs moving then we will find the best way for you."
+    "opening_hours": "{\"Friday\":[\"8:30 am–6:30 pm\"],\"Monday\":[\"8:30 am–6:30 pm\"],\"Saturday\":[\"8:30 am–6:30 pm\"],\"Sunday\":[\"8:30 am–6:30 pm\"],\"Thursday\":[\"8:30 am–6:30 pm\"],\"Tuesday\":[\"8:30 am–6:30 pm\"],\"Wednesday\":[\"8:30 am–6:30 pm\"]}",
+    "types": "House clearance service",
+    "lat": 53.828327,
+    "lng": -1.580887,
+    "found_in_location": "Leeds",
+    "found_with_query": "removals yorkshire"
   }
 ]

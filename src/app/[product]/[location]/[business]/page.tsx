@@ -23,6 +23,7 @@ import {
   isValidProductSlug,
 } from "@/lib/productConfig";
 import type { ProductId } from "@/lib/productConfig";
+import { GUIDES } from "@/lib/guides";
 
 export const revalidate = 3600; // ISR: revalidate every hour
 
@@ -55,12 +56,14 @@ export async function generateMetadata({
   const ratingStr = biz.rating
     ? ` | ${biz.rating}/5 (${biz.totalReviews} reviews)`
     : "";
+  const hasContent = !!(biz.description || (biz.services && biz.services.length > 0));
   return {
     title: `${biz.name} - ${biz.locationName}${ratingStr}`,
     description: biz.description || productConfig.metaDescriptionTemplate(biz.name, biz.locationName),
     alternates: {
       canonical: `https://${site.domain}/${product}/${location}/${businessSlug}`,
     },
+    ...(!hasContent && { robots: { index: false, follow: true } }),
   };
 }
 
@@ -410,6 +413,50 @@ export default async function ProductBusinessPage({
                 src={`https://www.openstreetmap.org/export/embed.html?bbox=${business.lng - 0.01}%2C${business.lat - 0.01}%2C${business.lng + 0.01}%2C${business.lat + 0.01}&layer=mapnik&marker=${business.lat}%2C${business.lng}`}
               />
             </div>
+
+            {/* Choosing advice */}
+            {productConfig.choosingAdvice && (() => {
+              const advice = productConfig.choosingAdvice!(business.locationName);
+              return (
+                <div className="bg-white border border-border rounded-xl p-6 mt-6">
+                  <h2 className="font-semibold text-lg text-text mb-3">
+                    {advice.heading}
+                  </h2>
+                  <div className="space-y-3 text-text-light text-sm leading-relaxed">
+                    {advice.paragraphs.map((p, i) => (
+                      <p key={i}>{p}</p>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+
+            {/* Related guides */}
+            {(() => {
+              const productGuides = GUIDES.filter(
+                (g) => g.product === product
+              ).slice(0, 3);
+              if (productGuides.length === 0) return null;
+              return (
+                <div className="bg-white border border-border rounded-xl p-6 mt-6">
+                  <h2 className="font-semibold text-lg text-text mb-3">
+                    Helpful Guides
+                  </h2>
+                  <ul className="space-y-2">
+                    {productGuides.map((g) => (
+                      <li key={g.slug}>
+                        <Link
+                          href={`/${product}/guides/${g.slug}`}
+                          className="text-primary hover:underline text-sm"
+                        >
+                          {g.title} →
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              );
+            })()}
           </div>
 
           {/* Sidebar */}

@@ -113,28 +113,6 @@
     "found_with_query": "limo southwest"
   },
   {
-    "name": "Cornwall Hire",
-    "address": "41 Centenary Wy, Truro, TR3 6FH, GB",
-    "phone": "07553 339031",
-    "international_phone": "07553 339031",
-    "website": "https://www.cornwallhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cornwall+Hire/data=!4m7!3m6!1s0x486b17df4fc390e1:0x3717a34e13df135c!8m2!3d50.2600223!4d-5.0982412!16s%2Fg%2F11rcs5wjqm!19sChIJ4ZDDT98Xa0gRXBPfE06jFzc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 94,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Wedding service",
-    "lat": 50.260022,
-    "lng": -5.098241,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest",
-    "email": "hello@cornwallhire.co.uk",
-    "emails": [
-      "hello@cornwallhire.co.uk"
-    ],
-    "description": "Welcome to Cornwall Hire! We offer hire-out giant lawn games to weddings, parties, and festivals. Lawn games packages available!"
-  },
-  {
     "name": "Bristol Wedding Cars",
     "address": "24 Filwood Dr, Bristol, BS15 4HS, GB",
     "phone": "0333 444 1501",
@@ -216,6 +194,28 @@
     ]
   },
   {
+    "name": "Bristol Chauffeur Cars",
+    "address": "483 Fishponds Rd, Bristol, BS16 3AL, GB",
+    "phone": "0117 905 9958",
+    "international_phone": "0117 905 9958",
+    "website": "https://www.bristolchauffeurcars.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bristol+Chauffeur+Cars/data=!4m7!3m6!1s0x48718fce0b5fc9f3:0xcccb1b8020103fe3!8m2!3d51.4756544!4d-2.542436!16s%2Fg%2F11g7_dprdb!19sChIJ88lfC86PcUgR4z8QIIAby8w?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 72,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Chauffeur service",
+    "lat": 51.475654,
+    "lng": -2.542436,
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "description": "Luxury chauffeur service in Bristol for airport transfers, events, weddings, tours, and business travel. Professional chauffeurs serving Bristol, Bath, London, and beyond.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
+  },
+  {
     "name": "Cordial Cars",
     "address": "C3, Apollo Court, Neptune Park, Plymouth, PL4 0SJ, GB",
     "phone": "07719 648510",
@@ -240,28 +240,6 @@
       "Airport Transfer",
       "Chauffeur Service",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "Bristol Chauffeur Cars",
-    "address": "483 Fishponds Rd, Bristol, BS16 3AL, GB",
-    "phone": "0117 905 9958",
-    "international_phone": "0117 905 9958",
-    "website": "https://www.bristolchauffeurcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bristol+Chauffeur+Cars/data=!4m7!3m6!1s0x48718fce0b5fc9f3:0xcccb1b8020103fe3!8m2!3d51.4756544!4d-2.542436!16s%2Fg%2F11g7_dprdb!19sChIJ88lfC86PcUgR4z8QIIAby8w?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 72,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.475654,
-    "lng": -2.542436,
-    "found_in_location": "Bristol",
-    "found_with_query": "limo southwest",
-    "description": "Luxury chauffeur service in Bristol for airport transfers, events, weddings, tours, and business travel. Professional chauffeurs serving Bristol, Bath, London, and beyond.",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
     ]
   },
   {
@@ -316,49 +294,6 @@
       "Airport Transfer",
       "Chauffeur Service",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "Ultimate Gamerz Party Hire",
-    "address": "Gloucester Rd, Bath, BA1 7AU, GB",
-    "phone": "07494 788480",
-    "international_phone": "07494 788480",
-    "website": "http://www.ultimategamerzpartyhire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Ultimate+Gamerz+Party+Hire/data=!4m7!3m6!1s0x4871811267a9b267:0xa5586363375d59be!8m2!3d51.4012144!4d-2.3416386!16s%2Fg%2F11t5_9rxmt!19sChIJZ7KpZxKBcUgRvlldN2NjWKU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 42,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
-    "types": "Children's party service",
-    "lat": 51.401214,
-    "lng": -2.341639,
-    "found_in_location": "Bath",
-    "found_with_query": "limo southwest",
-    "description": "Ultimategamerzpartyhire is a gaming van company, that comes to you for a stress free party. Birthdays, weddings, social events and much more."
-  },
-  {
-    "name": "Sherford Transfers",
-    "address": "Sherford, 12 Atlas Dr, Plymouth, PL9 8LY, GB",
-    "phone": "01752 986052",
-    "international_phone": "01752 986052",
-    "website": "https://sherfordtransfers.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Sherford+Transfers/data=!4m7!3m6!1s0x6d57b18a09d8f205:0x74c537df19ee07de!8m2!3d50.3668703!4d-4.0485488!16s%2Fg%2F11vzgmz5k2!19sChIJBfLYCYqxV20R3gfuGd83xXQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 38,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 50.36687,
-    "lng": -4.048549,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "info@sherfordtransfers.com",
-    "emails": [
-      "info@sherfordtransfers.com"
-    ],
-    "description": "Sherford Transfers offers reliable airport transfers in Plymouth and across the UK. Travel stress-free with professional drivers and well-maintained vehicles.",
-    "services": [
-      "Airport Transfer"
     ]
   },
   {
@@ -562,31 +497,6 @@
     ]
   },
   {
-    "name": "Plymouth Travel",
-    "address": "Cranmere Rd, Plymouth, GB",
-    "phone": "01752 500567",
-    "international_phone": "01752 500567",
-    "website": "http://www.plymouthtravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Plymouth+Travel/data=!4m7!3m6!1s0x486c9316ed57378d:0xec606cac86227616!8m2!3d50.3908735!4d-4.1212772!16s%2Fg%2F1wn332lz!19sChIJjTdX7RaTbEgRFnYihqxsYOw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 50.390873,
-    "lng": -4.121277,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "info@plymouthtravel.co.uk",
-    "emails": [
-      "info@plymouthtravel.co.uk"
-    ],
-    "description": "Plymouth Travel is currently owned by Gary Scotchmer and has been since 2021. Gary and his team of drivers (Paul, Paul and Steve) provide a reliable, friendly service to begin your trip.",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Bristol and Weston Executive Chauffeurs Ltd",
     "address": "58 Becket Rd, North Worle, Weston-super-Mare, BS22 7TY, GB",
     "phone": "01934 520863",
@@ -664,29 +574,6 @@
     ]
   },
   {
-    "name": "Valkyrie Chauffeurs Ltd",
-    "address": "Valkyrie Chauffeurs Ltd, 17 Woodrush Rd, Walton Cardiff, Tewkesbury, GL20 7SF, GB",
-    "phone": "01684 355012",
-    "international_phone": "01684 355012",
-    "website": "http://www.valkyriechauffeurs.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Valkyrie+Chauffeurs+Ltd/data=!4m7!3m6!1s0x48711d4a4fa9d78b:0x6794c58da7e29d82!8m2!3d51.9830681!4d-2.1409557!16s%2Fg%2F11b6nr206k!19sChIJi9epT0odcUgRgp3ip43FlGc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 21,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.983068,
-    "lng": -2.140956,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest",
-    "description": "Premier Chauffeur Car Service based in Tewkesbury Gloucestershire, near Cheltenham. Family Run Business Est in 2014. Our Services include Airport Transfers, Bespoke Chauffeur Services for Meetings or Events and Wedding Cars. Call us now on 01684 335012 to book your car",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service",
-      "Wedding Car"
-    ]
-  },
-  {
     "name": "GloucesterMinibus.com",
     "address": "4 Bloomfield Rd, Gloucester, GL1 5BL, GB",
     "phone": "01452 903048",
@@ -709,6 +596,29 @@
     "description": "Looking for minibus or coach hire in Gloucester? We offer minibus hire for groups, tours, weddings, and more at competitive prices. Book your Gloucester minibus today.",
     "services": [
       "Airport Transfer",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Valkyrie Chauffeurs Ltd",
+    "address": "Valkyrie Chauffeurs Ltd, 17 Woodrush Rd, Walton Cardiff, Tewkesbury, GL20 7SF, GB",
+    "phone": "01684 355012",
+    "international_phone": "01684 355012",
+    "website": "http://www.valkyriechauffeurs.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Valkyrie+Chauffeurs+Ltd/data=!4m7!3m6!1s0x48711d4a4fa9d78b:0x6794c58da7e29d82!8m2!3d51.9830681!4d-2.1409557!16s%2Fg%2F11b6nr206k!19sChIJi9epT0odcUgRgp3ip43FlGc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 21,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Chauffeur service",
+    "lat": 51.983068,
+    "lng": -2.140956,
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Premier Chauffeur Car Service based in Tewkesbury Gloucestershire, near Cheltenham. Family Run Business Est in 2014. Our Services include Airport Transfers, Bespoke Chauffeur Services for Meetings or Events and Wedding Cars. Call us now on 01684 335012 to book your car",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
       "Wedding Car"
     ]
   },
@@ -767,6 +677,32 @@
     ]
   },
   {
+    "name": "Choice Chauffeurs",
+    "address": "Braidley Rd, Bournemouth, BH2 6JY, GB",
+    "phone": "01202 798958",
+    "international_phone": "01202 798958",
+    "website": "http://www.choice-chauffeurs.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Choice+Chauffeurs/data=!4m7!3m6!1s0x4873a1ee3515ceb1:0xafa08cd6449171cd!8m2!3d50.7266544!4d-1.8774837!16s%2Fg%2F11ny2k0y8s!19sChIJsc4VNe6hc0gRzXGRRNaMoK8?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 19,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Chauffeur service",
+    "lat": 50.726654,
+    "lng": -1.877484,
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "email": "enquiries@choice-chauffeurs.co.uk",
+    "emails": [
+      "enquiries@choice-chauffeurs.co.uk"
+    ],
+    "description": "Chauffeur Service Bournemouth, Poole & Dorset. Chauffeur Driven Cars. Wedding Cars, Holiday Travel & Business Travel. Call 01202 798958.",
+    "services": [
+      "Chauffeur Service",
+      "Wedding Car"
+    ]
+  },
+  {
     "name": "Spirit Wedding Cars",
     "address": "41 Merton Dr, Weston-super-Mare, BS24 7EQ, GB",
     "phone": "07742 820363",
@@ -792,32 +728,6 @@
     "services": [
       "Classic & Vintage",
       "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Choice Chauffeurs",
-    "address": "Braidley Rd, Bournemouth, BH2 6JY, GB",
-    "phone": "01202 798958",
-    "international_phone": "01202 798958",
-    "website": "http://www.choice-chauffeurs.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Choice+Chauffeurs/data=!4m7!3m6!1s0x4873a1ee3515ceb1:0xafa08cd6449171cd!8m2!3d50.7266544!4d-1.8774837!16s%2Fg%2F11ny2k0y8s!19sChIJsc4VNe6hc0gRzXGRRNaMoK8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 19,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 50.726654,
-    "lng": -1.877484,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "email": "enquiries@choice-chauffeurs.co.uk",
-    "emails": [
-      "enquiries@choice-chauffeurs.co.uk"
-    ],
-    "description": "Chauffeur Service Bournemouth, Poole & Dorset. Chauffeur Driven Cars. Wedding Cars, Holiday Travel & Business Travel. Call 01202 798958.",
-    "services": [
-      "Chauffeur Service",
       "Wedding Car"
     ]
   },
@@ -970,31 +880,6 @@
     "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest",
     "description": "Professional limo hire in Bournemouth for funerals,offering unique hearses andluxury vehicles like Mercedes limousines and Routemaster buses.Free quotes"
-  },
-  {
-    "name": "Quest Cars Ltd",
-    "address": "Lampreys Cottage, Huntash Ln, Milverton, Taunton, TA4 1PX, GB",
-    "phone": "01823 400706",
-    "international_phone": "01823 400706",
-    "website": "http://www.questcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Quest+Cars+Ltd/data=!4m7!3m6!1s0x486ded8fea1fabd5:0x8f59a08f5079b057!8m2!3d51.0207106!4d-3.2493265!16s%2Fg%2F1v3_22xn!19sChIJ1asf6o_tbUgRV7B5UI-gWY8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 51.020711,
-    "lng": -3.249327,
-    "found_in_location": "Taunton",
-    "found_with_query": "limo southwest",
-    "email": "info@questcars.co.uk",
-    "emails": [
-      "info@questcars.co.uk"
-    ],
-    "description": "Airport taxi service providing airport transfers from Taunton, Yeovil, Exeter, Bridgwater to major airports such as Heathrow, Gatwick, Stanstead and Bristol",
-    "services": [
-      "Airport Transfer"
-    ]
   },
   {
     "name": "Just Married Beetle Hire",
@@ -1197,31 +1082,6 @@
     ]
   },
   {
-    "name": "S J PEARCE TRANSPORT LTD",
-    "address": "1 Lister Cl, Plymouth, PL7 4BA, GB",
-    "phone": "01752 340017",
-    "international_phone": "01752 340017",
-    "website": "http://www.sjpearcetransportltd.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/S+J+PEARCE+TRANSPORT+LTD/data=!4m7!3m6!1s0x486cedba274d4465:0x899f6c5338a57e81!8m2!3d50.3942542!4d-4.0463617!16s%2Fg%2F11jwxrd_7r!19sChIJZURNJ7rtbEgRgX6lOFNsn4k?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Transportation service",
-    "lat": 50.394254,
-    "lng": -4.046362,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "sptransport7@gmail.com",
-    "emails": [
-      "sptransport7@gmail.com"
-    ],
-    "description": "SJ Pearce Transport LTD are an independent mini bus operator that offer superb mini bus hire services. Our fleet comprises of quality vehicles ranging from 16 to 33 seats so we can work with you to offer a personalised experiences. We have fully wheelchair accessible vehicles to carry up to 6",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Chauffeur Elite",
     "address": "1 Henbury Rd, Bristol, BS9 3HQ, GB",
     "phone": "07900 250960",
@@ -1242,32 +1102,6 @@
       "info@chauffeurelite.co.uk"
     ],
     "description": "Experience the comfort and elegance of our chauffeur driven Mercedes-Benz long wheelbase S-Class. Bristol chauffeur hire with core values of quality, service excellence, and trust. Airport transfers from Bristol, corporate travel, sporting event chauffeur hire, sightseeing chauffeur services, chauff",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "Southwest Chauffeur, Auto and Driver Services LTD",
-    "address": "Pilgrims Way, Worle, Weston-super-Mare, Weston-super-Mare, BS22 9EQ, GB",
-    "phone": "07841 845797",
-    "international_phone": "07841 845797",
-    "website": "http://www.swchauffeurservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Southwest+Chauffeur,+Auto+and+Driver+Services+LTD/data=!4m7!3m6!1s0x4871f9a809ede479:0x771c58a2ed8c781d!8m2!3d51.3627028!4d-2.9320504!16s%2Fg%2F11bbrffggs!19sChIJeeTtCaj5cUgRHXiM7aJYHHc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Limousine service",
-    "lat": 51.362703,
-    "lng": -2.93205,
-    "found_in_location": "Bristol",
-    "found_with_query": "limo southwest",
-    "email": "swchauffeurservices@live.co.uk",
-    "emails": [
-      "swchauffeurservices@live.co.uk"
-    ],
-    "description": "Southwest Chauffeur services are experts in providing a variety of transportation to TV and Film productions. We can offer Unit Cars, Minibuses, People Carriers, Vans, 4x4 Generators and more.",
     "services": [
       "Airport Transfer",
       "Chauffeur Service"
@@ -1302,21 +1136,30 @@
     ]
   },
   {
-    "name": "TJ's Wedding Cars",
-    "address": "98 Bonython Rd, Newquay, TR7 3DF, GB",
-    "phone": "01637 871997",
-    "international_phone": "01637 871997",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/TJ%27s+Wedding+Cars/data=!4m7!3m6!1s0x486b0e146b467a2b:0x71f8e55d3c2ceec7!8m2!3d50.4207274!4d-5.057138!16s%2Fg%2F11df04prqd!19sChIJK3pGaxQOa0gRx-4sPF3l-HE?authuser=0&hl=en&rclk=1",
+    "name": "Southwest Chauffeur, Auto and Driver Services LTD",
+    "address": "Pilgrims Way, Worle, Weston-super-Mare, Weston-super-Mare, BS22 9EQ, GB",
+    "phone": "07841 845797",
+    "international_phone": "07841 845797",
+    "website": "http://www.swchauffeurservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Southwest+Chauffeur,+Auto+and+Driver+Services+LTD/data=!4m7!3m6!1s0x4871f9a809ede479:0x771c58a2ed8c781d!8m2!3d51.3627028!4d-2.9320504!16s%2Fg%2F11bbrffggs!19sChIJeeTtCaj5cUgRHXiM7aJYHHc?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Limousine service",
-    "lat": 50.420727,
-    "lng": -5.057138,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
+    "lat": 51.362703,
+    "lng": -2.93205,
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "swchauffeurservices@live.co.uk",
+    "emails": [
+      "swchauffeurservices@live.co.uk"
+    ],
+    "description": "Southwest Chauffeur services are experts in providing a variety of transportation to TV and Film productions. We can offer Unit Cars, Minibuses, People Carriers, Vans, 4x4 Generators and more.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Majestic Chauffeurs - Executive Car Service",
@@ -1346,32 +1189,21 @@
     ]
   },
   {
-    "name": "Wedding Cars Hire Cheltenham",
-    "address": "Harley House, 29 Cambray Pl, Cheltenham, GL50 1JN, GB",
-    "phone": "01242 437796",
-    "international_phone": "01242 437796",
-    "website": "https://www.weddingcarshirecheltenham.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Hire+Cheltenham/data=!4m7!3m6!1s0x48711b3ea699cb53:0xf3ed34f9045ceb80!8m2!3d51.8985199!4d-2.0732876!16s%2Fg%2F11y1wg3rwh!19sChIJU8uZpj4bcUgRgOtcBPk07fM?authuser=0&hl=en&rclk=1",
+    "name": "Richmond Wedding Cars",
+    "address": "44 The Lawns, Abbeydale, Gloucester, GL4 5YX, GB",
+    "phone": "07855 265910",
+    "international_phone": "07855 265910",
+    "website": "http://www.richmondweddingcars.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Richmond+Wedding+Cars/data=!4m7!3m6!1s0x48710595d7248739:0x8ecc12eed4c6f00d!8m2!3d51.8331194!4d-2.2072876!16s%2Fg%2F11ssc381r2!19sChIJOYck15UFcUgRDfDG1O4SzI4?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.89852,
-    "lng": -2.073288,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest",
-    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Cheltenham and throughout the UK.",
-    "services": [
-      "Airport Transfer",
-      "Bentley",
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Party Bus",
-      "Prom Transport",
-      "Rolls Royce",
-      "Wedding Car"
-    ]
+    "opening_hours": "{}",
+    "types": "Wedding service",
+    "lat": 51.833119,
+    "lng": -2.207288,
+    "found_in_location": "Gloucester",
+    "found_with_query": "limo southwest"
   },
   {
     "name": "Somerset Limos",
@@ -1412,72 +1244,92 @@
     ]
   },
   {
-    "name": "Harvey's Bus",
-    "address": "Old Gasworks, Station Rd, Moretonhampstead, Newton Abbot, TQ13 8SA, GB",
-    "phone": "01647 441221",
-    "international_phone": "01647 441221",
-    "website": "https://harveysbus.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Harvey%27s+Bus/data=!4m7!3m6!1s0x486daae111e641dd:0xaa6579d1bb7ed892!8m2!3d50.6571254!4d-3.7566234!16s%2Fg%2F1td69949!19sChIJ3UHmEeGqbUgRkth-u9F5Zao?authuser=0&hl=en&rclk=1",
+    "name": "TJ's Wedding Cars",
+    "address": "98 Bonython Rd, Newquay, TR7 3DF, GB",
+    "phone": "01637 871997",
+    "international_phone": "01637 871997",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/TJ%27s+Wedding+Cars/data=!4m7!3m6!1s0x486b0e146b467a2b:0x71f8e55d3c2ceec7!8m2!3d50.4207274!4d-5.057138!16s%2Fg%2F11df04prqd!19sChIJK3pGaxQOa0gRx-4sPF3l-HE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
-    "types": "Automative",
-    "lat": 50.657125,
-    "lng": -3.756623,
-    "found_in_location": "Exeter",
-    "found_with_query": "limo southwest",
-    "email": "info@harveysbus.com",
-    "emails": [
-      "info@harveysbus.com",
-      "195264info@harveysbus.com"
-    ],
-    "description": "Welcome to Harveys bus ltd Harveys bus Ltd, serve all over Devon and the South West of England with a high quality, reliable service, and our modern fleet",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
-    "name": "Adventure Bus Dorset",
-    "address": "Alder Hills, Bournemouth, Poole, Poole, BH12 4AS, GB",
-    "phone": "07428 030142",
-    "international_phone": "07428 030142",
-    "website": "http://adventurebusdorset.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Adventure+Bus+Dorset/data=!4m7!3m6!1s0x4873a17947acfa8b:0xbef2aa962e08b22d!8m2!3d50.7408087!4d-1.9136981!16s%2Fg%2F11h0vvmpgk!19sChIJi_qsR3mhc0gRLbIILpaq8r4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Party equipment rental service",
-    "lat": 50.740809,
-    "lng": -1.913698,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "email": "thedriver.abd@gmail.com",
-    "emails": [
-      "thedriver.abd@gmail.com"
-    ],
-    "description": "Adventure Bus Dorset specialises in unique celebrations that combine creativity and wonder with high levels of personal service.",
-    "services": [
-      "Party Bus"
-    ]
-  },
-  {
-    "name": "Richmond Wedding Cars",
-    "address": "44 The Lawns, Abbeydale, Gloucester, GL4 5YX, GB",
-    "phone": "07855 265910",
-    "international_phone": "07855 265910",
-    "website": "http://www.richmondweddingcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Richmond+Wedding+Cars/data=!4m7!3m6!1s0x48710595d7248739:0x8ecc12eed4c6f00d!8m2!3d51.8331194!4d-2.2072876!16s%2Fg%2F11ssc381r2!19sChIJOYck15UFcUgRDfDG1O4SzI4?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Wedding service",
-    "lat": 51.833119,
-    "lng": -2.207288,
-    "found_in_location": "Gloucester",
+    "types": "Limousine service",
+    "lat": 50.420727,
+    "lng": -5.057138,
+    "found_in_location": "Truro",
     "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Wedding Cars Hire Cheltenham",
+    "address": "Harley House, 29 Cambray Pl, Cheltenham, GL50 1JN, GB",
+    "phone": "01242 437796",
+    "international_phone": "01242 437796",
+    "website": "https://www.weddingcarshirecheltenham.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Hire+Cheltenham/data=!4m7!3m6!1s0x48711b3ea699cb53:0xf3ed34f9045ceb80!8m2!3d51.8985199!4d-2.0732876!16s%2Fg%2F11y1wg3rwh!19sChIJU8uZpj4bcUgRgOtcBPk07fM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
+    "types": "Car rental company",
+    "lat": 51.89852,
+    "lng": -2.073288,
+    "found_in_location": "Cheltenham",
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Cheltenham and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Al's Classic Cars & Chauffeur Service",
+    "address": "53 Tappers Ln, Yealmpton, Plymouth, PL8 2PL, GB",
+    "phone": "07481 461116",
+    "international_phone": "07481 461116",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Al%27s+Classic+Cars+%26+Chauffeur+Service/data=!4m7!3m6!1s0x486ce93bce330607:0x7c077098177edc1!8m2!3d50.3485985!4d-4.0051787!16s%2Fg%2F11bzswdzx8!19sChIJBwYzzjvpbEgRwe13gQl3wAc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.348598,
+    "lng": -4.005179,
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Bathl Hex Chauffeurs Service",
+    "address": "33 Carisbrooke Rd, Bristol, BS4 1SB, GB",
+    "phone": "07377 340373",
+    "international_phone": "07377 340373",
+    "website": "https://hexcars.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bathl+Hex+Chauffeurs+Service/data=!4m7!3m6!1s0x48718d55d7899c8d:0x1918cc13c2fa5c8a!8m2!3d51.4226166!4d-2.5917635!16s%2Fg%2F11vdw6rvsv!19sChIJjZyJ11WNcUgRilz6whPMGBk?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Limousine service",
+    "lat": 51.422617,
+    "lng": -2.591763,
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "email": "contact@hexcars.co.uk",
+    "emails": [
+      "contact@hexcars.co.uk"
+    ],
+    "description": "Book Airport Transfers, Taxi Service, Shuttle, Business Trips, Pet Taxi Service, Private Luxury Chauffeur, Minibus, and Executive Hire With Hexcars.",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
   },
   {
     "name": "Cornish Bay Wedding Cars",
@@ -1502,6 +1354,30 @@
     "description": "Offering chauffeur driven, classic VW wedding car hire in Cornwall",
     "services": [
       "Chauffeur Service",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "DCS Limos",
+    "address": "Liberty Close, Woolsbridge, Three Legged Cross, Wimborne, BH21 6SY, GB",
+    "phone": "07867 526771",
+    "international_phone": "07867 526771",
+    "website": "http://www.dcslimos.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/DCS+Limos/data=!4m7!3m6!1s0x4873983ebdd5cd75:0xe68c202c04d0528a!8m2!3d50.8423305!4d-1.8635315!16s%2Fg%2F1thsqvfs!19sChIJdc3VvT6Yc0gRilLQBCwgjOY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"11 am–7 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
+    "types": "Limousine service",
+    "lat": 50.84233,
+    "lng": -1.863531,
+    "found_in_location": "Bournemouth",
+    "found_with_query": "limo southwest",
+    "description": "Hummers and Baby Bentley Limos now in and ready for hire",
+    "services": [
+      "Bentley",
+      "Hummer Limo",
+      "Prom Transport",
       "Wedding Car"
     ]
   },
@@ -1531,73 +1407,6 @@
     ]
   },
   {
-    "name": "DCS Limos",
-    "address": "Liberty Close, Woolsbridge, Three Legged Cross, Wimborne, BH21 6SY, GB",
-    "phone": "07867 526771",
-    "international_phone": "07867 526771",
-    "website": "http://www.dcslimos.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/DCS+Limos/data=!4m7!3m6!1s0x4873983ebdd5cd75:0xe68c202c04d0528a!8m2!3d50.8423305!4d-1.8635315!16s%2Fg%2F1thsqvfs!19sChIJdc3VvT6Yc0gRilLQBCwgjOY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–9 pm\"],\"Monday\":[\"9 am–9 pm\"],\"Saturday\":[\"9 am–9 pm\"],\"Sunday\":[\"11 am–7 pm\"],\"Thursday\":[\"9 am–9 pm\"],\"Tuesday\":[\"9 am–9 pm\"],\"Wednesday\":[\"9 am–9 pm\"]}",
-    "types": "Limousine service",
-    "lat": 50.84233,
-    "lng": -1.863531,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "description": "Hummers and Baby Bentley Limos now in and ready for hire",
-    "services": [
-      "Bentley",
-      "Hummer Limo",
-      "Prom Transport",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Bathl Hex Chauffeurs Service",
-    "address": "33 Carisbrooke Rd, Bristol, BS4 1SB, GB",
-    "phone": "07377 340373",
-    "international_phone": "07377 340373",
-    "website": "https://hexcars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bathl+Hex+Chauffeurs+Service/data=!4m7!3m6!1s0x48718d55d7899c8d:0x1918cc13c2fa5c8a!8m2!3d51.4226166!4d-2.5917635!16s%2Fg%2F11vdw6rvsv!19sChIJjZyJ11WNcUgRilz6whPMGBk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Limousine service",
-    "lat": 51.422617,
-    "lng": -2.591763,
-    "found_in_location": "Bristol",
-    "found_with_query": "limo southwest",
-    "email": "contact@hexcars.co.uk",
-    "emails": [
-      "contact@hexcars.co.uk"
-    ],
-    "description": "Book Airport Transfers, Taxi Service, Shuttle, Business Trips, Pet Taxi Service, Private Luxury Chauffeur, Minibus, and Executive Hire With Hexcars.",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "Al's Classic Cars & Chauffeur Service",
-    "address": "53 Tappers Ln, Yealmpton, Plymouth, PL8 2PL, GB",
-    "phone": "07481 461116",
-    "international_phone": "07481 461116",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Al%27s+Classic+Cars+%26+Chauffeur+Service/data=!4m7!3m6!1s0x486ce93bce330607:0x7c077098177edc1!8m2!3d50.3485985!4d-4.0051787!16s%2Fg%2F11bzswdzx8!19sChIJBwYzzjvpbEgRwe13gQl3wAc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 50.348598,
-    "lng": -4.005179,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
-  },
-  {
     "name": "Party Bus Bournemouth",
     "address": "7 Shepherds Way, Bournemouth, BH7 7JY, GB",
     "phone": "01202 091173",
@@ -1613,43 +1422,6 @@
     "lng": -1.827,
     "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Baileys Bus & Coach Co",
-    "address": "28 Higher Cadewell Ln, Shiphay, Torquay, TQ2 7HS, GB",
-    "phone": "01803 392518",
-    "international_phone": "01803 392518",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Baileys+Bus+%26+Coach+Co/data=!4m7!3m6!1s0x486d0f8b9ee9639f:0xc0629452f6fd0e36!8m2!3d50.482705!4d-3.5619752!16s%2Fg%2F1yh9ty_fp!19sChIJn2PpnosPbUgRNg799lKUYsA?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–11 pm\"],\"Monday\":[\"9 am–11 pm\"],\"Saturday\":[\"9 am–11 pm\"],\"Sunday\":[\"9 am–11 pm\"],\"Thursday\":[\"9 am–11 pm\"],\"Tuesday\":[\"9 am–11 pm\"],\"Wednesday\":[\"9 am–11 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.482705,
-    "lng": -3.561975,
-    "found_in_location": "Torquay",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "UK Weekender",
-    "address": "35 W Cliff Rd, Westbourne, Bournemouth, BH4 8AY, GB",
-    "phone": "01202 233952",
-    "international_phone": "01202 233952",
-    "website": "http://ukweekender.com/",
-    "google_maps_url": "https://www.google.com/maps/place/UK+Weekender/data=!4m7!3m6!1s0x4873a1a5bb304969:0xf4035d671f3e3ab9!8m2!3d50.7173454!4d-1.8975862!16s%2Fg%2F11b7q4m0_b!19sChIJaUkwu6Whc0gRuTo-H2ddA_Q?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Party planner",
-    "lat": 50.717345,
-    "lng": -1.897586,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "services": [
-      "Party Bus"
-    ]
   },
   {
     "name": "Waterside Wedding Cars",
@@ -1684,50 +1456,6 @@
     "lng": -1.986227,
     "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
-  },
-  {
-    "name": "𝐀𝐢𝐫𝐩𝐨𝐫𝐭 𝐓𝐚𝐱𝐢 𝐂𝐡𝐞𝐥𝐭𝐞𝐧𝐡𝐚𝐦",
-    "address": "Harley House, 29 Cambray Pl, Cheltenham, GL50 1JN, GB",
-    "phone": "01242 851915",
-    "international_phone": "01242 851915",
-    "website": "https://www.airporttaxicheltenham.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/%F0%9D%90%80%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD+%F0%9D%90%93%F0%9D%90%9A%F0%9D%90%B1%F0%9D%90%A2+%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A6/data=!4m7!3m6!1s0x487106720e405b07:0x95cb4004ae25262b!8m2!3d51.8985199!4d-2.0732876!16s%2Fg%2F11g71c9ydy!19sChIJB1tADnIGcUgRKyYlrgRAy5U?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 453,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.89852,
-    "lng": -2.073288,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest",
-    "description": "Need a trustworthy taxi service for Cheltenham to airport, seaport, or city-to-city transfers? Click above or call 01242851915 for a quote!",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "1st Call Auto Rentals",
-    "address": "yard, HillTec, Spinnaker Rd, Hempsted, Gloucester, GL2 5FD, GB",
-    "phone": "01452 525252",
-    "international_phone": "01452 525252",
-    "website": "https://www.1stcallautorentals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/1st+Call+Auto+Rentals/data=!4m7!3m6!1s0x4871077c4dda628f:0xaec60a6b4536a63b!8m2!3d51.8596!4d-2.2608776!16s%2Fg%2F11h4v8qgbx!19sChIJj2LaTXwHcUgRO6Y2RWsKxq4?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 235,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8–9 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.8596,
-    "lng": -2.260878,
-    "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest",
-    "email": "info@1stcallautorentals.co.uk",
-    "emails": [
-      "info@1stcallautorentals.co.uk"
-    ],
-    "description": "1st Call Auto Rentals are Gloucestershire's leading independant car and van hire specialists with offices in Gloucester and Stroud. Our highly skilled team are committed to providing the highest standards of service to all our customers."
   },
   {
     "name": "CDEC Wedding Cars",
@@ -1849,24 +1577,6 @@
     ]
   },
   {
-    "name": "Tally Ho! Coaches Plymouth",
-    "address": "Kingsley Close, Ivybridge, PL21 9GD, GB",
-    "phone": "0333 456 0231",
-    "international_phone": "0333 456 0231",
-    "website": "https://www.tallyhoholidays.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Tally+Ho!+Coaches+Plymouth/data=!4m7!3m6!1s0x486cef67c565ceed:0x7fffb02f907f78b1!8m2!3d50.3863756!4d-3.955554!16s%2Fg%2F11c37l7669!19sChIJ7c5lxWfvbEgRsXh_kC-w_38?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.386376,
-    "lng": -3.955554,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "description": "Bonded coach holidays and day trips from Plymouth, Torbay, Kingsbridge and South Devon"
-  },
-  {
     "name": "Troopers Lodge Motor Services",
     "address": "Troopers Lodge Motor Services, Moreton-in-Marsh, GL56 9TE, GB",
     "phone": "07464 138502",
@@ -1914,28 +1624,6 @@
     ]
   },
   {
-    "name": "Saints Funeral Services",
-    "address": "Barnoon Chapel, Clodgy View W, Saint Ives, TR26 1JG, GB",
-    "phone": "01736 447070",
-    "international_phone": "01736 447070",
-    "website": "https://www.saintsfunerals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Saints+Funeral+Services/data=!4m7!3m6!1s0x486add321d2acf49:0x6993ad4b88c5b718!8m2!3d50.214096!4d-5.483751!16s%2Fg%2F11h4lqd4vp!19sChIJSc8qHTLdakgRGLfFiEutk2k?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Funeral director",
-    "lat": 50.214096,
-    "lng": -5.483751,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest",
-    "email": "info@saintsfunerals.co.uk",
-    "emails": [
-      "info@saintsfunerals.co.uk"
-    ],
-    "description": "Saints Funeral Services provide a unique funeral director and transport service covering Penzance, St Ives & Hayle in Cornwall with unique hearses & limousines"
-  },
-  {
     "name": "Chauffeurline Executive Limousines",
     "address": "Beechwood House, Minety, Malmesbury, SN16 9RN, GB",
     "phone": "01666 860325",
@@ -1957,31 +1645,6 @@
       "Chauffeur Service",
       "Stretch Limo",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "No Hassle Travel Plymouth",
-    "address": "114 Wilton St, Stoke, Plymouth, PL1 5LT, GB",
-    "phone": "01752 316136",
-    "international_phone": "01752 316136",
-    "website": "http://www.nohassletravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/No+Hassle+Travel+Plymouth/data=!4m7!3m6!1s0x486c9340bf65df2b:0x756189bc140244f6!8m2!3d50.3757806!4d-4.1589771!16s%2Fg%2F1t_tjqmg!19sChIJK99lv0CTbEgR9kQCFLyJYXU?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Airport shuttle service",
-    "lat": 50.375781,
-    "lng": -4.158977,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "info@plymouthtravel.co.uk",
-    "emails": [
-      "info@plymouthtravel.co.uk"
-    ],
-    "description": "Plymouth Travel is currently owned by Gary Scotchmer and has been since 2021. Gary and his team of drivers (Paul, Paul and Steve) provide a reliable, friendly service to begin your trip.",
-    "services": [
-      "Airport Transfer"
     ]
   },
   {
@@ -2031,31 +1694,6 @@
       "Chauffeur Service",
       "Supercar Hire",
       "Wedding Car"
-    ]
-  },
-  {
-    "name": "The King's Cars",
-    "address": "Lansdown Industrial Estate, 22 Gloucester Rd, Cheltenham, GL51 8PL, GB",
-    "phone": "01242 650950",
-    "international_phone": "01242 650950",
-    "website": "https://www.thekingscars.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+King%27s+Cars/data=!4m7!3m6!1s0x48711b7679d47c9b:0xf9ca52c3605b9afa!8m2!3d51.8990851!4d-2.1001067!16s%2Fg%2F11s7zwz4yq!19sChIJm3zUeXYbcUgR-ppbYMNSyvk?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 51.899085,
-    "lng": -2.100107,
-    "found_in_location": "Cheltenham",
-    "found_with_query": "limo southwest",
-    "email": "info@thekingscars.co.uk",
-    "emails": [
-      "info@thekingscars.co.uk"
-    ],
-    "description": "Airport Taxi Transfers Cheltenham To & From Birmingham, Bristol, Heathrow, Gatwick, Manchester Airport Provided by The Kings Cars.",
-    "services": [
-      "Airport Transfer"
     ]
   },
   {
@@ -2127,28 +1765,6 @@
     "emails": [
       "webmaster@ccchauffeurs.co.uk"
     ]
-  },
-  {
-    "name": "Plymouth Boat Trips",
-    "address": "2/4, Commercial Wharf, Madeira Rd, Plymouth, PL1 2NX, GB",
-    "phone": "01752 253153",
-    "international_phone": "01752 253153",
-    "website": "http://www.plymouthboattrips.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Plymouth+Boat+Trips/data=!4m7!3m6!1s0x486cecafbbc443a9:0x23f5053551fe7fb2!8m2!3d50.3656535!4d-4.1340829!16s%2Fg%2F1tczpss9!19sChIJqUPEu6_sbEgRsn_-UTUF9SM?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 235,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Boat tour agency",
-    "lat": 50.365654,
-    "lng": -4.134083,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "info@plymouthboattrips.co.uk",
-    "emails": [
-      "info@plymouthboattrips.co.uk"
-    ],
-    "description": "Take to the Water in Plymouth Set sail with Plymouth Boat Trips, the South West’s premier cruising and ferry company. From sight-seeing cruises, private charters and party nights to connecting ferries – there’s something for everyone. Download our brochure"
   },
   {
     "name": "J2 Luxury Transport",
@@ -2308,70 +1924,6 @@
     "services": [
       "Airport Transfer"
     ]
-  },
-  {
-    "name": "A L Bennetts Transport Ltd",
-    "address": "47 Stokewood Rd, Bournemouth, BH3 7ND, GB",
-    "phone": "01202 533641",
-    "international_phone": "01202 533641",
-    "website": "http://www.albennetts.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A+L+Bennetts+Transport+Ltd/data=!4m7!3m6!1s0x4873a1f01c8c23b3:0x248a85b09dd4c5db!8m2!3d50.7373079!4d-1.8741463!16s%2Fg%2F1vknnvd1!19sChIJsyOMHPChc0gR28XUnbCFiiQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 47,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.737308,
-    "lng": -1.874146,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "email": "info@albennetts.co.uk",
-    "emails": [
-      "info@albennetts.co.uk"
-    ],
-    "description": "A L Bennetts provide Minibus Hire in Bournemouth and Poole. Contact us today to find out more about our transport services.",
-    "services": [
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "Truro District Conservative Club",
-    "address": "80 Lemon St, Truro, TR1 2PN, GB",
-    "phone": "01872 272114",
-    "international_phone": "01872 272114",
-    "website": "http://www.facebook.com/TruroConservativeClub.co.uk",
-    "google_maps_url": "https://www.google.com/maps/place/Truro+District+Conservative+Club/data=!4m7!3m6!1s0x486b16497fb9340b:0xd0a984c48bd7840!8m2!3d50.2624877!4d-5.0514856!16s%2Fg%2F1th27tpc!19sChIJCzS5f0kWa0gRQHi9SEyYCg0?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 41,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"11:30 am–12 am\"],\"Monday\":[\"11:30 am–11 pm\"],\"Saturday\":[\"11 am–12 am\"],\"Sunday\":[\"11 am–7 pm\"],\"Thursday\":[\"11:30 am–11 pm\"],\"Tuesday\":[\"11:30 am–11 pm\"],\"Wednesday\":[\"11:30 am–11 pm\"]}",
-    "types": "Association / Organization",
-    "lat": 50.262488,
-    "lng": -5.051486,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Days Rental Exeter",
-    "address": "Matford Business Park, 14 Silverton Rd, Marsh Barton, Exeter, EX2 8DG, GB",
-    "phone": "0800 389 7626",
-    "international_phone": "0800 389 7626",
-    "website": "http://www.daysrental.co.uk/exeter",
-    "google_maps_url": "https://www.google.com/maps/place/Days+Rental+Exeter/data=!4m7!3m6!1s0x486da69ddb657c11:0x8f6827df52a4762!8m2!3d50.6962827!4d-3.516514!16s%2Fg%2F11bx89d49g!19sChIJEXxl252mbUgRYkcq9X2C9gg?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 37,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 50.696283,
-    "lng": -3.516514,
-    "found_in_location": "Exeter",
-    "found_with_query": "limo southwest",
-    "email": "hire@daysrental.co.uk",
-    "emails": [
-      "hire@daysrental.co.uk"
-    ],
-    "description": "Book car & van hire in Exeter. Special offers available on vehicle hire at Day's Rental. Book online today!"
   },
   {
     "name": "Elite Fleet (South West) Ltd",
@@ -2591,24 +2143,6 @@
     ]
   },
   {
-    "name": "U-Drive Limited",
-    "address": "Osprey Rd, 5 Osprey Rd, Exeter, EX2 7JG, GB",
-    "phone": "01392 344999",
-    "international_phone": "01392 344999",
-    "website": "https://www.u-drive.co.uk/location/exeter?utm_source=google&utm_medium=organic&utm_campaign=gmb-profile",
-    "google_maps_url": "https://www.google.com/maps/place/U-Drive+Limited/data=!4m7!3m6!1s0x486da3c5a2e06967:0xe3a3ff9c378f304b!8m2!3d50.7246332!4d-3.4645877!16s%2Fg%2F11cfc964y!19sChIJZ2ngosWjbUgRSzCPN5z_o-M?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 128,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Car rental company",
-    "lat": 50.724633,
-    "lng": -3.464588,
-    "found_in_location": "Exeter",
-    "found_with_query": "limo southwest",
-    "description": "U-Drive Exeter provides flexible car hire, van rental, truck & minibus hire for Exeter and nearby areas. Book online today for reliable, convenient vehicle rental."
-  },
-  {
     "name": "Avon Minibuses",
     "address": "Unit 14, Hanham Business Park Memorial Rd, Hanham, Bristol, BS15 3JE, GB",
     "phone": "0117 967 4791",
@@ -2662,27 +2196,6 @@
     ]
   },
   {
-    "name": "P and C.J Travel",
-    "address": "131 Hawkinge Gardens, Ernesettle, Plymouth, PL5 2RY, GB",
-    "phone": "01752 368456",
-    "international_phone": "01752 368456",
-    "website": "http://pandcjtravel.com/",
-    "google_maps_url": "https://www.google.com/maps/place/P+and+C.J+Travel/data=!4m7!3m6!1s0x486c92f2a9444965:0x60f36e3e94891af8!8m2!3d50.4174975!4d-4.181858!16s%2Fg%2F11cs1xk8m0!19sChIJZUlEqfKSbEgR-BqJlD5u82A?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Travel Agent",
-    "lat": 50.417497,
-    "lng": -4.181858,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "description": "We are a small local family run business operating a small fleet of 16 seater minibuses for most occasions from:",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
     "name": "Cotswold Chauffeured Cars",
     "address": "The Cherries, Market Ln, Greet, Cheltenham, GL54 5BL, GB",
     "phone": "07742 001529",
@@ -2715,49 +2228,6 @@
     "lng": -4.224604,
     "found_in_location": "Plymouth",
     "found_with_query": "limo southwest"
-  },
-  {
-    "name": "South Coast Travel",
-    "address": "Throop Business park, Throop Rd, Bournemouth, BH8 0DQ, GB",
-    "phone": "01202 530200",
-    "international_phone": "01202 530200",
-    "website": "http://www.southcoasttravel.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/South+Coast+Travel/data=!4m7!3m6!1s0x487398c92f5b69d1:0x97d7b0d2c1ed77b9!8m2!3d50.7580793!4d-1.8413955!16s%2Fg%2F1td581rr!19sChIJ0WlbL8mYc0gRuXftwdKw15c?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 47,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.758079,
-    "lng": -1.841395,
-    "found_in_location": "Bournemouth",
-    "found_with_query": "limo southwest",
-    "email": "sct@southcoasttravel.co.uk",
-    "emails": [
-      "sct@southcoasttravel.co.uk"
-    ],
-    "description": "Discover premier coach travel along the stunning South Coast with South Coast Travel. Book now for comfort, and unforgettable journeys!",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
-    "name": "Tally Ho! Coaches Limited",
-    "address": "7 Station Yard Industrial Est, Kingsbridge, TQ7 1ES, GB",
-    "phone": "0333 456 0231",
-    "international_phone": "0333 456 0231",
-    "website": "https://www.tallyhoholidays.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Tally+Ho!+Coaches+Limited/data=!4m7!3m6!1s0x486cdfd4ebe7a2f1:0x15fa1a1626d1812c!8m2!3d50.2832739!4d-3.7817978!16s%2Fg%2F1thlyw8w!19sChIJ8aLn69TfbEgRLIHRJhYa-hU?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 27,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.283274,
-    "lng": -3.781798,
-    "found_in_location": "Torquay",
-    "found_with_query": "limo southwest",
-    "description": "Bonded coach holidays and day trips from Plymouth, Torbay, Kingsbridge and South Devon"
   },
   {
     "name": "Tuksy Chauffeurs Ltd Bristol",
@@ -2813,46 +2283,6 @@
     ]
   },
   {
-    "name": "Fleetway Vehicle Rental",
-    "address": "Whitworth Court, Baird Rd, Quedgeley, Gloucester, GL2 2DG, GB",
-    "phone": "01452 886969",
-    "international_phone": "01452 886969",
-    "website": "http://www.fleetwayrentals.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Fleetway+Vehicle+Rental/data=!4m7!3m6!1s0x4871088ea3a76d3b:0x99aa12ef64f9dd06!8m2!3d51.8151248!4d-2.2731069!16s%2Fg%2F1thcrsqs!19sChIJO22no44IcUgRBt35ZO8Sqpk?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30–10:30 am\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 51.815125,
-    "lng": -2.273107,
-    "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest",
-    "email": "dailyrentals@fleetwayrentals.co.uk",
-    "emails": [
-      "dailyrentals@fleetwayrentals.co.uk"
-    ],
-    "description": "Great Choice if you are looking for agreat deal!By choosingFleetway Rentalsyou can be sure we have you covered!"
-  },
-  {
-    "name": "Travel Cornwall",
-    "address": "The Old Coach Garage, Summercourt, Newquay, TR8 5DR, GB",
-    "phone": "01726 861108",
-    "international_phone": "01726 861108",
-    "website": "http://www.travelcornwall.uk.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Travel+Cornwall/data=!4m7!3m6!1s0x486b130261fc1dd5:0xdd87c1c7f416f2e9!8m2!3d50.3649338!4d-4.9666425!16s%2Fg%2F11xdvjc41!19sChIJ1R38YQITa0gR6fIW9MfBh90?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Taxi service",
-    "lat": 50.364934,
-    "lng": -4.966642,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest",
-    "description": "BOOK YOUR TRANSFER Reliable Service at the Best Value Rates BOOK NOW Wheelchair Access We can provide a large selection of wheelchair accessible vehicles, including taxis and minibuses. We’re happy to quote for any size group, large or small. LEARN MORE Executive Travel A quality fleet of 4, 6..."
-  },
-  {
     "name": "Sterling Cars Limited",
     "address": "Unit D, Athena Trade Centre, Moray Rd, Swindon, SN2 8XA, GB",
     "phone": "07720 450035",
@@ -2879,23 +2309,6 @@
     ]
   },
   {
-    "name": "Redvers Limousine",
-    "address": "16 Beverstone Grove, Swindon, SN3 1EY, GB",
-    "phone": "0845 838 2021",
-    "international_phone": "0845 838 2021",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Redvers+Limousine/data=!4m7!3m6!1s0x487145aed9efb7b7:0x45eb3522f29e4868!8m2!3d51.5498576!4d-1.7610972!16s%2Fg%2F11bzsy79cq!19sChIJt7fv2a5FcUgRaEie8iI160U?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.549858,
-    "lng": -1.761097,
-    "found_in_location": "Swindon",
-    "found_with_query": "limo southwest"
-  },
-  {
     "name": "Exeter Coaches",
     "address": "Summerhayes, Exton, Exeter, EX3 0PN, GB",
     "phone": "01647 441221",
@@ -2910,6 +2323,23 @@
     "lat": 50.672284,
     "lng": -3.44136,
     "found_in_location": "Exeter",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Redvers Limousine",
+    "address": "16 Beverstone Grove, Swindon, SN3 1EY, GB",
+    "phone": "0845 838 2021",
+    "international_phone": "0845 838 2021",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Redvers+Limousine/data=!4m7!3m6!1s0x487145aed9efb7b7:0x45eb3522f29e4868!8m2!3d51.5498576!4d-1.7610972!16s%2Fg%2F11bzsy79cq!19sChIJt7fv2a5FcUgRaEie8iI160U?authuser=0&hl=en&rclk=1",
+    "rating": 4.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.549858,
+    "lng": -1.761097,
+    "found_in_location": "Swindon",
     "found_with_query": "limo southwest"
   },
   {
@@ -3001,23 +2431,6 @@
     ]
   },
   {
-    "name": "Dartline",
-    "address": "Langdon Business Pk, Oil Mill Ln, Clyst Saint Mary, Exeter, EX5 1AF, GB",
-    "phone": "01392 872900",
-    "international_phone": "01392 872900",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Dartline/data=!4m7!3m6!1s0x486da186945925a5:0xe260758c27ce672f!8m2!3d50.7080541!4d-3.4408899!16s%2Fg%2F1tnpdvz2!19sChIJpSVZlIahbUgRL2fOJ4x1YOI?authuser=0&hl=en&rclk=1",
-    "rating": 3.6,
-    "total_reviews": 93,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Coach and minibus hire",
-    "lat": 50.708054,
-    "lng": -3.44089,
-    "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
-  },
-  {
     "name": "KB Coaches LTD",
     "address": "Hillview Garage, Claypits, Eastington, Claypits, Stonehouse, GL10 3AJ, GB",
     "phone": "01453 825774",
@@ -3055,31 +2468,6 @@
     "lng": -1.842718,
     "found_in_location": "Bournemouth",
     "found_with_query": "limo southwest"
-  },
-  {
-    "name": "G P J",
-    "address": "Permar, Plymouth, PL7 5AY, GB",
-    "phone": "07788 404547",
-    "international_phone": "07788 404547",
-    "website": "http://www.gpjminibushire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/G+P+J/data=!4m7!3m6!1s0x486cef183556a341:0xe8a95a0062d8aa33!8m2!3d50.3860378!4d-3.982277!16s%2Fg%2F11bws79t13!19sChIJQaNWNRjvbEgRM6rYYgBaqeg?authuser=0&hl=en&rclk=1",
-    "rating": 3.5,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Coach and minibus hire",
-    "lat": 50.386038,
-    "lng": -3.982277,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "geoffrey.johns@btconnect.com",
-    "emails": [
-      "geoffrey.johns@btconnect.com"
-    ],
-    "description": "Discover the services of GPJ MINIBUS HIRE, Smithaleigh;Plymouth",
-    "services": [
-      "Airport Transfer"
-    ]
   },
   {
     "name": "Family Wedding Cars",
@@ -3134,280 +2522,6 @@
     ]
   },
   {
-    "name": "Bath Limousines Ltd",
-    "address": "West Road Garage, West Rd, Midsomer Norton, Radstock, BA3 2TP, GB",
-    "phone": "01761 417392",
-    "international_phone": "01761 417392",
-    "website": "http://www.bathlimos.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bath+Limousines+Ltd/data=!4m7!3m6!1s0x48722876efc72703:0x9284e1d9ab784856!8m2!3d51.2928586!4d-2.4785272!16s%2Fg%2F1txnnxyg!19sChIJAyfH73YockgRVkh4q9nhhJI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.292859,
-    "lng": -2.478527,
-    "found_in_location": "Bath",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Gloucesrer Chauffeur",
-    "address": "Tweenbrook Ave, Gloucester, GL1 5JY, GB",
-    "phone": "07508 439264",
-    "international_phone": "07508 439264",
-    "website": "http://www.gloucesterchauffeur.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gloucesrer+Chauffeur/data=!4m7!3m6!1s0x4871060c57492c85:0xe26156188df3288f!8m2!3d51.8490776!4d-2.2425677!16s%2Fg%2F11c2l8ychg!19sChIJhSxJVwwGcUgRjyjzjRhWYeI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Chauffeur service",
-    "lat": 51.849078,
-    "lng": -2.242568,
-    "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest",
-    "description": "Green Chauffeur Service Ltd offers Chauffeur Services, Airport Transfers, Student Chaperone Services, Weddings Cars and Transport in UK including Bristol, Birmingham, Swindon, Gloucester, Gloucestershire and South West.",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service"
-    ]
-  },
-  {
-    "name": "Limousine",
-    "address": "13 Roman Cres, Old Town, Swindon, Swindon, SN1 4HH, GB",
-    "phone": "0344 875 5466",
-    "international_phone": "0344 875 5466",
-    "website": "http://w1limos.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Limousine/data=!4m7!3m6!1s0x4871445e7c560d13:0xe056558b101188b7!8m2!3d51.5482057!4d-1.7913222!16s%2Fg%2F11vskwj3td!19sChIJEw1WfF5EcUgRt4gREItVVuA?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Car rental company",
-    "lat": 51.548206,
-    "lng": -1.791322,
-    "found_in_location": "Swindon",
-    "found_with_query": "limo southwest",
-    "description": "We are a well established, family owned and operated chauffeur company offering the best limo hire Swindon, Reading, Gloucester, Bath, Oxford, Marlborough, Hungerford, Cirencester, Chippenham and Newbury has available! Our extensive fleet of stretched and saloon length chauffeur cars in Swindon...",
-    "services": [
-      "Airport Transfer",
-      "Chauffeur Service",
-      "Hummer Limo",
-      "Prom Transport",
-      "Stretch Limo",
-      "Supercar Hire",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Pink Limo 4 U",
-    "address": "Lockyers Quay, Plymouth, PL4 0DX, GB",
-    "phone": "01752 778770",
-    "international_phone": "01752 778770",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Pink+Limo+4+U/data=!4m7!3m6!1s0x486c9327b9ec12f7:0x28b141169b3f2c04!8m2!3d50.3673571!4d-4.1275307!16s%2Fg%2F1hc1fk875!19sChIJ9xLsuSeTbEgRBCw_mxZBsSg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 50.367357,
-    "lng": -4.127531,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Limo King",
-    "address": "20 Efford Rd, Plymouth, PL3 6NE, GB",
-    "phone": "0845 812 8008",
-    "international_phone": "0845 812 8008",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Limo+King/data=!4m7!3m6!1s0x486cecdd790a7eaf:0x9515ca650966528b!8m2!3d50.3914941!4d-4.1168295!16s%2Fg%2F11ls2yvxm2!19sChIJr34Ked3sbEgRi1JmCWXKFZU?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 50.391494,
-    "lng": -4.116829,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Hummer Limo Hire",
-    "address": "Cotton Fields, Sedgehill, Shaftesbury, SP7 9JA, GB",
-    "phone": "070 4090 0262",
-    "international_phone": "070 4090 0262",
-    "website": "http://hummerlimohire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Hummer+Limo+Hire/data=!4m7!3m6!1s0x4873cb9f02a86035:0xe9e616e2f4686c99!8m2!3d51.0565957!4d-2.2159975!16s%2Fg%2F1hf3y5wlt!19sChIJNWCoAp_Lc0gRmWxo9OIW5uk?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 51.056596,
-    "lng": -2.215997,
-    "found_in_location": "Bath",
-    "found_with_query": "limo southwest",
-    "description": "Hummer Limo Hire offers the biggest choice of stretch Hummer limos and 4x4 limos for hire throughout the UK. From white, silver, black and even pink Hummer limos.",
-    "services": [
-      "Chauffeur Service",
-      "Hummer Limo",
-      "Party Bus",
-      "Prom Transport"
-    ]
-  },
-  {
-    "name": "Wedding Cars Hire Bristol",
-    "address": "Newminster House, 27-29 Baldwin St, Bristol, BS1 1LT, GB",
-    "phone": "0117 452 7445",
-    "international_phone": "0117 452 7445",
-    "website": "https://www.weddingcarshirebristol.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Hire+Bristol/data=!4m7!3m6!1s0x48718f3a1b623fdd:0x397c0e30473b7afa!8m2!3d51.4535094!4d-2.5949458!16s%2Fg%2F11l6xb9zv1!19sChIJ3T9iGzqPcUgR-no7RzAOfDk?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.453509,
-    "lng": -2.594946,
-    "found_in_location": "Bristol",
-    "found_with_query": "limo southwest",
-    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Bristol and throughout the UK.",
-    "services": [
-      "Airport Transfer",
-      "Bentley",
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Party Bus",
-      "Prom Transport",
-      "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
-    "name": "Campervan Weddings Bath",
-    "address": "6 Lansdown Ln, Bath, BA1 4LR, GB",
-    "phone": "07800 657384",
-    "international_phone": "07800 657384",
-    "website": "http://www.campervanweddingsbath.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Campervan+Weddings+Bath/data=!4m7!3m6!1s0x487186ace06d20c1:0x4e22d25e60154912!8m2!3d51.398747!4d-2.3955883!16s%2Fg%2F11bwjpjyns!19sChIJwSBt4KyGcUgREkkVYF7SIk4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–5 pm\"],\"Monday\":[\"10 am–5 pm\"],\"Saturday\":[\"10 am–5 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"10 am–5 pm\"],\"Tuesday\":[\"10 am–5 pm\"],\"Wednesday\":[\"10 am–5:30 pm\"]}",
-    "types": "Limousine service",
-    "lat": 51.398747,
-    "lng": -2.395588,
-    "found_in_location": "Bath",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Limousines",
-    "address": "Lockyers Quay, Plymouth, PL4 0DX, GB",
-    "phone": "",
-    "international_phone": "",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Limousines/data=!4m7!3m6!1s0x486cecae3d3968b7:0x957bd6aa47922f80!8m2!3d50.3673035!4d-4.1294555!16s%2Fg%2F11c4560193!19sChIJt2g5Pa7sbEgRgC-SR6rWe5U?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 50.367303,
-    "lng": -4.129455,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Super Stretch Technology",
-    "address": "Newham, Truro, TR1 9EH, GB",
-    "phone": "0845 260 0545",
-    "international_phone": "0845 260 0545",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Super+Stretch+Technology/data=!4m7!3m6!1s0x486b164914f6cfaf:0x507abbfe2397017e!8m2!3d50.2552818!4d-5.0461064!16s%2Fg%2F1tn056nj!19sChIJr8_2FEkWa0gRfgGXI_67elA?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Limousine service",
-    "lat": 50.255282,
-    "lng": -5.046106,
-    "found_in_location": "Truro",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "ExeBus",
-    "address": "Unit 65, Exeter Business Centre, Marsh Barton, Exeter, EX2 8PN, GB",
-    "phone": "01392 214466",
-    "international_phone": "01392 214466",
-    "website": "http://www.exebus.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/ExeBus/data=!4m7!3m6!1s0x486da70cf92a5611:0xc5579b7d307c388d!8m2!3d50.7058841!4d-3.5306307!16s%2Fg%2F11q91hvkvx!19sChIJEVYq-QynbUgRjTh8MH2bV8U?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Bus company",
-    "lat": 50.705884,
-    "lng": -3.530631,
-    "found_in_location": "Exeter",
-    "found_with_query": "limo southwest"
-  },
-  {
-    "name": "Investravel",
-    "address": "5 Old Town St, Plymouth, PL1 1AE, GB",
-    "phone": "0752394291",
-    "international_phone": "+44 752394291",
-    "website": "http://hireminibusplymouth.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Investravel/data=!4m7!3m6!1s0x486c934cc68ef429:0x9eca5c207e8f203f!8m2!3d50.3712819!4d-4.138812!16s%2Fg%2F11gnpddfj7!19sChIJKfSOxkyTbEgRPyCPfiBcyp4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Coach and minibus hire",
-    "lat": 50.371282,
-    "lng": -4.138812,
-    "found_in_location": "Plymouth",
-    "found_with_query": "limo southwest",
-    "email": "info@investravel.com",
-    "emails": [
-      "info@investravel.com"
-    ],
-    "description": "Minibus Hire Plymouth. Cheap Airport Transfers. Professional & Reliable Service. Meet & Greet Included · Qualified, Skilled Drivers. Taxi Hire.",
-    "services": [
-      "Airport Transfer"
-    ]
-  },
-  {
-    "name": "Wedding Cars Gloucester",
-    "address": "Southgate House, Southgate St, Gloucester, GL1 1UB, GB",
-    "phone": "01452 877988",
-    "international_phone": "01452 877988",
-    "website": "https://www.weddingcarsgloucester.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Gloucester/data=!4m7!3m6!1s0x487107b17d23b15f:0x9d923520a470f735!8m2!3d51.8621629!4d-2.2487259!16s%2Fg%2F11y1yvd66s!19sChIJX7EjfbEHcUgRNfdwpCA1kp0?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.862163,
-    "lng": -2.248726,
-    "found_in_location": "Gloucester",
-    "found_with_query": "limo southwest",
-    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Gloucestershire and throughout the UK.",
-    "services": [
-      "Airport Transfer",
-      "Bentley",
-      "Chauffeur Service",
-      "Classic & Vintage",
-      "Hummer Limo",
-      "Party Bus",
-      "Prom Transport",
-      "Rolls Royce",
-      "Wedding Car"
-    ]
-  },
-  {
     "name": "Abacus Cars",
     "address": "126 North St, Bristol, Bristol, BS16 5SE, GB",
     "phone": "0117 957 1222",
@@ -3434,46 +2548,47 @@
     ]
   },
   {
-    "name": "Purrfect wedding car",
-    "address": "28 Fennel Rd, Portishead, Bristol, BS20 7AR, GB",
-    "phone": "07810 698186",
-    "international_phone": "07810 698186",
-    "website": "http://purrfectweddingcar.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Purrfect+wedding+car/data=!4m7!3m6!1s0x4871f27f88148ac3:0x1e9d1a522201faa7!8m2!3d51.482794!4d-2.7490111!16s%2Fg%2F11w1h12wpy!19sChIJw4oUiH_ycUgRp_oBIlIanR4?authuser=0&hl=en&rclk=1",
+    "name": "Bath Limousines Ltd",
+    "address": "West Road Garage, West Rd, Midsomer Norton, Radstock, BA3 2TP, GB",
+    "phone": "01761 417392",
+    "international_phone": "01761 417392",
+    "website": "http://www.bathlimos.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bath+Limousines+Ltd/data=!4m7!3m6!1s0x48722876efc72703:0x9284e1d9ab784856!8m2!3d51.2928586!4d-2.4785272!16s%2Fg%2F1txnnxyg!19sChIJAyfH73YockgRVkh4q9nhhJI?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Car rental company",
-    "lat": 51.482794,
-    "lng": -2.749011,
-    "found_in_location": "Bristol",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.292859,
+    "lng": -2.478527,
+    "found_in_location": "Bath",
     "found_with_query": "limo southwest"
   },
   {
-    "name": "Wedding Cars Swindon",
-    "address": "3 Newbridge Sq, Swindon, SN1 1HN, GB",
-    "phone": "01793 296386",
-    "international_phone": "01793 296386",
-    "website": "https://www.weddingcarsswindon.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Swindon/data=!4m7!3m6!1s0x48714546a40f1b33:0x18311503d3041e1a!8m2!3d51.5640679!4d-1.7836482!16s%2Fg%2F11y20cw_b1!19sChIJMxsPpEZFcUgRGh4E0wMVMRg?authuser=0&hl=en&rclk=1",
+    "name": "Cars Of Class",
+    "address": "Sawyers Cottage, Curland, Taunton, TA3 5SA, GB",
+    "phone": "01823 480898",
+    "international_phone": "01823 480898",
+    "website": "https://carsofclass.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Cars+Of+Class/data=!4m7!3m6!1s0x4872755c599dd4cb:0x3d795a99f36f6a76!8m2!3d50.9568957!4d-3.0270383!16s%2Fg%2F1tjhx3g7!19sChIJy9SdWVx1ckgRdmpv85laeT0?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"9:30 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Car rental company",
-    "lat": 51.564068,
-    "lng": -1.783648,
-    "found_in_location": "Swindon",
+    "lat": 50.956896,
+    "lng": -3.027038,
+    "found_in_location": "Taunton",
     "found_with_query": "limo southwest",
-    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Swindon and throughout the UK.",
+    "email": "rupert@carsofclass.co.uk",
+    "emails": [
+      "rupert@carsofclass.co.uk",
+      "johndoe@company.com"
+    ],
+    "description": "A TOUCH OF STYLE A TOUCH OF STYLE Luxury Wedding Car Hire UK Welcome to Rupert Ryall's Cars of Class. We are a luxury wedding car hire company, dedicated to providing exceptional transportation services for your special day. Based in the South West",
     "services": [
-      "Airport Transfer",
       "Bentley",
       "Chauffeur Service",
-      "Classic & Vintage",
-      "Party Bus",
-      "Prom Transport",
       "Rolls Royce",
       "Wedding Car"
     ]
@@ -3513,30 +2628,244 @@
     "found_with_query": "limo southwest"
   },
   {
-    "name": "Cars Of Class",
-    "address": "Sawyers Cottage, Curland, Taunton, TA3 5SA, GB",
-    "phone": "01823 480898",
-    "international_phone": "01823 480898",
-    "website": "https://carsofclass.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Cars+Of+Class/data=!4m7!3m6!1s0x4872755c599dd4cb:0x3d795a99f36f6a76!8m2!3d50.9568957!4d-3.0270383!16s%2Fg%2F1tjhx3g7!19sChIJy9SdWVx1ckgRdmpv85laeT0?authuser=0&hl=en&rclk=1",
+    "name": "Gloucesrer Chauffeur",
+    "address": "Tweenbrook Ave, Gloucester, GL1 5JY, GB",
+    "phone": "07508 439264",
+    "international_phone": "07508 439264",
+    "website": "http://www.gloucesterchauffeur.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Gloucesrer+Chauffeur/data=!4m7!3m6!1s0x4871060c57492c85:0xe26156188df3288f!8m2!3d51.8490776!4d-2.2425677!16s%2Fg%2F11c2l8ychg!19sChIJhSxJVwwGcUgRjyjzjRhWYeI?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Car rental company",
-    "lat": 50.956896,
-    "lng": -3.027038,
-    "found_in_location": "Taunton",
+    "types": "Chauffeur service",
+    "lat": 51.849078,
+    "lng": -2.242568,
+    "found_in_location": "Gloucester",
     "found_with_query": "limo southwest",
-    "email": "rupert@carsofclass.co.uk",
-    "emails": [
-      "rupert@carsofclass.co.uk",
-      "johndoe@company.com"
-    ],
-    "description": "A TOUCH OF STYLE A TOUCH OF STYLE Luxury Wedding Car Hire UK Welcome to Rupert Ryall's Cars of Class. We are a luxury wedding car hire company, dedicated to providing exceptional transportation services for your special day. Based in the South West",
+    "description": "Green Chauffeur Service Ltd offers Chauffeur Services, Airport Transfers, Student Chaperone Services, Weddings Cars and Transport in UK including Bristol, Birmingham, Swindon, Gloucester, Gloucestershire and South West.",
     "services": [
+      "Airport Transfer",
+      "Chauffeur Service"
+    ]
+  },
+  {
+    "name": "Hummer Limo Hire",
+    "address": "Cotton Fields, Sedgehill, Shaftesbury, SP7 9JA, GB",
+    "phone": "070 4090 0262",
+    "international_phone": "070 4090 0262",
+    "website": "http://hummerlimohire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Hummer+Limo+Hire/data=!4m7!3m6!1s0x4873cb9f02a86035:0xe9e616e2f4686c99!8m2!3d51.0565957!4d-2.2159975!16s%2Fg%2F1hf3y5wlt!19sChIJNWCoAp_Lc0gRmWxo9OIW5uk?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 51.056596,
+    "lng": -2.215997,
+    "found_in_location": "Bath",
+    "found_with_query": "limo southwest",
+    "description": "Hummer Limo Hire offers the biggest choice of stretch Hummer limos and 4x4 limos for hire throughout the UK. From white, silver, black and even pink Hummer limos.",
+    "services": [
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport"
+    ]
+  },
+  {
+    "name": "Limo King",
+    "address": "20 Efford Rd, Plymouth, PL3 6NE, GB",
+    "phone": "0845 812 8008",
+    "international_phone": "0845 812 8008",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Limo+King/data=!4m7!3m6!1s0x486cecdd790a7eaf:0x9515ca650966528b!8m2!3d50.3914941!4d-4.1168295!16s%2Fg%2F11ls2yvxm2!19sChIJr34Ked3sbEgRi1JmCWXKFZU?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.391494,
+    "lng": -4.116829,
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Limousine",
+    "address": "13 Roman Cres, Old Town, Swindon, Swindon, SN1 4HH, GB",
+    "phone": "0344 875 5466",
+    "international_phone": "0344 875 5466",
+    "website": "http://w1limos.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Limousine/data=!4m7!3m6!1s0x4871445e7c560d13:0xe056558b101188b7!8m2!3d51.5482057!4d-1.7913222!16s%2Fg%2F11vskwj3td!19sChIJEw1WfF5EcUgRt4gREItVVuA?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Car rental company",
+    "lat": 51.548206,
+    "lng": -1.791322,
+    "found_in_location": "Swindon",
+    "found_with_query": "limo southwest",
+    "description": "We are a well established, family owned and operated chauffeur company offering the best limo hire Swindon, Reading, Gloucester, Bath, Oxford, Marlborough, Hungerford, Cirencester, Chippenham and Newbury has available! Our extensive fleet of stretched and saloon length chauffeur cars in Swindon...",
+    "services": [
+      "Airport Transfer",
+      "Chauffeur Service",
+      "Hummer Limo",
+      "Prom Transport",
+      "Stretch Limo",
+      "Supercar Hire",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Limousines",
+    "address": "Lockyers Quay, Plymouth, PL4 0DX, GB",
+    "phone": "",
+    "international_phone": "",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Limousines/data=!4m7!3m6!1s0x486cecae3d3968b7:0x957bd6aa47922f80!8m2!3d50.3673035!4d-4.1294555!16s%2Fg%2F11c4560193!19sChIJt2g5Pa7sbEgRgC-SR6rWe5U?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.367303,
+    "lng": -4.129455,
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Pink Limo 4 U",
+    "address": "Lockyers Quay, Plymouth, PL4 0DX, GB",
+    "phone": "01752 778770",
+    "international_phone": "01752 778770",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pink+Limo+4+U/data=!4m7!3m6!1s0x486c9327b9ec12f7:0x28b141169b3f2c04!8m2!3d50.3673571!4d-4.1275307!16s%2Fg%2F1hc1fk875!19sChIJ9xLsuSeTbEgRBCw_mxZBsSg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.367357,
+    "lng": -4.127531,
+    "found_in_location": "Plymouth",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Purrfect wedding car",
+    "address": "28 Fennel Rd, Portishead, Bristol, BS20 7AR, GB",
+    "phone": "07810 698186",
+    "international_phone": "07810 698186",
+    "website": "http://purrfectweddingcar.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Purrfect+wedding+car/data=!4m7!3m6!1s0x4871f27f88148ac3:0x1e9d1a522201faa7!8m2!3d51.482794!4d-2.7490111!16s%2Fg%2F11w1h12wpy!19sChIJw4oUiH_ycUgRp_oBIlIanR4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"8 am–5 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Car rental company",
+    "lat": 51.482794,
+    "lng": -2.749011,
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Super Stretch Technology",
+    "address": "Newham, Truro, TR1 9EH, GB",
+    "phone": "0845 260 0545",
+    "international_phone": "0845 260 0545",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Super+Stretch+Technology/data=!4m7!3m6!1s0x486b164914f6cfaf:0x507abbfe2397017e!8m2!3d50.2552818!4d-5.0461064!16s%2Fg%2F1tn056nj!19sChIJr8_2FEkWa0gRfgGXI_67elA?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Limousine service",
+    "lat": 50.255282,
+    "lng": -5.046106,
+    "found_in_location": "Truro",
+    "found_with_query": "limo southwest"
+  },
+  {
+    "name": "Wedding Cars Gloucester",
+    "address": "Southgate House, Southgate St, Gloucester, GL1 1UB, GB",
+    "phone": "01452 877988",
+    "international_phone": "01452 877988",
+    "website": "https://www.weddingcarsgloucester.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Gloucester/data=!4m7!3m6!1s0x487107b17d23b15f:0x9d923520a470f735!8m2!3d51.8621629!4d-2.2487259!16s%2Fg%2F11y1yvd66s!19sChIJX7EjfbEHcUgRNfdwpCA1kp0?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
+    "types": "Car rental company",
+    "lat": 51.862163,
+    "lng": -2.248726,
+    "found_in_location": "Gloucester",
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Gloucestershire and throughout the UK.",
+    "services": [
+      "Airport Transfer",
       "Bentley",
       "Chauffeur Service",
+      "Classic & Vintage",
+      "Hummer Limo",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Wedding Cars Hire Bristol",
+    "address": "Newminster House, 27-29 Baldwin St, Bristol, BS1 1LT, GB",
+    "phone": "0117 452 7445",
+    "international_phone": "0117 452 7445",
+    "website": "https://www.weddingcarshirebristol.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Hire+Bristol/data=!4m7!3m6!1s0x48718f3a1b623fdd:0x397c0e30473b7afa!8m2!3d51.4535094!4d-2.5949458!16s%2Fg%2F11l6xb9zv1!19sChIJ3T9iGzqPcUgR-no7RzAOfDk?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9 am–4:30 pm\"],\"Sunday\":[\"9 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
+    "types": "Car rental company",
+    "lat": 51.453509,
+    "lng": -2.594946,
+    "found_in_location": "Bristol",
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Bristol and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
+      "Rolls Royce",
+      "Wedding Car"
+    ]
+  },
+  {
+    "name": "Wedding Cars Swindon",
+    "address": "3 Newbridge Sq, Swindon, SN1 1HN, GB",
+    "phone": "01793 296386",
+    "international_phone": "01793 296386",
+    "website": "https://www.weddingcarsswindon.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Wedding+Cars+Swindon/data=!4m7!3m6!1s0x48714546a40f1b33:0x18311503d3041e1a!8m2!3d51.5640679!4d-1.7836482!16s%2Fg%2F11y20cw_b1!19sChIJMxsPpEZFcUgRGh4E0wMVMRg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6:30 pm\"],\"Monday\":[\"9 am–6:30 pm\"],\"Saturday\":[\"9:30 am–4:30 pm\"],\"Sunday\":[\"9:30 am–4:30 pm\"],\"Thursday\":[\"9 am–6:30 pm\"],\"Tuesday\":[\"9 am–6:30 pm\"],\"Wednesday\":[\"9 am–6:30 pm\"]}",
+    "types": "Car rental company",
+    "lat": 51.564068,
+    "lng": -1.783648,
+    "found_in_location": "Swindon",
+    "found_with_query": "limo southwest",
+    "description": "Since 1985, we have been supplying a high-quality, chauffeur driven wedding car hire Swindon and throughout the UK.",
+    "services": [
+      "Airport Transfer",
+      "Bentley",
+      "Chauffeur Service",
+      "Classic & Vintage",
+      "Party Bus",
+      "Prom Transport",
       "Rolls Royce",
       "Wedding Car"
     ]

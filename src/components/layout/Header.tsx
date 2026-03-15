@@ -97,6 +97,12 @@ export default function Header() {
               Guides
             </Link>
             <Link
+              href="/blog"
+              className="text-sm text-text-light hover:text-primary transition-colors"
+            >
+              Blog
+            </Link>
+            <Link
               href="/about"
               className="text-sm text-text-light hover:text-primary transition-colors"
             >

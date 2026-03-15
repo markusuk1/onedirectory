@@ -139,7 +139,7 @@
     "emails": [
       "info@sonville.co.uk"
     ],
-    "description": "Fast pest removal from sonville pest control edinburgh east lothian by Sonville Pest Control Edinburgh in Edinburgh & nearby areas\u2014call now.",
+    "description": "Fast pest removal from sonville pest control edinburgh east lothian by Sonville Pest Control Edinburgh in Edinburgh & nearby areas—call now.",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
@@ -169,7 +169,7 @@
     "emails": [
       "info@saltirepestcontrol.co.uk"
     ],
-    "description": "Saltire Pest Control \u2013 trusted experts in Pest Control Edinburgh. Domestic & commercial pest removal, proofing & free survey. Call 07763 636 390 today.",
+    "description": "Saltire Pest Control – trusted experts in Pest Control Edinburgh. Domestic & commercial pest removal, proofing & free survey. Call 07763 636 390 today.",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
@@ -310,7 +310,7 @@
     "emails": [
       "info@ecofriendlypestcontrol.com.au"
     ],
-    "description": "If you aren\u2019t completely satisfied, we will work with you until you are. If pests return between treatments, your EcoFriendly will return at no extra charge.* And if we are unable to solve your pest problem, we\u2019ll refund you 100% your money.",
+    "description": "If you aren’t completely satisfied, we will work with you until you are. If pests return between treatments, your EcoFriendly will return at no extra charge.* And if we are unable to solve your pest problem, we’ll refund you 100% your money.",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
@@ -462,7 +462,7 @@
       "info@strathclydepestcontrol.co.uk",
       "abc@xyz.com"
     ],
-    "description": "AtStrathclyde Pest Control, we don\u2019t just eliminate pests\u2014we protect homes, businesses, and peace of mind. Based inEast Kilbride and serving Glasgow and beyond, we providefast, safe, and effective pest control solutionsfor residential and commercial properties",
+    "description": "AtStrathclyde Pest Control, we don’t just eliminate pests—we protect homes, businesses, and peace of mind. Based inEast Kilbride and serving Glasgow and beyond, we providefast, safe, and effective pest control solutionsfor residential and commercial properties",
     "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
@@ -813,39 +813,42 @@
     "lng": -4.610843,
     "found_in_location": "Ayr",
     "found_with_query": "pest control scotland",
+    "email": "info@bedbugsexperts.co.uk",
+    "emails": [
+      "info@bedbugsexperts.co.uk"
+    ],
+    "description": "Bed Bug Treatment Scotland, Yorkshire, England | Bed bug control and bed bug extermination. Fast and effective solutions. 24/7 Service.",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
       "Fumigation",
       "Wasp Nest Removal"
-    ],
-    "email": "info@bedbugsexperts.co.uk",
-    "emails": [
-      "info@bedbugsexperts.co.uk"
-    ],
-    "description": "Bed Bug Treatment Scotland, Yorkshire, England | Bed bug control and bed bug extermination. Fast and effective solutions. 24/7 Service."
+    ]
   },
   {
-    "name": "Loch Ness Honey Co.",
-    "address": "Milton of Culloden, Inverness, IV2 7NX, GB",
-    "phone": "07796 952908",
-    "international_phone": "07796 952908",
-    "website": "http://www.lochnesshoney.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Loch+Ness+Honey+Co./data=!4m7!3m6!1s0x488f775f1c6db5c5:0x36e675cf174b9960!8m2!3d57.4934387!4d-4.15092!16s%2Fg%2F11p11zh0tw!19sChIJxbVtHF93j0gRYJlLF8915jY?authuser=0&hl=en&rclk=1",
+    "name": "WA Pest Control Perth",
+    "address": "4/35 Barrack St, Perth, 6000, AU",
+    "phone": "+61 448 900 708",
+    "international_phone": "+61 448 900 708",
+    "website": "https://wapestcontrol.net.au/",
+    "google_maps_url": "https://www.google.com/maps/place/WA+Pest+Control+Perth/data=!4m7!3m6!1s0x2a32bbb2bda53f5b:0x23c250570568c289!8m2!3d-31.9549997!4d115.8598237!16s%2Fg%2F11wc8mvjsf!19sChIJWz-lvbK7MioRicJoBVdQwiM?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 19,
+    "total_reviews": 12,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9-11 am, 4-6 pm; Tuesday: 9-11 am, 4-6 pm; Wednesday: 9-11 am, 4-6 pm; Thursday: 9-11 am, 4-6 pm; Friday: 2-8 pm; Saturday: 9 am-12 pm; Sunday: Closed",
-    "types": "Honey Farm",
-    "lat": 57.493439,
-    "lng": -4.15092,
-    "found_in_location": "Inverness",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": -31.955,
+    "lng": 115.859824,
+    "found_in_location": "Perth",
     "found_with_query": "pest control scotland",
-    "email": "filler@godaddy.com",
-    "emails": [
-      "filler@godaddy.com"
-    ],
-    "description": "Andrew (aka MAC) founded Loch Ness Honey in 2014 whilst serving as a Police Officer. A head injury in 2019 forced a career change and since 2023 Loch Ness Honey Co. has been expanding."
+    "description": "WA Pest Control Perth is one of the most trusted pest exterminators and removal service providers. Our pest controller in Perth will provide reports on the same day.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Wee Critters Pest Control Services",
@@ -876,31 +879,6 @@
     ]
   },
   {
-    "name": "WA Pest Control Perth",
-    "address": "4/35 Barrack St, Perth, 6000, AU",
-    "phone": "+61 448 900 708",
-    "international_phone": "+61 448 900 708",
-    "website": "https://wapestcontrol.net.au/",
-    "google_maps_url": "https://www.google.com/maps/place/WA+Pest+Control+Perth/data=!4m7!3m6!1s0x2a32bbb2bda53f5b:0x23c250570568c289!8m2!3d-31.9549997!4d115.8598237!16s%2Fg%2F11wc8mvjsf!19sChIJWz-lvbK7MioRicJoBVdQwiM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 12,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": -31.955,
-    "lng": 115.859824,
-    "found_in_location": "Perth",
-    "found_with_query": "pest control scotland",
-    "description": "WA Pest Control Perth is one of the most trusted pest exterminators and removal service providers. Our pest controller in Perth will provide reports on the same day.",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Fumigation",
-      "Rat & Mouse Control"
-    ]
-  },
-  {
     "name": "Dunning Pest Control",
     "address": "20 Dove St, Glasgow, G53 7BP, GB",
     "phone": "",
@@ -916,6 +894,60 @@
     "lng": -4.362349,
     "found_in_location": "Glasgow",
     "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "Angus Hygiene & Pest Control",
+    "address": "118 Castle St, Forfar, DD8 3HS, GB",
+    "phone": "01307 469747",
+    "international_phone": "01307 469747",
+    "website": "http://www.ahpc.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Angus+Hygiene+%26+Pest+Control/data=!4m7!3m6!1s0x48866391e5202f9f:0x7474f0e59a3fbde7!8m2!3d56.6466812!4d-2.8885244!16s%2Fg%2F1tq8j3jl!19sChIJny8g5ZFjhkgR570_muXwdHQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 10,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-7 pm; Wednesday: 8 am-7 pm; Thursday: 8 am-5 pm; Friday: 8 am-7 pm; Saturday: 8 am-7 pm; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 56.646681,
+    "lng": -2.888524,
+    "found_in_location": "Forfar",
+    "found_with_query": "pest control scotland",
+    "description": "Are you looking for effective fumigation for pest control in Angus? We're here to help. Call Angus Hygiene & Pest Control in Forfar on 01307 469 747",
+    "services": [
+      "Ant Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "North East Scotland pest control",
+    "address": "Tertowie House, 1 Tertowie, Kinellar, Aberdeen, AB21 0TQ, GB",
+    "phone": "07801 963086",
+    "international_phone": "07801 963086",
+    "website": "https://northeastscotlandpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/North+East+Scotland+pest+control/data=!4m7!3m6!1s0x488415a06636d08d:0xd42c4812e8e4c8ec!8m2!3d57.1823811!4d-2.2945518!16s%2Fg%2F11m65lvygv!19sChIJjdA2ZqAVhEgR7Mjk6BJILNQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 10,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 57.182381,
+    "lng": -2.294552,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "pest control scotland",
+    "email": "info@northeastscotlandpestcontrol.co.uk",
+    "emails": [
+      "info@northeastscotlandpestcontrol.co.uk"
+    ],
+    "description": "We understand the need for privacy, which is why our vehicles are unmarked, and our technicians work professionally without drawing attention. Whether it’s your home or business, we ensure minimal disruption while delivering effective pest control solutions. Our experienced team tailors...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
   },
   {
     "name": "Precision Pest Control",
@@ -948,58 +980,22 @@
     ]
   },
   {
-    "name": "North East Scotland pest control",
-    "address": "Tertowie House, 1 Tertowie, Kinellar, Aberdeen, AB21 0TQ, GB",
-    "phone": "07801 963086",
-    "international_phone": "07801 963086",
-    "website": "https://northeastscotlandpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/North+East+Scotland+pest+control/data=!4m7!3m6!1s0x488415a06636d08d:0xd42c4812e8e4c8ec!8m2!3d57.1823811!4d-2.2945518!16s%2Fg%2F11m65lvygv!19sChIJjdA2ZqAVhEgR7Mjk6BJILNQ?authuser=0&hl=en&rclk=1",
+    "name": "Duncan Ross Pest Control",
+    "address": "Moorburn View St Catherines Cross, Fearn, Tain, IV20 1RS, GB",
+    "phone": "07753 637706",
+    "international_phone": "07753 637706",
+    "website": "http://drpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Duncan+Ross+Pest+Control/data=!4m7!3m6!1s0x48856288e7c82d2b:0xfd6683cc97aa4b79!8m2!3d57.796797!4d-3.979692!16s%2Fg%2F1hc21hqdg!19sChIJKy3I54hihUgReUuql8yDZv0?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 10,
+    "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 57.182381,
-    "lng": -2.294552,
-    "found_in_location": "Aberdeen",
+    "lat": 57.796797,
+    "lng": -3.979692,
+    "found_in_location": "Tain",
     "found_with_query": "pest control scotland",
-    "email": "info@northeastscotlandpestcontrol.co.uk",
-    "emails": [
-      "info@northeastscotlandpestcontrol.co.uk"
-    ],
-    "description": "We understand the need for privacy, which is why our vehicles are unmarked, and our technicians work professionally without drawing attention. Whether it\u2019s your home or business, we ensure minimal disruption while delivering effective pest control solutions. Our experienced team tailors...",
-    "services": [
-      "Ant Control",
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Fumigation",
-      "Rat & Mouse Control"
-    ]
-  },
-  {
-    "name": "Angus Hygiene & Pest Control",
-    "address": "118 Castle St, Forfar, DD8 3HS, GB",
-    "phone": "01307 469747",
-    "international_phone": "01307 469747",
-    "website": "http://www.ahpc.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Angus+Hygiene+%26+Pest+Control/data=!4m7!3m6!1s0x48866391e5202f9f:0x7474f0e59a3fbde7!8m2!3d56.6466812!4d-2.8885244!16s%2Fg%2F1tq8j3jl!19sChIJny8g5ZFjhkgR570_muXwdHQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 10,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-7 pm; Wednesday: 8 am-7 pm; Thursday: 8 am-5 pm; Friday: 8 am-7 pm; Saturday: 8 am-7 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 56.646681,
-    "lng": -2.888524,
-    "found_in_location": "Forfar",
-    "found_with_query": "pest control scotland",
-    "description": "Are you looking for effective fumigation for pest control in Angus? We're here to help. Call Angus Hygiene & Pest Control in Forfar on 01307 469 747",
-    "services": [
-      "Ant Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
+    "description": "pest control in the highlands,all pests covered"
   },
   {
     "name": "Edinburgh Pest Control Co",
@@ -1058,41 +1054,6 @@
     ]
   },
   {
-    "name": "Duncan Ross Pest Control",
-    "address": "Moorburn View St Catherines Cross, Fearn, Tain, IV20 1RS, GB",
-    "phone": "07753 637706",
-    "international_phone": "07753 637706",
-    "website": "http://drpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Duncan+Ross+Pest+Control/data=!4m7!3m6!1s0x48856288e7c82d2b:0xfd6683cc97aa4b79!8m2!3d57.796797!4d-3.979692!16s%2Fg%2F1hc21hqdg!19sChIJKy3I54hihUgReUuql8yDZv0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 57.796797,
-    "lng": -3.979692,
-    "found_in_location": "Tain",
-    "found_with_query": "pest control scotland",
-    "description": "pest control in the highlands,all pests covered"
-  },
-  {
-    "name": "PestSTOP",
-    "address": "186 Peffermill Rd, Edinburgh, EH16 4AH, GB",
-    "phone": "07940 215080",
-    "international_phone": "07940 215080",
-    "website": "https://www.facebook.com/share/1HeecSAjjs/",
-    "google_maps_url": "https://www.google.com/maps/place/PestSTOP/data=!4m7!3m6!1s0x8453e59d3dbd3157:0xfcae5edaf093b9e6!8m2!3d55.9317939!4d-3.1439705!16s%2Fg%2F11v3wmhsqw!19sChIJVzG9PZ3lU4QR5rmT8Npervw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-6 pm; Tuesday: 8:30 am-6 pm; Wednesday: 8:30 am-6 pm; Thursday: 8:30 am-6 pm; Friday: 8:30 am-6 pm; Saturday: 8:30 am-1 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 55.931794,
-    "lng": -3.143971,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland"
-  },
-  {
     "name": "Bug Away Pest Control",
     "address": "0/1, 3 Macbride Wy, Renton, Dumbarton, G82 4QW, GB",
     "phone": "07596 949438",
@@ -1119,6 +1080,23 @@
       "Fumigation",
       "Rat & Mouse Control"
     ]
+  },
+  {
+    "name": "PestSTOP",
+    "address": "186 Peffermill Rd, Edinburgh, EH16 4AH, GB",
+    "phone": "07940 215080",
+    "international_phone": "07940 215080",
+    "website": "https://www.facebook.com/share/1HeecSAjjs/",
+    "google_maps_url": "https://www.google.com/maps/place/PestSTOP/data=!4m7!3m6!1s0x8453e59d3dbd3157:0xfcae5edaf093b9e6!8m2!3d55.9317939!4d-3.1439705!16s%2Fg%2F11v3wmhsqw!19sChIJVzG9PZ3lU4QR5rmT8Npervw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 7,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8:30 am-6 pm; Tuesday: 8:30 am-6 pm; Wednesday: 8:30 am-6 pm; Thursday: 8:30 am-6 pm; Friday: 8:30 am-6 pm; Saturday: 8:30 am-1 pm; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 55.931794,
+    "lng": -3.143971,
+    "found_in_location": "Edinburgh",
+    "found_with_query": "pest control scotland"
   },
   {
     "name": "Adams Pest Management",
@@ -1196,6 +1174,33 @@
     ]
   },
   {
+    "name": "Aberdeen Pest Control & Environmental Services",
+    "address": "10 Laurel View, Bridge of Don, Aberdeen, AB22 8XZ, GB",
+    "phone": "07968 247670",
+    "international_phone": "07968 247670",
+    "website": "https://www.aberdeen-pestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Pest+Control+%26+Environmental+Services/data=!4m7!3m6!1s0x4884121cac45d64d:0xdfde27f5f148bf8!8m2!3d57.1786118!4d-2.1344077!16s%2Fg%2F11bzsws6jy!19sChIJTdZFrBwShEgR-IsUX3_i_Q0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 57.178612,
+    "lng": -2.134408,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "pest control scotland",
+    "email": "aberdeenpestcontrol@yahoo.co.uk",
+    "emails": [
+      "aberdeenpestcontrol@yahoo.co.uk"
+    ],
+    "description": "Pest control service in Aberdeenshire, dealing with bed bugs, wasps, ants, rats, mice, cockroaches etc. Phone: 01224 455 013",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
+  },
+  {
     "name": "All Pest Services (Scotland) Limited",
     "address": "38 Queen St, Glasgow, G1 3DX, GB",
     "phone": "0141 432 0433",
@@ -1224,33 +1229,6 @@
     ]
   },
   {
-    "name": "Aberdeen Pest Control & Environmental Services",
-    "address": "10 Laurel View, Bridge of Don, Aberdeen, AB22 8XZ, GB",
-    "phone": "07968 247670",
-    "international_phone": "07968 247670",
-    "website": "https://www.aberdeen-pestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Pest+Control+%26+Environmental+Services/data=!4m7!3m6!1s0x4884121cac45d64d:0xdfde27f5f148bf8!8m2!3d57.1786118!4d-2.1344077!16s%2Fg%2F11bzsws6jy!19sChIJTdZFrBwShEgR-IsUX3_i_Q0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 57.178612,
-    "lng": -2.134408,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland",
-    "email": "aberdeenpestcontrol@yahoo.co.uk",
-    "emails": [
-      "aberdeenpestcontrol@yahoo.co.uk"
-    ],
-    "description": "Pest control service in Aberdeenshire, dealing with bed bugs, wasps, ants, rats, mice, cockroaches etc. Phone: 01224 455 013",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Commercial Pest Control"
-    ]
-  },
-  {
     "name": "Wasp Control",
     "address": "24 Ballewan Cres, Blanefield, Glasgow, G63 9HW, GB",
     "phone": "07553 655621",
@@ -1268,32 +1246,6 @@
     "found_with_query": "pest control scotland",
     "services": [
       "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "GK Pest Control Services",
-    "address": "2 Denhead Brae, Coupar Angus, Blairgowrie, PH13 9FG, GB",
-    "phone": "07411 646192",
-    "international_phone": "07411 646192",
-    "website": "http://www.gk-pestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/GK+Pest+Control+Services/data=!4m7!3m6!1s0x48861531e90a4743:0x942b1c3d4d3727a7!8m2!3d56.5517213!4d-3.2594102!16s%2Fg%2F11c1njrxkp!19sChIJQ0cK6TEVhkgRpyc3TT0cK5Q?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: 8 am-8 pm; Sunday: 8 am-8 pm",
-    "types": "Pest control service",
-    "lat": 56.551721,
-    "lng": -3.25941,
-    "found_in_location": "Blairgowrie",
-    "found_with_query": "pest control scotland",
-    "email": "contact@gk-pestcontrol.co.uk",
-    "emails": [
-      "contact@gk-pestcontrol.co.uk"
-    ],
-    "description": "\"To meet the needs of your business or domestic pest issues.\"",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control"
     ]
   },
   {
@@ -1323,21 +1275,30 @@
     ]
   },
   {
-    "name": "Bumble Bee Garden Services",
-    "address": "3 Carneil Rd, Carnock, Dunfermline, KY12 9JH, GB",
-    "phone": "07387 588001",
-    "international_phone": "07387 588001",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Bumble+Bee+Garden+Services/data=!4m7!3m6!1s0x4887d3f258d18769:0x98e402784caf87ea!8m2!3d56.0840134!4d-3.5405841!16s%2Fg%2F11nn2mn8sp!19sChIJaYfRWPLTh0gR6oevTHgC5Jg?authuser=0&hl=en&rclk=1",
+    "name": "GK Pest Control Services",
+    "address": "2 Denhead Brae, Coupar Angus, Blairgowrie, PH13 9FG, GB",
+    "phone": "07411 646192",
+    "international_phone": "07411 646192",
+    "website": "http://www.gk-pestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/GK+Pest+Control+Services/data=!4m7!3m6!1s0x48861531e90a4743:0x942b1c3d4d3727a7!8m2!3d56.5517213!4d-3.2594102!16s%2Fg%2F11c1njrxkp!19sChIJQ0cK6TEVhkgRpyc3TT0cK5Q?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: Closed; Sunday: 7 am-7 pm",
-    "types": "Gardener",
-    "lat": 56.084013,
-    "lng": -3.540584,
-    "found_in_location": "Dunfermline",
-    "found_with_query": "pest control scotland"
+    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: 8 am-8 pm; Sunday: 8 am-8 pm",
+    "types": "Pest control service",
+    "lat": 56.551721,
+    "lng": -3.25941,
+    "found_in_location": "Blairgowrie",
+    "found_with_query": "pest control scotland",
+    "email": "contact@gk-pestcontrol.co.uk",
+    "emails": [
+      "contact@gk-pestcontrol.co.uk"
+    ],
+    "description": "\"To meet the needs of your business or domestic pest issues.\"",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "Pro Pest Prevention",
@@ -1376,7 +1337,7 @@
     "emails": [
       "info@acatch.co.uk"
     ],
-    "description": "A family run business established in 2000 and based in Ayrshire Scotland, Acatch have been providing a comprehensive range of property services for commercial and domestic clients throughout the UK for over 20 years. \u200b"
+    "description": "A family run business established in 2000 and based in Ayrshire Scotland, Acatch have been providing a comprehensive range of property services for commercial and domestic clients throughout the UK for over 20 years. ​"
   },
   {
     "name": "Ehs Pest Control Ltd",
@@ -1394,48 +1355,6 @@
     "lng": -4.557771,
     "found_in_location": "Johnstone",
     "found_with_query": "pest control scotland"
-  },
-  {
-    "name": "PestCo",
-    "address": "130 Pentland Cres, Larkhall, ML9 1UR, GB",
-    "phone": "07824 445933",
-    "international_phone": "07824 445933",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/PestCo/data=!4m7!3m6!1s0x4888148f93b7e36d:0xff64d6a85d4d2d6d!8m2!3d55.7470826!4d-3.9849869!16s%2Fg%2F1td6098v!19sChIJbeO3k48UiEgRbS1NXajWZP8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
-    "types": "Pest control service",
-    "lat": 55.747083,
-    "lng": -3.984987,
-    "found_in_location": "Larkhall",
-    "found_with_query": "pest control scotland"
-  },
-  {
-    "name": "NBC Environment",
-    "address": "21 Young St, Edinburgh, EH2 4HU, GB",
-    "phone": "0333 567 2020",
-    "international_phone": "0333 567 2020",
-    "website": "https://www.nbcenvironment.co.uk/contact-us/local-contacts/scotland/edinburgh/?utm_source=Google%20My%20Business&utm_medium=search&utm_campaign=GMB%20Traffic",
-    "google_maps_url": "https://www.google.com/maps/place/NBC+Environment/data=!4m7!3m6!1s0x4887c7426835ecd5:0xd57dedbc04de97c4!8m2!3d55.9528713!4d-3.206222!16s%2Fg%2F11q332xd2n!19sChIJ1ew1aELHh0gRxJfeBLztfdU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 55.952871,
-    "lng": -3.206222,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "pest control scotland",
-    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
   },
   {
     "name": "Herdpestcontrol.com",
@@ -1466,20 +1385,45 @@
     ]
   },
   {
-    "name": "South West Scotland Pest Control",
-    "address": "12 Main St, Whauphill, Newton Stewart, DG8 9NR, GB",
-    "phone": "01988 840352",
-    "international_phone": "01988 840352",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/South+West+Scotland+Pest+Control/data=!4m7!3m6!1s0x486256ea27b59515:0x34d5ad37ea3bb37b!8m2!3d54.8179951!4d-4.4857977!16s%2Fg%2F1tkjkm93!19sChIJFZW1J-pWYkgRe7M76jet1TQ?authuser=0&hl=en&rclk=1",
+    "name": "NBC Environment",
+    "address": "21 Young St, Edinburgh, EH2 4HU, GB",
+    "phone": "0333 567 2020",
+    "international_phone": "0333 567 2020",
+    "website": "https://www.nbcenvironment.co.uk/contact-us/local-contacts/scotland/edinburgh/?utm_source=Google%20My%20Business&utm_medium=search&utm_campaign=GMB%20Traffic",
+    "google_maps_url": "https://www.google.com/maps/place/NBC+Environment/data=!4m7!3m6!1s0x4887c7426835ecd5:0xd57dedbc04de97c4!8m2!3d55.9528713!4d-3.206222!16s%2Fg%2F11q332xd2n!19sChIJ1ew1aELHh0gRxJfeBLztfdU?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 54.817995,
-    "lng": -4.485798,
-    "found_in_location": "Newton Stewart",
+    "lat": 55.952871,
+    "lng": -3.206222,
+    "found_in_location": "Edinburgh",
+    "found_with_query": "pest control scotland",
+    "description": "Local Emergency Response for Pest & Bird issues throughout the Norwich & Norfolk area. Call us on 0333 567 2020 for advice and quotes.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "PestCo",
+    "address": "130 Pentland Cres, Larkhall, ML9 1UR, GB",
+    "phone": "07824 445933",
+    "international_phone": "07824 445933",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/PestCo/data=!4m7!3m6!1s0x4888148f93b7e36d:0xff64d6a85d4d2d6d!8m2!3d55.7470826!4d-3.9849869!16s%2Fg%2F1td6098v!19sChIJbeO3k48UiEgRbS1NXajWZP8?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
+    "types": "Pest control service",
+    "lat": 55.747083,
+    "lng": -3.984987,
+    "found_in_location": "Larkhall",
     "found_with_query": "pest control scotland"
   },
   {
@@ -1512,21 +1456,104 @@
     ]
   },
   {
-    "name": "Rat Shack Rattery",
-    "address": "28 Skua Dr, Dalgety Bay, Dunfermline, KY11 9JA, GB",
-    "phone": "07739 759940",
-    "international_phone": "07739 759940",
+    "name": "South West Scotland Pest Control",
+    "address": "12 Main St, Whauphill, Newton Stewart, DG8 9NR, GB",
+    "phone": "01988 840352",
+    "international_phone": "01988 840352",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Rat+Shack+Rattery/data=!4m7!3m6!1s0x4887cf06ca5c4dd5:0xd06895de34b0bc0c!8m2!3d56.0464499!4d-3.3427768!16s%2Fg%2F11qb68d6tr!19sChIJ1U1cygbPh0gRDLywNN6VaNA?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/South+West+Scotland+Pest+Control/data=!4m7!3m6!1s0x486256ea27b59515:0x34d5ad37ea3bb37b!8m2!3d54.8179951!4d-4.4857977!16s%2Fg%2F1tkjkm93!19sChIJFZW1J-pWYkgRe7M76jet1TQ?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: 9 am-5 pm; Sunday: 10 am-2 pm",
-    "types": "Pet Shop",
-    "lat": 56.04645,
-    "lng": -3.342777,
-    "found_in_location": "Dunfermline",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 54.817995,
+    "lng": -4.485798,
+    "found_in_location": "Newton Stewart",
     "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "Abercorn Pest Control Services",
+    "address": "303 Glasgow Rd, Paisley, PA1 3ER, GB",
+    "phone": "0141 882 9776",
+    "international_phone": "0141 882 9776",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Abercorn+Pest+Control+Services/data=!4m7!3m6!1s0x488848c555c13f71:0x86b38a14d2536e48!8m2!3d55.8466008!4d-4.3821288!16s%2Fg%2F1hc1n6xrt!19sChIJcT_BVcVIiEgRSG5T0hSKs4Y?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 55.846601,
+    "lng": -4.382129,
+    "found_in_location": "Paisley",
+    "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "Aspc Pest Control Services",
+    "address": "7 Badallan Pl, Fauldhouse, Bathgate, EH47 9BA, GB",
+    "phone": "01501 770973",
+    "international_phone": "01501 770973",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aspc+Pest+Control+Services/data=!4m7!3m6!1s0x488874f18f19d079:0xaa2ddf002c9e4525!8m2!3d55.826655!4d-3.7086148!16s%2Fg%2F1hc41g6pg!19sChIJedAZj_F0iEgRJUWeLADfLao?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 55.826655,
+    "lng": -3.708615,
+    "found_in_location": "Bathgate",
+    "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "Diverson",
+    "address": "588 Lawmoor St, Glasgow, G5 0TY, GB",
+    "phone": "0800 772 0857",
+    "international_phone": "0800 772 0857",
+    "website": "https://www.diversonpestelimination.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Diverson/data=!4m7!3m6!1s0x4888475ac451e705:0xb67593f5b627c8ee!8m2!3d55.8412223!4d-4.2479867!16s%2Fg%2F11mc_0718f!19sChIJBedRxFpHiEgR7sgntvWTdbY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 55.841222,
+    "lng": -4.247987,
+    "found_in_location": "Glasgow",
+    "found_with_query": "pest control scotland",
+    "description": "We assess your concern and book an appointment at your convenience. You’ll receive a cost estimate and treatment duration upfront. Approximately cost of 3x treatments is £140.00 + vat",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
+      "Rat & Mouse Control"
+    ]
+  },
+  {
+    "name": "E.P.C. PEST CONTROL ABERDEEN",
+    "address": "3 Eigie Cl, Balmedie, Aberdeen, AB23 8SX, GB",
+    "phone": "01224 228334",
+    "international_phone": "01224 228334",
+    "website": "http://www.epcpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/E.P.C.+PEST+CONTROL+ABERDEEN/data=!4m7!3m6!1s0x48840cdc925dc75d:0x41585703c400c8c4!8m2!3d57.2470215!4d-2.0523347!16s%2Fg%2F1jkyth_d_!19sChIJXcddktwMhEgRxMgAxANXWEE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 57.247021,
+    "lng": -2.052335,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "pest control scotland",
+    "description": "Pest control Aberdeen Wasp Nest removal Aberdeen",
+    "services": [
+      "Bed Bug Treatment",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "I Kill Wasps Glasgow",
@@ -1546,33 +1573,6 @@
     "found_with_query": "pest control scotland",
     "services": [
       "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Diverson",
-    "address": "588 Lawmoor St, Glasgow, G5 0TY, GB",
-    "phone": "0800 772 0857",
-    "international_phone": "0800 772 0857",
-    "website": "https://www.diversonpestelimination.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Diverson/data=!4m7!3m6!1s0x4888475ac451e705:0xb67593f5b627c8ee!8m2!3d55.8412223!4d-4.2479867!16s%2Fg%2F11mc_0718f!19sChIJBedRxFpHiEgR7sgntvWTdbY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 55.841222,
-    "lng": -4.247987,
-    "found_in_location": "Glasgow",
-    "found_with_query": "pest control scotland",
-    "description": "We assess your concern and book an appointment at your convenience. You\u2019ll receive a cost estimate and treatment duration upfront. Approximately cost of 3x treatments is \u00a3140.00 + vat",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Emergency Pest Control",
-      "Fumigation",
-      "Rat & Mouse Control"
     ]
   },
   {
@@ -1619,102 +1619,6 @@
     ]
   },
   {
-    "name": "Aspc Pest Control Services",
-    "address": "7 Badallan Pl, Fauldhouse, Bathgate, EH47 9BA, GB",
-    "phone": "01501 770973",
-    "international_phone": "01501 770973",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Aspc+Pest+Control+Services/data=!4m7!3m6!1s0x488874f18f19d079:0xaa2ddf002c9e4525!8m2!3d55.826655!4d-3.7086148!16s%2Fg%2F1hc41g6pg!19sChIJedAZj_F0iEgRJUWeLADfLao?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 55.826655,
-    "lng": -3.708615,
-    "found_in_location": "Bathgate",
-    "found_with_query": "pest control scotland"
-  },
-  {
-    "name": "Abercorn Pest Control Services",
-    "address": "303 Glasgow Rd, Paisley, PA1 3ER, GB",
-    "phone": "0141 882 9776",
-    "international_phone": "0141 882 9776",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Abercorn+Pest+Control+Services/data=!4m7!3m6!1s0x488848c555c13f71:0x86b38a14d2536e48!8m2!3d55.8466008!4d-4.3821288!16s%2Fg%2F1hc1n6xrt!19sChIJcT_BVcVIiEgRSG5T0hSKs4Y?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 55.846601,
-    "lng": -4.382129,
-    "found_in_location": "Paisley",
-    "found_with_query": "pest control scotland"
-  },
-  {
-    "name": "E.P.C. PEST CONTROL ABERDEEN",
-    "address": "3 Eigie Cl, Balmedie, Aberdeen, AB23 8SX, GB",
-    "phone": "01224 228334",
-    "international_phone": "01224 228334",
-    "website": "http://www.epcpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/E.P.C.+PEST+CONTROL+ABERDEEN/data=!4m7!3m6!1s0x48840cdc925dc75d:0x41585703c400c8c4!8m2!3d57.2470215!4d-2.0523347!16s%2Fg%2F1jkyth_d_!19sChIJXcddktwMhEgRxMgAxANXWEE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 57.247021,
-    "lng": -2.052335,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland",
-    "description": "Pest control Aberdeen Wasp Nest removal Aberdeen",
-    "services": [
-      "Bed Bug Treatment",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Ambipar",
-    "address": "Broughty Ferry Walk, Dundee, DD4 8UX, GB",
-    "phone": "01202 653558",
-    "international_phone": "01202 653558",
-    "website": "https://ambipar.com/uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Ambipar/data=!4m7!3m6!1s0x48865d1c3bd9ada3:0xcc1b8c494563587f!8m2!3d56.4808171!4d-2.8938278!16s%2Fg%2F11gz8s_kjp!19sChIJo63ZOxxdhkgRf1hjRUmMG8w?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Environmental consultant",
-    "lat": 56.480817,
-    "lng": -2.893828,
-    "found_in_location": "Dundee",
-    "found_with_query": "pest control scotland",
-    "description": "A pioneer in environmental solutions, Ambipar operates throughout the national territory offering integrated solutions for the entire business chain."
-  },
-  {
-    "name": "Elliot Timber Preservation",
-    "address": "149 Welbeck Cres, Troon, KA10 6AP, GB",
-    "phone": "01292 312090",
-    "international_phone": "01292 312090",
-    "website": "https://www.elliot-timberpreservation.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Elliot+Timber+Preservation/data=!4m7!3m6!1s0x4889d1a22245da39:0xf7172f46ca9d0b6!8m2!3d55.541634!4d-4.672722!16s%2Fg%2F1tdw_3cl!19sChIJOdpFIqLRiUgRttCpbPRycQ8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 55.541634,
-    "lng": -4.672722,
-    "found_in_location": "Troon",
-    "found_with_query": "pest control scotland",
-    "email": "info@elliot-timberpreservation.co.uk",
-    "emails": [
-      "info@elliot-timberpreservation.co.uk"
-    ],
-    "description": "Since 1991, Elliot Timber Preservation have been one of Troon\u2019s go-to experts in damp prevention. Call our team today for a quote. Available 7 days a week."
-  },
-  {
     "name": "5 Star Termite & Pest Control",
     "address": "AMP Tower, Level 28/140 St Georges Terrace, Perth, 6000, AU",
     "phone": "+61 423 600 555",
@@ -1740,46 +1644,6 @@
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "Richardson & Starling",
-    "address": "3 Somerset Rd, Ayr, KA8 9NA, GB",
-    "phone": "01292 433100",
-    "international_phone": "01292 433100",
-    "website": "http://www.richardsonandstarling.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Richardson+%26+Starling/data=!4m7!3m6!1s0x4889d42268e8097d:0xde4d776a63c4194a!8m2!3d55.4708202!4d-4.6188084!16s%2Fg%2F11b6nyyc8s!19sChIJfQnoaCLUiUgRShnEY2p3Td4?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 116,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-4 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Water damage restoration service",
-    "lat": 55.47082,
-    "lng": -4.618808,
-    "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland",
-    "email": "info@richardsonandstarling.co.uk",
-    "emails": [
-      "info@richardsonandstarling.co.uk",
-      "aberdeen@woodrot.com",
-      "ayr@woodrot.com",
-      "carlisle@woodrot.com",
-      "dumfries@woodrot.com",
-      "dundee@woodrot.com",
-      "eastlothian@woodrot.com",
-      "edinburgh@woodrot.com",
-      "elgin@woodrot.com",
-      "glasgow@woodrot.com",
-      "hawick@woodrot.com",
-      "inverness@woodrot.com",
-      "kendal@woodrot.com",
-      "kirkcaldy@woodrot.com",
-      "lanark@woodrot.com",
-      "oban@woodrot.com",
-      "perth@woodrot.com",
-      "standrews@woodrot.com",
-      "stirling@woodrot.com"
-    ],
-    "description": "Richardson & Starling - Specialists in Treating Dry Rot, Woodworm, Penetrating & Rising Damp. 30 Year Guarantees. Award-winning Damp Proofing Company."
   },
   {
     "name": "Enviro Pest Control Perth",
@@ -1813,28 +1677,6 @@
     ]
   },
   {
-    "name": "Frosty's Cleaning Services",
-    "address": "6 Alloway Pl, Ayr, KA7 2AA, GB",
-    "phone": "01292 521870",
-    "international_phone": "01292 521870",
-    "website": "http://www.frostyscleaningservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Frosty%27s+Cleaning+Services/data=!4m7!3m6!1s0x4889d4a76890baf1:0x610a4267e4b52170!8m2!3d55.4595233!4d-4.6353769!16s%2Fg%2F11b75pz270!19sChIJ8bqQaKfUiUgRcCG15GdCCmE?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 97,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: 8 am-8 pm; Sunday: 8 am-8 pm",
-    "types": "Pressure washing service",
-    "lat": 55.459523,
-    "lng": -4.635377,
-    "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland",
-    "email": "info@frostyscleaningservices.co.uk",
-    "emails": [
-      "info@frostyscleaningservices.co.uk"
-    ],
-    "description": "Serving Ayrshire. Cleaning of Carpets, Gutters, Windows, Conservatories, UPVC, Driveways, Patios, Disinfectant Fogging, Roof Cleaning, End Of Tenancy."
-  },
-  {
     "name": "WaspsRats",
     "address": "15 Jerviston Ct, Motherwell, ML1 4BS, GB",
     "phone": "07521 803008",
@@ -1850,9 +1692,6 @@
     "lng": -3.972689,
     "found_in_location": "Motherwell",
     "found_with_query": "pest control scotland",
-    "services": [
-      "Commercial Pest Control"
-    ],
     "email": "info@waspsrats.com",
     "emails": [
       "info@waspsrats.com",
@@ -1861,7 +1700,10 @@
       "office@avantage.co.uk",
       "carrer@wasprats.com"
     ],
-    "description": "Waspsrats is a Pest Control Services Uk, offering a range of services like rodent control, Wasp removal Services, Bee Removal Services, and more. Get 24/7, reliable & affordable pest control services in the UK. Protect your home with our expert pest control solutions at budget-friendly prices."
+    "description": "Waspsrats is a Pest Control Services Uk, offering a range of services like rodent control, Wasp removal Services, Bee Removal Services, and more. Get 24/7, reliable & affordable pest control services in the UK. Protect your home with our expert pest control solutions at budget-friendly prices.",
+    "services": [
+      "Commercial Pest Control"
+    ]
   },
   {
     "name": "ALMAC pest services",
@@ -1972,33 +1814,6 @@
     ]
   },
   {
-    "name": "Hanlon Pest Control",
-    "address": "22 Feregait, Kincardine, Alloa, FK10 4QR, GB",
-    "phone": "07554 823925",
-    "international_phone": "07554 823925",
-    "website": "http://www.hanlonpestcontrol.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Hanlon+Pest+Control/data=!4m7!3m6!1s0x48887f27eb839ebb:0x5c6c8bf5bbe4355d!8m2!3d56.0706477!4d-3.7198154!16s%2Fg%2F11c5zt6wxt!19sChIJu56D6yd_iEgRXTXku_WLbFw?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 39,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 56.070648,
-    "lng": -3.719815,
-    "found_in_location": "Alloa",
-    "found_with_query": "pest control scotland",
-    "email": "phanlon62@gmail.com",
-    "emails": [
-      "phanlon62@gmail.com"
-    ],
-    "description": "Hanlon Pest Control Services cover central Scotland | pest control services include wasps, bees, pigeons, bird nests, rodents and mice.",
-    "services": [
-      "Bird & Pigeon Control",
-      "Fox Control",
-      "Fumigation"
-    ]
-  },
-  {
     "name": "Czechmate Pest Control (Czm8)",
     "address": "73a McGregor Ave, Stevenston, KA20 4BA, GB",
     "phone": "01294 689903",
@@ -2028,6 +1843,33 @@
       "Rat & Mouse Control",
       "Squirrel Control",
       "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Hanlon Pest Control",
+    "address": "22 Feregait, Kincardine, Alloa, FK10 4QR, GB",
+    "phone": "07554 823925",
+    "international_phone": "07554 823925",
+    "website": "http://www.hanlonpestcontrol.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Hanlon+Pest+Control/data=!4m7!3m6!1s0x48887f27eb839ebb:0x5c6c8bf5bbe4355d!8m2!3d56.0706477!4d-3.7198154!16s%2Fg%2F11c5zt6wxt!19sChIJu56D6yd_iEgRXTXku_WLbFw?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 39,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 56.070648,
+    "lng": -3.719815,
+    "found_in_location": "Alloa",
+    "found_with_query": "pest control scotland",
+    "email": "phanlon62@gmail.com",
+    "emails": [
+      "phanlon62@gmail.com"
+    ],
+    "description": "Hanlon Pest Control Services cover central Scotland | pest control services include wasps, bees, pigeons, bird nests, rodents and mice.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Fox Control",
+      "Fumigation"
     ]
   },
   {
@@ -2100,7 +1942,7 @@
       "info@andylawpestcontrol.co.uk",
       "creditcontrol@andylawpestcontrol.co.uk"
     ],
-    "description": "Call us on01738 813751or email us with the details for expert pest control advice.You can also phone or text our emergency number 07767353535.We\u2019re available 7 days a week.",
+    "description": "Call us on01738 813751or email us with the details for expert pest control advice.You can also phone or text our emergency number 07767353535.We’re available 7 days a week.",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
@@ -2174,7 +2016,7 @@
     "lng": -3.476297,
     "found_in_location": "Broxburn",
     "found_with_query": "pest control scotland",
-    "description": "Pest Control Chester \u2013 Rat & Rodent Removal \u2013 Rapid Response \u2013 Best Prices \u2013 Local Technicians \u2013 Call Today 01244 752 960",
+    "description": "Pest Control Chester – Rat & Rodent Removal – Rapid Response – Best Prices – Local Technicians – Call Today 01244 752 960",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
@@ -2317,7 +2159,7 @@
     ]
   },
   {
-    "name": "Fife Pest Control Services \u00ae",
+    "name": "Fife Pest Control Services ®",
     "address": "42 Pitfirrane Park, Crossford, Dunfermline, KY12 8NU, GB",
     "phone": "01383 735695",
     "international_phone": "01383 735695",
@@ -2433,23 +2275,6 @@
     ]
   },
   {
-    "name": "Inverness Pest Control",
-    "address": "43 Wellside Rd, Balloch, Inverness, IV2 7GS, GB",
-    "phone": "07796 952908",
-    "international_phone": "07796 952908",
-    "website": "http://www.invernesspestcontrol.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Inverness+Pest+Control/data=!4m7!3m6!1s0x488f790672424839:0xb03aa64e8a25b620!8m2!3d57.4975308!4d-4.1144121!16s%2Fg%2F11sgrbs3p1!19sChIJOUhCcgZ5j0gRILYlik6mOrA?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-6:30 pm; Tuesday: 8 am-6:30 pm; Wednesday: 8 am-6:30 pm; Thursday: 8 am-6:30 pm; Friday: 8 am-6:30 pm; Saturday: 8 am-6:30 pm; Sunday: 8 am-6:30 pm",
-    "types": "Pest control service",
-    "lat": 57.497531,
-    "lng": -4.114412,
-    "found_in_location": "Inverness",
-    "found_with_query": "pest control scotland"
-  },
-  {
     "name": "Amisfield Pest Services",
     "address": "12 Amisfield Pl, Edinburgh, Haddington, Haddington, EH41 4NG, GB",
     "phone": "07932 405665",
@@ -2477,22 +2302,21 @@
     ]
   },
   {
-    "name": "R.E.D Pest Control Ltd",
-    "address": "8 Donaldfield Rd, Bridge of Weir, PA11 3JJ, GB",
-    "phone": "0800 035 3055",
-    "international_phone": "0800 035 3055",
-    "website": "http://www.redpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/R.E.D+Pest+Control+Ltd/data=!4m7!3m6!1s0x4889b35784dc6277:0xcabdaf6d139293a5!8m2!3d55.8527557!4d-4.5906365!16s%2Fg%2F1yh9ttj3p!19sChIJd2LchFeziUgRpZOSE22vvco?authuser=0&hl=en&rclk=1",
+    "name": "Inverness Pest Control",
+    "address": "43 Wellside Rd, Balloch, Inverness, IV2 7GS, GB",
+    "phone": "07796 952908",
+    "international_phone": "07796 952908",
+    "website": "http://www.invernesspestcontrol.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Inverness+Pest+Control/data=!4m7!3m6!1s0x488f790672424839:0xb03aa64e8a25b620!8m2!3d57.4975308!4d-4.1144121!16s%2Fg%2F11sgrbs3p1!19sChIJOUhCcgZ5j0gRILYlik6mOrA?authuser=0&hl=en&rclk=1",
     "rating": 4.6,
-    "total_reviews": 9,
+    "total_reviews": 11,
     "business_status": "OPERATIONAL",
-    "opening_hours": "",
+    "opening_hours": "Monday: 8 am-6:30 pm; Tuesday: 8 am-6:30 pm; Wednesday: 8 am-6:30 pm; Thursday: 8 am-6:30 pm; Friday: 8 am-6:30 pm; Saturday: 8 am-6:30 pm; Sunday: 8 am-6:30 pm",
     "types": "Pest control service",
-    "lat": 55.852756,
-    "lng": -4.590636,
-    "found_in_location": "Bridge of Weir",
-    "found_with_query": "pest control scotland",
-    "description": "Pest control services for home and business providing advice and solutions for problem rodents, rabbits, birds, insects in Greenock, Inverclyde, Ayrshire and Glasgow."
+    "lat": 57.497531,
+    "lng": -4.114412,
+    "found_in_location": "Inverness",
+    "found_with_query": "pest control scotland"
   },
   {
     "name": "DR Pest Control",
@@ -2510,6 +2334,24 @@
     "lng": -3.236719,
     "found_in_location": "Cupar",
     "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "R.E.D Pest Control Ltd",
+    "address": "8 Donaldfield Rd, Bridge of Weir, PA11 3JJ, GB",
+    "phone": "0800 035 3055",
+    "international_phone": "0800 035 3055",
+    "website": "http://www.redpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/R.E.D+Pest+Control+Ltd/data=!4m7!3m6!1s0x4889b35784dc6277:0xcabdaf6d139293a5!8m2!3d55.8527557!4d-4.5906365!16s%2Fg%2F1yh9ttj3p!19sChIJd2LchFeziUgRpZOSE22vvco?authuser=0&hl=en&rclk=1",
+    "rating": 4.6,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 55.852756,
+    "lng": -4.590636,
+    "found_in_location": "Bridge of Weir",
+    "found_with_query": "pest control scotland",
+    "description": "Pest control services for home and business providing advice and solutions for problem rodents, rabbits, birds, insects in Greenock, Inverclyde, Ayrshire and Glasgow."
   },
   {
     "name": "Global Pest control",
@@ -2711,28 +2553,6 @@
     ]
   },
   {
-    "name": "Dobbies Garden Centre Ayr",
-    "address": "Dobbies Garden Centre, Holmston Rd, Old Toll, Ayr, KA6 5JJ, GB",
-    "phone": "01292 294750",
-    "international_phone": "01292 294750",
-    "website": "https://www.dobbies.com/ayr?utm_source=google&utm_medium=organic&utm_campaign=LPM_google_Ayr",
-    "google_maps_url": "https://www.google.com/maps/place/Dobbies+Garden+Centre+Ayr/data=!4m7!3m6!1s0x4889d4495847d167:0xd882e8b3494db5f3!8m2!3d55.456028!4d-4.590386!16s%2Fg%2F11b8v9_wf7!19sChIJZ9FHWEnUiUgR87VNSbPogtg?authuser=0&hl=en&rclk=1",
-    "rating": 3.8,
-    "total_reviews": 1050,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-6 pm; Sunday: 9 am-6 pm",
-    "types": "Garden centre",
-    "lat": 55.456028,
-    "lng": -4.590386,
-    "found_in_location": "Ayr",
-    "found_with_query": "pest control scotland",
-    "email": "ayr.manager@dobbies.com",
-    "emails": [
-      "ayr.manager@dobbies.com"
-    ],
-    "description": "Discover Dobbies Ayr: dine in our restaurant, book into afternoon tea, find fresh produce in our foodhall, and shop plants, gardening, pets and home"
-  },
-  {
     "name": "Rentokil Pest Control Aberdeen & Inverness",
     "address": "5, 6, Harlaw Road Industrial Estate, Harlaw Way, Inverurie, AB51 4SG, GB",
     "phone": "01224 676775",
@@ -2859,10 +2679,82 @@
       "%20andy@totalpestsolutions.co.uk",
       "andy@totalpestsolutions.co.uk"
     ],
-    "description": "For pest control services in Edinburgh and Glasgow from an experienced local team, call Total Pest Solutions Ltd today. We\u2019ll rid your home or business premises of infestations.",
+    "description": "For pest control services in Edinburgh and Glasgow from an experienced local team, call Total Pest Solutions Ltd today. We’ll rid your home or business premises of infestations.",
     "services": [
       "Bird & Pigeon Control",
       "Rat & Mouse Control"
+    ]
+  },
+  {
+    "name": "A PT",
+    "address": "58 Kinellar Dr, Glasgow, G14 0EY, GB",
+    "phone": "01389 318545",
+    "international_phone": "01389 318545",
+    "website": "https://pestcontrolglasgowservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/A+PT/data=!4m7!3m6!1s0x48884f2043b95529:0x72cd9b5972c68134!8m2!3d55.8871044!4d-4.3639673!16s%2Fg%2F11rj4wz823!19sChIJKVW5QyBPiEgRNIHGclmbzXI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8:30 am-5:30 pm; Tuesday: 8:30 am-5:30 pm; Wednesday: 8:30 am-5:30 pm; Thursday: 8:30 am-5:30 pm; Friday: 8:30 am-5:30 pm; Saturday: 8:30 am-5:30 pm; Sunday: 8:30 am-5:30 pm",
+    "types": "Pest control service",
+    "lat": 55.887104,
+    "lng": -4.363967,
+    "found_in_location": "Glasgow",
+    "found_with_query": "pest control scotland",
+    "email": "info@pestcontrolglasgowservices.co.uk",
+    "emails": [
+      "info@pestcontrolglasgowservices.co.uk",
+      "%20info@pestcontrolglasgowservices.co.uk",
+      "info@pcgpestcontrol.co.uk",
+      "markjohn2079@gmail.com"
+    ],
+    "description": "PCG Pest Control Glasgow – Fast, Reliable Pest Solutions Your Local Pest Control Service Say Goodbye to Pests – Fast, Effective Pest Control in Glasgow Don't let unwanted pests take over your home or business. PCG Pest Control Glasgow delivers professional, rapid pest elimination services that...",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Fumigation",
+      "Mole Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Aberdeen Pest Control Co",
+    "address": "1, Marischal Square, Broad St, Aberdeen, AB10 1BL, GB",
+    "phone": "01224 002828",
+    "international_phone": "01224 002828",
+    "website": "https://aberdeenpestcontrolco.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Pest+Control+Co/data=!4m7!3m6!1s0x48840f86e828efa5:0x8b5abcc18ceeada0!8m2!3d57.1485717!4d-2.0978408!16s%2Fg%2F11xty85dh_!19sChIJpe8o6IYPhEgRoK3ujMG8Wos?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 57.148572,
+    "lng": -2.097841,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "pest control scotland",
+    "email": "office@aberdeenpestcontrolco.co.uk",
+    "emails": [
+      "office@aberdeenpestcontrolco.co.uk"
+    ],
+    "description": "Pest Control Aberdeen | Professional Pest & Bird Control in Aberdeenshire | Aberdeen Pest Control Co. | Call 01224 002 828 for a FREE Quote.",
+    "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Moth Treatment",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
     ]
   },
   {
@@ -2893,6 +2785,23 @@
       "Squirrel Control",
       "Wasp Nest Removal"
     ]
+  },
+  {
+    "name": "Clyde Valley Pest Control",
+    "address": "14 Rosevale Cres, Hamilton, ML3 8NX, GB",
+    "phone": "01698 425346",
+    "international_phone": "01698 425346",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Clyde+Valley+Pest+Control/data=!4m7!3m6!1s0x48881548750cf397:0xe8a35133b7b0919!8m2!3d55.7684806!4d-4.0617365!16s%2Fg%2F1tt0qq1j!19sChIJl_MMdUgViEgRGQl7OxM1ig4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
+    "types": "Pest control service",
+    "lat": 55.768481,
+    "lng": -4.061736,
+    "found_in_location": "Hamilton",
+    "found_with_query": "pest control scotland"
   },
   {
     "name": "Dynamic Pest Control - Falkirk",
@@ -2933,116 +2842,11 @@
     "lng": -3.736707,
     "found_in_location": "Falkirk",
     "found_with_query": "pest control scotland",
-    "description": "Pest Control Chester \u2013 Rat & Rodent Removal \u2013 Rapid Response \u2013 Best Prices \u2013 Local Technicians \u2013 Call Today 01244 752 960",
+    "description": "Pest Control Chester – Rat & Rodent Removal – Rapid Response – Best Prices – Local Technicians – Call Today 01244 752 960",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Tullys pest control",
-    "address": "1 Douglas Pl, Bo'ness, EH51 0JZ, GB",
-    "phone": "07913 812406",
-    "international_phone": "07913 812406",
-    "website": "http://tullyspestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Tullys+pest+control/data=!4m7!3m6!1s0x4887d7b0545c0311:0xb613e1af81a446bd!8m2!3d56.0083194!4d-3.6127344!16s%2Fg%2F11y825c6l9!19sChIJEQNcVLDXh0gRvUakga_hE7Y?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 56.008319,
-    "lng": -3.612734,
-    "found_in_location": "Bo'ness",
-    "found_with_query": "pest control scotland",
-    "description": "Tullys is a pest control business based in Bo\u2019ness, Central Scotland. Some of the areas we service include, Falkirk, Forth Valley, Grangemouth, Larbert, Linlithgow, Polmont, Stenhousemuir , Stirlingshire, The Braes and throughout West Lothian.",
-    "services": [
-      "Cockroach Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Tennals Pest",
-    "address": "Bankside Industrial Estate, 6 Barons Ct, Falkirk, Grangemouth, Grangemouth, GB",
-    "phone": "0121 543 6300",
-    "international_phone": "0121 543 6300",
-    "website": "https://www.tennalspest.com/contact/",
-    "google_maps_url": "https://www.google.com/maps/place/Tennals+Pest/data=!4m7!3m6!1s0x488879a01a6c99df:0x18f2a60b32b6cd41!8m2!3d56.0120021!4d-3.7416688!16s%2Fg%2F11y2nq7b87!19sChIJ35lsGqB5iEgRQc22Mgum8hg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 56.012002,
-    "lng": -3.741669,
-    "found_in_location": "Grangemouth",
-    "found_with_query": "pest control scotland",
-    "email": "info@tennalspest.com",
-    "emails": [
-      "info@tennalspest.com"
-    ],
-    "description": "Get in touch with us by giving us a call or dropping us an email or filling in our contact form Give us a call 0333 004 0301 Drop us an email info@tennalspest.com Follow Us Need more information? Fill in our contact form below:"
-  },
-  {
-    "name": "Aberdeen Pest Control Co",
-    "address": "1, Marischal Square, Broad St, Aberdeen, AB10 1BL, GB",
-    "phone": "01224 002828",
-    "international_phone": "01224 002828",
-    "website": "https://aberdeenpestcontrolco.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Pest+Control+Co/data=!4m7!3m6!1s0x48840f86e828efa5:0x8b5abcc18ceeada0!8m2!3d57.1485717!4d-2.0978408!16s%2Fg%2F11xty85dh_!19sChIJpe8o6IYPhEgRoK3ujMG8Wos?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 57.148572,
-    "lng": -2.097841,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland",
-    "email": "office@aberdeenpestcontrolco.co.uk",
-    "emails": [
-      "office@aberdeenpestcontrolco.co.uk"
-    ],
-    "description": "Pest Control Aberdeen | Professional Pest & Bird Control in Aberdeenshire | Aberdeen Pest Control Co. | Call 01224 002 828 for a FREE Quote.",
-    "services": [
-      "Ant Control",
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Mole Control",
-      "Moth Treatment",
-      "Rat & Mouse Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Express Pest Control Services",
-    "address": "Scotland, George St, Aberdeen, AB25 1HX, GB",
-    "phone": "0344 947 0952",
-    "international_phone": "0344 947 0952",
-    "website": "http://pestcontrolaberdeen247.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Express+Pest+Control+Services/data=!4m7!3m6!1s0x48840e3d4b6c1f8d:0x26a92b90e40585a2!8m2!3d57.1503265!4d-2.1018433!16s%2Fg%2F11w1ql0x5k!19sChIJjR9sSz0OhEgRooUF5JArqSY?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 57.150326,
-    "lng": -2.101843,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "pest control scotland",
-    "description": "For Local Pest Control Near Me in Aberdeen Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Aberdeen, Fast for Home & Commercial Pest Problems!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
@@ -3100,59 +2904,30 @@
     ]
   },
   {
-    "name": "A PT",
-    "address": "58 Kinellar Dr, Glasgow, G14 0EY, GB",
-    "phone": "01389 318545",
-    "international_phone": "01389 318545",
-    "website": "https://pestcontrolglasgowservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A+PT/data=!4m7!3m6!1s0x48884f2043b95529:0x72cd9b5972c68134!8m2!3d55.8871044!4d-4.3639673!16s%2Fg%2F11rj4wz823!19sChIJKVW5QyBPiEgRNIHGclmbzXI?authuser=0&hl=en&rclk=1",
+    "name": "Express Pest Control Services",
+    "address": "Scotland, George St, Aberdeen, AB25 1HX, GB",
+    "phone": "0344 947 0952",
+    "international_phone": "0344 947 0952",
+    "website": "http://pestcontrolaberdeen247.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Express+Pest+Control+Services/data=!4m7!3m6!1s0x48840e3d4b6c1f8d:0x26a92b90e40585a2!8m2!3d57.1503265!4d-2.1018433!16s%2Fg%2F11w1ql0x5k!19sChIJjR9sSz0OhEgRooUF5JArqSY?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-5:30 pm; Tuesday: 8:30 am-5:30 pm; Wednesday: 8:30 am-5:30 pm; Thursday: 8:30 am-5:30 pm; Friday: 8:30 am-5:30 pm; Saturday: 8:30 am-5:30 pm; Sunday: 8:30 am-5:30 pm",
+    "opening_hours": "",
     "types": "Pest control service",
-    "lat": 55.887104,
-    "lng": -4.363967,
-    "found_in_location": "Glasgow",
+    "lat": 57.150326,
+    "lng": -2.101843,
+    "found_in_location": "Aberdeen",
     "found_with_query": "pest control scotland",
-    "email": "info@pestcontrolglasgowservices.co.uk",
-    "emails": [
-      "info@pestcontrolglasgowservices.co.uk",
-      "%20info@pestcontrolglasgowservices.co.uk",
-      "info@pcgpestcontrol.co.uk",
-      "markjohn2079@gmail.com"
-    ],
-    "description": "PCG Pest Control Glasgow \u2013 Fast, Reliable Pest Solutions Your Local Pest Control Service Say Goodbye to Pests \u2013 Fast, Effective Pest Control in Glasgow Don't let unwanted pests take over your home or business. PCG Pest Control Glasgow delivers professional, rapid pest elimination services that...",
+    "description": "For Local Pest Control Near Me in Aberdeen Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Aberdeen, Fast for Home & Commercial Pest Problems!",
     "services": [
-      "Ant Control",
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
       "Emergency Pest Control",
       "Flea Treatment",
-      "Fumigation",
-      "Mole Control",
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "Clyde Valley Pest Control",
-    "address": "14 Rosevale Cres, Hamilton, ML3 8NX, GB",
-    "phone": "01698 425346",
-    "international_phone": "01698 425346",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Clyde+Valley+Pest+Control/data=!4m7!3m6!1s0x48881548750cf397:0xe8a35133b7b0919!8m2!3d55.7684806!4d-4.0617365!16s%2Fg%2F1tt0qq1j!19sChIJl_MMdUgViEgRGQl7OxM1ig4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
-    "types": "Pest control service",
-    "lat": 55.768481,
-    "lng": -4.061736,
-    "found_in_location": "Hamilton",
-    "found_with_query": "pest control scotland"
   },
   {
     "name": "Masa Pest Control Ltd",
@@ -3196,5 +2971,50 @@
     "lng": -4.038666,
     "found_in_location": "Hamilton",
     "found_with_query": "pest control scotland"
+  },
+  {
+    "name": "Tennals Pest",
+    "address": "Bankside Industrial Estate, 6 Barons Ct, Falkirk, Grangemouth, Grangemouth, GB",
+    "phone": "0121 543 6300",
+    "international_phone": "0121 543 6300",
+    "website": "https://www.tennalspest.com/contact/",
+    "google_maps_url": "https://www.google.com/maps/place/Tennals+Pest/data=!4m7!3m6!1s0x488879a01a6c99df:0x18f2a60b32b6cd41!8m2!3d56.0120021!4d-3.7416688!16s%2Fg%2F11y2nq7b87!19sChIJ35lsGqB5iEgRQc22Mgum8hg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 56.012002,
+    "lng": -3.741669,
+    "found_in_location": "Grangemouth",
+    "found_with_query": "pest control scotland",
+    "email": "info@tennalspest.com",
+    "emails": [
+      "info@tennalspest.com"
+    ],
+    "description": "Get in touch with us by giving us a call or dropping us an email or filling in our contact form Give us a call 0333 004 0301 Drop us an email info@tennalspest.com Follow Us Need more information? Fill in our contact form below:"
+  },
+  {
+    "name": "Tullys pest control",
+    "address": "1 Douglas Pl, Bo'ness, EH51 0JZ, GB",
+    "phone": "07913 812406",
+    "international_phone": "07913 812406",
+    "website": "http://tullyspestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Tullys+pest+control/data=!4m7!3m6!1s0x4887d7b0545c0311:0xb613e1af81a446bd!8m2!3d56.0083194!4d-3.6127344!16s%2Fg%2F11y825c6l9!19sChIJEQNcVLDXh0gRvUakga_hE7Y?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 56.008319,
+    "lng": -3.612734,
+    "found_in_location": "Bo'ness",
+    "found_with_query": "pest control scotland",
+    "description": "Tullys is a pest control business based in Bo’ness, Central Scotland. Some of the areas we service include, Falkirk, Forth Valley, Grangemouth, Larbert, Linlithgow, Polmont, Stenhousemuir , Stirlingshire, The Braes and throughout West Lothian.",
+    "services": [
+      "Cockroach Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
   }
 ]

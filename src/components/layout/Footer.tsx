@@ -52,6 +52,30 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/guides"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Guides
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/blog"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  Blog
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/faq"
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  FAQ
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/about"
                   className="text-slate-400 hover:text-white text-sm transition-colors"
                 >

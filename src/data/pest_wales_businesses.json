@@ -283,7 +283,7 @@
     "lng": -3.501246,
     "found_in_location": "Rhyl",
     "found_with_query": "pest control wales",
-    "description": "THS Pest Control offers reliable, discreet and affordable pest management in Leeds and the surrounding areas. Our fixed price services include rodent control, wasp removal, ant treatment, flea eradication and insect control. We tailor solutions to each client\u2019s needs, ensuring professional, cost-eff",
+    "description": "THS Pest Control offers reliable, discreet and affordable pest management in Leeds and the surrounding areas. Our fixed price services include rodent control, wasp removal, ant treatment, flea eradication and insect control. We tailor solutions to each client’s needs, ensuring professional, cost-eff",
     "services": [
       "Cockroach Control",
       "Rat & Mouse Control"
@@ -475,28 +475,31 @@
     ]
   },
   {
-    "name": "Distinction Gardens",
-    "address": "Unit 24, Phoenix Business Park, Telford St, Newport, NP19 0LW, GB",
-    "phone": "01633 375641",
-    "international_phone": "01633 375641",
-    "website": "http://www.distinctiongardens.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Distinction+Gardens/data=!4m7!3m6!1s0x4871e6f421dae051:0xda15326425373ae8!8m2!3d51.5860721!4d-2.9730389!16s%2Fg%2F1thq4r96!19sChIJUeDaIfTmcUgR6Do3JWQyFdo?authuser=0&hl=en&rclk=1",
+    "name": "MDC Environmental",
+    "address": "9 Salisbury Rd, Maesteg, CF34 9EG, GB",
+    "phone": "07545 465489",
+    "international_phone": "07545 465489",
+    "website": "https://www.mdcenvironmental.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/MDC+Environmental/data=!4m7!3m6!1s0x486e69647bd3bec1:0xab7b000d2ef6c7f5!8m2!3d51.6075316!4d-3.6643985!16s%2Fg%2F11vz29m4n_!19sChIJwb7Te2RpbkgR9cf2Lg0Ae6s?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 26,
+    "total_reviews": 20,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: 9 am-4 pm; Sunday: 10 am-3 pm",
-    "types": "Landscape Gardener",
-    "lat": 51.586072,
-    "lng": -2.973039,
-    "found_in_location": "Newport",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 51.607532,
+    "lng": -3.664398,
+    "found_in_location": "Maesteg",
     "found_with_query": "pest control wales",
-    "email": "info@distinctiongardens.com",
+    "email": "matt@mdcenvironmental.co.uk",
     "emails": [
-      "info@distinctiongardens.com"
+      "matt@mdcenvironmental.co.uk"
     ],
-    "description": "Distinction Gardens should always be your first choice when you need expert garden services and maintenance. Based in Newport, Gwent, we are highly skilled with both domestic and commercial garden services.",
+    "description": "Pest Control Service Rodent Control Insect Eradication Based in Maesteg, South Wales",
     "services": [
-      "Mole Control"
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
     ]
   },
   {
@@ -530,34 +533,6 @@
     ]
   },
   {
-    "name": "MDC Environmental",
-    "address": "9 Salisbury Rd, Maesteg, CF34 9EG, GB",
-    "phone": "07545 465489",
-    "international_phone": "07545 465489",
-    "website": "https://www.mdcenvironmental.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/MDC+Environmental/data=!4m7!3m6!1s0x486e69647bd3bec1:0xab7b000d2ef6c7f5!8m2!3d51.6075316!4d-3.6643985!16s%2Fg%2F11vz29m4n_!19sChIJwb7Te2RpbkgR9cf2Lg0Ae6s?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 20,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 51.607532,
-    "lng": -3.664398,
-    "found_in_location": "Maesteg",
-    "found_with_query": "pest control wales",
-    "email": "matt@mdcenvironmental.co.uk",
-    "emails": [
-      "matt@mdcenvironmental.co.uk"
-    ],
-    "description": "Pest Control Service Rodent Control Insect Eradication Based in Maesteg, South Wales",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
     "name": "Pro-Site Maintenance (Wrexham)",
     "address": "Dalton House, 35 Chester St, Wrexham, LL13 8AH, GB",
     "phone": "01978 803099",
@@ -581,33 +556,6 @@
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
-      "Rat & Mouse Control"
-    ]
-  },
-  {
-    "name": "General Pest Control",
-    "address": "27 Traston Rd, Newport, NP19 4RQ, GB",
-    "phone": "01633 275996",
-    "international_phone": "01633 275996",
-    "website": "http://www.generalpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/General+Pest+Control/data=!4m7!3m6!1s0x4871e687c2e0ff17:0x9207b3cf67eff820!8m2!3d51.5720378!4d-2.955641!16s%2Fg%2F1td5wm56!19sChIJF__gwofmcUgRIPjvZ8-zB5I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 16,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 51.572038,
-    "lng": -2.955641,
-    "found_in_location": "Newport",
-    "found_with_query": "pest control wales",
-    "email": "info@generalpestcontrol.org",
-    "emails": [
-      "info@generalpestcontrol.org",
-      "bryan.silcox@gmail.com"
-    ],
-    "description": "Protect your crops from birds with bird control measures for farmlands in Newport. Call General Pest Control on 01633 275 996 for a free estimate",
-    "services": [
-      "Bird & Pigeon Control",
       "Rat & Mouse Control"
     ]
   },
@@ -664,6 +612,33 @@
     "services": [
       "Bird & Pigeon Control",
       "Cockroach Control"
+    ]
+  },
+  {
+    "name": "General Pest Control",
+    "address": "27 Traston Rd, Newport, NP19 4RQ, GB",
+    "phone": "01633 275996",
+    "international_phone": "01633 275996",
+    "website": "http://www.generalpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/General+Pest+Control/data=!4m7!3m6!1s0x4871e687c2e0ff17:0x9207b3cf67eff820!8m2!3d51.5720378!4d-2.955641!16s%2Fg%2F1td5wm56!19sChIJF__gwofmcUgRIPjvZ8-zB5I?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 16,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 51.572038,
+    "lng": -2.955641,
+    "found_in_location": "Newport",
+    "found_with_query": "pest control wales",
+    "email": "info@generalpestcontrol.org",
+    "emails": [
+      "info@generalpestcontrol.org",
+      "bryan.silcox@gmail.com"
+    ],
+    "description": "Protect your crops from birds with bird control measures for farmlands in Newport. Call General Pest Control on 01633 275 996 for a free estimate",
+    "services": [
+      "Bird & Pigeon Control",
+      "Rat & Mouse Control"
     ]
   },
   {
@@ -895,24 +870,6 @@
     "found_with_query": "pest control wales"
   },
   {
-    "name": "Artemis FMC",
-    "address": "Office 1M001, 376 Newport Rd, Cardiff, CF23 9AE, GB",
-    "phone": "07582 090050",
-    "international_phone": "07582 090050",
-    "website": "http://www.artemisfmc.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Artemis+FMC/data=!4m7!3m6!1s0x486e1cc643c81ce1:0xf5628552aa7db835!8m2!3d51.4976228!4d-3.1399206!16s%2Fg%2F11h02929d!19sChIJ4RzIQ8YcbkgRNbh9qlKFYvU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-8 pm; Tuesday: 7 am-8 pm; Wednesday: 7 am-8 pm; Thursday: 7 am-8 pm; Friday: 7 am-8 pm; Saturday: 9 am-5 pm; Sunday: 9 am-5 pm",
-    "types": "Pest control service",
-    "lat": 51.497623,
-    "lng": -3.139921,
-    "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales",
-    "description": "Artemis is a local Cardiff company specialising in Pest Control, washroom services including sanitary bin collections and Janitorial supplies"
-  },
-  {
     "name": "Adm Pest Solutions",
     "address": "Swansea Enterprise Park, Unit 7, Clarion Court, Clarion Cl, Llansamlet, Swansea, SA6 8RF, GB",
     "phone": "0800 999 2922",
@@ -930,29 +887,22 @@
     "found_with_query": "pest control wales"
   },
   {
-    "name": "PPC Environmental Ltd - Bangor",
-    "address": "Balloo Ave, Bangor, BT19 7QT, GB",
-    "phone": "028 9079 6026",
-    "international_phone": "028 9079 6026",
-    "website": "http://www.ppcenvironmental.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/PPC+Environmental+Ltd+-+Bangor/@54.6424061,-5.6707379,17z/data=!3m1!4b1!4m6!3m5!1s0x486175929d20fc37:0x7540f1a5accba318!8m2!3d54.6424061!4d-5.6707379!16s%2Fg%2F1wk7q8cf?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMC4wIKXMDSoASAFQAw%3D%3D",
+    "name": "Artemis FMC",
+    "address": "Office 1M001, 376 Newport Rd, Cardiff, CF23 9AE, GB",
+    "phone": "07582 090050",
+    "international_phone": "07582 090050",
+    "website": "http://www.artemisfmc.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Artemis+FMC/data=!4m7!3m6!1s0x486e1cc643c81ce1:0xf5628552aa7db835!8m2!3d51.4976228!4d-3.1399206!16s%2Fg%2F11h02929d!19sChIJ4RzIQ8YcbkgRNbh9qlKFYvU?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 4,
+    "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 7 am-8 pm; Tuesday: 7 am-8 pm; Wednesday: 7 am-8 pm; Thursday: 7 am-8 pm; Friday: 7 am-8 pm; Saturday: 9 am-5 pm; Sunday: 9 am-5 pm",
     "types": "Pest control service",
-    "lat": 54.642406,
-    "lng": -5.670738,
-    "found_in_location": "Bangor",
+    "lat": 51.497623,
+    "lng": -3.139921,
+    "found_in_location": "Cardiff",
     "found_with_query": "pest control wales",
-    "description": "With over 45 years of experience, Vergo delivers expert pest control solutions to commercial and residential sectors across the UK.",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
+    "description": "Artemis is a local Cardiff company specialising in Pest Control, washroom services including sanitary bin collections and Janitorial supplies"
   },
   {
     "name": "Arrow Pest Services",
@@ -1003,6 +953,48 @@
     ]
   },
   {
+    "name": "PPC Environmental Ltd - Bangor",
+    "address": "Balloo Ave, Bangor, BT19 7QT, GB",
+    "phone": "028 9079 6026",
+    "international_phone": "028 9079 6026",
+    "website": "http://www.ppcenvironmental.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/PPC+Environmental+Ltd+-+Bangor/@54.6424061,-5.6707379,17z/data=!3m1!4b1!4m6!3m5!1s0x486175929d20fc37:0x7540f1a5accba318!8m2!3d54.6424061!4d-5.6707379!16s%2Fg%2F1wk7q8cf?hl=en&entry=ttu&g_ep=EgoyMDI2MDMxMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 54.642406,
+    "lng": -5.670738,
+    "found_in_location": "Bangor",
+    "found_with_query": "pest control wales",
+    "description": "With over 45 years of experience, Vergo delivers expert pest control solutions to commercial and residential sectors across the UK.",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "A & R Pest Control Services",
+    "address": "Nant y Cynog, Cwm Maethlon,, Tywyn, LL36 9HY, GB",
+    "phone": "01654 710556",
+    "international_phone": "01654 710556",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/A+%26+R+Pest+Control+Services/data=!4m7!3m6!1s0x486f81c301a9b157:0xf6cd05397bab5446!8m2!3d52.572744!4d-4.038749!16s%2Fg%2F11bzsjyph6!19sChIJV7GpAcOBb0gRRlSrezkFzfY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.572744,
+    "lng": -4.038749,
+    "found_in_location": "Tywyn",
+    "found_with_query": "pest control wales"
+  },
+  {
     "name": "CF Pest Solutions",
     "address": "11 Brachdy Ln, Rumney, Cardiff, CF3 3AR, GB",
     "phone": "07546 718010",
@@ -1028,30 +1020,6 @@
       "Bird & Pigeon Control",
       "Cockroach Control",
       "Rat & Mouse Control"
-    ]
-  },
-  {
-    "name": "P & P PEST CONTROL LTD",
-    "address": "1 Brunant Rd, Clydach, Abergavenny, NP7 0NG, GB",
-    "phone": "01873 830204",
-    "international_phone": "01873 830204",
-    "website": "http://pandppestcontrol.com/",
-    "google_maps_url": "https://www.google.com/maps/place/P+%26+P+PEST+CONTROL+LTD/data=!4m7!3m6!1s0x4871d802e4b77ec7:0x6f02dfee7c9efaab!8m2!3d51.8133392!4d-3.1155558!16s%2Fg%2F11j7jkd_20!19sChIJx3635ALYcUgRq_qefO7fAm8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 51.813339,
-    "lng": -3.115556,
-    "found_in_location": "Abergavenny",
-    "found_with_query": "pest control wales",
-    "email": "info@pandppestcontrol.co.uk",
-    "emails": [
-      "info@pandppestcontrol.co.uk"
-    ],
-    "services": [
-      "Wasp Nest Removal"
     ]
   },
   {
@@ -1082,38 +1050,28 @@
     ]
   },
   {
-    "name": "A & R Pest Control Services",
-    "address": "Nant y Cynog, Cwm Maethlon,, Tywyn, LL36 9HY, GB",
-    "phone": "01654 710556",
-    "international_phone": "01654 710556",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/A+%26+R+Pest+Control+Services/data=!4m7!3m6!1s0x486f81c301a9b157:0xf6cd05397bab5446!8m2!3d52.572744!4d-4.038749!16s%2Fg%2F11bzsjyph6!19sChIJV7GpAcOBb0gRRlSrezkFzfY?authuser=0&hl=en&rclk=1",
+    "name": "P & P PEST CONTROL LTD",
+    "address": "1 Brunant Rd, Clydach, Abergavenny, NP7 0NG, GB",
+    "phone": "01873 830204",
+    "international_phone": "01873 830204",
+    "website": "http://pandppestcontrol.com/",
+    "google_maps_url": "https://www.google.com/maps/place/P+%26+P+PEST+CONTROL+LTD/data=!4m7!3m6!1s0x4871d802e4b77ec7:0x6f02dfee7c9efaab!8m2!3d51.8133392!4d-3.1155558!16s%2Fg%2F11j7jkd_20!19sChIJx3635ALYcUgRq_qefO7fAm8?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 52.572744,
-    "lng": -4.038749,
-    "found_in_location": "Tywyn",
-    "found_with_query": "pest control wales"
-  },
-  {
-    "name": "Preventa Pest",
-    "address": "Bryncynon, Hirwaun, Aberdare, CF44 9PZ, GB",
-    "phone": "07989 357471",
-    "international_phone": "07989 357471",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Preventa+Pest/data=!4m7!3m6!1s0x486e38eb2a992d05:0x8ad42a96cc00262a!8m2!3d51.7395061!4d-3.5020479!16s%2Fg%2F1yh9tv8rj!19sChIJBS2ZKus4bkgRKiYAzJYq1Io?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 51.739506,
-    "lng": -3.502048,
-    "found_in_location": "Aberdare",
-    "found_with_query": "pest control wales"
+    "lat": 51.813339,
+    "lng": -3.115556,
+    "found_in_location": "Abergavenny",
+    "found_with_query": "pest control wales",
+    "email": "info@pandppestcontrol.co.uk",
+    "emails": [
+      "info@pandppestcontrol.co.uk"
+    ],
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Gower Mole Catcher",
@@ -1131,10 +1089,10 @@
     "lng": -4.034191,
     "found_in_location": "Swansea",
     "found_with_query": "pest control wales",
+    "description": "If you have a problem with any kind of pest mammal then I can deal with it.",
     "services": [
       "Mole Control"
-    ],
-    "description": "If you have a problem with any kind of pest mammal then I can deal with it."
+    ]
   },
   {
     "name": "Ian's Pest Control",
@@ -1151,6 +1109,23 @@
     "lat": 52.506884,
     "lng": -3.337737,
     "found_in_location": "Newtown",
+    "found_with_query": "pest control wales"
+  },
+  {
+    "name": "Preventa Pest",
+    "address": "Bryncynon, Hirwaun, Aberdare, CF44 9PZ, GB",
+    "phone": "07989 357471",
+    "international_phone": "07989 357471",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Preventa+Pest/data=!4m7!3m6!1s0x486e38eb2a992d05:0x8ad42a96cc00262a!8m2!3d51.7395061!4d-3.5020479!16s%2Fg%2F1yh9tv8rj!19sChIJBS2ZKus4bkgRKiYAzJYq1Io?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 51.739506,
+    "lng": -3.502048,
+    "found_in_location": "Aberdare",
     "found_with_query": "pest control wales"
   },
   {
@@ -1204,23 +1179,6 @@
     "found_with_query": "pest control wales"
   },
   {
-    "name": "Red Dragon Pest Control",
-    "address": "59 Yr Hendre, Nantgarw, Cardiff, CF15 7TG, GB",
-    "phone": "07931 093344",
-    "international_phone": "07931 093344",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Red+Dragon+Pest+Control/data=!4m7!3m6!1s0x486e198fbcdd1821:0x7e47f773e127d4c!8m2!3d51.5623904!4d-3.2681092!16s%2Fg%2F1yh9tshfv!19sChIJIRjdvI8ZbkgRTH0SPnd_5Ac?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 51.56239,
-    "lng": -3.268109,
-    "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales"
-  },
-  {
     "name": "Rathbone Pest Control",
     "address": "23 The Avenue, Ystrad Mynach, Hengoed, CF82 8BA, GB",
     "phone": "07971 283929",
@@ -1235,6 +1193,23 @@
     "lat": 51.645426,
     "lng": -3.226951,
     "found_in_location": "Hengoed",
+    "found_with_query": "pest control wales"
+  },
+  {
+    "name": "Red Dragon Pest Control",
+    "address": "59 Yr Hendre, Nantgarw, Cardiff, CF15 7TG, GB",
+    "phone": "07931 093344",
+    "international_phone": "07931 093344",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Red+Dragon+Pest+Control/data=!4m7!3m6!1s0x486e198fbcdd1821:0x7e47f773e127d4c!8m2!3d51.5623904!4d-3.2681092!16s%2Fg%2F1yh9tshfv!19sChIJIRjdvI8ZbkgRTH0SPnd_5Ac?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 51.56239,
+    "lng": -3.268109,
+    "found_in_location": "Cardiff",
     "found_with_query": "pest control wales"
   },
   {
@@ -1598,38 +1573,27 @@
     "lng": -3.516424,
     "found_in_location": "Rhyl",
     "found_with_query": "pest control wales",
+    "description": "Servos are a leading Exterior Building Cleaning company and can clean, restore, & protect almost any external surface.",
     "services": [
       "Bird & Pigeon Control"
-    ],
-    "description": "Servos are a leading Exterior Building Cleaning company and can clean, restore, & protect almost any external surface."
+    ]
   },
   {
-    "name": "Pro Control Pest Control Services",
-    "address": "22 Gardden Rd, Rhosllanerchrugog, Wrexham, LL14 2EW, GB",
-    "phone": "01978 846621",
-    "international_phone": "01978 846621",
-    "website": "http://www.procontrolpestservices.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Pro+Control+Pest+Control+Services/data=!4m7!3m6!1s0x487ac7f86193aed3:0x7b275c0c2da25ecc!8m2!3d53.0080817!4d-3.0497558!16s%2Fg%2F1xtf12vc!19sChIJ066TYfjHekgRzF6iLQxcJ3s?authuser=0&hl=en&rclk=1",
+    "name": "Carmarthen Pest Control (CPC) Services",
+    "address": "10 Maes Lewis Morris, Carmarthen, SA31 2PL, GB",
+    "phone": "07786 601044",
+    "international_phone": "07786 601044",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Carmarthen+Pest+Control+%28CPC%29+Services/data=!4m7!3m6!1s0x486ee7b6b8cb1529:0x2fc38ad8e4840960!8m2!3d51.8478709!4d-4.2967005!16s%2Fg%2F11h3qqbbj8!19sChIJKRXLuLbnbkgRYAmE5NiKwy8?authuser=0&hl=en&rclk=1",
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-3 pm; Sunday: 8 am-9 pm",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
     "types": "Pest control service",
-    "lat": 53.008082,
-    "lng": -3.049756,
-    "found_in_location": "Wrexham",
-    "found_with_query": "pest control wales",
-    "email": "steve@procontrolpestservices.com",
-    "emails": [
-      "steve@procontrolpestservices.com"
-    ],
-    "description": "Local pest control for Wrexham, Chester and surrounding areas. All pests treated, Low Prices guaranteed. Same day attendance Wasp nest removal, rats, mice",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control",
-      "Mole Control",
-      "Wasp Nest Removal"
-    ]
+    "lat": 51.847871,
+    "lng": -4.296701,
+    "found_in_location": "Carmarthen",
+    "found_with_query": "pest control wales"
   },
   {
     "name": "P. Morris Pest & Vermin Control",
@@ -1658,21 +1622,32 @@
     ]
   },
   {
-    "name": "Carmarthen Pest Control (CPC) Services",
-    "address": "10 Maes Lewis Morris, Carmarthen, SA31 2PL, GB",
-    "phone": "07786 601044",
-    "international_phone": "07786 601044",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Carmarthen+Pest+Control+%28CPC%29+Services/data=!4m7!3m6!1s0x486ee7b6b8cb1529:0x2fc38ad8e4840960!8m2!3d51.8478709!4d-4.2967005!16s%2Fg%2F11h3qqbbj8!19sChIJKRXLuLbnbkgRYAmE5NiKwy8?authuser=0&hl=en&rclk=1",
+    "name": "Pro Control Pest Control Services",
+    "address": "22 Gardden Rd, Rhosllanerchrugog, Wrexham, LL14 2EW, GB",
+    "phone": "01978 846621",
+    "international_phone": "01978 846621",
+    "website": "http://www.procontrolpestservices.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Pro+Control+Pest+Control+Services/data=!4m7!3m6!1s0x487ac7f86193aed3:0x7b275c0c2da25ecc!8m2!3d53.0080817!4d-3.0497558!16s%2Fg%2F1xtf12vc!19sChIJ066TYfjHekgRzF6iLQxcJ3s?authuser=0&hl=en&rclk=1",
     "rating": 4.7,
     "total_reviews": 13,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-3 pm; Sunday: 8 am-9 pm",
     "types": "Pest control service",
-    "lat": 51.847871,
-    "lng": -4.296701,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "pest control wales"
+    "lat": 53.008082,
+    "lng": -3.049756,
+    "found_in_location": "Wrexham",
+    "found_with_query": "pest control wales",
+    "email": "steve@procontrolpestservices.com",
+    "emails": [
+      "steve@procontrolpestservices.com"
+    ],
+    "description": "Local pest control for Wrexham, Chester and surrounding areas. All pests treated, Low Prices guaranteed. Same day attendance Wasp nest removal, rats, mice",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Mole Control",
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Pelsis - Agrisense Industrial Monitoring",
@@ -1799,31 +1774,6 @@
     ]
   },
   {
-    "name": "Jollyes - The Pet People Merthyr Tydfil",
-    "address": "1B Triangle Business Park Rd, Pentrebach, Merthyr Tydfil, CF48 4TQ, GB",
-    "phone": "01685 702580",
-    "international_phone": "01685 702580",
-    "website": "https://www.jollyes.co.uk/store/merthyr-tydfil?utm_source=google&utm_medium=organic&utm_campaign=local_listing_merthyr_tydfil",
-    "google_maps_url": "https://www.google.com/maps/place/Jollyes+-+The+Pet+People+Merthyr+Tydfil/data=!4m7!3m6!1s0x486e3bd44183971f:0xcc7faa11eacd739e!8m2!3d51.7273712!4d-3.3623855!16s%2Fg%2F11v5b_2rhq!19sChIJH5eDQdQ7bkgRnnPN6hGqf8w?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 45,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-7 pm; Tuesday: 9 am-7 pm; Wednesday: 9 am-7 pm; Thursday: 9 am-7 pm; Friday: 9 am-7:30 pm; Saturday: 9 am-6 pm; Sunday: 10 am-4 pm",
-    "types": "Pet Shop",
-    "lat": 51.727371,
-    "lng": -3.362385,
-    "found_in_location": "Merthyr Tydfil",
-    "found_with_query": "pest control wales",
-    "email": "merthyrtydfil@jollyes.com",
-    "emails": [
-      "merthyrtydfil@jollyes.com"
-    ],
-    "description": "A complete store for all the pet essentials you may need, from food to toys, for dogs, cats, small pets and many more as well.",
-    "services": [
-      "Flea Treatment"
-    ]
-  },
-  {
     "name": "PreventaPest Ltd, Pest Control, Confidential Shredding and PAT Testing",
     "address": "Unit E1, Capel Hendre Ind Estate, Capel Hendre, Ammanford, SA18 3SJ, GB",
     "phone": "01269 844503",
@@ -1863,6 +1813,23 @@
     "found_with_query": "pest control wales"
   },
   {
+    "name": "Abergele Pest Services",
+    "address": "Maes Canol, Abergele, LL22 7PB, GB",
+    "phone": "07842 164997",
+    "international_phone": "07842 164997",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Abergele+Pest+Services/data=!4m7!3m6!1s0x486527d40942fe23:0xacad7a3fa9ea11bf!8m2!3d53.2889799!4d-3.5777413!16s%2Fg%2F11b5yt_s48!19sChIJI_5CCdQnZUgRvxHqqT96raw?authuser=0&hl=en&rclk=1",
+    "rating": 4.2,
+    "total_reviews": 5,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 11 am-4 pm",
+    "types": "Pest control service",
+    "lat": 53.28898,
+    "lng": -3.577741,
+    "found_in_location": "Abergele",
+    "found_with_query": "pest control wales"
+  },
+  {
     "name": "Falconry Services",
     "address": "The Old Stables, Cefn Cribwr, Bridgend, CF32 0BP, GB",
     "phone": "07770 778830",
@@ -1890,23 +1857,6 @@
       "Cockroach Control",
       "Rat & Mouse Control"
     ]
-  },
-  {
-    "name": "Abergele Pest Services",
-    "address": "Maes Canol, Abergele, LL22 7PB, GB",
-    "phone": "07842 164997",
-    "international_phone": "07842 164997",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Abergele+Pest+Services/data=!4m7!3m6!1s0x486527d40942fe23:0xacad7a3fa9ea11bf!8m2!3d53.2889799!4d-3.5777413!16s%2Fg%2F11b5yt_s48!19sChIJI_5CCdQnZUgRvxHqqT96raw?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 11 am-4 pm",
-    "types": "Pest control service",
-    "lat": 53.28898,
-    "lng": -3.577741,
-    "found_in_location": "Abergele",
-    "found_with_query": "pest control wales"
   },
   {
     "name": "Greener Ways Services Ltd.",
@@ -1964,32 +1914,6 @@
     ]
   },
   {
-    "name": "Pest Control Services Llanelli",
-    "address": "Wales, Murray St, Llanelli, SA15 1BX, GB",
-    "phone": "0800 051 8640",
-    "international_phone": "0800 051 8640",
-    "website": "http://pestcontrolllanelli.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Services+Llanelli/data=!4m7!3m6!1s0x486eedc24d45fbb1:0x423811cbb655a4db!8m2!3d51.6803907!4d-4.1596871!16s%2Fg%2F11lc_4jjy_!19sChIJsftFTcLtbkgR26RVtssROEI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 51.680391,
-    "lng": -4.159687,
-    "found_in_location": "Llanelli",
-    "found_with_query": "pest control wales",
-    "description": "For Local Pest Control Near Me in Llanelli Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Llanelli, Fast for Home & Commercial Pest Problems!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
     "name": "Anti Pest South Wales",
     "address": "5 Oak Terrace, Coytrahen, Bridgend, CF32 0DY, GB",
     "phone": "01656 723963",
@@ -2005,82 +1929,6 @@
     "lng": -3.601719,
     "found_in_location": "Bridgend",
     "found_with_query": "pest control wales"
-  },
-  {
-    "name": "M@N Pest Control",
-    "address": "15 Rockingham Terrace, Briton Ferry, Neath, SA11 2PB, GB",
-    "phone": "07958 619313",
-    "international_phone": "07958 619313",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/M@N+Pest+Control/data=!4m7!3m6!1s0x486e5e09f87e181b:0xfc8cfccb7000d5a7!8m2!3d51.6372019!4d-3.8193267!16s%2Fg%2F1tfkq5qj!19sChIJGxh--AlebkgRp9UAcMv8jPw?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 51.637202,
-    "lng": -3.819327,
-    "found_in_location": "Neath",
-    "found_with_query": "pest control wales"
-  },
-  {
-    "name": "Rentokil Pest Control Cardiff",
-    "address": "334 Woodside Way, Cwmbran, NP44 5BJ, GB",
-    "phone": "029 2000 5776",
-    "international_phone": "029 2000 5776",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Rentokil+Pest+Control+Cardiff/data=!4m7!3m6!1s0x4871de10c5b00001:0xe62edd6a3c7c61fa!8m2!3d51.6567021!4d-3.0316265!16s%2Fg%2F11j2vnfzqh!19sChIJAQCwxRDecUgR-mF8PGrdLuY?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 51.656702,
-    "lng": -3.031626,
-    "found_in_location": "Cwmbran",
-    "found_with_query": "pest control wales"
-  },
-  {
-    "name": "Pest Control Cymru",
-    "address": "68 Garth Dinas, Penparcau, Aberystwyth, SY23 3RZ, GB",
-    "phone": "07484 647059",
-    "international_phone": "07484 647059",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Cymru/data=!4m7!3m6!1s0x486f764212c1aaab:0xe875402aa06e5d48!8m2!3d52.3989215!4d-4.0638115!16s%2Fg%2F11w3ckf0x8!19sChIJq6rBEkJ2b0gRSF1uoCpAdeg?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 52.398922,
-    "lng": -4.063811,
-    "found_in_location": "Aberystwyth",
-    "found_with_query": "pest control wales"
-  },
-  {
-    "name": "Phil Meek The Cardiff Wasp Nest and Honey Bee Extraction Specialist",
-    "address": "16 Forest Farm Rd, Cardiff, CF14 7JN, GB",
-    "phone": "029 2197 1010",
-    "international_phone": "029 2197 1010",
-    "website": "http://www.titanpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Phil+Meek+The+Cardiff+Wasp+Nest+and+Honey+Bee+Extraction+Specialist/data=!4m7!3m6!1s0x486e1bbd737f6325:0x82879bdc40004705!8m2!3d51.5165571!4d-3.2385775!16s%2Fg%2F11hzwz4w44!19sChIJJWN_c70bbkgRBUcAQNybh4I?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-6:30 pm; Tuesday: 8 am-6:30 pm; Wednesday: 8 am-6:30 pm; Thursday: 8 am-6:30 pm; Friday: 8 am-6:30 pm; Saturday: 10 am-3 pm; Sunday: 10 am-2 pm",
-    "types": "Pest control service",
-    "lat": 51.516557,
-    "lng": -3.238577,
-    "found_in_location": "Cardiff",
-    "found_with_query": "pest control wales",
-    "services": [
-      "Wasp Nest Removal"
-    ],
-    "email": "contact@titanpestcontrol.co.uk",
-    "emails": [
-      "contact@titanpestcontrol.co.uk"
-    ],
-    "description": "We are a professional, complete pest control service provider based in Cardiff, covering Cardiff / Newport, Penarth, Barry, Caerphilly & all surrounding areas. Specialising in the removal / treatment of wasps, rats, mice, fleas, bed-bugs and many more nuisance species including invasive weeds"
   },
   {
     "name": "Artemis Pest Control",
@@ -2102,46 +1950,6 @@
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Welsh Pest Control Services",
-    "address": "78 Ty-Isaf Park Rd, Risca, Newport, NP11 6NH, GB",
-    "phone": "01633 613866",
-    "international_phone": "01633 613866",
-    "website": "https://www.welshpestcontrolservices.co.uk/contact-us",
-    "google_maps_url": "https://www.google.com/maps/place/Welsh+Pest+Control+Services/data=!4m7!3m6!1s0x4871e04a907bffff:0x54f4fe1199cfaa0d!8m2!3d51.6027463!4d-3.0821677!16s%2Fg%2F11txdnnqkf!19sChIJ__97kErgcUgRDarPmRH-9FQ?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Cleaning service",
-    "lat": 51.602746,
-    "lng": -3.082168,
-    "found_in_location": "Newport",
-    "found_with_query": "pest control wales"
-  },
-  {
-    "name": "Pest Control Wales",
-    "address": "Laswern, Carmarthen, SA17 5LS, GB",
-    "phone": "07883 008331",
-    "international_phone": "07883 008331",
-    "website": "https://verminatorpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Wales/data=!4m7!3m6!1s0x486ee7ffbfb9adf5:0xef22600400455ed7!8m2!3d51.8559207!4d-4.30474!16s%2Fg%2F11rc6ym8dq!19sChIJ9a25v__nbkgR115FAARgIu8?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 51.855921,
-    "lng": -4.30474,
-    "found_in_location": "Carmarthen",
-    "found_with_query": "pest control wales",
-    "description": "Pest Control South and West Wales. Cardiff, Birdgend, Swansea, Carmarthen, Llanelli, St Clears, Llandysul. Rats, Mice, Fleas, Bedbugs, Moths, Moles, Squirrels, Wasps, Hornets, Mites, Ants, Beetles, Flies.",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control",
       "Wasp Nest Removal"
     ]
   },
@@ -2171,5 +1979,147 @@
       "Cockroach Control",
       "Commercial Pest Control"
     ]
+  },
+  {
+    "name": "M@N Pest Control",
+    "address": "15 Rockingham Terrace, Briton Ferry, Neath, SA11 2PB, GB",
+    "phone": "07958 619313",
+    "international_phone": "07958 619313",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/M@N+Pest+Control/data=!4m7!3m6!1s0x486e5e09f87e181b:0xfc8cfccb7000d5a7!8m2!3d51.6372019!4d-3.8193267!16s%2Fg%2F1tfkq5qj!19sChIJGxh--AlebkgRp9UAcMv8jPw?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 51.637202,
+    "lng": -3.819327,
+    "found_in_location": "Neath",
+    "found_with_query": "pest control wales"
+  },
+  {
+    "name": "Pest Control Cymru",
+    "address": "68 Garth Dinas, Penparcau, Aberystwyth, SY23 3RZ, GB",
+    "phone": "07484 647059",
+    "international_phone": "07484 647059",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Cymru/data=!4m7!3m6!1s0x486f764212c1aaab:0xe875402aa06e5d48!8m2!3d52.3989215!4d-4.0638115!16s%2Fg%2F11w3ckf0x8!19sChIJq6rBEkJ2b0gRSF1uoCpAdeg?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.398922,
+    "lng": -4.063811,
+    "found_in_location": "Aberystwyth",
+    "found_with_query": "pest control wales"
+  },
+  {
+    "name": "Pest Control Services Llanelli",
+    "address": "Wales, Murray St, Llanelli, SA15 1BX, GB",
+    "phone": "0800 051 8640",
+    "international_phone": "0800 051 8640",
+    "website": "http://pestcontrolllanelli.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Services+Llanelli/data=!4m7!3m6!1s0x486eedc24d45fbb1:0x423811cbb655a4db!8m2!3d51.6803907!4d-4.1596871!16s%2Fg%2F11lc_4jjy_!19sChIJsftFTcLtbkgR26RVtssROEI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 51.680391,
+    "lng": -4.159687,
+    "found_in_location": "Llanelli",
+    "found_with_query": "pest control wales",
+    "description": "For Local Pest Control Near Me in Llanelli Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Llanelli, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Pest Control Wales",
+    "address": "Laswern, Carmarthen, SA17 5LS, GB",
+    "phone": "07883 008331",
+    "international_phone": "07883 008331",
+    "website": "https://verminatorpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Wales/data=!4m7!3m6!1s0x486ee7ffbfb9adf5:0xef22600400455ed7!8m2!3d51.8559207!4d-4.30474!16s%2Fg%2F11rc6ym8dq!19sChIJ9a25v__nbkgR115FAARgIu8?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 51.855921,
+    "lng": -4.30474,
+    "found_in_location": "Carmarthen",
+    "found_with_query": "pest control wales",
+    "description": "Pest Control South and West Wales. Cardiff, Birdgend, Swansea, Carmarthen, Llanelli, St Clears, Llandysul. Rats, Mice, Fleas, Bedbugs, Moths, Moles, Squirrels, Wasps, Hornets, Mites, Ants, Beetles, Flies.",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Phil Meek The Cardiff Wasp Nest and Honey Bee Extraction Specialist",
+    "address": "16 Forest Farm Rd, Cardiff, CF14 7JN, GB",
+    "phone": "029 2197 1010",
+    "international_phone": "029 2197 1010",
+    "website": "http://www.titanpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Phil+Meek+The+Cardiff+Wasp+Nest+and+Honey+Bee+Extraction+Specialist/data=!4m7!3m6!1s0x486e1bbd737f6325:0x82879bdc40004705!8m2!3d51.5165571!4d-3.2385775!16s%2Fg%2F11hzwz4w44!19sChIJJWN_c70bbkgRBUcAQNybh4I?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-6:30 pm; Tuesday: 8 am-6:30 pm; Wednesday: 8 am-6:30 pm; Thursday: 8 am-6:30 pm; Friday: 8 am-6:30 pm; Saturday: 10 am-3 pm; Sunday: 10 am-2 pm",
+    "types": "Pest control service",
+    "lat": 51.516557,
+    "lng": -3.238577,
+    "found_in_location": "Cardiff",
+    "found_with_query": "pest control wales",
+    "email": "contact@titanpestcontrol.co.uk",
+    "emails": [
+      "contact@titanpestcontrol.co.uk"
+    ],
+    "description": "We are a professional, complete pest control service provider based in Cardiff, covering Cardiff / Newport, Penarth, Barry, Caerphilly & all surrounding areas. Specialising in the removal / treatment of wasps, rats, mice, fleas, bed-bugs and many more nuisance species including invasive weeds",
+    "services": [
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Rentokil Pest Control Cardiff",
+    "address": "334 Woodside Way, Cwmbran, NP44 5BJ, GB",
+    "phone": "029 2000 5776",
+    "international_phone": "029 2000 5776",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rentokil+Pest+Control+Cardiff/data=!4m7!3m6!1s0x4871de10c5b00001:0xe62edd6a3c7c61fa!8m2!3d51.6567021!4d-3.0316265!16s%2Fg%2F11j2vnfzqh!19sChIJAQCwxRDecUgR-mF8PGrdLuY?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 51.656702,
+    "lng": -3.031626,
+    "found_in_location": "Cwmbran",
+    "found_with_query": "pest control wales"
+  },
+  {
+    "name": "Welsh Pest Control Services",
+    "address": "78 Ty-Isaf Park Rd, Risca, Newport, NP11 6NH, GB",
+    "phone": "01633 613866",
+    "international_phone": "01633 613866",
+    "website": "https://www.welshpestcontrolservices.co.uk/contact-us",
+    "google_maps_url": "https://www.google.com/maps/place/Welsh+Pest+Control+Services/data=!4m7!3m6!1s0x4871e04a907bffff:0x54f4fe1199cfaa0d!8m2!3d51.6027463!4d-3.0821677!16s%2Fg%2F11txdnnqkf!19sChIJ__97kErgcUgRDarPmRH-9FQ?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Cleaning service",
+    "lat": 51.602746,
+    "lng": -3.082168,
+    "found_in_location": "Newport",
+    "found_with_query": "pest control wales"
   }
 ]

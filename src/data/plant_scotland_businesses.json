@@ -1,27 +1,5 @@
 [
   {
-    "name": "Central Vehicle Rentals",
-    "address": "21 Whitehouse Rd, Stirling, FK7 7SP, GB",
-    "phone": "01786 568450",
-    "international_phone": "01786 568450",
-    "website": "https://www.centralvehiclerentals.co.uk/?utm_source=google&utm_medium=gmb&utm_campaign=listing",
-    "google_maps_url": "https://www.google.com/maps/place/Central+Vehicle+Rentals/data=!4m7!3m6!1s0x488863280bf370d3:0x92ab7db284dca74f!8m2!3d56.116595!4d-3.9182457!16s%2Fg%2F11jgnsqx_1!19sChIJ03DzCyhjiEgRT6fchLJ9q5I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 258,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–4 pm\"],\"Sunday\":[\"10 am–2 pm\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 56.116595,
-    "lng": -3.918246,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "enquiry@centralvehiclerentals.co.uk",
-    "emails": [
-      "enquiry@centralvehiclerentals.co.uk"
-    ],
-    "description": "Central Vehicle Rentals offer a range of premium rental cars & vans for hire in Stirling. Fantastic prices. Open 7 days a week. Book online or by phone."
-  },
-  {
     "name": "Wise Hire",
     "address": "Craigmyle Cottage, Kintore, Inverurie, AB51 0YT, GB",
     "phone": "07730 886117",
@@ -151,28 +129,6 @@
     ]
   },
   {
-    "name": "Glasgow Tool Library",
-    "address": "818 Garscube Rd, Glasgow, G20 7ET, GB",
-    "phone": "07500 162181",
-    "international_phone": "07500 162181",
-    "website": "http://www.glasgowtoollibrary.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Glasgow+Tool+Library/data=!4m7!3m6!1s0x4888450897d7de0b:0xca64138895ab4859!8m2!3d55.8795805!4d-4.270221!16s%2Fg%2F11h90xkrgx!19sChIJC97XlwhFiEgRWUirlYgTZMo?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 21,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"10 am–6 pm\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 am–4 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 am–6 pm\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"12–7 pm\"]}",
-    "types": "Library",
-    "lat": 55.87958,
-    "lng": -4.270221,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland",
-    "email": "hello@glasgowtoollibrary.com",
-    "emails": [
-      "hello@glasgowtoollibrary.com"
-    ],
-    "description": "Glasgow Tool Library is an affordable, sustainable, community-run hire service, providing access to tools and equipment for your home, garden and hobbies."
-  },
-  {
     "name": "L & J Plant Ltd",
     "address": "137 Forest Park, Stonehaven, AB39 2FF, GB",
     "phone": "07827 337715",
@@ -268,28 +224,6 @@
     "description": "Efficient Grab Hire and Aggregate Solutions for Every Project At Groundworx Grabhire, we are committed to delivering efficient, reliable, and sustainable waste disposal and aggregate supply services, utilising our modern fleet of grab vehicles to meet your project requirements. Our Services..."
   },
   {
-    "name": "Rod Munro Ltd",
-    "address": "Unit 4B, Evanton Industrial Estate, Dingwall, IV16 9XJ, GB",
-    "phone": "0808 141 4444",
-    "international_phone": "0808 141 4444",
-    "website": "https://www.rodmunroltd.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Rod+Munro+Ltd/data=!4m7!3m6!1s0x488f991e0a1eb317:0x1fa49c084c933009!8m2!3d57.6782193!4d-4.3006516!16s%2Fg%2F11yppv04k7!19sChIJF7MeCh6Zj0gRCTCTTAicpB8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Demolition Contractor",
-    "lat": 57.678219,
-    "lng": -4.300652,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland",
-    "email": "rodmunroltd@gmail.com",
-    "emails": [
-      "rodmunroltd@gmail.com"
-    ],
-    "description": "We provide professional asbestos removal, demolition and salvage contractor services. Based in Highlands."
-  },
-  {
     "name": "C H C Plant Hire Ltd",
     "address": "Unit 2 63 West, Benhar Rd, Harthill, Shotts, Shotts, ML7 5PG, GB",
     "phone": "01501 753399",
@@ -305,6 +239,31 @@
     "lng": -3.772529,
     "found_in_location": "Motherwell",
     "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Emco Services",
+    "address": "Pitmedden Rd, Industrial Estate, Cothal House, Cothal View, Dyce, Aberdeen, AB21 0BA, GB",
+    "phone": "01224 773030",
+    "international_phone": "01224 773030",
+    "website": "http://www.emcoservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Emco+Services/data=!4m7!3m6!1s0x48841242d4fe8ad3:0x555c3ac02bbd0d40!8m2!3d57.2161916!4d-2.1919377!16s%2Fg%2F1tg5z647!19sChIJ04r-1EIShEgRQA29K8A6XFU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 8,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.216192,
+    "lng": -2.191938,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@emcoservices.co.uk",
+    "emails": [
+      "info@emcoservices.co.uk"
+    ],
+    "description": "Discover seamless access solutions with our platform hire services in Aberdeen. At EMCO, we specialise in providing the best access equipment to meet the diverse needs of your projects.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Field and Forest Machinery Ltd",
@@ -330,31 +289,6 @@
     "services": [
       "Excavator",
       "Telehandler"
-    ]
-  },
-  {
-    "name": "Emco Services",
-    "address": "Pitmedden Rd, Industrial Estate, Cothal House, Cothal View, Dyce, Aberdeen, AB21 0BA, GB",
-    "phone": "01224 773030",
-    "international_phone": "01224 773030",
-    "website": "http://www.emcoservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Emco+Services/data=!4m7!3m6!1s0x48841242d4fe8ad3:0x555c3ac02bbd0d40!8m2!3d57.2161916!4d-2.1919377!16s%2Fg%2F1tg5z647!19sChIJ04r-1EIShEgRQA29K8A6XFU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.216192,
-    "lng": -2.191938,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "info@emcoservices.co.uk",
-    "emails": [
-      "info@emcoservices.co.uk"
-    ],
-    "description": "Discover seamless access solutions with our platform hire services in Aberdeen. At EMCO, we specialise in providing the best access equipment to meet the diverse needs of your projects.",
-    "services": [
-      "Cherry Picker"
     ]
   },
   {
@@ -473,6 +407,36 @@
     ]
   },
   {
+    "name": "JMS Equipment",
+    "address": "Blackdog Centre, Aberdeen, AB23 8BT, GB",
+    "phone": "01888 563188",
+    "international_phone": "01888 563188",
+    "website": "http://www.jmsequipment.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/JMS+Equipment/data=!4m7!3m6!1s0x48845dbff74c4c05:0x836835ebb94a70b5!8m2!3d57.2209472!4d-2.0724847!16s%2Fg%2F1v830p6v!19sChIJBUxM979dhEgRtXBKues1aIM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Metal machinery supplier",
+    "lat": 57.220947,
+    "lng": -2.072485,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "sales@jmsequipment.co.uk",
+    "emails": [
+      "sales@jmsequipment.co.uk",
+      "neil.scott@jmsequipment.co.uk",
+      "stephen.sharp@jmsequipment.co.uk"
+    ],
+    "description": "Official dealers for Takeuchi excavators and Indeco Attachments for the North of Scotland, Highlands, Shetlands and Orkney. Stocking used and New Machinery from Micro and Mini Diggers to Large Excavators.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Mini Digger"
+    ]
+  },
+  {
     "name": "Thomas Plant Hire Ltd",
     "address": "Polbeth Industrial Estate, Polbeth, West Calder, EH55 8TJ, GB",
     "phone": "01506 870297",
@@ -504,36 +468,6 @@
     ]
   },
   {
-    "name": "JMS Equipment",
-    "address": "Blackdog Centre, Aberdeen, AB23 8BT, GB",
-    "phone": "01888 563188",
-    "international_phone": "01888 563188",
-    "website": "http://www.jmsequipment.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/JMS+Equipment/data=!4m7!3m6!1s0x48845dbff74c4c05:0x836835ebb94a70b5!8m2!3d57.2209472!4d-2.0724847!16s%2Fg%2F1v830p6v!19sChIJBUxM979dhEgRtXBKues1aIM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Metal machinery supplier",
-    "lat": 57.220947,
-    "lng": -2.072485,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "sales@jmsequipment.co.uk",
-    "emails": [
-      "sales@jmsequipment.co.uk",
-      "neil.scott@jmsequipment.co.uk",
-      "stephen.sharp@jmsequipment.co.uk"
-    ],
-    "description": "Official dealers for Takeuchi excavators and Indeco Attachments for the North of Scotland, Highlands, Shetlands and Orkney. Stocking used and New Machinery from Micro and Mini Diggers to Large Excavators.",
-    "services": [
-      "Breaker",
-      "Dumper",
-      "Excavator",
-      "Mini Digger"
-    ]
-  },
-  {
     "name": "Access Plus Scotland Ltd",
     "address": "224 E Main St, Edinburgh, Broxburn, Broxburn, EH52 5AS, GB",
     "phone": "0800 328 8178",
@@ -560,47 +494,58 @@
     ]
   },
   {
-    "name": "INVICTA Access",
-    "address": "Unit 6, Webster Park, Dunsinane Industrial Estate, 17 Dunsinane Ave, Dundee, DD2 3FU, GB",
-    "phone": "01382 214486",
-    "international_phone": "01382 214486",
-    "website": "https://invictascotland.co.uk/cherry-picker-hire/",
-    "google_maps_url": "https://www.google.com/maps/place/INVICTA+Access/data=!4m7!3m6!1s0x48864383ede518d3:0x1496b079e1d49638!8m2!3d56.4800181!4d-3.0029941!16s%2Fg%2F11h6rlh4xf!19sChIJ0xjl7YNDhkgROJbU4XmwlhQ?authuser=0&hl=en&rclk=1",
+    "name": "ADG PLANT HIRE",
+    "address": "Bogside Farm, Forfar, DD8 3TJ, GB",
+    "phone": "07834 531290",
+    "international_phone": "07834 531290",
+    "website": "http://adgplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/ADG+PLANT+HIRE/data=!4m7!3m6!1s0x4886647faaaaaaab:0x7b860da3d10a679a!8m2!3d56.6595618!4d-2.9091563!16s%2Fg%2F11nysw9zk_!19sChIJq6qqqn9khkgRmmcK0aMNhns?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8:30 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 56.480018,
-    "lng": -3.002994,
+    "lat": 56.659562,
+    "lng": -2.909156,
     "found_in_location": "Dundee",
     "found_with_query": "plant scotland",
-    "email": "info@invictascotland.co.uk",
+    "email": "adgplanthire@gmail.com",
     "emails": [
-      "info@invictascotland.co.uk"
+      "adgplanthire@gmail.com"
     ],
-    "description": "INVICTA offers full-day & half-day hires in Dundee, Perthshire & Scotland with an experienced IPAF trained operator.",
+    "description": "ADG Plant Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
     "services": [
-      "Cherry Picker",
-      "Scissor Lift"
+      "Dumper",
+      "Roller",
+      "Telehandler"
     ]
   },
   {
-    "name": "Marshall Plant",
-    "address": "Balquharn Farm, Alva, FK12 5NZ, GB",
-    "phone": "01259 762490",
-    "international_phone": "01259 762490",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Marshall+Plant/data=!4m7!3m6!1s0x48888766335e1b09:0xe0690e42fae6d41f!8m2!3d56.1545676!4d-3.8258605!16s%2Fg%2F1vgx0b42!19sChIJCRteM2aHiEgRH9Tm-kIOaeA?authuser=0&hl=en&rclk=1",
+    "name": "Angus Mini Digger Hire",
+    "address": "Unit 10, Richard Speirs Road, Kirkton Industrial Estate, Arbroath, DD11 3LT, GB",
+    "phone": "07538 057156",
+    "international_phone": "07538 057156",
+    "website": "https://angus-mini-digger-hire.hirelogic.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Angus+Mini+Digger+Hire/data=!4m7!3m6!1s0x48868d174e3b62a7:0x29bec10020a80f3b!8m2!3d56.5716257!4d-2.6046451!16s%2Fg%2F11ys99f3rp!19sChIJp2I7TheNhkgROw-oIADBvik?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 56.154568,
-    "lng": -3.82586,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
+    "lat": 56.571626,
+    "lng": -2.604645,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "angusminidiggerhire@gmail.com",
+    "emails": [
+      "angusminidiggerhire@gmail.com"
+    ],
+    "description": "Angus Mini Digger Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
+    "services": [
+      "Compactor",
+      "Dumper",
+      "Mini Digger"
+    ]
   },
   {
     "name": "Burnside Plant Hire Ltd",
@@ -660,58 +605,47 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "ADG PLANT HIRE",
-    "address": "Bogside Farm, Forfar, DD8 3TJ, GB",
-    "phone": "07834 531290",
-    "international_phone": "07834 531290",
-    "website": "http://adgplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/ADG+PLANT+HIRE/data=!4m7!3m6!1s0x4886647faaaaaaab:0x7b860da3d10a679a!8m2!3d56.6595618!4d-2.9091563!16s%2Fg%2F11nysw9zk_!19sChIJq6qqqn9khkgRmmcK0aMNhns?authuser=0&hl=en&rclk=1",
+    "name": "INVICTA Access",
+    "address": "Unit 6, Webster Park, Dunsinane Industrial Estate, 17 Dunsinane Ave, Dundee, DD2 3FU, GB",
+    "phone": "01382 214486",
+    "international_phone": "01382 214486",
+    "website": "https://invictascotland.co.uk/cherry-picker-hire/",
+    "google_maps_url": "https://www.google.com/maps/place/INVICTA+Access/data=!4m7!3m6!1s0x48864383ede518d3:0x1496b079e1d49638!8m2!3d56.4800181!4d-3.0029941!16s%2Fg%2F11h6rlh4xf!19sChIJ0xjl7YNDhkgROJbU4XmwlhQ?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8:30 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 56.659562,
-    "lng": -2.909156,
+    "lat": 56.480018,
+    "lng": -3.002994,
     "found_in_location": "Dundee",
     "found_with_query": "plant scotland",
-    "email": "adgplanthire@gmail.com",
+    "email": "info@invictascotland.co.uk",
     "emails": [
-      "adgplanthire@gmail.com"
+      "info@invictascotland.co.uk"
     ],
-    "description": "ADG Plant Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
+    "description": "INVICTA offers full-day & half-day hires in Dundee, Perthshire & Scotland with an experienced IPAF trained operator.",
     "services": [
-      "Dumper",
-      "Roller",
-      "Telehandler"
+      "Cherry Picker",
+      "Scissor Lift"
     ]
   },
   {
-    "name": "Angus Mini Digger Hire",
-    "address": "Unit 10, Richard Speirs Road, Kirkton Industrial Estate, Arbroath, DD11 3LT, GB",
-    "phone": "07538 057156",
-    "international_phone": "07538 057156",
-    "website": "https://angus-mini-digger-hire.hirelogic.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Angus+Mini+Digger+Hire/data=!4m7!3m6!1s0x48868d174e3b62a7:0x29bec10020a80f3b!8m2!3d56.5716257!4d-2.6046451!16s%2Fg%2F11ys99f3rp!19sChIJp2I7TheNhkgROw-oIADBvik?authuser=0&hl=en&rclk=1",
+    "name": "Marshall Plant",
+    "address": "Balquharn Farm, Alva, FK12 5NZ, GB",
+    "phone": "01259 762490",
+    "international_phone": "01259 762490",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Marshall+Plant/data=!4m7!3m6!1s0x48888766335e1b09:0xe0690e42fae6d41f!8m2!3d56.1545676!4d-3.8258605!16s%2Fg%2F1vgx0b42!19sChIJCRteM2aHiEgRH9Tm-kIOaeA?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 56.571626,
-    "lng": -2.604645,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland",
-    "email": "angusminidiggerhire@gmail.com",
-    "emails": [
-      "angusminidiggerhire@gmail.com"
-    ],
-    "description": "Angus Mini Digger Hire offers a wide range of tools and machinery for all your needs. Affordable rates, flexible options, and exceptional customer service.",
-    "services": [
-      "Compactor",
-      "Dumper",
-      "Mini Digger"
-    ]
+    "lat": 56.154568,
+    "lng": -3.82586,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland"
   },
   {
     "name": "Best at hire",
@@ -736,103 +670,6 @@
       "Concrete Mixer",
       "Generator"
     ]
-  },
-  {
-    "name": "Nationwide Platforms",
-    "address": "6 Faraday St, Dundee, DD2 3QQ, GB",
-    "phone": "01382 932521",
-    "international_phone": "01382 932521",
-    "website": "https://www.nationwideplatforms.co.uk/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=dundee",
-    "google_maps_url": "https://www.google.com/maps/place/Nationwide+Platforms/data=!4m7!3m6!1s0x488642d724ee2f79:0x63ca1f52c710422e!8m2!3d56.4848404!4d-3.0106297!16s%2Fg%2F1vl9r1j2!19sChIJeS_uJNdChkgRLkIQx1IfymM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.48484,
-    "lng": -3.01063,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland",
-    "description": "Powered Access Hire from the UK's market leading provider. Our huge range of access platforms includes cherry pickers, scissor lifts and tracked booms.",
-    "services": [
-      "Cherry Picker",
-      "Scissor Lift",
-      "Telehandler"
-    ]
-  },
-  {
-    "name": "PTM Plant Ltd",
-    "address": "Unit 6, Oldmeldrum Business Centre, Colpy Way, Oldmeldrum, Inverurie, AB51 0BZ, GB",
-    "phone": "01651 843306",
-    "international_phone": "01651 843306",
-    "website": "http://www.ptmplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/PTM+Plant+Ltd/data=!4m7!3m6!1s0x48846a3bb79c075d:0xf8a10a6f16ed371!8m2!3d57.3352675!4d-2.3325884!16s%2Fg%2F11cnczbkwk!19sChIJXQectztqhEgRcdNu8aYQig8?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 57.335268,
-    "lng": -2.332588,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "info@ptmplant.co.uk",
-    "emails": [
-      "info@ptmplant.co.uk",
-      "greig@ptmplant.co.uk",
-      "paul@ptmplant.co.uk"
-    ],
-    "description": "PTM Plant is a fast growing business with several full time employees, depending on your project scope we will draft in and manage additional sub-contractors as required to meet the demands and deliver the project to the customers’ expectations and satisfaction.",
-    "services": [
-      "Excavator"
-    ]
-  },
-  {
-    "name": "iTool and Plant",
-    "address": "Tillycairn Castle, Sauchen, Inverurie, AB51 7RX, GB",
-    "phone": "07808 141254",
-    "international_phone": "07808 141254",
-    "website": "http://www.itoolandplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/iTool+and+Plant/data=!4m7!3m6!1s0x488439bdf619b667:0x1435c78be148cbe8!8m2!3d57.1927121!4d-2.5559085!16s%2Fg%2F11bzzx9p8w!19sChIJZ7YZ9r05hEgR6MtI4YvHNRQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.192712,
-    "lng": -2.555908,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "info@itoolandplant.co.uk",
-    "emails": [
-      "info@itoolandplant.co.uk"
-    ],
-    "description": "iTool and Plant is an access hire in Aberdeenshire, covering Inverurie and Sauchen. They specialise in Cherry picker hire, Access hire and Mewp hire.",
-    "services": [
-      "Breaker",
-      "Cherry Picker",
-      "Compressor",
-      "Dumper",
-      "Excavator",
-      "Skid Steer"
-    ]
-  },
-  {
-    "name": "R B S Muir Plant Hire",
-    "address": "4 Milton St, Dundee, GB",
-    "phone": "01382 813050",
-    "international_phone": "01382 813050",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/R+B+S+Muir+Plant+Hire/data=!4m7!3m6!1s0x488642aff42e63ab:0x19eb5f5f8c7ea189!8m2!3d56.4729391!4d-2.9827767!16s%2Fg%2F1hc223vxc!19sChIJq2Mu9K9ChkgRiaF-jF9f6xk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Builder",
-    "lat": 56.472939,
-    "lng": -2.982777,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
   },
   {
     "name": "Garriock Bros Ltd",
@@ -865,6 +702,29 @@
     ]
   },
   {
+    "name": "Nationwide Platforms",
+    "address": "6 Faraday St, Dundee, DD2 3QQ, GB",
+    "phone": "01382 932521",
+    "international_phone": "01382 932521",
+    "website": "https://www.nationwideplatforms.co.uk/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=dundee",
+    "google_maps_url": "https://www.google.com/maps/place/Nationwide+Platforms/data=!4m7!3m6!1s0x488642d724ee2f79:0x63ca1f52c710422e!8m2!3d56.4848404!4d-3.0106297!16s%2Fg%2F1vl9r1j2!19sChIJeS_uJNdChkgRLkIQx1IfymM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.48484,
+    "lng": -3.01063,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "description": "Powered Access Hire from the UK's market leading provider. Our huge range of access platforms includes cherry pickers, scissor lifts and tracked booms.",
+    "services": [
+      "Cherry Picker",
+      "Scissor Lift",
+      "Telehandler"
+    ]
+  },
+  {
     "name": "Neil Reid Plant Hire",
     "address": "Croftside, Market Ln, Kingussie, Kingussie, PH21 1EP, GB",
     "phone": "07889 414283",
@@ -882,42 +742,78 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "MEP Hire Edinburgh",
-    "address": "Unit 6A, Pitreavie Business Park, Pitreavie Wy, Dunfermline, KY11 8UX, GB",
-    "phone": "0800 587 5121",
-    "international_phone": "0800 587 5121",
-    "website": "https://mephire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/MEP+Hire+Edinburgh/data=!4m7!3m6!1s0x4887d19383bba755:0x28c057703cf2baca!8m2!3d56.0486027!4d-3.4390033!16s%2Fg%2F11rmx2s467!19sChIJVae7g5PRh0gRyrryPHBXwCg?authuser=0&hl=en&rclk=1",
+    "name": "PTM Plant Ltd",
+    "address": "Unit 6, Oldmeldrum Business Centre, Colpy Way, Oldmeldrum, Inverurie, AB51 0BZ, GB",
+    "phone": "01651 843306",
+    "international_phone": "01651 843306",
+    "website": "http://www.ptmplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/PTM+Plant+Ltd/data=!4m7!3m6!1s0x48846a3bb79c075d:0xf8a10a6f16ed371!8m2!3d57.3352675!4d-2.3325884!16s%2Fg%2F11cnczbkwk!19sChIJXQectztqhEgRcdNu8aYQig8?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Construction equipment supplier",
-    "lat": 56.048603,
-    "lng": -3.439003,
-    "found_in_location": "Dunfermline",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 57.335268,
+    "lng": -2.332588,
+    "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland",
-    "description": "MEP Hire: Mechanical, Electrical and Low Level Access Specialists providing rental products nationally to the UK’s building services trades.",
+    "email": "info@ptmplant.co.uk",
+    "emails": [
+      "info@ptmplant.co.uk",
+      "greig@ptmplant.co.uk",
+      "paul@ptmplant.co.uk"
+    ],
+    "description": "PTM Plant is a fast growing business with several full time employees, depending on your project scope we will draft in and manage additional sub-contractors as required to meet the demands and deliver the project to the customers’ expectations and satisfaction.",
     "services": [
-      "Cherry Picker"
+      "Excavator"
     ]
   },
   {
-    "name": "Reid Contracts Hire",
-    "address": "Unit 23 N Wellington St, Dundee, DD3 7EP, GB",
-    "phone": "07930 316004",
-    "international_phone": "07930 316004",
+    "name": "R B S Muir Plant Hire",
+    "address": "4 Milton St, Dundee, GB",
+    "phone": "01382 813050",
+    "international_phone": "01382 813050",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Reid+Contracts+Hire/data=!4m7!3m6!1s0x48865dabf1fe5aa1:0x36e52cf117f614ee!8m2!3d56.4701549!4d-2.9702138!16s%2Fg%2F11md7pp6t7!19sChIJoVr-8atdhkgR7hT2F_Es5TY?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/R+B+S+Muir+Plant+Hire/data=!4m7!3m6!1s0x488642aff42e63ab:0x19eb5f5f8c7ea189!8m2!3d56.4729391!4d-2.9827767!16s%2Fg%2F1hc223vxc!19sChIJq2Mu9K9ChkgRiaF-jF9f6xk?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 2,
+    "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–3:30 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.470155,
-    "lng": -2.970214,
+    "opening_hours": "{}",
+    "types": "Builder",
+    "lat": 56.472939,
+    "lng": -2.982777,
     "found_in_location": "Dundee",
     "found_with_query": "plant scotland"
+  },
+  {
+    "name": "iTool and Plant",
+    "address": "Tillycairn Castle, Sauchen, Inverurie, AB51 7RX, GB",
+    "phone": "07808 141254",
+    "international_phone": "07808 141254",
+    "website": "http://www.itoolandplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/iTool+and+Plant/data=!4m7!3m6!1s0x488439bdf619b667:0x1435c78be148cbe8!8m2!3d57.1927121!4d-2.5559085!16s%2Fg%2F11bzzx9p8w!19sChIJZ7YZ9r05hEgR6MtI4YvHNRQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–7 pm\"],\"Monday\":[\"9 am–7 pm\"],\"Saturday\":[\"9 am–7 pm\"],\"Sunday\":[\"9 am–7 pm\"],\"Thursday\":[\"9 am–7 pm\"],\"Tuesday\":[\"9 am–7 pm\"],\"Wednesday\":[\"9 am–7 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.192712,
+    "lng": -2.555908,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "info@itoolandplant.co.uk",
+    "emails": [
+      "info@itoolandplant.co.uk"
+    ],
+    "description": "iTool and Plant is an access hire in Aberdeenshire, covering Inverurie and Sauchen. They specialise in Cherry picker hire, Access hire and Mewp hire.",
+    "services": [
+      "Breaker",
+      "Cherry Picker",
+      "Compressor",
+      "Dumper",
+      "Excavator",
+      "Skid Steer"
+    ]
   },
   {
     "name": "Huws Gray Plant & Tool Hire Whitburn",
@@ -1024,6 +920,44 @@
     "description": "Hire tools, equipment and plant from our national network of branches. Experience local service, quick delivery and easy online ordering."
   },
   {
+    "name": "MEP Hire Edinburgh",
+    "address": "Unit 6A, Pitreavie Business Park, Pitreavie Wy, Dunfermline, KY11 8UX, GB",
+    "phone": "0800 587 5121",
+    "international_phone": "0800 587 5121",
+    "website": "https://mephire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/MEP+Hire+Edinburgh/data=!4m7!3m6!1s0x4887d19383bba755:0x28c057703cf2baca!8m2!3d56.0486027!4d-3.4390033!16s%2Fg%2F11rmx2s467!19sChIJVae7g5PRh0gRyrryPHBXwCg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Construction equipment supplier",
+    "lat": 56.048603,
+    "lng": -3.439003,
+    "found_in_location": "Dunfermline",
+    "found_with_query": "plant scotland",
+    "description": "MEP Hire: Mechanical, Electrical and Low Level Access Specialists providing rental products nationally to the UK’s building services trades.",
+    "services": [
+      "Cherry Picker"
+    ]
+  },
+  {
+    "name": "Reid Contracts Hire",
+    "address": "Unit 23 N Wellington St, Dundee, DD3 7EP, GB",
+    "phone": "07930 316004",
+    "international_phone": "07930 316004",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Reid+Contracts+Hire/data=!4m7!3m6!1s0x48865dabf1fe5aa1:0x36e52cf117f614ee!8m2!3d56.4701549!4d-2.9702138!16s%2Fg%2F11md7pp6t7!19sChIJoVr-8atdhkgR7hT2F_Es5TY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–3:30 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.470155,
+    "lng": -2.970214,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland"
+  },
+  {
     "name": "Russell Plant & Vehicle Services",
     "address": "UNIT 30, WORKS, Chattan, Bonnybridge, FK4 2AG, GB",
     "phone": "01324 814536",
@@ -1059,6 +993,27 @@
     "description": "ESS deliver leading project support rental services and solutions to our customers, who rely on ESS as a trusted partner to deliver their works on time and within budget."
   },
   {
+    "name": "2020 Plant Hire (scotland)",
+    "address": "The Old Ferry Inn, Ferry Rd, South Alloa, Stirling, FK7 7LF, GB",
+    "phone": "07816 829901",
+    "international_phone": "07816 829901",
+    "website": "https://sites.google.com/2020planthire.co.uk/2020planthirescotland/home",
+    "google_maps_url": "https://www.google.com/maps/place/2020+Plant+Hire+%28scotland%29/data=!4m7!3m6!1s0x48887d954db1e5f9:0x9bfe0c238411c61!8m2!3d56.1062485!4d-3.8045125!16s%2Fg%2F11l37b9l66!19sChIJ-eWxTZV9iEgRYRxBOMLgvwk?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.106248,
+    "lng": -3.804512,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "description": "Plant Hire & Tool Hire for the Public & Trade",
+    "services": [
+      "Dumper"
+    ]
+  },
+  {
     "name": "Alastair Anderson Plant Hire",
     "address": "Jennys Well Rd, Paisley, PA2 7HF, GB",
     "phone": "07786 707533",
@@ -1074,92 +1029,6 @@
     "lng": -4.396985,
     "found_in_location": "Paisley",
     "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Cherry Picker Services",
-    "address": "512 Ritchie Park, Johnstone, PA5 8JP, GB",
-    "phone": "0141 280 9707",
-    "international_phone": "0141 280 9707",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Services/data=!4m7!3m6!1s0x48884b9127fe70cb:0x470d358c9d88c2e!8m2!3d55.8378619!4d-4.4959507!16s%2Fg%2F11qgqbckw2!19sChIJy3D-J5FLiEgRLozYyVjTcAQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 55.837862,
-    "lng": -4.495951,
-    "found_in_location": "Paisley",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Sg Plant Hire Ltd",
-    "address": "7 Stroud Rd, East Kilbride, Glasgow, G75 0YA, GB",
-    "phone": "01698 451898",
-    "international_phone": "01698 451898",
-    "website": "http://www.sgplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Sg+Plant+Hire+Ltd/data=!4m7!3m6!1s0x48883f13bf438603:0x71c074065ad77d2a!8m2!3d55.7496126!4d-4.1633781!16s%2Fg%2F11s0srlpfk!19sChIJA4ZDvxM_iEgRKn3XWgZ0wHE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.749613,
-    "lng": -4.163378,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland",
-    "email": "info@sgplanthire.co.uk",
-    "emails": [
-      "info@sgplanthire.co.uk"
-    ],
-    "description": "SG Plant Hire Ltd is a nationwide Plant Hire, Earthworks, Haulage & Rail industry contractor located in Glasgow Scotland. successfully serving the Construction Industry throughout the UK. SG Plant Hire Ltd provides quality plant machinery & fully accredited plant operators to a wide range of...",
-    "services": [
-      "Excavator",
-      "Roller"
-    ]
-  },
-  {
-    "name": "R Tough Plant Hire",
-    "address": "Croftfoot farm, Carluke, ML8 4QX, GB",
-    "phone": "07734 130299",
-    "international_phone": "07734 130299",
-    "website": "http://www.rtoughplant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/R+Tough+Plant+Hire/data=!4m7!3m6!1s0x48880dfe9fb7d9b7:0x176fdb54996192a4!8m2!3d55.7334484!4d-3.7935706!16s%2Fg%2F11b6gm1m5b!19sChIJt9m3n_4NiEgRpJJhmVTbbxc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.733448,
-    "lng": -3.793571,
-    "found_in_location": "Motherwell",
-    "found_with_query": "plant scotland",
-    "description": "Looking for help with your construction project? For plant hire equipment based in Central Scotland, call R Tough Plant Hire Ltd on 0773 413 0299",
-    "services": [
-      "Excavator"
-    ]
-  },
-  {
-    "name": "PR Plant Hire",
-    "address": "15 Bowhouse Dr, Glasgow, G45 0NA, GB",
-    "phone": "07718 915282",
-    "international_phone": "07718 915282",
-    "website": "https://prplantscotland.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/PR+Plant+Hire/data=!4m7!3m6!1s0x4888472c84de428d:0xb9f98a0986d135b8!8m2!3d55.8130309!4d-4.2173065!16s%2Fg%2F1pp2tyt4y!19sChIJjULehCxHiEgRuDXRhgmK-bk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 pm–12 am\"],\"Sunday\":[\"12 am–1 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.813031,
-    "lng": -4.217306,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland",
-    "email": "office@prcivilsltd.com",
-    "emails": [
-      "office@prcivilsltd.com"
-    ],
-    "description": "We specialise in providing comprehensive civil engineering solutions tailored to meet the unique needs of each project."
   },
   {
     "name": "Blantyre Plant Hire Ltd",
@@ -1182,65 +1051,6 @@
       "ronan@blantyreplanthire.com"
     ],
     "description": "Blantyre Plant Hire is a dedicated civil engineering firm providing reliable solutions for site works, surveying, and drainage. With the right tools, experience, and attention to detail, we help keep your projects on track."
-  },
-  {
-    "name": "easyToolhire Glasgow - Tool Hire, Scaffolding, Scissor Lift, Working Platforms & Digger Hire",
-    "address": "25 Robert St, Glasgow, G51 3HB, GB",
-    "phone": "0333 242 0369",
-    "international_phone": "0333 242 0369",
-    "website": "https://easyskip.uk/skip-hire/glasgow/",
-    "google_maps_url": "https://www.google.com/maps/place/easyToolhire+Glasgow+-+Tool+Hire,+Scaffolding,+Scissor+Lift,+Working+Platforms+%26+Digger+Hire/data=!4m7!3m6!1s0x4888459debd12a43:0x72713bcda6cc002f!8m2!3d55.8617929!4d-4.3123708!16s%2Fg%2F11mbvdpt9s!19sChIJQyrR651FiEgRLwDMps07cXI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Tool rental service",
-    "lat": 55.861793,
-    "lng": -4.312371,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland",
-    "email": "info@easyskip.uk",
-    "emails": [
-      "info@easyskip.uk"
-    ],
-    "description": "Make space in Glasgow—ordered delivery slots, fair pricing, and skips sized for everything from declutters to renovations. Permit help included. Quick online booking.",
-    "services": [
-      "Excavator"
-    ]
-  },
-  {
-    "name": "Cameron Plant Hire",
-    "address": "Brownside, Glasgow, G77 6RZ, GB",
-    "phone": "01355 500230",
-    "international_phone": "01355 500230",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Cameron+Plant+Hire/data=!4m7!3m6!1s0x488837b26cf00fb9:0xe9a8a231178cf5ed!8m2!3d55.7366991!4d-4.373622!16s%2Fg%2F1tjt1h_g!19sChIJuQ_wbLI3iEgR7fWMFzGiqOk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 55.736699,
-    "lng": -4.373622,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Sunbelt Rentals Inverness - Seafield Road",
-    "address": "2 Seafield Rd, Inverness, IV1 1SG, GB",
-    "phone": "01463 225941",
-    "international_phone": "01463 225941",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/inverness/?utm_source=google&utm_medium=Yext&utm_campaign=inverness&y_source=1_MjI0OTM4NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Inverness+-+Seafield+Road/data=!4m7!3m6!1s0x488f7750065a5549:0x6b0330052ae74949!8m2!3d57.4876217!4d-4.2179249!16s%2Fg%2F11gjnf67fn!19sChIJSVVaBlB3j0gRSUnnKgUwA2s?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.487622,
-    "lng": -4.217925,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
   },
   {
     "name": "C S Machinery Sales LTD",
@@ -1271,25 +1081,38 @@
     ]
   },
   {
-    "name": "2020 Plant Hire (scotland)",
-    "address": "The Old Ferry Inn, Ferry Rd, South Alloa, Stirling, FK7 7LF, GB",
-    "phone": "07816 829901",
-    "international_phone": "07816 829901",
-    "website": "https://sites.google.com/2020planthire.co.uk/2020planthirescotland/home",
-    "google_maps_url": "https://www.google.com/maps/place/2020+Plant+Hire+%28scotland%29/data=!4m7!3m6!1s0x48887d954db1e5f9:0x9bfe0c238411c61!8m2!3d56.1062485!4d-3.8045125!16s%2Fg%2F11l37b9l66!19sChIJ-eWxTZV9iEgRYRxBOMLgvwk?authuser=0&hl=en&rclk=1",
+    "name": "Cameron Plant Hire",
+    "address": "Brownside, Glasgow, G77 6RZ, GB",
+    "phone": "01355 500230",
+    "international_phone": "01355 500230",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cameron+Plant+Hire/data=!4m7!3m6!1s0x488837b26cf00fb9:0xe9a8a231178cf5ed!8m2!3d55.7366991!4d-4.373622!16s%2Fg%2F1tjt1h_g!19sChIJuQ_wbLI3iEgR7fWMFzGiqOk?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 56.106248,
-    "lng": -3.804512,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "description": "Plant Hire & Tool Hire for the Public & Trade",
-    "services": [
-      "Dumper"
-    ]
+    "lat": 55.736699,
+    "lng": -4.373622,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Cherry Picker Services",
+    "address": "512 Ritchie Park, Johnstone, PA5 8JP, GB",
+    "phone": "0141 280 9707",
+    "international_phone": "0141 280 9707",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Services/data=!4m7!3m6!1s0x48884b9127fe70cb:0x470d358c9d88c2e!8m2!3d55.8378619!4d-4.4959507!16s%2Fg%2F11qgqbckw2!19sChIJy3D-J5FLiEgRLozYyVjTcAQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 55.837862,
+    "lng": -4.495951,
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland"
   },
   {
     "name": "Gardner Plant Hire",
@@ -1313,20 +1136,37 @@
     ]
   },
   {
-    "name": "Scr Plant Hire Ltd",
-    "address": "19 Kirk St, Kincardine, Alloa, FK10 4PT, GB",
-    "phone": "07739 793949",
-    "international_phone": "07739 793949",
+    "name": "John Pollock Plant Hire",
+    "address": "Inches House, Bellsdyke Rd, Larbert, FK5 4EL, GB",
+    "phone": "01324 570298",
+    "international_phone": "01324 570298",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Scr+Plant+Hire+Ltd/data=!4m7!3m6!1s0x48887f2629f268d7:0xf0d947e7caee2c8a!8m2!3d56.0696365!4d-3.7170924!16s%2Fg%2F11fsmv0751!19sChIJ12jyKSZ_iEgRiizuyudH2fA?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/John+Pollock+Plant+Hire/data=!4m7!3m6!1s0x48887b9f5a82757b:0xa1a097703ffd9633!8m2!3d56.0331873!4d-3.8278015!16s%2Fg%2F1tfm676x!19sChIJe3WCWp97iEgRM5b9P3CXoKE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{}",
     "types": "Plant and machinery hire",
-    "lat": 56.069636,
-    "lng": -3.717092,
+    "lat": 56.033187,
+    "lng": -3.827801,
     "found_in_location": "Falkirk",
+    "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Material Handling Procurement Group - NE & Aberdeen Forklift and Telehandler Sourcing Specialist",
+    "address": "4 W Craibstone St, Aberdeen, AB11 6YL, GB",
+    "phone": "01224 600165",
+    "international_phone": "01224 600165",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Material+Handling+Procurement+Group+-+NE+%26+Aberdeen+Forklift+and+Telehandler+Sourcing+Specialist/data=!4m7!3m6!1s0x48841be90807bf8b:0xf02ecdbc48f329f3!8m2!3d57.142692!4d-2.107609!16s%2Fg%2F11sj2bp1ws!19sChIJi78HCOkbhEgR8ynzSLzNLvA?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Forklift dealer",
+    "lat": 57.142692,
+    "lng": -2.107609,
+    "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland"
   },
   {
@@ -1357,20 +1197,80 @@
     ]
   },
   {
-    "name": "Tweed Digger Hire",
-    "address": "Farm Cottages, 1, Ladykirkshiels, TD12 4HF, GB",
-    "phone": "07855 167010",
-    "international_phone": "07855 167010",
-    "website": "https://www.facebook.com/TweedMiniDiggerHire",
-    "google_maps_url": "https://www.google.com/maps/place/Tweed+Digger+Hire/data=!4m7!3m6!1s0x488743ee2dd638b7:0x11f2ff98a8ad47ef!8m2!3d55.7013876!4d-2.2103141!16s%2Fg%2F11lfq27fyv!19sChIJtzjWLe5Dh0gR70etqJj_8hE?authuser=0&hl=en&rclk=1",
+    "name": "PR Plant Hire",
+    "address": "15 Bowhouse Dr, Glasgow, G45 0NA, GB",
+    "phone": "07718 915282",
+    "international_phone": "07718 915282",
+    "website": "https://prplantscotland.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/PR+Plant+Hire/data=!4m7!3m6!1s0x4888472c84de428d:0xb9f98a0986d135b8!8m2!3d55.8130309!4d-4.2173065!16s%2Fg%2F1pp2tyt4y!19sChIJjULehCxHiEgRuDXRhgmK-bk?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 pm–12 am\"],\"Sunday\":[\"12 am–1 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 55.701388,
-    "lng": -2.210314,
-    "found_in_location": "Edinburgh",
+    "lat": 55.813031,
+    "lng": -4.217306,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland",
+    "email": "office@prcivilsltd.com",
+    "emails": [
+      "office@prcivilsltd.com"
+    ],
+    "description": "We specialise in providing comprehensive civil engineering solutions tailored to meet the unique needs of each project."
+  },
+  {
+    "name": "R Tough Plant Hire",
+    "address": "Croftfoot farm, Carluke, ML8 4QX, GB",
+    "phone": "07734 130299",
+    "international_phone": "07734 130299",
+    "website": "http://www.rtoughplant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/R+Tough+Plant+Hire/data=!4m7!3m6!1s0x48880dfe9fb7d9b7:0x176fdb54996192a4!8m2!3d55.7334484!4d-3.7935706!16s%2Fg%2F11b6gm1m5b!19sChIJt9m3n_4NiEgRpJJhmVTbbxc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 55.733448,
+    "lng": -3.793571,
+    "found_in_location": "Motherwell",
+    "found_with_query": "plant scotland",
+    "description": "Looking for help with your construction project? For plant hire equipment based in Central Scotland, call R Tough Plant Hire Ltd on 0773 413 0299",
+    "services": [
+      "Excavator"
+    ]
+  },
+  {
+    "name": "Rothie Moon Farm",
+    "address": "Rothie Moon Farm, Nethy Bridge, PH25 3DD, GB",
+    "phone": "01479 821348",
+    "international_phone": "01479 821348",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Rothie+Moon+Farm/data=!4m7!3m6!1s0x48858cf0e0a9faf3:0x9ffa32b8b6f6dc90!8m2!3d57.2666094!4d-3.6664937!16s%2Fg%2F1hc11mhxr!19sChIJ8_qp4PCMhUgRkNz2trgy-p8?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.266609,
+    "lng": -3.666494,
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Scr Plant Hire Ltd",
+    "address": "19 Kirk St, Kincardine, Alloa, FK10 4PT, GB",
+    "phone": "07739 793949",
+    "international_phone": "07739 793949",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Scr+Plant+Hire+Ltd/data=!4m7!3m6!1s0x48887f2629f268d7:0xf0d947e7caee2c8a!8m2!3d56.0696365!4d-3.7170924!16s%2Fg%2F11fsmv0751!19sChIJ12jyKSZ_iEgRiizuyudH2fA?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.069636,
+    "lng": -3.717092,
+    "found_in_location": "Falkirk",
     "found_with_query": "plant scotland"
   },
   {
@@ -1391,37 +1291,63 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "John Pollock Plant Hire",
-    "address": "Inches House, Bellsdyke Rd, Larbert, FK5 4EL, GB",
-    "phone": "01324 570298",
-    "international_phone": "01324 570298",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/John+Pollock+Plant+Hire/data=!4m7!3m6!1s0x48887b9f5a82757b:0xa1a097703ffd9633!8m2!3d56.0331873!4d-3.8278015!16s%2Fg%2F1tfm676x!19sChIJe3WCWp97iEgRM5b9P3CXoKE?authuser=0&hl=en&rclk=1",
+    "name": "Sg Plant Hire Ltd",
+    "address": "7 Stroud Rd, East Kilbride, Glasgow, G75 0YA, GB",
+    "phone": "01698 451898",
+    "international_phone": "01698 451898",
+    "website": "http://www.sgplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Sg+Plant+Hire+Ltd/data=!4m7!3m6!1s0x48883f13bf438603:0x71c074065ad77d2a!8m2!3d55.7496126!4d-4.1633781!16s%2Fg%2F11s0srlpfk!19sChIJA4ZDvxM_iEgRKn3XWgZ0wHE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 56.033187,
-    "lng": -3.827801,
-    "found_in_location": "Falkirk",
+    "lat": 55.749613,
+    "lng": -4.163378,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland",
+    "email": "info@sgplanthire.co.uk",
+    "emails": [
+      "info@sgplanthire.co.uk"
+    ],
+    "description": "SG Plant Hire Ltd is a nationwide Plant Hire, Earthworks, Haulage & Rail industry contractor located in Glasgow Scotland. successfully serving the Construction Industry throughout the UK. SG Plant Hire Ltd provides quality plant machinery & fully accredited plant operators to a wide range of...",
+    "services": [
+      "Excavator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "Sunbelt Rentals Inverness - Seafield Road",
+    "address": "2 Seafield Rd, Inverness, IV1 1SG, GB",
+    "phone": "01463 225941",
+    "international_phone": "01463 225941",
+    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/inverness/?utm_source=google&utm_medium=Yext&utm_campaign=inverness&y_source=1_MjI0OTM4NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Inverness+-+Seafield+Road/data=!4m7!3m6!1s0x488f7750065a5549:0x6b0330052ae74949!8m2!3d57.4876217!4d-4.2179249!16s%2Fg%2F11gjnf67fn!19sChIJSVVaBlB3j0gRSUnnKgUwA2s?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.487622,
+    "lng": -4.217925,
+    "found_in_location": "Inverness",
     "found_with_query": "plant scotland"
   },
   {
-    "name": "Rothie Moon Farm",
-    "address": "Rothie Moon Farm, Nethy Bridge, PH25 3DD, GB",
-    "phone": "01479 821348",
-    "international_phone": "01479 821348",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Rothie+Moon+Farm/data=!4m7!3m6!1s0x48858cf0e0a9faf3:0x9ffa32b8b6f6dc90!8m2!3d57.2666094!4d-3.6664937!16s%2Fg%2F1hc11mhxr!19sChIJ8_qp4PCMhUgRkNz2trgy-p8?authuser=0&hl=en&rclk=1",
+    "name": "Tweed Digger Hire",
+    "address": "Farm Cottages, 1, Ladykirkshiels, TD12 4HF, GB",
+    "phone": "07855 167010",
+    "international_phone": "07855 167010",
+    "website": "https://www.facebook.com/TweedMiniDiggerHire",
+    "google_maps_url": "https://www.google.com/maps/place/Tweed+Digger+Hire/data=!4m7!3m6!1s0x488743ee2dd638b7:0x11f2ff98a8ad47ef!8m2!3d55.7013876!4d-2.2103141!16s%2Fg%2F11lfq27fyv!19sChIJtzjWLe5Dh0gR70etqJj_8hE?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–5 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 57.266609,
-    "lng": -3.666494,
-    "found_in_location": "Inverness",
+    "lat": 55.701388,
+    "lng": -2.210314,
+    "found_in_location": "Edinburgh",
     "found_with_query": "plant scotland"
   },
   {
@@ -1442,21 +1368,29 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "Material Handling Procurement Group - NE & Aberdeen Forklift and Telehandler Sourcing Specialist",
-    "address": "4 W Craibstone St, Aberdeen, AB11 6YL, GB",
-    "phone": "01224 600165",
-    "international_phone": "01224 600165",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Material+Handling+Procurement+Group+-+NE+%26+Aberdeen+Forklift+and+Telehandler+Sourcing+Specialist/data=!4m7!3m6!1s0x48841be90807bf8b:0xf02ecdbc48f329f3!8m2!3d57.142692!4d-2.107609!16s%2Fg%2F11sj2bp1ws!19sChIJi78HCOkbhEgR8ynzSLzNLvA?authuser=0&hl=en&rclk=1",
+    "name": "easyToolhire Glasgow - Tool Hire, Scaffolding, Scissor Lift, Working Platforms & Digger Hire",
+    "address": "25 Robert St, Glasgow, G51 3HB, GB",
+    "phone": "0333 242 0369",
+    "international_phone": "0333 242 0369",
+    "website": "https://easyskip.uk/skip-hire/glasgow/",
+    "google_maps_url": "https://www.google.com/maps/place/easyToolhire+Glasgow+-+Tool+Hire,+Scaffolding,+Scissor+Lift,+Working+Platforms+%26+Digger+Hire/data=!4m7!3m6!1s0x4888459debd12a43:0x72713bcda6cc002f!8m2!3d55.8617929!4d-4.3123708!16s%2Fg%2F11mbvdpt9s!19sChIJQyrR651FiEgRLwDMps07cXI?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Forklift dealer",
-    "lat": 57.142692,
-    "lng": -2.107609,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Tool rental service",
+    "lat": 55.861793,
+    "lng": -4.312371,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland",
+    "email": "info@easyskip.uk",
+    "emails": [
+      "info@easyskip.uk"
+    ],
+    "description": "Make space in Glasgow—ordered delivery slots, fair pricing, and skips sized for everything from declutters to renovations. Permit help included. Quick online booking.",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "AHC Tool Hire",
@@ -1520,28 +1454,6 @@
     ]
   },
   {
-    "name": "Plant & Fixings Ltd",
-    "address": "57 Harbour Rd, Inverness, IV1 1UF, GB",
-    "phone": "01463 713737",
-    "international_phone": "01463 713737",
-    "website": "http://www.plantandfixings.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Plant+%26+Fixings+Ltd/data=!4m7!3m6!1s0x488f76ca9c2986a9:0x9667a9128305f637!8m2!3d57.4844473!4d-4.2031818!16s%2Fg%2F1w0scfzj!19sChIJqYYpnMp2j0gRN_YFgxKpZ5Y?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 29,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5:30 pm\"],\"Monday\":[\"7 am–5:30 pm\"],\"Saturday\":[\"8 am–12:30 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5:30 pm\"],\"Tuesday\":[\"7 am–5:30 pm\"],\"Wednesday\":[\"7 am–5:30 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 57.484447,
-    "lng": -4.203182,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland",
-    "email": "sales@plantandfixings.co.uk",
-    "emails": [
-      "sales@plantandfixings.co.uk",
-      "admin@reidnutsandbolts.co.uk"
-    ]
-  },
-  {
     "name": "Extreme Plant Hire - Mini Digger Hire West Lothian",
     "address": "Unit 1/Broadmeadow, West Calder, EH55 8RT, GB",
     "phone": "01506 870666",
@@ -1558,6 +1470,31 @@
     "found_in_location": "Livingston",
     "found_with_query": "plant scotland",
     "description": "Buy extremeplanthire.co.uk for 100 on GoDaddy via ExpiredDomains.com. This premium expired .co.uk domain is ideal for establishing a strong online identity."
+  },
+  {
+    "name": "Alba Platforms",
+    "address": "Lynton Farm, Stanley, Stanley, Perth, PH1 4QQ, GB",
+    "phone": "07929 557828",
+    "international_phone": "07929 557828",
+    "website": "http://www.albahire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Alba+Platforms/data=!4m7!3m6!1s0x488624c669b6fa93:0xe6438dbe926bed91!8m2!3d56.489435!4d-3.448347!16s%2Fg%2F1tgnlnc9!19sChIJk_q2acYkhkgRke1rkr6NQ-Y?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 11,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.489435,
+    "lng": -3.448347,
+    "found_in_location": "Perth",
+    "found_with_query": "plant scotland",
+    "email": "info@albahire.co.uk",
+    "emails": [
+      "info@albahire.co.uk"
+    ],
+    "description": "Alba Platforms - Cherry Picker and Access Hire based in Perth, covering Tayside and Fife including Dundee, Stirling, Dunfermline and Perth, Scotland.",
+    "services": [
+      "Cherry Picker"
+    ]
   },
   {
     "name": "Hire Centre Fort William Ltd.",
@@ -1586,31 +1523,6 @@
       "Concrete Mixer",
       "Dumper",
       "Excavator"
-    ]
-  },
-  {
-    "name": "Alba Platforms",
-    "address": "Lynton Farm, Stanley, Stanley, Perth, PH1 4QQ, GB",
-    "phone": "07929 557828",
-    "international_phone": "07929 557828",
-    "website": "http://www.albahire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Alba+Platforms/data=!4m7!3m6!1s0x488624c669b6fa93:0xe6438dbe926bed91!8m2!3d56.489435!4d-3.448347!16s%2Fg%2F1tgnlnc9!19sChIJk_q2acYkhkgRke1rkr6NQ-Y?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.489435,
-    "lng": -3.448347,
-    "found_in_location": "Perth",
-    "found_with_query": "plant scotland",
-    "email": "info@albahire.co.uk",
-    "emails": [
-      "info@albahire.co.uk"
-    ],
-    "description": "Alba Platforms - Cherry Picker and Access Hire based in Perth, covering Tayside and Fife including Dundee, Stirling, Dunfermline and Perth, Scotland.",
-    "services": [
-      "Cherry Picker"
     ]
   },
   {
@@ -1745,27 +1657,6 @@
     ]
   },
   {
-    "name": "Drumclog Plant",
-    "address": "Drumclog, Strathaven, ML10 6QG, GB",
-    "phone": "01357 440286",
-    "international_phone": "01357 440286",
-    "website": "http://www.drumclogplant.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Drumclog+Plant/data=!4m7!3m6!1s0x48883c97aaaaaaab:0x6f3e79d73328dc13!8m2!3d55.6216868!4d-4.1610101!16s%2Fg%2F11g02b77ks!19sChIJq6qqqpc8iEgRE9woM9d5Pm8?authuser=0&hl=en&rclk=1",
-    "rating": 4.8,
-    "total_reviews": 6,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.621687,
-    "lng": -4.16101,
-    "found_in_location": "East Kilbride",
-    "found_with_query": "plant scotland",
-    "description": "Our Services Low Ground Pressure Excavator We have the largest fleet of Low Ground Pressure Excavators in the UK. These machines can be used on a wide variety of projects on soft ground or where environmental impact needs to be kept to a minimum. Learn",
-    "services": [
-      "Excavator"
-    ]
-  },
-  {
     "name": "Centurion Power & Equipment",
     "address": "16 Denmore Rd, Bridge of Don, Aberdeen, AB23 8JW, GB",
     "phone": "01224 900300",
@@ -1788,21 +1679,25 @@
     ]
   },
   {
-    "name": "Dave Edgar & Sons Digger Hire",
-    "address": "Drumsturdy Rd, Dundee, GB",
-    "phone": "01382 731346",
-    "international_phone": "01382 731346",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Dave+Edgar+%26+Sons+Digger+Hire/data=!4m7!3m6!1s0x48865cfd69198245:0x3e37477064e8b6c6!8m2!3d56.4897114!4d-2.8883059!16s%2Fg%2F1hc2n4b8j!19sChIJRYIZaf1chkgRxrboZHBHNz4?authuser=0&hl=en&rclk=1",
+    "name": "Drumclog Plant",
+    "address": "Drumclog, Strathaven, ML10 6QG, GB",
+    "phone": "01357 440286",
+    "international_phone": "01357 440286",
+    "website": "http://www.drumclogplant.com/",
+    "google_maps_url": "https://www.google.com/maps/place/Drumclog+Plant/data=!4m7!3m6!1s0x48883c97aaaaaaab:0x6f3e79d73328dc13!8m2!3d55.6216868!4d-4.1610101!16s%2Fg%2F11g02b77ks!19sChIJq6qqqpc8iEgRE9woM9d5Pm8?authuser=0&hl=en&rclk=1",
     "rating": 4.8,
-    "total_reviews": 4,
+    "total_reviews": 6,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "types": "Plant and machinery hire",
-    "lat": 56.489711,
-    "lng": -2.888306,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
+    "lat": 55.621687,
+    "lng": -4.16101,
+    "found_in_location": "East Kilbride",
+    "found_with_query": "plant scotland",
+    "description": "Our Services Low Ground Pressure Excavator We have the largest fleet of Low Ground Pressure Excavators in the UK. These machines can be used on a wide variety of projects on soft ground or where environmental impact needs to be kept to a minimum. Learn",
+    "services": [
+      "Excavator"
+    ]
   },
   {
     "name": "Bryan Contractors (Blairgowrie) Ltd",
@@ -1832,6 +1727,23 @@
     ]
   },
   {
+    "name": "Dave Edgar & Sons Digger Hire",
+    "address": "Drumsturdy Rd, Dundee, GB",
+    "phone": "01382 731346",
+    "international_phone": "01382 731346",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Dave+Edgar+%26+Sons+Digger+Hire/data=!4m7!3m6!1s0x48865cfd69198245:0x3e37477064e8b6c6!8m2!3d56.4897114!4d-2.8883059!16s%2Fg%2F1hc2n4b8j!19sChIJRYIZaf1chkgRxrboZHBHNz4?authuser=0&hl=en&rclk=1",
+    "rating": 4.8,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 56.489711,
+    "lng": -2.888306,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland"
+  },
+  {
     "name": "Redhill Machinery Sales",
     "address": "Redhill Farm, Inverness, IV2 7JA, GB",
     "phone": "07464 792265",
@@ -1853,30 +1765,6 @@
       "ivan@redhillmachinerysales.co.uk"
     ],
     "description": "Construction, Plant Hire, Redhill Machinery Sales"
-  },
-  {
-    "name": "Stirling Trailer Centre",
-    "address": "Stirling Agriculture Centre, The Paddock, Stirling, FK9 4RN, GB",
-    "phone": "01786 833424",
-    "international_phone": "01786 833424",
-    "website": "https://www.stirlingtrailercentre.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Stirling+Trailer+Centre/data=!4m7!3m6!1s0x48887d013b0df5ef:0xaf54ec0641c9c897!8m2!3d56.1400461!4d-3.9839588!16s%2Fg%2F11b_2yqhxd!19sChIJ7_UNOwF9iEgRl8jJQQbsVK8?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 197,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Vehicle Repair",
-    "lat": 56.140046,
-    "lng": -3.983959,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "admin@stirlingtrailercentre.co.uk",
-    "emails": [
-      "admin@stirlingtrailercentre.co.uk",
-      "sales@stirlingtrailercentre.co.uk",
-      "parts@stirlingtrailercentre.co.uk"
-    ],
-    "description": "We are Scotland's main dealership for Ifor Williams trailers covering Central, west of Scotland and Fife."
   },
   {
     "name": "Basically Tool Hire",
@@ -2008,55 +1896,6 @@
     "description": "Brandon Hire Station: Tool & Equipment Hire."
   },
   {
-    "name": "Murray Plant",
-    "address": "9 Craigleith Rd, Stirling, FK7 7LQ, GB",
-    "phone": "0333 015 1505",
-    "international_phone": "0333 015 1505",
-    "website": "https://murray-plant.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Murray+Plant/data=!4m7!3m6!1s0x48884beee70141ed:0x7601af92e7e32d8a!8m2!3d56.1082992!4d-3.9189289!16s%2Fg%2F1tmqft0s!19sChIJ7UEB5-5LiEgRii3j55KvAXY?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
-    "types": "Hydraulic equipment supplier",
-    "lat": 56.108299,
-    "lng": -3.918929,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "office@murrayplanthire.co.uk",
-    "emails": [
-      "office@murrayplanthire.co.uk",
-      "murrayplant@bluegroup.co.uk"
-    ],
-    "description": "We are the UK’s sales agents for Rammer Breakers, Kenguru Compactors and Allu processing buckets.",
-    "services": [
-      "Breaker",
-      "Compactor"
-    ]
-  },
-  {
-    "name": "Mactech Europe",
-    "address": "4 Howe Moss Dr, Dyce, Aberdeen, AB21 0GL, GB",
-    "phone": "01260 281431",
-    "international_phone": "01260 281431",
-    "website": "http://www.mactecheurope.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Mactech+Europe/data=!4m7!3m6!1s0x488413984d1b9fef:0xec7986a7d7dbf9a6!8m2!3d57.2084462!4d-2.2169058!16s%2Fg%2F11bym_56k9!19sChIJ758bTZgThEgRpvnb16eGeew?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.208446,
-    "lng": -2.216906,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "example@company.com",
-    "emails": [
-      "example@company.com"
-    ],
-    "description": "PortableMachining Solutions Reliable Rapid Portable Equipment Purchase or Hire Services On Site Services Decommissioning Services On Site or Remote Since its establishment, Mactech Europe has grown to become recognised as a leading provider of the world’s foremost portable precision machinery...."
-  },
-  {
     "name": "Celmisa Plant Hire",
     "address": "Neilston, Glasgow, G78 3AN, GB",
     "phone": "01505 815606",
@@ -2083,29 +1922,52 @@
     ]
   },
   {
-    "name": "HSS Training",
-    "address": "31 Faraday Street Dryburgh Ind Est, Dundee, DD2 3QQ, GB",
-    "phone": "0345 605 0006",
-    "international_phone": "0345 605 0006",
-    "website": "http://www.hsstraining.com/",
-    "google_maps_url": "https://www.google.com/maps/place/HSS+Training/data=!4m7!3m6!1s0x488642d71c8fd19f:0xcd59c431af0ce07b!8m2!3d56.4846284!4d-3.0122721!16s%2Fg%2F11dxl1bc_p!19sChIJn9GPHNdChkgRe-AMrzHEWc0?authuser=0&hl=en&rclk=1",
+    "name": "Mactech Europe",
+    "address": "4 Howe Moss Dr, Dyce, Aberdeen, AB21 0GL, GB",
+    "phone": "01260 281431",
+    "international_phone": "01260 281431",
+    "website": "http://www.mactecheurope.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Mactech+Europe/data=!4m7!3m6!1s0x488413984d1b9fef:0xec7986a7d7dbf9a6!8m2!3d57.2084462!4d-2.2169058!16s%2Fg%2F11bym_56k9!19sChIJ758bTZgThEgRpvnb16eGeew?authuser=0&hl=en&rclk=1",
     "rating": 4.7,
     "total_reviews": 3,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8:30 am–5:30 pm\"],\"Monday\":[\"8:30 am–5:30 pm\"],\"Saturday\":[\"8:30 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5:30 pm\"],\"Tuesday\":[\"8:30 am–5:30 pm\"],\"Wednesday\":[\"8:30 am–5:30 pm\"]}",
-    "types": "Training provider",
-    "lat": 56.484628,
-    "lng": -3.012272,
-    "found_in_location": "Dundee",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.208446,
+    "lng": -2.216906,
+    "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland",
-    "description": "We offer a wide range of health and safety training courses at 60+ locations nationwide. Check availability on our live schedule and enjoy exclusive online discounts.",
+    "email": "example@company.com",
+    "emails": [
+      "example@company.com"
+    ],
+    "description": "PortableMachining Solutions Reliable Rapid Portable Equipment Purchase or Hire Services On Site Services Decommissioning Services On Site or Remote Since its establishment, Mactech Europe has grown to become recognised as a leading provider of the world’s foremost portable precision machinery...."
+  },
+  {
+    "name": "Murray Plant",
+    "address": "9 Craigleith Rd, Stirling, FK7 7LQ, GB",
+    "phone": "0333 015 1505",
+    "international_phone": "0333 015 1505",
+    "website": "https://murray-plant.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Murray+Plant/data=!4m7!3m6!1s0x48884beee70141ed:0x7601af92e7e32d8a!8m2!3d56.1082992!4d-3.9189289!16s%2Fg%2F1tmqft0s!19sChIJ7UEB5-5LiEgRii3j55KvAXY?authuser=0&hl=en&rclk=1",
+    "rating": 4.7,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8:30 am–5 pm\"],\"Monday\":[\"8:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 am–5 pm\"],\"Tuesday\":[\"8:30 am–5 pm\"],\"Wednesday\":[\"8:30 am–5 pm\"]}",
+    "types": "Hydraulic equipment supplier",
+    "lat": 56.108299,
+    "lng": -3.918929,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "email": "office@murrayplanthire.co.uk",
+    "emails": [
+      "office@murrayplanthire.co.uk",
+      "murrayplant@bluegroup.co.uk"
+    ],
+    "description": "We are the UK’s sales agents for Rammer Breakers, Kenguru Compactors and Allu processing buckets.",
     "services": [
-      "Cherry Picker",
-      "Dumper",
-      "Excavator",
-      "Forklift",
-      "Roller",
-      "Telehandler"
+      "Breaker",
+      "Compactor"
     ]
   },
   {
@@ -2278,49 +2140,6 @@
     "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland",
     "description": "Palmaris Plant Hire Ltd, established in 1995, is a leading provider of self-drive and operated plant hire, accommodation, and equipment services across Scotland. We offer a comprehensive ‘one-stop shop’ for the construction and civil engineering industries, with a modern fleet of plant and..."
-  },
-  {
-    "name": "Sunbelt Rentals Glasgow - Govan",
-    "address": "338 Broomloan Rd, Glasgow, G51 2JQ, GB",
-    "phone": "0141 557 5151",
-    "international_phone": "0141 557 5151",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/glasgow-govan/?utm_source=google&utm_medium=Yext&utm_campaign=glasgow-govan&y_source=1_MjI0OTM3ODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Glasgow+-+Govan/data=!4m7!3m6!1s0x4888460b688001ed:0x9cea24f98ed04426!8m2!3d55.8545087!4d-4.3123532!16s%2Fg%2F1tfd6k5g!19sChIJ7QGAaAtGiEgRJkTQjvkk6pw?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 55.854509,
-    "lng": -4.312353,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Stirling Training Services Limited",
-    "address": "Imex Business Centre, Office 2, Unit 20, Craigleith Rd, Stirling, FK7 7WU, GB",
-    "phone": "07380 668912",
-    "international_phone": "07380 668912",
-    "website": "http://www.stirlingtrainingservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Stirling+Training+Services+Limited/data=!4m7!3m6!1s0x488863cc99b513bd:0x576b6067797fc3b1!8m2!3d56.108488!4d-3.9179837!16s%2Fg%2F11j8w321k8!19sChIJvRO1mcxjiEgRscN_eWdga1c?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Training centre",
-    "lat": 56.108488,
-    "lng": -3.917984,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "shona@stirlingtrainingservices.co.uk",
-    "emails": [
-      "shona@stirlingtrainingservices.co.uk"
-    ],
-    "services": [
-      "Cherry Picker",
-      "Forklift",
-      "Telehandler"
-    ]
   },
   {
     "name": "Buckhurst plant hire",
@@ -2614,28 +2433,6 @@
     "description": "Are you planning a construction project? Contact John Duncan Plant Hire for a range of plant hire equipment and machinery. We cover Aberdeen and North Aberdeenshire."
   },
   {
-    "name": "Lifting Equipment Rental",
-    "address": "Unit 3 Commercial Quay, Aberdeen, AB11 5PH, GB",
-    "phone": "01224 589323",
-    "international_phone": "01224 589323",
-    "website": "http://www.lifting-equipment-rental.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Lifting+Equipment+Rental/data=!4m7!3m6!1s0x48840e38ed0405d3:0x571a56be99399c57!8m2!3d57.1437677!4d-2.0877975!16s%2Fg%2F11b6xfpjnc!19sChIJ0wUE7TgOhEgRV5w5mb5WGlc?authuser=0&hl=en&rclk=1",
-    "rating": 4.5,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–3 pm\"],\"Monday\":[\"8 am–3 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–3 pm\"],\"Tuesday\":[\"8 am–3 pm\"],\"Wednesday\":[\"8 am–3 pm\"]}",
-    "types": "Tool rental service",
-    "lat": 57.143768,
-    "lng": -2.087797,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "john@lifting-equipment-rental.co.uk",
-    "emails": [
-      "john@lifting-equipment-rental.co.uk"
-    ],
-    "description": "L E Rental is home to one of the largest ranges of specialist lifting equipment for hire and sale in Scotland. From our base in Aberdeen, we supply and deliver equipment to companies throughout the UK and Europe and hold an extensive stock of products suited to a wide variety of industries..."
-  },
-  {
     "name": "Ainscough Crane Hire Ltd - Dundee Depot",
     "address": "40 Old Glamis Rd, Dundee, DD3 8JQ, GB",
     "phone": "01382 455224",
@@ -2656,6 +2453,28 @@
       "info@ainscough.co.uk"
     ],
     "description": "Hire cranes with Ainscough Crane Hire, the largest crane hire company in the UK. 30 locations, one national network."
+  },
+  {
+    "name": "Lifting Equipment Rental",
+    "address": "Unit 3 Commercial Quay, Aberdeen, AB11 5PH, GB",
+    "phone": "01224 589323",
+    "international_phone": "01224 589323",
+    "website": "http://www.lifting-equipment-rental.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Lifting+Equipment+Rental/data=!4m7!3m6!1s0x48840e38ed0405d3:0x571a56be99399c57!8m2!3d57.1437677!4d-2.0877975!16s%2Fg%2F11b6xfpjnc!19sChIJ0wUE7TgOhEgRV5w5mb5WGlc?authuser=0&hl=en&rclk=1",
+    "rating": 4.5,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–3 pm\"],\"Monday\":[\"8 am–3 pm\"],\"Saturday\":[\"8 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–3 pm\"],\"Tuesday\":[\"8 am–3 pm\"],\"Wednesday\":[\"8 am–3 pm\"]}",
+    "types": "Tool rental service",
+    "lat": 57.143768,
+    "lng": -2.087797,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "john@lifting-equipment-rental.co.uk",
+    "emails": [
+      "john@lifting-equipment-rental.co.uk"
+    ],
+    "description": "L E Rental is home to one of the largest ranges of specialist lifting equipment for hire and sale in Scotland. From our base in Aberdeen, we supply and deliver equipment to companies throughout the UK and Europe and hold an extensive stock of products suited to a wide variety of industries..."
   },
   {
     "name": "Scott Mackie Ltd",
@@ -2907,6 +2726,24 @@
     "found_with_query": "plant scotland"
   },
   {
+    "name": "HSS The Hire Service Company at Beatsons",
+    "address": "13-15 Craigleith Rd, Stirling, FK7 7SY, GB",
+    "phone": "01786 201580",
+    "international_phone": "01786 201580",
+    "website": "https://www.thehireservicecompany.com/Branch_Finder.html",
+    "google_maps_url": "https://www.google.com/maps/place/HSS+The+Hire+Service+Company+at+Beatsons/data=!4m7!3m6!1s0x488862cecfa4de2b:0x4ac84398dffe1ab6!8m2!3d56.1093138!4d-3.9230157!16s%2Fg%2F1tf3nhc2!19sChIJK96kz85iiEgRthr-35hDyEo?authuser=0&hl=en&rclk=1",
+    "rating": 4.3,
+    "total_reviews": 12,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Tool rental service",
+    "lat": 56.109314,
+    "lng": -3.923016,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "description": "Professional equipment hire and tool rental across the UK. Over 3,000 tools for construction, DIY, gardening & more."
+  },
+  {
     "name": "Hodge Plant Ltd",
     "address": "Whistleberry Industrial Park Estate, Whistleberry Industrial Park, 6 Whistleberry Park, Hamilton, ML3 0ED, GB",
     "phone": "01698 829159",
@@ -2936,24 +2773,6 @@
     ]
   },
   {
-    "name": "HSS The Hire Service Company at Beatsons",
-    "address": "13-15 Craigleith Rd, Stirling, FK7 7SY, GB",
-    "phone": "01786 201580",
-    "international_phone": "01786 201580",
-    "website": "https://www.thehireservicecompany.com/Branch_Finder.html",
-    "google_maps_url": "https://www.google.com/maps/place/HSS+The+Hire+Service+Company+at+Beatsons/data=!4m7!3m6!1s0x488862cecfa4de2b:0x4ac84398dffe1ab6!8m2!3d56.1093138!4d-3.9230157!16s%2Fg%2F1tf3nhc2!19sChIJK96kz85iiEgRthr-35hDyEo?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 12,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Tool rental service",
-    "lat": 56.109314,
-    "lng": -3.923016,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "description": "Professional equipment hire and tool rental across the UK. Over 3,000 tools for construction, DIY, gardening & more."
-  },
-  {
     "name": "Leggat Plant Ltd",
     "address": "Crossmill, Barrhead, G78 1TG, GB",
     "phone": "0141 881 8104",
@@ -2970,28 +2789,6 @@
     "found_in_location": "Paisley",
     "found_with_query": "plant scotland",
     "description": "Full range of Cranes available – 25 tonne to 130 tonne."
-  },
-  {
-    "name": "Iain Cowie Plant Hire & Groundworks Ltd",
-    "address": "Old Station Yard, Culloden Moor, Inverness, IV2 5EF, GB",
-    "phone": "01463 572826",
-    "international_phone": "01463 572826",
-    "website": "https://icplanthireandgroundworks.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Iain+Cowie+Plant+Hire+%26+Groundworks+Ltd/data=!4m7!3m6!1s0x488f7bde2dad91f5:0x273abea0d78cf05a!8m2!3d57.484506!4d-4.0657991!16s%2Fg%2F11j2cgh9xv!19sChIJ9ZGtLd57j0gRWvCM16C-Oic?authuser=0&hl=en&rclk=1",
-    "rating": 4.3,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.484506,
-    "lng": -4.065799,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland",
-    "email": "info@icplanthireandgroundworks.co.uk",
-    "emails": [
-      "info@icplanthireandgroundworks.co.uk"
-    ],
-    "description": "Aggregates sales & Civils Contracting"
   },
   {
     "name": "HAG (Highland Allterrain Group) Hire",
@@ -3017,6 +2814,28 @@
     "services": [
       "Excavator"
     ]
+  },
+  {
+    "name": "Iain Cowie Plant Hire & Groundworks Ltd",
+    "address": "Old Station Yard, Culloden Moor, Inverness, IV2 5EF, GB",
+    "phone": "01463 572826",
+    "international_phone": "01463 572826",
+    "website": "https://icplanthireandgroundworks.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Iain+Cowie+Plant+Hire+%26+Groundworks+Ltd/data=!4m7!3m6!1s0x488f7bde2dad91f5:0x273abea0d78cf05a!8m2!3d57.484506!4d-4.0657991!16s%2Fg%2F11j2cgh9xv!19sChIJ9ZGtLd57j0gRWvCM16C-Oic?authuser=0&hl=en&rclk=1",
+    "rating": 4.3,
+    "total_reviews": 7,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.484506,
+    "lng": -4.065799,
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "email": "info@icplanthireandgroundworks.co.uk",
+    "emails": [
+      "info@icplanthireandgroundworks.co.uk"
+    ],
+    "description": "Aggregates sales & Civils Contracting"
   },
   {
     "name": "Blackwood Plant Hire",
@@ -3070,6 +2889,27 @@
     ]
   },
   {
+    "name": "GAP Hire Solutions - Sighthill (Edinburgh)",
+    "address": "Sighthill Industrial Estate, 11 Bankhead Dr, Edinburgh, EH11 4EJ, GB",
+    "phone": "0131 453 4531",
+    "international_phone": "0131 453 4531",
+    "website": "https://www.gap-group.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/GAP+Hire+Solutions+-+Sighthill+%28Edinburgh%29/data=!4m7!3m6!1s0x4887c42571c172ab:0x3424dedb80caca8a!8m2!3d55.9240813!4d-3.303025!16s%2Fg%2F1tkqzvb4!19sChIJq3LBcSXEh0gRisrKgNveJDQ?authuser=0&hl=en&rclk=1",
+    "rating": 4.2,
+    "total_reviews": 22,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 55.924081,
+    "lng": -3.303025,
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
+    "services": [
+      "Dumper"
+    ]
+  },
+  {
     "name": "Hireline Plant & Tool Hire Edinburgh Scotland",
     "address": "Unit 15, Merryfield Business Centre, Macmerry Industrial Estate, Tranent, EH33 1ET, GB",
     "phone": "0131 669 7660",
@@ -3100,27 +2940,6 @@
     ]
   },
   {
-    "name": "GAP Hire Solutions - Sighthill (Edinburgh)",
-    "address": "Sighthill Industrial Estate, 11 Bankhead Dr, Edinburgh, EH11 4EJ, GB",
-    "phone": "0131 453 4531",
-    "international_phone": "0131 453 4531",
-    "website": "https://www.gap-group.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/GAP+Hire+Solutions+-+Sighthill+%28Edinburgh%29/data=!4m7!3m6!1s0x4887c42571c172ab:0x3424dedb80caca8a!8m2!3d55.9240813!4d-3.303025!16s%2Fg%2F1tkqzvb4!19sChIJq3LBcSXEh0gRisrKgNveJDQ?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 22,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.924081,
-    "lng": -3.303025,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland",
-    "description": "Discover GAP Group, the UK's leading hire company. Find a depot, explore our products, or view job vacancies. Join us in eco-friendly construction.",
-    "services": [
-      "Dumper"
-    ]
-  },
-  {
     "name": "Peter Stewart Plant Hire & Contractors",
     "address": "Mossywood House, Cumbernauld, Glasgow, G67 4HF, GB",
     "phone": "01236 875234",
@@ -3145,6 +2964,23 @@
       "Excavator",
       "Mini Digger"
     ]
+  },
+  {
+    "name": "Denis McDonald Plant Hire",
+    "address": "10 Spillarsford Cottages, Lonmay, Fraserburgh, AB43 8UQ, GB",
+    "phone": "07774 953976",
+    "international_phone": "07774 953976",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Denis+McDonald+Plant+Hire/data=!4m7!3m6!1s0x48847e2c0d4222e3:0x2c4205cca562948b!8m2!3d57.6229376!4d-1.9805952!16s%2Fg%2F1hc96_s69!19sChIJ4yJCDSx-hEgRi5RipcwFQiw?authuser=0&hl=en&rclk=1",
+    "rating": 4.2,
+    "total_reviews": 5,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.622938,
+    "lng": -1.980595,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland"
   },
   {
     "name": "Warnock Plant Hire Ltd",
@@ -3174,66 +3010,6 @@
       "Excavator",
       "Roller"
     ]
-  },
-  {
-    "name": "Denis McDonald Plant Hire",
-    "address": "10 Spillarsford Cottages, Lonmay, Fraserburgh, AB43 8UQ, GB",
-    "phone": "07774 953976",
-    "international_phone": "07774 953976",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Denis+McDonald+Plant+Hire/data=!4m7!3m6!1s0x48847e2c0d4222e3:0x2c4205cca562948b!8m2!3d57.6229376!4d-1.9805952!16s%2Fg%2F1hc96_s69!19sChIJ4yJCDSx-hEgRi5RipcwFQiw?authuser=0&hl=en&rclk=1",
-    "rating": 4.2,
-    "total_reviews": 5,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.622938,
-    "lng": -1.980595,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "A & M Smith Recycling Services Ltd",
-    "address": "Bankhead, Duffshill Road, Aberdeen, AB12 4RX, GB",
-    "phone": "01224 780649",
-    "international_phone": "01224 780649",
-    "website": "https://www.smithskiphire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A+%26+M+Smith+Recycling+Services+Ltd/data=!4m7!3m6!1s0x48841009bd7cd6e7:0x79a35cd70bad3520!8m2!3d57.0882987!4d-2.12435!16s%2Fg%2F1tp1ycrd!19sChIJ59Z8vQkQhEgRIDWtC9dco3k?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 25,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"7 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Waste-Management Service",
-    "lat": 57.088299,
-    "lng": -2.12435,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "description": "A & M Smith Recycling Recycle centre and skip hire with facilities in Aberdeen and Peterhead. Solar generation and renewables. Fridge disposal Aberdeen and Hazardous Waste Disposal Aberdeen",
-    "services": [
-      "Forklift"
-    ]
-  },
-  {
-    "name": "Northgate Vehicle Hire - Stirling",
-    "address": "Springkerse Road Springkerse Industrial Estate, Stirling, Stirling, FK7 7SN, GB",
-    "phone": "01786 471555",
-    "international_phone": "01786 471555",
-    "website": "https://www.northgatevehiclehire.co.uk/branch-finder/stirling?utm_source=google&utm_medium%20=organic&utm_campaign=gmb-listing",
-    "google_maps_url": "https://www.google.com/maps/place/Northgate+Vehicle+Hire+-+Stirling/data=!4m7!3m6!1s0x488862c6901103fb:0xb7097ed0a8fa3c9c!8m2!3d56.1140571!4d-3.9230853!16s%2Fg%2F1tgpmm0n!19sChIJ-wMRkMZiiEgRnDz6qNB-Cbc?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 24,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5:30 pm\"],\"Monday\":[\"8 am–5:30 pm\"],\"Saturday\":[\"8 am–12 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5:30 pm\"],\"Tuesday\":[\"8 am–5:30 pm\"],\"Wednesday\":[\"8 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 56.114057,
-    "lng": -3.923085,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "rental.ipswich@northgatevehiclehire.co.uk",
-    "emails": [
-      "rental.ipswich@northgatevehiclehire.co.uk"
-    ],
-    "description": "Find a wide range of fleet vehicles at our Northgate Ipswich branch. Our van rental in Ipswich offers flexible hire options and more! Call today."
   },
   {
     "name": "Brandon Hire Station Glasgow - Kingston Bridge",
@@ -3317,31 +3093,6 @@
     ]
   },
   {
-    "name": "S Brady Ltd",
-    "address": "31 Abercorn St, Paisley, PA3 4AL, GB",
-    "phone": "0141 889 8108",
-    "international_phone": "0141 889 8108",
-    "website": "https://www.bradyskips.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/S+Brady+Ltd/data=!4m7!3m6!1s0x4888493472ab3c87:0x1e5f040582fb8a31!8m2!3d55.8494601!4d-4.4216225!16s%2Fg%2F1vc81c_q!19sChIJhzyrcjRJiEgRMYr7ggUEXx4?authuser=0&hl=en&rclk=1",
-    "rating": 4.1,
-    "total_reviews": 7,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Waste Collection Service",
-    "lat": 55.84946,
-    "lng": -4.421622,
-    "found_in_location": "Paisley",
-    "found_with_query": "plant scotland",
-    "email": "skiplorry@live.co.uk",
-    "emails": [
-      "skiplorry@live.co.uk"
-    ],
-    "description": "For quick and affordable skip hire services in Paisley and across Renfrewshire, contact specialists at S Brady Ltd today. With over 60 years of experience.",
-    "services": [
-      "Mini Digger"
-    ]
-  },
-  {
     "name": "Brandon Hire Station Inverness",
     "address": "7 Harbour Rd, Inverness, IV1 1SY, GB",
     "phone": "01463 224297",
@@ -3376,28 +3127,6 @@
     "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland",
     "description": "Brandon Hire Station: Tool & Equipment Hire."
-  },
-  {
-    "name": "HirePlus",
-    "address": "Anderson St, Dunblane, FK15 9AJ, GB",
-    "phone": "01786 826339",
-    "international_phone": "01786 826339",
-    "website": "http://www.hireplus.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/HirePlus/data=!4m7!3m6!1s0x488888feeff65b41:0xd578506fc0b04e0e!8m2!3d56.1882175!4d-3.9709402!16s%2Fg%2F11b6j0br4d!19sChIJQVv27_6IiEgRDk6wwG9QeNU?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–4:30 pm\"],\"Monday\":[\"9 am–5:30 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5:30 pm\"],\"Tuesday\":[\"9 am–5:30 pm\"],\"Wednesday\":[\"9 am–5:30 pm\"]}",
-    "types": "Van rental agency",
-    "lat": 56.188218,
-    "lng": -3.97094,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland",
-    "email": "enquiries@hireplus.co.uk",
-    "emails": [
-      "enquiries@hireplus.co.uk"
-    ],
-    "description": "We are the number one choice for van hire in Stirling, Scotland. Specialising in business van hire locally."
   },
   {
     "name": "Nixon Hire",
@@ -3491,21 +3220,43 @@
     ]
   },
   {
-    "name": "Sunbelt Rentals Aberdeen",
-    "address": "16 St Machar Rd, Aberdeen, AB24 2UU, GB",
-    "phone": "01224 276760",
-    "international_phone": "01224 276760",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/aberdeen/?utm_source=google&utm_medium=Yext&utm_campaign=aberdeen&y_source=1_MjI0OTM3NTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Aberdeen/data=!4m7!3m6!1s0x48840e03dd3c9f81:0x14970cce0780d259!8m2!3d57.1675881!4d-2.1125294!16s%2Fg%2F1td47jx5!19sChIJgZ883QMOhEgRWdKAB84MlxQ?authuser=0&hl=en&rclk=1",
+    "name": "A Smeaton",
+    "address": "Valleyfield,Tulloes, Letham, by, Forfar, DD8 2NE, GB",
+    "phone": "01307 818326",
+    "international_phone": "01307 818326",
+    "website": "https://www.smeatonplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/A+Smeaton/data=!4m7!3m6!1s0x488661c4fd241a07:0x395f492262a30d73!8m2!3d56.5907504!4d-2.7963589!16s%2Fg%2F1tv23qqx!19sChIJBxok_cRhhkgRcw2jYiJJXzk?authuser=0&hl=en&rclk=1",
     "rating": 4.0,
-    "total_reviews": 7,
+    "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 57.167588,
-    "lng": -2.112529,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.59075,
+    "lng": -2.796359,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "description": "Welcome to Smeaton Plant Hire, a family run business established over 35 years ago.Specialising in hiring out mobile and tracked excavators with experienced licensed operators. We will take on any type of work from foundation works to more complex civil engineering contracts.Our excavators range...",
+    "services": [
+      "Excavator"
+    ]
+  },
+  {
+    "name": "Mabey Hire - Inverness",
+    "address": "shire, 41 Lotland St, Inverness, IV1 1ST, GB",
+    "phone": "01463 239222",
+    "international_phone": "01463 239222",
+    "website": "https://www.mabeyhire.co.uk/nearest-mabey-hire-depot/inverness-depot",
+    "google_maps_url": "https://www.google.com/maps/place/Mabey+Hire+-+Inverness/data=!4m7!3m6!1s0x488f76adc0454111:0xda8614ca8b7c1fa1!8m2!3d57.4893924!4d-4.2313834!16s%2Fg%2F1yh9vf1y9!19sChIJEUFFwK12j0gRoR98i8oUhto?authuser=0&hl=en&rclk=1",
+    "rating": 4.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Construction equipment supplier",
+    "lat": 57.489392,
+    "lng": -4.231383,
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
   },
   {
     "name": "Sinclair Plant Hire",
@@ -3530,43 +3281,21 @@
     "description": "Sinclair Plant Hire, Machinery Hire, JCB 3CX's, Excavators, mini Diggers, site clearance & groundworks providing Edinburgh, The Lothians & surrounding area"
   },
   {
-    "name": "Mabey Hire - Inverness",
-    "address": "shire, 41 Lotland St, Inverness, IV1 1ST, GB",
-    "phone": "01463 239222",
-    "international_phone": "01463 239222",
-    "website": "https://www.mabeyhire.co.uk/nearest-mabey-hire-depot/inverness-depot",
-    "google_maps_url": "https://www.google.com/maps/place/Mabey+Hire+-+Inverness/data=!4m7!3m6!1s0x488f76adc0454111:0xda8614ca8b7c1fa1!8m2!3d57.4893924!4d-4.2313834!16s%2Fg%2F1yh9vf1y9!19sChIJEUFFwK12j0gRoR98i8oUhto?authuser=0&hl=en&rclk=1",
+    "name": "A-plant: Pss Hire Inverness",
+    "address": "Seafield House, 2 Seafield Rd, Inverness, IV1 1SG, GB",
+    "phone": "01506 656938",
+    "international_phone": "01506 656938",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/A-plant:+Pss+Hire+Inverness/data=!4m7!3m6!1s0x488f76b3f79c2789:0x3e08f7591fc93373!8m2!3d57.4880306!4d-4.2188157!16s%2Fg%2F11f_4s6xlp!19sChIJiSec97N2j0gRczPJH1n3CD4?authuser=0&hl=en&rclk=1",
     "rating": 4.0,
-    "total_reviews": 4,
+    "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Construction equipment supplier",
-    "lat": 57.489392,
-    "lng": -4.231383,
+    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
+    "types": "Equipment rental agency",
+    "lat": 57.488031,
+    "lng": -4.218816,
     "found_in_location": "Inverness",
-    "found_with_query": "plant scotland",
-    "description": "Our dedicated team at Nottingham are on hand to provide you with the best solution to your temporary works requirements."
-  },
-  {
-    "name": "A Smeaton",
-    "address": "Valleyfield,Tulloes, Letham, by, Forfar, DD8 2NE, GB",
-    "phone": "01307 818326",
-    "international_phone": "01307 818326",
-    "website": "https://www.smeatonplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/A+Smeaton/data=!4m7!3m6!1s0x488661c4fd241a07:0x395f492262a30d73!8m2!3d56.5907504!4d-2.7963589!16s%2Fg%2F1tv23qqx!19sChIJBxok_cRhhkgRcw2jYiJJXzk?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"9 am–5 pm\"],\"Sunday\":[\"9 am–5 pm\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.59075,
-    "lng": -2.796359,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland",
-    "description": "Welcome to Smeaton Plant Hire, a family run business established over 35 years ago.Specialising in hiring out mobile and tracked excavators with experienced licensed operators. We will take on any type of work from foundation works to more complex civil engineering contracts.Our excavators range...",
-    "services": [
-      "Excavator"
-    ]
+    "found_with_query": "plant scotland"
   },
   {
     "name": "Bridgend Hire Limited",
@@ -3588,40 +3317,6 @@
     "services": [
       "Excavator"
     ]
-  },
-  {
-    "name": "A-plant: Pss Hire Inverness",
-    "address": "Seafield House, 2 Seafield Rd, Inverness, IV1 1SG, GB",
-    "phone": "01506 656938",
-    "international_phone": "01506 656938",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/A-plant:+Pss+Hire+Inverness/data=!4m7!3m6!1s0x488f76b3f79c2789:0x3e08f7591fc93373!8m2!3d57.4880306!4d-4.2188157!16s%2Fg%2F11f_4s6xlp!19sChIJiSec97N2j0gRczPJH1n3CD4?authuser=0&hl=en&rclk=1",
-    "rating": 4.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Equipment rental agency",
-    "lat": 57.488031,
-    "lng": -4.218816,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Sunbelt Rentals Edinburgh",
-    "address": "50 W Harbour Rd, Edinburgh, EH5 1PZ, GB",
-    "phone": "0131 551 5213",
-    "international_phone": "0131 551 5213",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/edinburgh/?utm_source=google&utm_medium=Yext&utm_campaign=edinburgh&y_source=1_MjI0OTM3NzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Edinburgh/data=!4m7!3m6!1s0x4887c87f547a3fed:0xb495135545a8626d!8m2!3d55.9829442!4d-3.2313341!16s%2Fg%2F1hc26_t3t!19sChIJ7T96VH_Ih0gRbWKoRVUTlbQ?authuser=0&hl=en&rclk=1",
-    "rating": 3.9,
-    "total_reviews": 15,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 55.982944,
-    "lng": -3.231334,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland"
   },
   {
     "name": "Sweeney Plant and Vehicle Hire LTD",
@@ -3783,23 +3478,6 @@
     "services": [
       "Dumper"
     ]
-  },
-  {
-    "name": "Sunbelt Rentals Dundee - Mid Craigie Road",
-    "address": "5 Mid Craigie Rd, Dundee, DD4 7RH, GB",
-    "phone": "01382 458912",
-    "international_phone": "01382 458912",
-    "website": "https://www.sunbeltrentals.co.uk/find-a-depot/dundee-mid-craigie-road/?utm_source=google&utm_medium=Yext&utm_campaign=dundee-mid-craigie-road&y_source=1_MjI0OTM3NzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/place/Sunbelt+Rentals+Dundee+-+Mid+Craigie+Road/data=!4m7!3m6!1s0x48865c5146b50389:0xa7d4eec9144e47b8!8m2!3d56.4752584!4d-2.9338587!16s%2Fg%2F1wk7qfg_!19sChIJiQO1RlFchkgRuEdOFMnu1Kc?authuser=0&hl=en&rclk=1",
-    "rating": 3.6,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5 pm\"],\"Monday\":[\"7:30 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7:30 am–5 pm\"],\"Tuesday\":[\"7:30 am–5 pm\"],\"Wednesday\":[\"7:30 am–5 pm\"]}",
-    "types": "Building materials supplier",
-    "lat": 56.475258,
-    "lng": -2.933859,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland"
   },
   {
     "name": "Clee Hill Plant Ltd",
@@ -4050,30 +3728,21 @@
     ]
   },
   {
-    "name": "GORDON BOW ENGINEERING LTD",
-    "address": "6 Youngs Rd, Broxburn, EH52 5LY, GB",
-    "phone": "01506 855913",
-    "international_phone": "01506 855913",
-    "website": "https://www.gordonbowengineering.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/GORDON+BOW+ENGINEERING+LTD/data=!4m7!3m6!1s0x4887dafb1cff1e49:0xf03b57e44463d8ad!8m2!3d55.9402972!4d-3.4564921!16s%2Fg%2F1tdz8_py!19sChIJSR7_HPvah0gRrdhjRORXO_A?authuser=0&hl=en&rclk=1",
-    "rating": 2.1,
-    "total_reviews": 8,
+    "name": "Aberdeen Small Plant Hire",
+    "address": "54 Menzies Rd, Torry, Aberdeen, AB11 9BE, GB",
+    "phone": "01224 893330",
+    "international_phone": "01224 893330",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Small+Plant+Hire/data=!4m7!3m6!1s0x48840e36d91c7823:0xa6a8d810a5f92d77!8m2!3d57.1372759!4d-2.0920757!16s%2Fg%2F12hkyc2gd!19sChIJI3gc2TYOhEgRdy35pRDYqKY?authuser=0&hl=en&rclk=1",
+    "rating": 1.0,
+    "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–5:30 pm\"],\"Monday\":[\"7:30 am–5:30 pm\"],\"Saturday\":[\"7:30 am–12 pm\"],\"Sunday\":[\"7:30 am–12 pm\"],\"Thursday\":[\"7:30 am–5:30 pm\"],\"Tuesday\":[\"7:30 am–5:30 pm\"],\"Wednesday\":[\"7:30 am–5:30 pm\"]}",
-    "types": "Engineer",
-    "lat": 55.940297,
-    "lng": -3.456492,
-    "found_in_location": "Livingston",
-    "found_with_query": "plant scotland",
-    "email": "info@gordonbow.co.uk",
-    "emails": [
-      "info@gordonbow.co.uk",
-      "bobby@gordonbow.co.uk",
-      "craig.bell@gordonbow.co.uk",
-      "davidw@gordonbow.co.uk",
-      "richard@gordonbow.co.uk"
-    ],
-    "description": "Gordon Bow Engineering are fabricators of a wide range of structural steel, metalwork and stainless products to meet client requirements"
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 57.137276,
+    "lng": -2.092076,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland"
   },
   {
     "name": "L K N Plant Hire Ltd",
@@ -4093,356 +3762,39 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "Aberdeen Small Plant Hire",
-    "address": "54 Menzies Rd, Torry, Aberdeen, AB11 9BE, GB",
-    "phone": "01224 893330",
-    "international_phone": "01224 893330",
+    "name": "AB2000 Plant and Crane Hire Inverness",
+    "address": "Balmakeith Industrial Estate, Unit 4 Tom Semple Rd, Nairn, IV12 5QR, GB",
+    "phone": "01667 456702",
+    "international_phone": "01667 456702",
+    "website": "http://www.ab2000.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/AB2000+Plant+and+Crane+Hire+Inverness/data=!4m7!3m6!1s0x488f76b46a5ea3fb:0x2362942f8c0373ac!8m2!3d57.584026!4d-3.852959!16s%2Fg%2F12hkhhzp6!19sChIJ-6NearR2j0gRrHMDjC-UYiM?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.584026,
+    "lng": -3.852959,
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  },
+  {
+    "name": "Ally Blyth Plant Hire",
+    "address": "Ruthvenfield Rd, Perth, Perth, PH1 3XF, GB",
+    "phone": "01738 479975",
+    "international_phone": "01738 479975",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Aberdeen+Small+Plant+Hire/data=!4m7!3m6!1s0x48840e36d91c7823:0xa6a8d810a5f92d77!8m2!3d57.1372759!4d-2.0920757!16s%2Fg%2F12hkyc2gd!19sChIJI3gc2TYOhEgRdy35pRDYqKY?authuser=0&hl=en&rclk=1",
-    "rating": 1.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 57.137276,
-    "lng": -2.092076,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland"
-  },
-  {
-    "name": "Jw Plant Hire Services Ltd",
-    "address": "2 Wellington St, Paisley, PA3 2JQ, GB",
-    "phone": "07415 032776",
-    "international_phone": "07415 032776",
-    "website": "https://find-and-update.company-information.service.gov.uk/company/SC540881",
-    "google_maps_url": "https://www.google.com/maps/place/Jw+Plant+Hire+Services+Ltd/data=!4m7!3m6!1s0x48884935c2243f45:0x24730b722685b72!8m2!3d55.8496693!4d-4.430973!16s%2Fg%2F11t4f0qb98!19sChIJRT8kwjVJiEgRcltoIrcwRwI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.849669,
-    "lng": -4.430973,
-    "found_in_location": "Paisley",
-    "found_with_query": "plant scotland",
-    "description": "J W PLANT HIRE SERVICES LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
-  },
-  {
-    "name": "JW Plant Hire",
-    "address": "66 Love St, Paisley, PA3 2EH, GB",
-    "phone": "07903 673887",
-    "international_phone": "07903 673887",
-    "website": "https://www.jwplanthire.co.uk/contact.html",
-    "google_maps_url": "https://www.google.com/maps/place/JW+Plant+Hire/data=!4m7!3m6!1s0x48884935c236aaab:0x4a119cde64baa3b0!8m2!3d55.8518264!4d-4.4257537!16s%2Fg%2F11vr_3xj16!19sChIJq6o2wjVJiEgRsKO6ZN6cEUo?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 55.851826,
-    "lng": -4.425754,
-    "found_in_location": "Paisley",
-    "found_with_query": "plant scotland",
-    "email": "bookings@jwplanthire.co.uk",
-    "emails": [
-      "bookings@jwplanthire.co.uk"
-    ],
-    "description": "If you are interested in any of our Plant Hire Equipment then please fill out the form below."
-  },
-  {
-    "name": "TG Tool Hire",
-    "address": "Unit 7, No.1 Cargo Building, Campsie Drive, Glasgow Airport, Paisley, PA3 2SG, GB",
-    "phone": "0141 374 2395",
-    "international_phone": "0141 374 2395",
-    "website": "http://www.tgtoolhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/TG+Tool+Hire/data=!4m7!3m6!1s0x48884ec860cd62df:0xffe9a605661c2792!8m2!3d55.8662843!4d-4.4269712!16s%2Fg%2F11cnc8gvk7!19sChIJ32LNYMhOiEgRkiccZgWm6f8?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/Ally+Blyth+Plant+Hire/data=!4m7!3m6!1s0x48863b765436bef3:0x30e4727f73638484!8m2!3d56.4205391!4d-3.4681988!16s%2Fg%2F11f5_l0061!19sChIJ8742VHY7hkgRhIRjc39y5DA?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Tool rental service",
-    "lat": 55.866284,
-    "lng": -4.426971,
-    "found_in_location": "Paisley",
-    "found_with_query": "plant scotland",
-    "description": "TG Tool Hire is an independant Scottish company hiring tools, plant and equipment to customers throughout Renfrewshire"
-  },
-  {
-    "name": "Glasgow Digger Hire",
-    "address": "15 Davidson St, Glasgow, G40 4NS, GB",
-    "phone": "07415 059181",
-    "international_phone": "07415 059181",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Glasgow+Digger+Hire/data=!4m7!3m6!1s0x488841f7c7987a7f:0xe5bbcb0cb1b94c6d!8m2!3d55.8396886!4d-4.2152337!16s%2Fg%2F11xdp482tx!19sChIJf3qYx_dBiEgRbUy5sQzLu-U?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Excavating contractor",
-    "lat": 55.839689,
-    "lng": -4.215234,
-    "found_in_location": "Glasgow",
+    "types": "Plant and machinery hire",
+    "lat": 56.420539,
+    "lng": -3.468199,
+    "found_in_location": "Perth",
     "found_with_query": "plant scotland"
-  },
-  {
-    "name": "H.E. Services (Plant Hire) Ltd",
-    "address": "Portcullis Estate, Milton of Campsie, Glasgow, G66 8AQ, GB",
-    "phone": "0141 775 0988",
-    "international_phone": "0141 775 0988",
-    "website": "http://www.heservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/H.E.+Services+%28Plant+Hire%29+Ltd/data=!4m7!3m6!1s0x48885d55312ddac7:0x3b49a8e7d4f184f2!8m2!3d55.9567138!4d-4.1209335!16s%2Fg%2F1tsypc18!19sChIJx9otMVVdiEgR8oTx1OeoSTs?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 55.956714,
-    "lng": -4.120933,
-    "found_in_location": "Glasgow",
-    "found_with_query": "plant scotland",
-    "email": "credit.control@heservices.co.uk",
-    "emails": [
-      "credit.control@heservices.co.uk",
-      "invoice.queries@heservices.co.uk",
-      "nhc@heservices.co.uk"
-    ],
-    "description": "The largest specialist UK Plant Hire Company, providing all types of plant with 11 strategically located depots nationwide. Call 0208 804 2000",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Mini Digger",
-      "Roller",
-      "Skid Steer",
-      "Telehandler"
-    ]
-  },
-  {
-    "name": "YES Your Equipment Solutions (Edinburgh)",
-    "address": "Bilston Glen Industrial Estate, Unit 5 Dryden Pl, Loanhead, EH20 9HP, GB",
-    "phone": "0131 285 1350",
-    "international_phone": "0131 285 1350",
-    "website": "https://yourequipmentsolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/YES+Your+Equipment+Solutions+%28Edinburgh%29/data=!4m7!3m6!1s0x4887c1e1b29366b3:0x73c70d4fcd9a7849!8m2!3d55.8726623!4d-3.1725373!16s%2Fg%2F11n479vz9_!19sChIJs2aTsuHBh0gRSXiazU8Nx3M?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.872662,
-    "lng": -3.172537,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland",
-    "email": "office@yourequipmentsolutions.co.uk",
-    "emails": [
-      "office@yourequipmentsolutions.co.uk"
-    ],
-    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
-    "services": [
-      "Breaker",
-      "Dumper",
-      "Excavator",
-      "Generator",
-      "Roller"
-    ]
-  },
-  {
-    "name": "Hermiston Plant Hire Ltd",
-    "address": "3 E Hermiston, Farm, Currie, EH14 4AJ, GB",
-    "phone": "0131 453 4133",
-    "international_phone": "0131 453 4133",
-    "website": "http://www.hermistonplanthire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Hermiston+Plant+Hire+Ltd/data=!4m7!3m6!1s0x4887c57347ea45df:0x217caa086785a789!8m2!3d55.9205848!4d-3.3081193!16s%2Fg%2F11h937phzb!19sChIJ30XqR3PFh0gRiaeFZwiqfCE?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.920585,
-    "lng": -3.308119,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland",
-    "email": "enquiries@hermistonph.co.uk",
-    "emails": [
-      "enquiries@hermistonph.co.uk"
-    ],
-    "description": "Our hired plant includes Road Sweepers, Vogele pavers, Wirtgen planers. We serve all over Scotland."
-  },
-  {
-    "name": "SDH Plant Hire",
-    "address": "29 George Grieve Way, Edinburgh, Tranent, Tranent, EH33 2QT, GB",
-    "phone": "07429 145181",
-    "international_phone": "07429 145181",
-    "website": "http://sdhminidiggerhire.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/SDH+Plant+Hire/data=!4m7!3m6!1s0x4887bb4b4e40838f:0xd6e773801258143c!8m2!3d55.9340929!4d-2.9486969!16s%2Fg%2F11mtn0dddf!19sChIJj4NATku7h0gRPBRYEoBz59Y?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"8 am–3 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 55.934093,
-    "lng": -2.948697,
-    "found_in_location": "Edinburgh",
-    "found_with_query": "plant scotland",
-    "email": "sdhminidiggerhire@gmail.com",
-    "emails": [
-      "sdhminidiggerhire@gmail.com"
-    ],
-    "description": "SDH Plant Hire is a Groundworks covering Tranent, Livingstone, Dunfermline, Edinburgh and East Lothian, specialising in Mini Digger Hire, Self Drive and Operated Driver, Drainage Specialist, Demolition Specialist, Foundations and Site Management.",
-    "services": [
-      "Mini Digger"
-    ]
-  },
-  {
-    "name": "Boels Rental Ltd. Edinburgh",
-    "address": "2A Drovers Rd, Broxburn, EH52 5ND, GB",
-    "phone": "01506 862457",
-    "international_phone": "01506 862457",
-    "website": "https://www.boels.com/en-gb/?utm_source=GMBlisting&utm_medium=organic",
-    "google_maps_url": "https://www.google.com/maps/place/Boels+Rental+Ltd.+Edinburgh/data=!4m7!3m6!1s0x4887dae4915cb937:0xd72a388c5b75a801!8m2!3d55.9387625!4d-3.449911!16s%2Fg%2F11c18776lc!19sChIJN7lckeTah0gRAah1W4w4Ktc?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Construction machine rental service",
-    "lat": 55.938762,
-    "lng": -3.449911,
-    "found_in_location": "Livingston",
-    "found_with_query": "plant scotland",
-    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
-    "services": [
-      "Generator"
-    ]
-  },
-  {
-    "name": "Aggreko Aberdeen",
-    "address": "Altens Industrial Estate, Minto Dr, Aberdeen, AB12 3LW, GB",
-    "phone": "0345 824 7365",
-    "international_phone": "0345 824 7365",
-    "website": "https://www.aggreko.com/en-gb",
-    "google_maps_url": "https://www.google.com/maps/place/Aggreko+Aberdeen/data=!4m7!3m6!1s0x48840fba621053ef:0x7bd994f5326f588d!8m2!3d57.1167715!4d-2.0685212!16s%2Fg%2F1tcvtf5y!19sChIJ71MQYroPhEgRjVhvMvWU2Xs?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.116771,
-    "lng": -2.068521,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "description": "We design, deploy and optimise the engineered energy and temperature solutions that keep your world on.",
-    "services": [
-      "Generator"
-    ]
-  },
-  {
-    "name": "P Flannery Plant Hire",
-    "address": "Pitmedden Rd, Aberdeen, AB21 0HA, GB",
-    "phone": "01224 518028",
-    "international_phone": "01224 518028",
-    "website": "http://flanneryplanthire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/P+Flannery+Plant+Hire/data=!4m7!3m6!1s0x4884139c172e660b:0x203fabb761ea9566!8m2!3d57.2247767!4d-2.2071083!16s%2Fg%2F11h9kfwt02!19sChIJC2YuF5wThEgRZpXqYberPyA?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.224777,
-    "lng": -2.207108,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "info@flanneryplant.co.uk",
-    "emails": [
-      "info@flanneryplant.co.uk",
-      "accounts.receivable@flanneryplant.co.uk",
-      "webenquiries@flanneryplant.co.uk"
-    ],
-    "description": "Plant hire services across the UK from a respected family run company. Contact us today for expert advice!",
-    "services": [
-      "Dumper",
-      "Excavator",
-      "Roller",
-      "Telehandler"
-    ]
-  },
-  {
-    "name": "CS Plant Hire Ltd",
-    "address": "Boghead Farm, Aberdeen, AB51 0XD, GB",
-    "phone": "07538 823966",
-    "international_phone": "07538 823966",
-    "website": "http://www.csplanthire.com/",
-    "google_maps_url": "https://www.google.com/maps/place/CS+Plant+Hire+Ltd/data=!4m7!3m6!1s0x488469091b3a2253:0x331f50d72b15915!8m2!3d57.209136!4d-2.3283699!16s%2Fg%2F11pb0ym9v6!19sChIJUyI6GwlphEgRFVmxcg31MQM?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7:30 am–7 pm\"],\"Monday\":[\"7:30 am–7 pm\"],\"Saturday\":[\"7:30 am–7 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"7:30 am–7 pm\"],\"Tuesday\":[\"7:30 am–7 pm\"],\"Wednesday\":[\"7:30 am–7 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.209136,
-    "lng": -2.32837,
-    "found_in_location": "Aberdeen",
-    "found_with_query": "plant scotland",
-    "email": "csplanthireltd@gmail.com",
-    "emails": [
-      "csplanthireltd@gmail.com"
-    ],
-    "description": "Aberdeenshire Plant Hire, CS Plant Hire offer a variety of trailers, diggers, tracked barrows, mini dumpers, whackers and cement mixers we aim to offer a one stop shop for your plant hire needs at competitive prices.",
-    "services": [
-      "Concrete Mixer",
-      "Dumper"
-    ]
-  },
-  {
-    "name": "YES Hire Dundee",
-    "address": "Faraday St, Dundee, DD2 3UG, GB",
-    "phone": "01382 213271",
-    "international_phone": "01382 213271",
-    "website": "http://www.yourequipmentsolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/YES+Hire+Dundee/data=!4m7!3m6!1s0x20aa1ba705f1bf4f:0xf90475bf292d8e2a!8m2!3d56.4842013!4d-3.0174064!16s%2Fg%2F11tcw223m_!19sChIJT7_xBacbqiARKo4tKb91BPk?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.484201,
-    "lng": -3.017406,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland",
-    "email": "office@yourequipmentsolutions.co.uk",
-    "emails": [
-      "office@yourequipmentsolutions.co.uk"
-    ],
-    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
-    "services": [
-      "Breaker",
-      "Dumper",
-      "Excavator",
-      "Generator",
-      "Roller"
-    ]
-  },
-  {
-    "name": "Cherry Picker Hire Dundee",
-    "address": "Macadam Pl, Dundee, DD2, GB",
-    "phone": "07903 757613",
-    "international_phone": "07903 757613",
-    "website": "https://cherrypickerhire.scot/cherry-picker-hire-dundee/",
-    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Dundee/data=!4m7!3m6!1s0x488643f1fcf479af:0x8f7bd888dab64194!8m2!3d56.4833263!4d-3.0064854!16s%2Fg%2F11nmmm0qt7!19sChIJr3n0_PFDhkgRlEG22ojYe48?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.483326,
-    "lng": -3.006485,
-    "found_in_location": "Dundee",
-    "found_with_query": "plant scotland",
-    "email": "office@cherrypickerhire.scot",
-    "emails": [
-      "office@cherrypickerhire.scot"
-    ],
-    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
-    "services": [
-      "Cherry Picker"
-    ]
   },
   {
     "name": "Barnhill Cherrypickers ltd",
@@ -4479,68 +3831,25 @@
     "found_with_query": "plant scotland"
   },
   {
-    "name": "Gregory's Plant Hire & Civil Engineering Ltd",
-    "address": "Chairein Lodge, Cannich, Beauly, IV4 7LT, GB",
-    "phone": "07584 657093",
-    "international_phone": "07584 657093",
-    "website": "https://www.gregorysplantandcivils.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gregory%27s+Plant+Hire+%26+Civil+Engineering+Ltd/data=!4m7!3m6!1s0x488f1cebfe85c0b5:0x1ee32d054f7cf44a!8m2!3d57.3429684!4d-4.7619658!16s%2Fg%2F1q629jy3r!19sChIJtcCF_uscj0gRSvR8TwUt4x4?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 57.342968,
-    "lng": -4.761966,
-    "found_in_location": "Inverness",
-    "found_with_query": "plant scotland",
-    "email": "gregorysplant@outlook.com",
-    "emails": [
-      "gregorysplant@outlook.com"
-    ],
-    "description": "Gregorys Plant and Civils are a highly professional and experienced plant hire and civil engineering contractor offering clients a complete bespoke service"
-  },
-  {
-    "name": "Cherry Picker Hire Stirling",
-    "address": "Unit 12, 13 Munro Rd, Stirling, FK7 7UU, GB",
-    "phone": "07903 757613",
-    "international_phone": "07903 757613",
-    "website": "http://cherrypickerhire.scot/",
-    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Stirling/data=!4m7!3m6!1s0x4888637c1e0393ef:0x8252e8cf3b4a75b3!8m2!3d56.1145895!4d-3.9130164!16s%2Fg%2F11ng0vxvw3!19sChIJ75MDHnxjiEgRs3VKO8_oUoI?authuser=0&hl=en&rclk=1",
+    "name": "Boels Rental Ltd. Edinburgh",
+    "address": "2A Drovers Rd, Broxburn, EH52 5ND, GB",
+    "phone": "01506 862457",
+    "international_phone": "01506 862457",
+    "website": "https://www.boels.com/en-gb/?utm_source=GMBlisting&utm_medium=organic",
+    "google_maps_url": "https://www.google.com/maps/place/Boels+Rental+Ltd.+Edinburgh/data=!4m7!3m6!1s0x4887dae4915cb937:0xd72a388c5b75a801!8m2!3d55.9387625!4d-3.449911!16s%2Fg%2F11c18776lc!19sChIJN7lckeTah0gRAah1W4w4Ktc?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "{}",
-    "types": "Plant and machinery hire",
-    "lat": 56.11459,
-    "lng": -3.913016,
-    "found_in_location": "Stirling",
+    "types": "Construction machine rental service",
+    "lat": 55.938762,
+    "lng": -3.449911,
+    "found_in_location": "Livingston",
     "found_with_query": "plant scotland",
-    "email": "office@cherrypickerhire.scot",
-    "emails": [
-      "office@cherrypickerhire.scot"
-    ],
-    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
+    "description": "Boels Rental is one of the largest hire providers of equipment & tools in Europe. With over 2,500 products, we provide the right tools for every need.",
     "services": [
-      "Cherry Picker"
+      "Generator"
     ]
-  },
-  {
-    "name": "Ally Blyth Plant Hire",
-    "address": "Ruthvenfield Rd, Perth, Perth, PH1 3XF, GB",
-    "phone": "01738 479975",
-    "international_phone": "01738 479975",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Ally+Blyth+Plant+Hire/data=!4m7!3m6!1s0x48863b765436bef3:0x30e4727f73638484!8m2!3d56.4205391!4d-3.4681988!16s%2Fg%2F11f5_l0061!19sChIJ8742VHY7hkgRhIRjc39y5DA?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
-    "types": "Plant and machinery hire",
-    "lat": 56.420539,
-    "lng": -3.468199,
-    "found_in_location": "Perth",
-    "found_with_query": "plant scotland"
   },
   {
     "name": "C Foster Plant Hire Ltd",
@@ -4569,6 +3878,232 @@
     ]
   },
   {
+    "name": "CS Plant Hire Ltd",
+    "address": "Boghead Farm, Aberdeen, AB51 0XD, GB",
+    "phone": "07538 823966",
+    "international_phone": "07538 823966",
+    "website": "http://www.csplanthire.com/",
+    "google_maps_url": "https://www.google.com/maps/place/CS+Plant+Hire+Ltd/data=!4m7!3m6!1s0x488469091b3a2253:0x331f50d72b15915!8m2!3d57.209136!4d-2.3283699!16s%2Fg%2F11pb0ym9v6!19sChIJUyI6GwlphEgRFVmxcg31MQM?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7:30 am–7 pm\"],\"Monday\":[\"7:30 am–7 pm\"],\"Saturday\":[\"7:30 am–7 pm\"],\"Sunday\":[\"10 am–5 pm\"],\"Thursday\":[\"7:30 am–7 pm\"],\"Tuesday\":[\"7:30 am–7 pm\"],\"Wednesday\":[\"7:30 am–7 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.209136,
+    "lng": -2.32837,
+    "found_in_location": "Aberdeen",
+    "found_with_query": "plant scotland",
+    "email": "csplanthireltd@gmail.com",
+    "emails": [
+      "csplanthireltd@gmail.com"
+    ],
+    "description": "Aberdeenshire Plant Hire, CS Plant Hire offer a variety of trailers, diggers, tracked barrows, mini dumpers, whackers and cement mixers we aim to offer a one stop shop for your plant hire needs at competitive prices.",
+    "services": [
+      "Concrete Mixer",
+      "Dumper"
+    ]
+  },
+  {
+    "name": "Cherry Picker Hire Dundee",
+    "address": "Macadam Pl, Dundee, DD2, GB",
+    "phone": "07903 757613",
+    "international_phone": "07903 757613",
+    "website": "https://cherrypickerhire.scot/cherry-picker-hire-dundee/",
+    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Dundee/data=!4m7!3m6!1s0x488643f1fcf479af:0x8f7bd888dab64194!8m2!3d56.4833263!4d-3.0064854!16s%2Fg%2F11nmmm0qt7!19sChIJr3n0_PFDhkgRlEG22ojYe48?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–6 pm\"],\"Monday\":[\"9 am–6 pm\"],\"Saturday\":[\"10 am–3 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–6 pm\"],\"Tuesday\":[\"9 am–6 pm\"],\"Wednesday\":[\"9 am–6 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.483326,
+    "lng": -3.006485,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "office@cherrypickerhire.scot",
+    "emails": [
+      "office@cherrypickerhire.scot"
+    ],
+    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
+    "services": [
+      "Cherry Picker"
+    ]
+  },
+  {
+    "name": "Cherry Picker Hire Stirling",
+    "address": "Unit 12, 13 Munro Rd, Stirling, FK7 7UU, GB",
+    "phone": "07903 757613",
+    "international_phone": "07903 757613",
+    "website": "http://cherrypickerhire.scot/",
+    "google_maps_url": "https://www.google.com/maps/place/Cherry+Picker+Hire+Stirling/data=!4m7!3m6!1s0x4888637c1e0393ef:0x8252e8cf3b4a75b3!8m2!3d56.1145895!4d-3.9130164!16s%2Fg%2F11ng0vxvw3!19sChIJ75MDHnxjiEgRs3VKO8_oUoI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 56.11459,
+    "lng": -3.913016,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland",
+    "email": "office@cherrypickerhire.scot",
+    "emails": [
+      "office@cherrypickerhire.scot"
+    ],
+    "description": "Cherry picker hire for Dundee & the surrounding areas. Our 20 meter cherry picker will give you access to virtually anywhere in Dundee.",
+    "services": [
+      "Cherry Picker"
+    ]
+  },
+  {
+    "name": "Glasgow Digger Hire",
+    "address": "15 Davidson St, Glasgow, G40 4NS, GB",
+    "phone": "07415 059181",
+    "international_phone": "07415 059181",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Glasgow+Digger+Hire/data=!4m7!3m6!1s0x488841f7c7987a7f:0xe5bbcb0cb1b94c6d!8m2!3d55.8396886!4d-4.2152337!16s%2Fg%2F11xdp482tx!19sChIJf3qYx_dBiEgRbUy5sQzLu-U?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Excavating contractor",
+    "lat": 55.839689,
+    "lng": -4.215234,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Gregory's Plant Hire & Civil Engineering Ltd",
+    "address": "Chairein Lodge, Cannich, Beauly, IV4 7LT, GB",
+    "phone": "07584 657093",
+    "international_phone": "07584 657093",
+    "website": "https://www.gregorysplantandcivils.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Gregory%27s+Plant+Hire+%26+Civil+Engineering+Ltd/data=!4m7!3m6!1s0x488f1cebfe85c0b5:0x1ee32d054f7cf44a!8m2!3d57.3429684!4d-4.7619658!16s%2Fg%2F1q629jy3r!19sChIJtcCF_uscj0gRSvR8TwUt4x4?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 57.342968,
+    "lng": -4.761966,
+    "found_in_location": "Inverness",
+    "found_with_query": "plant scotland",
+    "email": "gregorysplant@outlook.com",
+    "emails": [
+      "gregorysplant@outlook.com"
+    ],
+    "description": "Gregorys Plant and Civils are a highly professional and experienced plant hire and civil engineering contractor offering clients a complete bespoke service"
+  },
+  {
+    "name": "H.E. Services (Plant Hire) Ltd",
+    "address": "Portcullis Estate, Milton of Campsie, Glasgow, G66 8AQ, GB",
+    "phone": "0141 775 0988",
+    "international_phone": "0141 775 0988",
+    "website": "http://www.heservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/H.E.+Services+%28Plant+Hire%29+Ltd/data=!4m7!3m6!1s0x48885d55312ddac7:0x3b49a8e7d4f184f2!8m2!3d55.9567138!4d-4.1209335!16s%2Fg%2F1tsypc18!19sChIJx9otMVVdiEgR8oTx1OeoSTs?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 55.956714,
+    "lng": -4.120933,
+    "found_in_location": "Glasgow",
+    "found_with_query": "plant scotland",
+    "email": "credit.control@heservices.co.uk",
+    "emails": [
+      "credit.control@heservices.co.uk",
+      "invoice.queries@heservices.co.uk",
+      "nhc@heservices.co.uk"
+    ],
+    "description": "The largest specialist UK Plant Hire Company, providing all types of plant with 11 strategically located depots nationwide. Call 0208 804 2000",
+    "services": [
+      "Dumper",
+      "Excavator",
+      "Mini Digger",
+      "Roller",
+      "Skid Steer",
+      "Telehandler"
+    ]
+  },
+  {
+    "name": "Hardwicks grab hire",
+    "address": "Roman Rd, Stirling, FK7 8AS, GB",
+    "phone": "07772 713561",
+    "international_phone": "07772 713561",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hardwicks+grab+hire/data=!4m7!3m6!1s0x488863ed331ec42f:0x25fc1318b3eafdb!8m2!3d56.0636187!4d-3.9054812!16s%2Fg%2F11hnx0cj62!19sChIJL8QeM-1jiEgR268-izHBXwI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Construction Company",
+    "lat": 56.063619,
+    "lng": -3.905481,
+    "found_in_location": "Stirling",
+    "found_with_query": "plant scotland"
+  },
+  {
+    "name": "Hermiston Plant Hire Ltd",
+    "address": "3 E Hermiston, Farm, Currie, EH14 4AJ, GB",
+    "phone": "0131 453 4133",
+    "international_phone": "0131 453 4133",
+    "website": "http://www.hermistonplanthire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Hermiston+Plant+Hire+Ltd/data=!4m7!3m6!1s0x4887c57347ea45df:0x217caa086785a789!8m2!3d55.9205848!4d-3.3081193!16s%2Fg%2F11h937phzb!19sChIJ30XqR3PFh0gRiaeFZwiqfCE?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"7 am–6 pm\"],\"Sunday\":[\"7 am–6 pm\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 55.920585,
+    "lng": -3.308119,
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "enquiries@hermistonph.co.uk",
+    "emails": [
+      "enquiries@hermistonph.co.uk"
+    ],
+    "description": "Our hired plant includes Road Sweepers, Vogele pavers, Wirtgen planers. We serve all over Scotland."
+  },
+  {
+    "name": "JW Plant Hire",
+    "address": "66 Love St, Paisley, PA3 2EH, GB",
+    "phone": "07903 673887",
+    "international_phone": "07903 673887",
+    "website": "https://www.jwplanthire.co.uk/contact.html",
+    "google_maps_url": "https://www.google.com/maps/place/JW+Plant+Hire/data=!4m7!3m6!1s0x48884935c236aaab:0x4a119cde64baa3b0!8m2!3d55.8518264!4d-4.4257537!16s%2Fg%2F11vr_3xj16!19sChIJq6o2wjVJiEgRsKO6ZN6cEUo?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{}",
+    "types": "Plant and machinery hire",
+    "lat": 55.851826,
+    "lng": -4.425754,
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "email": "bookings@jwplanthire.co.uk",
+    "emails": [
+      "bookings@jwplanthire.co.uk"
+    ],
+    "description": "If you are interested in any of our Plant Hire Equipment then please fill out the form below."
+  },
+  {
+    "name": "Jw Plant Hire Services Ltd",
+    "address": "2 Wellington St, Paisley, PA3 2JQ, GB",
+    "phone": "07415 032776",
+    "international_phone": "07415 032776",
+    "website": "https://find-and-update.company-information.service.gov.uk/company/SC540881",
+    "google_maps_url": "https://www.google.com/maps/place/Jw+Plant+Hire+Services+Ltd/data=!4m7!3m6!1s0x48884935c2243f45:0x24730b722685b72!8m2!3d55.8496693!4d-4.430973!16s%2Fg%2F11t4f0qb98!19sChIJRT8kwjVJiEgRcltoIrcwRwI?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"8 am–5 pm\"],\"Monday\":[\"8 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8 am–5 pm\"],\"Tuesday\":[\"8 am–5 pm\"],\"Wednesday\":[\"8 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 55.849669,
+    "lng": -4.430973,
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "description": "J W PLANT HIRE SERVICES LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+  },
+  {
     "name": "L Lynch Plant Hire & Haulage Ltd",
     "address": "Dalcross Industrial Estate, Inverness, IV2 7XB, GB",
     "phone": "01463 211988",
@@ -4587,44 +4122,135 @@
     "description": "Discover National Plant Hire, Transport & Haulage Services"
   },
   {
-    "name": "SRL Traffic Systems | Inverness",
-    "address": "36H Shore St, Inverness, IV1 1NF, GB",
-    "phone": "07711 594364",
-    "international_phone": "07711 594364",
-    "website": "http://srl.co.uk/?utm_source=google&utm_medium=business-profile-listing&utm_campaign=inverness-depot",
-    "google_maps_url": "https://www.google.com/maps/place/SRL+Traffic+Systems+%7C+Inverness/data=!4m7!3m6!1s0x488f778deb8c2b05:0x8448ef148f7e5fa3!8m2!3d57.4837148!4d-4.2284406!16s%2Fg%2F11k03b38qj!19sChIJBSuM6413j0gRo19-jxTvSIQ?authuser=0&hl=en&rclk=1",
+    "name": "P Flannery Plant Hire",
+    "address": "Pitmedden Rd, Aberdeen, AB21 0HA, GB",
+    "phone": "01224 518028",
+    "international_phone": "01224 518028",
+    "website": "http://flanneryplanthire.com/",
+    "google_maps_url": "https://www.google.com/maps/place/P+Flannery+Plant+Hire/data=!4m7!3m6!1s0x4884139c172e660b:0x203fabb761ea9566!8m2!3d57.2247767!4d-2.2071083!16s%2Fg%2F11h9kfwt02!19sChIJC2YuF5wThEgRZpXqYberPyA?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"7 am–1 pm\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 57.483715,
-    "lng": -4.228441,
-    "found_in_location": "Inverness",
+    "lat": 57.224777,
+    "lng": -2.207108,
+    "found_in_location": "Aberdeen",
     "found_with_query": "plant scotland",
-    "description": "SRL Traffic Systems is a manufacturer and supplier of intelligent traffic systems (ITS) - inc. portable traffic lights, VMS and portable CCTV",
+    "email": "info@flanneryplant.co.uk",
+    "emails": [
+      "info@flanneryplant.co.uk",
+      "accounts.receivable@flanneryplant.co.uk",
+      "webenquiries@flanneryplant.co.uk"
+    ],
+    "description": "Plant hire services across the UK from a respected family run company. Contact us today for expert advice!",
     "services": [
-      "Generator",
+      "Dumper",
+      "Excavator",
+      "Roller",
       "Telehandler"
     ]
   },
   {
-    "name": "AB2000 Plant and Crane Hire Inverness",
-    "address": "Balmakeith Industrial Estate, Unit 4 Tom Semple Rd, Nairn, IV12 5QR, GB",
-    "phone": "01667 456702",
-    "international_phone": "01667 456702",
-    "website": "http://www.ab2000.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/AB2000+Plant+and+Crane+Hire+Inverness/data=!4m7!3m6!1s0x488f76b46a5ea3fb:0x2362942f8c0373ac!8m2!3d57.584026!4d-3.852959!16s%2Fg%2F12hkhhzp6!19sChIJ-6NearR2j0gRrHMDjC-UYiM?authuser=0&hl=en&rclk=1",
+    "name": "SDH Plant Hire",
+    "address": "29 George Grieve Way, Edinburgh, Tranent, Tranent, EH33 2QT, GB",
+    "phone": "07429 145181",
+    "international_phone": "07429 145181",
+    "website": "http://sdhminidiggerhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/SDH+Plant+Hire/data=!4m7!3m6!1s0x4887bb4b4e40838f:0xd6e773801258143c!8m2!3d55.9340929!4d-2.9486969!16s%2Fg%2F11mtn0dddf!19sChIJj4NATku7h0gRPBRYEoBz59Y?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
-    "opening_hours": "{\"Friday\":[\"8 am–6 pm\"],\"Monday\":[\"8 am–6 pm\"],\"Saturday\":[\"8 am–6 pm\"],\"Sunday\":[\"8 am–6 pm\"],\"Thursday\":[\"8 am–6 pm\"],\"Tuesday\":[\"8 am–6 pm\"],\"Wednesday\":[\"8 am–6 pm\"]}",
+    "opening_hours": "{\"Friday\":[\"7 am–6 pm\"],\"Monday\":[\"7 am–6 pm\"],\"Saturday\":[\"8 am–3 pm\"],\"Sunday\":[\"8 am–3 pm\"],\"Thursday\":[\"7 am–6 pm\"],\"Tuesday\":[\"7 am–6 pm\"],\"Wednesday\":[\"7 am–6 pm\"]}",
     "types": "Plant and machinery hire",
-    "lat": 57.584026,
-    "lng": -3.852959,
-    "found_in_location": "Inverness",
+    "lat": 55.934093,
+    "lng": -2.948697,
+    "found_in_location": "Edinburgh",
     "found_with_query": "plant scotland",
-    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+    "email": "sdhminidiggerhire@gmail.com",
+    "emails": [
+      "sdhminidiggerhire@gmail.com"
+    ],
+    "description": "SDH Plant Hire is a Groundworks covering Tranent, Livingstone, Dunfermline, Edinburgh and East Lothian, specialising in Mini Digger Hire, Self Drive and Operated Driver, Drainage Specialist, Demolition Specialist, Foundations and Site Management.",
+    "services": [
+      "Mini Digger"
+    ]
+  },
+  {
+    "name": "TG Tool Hire",
+    "address": "Unit 7, No.1 Cargo Building, Campsie Drive, Glasgow Airport, Paisley, PA3 2SG, GB",
+    "phone": "0141 374 2395",
+    "international_phone": "0141 374 2395",
+    "website": "http://www.tgtoolhire.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/TG+Tool+Hire/data=!4m7!3m6!1s0x48884ec860cd62df:0xffe9a605661c2792!8m2!3d55.8662843!4d-4.4269712!16s%2Fg%2F11cnc8gvk7!19sChIJ32LNYMhOiEgRkiccZgWm6f8?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"9 am–5 pm\"],\"Monday\":[\"9 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 am–5 pm\"],\"Tuesday\":[\"9 am–5 pm\"],\"Wednesday\":[\"9 am–5 pm\"]}",
+    "types": "Tool rental service",
+    "lat": 55.866284,
+    "lng": -4.426971,
+    "found_in_location": "Paisley",
+    "found_with_query": "plant scotland",
+    "description": "TG Tool Hire is an independant Scottish company hiring tools, plant and equipment to customers throughout Renfrewshire"
+  },
+  {
+    "name": "YES Hire Dundee",
+    "address": "Faraday St, Dundee, DD2 3UG, GB",
+    "phone": "01382 213271",
+    "international_phone": "01382 213271",
+    "website": "http://www.yourequipmentsolutions.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/YES+Hire+Dundee/data=!4m7!3m6!1s0x20aa1ba705f1bf4f:0xf90475bf292d8e2a!8m2!3d56.4842013!4d-3.0174064!16s%2Fg%2F11tcw223m_!19sChIJT7_xBacbqiARKo4tKb91BPk?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 56.484201,
+    "lng": -3.017406,
+    "found_in_location": "Dundee",
+    "found_with_query": "plant scotland",
+    "email": "office@yourequipmentsolutions.co.uk",
+    "emails": [
+      "office@yourequipmentsolutions.co.uk"
+    ],
+    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller"
+    ]
+  },
+  {
+    "name": "YES Your Equipment Solutions (Edinburgh)",
+    "address": "Bilston Glen Industrial Estate, Unit 5 Dryden Pl, Loanhead, EH20 9HP, GB",
+    "phone": "0131 285 1350",
+    "international_phone": "0131 285 1350",
+    "website": "https://yourequipmentsolutions.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/YES+Your+Equipment+Solutions+%28Edinburgh%29/data=!4m7!3m6!1s0x4887c1e1b29366b3:0x73c70d4fcd9a7849!8m2!3d55.8726623!4d-3.1725373!16s%2Fg%2F11n479vz9_!19sChIJs2aTsuHBh0gRSXiazU8Nx3M?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "{\"Friday\":[\"7 am–5 pm\"],\"Monday\":[\"7 am–5 pm\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"7 am–5 pm\"],\"Tuesday\":[\"7 am–5 pm\"],\"Wednesday\":[\"7 am–5 pm\"]}",
+    "types": "Plant and machinery hire",
+    "lat": 55.872662,
+    "lng": -3.172537,
+    "found_in_location": "Edinburgh",
+    "found_with_query": "plant scotland",
+    "email": "office@yourequipmentsolutions.co.uk",
+    "emails": [
+      "office@yourequipmentsolutions.co.uk"
+    ],
+    "description": "Welcome to Your Equipment Solutions Ltd, since 2012 we have become your one-stop shop for all Plant Tool Access and Welfare Requirements, from Small drills and Breakers to Excavators and Dumpers we have you covered for any job you need to do.",
+    "services": [
+      "Breaker",
+      "Dumper",
+      "Excavator",
+      "Generator",
+      "Roller"
+    ]
   },
   {
     "name": "easyToolhire Falkirk - Mini Digger, Scaffolding, Scissor Lift, Wacker Plate Hire",
@@ -4647,22 +4273,5 @@
       "hire@easytoolhire.com"
     ],
     "description": "We're not accepting any new hire orders at the moment and apologise for any inconvenience."
-  },
-  {
-    "name": "Hardwicks grab hire",
-    "address": "Roman Rd, Stirling, FK7 8AS, GB",
-    "phone": "07772 713561",
-    "international_phone": "07772 713561",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Hardwicks+grab+hire/data=!4m7!3m6!1s0x488863ed331ec42f:0x25fc1318b3eafdb!8m2!3d56.0636187!4d-3.9054812!16s%2Fg%2F11hnx0cj62!19sChIJL8QeM-1jiEgR268-izHBXwI?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "{}",
-    "types": "Construction Company",
-    "lat": 56.063619,
-    "lng": -3.905481,
-    "found_in_location": "Stirling",
-    "found_with_query": "plant scotland"
   }
 ]

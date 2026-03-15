@@ -205,7 +205,7 @@
     "emails": [
       "andy@pest-detective.com"
     ],
-    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you\u2019ll appreciate the results.",
+    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you’ll appreciate the results.",
     "services": [
       "Bird & Pigeon Control",
       "Flea Treatment",
@@ -445,7 +445,7 @@
     "emails": [
       "rdbpestcontrol@outlook.com"
     ],
-    "description": "Qualified & Insured \u2714 Price List \u2714 100% Satisfaction Guarantee \u2714 Pest control in Rugby, affordable pest control solutions to domestic & commercial clients in Rugby, Lutterworth & Coventry. Rats, mice, wasps, bees, fleas, ants, birds. \u260e 07922 091459",
+    "description": "Qualified & Insured ✔ Price List ✔ 100% Satisfaction Guarantee ✔ Pest control in Rugby, affordable pest control solutions to domestic & commercial clients in Rugby, Lutterworth & Coventry. Rats, mice, wasps, bees, fleas, ants, birds. ☎ 07922 091459",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
@@ -507,7 +507,7 @@
     "emails": [
       "info@districtpestcontrol.co.uk"
     ],
-    "description": "Our highly trained and well-qualified pest technicians will conduct a thorough domestic inspection of your property and will recommend suitable pest control treatements and solutions to prevent the problem. Antrim Pest Control\u2122 Call us Now for a fast response! 028 9433 1617 Antrim Pest Control...",
+    "description": "Our highly trained and well-qualified pest technicians will conduct a thorough domestic inspection of your property and will recommend suitable pest control treatements and solutions to prevent the problem. Antrim Pest Control™ Call us Now for a fast response! 028 9433 1617 Antrim Pest Control...",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
@@ -536,31 +536,6 @@
       "Cockroach Control",
       "Flea Treatment",
       "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Hydro-dry Environmental & Property Solutions",
-    "address": "industrial estate, Unit 6 Pool Rd, Nuneaton, CV10 9AE, GB",
-    "phone": "024 7771 7043",
-    "international_phone": "024 7771 7043",
-    "website": "http://www.hydro-dry.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Hydro-dry+Environmental+%26+Property+Solutions/data=!4m7!3m6!1s0x48775339ae66d8a1:0xe6da48b2bfb10a8d!8m2!3d52.52615!4d-1.4942311!16s%2Fg%2F11n5shwdjl!19sChIJodhmrjlTd0gRjQqxv7JI2uY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 104,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Environmental health service",
-    "lat": 52.52615,
-    "lng": -1.494231,
-    "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands",
-    "email": "info@hydro-dry.co.uk",
-    "emails": [
-      "info@hydro-dry.co.uk"
-    ],
-    "description": "Specialist biohazard and trauma cleaning across Nuneaton, Coventry, Tamworth, Midlands Rapid 2-hour response. IICRC-Qualified & fully compliant.",
-    "services": [
-      "Fumigation"
     ]
   },
   {
@@ -604,14 +579,31 @@
     "lng": -2.041196,
     "found_in_location": "Halesowen",
     "found_with_query": "pest control midlands",
-    "services": [
-      "Wasp Nest Removal"
-    ],
     "email": "info@waspcontrolservices.co.uk",
     "emails": [
       "info@waspcontrolservices.co.uk"
     ],
-    "description": "Here at Wasp Control Services, we offer wasp eradication treatments in both residential and commercial settings, with prices starting from just \u00a370. Based in West Midlands."
+    "description": "Here at Wasp Control Services, we offer wasp eradication treatments in both residential and commercial settings, with prices starting from just £70. Based in West Midlands.",
+    "services": [
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Pestforce Pest Control Grantham | Newark",
+    "address": "69 Princess Dr, Grantham, NG31 9QA, GB",
+    "phone": "01476 245015",
+    "international_phone": "01476 245015",
+    "website": "https://www.pest-force.co.uk/GranthamAndNotts/",
+    "google_maps_url": "https://www.google.com/maps/place/Pestforce+Pest+Control+Grantham+%7C+Newark/data=!4m7!3m6!1s0x487831a7c33ecdaf:0xa1752840bab067f2!8m2!3d52.9225157!4d-0.6239571!16s%2Fg%2F11f9ct9km5!19sChIJr80-w6cxeEgR8mewukAodaE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 88,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7:30 am-7 pm; Tuesday: 7:30 am-7 pm; Wednesday: 7:30 am-7 pm; Thursday: 7:30 am-7 pm; Friday: 7:30 am-7 pm; Saturday: 7:30 am-7 pm; Sunday: 7:30 am-7 pm",
+    "types": "Pest control service",
+    "lat": 52.922516,
+    "lng": -0.623957,
+    "found_in_location": "Grantham",
+    "found_with_query": "pest control midlands"
   },
   {
     "name": "Pestverminator",
@@ -639,23 +631,6 @@
       "Commercial Pest Control",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "Pestforce Pest Control Grantham | Newark",
-    "address": "69 Princess Dr, Grantham, NG31 9QA, GB",
-    "phone": "01476 245015",
-    "international_phone": "01476 245015",
-    "website": "https://www.pest-force.co.uk/GranthamAndNotts/",
-    "google_maps_url": "https://www.google.com/maps/place/Pestforce+Pest+Control+Grantham+%7C+Newark/data=!4m7!3m6!1s0x487831a7c33ecdaf:0xa1752840bab067f2!8m2!3d52.9225157!4d-0.6239571!16s%2Fg%2F11f9ct9km5!19sChIJr80-w6cxeEgR8mewukAodaE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 88,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 am-7 pm; Tuesday: 7:30 am-7 pm; Wednesday: 7:30 am-7 pm; Thursday: 7:30 am-7 pm; Friday: 7:30 am-7 pm; Saturday: 7:30 am-7 pm; Sunday: 7:30 am-7 pm",
-    "types": "Pest control service",
-    "lat": 52.922516,
-    "lng": -0.623957,
-    "found_in_location": "Grantham",
-    "found_with_query": "pest control midlands"
   },
   {
     "name": "Allen Pest Control",
@@ -783,7 +758,7 @@
     "emails": [
       "contact@emergencyservicesgroup.co.uk"
     ],
-    "description": "Fast, reliable pest control services in Nottingham. 24/7 experts with competitive pricing \u2014 we'll beat any like-for-like quote. Call us today!",
+    "description": "Fast, reliable pest control services in Nottingham. 24/7 experts with competitive pricing — we'll beat any like-for-like quote. Call us today!",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
@@ -810,6 +785,12 @@
     "lng": -2.161685,
     "found_in_location": "Stoke-on-Trent",
     "found_with_query": "pest control midlands",
+    "email": "info@pgnw.co.uk",
+    "emails": [
+      "info@pgnw.co.uk",
+      "john@doe.com"
+    ],
+    "description": "Expert pest control services by PGNW, from wasp nest removal to full commercial pest prevention contracts. Over a decade of experience ensuring effective pest control solutions. Contact us for reliable pest management",
     "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
@@ -817,13 +798,7 @@
       "Mole Control",
       "Squirrel Control",
       "Wasp Nest Removal"
-    ],
-    "email": "info@pgnw.co.uk",
-    "emails": [
-      "info@pgnw.co.uk",
-      "john@doe.com"
-    ],
-    "description": "Expert pest control services by PGNW, from wasp nest removal to full commercial pest prevention contracts. Over a decade of experience ensuring effective pest control solutions. Contact us for reliable pest management"
+    ]
   },
   {
     "name": "Aries Pest Control",
@@ -965,31 +940,6 @@
     ]
   },
   {
-    "name": "Glebe Pest Control",
-    "address": "Brampton Wood Ln, Desborough, Kettering, NN14 2SJ, GB",
-    "phone": "07826 924455",
-    "international_phone": "07826 924455",
-    "website": "http://www.glebepestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Glebe+Pest+Control/data=!4m7!3m6!1s0x48777664790cf99d:0xd277dfde75dcf00c!8m2!3d52.458218!4d-0.832372!16s%2Fg%2F11bymt7fr3!19sChIJnfkMeWR2d0gRDPDcdd7fd9I?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 48,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.458218,
-    "lng": -0.832372,
-    "found_in_location": "Desborough, Kettering",
-    "found_with_query": "pest control midlands",
-    "email": "glebepestcontrol@gmail.com",
-    "emails": [
-      "glebepestcontrol@gmail.com"
-    ],
-    "description": "Glebe Pest Control is a locally based, strongly recommended, highly trained pest company that prides itself on outstanding customer feedback and recommendation. With many years experience in the sector, we offer fully insured and guaranteed services to homes and business covering all manner of...",
-    "services": [
-      "Emergency Pest Control"
-    ]
-  },
-  {
     "name": "EM Pest Control",
     "address": "16 Welford Rd, Shearsby, Lutterworth, LE17 6PE, GB",
     "phone": "07743 475519",
@@ -1021,6 +971,31 @@
       "Rat & Mouse Control",
       "Squirrel Control",
       "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Glebe Pest Control",
+    "address": "Brampton Wood Ln, Desborough, Kettering, NN14 2SJ, GB",
+    "phone": "07826 924455",
+    "international_phone": "07826 924455",
+    "website": "http://www.glebepestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Glebe+Pest+Control/data=!4m7!3m6!1s0x48777664790cf99d:0xd277dfde75dcf00c!8m2!3d52.458218!4d-0.832372!16s%2Fg%2F11bymt7fr3!19sChIJnfkMeWR2d0gRDPDcdd7fd9I?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 48,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.458218,
+    "lng": -0.832372,
+    "found_in_location": "Desborough, Kettering",
+    "found_with_query": "pest control midlands",
+    "email": "glebepestcontrol@gmail.com",
+    "emails": [
+      "glebepestcontrol@gmail.com"
+    ],
+    "description": "Glebe Pest Control is a locally based, strongly recommended, highly trained pest company that prides itself on outstanding customer feedback and recommendation. With many years experience in the sector, we offer fully insured and guaranteed services to homes and business covering all manner of...",
+    "services": [
+      "Emergency Pest Control"
     ]
   },
   {
@@ -1093,15 +1068,15 @@
     "lng": -1.126869,
     "found_in_location": "Leicester",
     "found_with_query": "pest control midlands",
-    "services": [
-      "Bed Bug Treatment",
-      "Fumigation"
-    ],
     "email": "contact@bedbugexperts.co.uk",
     "emails": [
       "contact@bedbugexperts.co.uk"
     ],
-    "description": "Get rid of bedbugs with expert extermination services. Bedbug Experts offers professional and reliable pest control solutions. Call us today!"
+    "description": "Get rid of bedbugs with expert extermination services. Bedbug Experts offers professional and reliable pest control solutions. Call us today!",
+    "services": [
+      "Bed Bug Treatment",
+      "Fumigation"
+    ]
   },
   {
     "name": "Search UK Pest Control Ltd",
@@ -1215,23 +1190,6 @@
     ]
   },
   {
-    "name": "Protech Wasp And Pest Control - Derby",
-    "address": "28 Green Ave, Chellaston, Derby, DE73 6TE, GB",
-    "phone": "07753 326451",
-    "international_phone": "07753 326451",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Protech+Wasp+And+Pest+Control+-+Derby/data=!4m7!3m6!1s0x4879f07707e500a9:0xb359e1eb510696d3!8m2!3d52.8682435!4d-1.4339943!16s%2Fg%2F11nnw45f3l!19sChIJqQDlB3fweUgR05YGUevhWbM?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 36,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: 7 am-7 pm; Sunday: 7 am-7 pm",
-    "types": "Pest control service",
-    "lat": 52.868243,
-    "lng": -1.433994,
-    "found_in_location": "Derby",
-    "found_with_query": "pest control midlands"
-  },
-  {
     "name": "Pest Control Services And Maintenance",
     "address": "2b Argyll Rd, derby, DE5 3DW, GB",
     "phone": "07366 395842",
@@ -1259,6 +1217,23 @@
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
+  },
+  {
+    "name": "Protech Wasp And Pest Control - Derby",
+    "address": "28 Green Ave, Chellaston, Derby, DE73 6TE, GB",
+    "phone": "07753 326451",
+    "international_phone": "07753 326451",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Protech+Wasp+And+Pest+Control+-+Derby/data=!4m7!3m6!1s0x4879f07707e500a9:0xb359e1eb510696d3!8m2!3d52.8682435!4d-1.4339943!16s%2Fg%2F11nnw45f3l!19sChIJqQDlB3fweUgR05YGUevhWbM?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 36,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: 7 am-7 pm; Sunday: 7 am-7 pm",
+    "types": "Pest control service",
+    "lat": 52.868243,
+    "lng": -1.433994,
+    "found_in_location": "Derby",
+    "found_with_query": "pest control midlands"
   },
   {
     "name": "JCS Pest Control In Nottingham",
@@ -1303,42 +1278,15 @@
     "lng": -0.601915,
     "found_in_location": "Rushden",
     "found_with_query": "pest control midlands",
-    "services": [
-      "Commercial Pest Control",
-      "Emergency Pest Control",
-      "Rat & Mouse Control"
-    ],
     "email": "catchit@theratcatcher.co.uk",
     "emails": [
       "catchit@theratcatcher.co.uk"
     ],
-    "description": "When the unfortunate happens we offer a same day discrete service. We will not only remove pests we will provide you with a full survey detailing any issues so you can stop the problem happening again - All included!"
-  },
-  {
-    "name": "Leo Pest Control",
-    "address": "Enterprise Way, Leominster, HR6 0LZ, GB",
-    "phone": "01568 615249",
-    "international_phone": "01568 615249",
-    "website": "http://www.leopestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Leo+Pest+Control/data=!4m7!3m6!1s0x4870471a6f3a8607:0x844fd3525bddfe03!8m2!3d52.2159923!4d-2.7311773!16s%2Fg%2F1tj9ssf5!19sChIJB4Y6bxpHcEgRA_7dW1LTT4Q?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 28,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-4:30 pm; Tuesday: 8:30 am-4:30 pm; Wednesday: 8:30 am-4:30 pm; Thursday: 8:30 am-4:30 pm; Friday: 8:30 am-4:30 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.215992,
-    "lng": -2.731177,
-    "found_in_location": "Leominster",
-    "found_with_query": "pest control midlands",
-    "email": "email@leopestcontrol.co.uk",
-    "emails": [
-      "email@leopestcontrol.co.uk"
-    ],
-    "description": "Services are provided to food and beverage manufacturer\u2019s, commercial manufacturer\u2019s, warehousing, farms, estates, historical buildings, retailers, housing associations, councils, schools and domestic houses.",
+    "description": "When the unfortunate happens we offer a same day discrete service. We will not only remove pests we will provide you with a full survey detailing any issues so you can stop the problem happening again - All included!",
     "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Moth Treatment"
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Rat & Mouse Control"
     ]
   },
   {
@@ -1372,6 +1320,33 @@
       "Rat & Mouse Control",
       "Squirrel Control",
       "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Leo Pest Control",
+    "address": "Enterprise Way, Leominster, HR6 0LZ, GB",
+    "phone": "01568 615249",
+    "international_phone": "01568 615249",
+    "website": "http://www.leopestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Leo+Pest+Control/data=!4m7!3m6!1s0x4870471a6f3a8607:0x844fd3525bddfe03!8m2!3d52.2159923!4d-2.7311773!16s%2Fg%2F1tj9ssf5!19sChIJB4Y6bxpHcEgRA_7dW1LTT4Q?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 28,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8:30 am-4:30 pm; Tuesday: 8:30 am-4:30 pm; Wednesday: 8:30 am-4:30 pm; Thursday: 8:30 am-4:30 pm; Friday: 8:30 am-4:30 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.215992,
+    "lng": -2.731177,
+    "found_in_location": "Leominster",
+    "found_with_query": "pest control midlands",
+    "email": "email@leopestcontrol.co.uk",
+    "emails": [
+      "email@leopestcontrol.co.uk"
+    ],
+    "description": "Services are provided to food and beverage manufacturer’s, commercial manufacturer’s, warehousing, farms, estates, historical buildings, retailers, housing associations, councils, schools and domestic houses.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
     ]
   },
   {
@@ -1430,6 +1405,23 @@
     ]
   },
   {
+    "name": "Be Wise Pest Control",
+    "address": "29 Greenfields Rd, Shelfield, Walsall Wood, Walsall, WS4 1RS, GB",
+    "phone": "07486 493022",
+    "international_phone": "07486 493022",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Be+Wise+Pest+Control/data=!4m7!3m6!1s0x4870a19f353797e3:0xbeeb0e3f4f4160ef!8m2!3d52.6212315!4d-1.9469416!16s%2Fg%2F1hc41rzhb!19sChIJ45c3NZ-hcEgR72BBTz8O674?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 24,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.621232,
+    "lng": -1.946942,
+    "found_in_location": "Walsall",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "PRC Facilities and Pest Control Ltd",
     "address": "6 Helvellyn Way, West Bromwich, B71 1FD, GB",
     "phone": "",
@@ -1461,21 +1453,31 @@
     ]
   },
   {
-    "name": "Be Wise Pest Control",
-    "address": "29 Greenfields Rd, Shelfield, Walsall Wood, Walsall, WS4 1RS, GB",
-    "phone": "07486 493022",
-    "international_phone": "07486 493022",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Be+Wise+Pest+Control/data=!4m7!3m6!1s0x4870a19f353797e3:0xbeeb0e3f4f4160ef!8m2!3d52.6212315!4d-1.9469416!16s%2Fg%2F1hc41rzhb!19sChIJ45c3NZ-hcEgR72BBTz8O674?authuser=0&hl=en&rclk=1",
+    "name": "H & J Pest Control Services",
+    "address": "21 St Bernard Dr, Malvern, WR14 3PZ, GB",
+    "phone": "07889 782933",
+    "international_phone": "07889 782933",
+    "website": "https://hjpc.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/H+%26+J+Pest+Control+Services/data=!4m7!3m6!1s0x48705654f017ff57:0xc7d7da8f05a281f3!8m2!3d52.097022!4d-2.3179181!16s%2Fg%2F1tlwf24f!19sChIJV_8X8FRWcEgR84GiBY_a18c?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 24,
+    "total_reviews": 23,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-4 pm; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 52.621232,
-    "lng": -1.946942,
-    "found_in_location": "Walsall",
-    "found_with_query": "pest control midlands"
+    "lat": 52.097022,
+    "lng": -2.317918,
+    "found_in_location": "Malvern",
+    "found_with_query": "pest control midlands",
+    "email": "info@hjpc.co.uk",
+    "emails": [
+      "info@hjpc.co.uk"
+    ],
+    "description": "H&J Pest Control of malvern Worcester - Wasp, Bed Bug, Mouse, Rat and Cluster Fly Control for Worcestershire, Herefordshire, Gloucestershire",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Moth Treatment"
+    ]
   },
   {
     "name": "MSD Pest Control",
@@ -1502,33 +1504,6 @@
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
       "Cockroach Control"
-    ]
-  },
-  {
-    "name": "H & J Pest Control Services",
-    "address": "21 St Bernard Dr, Malvern, WR14 3PZ, GB",
-    "phone": "07889 782933",
-    "international_phone": "07889 782933",
-    "website": "https://hjpc.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/H+%26+J+Pest+Control+Services/data=!4m7!3m6!1s0x48705654f017ff57:0xc7d7da8f05a281f3!8m2!3d52.097022!4d-2.3179181!16s%2Fg%2F1tlwf24f!19sChIJV_8X8FRWcEgR84GiBY_a18c?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 23,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-4 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.097022,
-    "lng": -2.317918,
-    "found_in_location": "Malvern",
-    "found_with_query": "pest control midlands",
-    "email": "info@hjpc.co.uk",
-    "emails": [
-      "info@hjpc.co.uk"
-    ],
-    "description": "H&J Pest Control of malvern Worcester - Wasp, Bed Bug, Mouse, Rat and Cluster Fly Control for Worcestershire, Herefordshire, Gloucestershire",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Moth Treatment"
     ]
   },
   {
@@ -1563,6 +1538,41 @@
     ]
   },
   {
+    "name": "Derbyshire Pest Management Professionals",
+    "address": "83 Peasehill Rd, Ripley, DE5 3JH, GB",
+    "phone": "07966 442387",
+    "international_phone": "07966 442387",
+    "website": "http://www.advancedenvironmentalservices.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Derbyshire+Pest+Management+Professionals/data=!4m7!3m6!1s0x487992ac18a6a6fb:0x651205d170c9394e!8m2!3d53.0427291!4d-1.3992077!16s%2Fg%2F1hc67gtrw!19sChIJ-6amGKySeUgRTjnJcNEFEmU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 21,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7:30 am-4:30 pm; Tuesday: 7:30 am-4:30 pm; Wednesday: 7:30 am-4:30 pm; Thursday: 7:30 am-4:30 pm; Friday: 7:30 am-4 pm; Saturday: 7:30 am-12 pm; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 53.042729,
+    "lng": -1.399208,
+    "found_in_location": "Ripley",
+    "found_with_query": "pest control midlands",
+    "description": ", Advanced Environmental Services, Derbyshires premier pest control company"
+  },
+  {
+    "name": "EverSafe Pest Solutions",
+    "address": "16 Eversley Ave, Leek, ST13 5HS, GB",
+    "phone": "07737 136119",
+    "international_phone": "07737 136119",
+    "website": "http://eversafepestsolutions.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/EverSafe+Pest+Solutions/data=!4m7!3m6!1s0x41f87482bbbfb211:0x27c3c52cc0d8c84!8m2!3d53.1042681!4d-2.0275143!16s%2Fg%2F11lp87y62b!19sChIJEbK_u4J0-EERhIwNzFI8fAI?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 21,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 53.104268,
+    "lng": -2.027514,
+    "found_in_location": "Leek",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "NestBusters Nottingham",
     "address": "43 Lime Tree Gardens, Lowdham, Nottingham, NG14 7DJ, GB",
     "phone": "0115 677 7075",
@@ -1593,24 +1603,6 @@
     ]
   },
   {
-    "name": "Derbyshire Pest Management Professionals",
-    "address": "83 Peasehill Rd, Ripley, DE5 3JH, GB",
-    "phone": "07966 442387",
-    "international_phone": "07966 442387",
-    "website": "http://www.advancedenvironmentalservices.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Derbyshire+Pest+Management+Professionals/data=!4m7!3m6!1s0x487992ac18a6a6fb:0x651205d170c9394e!8m2!3d53.0427291!4d-1.3992077!16s%2Fg%2F1hc67gtrw!19sChIJ-6amGKySeUgRTjnJcNEFEmU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 21,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 am-4:30 pm; Tuesday: 7:30 am-4:30 pm; Wednesday: 7:30 am-4:30 pm; Thursday: 7:30 am-4:30 pm; Friday: 7:30 am-4 pm; Saturday: 7:30 am-12 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 53.042729,
-    "lng": -1.399208,
-    "found_in_location": "Ripley",
-    "found_with_query": "pest control midlands",
-    "description": ", Advanced Environmental Services, Derbyshires premier pest control company"
-  },
-  {
     "name": "SINIYON Services Ltd",
     "address": "Stonewell Cres, Nuneaton, CV11 4SX, GB",
     "phone": "07772 626583",
@@ -1636,23 +1628,6 @@
       "Cockroach Control",
       "Commercial Pest Control"
     ]
-  },
-  {
-    "name": "EverSafe Pest Solutions",
-    "address": "16 Eversley Ave, Leek, ST13 5HS, GB",
-    "phone": "07737 136119",
-    "international_phone": "07737 136119",
-    "website": "http://eversafepestsolutions.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/EverSafe+Pest+Solutions/data=!4m7!3m6!1s0x41f87482bbbfb211:0x27c3c52cc0d8c84!8m2!3d53.1042681!4d-2.0275143!16s%2Fg%2F11lp87y62b!19sChIJEbK_u4J0-EERhIwNzFI8fAI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 21,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 53.104268,
-    "lng": -2.027514,
-    "found_in_location": "Leek",
-    "found_with_query": "pest control midlands"
   },
   {
     "name": "Shropshire Pest Prevention Services Ltd",
@@ -1683,6 +1658,23 @@
     ]
   },
   {
+    "name": "Gold's pest control",
+    "address": "3 Mill Ln, Long Whatton, Loughborough, Loughborough, LE12 5BD, GB",
+    "phone": "07885 456310",
+    "international_phone": "07885 456310",
+    "website": "http://www.goldspestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Gold%27s+pest+control/data=!4m7!3m6!1s0x4879e1fc9abf8ae5:0xf4856c5bff23885b!8m2!3d52.7756062!4d-1.1982137!16s%2Fg%2F11p658rp13!19sChIJ5Yq_mvzheUgRW4gj_1tshfQ?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 20,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7:30 am-6 pm; Tuesday: 7:30 am-6 pm; Wednesday: 7:30 am-6 pm; Thursday: 7:30 am-6 pm; Friday: 7:30 am-6 pm; Saturday: 7:30 am-12:30 pm; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.775606,
+    "lng": -1.198214,
+    "found_in_location": "Loughborough",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "Malvern Pest Control",
     "address": "1 Broads Bank, Malvern, WR14 2HP, GB",
     "phone": "07415 349940",
@@ -1710,23 +1702,6 @@
       "Squirrel Control",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "Gold's pest control",
-    "address": "3 Mill Ln, Long Whatton, Loughborough, Loughborough, LE12 5BD, GB",
-    "phone": "07885 456310",
-    "international_phone": "07885 456310",
-    "website": "http://www.goldspestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Gold%27s+pest+control/data=!4m7!3m6!1s0x4879e1fc9abf8ae5:0xf4856c5bff23885b!8m2!3d52.7756062!4d-1.1982137!16s%2Fg%2F11p658rp13!19sChIJ5Yq_mvzheUgRW4gj_1tshfQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 20,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7:30 am-6 pm; Tuesday: 7:30 am-6 pm; Wednesday: 7:30 am-6 pm; Thursday: 7:30 am-6 pm; Friday: 7:30 am-6 pm; Saturday: 7:30 am-12:30 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.775606,
-    "lng": -1.198214,
-    "found_in_location": "Loughborough",
-    "found_with_query": "pest control midlands"
   },
   {
     "name": "Abington Pest Control Ltd",
@@ -1791,7 +1766,7 @@
     "emails": [
       "verminatorno1@gmail.com"
     ],
-    "description": "Fast, safe and effective pest treatments forhomes, landlords and businessesacrossChester, Cheshire, Shropshire, North Wales and the West Midlands\u2013 includingOswestry, Ellesmere (SY12), Welshpool (SY21) and Newcastle-under-Lyme. From rats and mice to wasps, ants and cockroaches \u2013 we identify the...",
+    "description": "Fast, safe and effective pest treatments forhomes, landlords and businessesacrossChester, Cheshire, Shropshire, North Wales and the West Midlands– includingOswestry, Ellesmere (SY12), Welshpool (SY21) and Newcastle-under-Lyme. From rats and mice to wasps, ants and cockroaches – we identify the...",
     "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
@@ -1802,23 +1777,6 @@
       "Squirrel Control",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "Three Spires Pest Control",
-    "address": "Whittington, Lichfield, WS13 8QJ, GB",
-    "phone": "07800 669146",
-    "international_phone": "07800 669146",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Three+Spires+Pest+Control/data=!4m7!3m6!1s0x487a078871cb583d:0xa1d975413464db3d!8m2!3d52.6919599!4d-1.7561828!16s%2Fg%2F11gzzqgfn!19sChIJPVjLcYgHekgRPdtkNEF12aE?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 17,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 10 am-6 pm; Sunday: 10 am-6 pm",
-    "types": "Pest control service",
-    "lat": 52.69196,
-    "lng": -1.756183,
-    "found_in_location": "Lichfield",
-    "found_with_query": "pest control midlands"
   },
   {
     "name": "Black Dog Pest Solutions UK Ltd",
@@ -1847,6 +1805,23 @@
     ]
   },
   {
+    "name": "Three Spires Pest Control",
+    "address": "Whittington, Lichfield, WS13 8QJ, GB",
+    "phone": "07800 669146",
+    "international_phone": "07800 669146",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Three+Spires+Pest+Control/data=!4m7!3m6!1s0x487a078871cb583d:0xa1d975413464db3d!8m2!3d52.6919599!4d-1.7561828!16s%2Fg%2F11gzzqgfn!19sChIJPVjLcYgHekgRPdtkNEF12aE?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 17,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 10 am-6 pm; Sunday: 10 am-6 pm",
+    "types": "Pest control service",
+    "lat": 52.69196,
+    "lng": -1.756183,
+    "found_in_location": "Lichfield",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "Horncastle Pest Control",
     "address": "40 Turnberry Dr, Woodhall Spa, LN10 6UE, GB",
     "phone": "07707 727770",
@@ -1866,7 +1841,7 @@
     "emails": [
       "andy@pest-detective.com"
     ],
-    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you\u2019ll appreciate the results.",
+    "description": "Pest Detective is a family owned and operated pest control companies in Lincolnshire. We have pest control and customer service down to a science, and we know you’ll appreciate the results.",
     "services": [
       "Bird & Pigeon Control",
       "Flea Treatment",
@@ -1891,7 +1866,7 @@
     "lng": -2.575828,
     "found_in_location": "Ross-on-Wye",
     "found_with_query": "pest control midlands",
-    "description": "We pride ourselves on our reputation. We are not your typical exterminators \u2013 we are full-service pest control experts, getting rid of unwanted pests and making sure they can\u2019t get back in.",
+    "description": "We pride ourselves on our reputation. We are not your typical exterminators – we are full-service pest control experts, getting rid of unwanted pests and making sure they can’t get back in.",
     "services": [
       "Fumigation"
     ]
@@ -1911,23 +1886,6 @@
     "lat": 52.12005,
     "lng": -2.674999,
     "found_in_location": "Hereford",
-    "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "Pestforce Pest Control Staffordshire",
-    "address": "2 Westwood Park Dr, Leek, ST13 8NG, GB",
-    "phone": "01538 779056",
-    "international_phone": "01538 779056",
-    "website": "https://www.pest-force.co.uk/Staffordshire/",
-    "google_maps_url": "https://www.google.com/maps/place/Pestforce+Pest+Control+Staffordshire/data=!4m7!3m6!1s0x487a40b9b82cd931:0xac17ee32742332f8!8m2!3d53.1044345!4d-2.0444723!16s%2Fg%2F1tnjj2y_!19sChIJMdksuLlAekgR-DIjdDLuF6w?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 12,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 53.104434,
-    "lng": -2.044472,
-    "found_in_location": "Leek",
     "found_with_query": "pest control midlands"
   },
   {
@@ -1979,7 +1937,7 @@
     "emails": [
       "birchpestcontrol@hotmail.co.uk"
     ],
-    "description": "Birch Pest Control are industry-leading in Staffordshire, owned and operated by Clive Birch. At BPC, we pride ourselves on treating our customers like a member of our family, and because of this philosophy we\u2019ve become a trusted resource for dependence, quality and service in our...",
+    "description": "Birch Pest Control are industry-leading in Staffordshire, owned and operated by Clive Birch. At BPC, we pride ourselves on treating our customers like a member of our family, and because of this philosophy we’ve become a trusted resource for dependence, quality and service in our...",
     "services": [
       "Ant Control",
       "Bed Bug Treatment",
@@ -1990,6 +1948,23 @@
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
+  },
+  {
+    "name": "Pestforce Pest Control Staffordshire",
+    "address": "2 Westwood Park Dr, Leek, ST13 8NG, GB",
+    "phone": "01538 779056",
+    "international_phone": "01538 779056",
+    "website": "https://www.pest-force.co.uk/Staffordshire/",
+    "google_maps_url": "https://www.google.com/maps/place/Pestforce+Pest+Control+Staffordshire/data=!4m7!3m6!1s0x487a40b9b82cd931:0xac17ee32742332f8!8m2!3d53.1044345!4d-2.0444723!16s%2Fg%2F1tnjj2y_!19sChIJMdksuLlAekgR-DIjdDLuF6w?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 12,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 53.104434,
+    "lng": -2.044472,
+    "found_in_location": "Leek",
+    "found_with_query": "pest control midlands"
   },
   {
     "name": "Queen Bee Pest Management",
@@ -2013,32 +1988,6 @@
       "Commercial Pest Control",
       "Mole Control",
       "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Professional Pest Control Services",
-    "address": "Coleshill, Birmingham, B46, GB",
-    "phone": "07717 706792",
-    "international_phone": "07717 706792",
-    "website": "http://profpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Professional+Pest+Control+Services/data=!4m7!3m6!1s0x4870b10f5aa89073:0xc75bea7222a295a4!8m2!3d52.5094571!4d-1.6685267!16s%2Fg%2F11h_vr3sxw!19sChIJc5CoWg-xcEgRpJWiInLqW8c?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 11,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6 am-10 pm; Tuesday: 6 am-10 pm; Wednesday: 6 am-10 pm; Thursday: 6 am-10 pm; Friday: 6 am-10 pm; Saturday: 6 am-10 pm; Sunday: 10 am-4 pm",
-    "types": "Pest control service",
-    "lat": 52.509457,
-    "lng": -1.668527,
-    "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands",
-    "email": "info@profpestcontrol.co.uk",
-    "emails": [
-      "info@profpestcontrol.co.uk"
-    ],
-    "description": "Advice from experts on pest control",
-    "services": [
-      "Cockroach Control",
       "Wasp Nest Removal"
     ]
   },
@@ -2075,11 +2024,37 @@
     "lng": -2.018946,
     "found_in_location": "Leek",
     "found_with_query": "pest control midlands",
-    "description": "Pestex Services is one of the UK\u2019s most trusted names in effective pest control, disinfection and property clearance, with over 40 years\u2019 experience.",
+    "description": "Pestex Services is one of the UK’s most trusted names in effective pest control, disinfection and property clearance, with over 40 years’ experience.",
     "services": [
       "Bird & Pigeon Control",
       "Fumigation",
       "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Professional Pest Control Services",
+    "address": "Coleshill, Birmingham, B46, GB",
+    "phone": "07717 706792",
+    "international_phone": "07717 706792",
+    "website": "http://profpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Professional+Pest+Control+Services/data=!4m7!3m6!1s0x4870b10f5aa89073:0xc75bea7222a295a4!8m2!3d52.5094571!4d-1.6685267!16s%2Fg%2F11h_vr3sxw!19sChIJc5CoWg-xcEgRpJWiInLqW8c?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 11,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 6 am-10 pm; Tuesday: 6 am-10 pm; Wednesday: 6 am-10 pm; Thursday: 6 am-10 pm; Friday: 6 am-10 pm; Saturday: 6 am-10 pm; Sunday: 10 am-4 pm",
+    "types": "Pest control service",
+    "lat": 52.509457,
+    "lng": -1.668527,
+    "found_in_location": "Birmingham",
+    "found_with_query": "pest control midlands",
+    "email": "info@profpestcontrol.co.uk",
+    "emails": [
+      "info@profpestcontrol.co.uk"
+    ],
+    "description": "Advice from experts on pest control",
+    "services": [
+      "Cockroach Control",
       "Wasp Nest Removal"
     ]
   },
@@ -2130,46 +2105,6 @@
     ]
   },
   {
-    "name": "York's pest control",
-    "address": "52 Westmorland Dr, Desborough, Kettering, NN14 2XB, GB",
-    "phone": "01536 425901",
-    "international_phone": "01536 425901",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/York%27s+pest+control/data=!4m7!3m6!1s0x487775be27adc83b:0x10c366fa72533832!8m2!3d52.4440816!4d-0.809824!16s%2Fg%2F12hl9wstl!19sChIJO8itJ751d0gRMjhTcvpmwxA?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 52.444082,
-    "lng": -0.809824,
-    "found_in_location": "Kettering",
-    "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "County Pest Control",
-    "address": "77 Aversley Rd, Birmingham, B38 8PJ, GB",
-    "phone": "07546 396886",
-    "international_phone": "07546 396886",
-    "website": "http://www.county-pestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/County+Pest+Control/data=!4m7!3m6!1s0x4870be45b331e815:0x8eafe5b1f0487b18!8m2!3d52.4011105!4d-1.9422603!16s%2Fg%2F1vs5w4l0!19sChIJFegxs0W-cEgRGHtI8LHlr44?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 52.40111,
-    "lng": -1.94226,
-    "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands",
-    "description": "At County Pest Control we providing a permanent and cost effective solution to a wide range of pests around the home and work place. We deal with all pests, in all parts of the West Midlands and Birmingham.",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Commercial Pest Control"
-    ]
-  },
-  {
     "name": "Ace Pest Control Nottingham",
     "address": "NG2 Business Park, 8 Experian Way, Nottingham, NG2 1EP, GB",
     "phone": "0115 998 8574",
@@ -2199,6 +2134,56 @@
     ]
   },
   {
+    "name": "County Pest Control",
+    "address": "77 Aversley Rd, Birmingham, B38 8PJ, GB",
+    "phone": "07546 396886",
+    "international_phone": "07546 396886",
+    "website": "http://www.county-pestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/County+Pest+Control/data=!4m7!3m6!1s0x4870be45b331e815:0x8eafe5b1f0487b18!8m2!3d52.4011105!4d-1.9422603!16s%2Fg%2F1vs5w4l0!19sChIJFegxs0W-cEgRGHtI8LHlr44?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 52.40111,
+    "lng": -1.94226,
+    "found_in_location": "Birmingham",
+    "found_with_query": "pest control midlands",
+    "description": "At County Pest Control we providing a permanent and cost effective solution to a wide range of pests around the home and work place. We deal with all pests, in all parts of the West Midlands and Birmingham.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Commercial Pest Control"
+    ]
+  },
+  {
+    "name": "Extermilex",
+    "address": "1A Hobart Rd, Worcester Park, KT4 8SP, GB",
+    "phone": "07350 235633",
+    "international_phone": "07350 235633",
+    "website": "http://www.extermilex.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Extermilex/data=!4m7!3m6!1s0x640d9aa715e90ac5:0x38c0083448153a93!8m2!3d51.3734255!4d-0.2378961!16s%2Fg%2F11x76_2pjw!19sChIJxQrpFaeaDWQRkzoVSDQIwDg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-6 pm; Tuesday: 8 am-6 pm; Wednesday: 8 am-6 pm; Thursday: 8 am-6 pm; Friday: 8 am-6 pm; Saturday: 9 am-2 pm; Sunday: 9 am-1 pm",
+    "types": "Pest control service",
+    "lat": 51.373425,
+    "lng": -0.237896,
+    "found_in_location": "Worcester Park",
+    "found_with_query": "pest control midlands",
+    "email": "extermilex@yahoo.com",
+    "emails": [
+      "extermilex@yahoo.com"
+    ],
+    "description": "Professional pest control services in Surrey and South West London with over 20 years of experience. Effective, safe solutions for homes and businesses. Call now!",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Emergency Pest Control"
+    ]
+  },
+  {
     "name": "Local Pest Control",
     "address": "293 Gilmorton Ave, Glen Parva, Leicester, LE2 9GZ, GB",
     "phone": "07306 076480",
@@ -2214,6 +2199,27 @@
     "lng": -1.163871,
     "found_in_location": "Leicester",
     "found_with_query": "pest control midlands"
+  },
+  {
+    "name": "Shropshire Pest Control",
+    "address": "26 Acacia Dr, Telford, TF1 6XL, GB",
+    "phone": "01952 798787",
+    "international_phone": "01952 798787",
+    "website": "https://shropshirepestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Shropshire+Pest+Control/data=!4m7!3m6!1s0x487a8047428fc36d:0x5772790b04f86122!8m2!3d52.7065059!4d-2.499284!16s%2Fg%2F1tf64_yr!19sChIJbcOPQkeAekgRImH4BAt5clc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.706506,
+    "lng": -2.499284,
+    "found_in_location": "Telford",
+    "found_with_query": "pest control midlands",
+    "description": "Shropshire Pest Control, Moles, rats, mice, wasps, fleas, bees, ants, rabbits, woodworm, birds, for all you pest control needs, Telford pest control",
+    "services": [
+      "Wasp Nest Removal"
+    ]
   },
   {
     "name": "Walsall & Lichfield Pest Control",
@@ -2244,51 +2250,49 @@
     ]
   },
   {
-    "name": "Shropshire Pest Control",
-    "address": "26 Acacia Dr, Telford, TF1 6XL, GB",
-    "phone": "01952 798787",
-    "international_phone": "01952 798787",
-    "website": "https://shropshirepestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Shropshire+Pest+Control/data=!4m7!3m6!1s0x487a8047428fc36d:0x5772790b04f86122!8m2!3d52.7065059!4d-2.499284!16s%2Fg%2F1tf64_yr!19sChIJbcOPQkeAekgRImH4BAt5clc?authuser=0&hl=en&rclk=1",
+    "name": "York's pest control",
+    "address": "52 Westmorland Dr, Desborough, Kettering, NN14 2XB, GB",
+    "phone": "01536 425901",
+    "international_phone": "01536 425901",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/York%27s+pest+control/data=!4m7!3m6!1s0x487775be27adc83b:0x10c366fa72533832!8m2!3d52.4440816!4d-0.809824!16s%2Fg%2F12hl9wstl!19sChIJO8itJ751d0gRMjhTcvpmwxA?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 9,
     "business_status": "OPERATIONAL",
-    "opening_hours": "",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
     "types": "Pest control service",
-    "lat": 52.706506,
-    "lng": -2.499284,
-    "found_in_location": "Telford",
-    "found_with_query": "pest control midlands",
-    "description": "Shropshire Pest Control, Moles, rats, mice, wasps, fleas, bees, ants, rabbits, woodworm, birds, for all you pest control needs, Telford pest control",
-    "services": [
-      "Wasp Nest Removal"
-    ]
+    "lat": 52.444082,
+    "lng": -0.809824,
+    "found_in_location": "Kettering",
+    "found_with_query": "pest control midlands"
   },
   {
-    "name": "Extermilex",
-    "address": "1A Hobart Rd, Worcester Park, KT4 8SP, GB",
-    "phone": "07350 235633",
-    "international_phone": "07350 235633",
-    "website": "http://www.extermilex.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Extermilex/data=!4m7!3m6!1s0x640d9aa715e90ac5:0x38c0083448153a93!8m2!3d51.3734255!4d-0.2378961!16s%2Fg%2F11x76_2pjw!19sChIJxQrpFaeaDWQRkzoVSDQIwDg?authuser=0&hl=en&rclk=1",
+    "name": "AMS Pest Control Kenilworth",
+    "address": "134 Clinton Ln, Kenilworth, CV8 1AX, GB",
+    "phone": "01926 298161",
+    "international_phone": "01926 298161",
+    "website": "https://www.ams-wm.uk/areas-we-cover/pest-control-kenilworth/",
+    "google_maps_url": "https://www.google.com/maps/place/AMS+Pest+Control+Kenilworth/data=!4m7!3m6!1s0x4870b51c0f9bc321:0x4acf6c6e0d174ff2!8m2!3d52.3531276!4d-1.5921655!16s%2Fg%2F11hgk39l_0!19sChIJIcObDxy1cEgR8k8XDW5sz0o?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 9,
+    "total_reviews": 8,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-6 pm; Tuesday: 8 am-6 pm; Wednesday: 8 am-6 pm; Thursday: 8 am-6 pm; Friday: 8 am-6 pm; Saturday: 9 am-2 pm; Sunday: 9 am-1 pm",
+    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: 7 am-7 pm; Sunday: 7 am-7 pm",
     "types": "Pest control service",
-    "lat": 51.373425,
-    "lng": -0.237896,
-    "found_in_location": "Worcester Park",
+    "lat": 52.353128,
+    "lng": -1.592165,
+    "found_in_location": "Kenilworth",
     "found_with_query": "pest control midlands",
-    "email": "extermilex@yahoo.com",
+    "email": "admin@ams-wm.uk",
     "emails": [
-      "extermilex@yahoo.com"
+      "admin@ams-wm.uk"
     ],
-    "description": "Professional pest control services in Surrey and South West London with over 20 years of experience. Effective, safe solutions for homes and businesses. Call now!",
+    "description": "Pest Control Kenilworth-Rat Control Kenilworth: rodent control, wasp nest treatments, domestic pest control and commercial contracts.",
     "services": [
       "Bed Bug Treatment",
       "Cockroach Control",
-      "Emergency Pest Control"
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
     ]
   },
   {
@@ -2340,35 +2344,6 @@
     "services": [
       "Bird & Pigeon Control",
       "Fox Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "AMS Pest Control Kenilworth",
-    "address": "134 Clinton Ln, Kenilworth, CV8 1AX, GB",
-    "phone": "01926 298161",
-    "international_phone": "01926 298161",
-    "website": "https://www.ams-wm.uk/areas-we-cover/pest-control-kenilworth/",
-    "google_maps_url": "https://www.google.com/maps/place/AMS+Pest+Control+Kenilworth/data=!4m7!3m6!1s0x4870b51c0f9bc321:0x4acf6c6e0d174ff2!8m2!3d52.3531276!4d-1.5921655!16s%2Fg%2F11hgk39l_0!19sChIJIcObDxy1cEgR8k8XDW5sz0o?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 8,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-7 pm; Tuesday: 7 am-7 pm; Wednesday: 7 am-7 pm; Thursday: 7 am-7 pm; Friday: 7 am-7 pm; Saturday: 7 am-7 pm; Sunday: 7 am-7 pm",
-    "types": "Pest control service",
-    "lat": 52.353128,
-    "lng": -1.592165,
-    "found_in_location": "Kenilworth",
-    "found_with_query": "pest control midlands",
-    "email": "admin@ams-wm.uk",
-    "emails": [
-      "admin@ams-wm.uk"
-    ],
-    "description": "Pest Control Kenilworth-Rat Control Kenilworth: rodent control, wasp nest treatments, domestic pest control and commercial contracts.",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Rat & Mouse Control",
       "Squirrel Control",
       "Wasp Nest Removal"
     ]
@@ -2495,37 +2470,36 @@
     "lng": -1.839642,
     "found_in_location": "Birmingham",
     "found_with_query": "pest control midlands",
+    "description": "Professional bed bug removal and extermination service covering Birmingham, Coventry, Warwickshire, Staffordshire, and nearby areas. Over 20 years of trusted, discreet pest control for homes and businesses.",
     "services": [
       "Bed Bug Treatment",
       "Fumigation"
-    ],
-    "description": "Professional bed bug removal and extermination service covering Birmingham, Coventry, Warwickshire, Staffordshire, and nearby areas. Over 20 years of trusted, discreet pest control for homes and businesses."
+    ]
   },
   {
-    "name": "Pest Free Solutions",
-    "address": "Unit T, Radius Court, Maple Dr, Hinckley, Hinckley, LE10 3BE, GB",
-    "phone": "0800 389 8124",
-    "international_phone": "0800 389 8124",
-    "website": "https://www.pestfreesolutions.net/",
-    "google_maps_url": "https://www.google.com/maps/place/Pest+Free+Solutions/data=!4m7!3m6!1s0x48775206779065e3:0x9c3e537e043078ec!8m2!3d52.537827!4d-1.402874!16s%2Fg%2F12ml2mxh5!19sChIJ42WQdwZSd0gR7HgwBH5TPpw?authuser=0&hl=en&rclk=1",
+    "name": "Leicestershire pest control",
+    "address": "Swan St, Loughborough, LE11 5BL, GB",
+    "phone": "01509 400127",
+    "international_phone": "01509 400127",
+    "website": "http://www.leicestershirepestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Leicestershire+pest+control/data=!4m7!3m6!1s0x803f93812634c3ff:0xdb51806efe93a8c2!8m2!3d52.7723289!4d-1.207698!16s%2Fg%2F11s7348dq2!19sChIJ_8M0JoGTP4ARwqiT_m6AUds?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 5,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-4 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 8:30 am-5:30 pm; Tuesday: 8:30 am-5:30 pm; Wednesday: 8:30 am-5:30 pm; Thursday: 8:30 am-5:30 pm; Friday: 8:30 am-5:30 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 52.537827,
-    "lng": -1.402874,
-    "found_in_location": "Hinckley",
+    "lat": 52.772329,
+    "lng": -1.207698,
+    "found_in_location": "Loughborough",
     "found_with_query": "pest control midlands",
-    "email": "sales@pestfreesolutions.net",
-    "emails": [
-      "sales@pestfreesolutions.net"
-    ],
-    "description": "With over 20 years' experience, we deliver highly effective professional and ethical bird and pest control services.",
+    "description": "Leicestershire Pest Control Services. Loughborough Line: 01509 400127. General Leicestershire Line: 01163 400 145.",
     "services": [
+      "Bed Bug Treatment",
       "Bird & Pigeon Control",
+      "Cockroach Control",
       "Commercial Pest Control",
-      "Emergency Pest Control"
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
     ]
   },
   {
@@ -2556,6 +2530,33 @@
     ]
   },
   {
+    "name": "Pest Free Solutions",
+    "address": "Unit T, Radius Court, Maple Dr, Hinckley, Hinckley, LE10 3BE, GB",
+    "phone": "0800 389 8124",
+    "international_phone": "0800 389 8124",
+    "website": "https://www.pestfreesolutions.net/",
+    "google_maps_url": "https://www.google.com/maps/place/Pest+Free+Solutions/data=!4m7!3m6!1s0x48775206779065e3:0x9c3e537e043078ec!8m2!3d52.537827!4d-1.402874!16s%2Fg%2F12ml2mxh5!19sChIJ42WQdwZSd0gR7HgwBH5TPpw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 5,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-4 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.537827,
+    "lng": -1.402874,
+    "found_in_location": "Hinckley",
+    "found_with_query": "pest control midlands",
+    "email": "sales@pestfreesolutions.net",
+    "emails": [
+      "sales@pestfreesolutions.net"
+    ],
+    "description": "With over 20 years' experience, we deliver highly effective professional and ethical bird and pest control services.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control"
+    ]
+  },
+  {
     "name": "Primary Pest Care",
     "address": "29 Walker Cres, Saint George's, Telford, TF2 9PZ, GB",
     "phone": "07949 063428",
@@ -2573,30 +2574,21 @@
     "found_with_query": "pest control midlands"
   },
   {
-    "name": "Leicestershire pest control",
-    "address": "Swan St, Loughborough, LE11 5BL, GB",
-    "phone": "01509 400127",
-    "international_phone": "01509 400127",
-    "website": "http://www.leicestershirepestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Leicestershire+pest+control/data=!4m7!3m6!1s0x803f93812634c3ff:0xdb51806efe93a8c2!8m2!3d52.7723289!4d-1.207698!16s%2Fg%2F11s7348dq2!19sChIJ_8M0JoGTP4ARwqiT_m6AUds?authuser=0&hl=en&rclk=1",
+    "name": "B-Discreet Pest Control",
+    "address": "3 Pine Close, Northampton, NN4 5BA, GB",
+    "phone": "0800 612 6955",
+    "international_phone": "0800 612 6955",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/B-Discreet+Pest+Control/data=!4m7!3m6!1s0x487604cfb9c16d45:0xb2b2450b5f5491d5!8m2!3d52.1879014!4d-0.8821975!16s%2Fg%2F11bwkf864j!19sChIJRW3Buc8EdkgR1ZFUXwtFsrI?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
-    "total_reviews": 5,
+    "total_reviews": 4,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8:30 am-5:30 pm; Tuesday: 8:30 am-5:30 pm; Wednesday: 8:30 am-5:30 pm; Thursday: 8:30 am-5:30 pm; Friday: 8:30 am-5:30 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 6 am-5 pm; Tuesday: 6 am-5 pm; Wednesday: 6 am-5 pm; Thursday: 6 am-5 pm; Friday: 6 am-5 pm; Saturday: 6 am-5 pm; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 52.772329,
-    "lng": -1.207698,
-    "found_in_location": "Loughborough",
-    "found_with_query": "pest control midlands",
-    "description": "Leicestershire Pest Control Services. Loughborough Line: 01509 400127. General Leicestershire Line: 01163 400 145.",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Commercial Pest Control",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
+    "lat": 52.187901,
+    "lng": -0.882197,
+    "found_in_location": "Northampton",
+    "found_with_query": "pest control midlands"
   },
   {
     "name": "Killall Pest Control Ltd",
@@ -2613,49 +2605,6 @@
     "lat": 52.527055,
     "lng": -1.450609,
     "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "The Birmingham Pest Company",
-    "address": "3 Brindley Pl, Birmingham, B1 2JB, GB",
-    "phone": "0121 769 2165",
-    "international_phone": "0121 769 2165",
-    "website": "http://www.birminghampestcompany.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/The+Birmingham+Pest+Company/data=!4m7!3m6!1s0x4870bcf6b0b0b2db:0x29ac944d64d4fa8b!8m2!3d52.4784765!4d-1.9130778!16s%2Fg%2F11b6cb3gdk!19sChIJ27KwsPa8cEgRi_rUZE2UrCk?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: 8 am-5 pm; Sunday: 8 am-5 pm",
-    "types": "Pest control service",
-    "lat": 52.478476,
-    "lng": -1.913078,
-    "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands",
-    "email": "accounts@birminghampestcompany.co.uk",
-    "emails": [
-      "accounts@birminghampestcompany.co.uk"
-    ],
-    "description": "Birmingham Pest Control - Commercial Pest Control Free Surveys | All Public Health Pests | Rodent control | Birmingham Homes Pest Control - Fixed Prices",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control"
-    ]
-  },
-  {
-    "name": "B-Discreet Pest Control",
-    "address": "3 Pine Close, Northampton, NN4 5BA, GB",
-    "phone": "0800 612 6955",
-    "international_phone": "0800 612 6955",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/B-Discreet+Pest+Control/data=!4m7!3m6!1s0x487604cfb9c16d45:0xb2b2450b5f5491d5!8m2!3d52.1879014!4d-0.8821975!16s%2Fg%2F11bwkf864j!19sChIJRW3Buc8EdkgR1ZFUXwtFsrI?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 4,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 6 am-5 pm; Tuesday: 6 am-5 pm; Wednesday: 6 am-5 pm; Thursday: 6 am-5 pm; Friday: 6 am-5 pm; Saturday: 6 am-5 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.187901,
-    "lng": -0.882197,
-    "found_in_location": "Northampton",
     "found_with_query": "pest control midlands"
   },
   {
@@ -2726,6 +2675,124 @@
     ]
   },
   {
+    "name": "The Birmingham Pest Company",
+    "address": "3 Brindley Pl, Birmingham, B1 2JB, GB",
+    "phone": "0121 769 2165",
+    "international_phone": "0121 769 2165",
+    "website": "http://www.birminghampestcompany.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/The+Birmingham+Pest+Company/data=!4m7!3m6!1s0x4870bcf6b0b0b2db:0x29ac944d64d4fa8b!8m2!3d52.4784765!4d-1.9130778!16s%2Fg%2F11b6cb3gdk!19sChIJ27KwsPa8cEgRi_rUZE2UrCk?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 4,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: 8 am-5 pm; Sunday: 8 am-5 pm",
+    "types": "Pest control service",
+    "lat": 52.478476,
+    "lng": -1.913078,
+    "found_in_location": "Birmingham",
+    "found_with_query": "pest control midlands",
+    "email": "accounts@birminghampestcompany.co.uk",
+    "emails": [
+      "accounts@birminghampestcompany.co.uk"
+    ],
+    "description": "Birmingham Pest Control - Commercial Pest Control Free Surveys | All Public Health Pests | Rodent control | Birmingham Homes Pest Control - Fixed Prices",
+    "services": [
+      "Bed Bug Treatment",
+      "Commercial Pest Control"
+    ]
+  },
+  {
+    "name": "AEM pest control",
+    "address": "19 Short Bambury St, Longton, Stoke-on-Trent, ST3 5BT, GB",
+    "phone": "07944 231202",
+    "international_phone": "07944 231202",
+    "website": "http://www.aempestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/AEM+pest+control/data=!4m7!3m6!1s0x487a69442e0a0823:0x74e335436f08987f!8m2!3d52.9979861!4d-2.122253!16s%2Fg%2F11k6y_5rpf!19sChIJIwgKLkRpekgRf5gIb0M143Q?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-6 pm; Sunday: 9 am-6 pm",
+    "types": "Pest control service",
+    "lat": 52.997986,
+    "lng": -2.122253,
+    "found_in_location": "Stoke-on-Trent",
+    "found_with_query": "pest control midlands",
+    "email": "info@aempestcontrol.co.uk",
+    "emails": [
+      "info@aempestcontrol.co.uk"
+    ],
+    "description": "Pest Control Stoke On Trent. AEM pest control is a company run by family and friends with a view to helping our clients with their everyday pest problems in a relaxed and reassuring manner. With twenty year's experience in every aspect of pest control from domestic and commercial premises to..."
+  },
+  {
+    "name": "Ace Wasp Control",
+    "address": "8 Tideswell Cl, Ravenshead, Nottingham, NG15 9EX, GB",
+    "phone": "01623 325056",
+    "international_phone": "01623 325056",
+    "website": "http://acewaspremoval.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Ace+Wasp+Control/data=!4m7!3m6!1s0x4879be56c6407e27:0xb78a51f4da6b5911!8m2!3d53.0902267!4d-1.1606282!16s%2Fg%2F11b7q93nzk!19sChIJJ35Axla-eUgREVlr2vRRirc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 53.090227,
+    "lng": -1.160628,
+    "found_in_location": "Nottingham",
+    "found_with_query": "pest control midlands",
+    "email": "stuart@acewaspremoval.co.uk",
+    "emails": [
+      "stuart@acewaspremoval.co.uk"
+    ],
+    "description": "Professional wasp nest removal services with an extermination guarantee. If the first treatment doesn't work, we'll come back for free!",
+    "services": [
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "B & R Pest Control",
+    "address": "7 Keston Way, Raunds, Wellingborough, NN9 6RR, GB",
+    "phone": "01933 622135",
+    "international_phone": "01933 622135",
+    "website": "http://www.bandrpestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/B+%26+R+Pest+Control/data=!4m7!3m6!1s0x4877bd6ccebe05d5:0x350418c4127e7c6a!8m2!3d52.3393146!4d-0.5503836!16s%2Fg%2F1tfj_c7q!19sChIJ1QW-zmy9d0gRanx-EsQYBDU?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-9 pm; Tuesday: 8 am-9 pm; Wednesday: 8 am-9:30 pm; Thursday: 8 am-9 pm; Friday: 8 am-9 pm; Saturday: 9 am-9 pm; Sunday: 9 am-9 pm",
+    "types": "Pest control service",
+    "lat": 52.339315,
+    "lng": -0.550384,
+    "found_in_location": "Wellingborough",
+    "found_with_query": "pest control midlands",
+    "email": "info@bandrpestcontrol.co.uk",
+    "emails": [
+      "info@bandrpestcontrol.co.uk"
+    ],
+    "description": "B&amp;R Pest Control can rid you of rat, wasp, bed bug and mice infestations – we work across Northampton, Milton Keynes, and surrounding areas.",
+    "services": [
+      "Bed Bug Treatment",
+      "Cockroach Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Maximum Pest Control",
+    "address": "3 Bourton Rd, Much Wenlock, TF13 6AJ, GB",
+    "phone": "07835 934351",
+    "international_phone": "07835 934351",
+    "website": "http://maximum-pest-control.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Maximum+Pest+Control/data=!4m7!3m6!1s0x487079863d1e6f33:0xc2d096a8e4c7a35!8m2!3d52.5934707!4d-2.5623317!16s%2Fg%2F11w4lmjtqk!19sChIJM28ePYZ5cEgRNXpMjmoJLQw?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 3,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.593471,
+    "lng": -2.562332,
+    "found_in_location": "Much Wenlock",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "P K Pest Control",
     "address": "Keepers Cottage, Lincoln, LN6 9HZ, GB",
     "phone": "07831 101974",
@@ -2767,98 +2834,6 @@
     ]
   },
   {
-    "name": "AEM pest control",
-    "address": "19 Short Bambury St, Longton, Stoke-on-Trent, ST3 5BT, GB",
-    "phone": "07944 231202",
-    "international_phone": "07944 231202",
-    "website": "http://www.aempestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/AEM+pest+control/data=!4m7!3m6!1s0x487a69442e0a0823:0x74e335436f08987f!8m2!3d52.9979861!4d-2.122253!16s%2Fg%2F11k6y_5rpf!19sChIJIwgKLkRpekgRf5gIb0M143Q?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-6 pm; Tuesday: 9 am-6 pm; Wednesday: 9 am-6 pm; Thursday: 9 am-6 pm; Friday: 9 am-6 pm; Saturday: 9 am-6 pm; Sunday: 9 am-6 pm",
-    "types": "Pest control service",
-    "lat": 52.997986,
-    "lng": -2.122253,
-    "found_in_location": "Stoke-on-Trent",
-    "found_with_query": "pest control midlands",
-    "email": "info@aempestcontrol.co.uk",
-    "emails": [
-      "info@aempestcontrol.co.uk"
-    ],
-    "description": "Pest Control Stoke On Trent. AEM pest control is a company run by family and friends with a view to helping our clients with their everyday pest problems in a relaxed and reassuring manner. With twenty year's experience in every aspect of pest control from domestic and commercial premises to..."
-  },
-  {
-    "name": "Maximum Pest Control",
-    "address": "3 Bourton Rd, Much Wenlock, TF13 6AJ, GB",
-    "phone": "07835 934351",
-    "international_phone": "07835 934351",
-    "website": "http://maximum-pest-control.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Maximum+Pest+Control/data=!4m7!3m6!1s0x487079863d1e6f33:0xc2d096a8e4c7a35!8m2!3d52.5934707!4d-2.5623317!16s%2Fg%2F11w4lmjtqk!19sChIJM28ePYZ5cEgRNXpMjmoJLQw?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 52.593471,
-    "lng": -2.562332,
-    "found_in_location": "Much Wenlock",
-    "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "B & R Pest Control",
-    "address": "7 Keston Way, Raunds, Wellingborough, NN9 6RR, GB",
-    "phone": "01933 622135",
-    "international_phone": "01933 622135",
-    "website": "http://www.bandrpestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/B+%26+R+Pest+Control/data=!4m7!3m6!1s0x4877bd6ccebe05d5:0x350418c4127e7c6a!8m2!3d52.3393146!4d-0.5503836!16s%2Fg%2F1tfj_c7q!19sChIJ1QW-zmy9d0gRanx-EsQYBDU?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-9 pm; Tuesday: 8 am-9 pm; Wednesday: 8 am-9:30 pm; Thursday: 8 am-9 pm; Friday: 8 am-9 pm; Saturday: 9 am-9 pm; Sunday: 9 am-9 pm",
-    "types": "Pest control service",
-    "lat": 52.339315,
-    "lng": -0.550384,
-    "found_in_location": "Wellingborough",
-    "found_with_query": "pest control midlands",
-    "email": "info@bandrpestcontrol.co.uk",
-    "emails": [
-      "info@bandrpestcontrol.co.uk"
-    ],
-    "description": "B&amp;R Pest Control can rid you of rat, wasp, bed bug and mice infestations \u2013 we work across Northampton, Milton Keynes, and surrounding areas.",
-    "services": [
-      "Bed Bug Treatment",
-      "Cockroach Control",
-      "Squirrel Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Ace Wasp Control",
-    "address": "8 Tideswell Cl, Ravenshead, Nottingham, NG15 9EX, GB",
-    "phone": "01623 325056",
-    "international_phone": "01623 325056",
-    "website": "http://acewaspremoval.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Ace+Wasp+Control/data=!4m7!3m6!1s0x4879be56c6407e27:0xb78a51f4da6b5911!8m2!3d53.0902267!4d-1.1606282!16s%2Fg%2F11b7q93nzk!19sChIJJ35Axla-eUgREVlr2vRRirc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 3,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 53.090227,
-    "lng": -1.160628,
-    "found_in_location": "Nottingham",
-    "found_with_query": "pest control midlands",
-    "services": [
-      "Wasp Nest Removal"
-    ],
-    "email": "stuart@acewaspremoval.co.uk",
-    "emails": [
-      "stuart@acewaspremoval.co.uk"
-    ],
-    "description": "Professional wasp nest removal services with an extermination guarantee. If the first treatment doesn't work, we'll come back for free!"
-  },
-  {
     "name": "ThermoPest Bed Bug Treatment",
     "address": "2 Chamberlain Sq, Birmingham, B3 3AX, GB",
     "phone": "07401 155624",
@@ -2874,78 +2849,47 @@
     "lng": -1.904839,
     "found_in_location": "Birmingham",
     "found_with_query": "pest control midlands",
-    "services": [
-      "Bed Bug Treatment",
-      "Commercial Pest Control",
-      "Fumigation"
-    ],
     "email": "office@pest.co.uk",
     "emails": [
       "office@pest.co.uk"
     ],
-    "description": "London\u2019s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee"
-  },
-  {
-    "name": "PestControl.co.uk",
-    "address": "109 Hinckley Rd, Earl Shilton, Leicester, LE9 7LJ, GB",
-    "phone": "0116 355 2620",
-    "international_phone": "0116 355 2620",
-    "website": "https://www.pestcontrol.co.uk/area/LE/Leicester/?utm_source=GMB&utm_medium=LE&utm_campaign=Earl-Shilton",
-    "google_maps_url": "https://www.google.com/maps/place/PestControl.co.uk/data=!4m7!3m6!1s0x48775e108f916489:0x8af68b25ed8f4c8!8m2!3d52.5711898!4d-1.3285397!16s%2Fg%2F12hl9wstk!19sChIJiWSRjxBed0gRyPTYXrJorwg?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-6 pm; Tuesday: 8 am-6 pm; Wednesday: 8 am-6 pm; Thursday: 8 am-6 pm; Friday: 8 am-6 pm; Saturday: 9 am-5 pm; Sunday: 9 am-5 pm",
-    "types": "Pest control service",
-    "lat": 52.57119,
-    "lng": -1.32854,
-    "found_in_location": "Leicester",
-    "found_with_query": "pest control midlands",
+    "description": "London’s dedicated bed bug specialists. BPCA & NPTA accredited heat treatments with a 60-day guarantee",
     "services": [
       "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
       "Commercial Pest Control",
-      "Fumigation",
-      "Rat & Mouse Control"
+      "Fumigation"
     ]
   },
   {
-    "name": "MoleFree Pest Control Wasp Nests Destroyed",
-    "address": "3 Springhill Ln, Penn, Wolverhampton, WV4 4SH, GB",
-    "phone": "07971 789239",
-    "international_phone": "07971 789239",
-    "website": "http://www.molefree.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/MoleFree+Pest+Control+Wasp+Nests+Destroyed/data=!4m7!3m6!1s0x48709b378b5f8043:0x23c54bdb7024b5f3!8m2!3d52.5562176!4d-2.1721575!16s%2Fg%2F1thq98zq!19sChIJQ4BfizebcEgR87UkcNtLxSM?authuser=0&hl=en&rclk=1",
+    "name": "Dr. Kill Limited",
+    "address": "4 Hewell Ln, Tardebigge, Bromsgrove, B60 1LP, GB",
+    "phone": "01527 575553",
+    "international_phone": "01527 575553",
+    "website": "https://www.drkill.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Dr.+Kill+Limited/data=!4m7!3m6!1s0x4f8643a757c42b05:0xcdad3c0d7a84b124!8m2!3d52.3249812!4d-2.0043669!16s%2Fg%2F11tcxm5fnh!19sChIJBSvEV6dDhk8RJLGEeg08rc0?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
     "types": "Pest control service",
-    "lat": 52.556218,
-    "lng": -2.172157,
-    "found_in_location": "Wolverhampton",
+    "lat": 52.324981,
+    "lng": -2.004367,
+    "found_in_location": "Bromsgrove",
     "found_with_query": "pest control midlands",
+    "email": "info@drkill.co.uk",
+    "emails": [
+      "info@drkill.co.uk"
+    ],
+    "description": "Wasp nest removal service from pest control company based in Bromsgrove. We offer a range of pest control services including rats, mice, bed bugs and ants. Request a quote from a local pest control technician today.",
     "services": [
+      "Ant Control",
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Commercial Pest Control",
+      "Emergency Pest Control",
+      "Fumigation",
       "Wasp Nest Removal"
     ]
-  },
-  {
-    "name": "TL Pest Control",
-    "address": "26 Love Ave, Dudley, Cramlington, NE23 7BJ, GB",
-    "phone": "07886 325299",
-    "international_phone": "07886 325299",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/TL+Pest+Control/data=!4m7!3m6!1s0x487e73cf439a49dd:0xcd72d35c182dc73d!8m2!3d55.0545749!4d-1.5821615!16s%2Fg%2F1hg4vrhsp!19sChIJ3UmaQ89zfkgRPcctGFzTcs0?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 2,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 55.054575,
-    "lng": -1.582161,
-    "found_in_location": "Cramlington",
-    "found_with_query": "pest control midlands"
   },
   {
     "name": "Ian Gall Pest Control",
@@ -2996,34 +2940,94 @@
     ]
   },
   {
-    "name": "Dr. Kill Limited",
-    "address": "4 Hewell Ln, Tardebigge, Bromsgrove, B60 1LP, GB",
-    "phone": "01527 575553",
-    "international_phone": "01527 575553",
-    "website": "https://www.drkill.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Dr.+Kill+Limited/data=!4m7!3m6!1s0x4f8643a757c42b05:0xcdad3c0d7a84b124!8m2!3d52.3249812!4d-2.0043669!16s%2Fg%2F11tcxm5fnh!19sChIJBSvEV6dDhk8RJLGEeg08rc0?authuser=0&hl=en&rclk=1",
+    "name": "MoleFree Pest Control Wasp Nests Destroyed",
+    "address": "3 Springhill Ln, Penn, Wolverhampton, WV4 4SH, GB",
+    "phone": "07971 789239",
+    "international_phone": "07971 789239",
+    "website": "http://www.molefree.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/MoleFree+Pest+Control+Wasp+Nests+Destroyed/data=!4m7!3m6!1s0x48709b378b5f8043:0x23c54bdb7024b5f3!8m2!3d52.5562176!4d-2.1721575!16s%2Fg%2F1thq98zq!19sChIJQ4BfizebcEgR87UkcNtLxSM?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 2,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-8 pm; Tuesday: 9 am-8 pm; Wednesday: 9 am-8 pm; Thursday: 9 am-8 pm; Friday: 9 am-8 pm; Saturday: 9 am-8 pm; Sunday: 9 am-8 pm",
+    "opening_hours": "Monday: 8 am-5 pm; Tuesday: 8 am-5 pm; Wednesday: 8 am-5 pm; Thursday: 8 am-5 pm; Friday: 8 am-5 pm; Saturday: Closed; Sunday: Closed",
     "types": "Pest control service",
-    "lat": 52.324981,
-    "lng": -2.004367,
-    "found_in_location": "Bromsgrove",
+    "lat": 52.556218,
+    "lng": -2.172157,
+    "found_in_location": "Wolverhampton",
     "found_with_query": "pest control midlands",
-    "email": "info@drkill.co.uk",
-    "emails": [
-      "info@drkill.co.uk"
-    ],
-    "description": "Wasp nest removal service from pest control company based in Bromsgrove. We offer a range of pest control services including rats, mice, bed bugs and ants. Request a quote from a local pest control technician today.",
     "services": [
-      "Ant Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "PestControl.co.uk",
+    "address": "109 Hinckley Rd, Earl Shilton, Leicester, LE9 7LJ, GB",
+    "phone": "0116 355 2620",
+    "international_phone": "0116 355 2620",
+    "website": "https://www.pestcontrol.co.uk/area/LE/Leicester/?utm_source=GMB&utm_medium=LE&utm_campaign=Earl-Shilton",
+    "google_maps_url": "https://www.google.com/maps/place/PestControl.co.uk/data=!4m7!3m6!1s0x48775e108f916489:0x8af68b25ed8f4c8!8m2!3d52.5711898!4d-1.3285397!16s%2Fg%2F12hl9wstk!19sChIJiWSRjxBed0gRyPTYXrJorwg?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-6 pm; Tuesday: 8 am-6 pm; Wednesday: 8 am-6 pm; Thursday: 8 am-6 pm; Friday: 8 am-6 pm; Saturday: 9 am-5 pm; Sunday: 9 am-5 pm",
+    "types": "Pest control service",
+    "lat": 52.57119,
+    "lng": -1.32854,
+    "found_in_location": "Leicester",
+    "found_with_query": "pest control midlands",
+    "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
+      "Cockroach Control",
       "Commercial Pest Control",
-      "Emergency Pest Control",
       "Fumigation",
-      "Wasp Nest Removal"
+      "Rat & Mouse Control"
+    ]
+  },
+  {
+    "name": "TL Pest Control",
+    "address": "26 Love Ave, Dudley, Cramlington, NE23 7BJ, GB",
+    "phone": "07886 325299",
+    "international_phone": "07886 325299",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/TL+Pest+Control/data=!4m7!3m6!1s0x487e73cf439a49dd:0xcd72d35c182dc73d!8m2!3d55.0545749!4d-1.5821615!16s%2Fg%2F1hg4vrhsp!19sChIJ3UmaQ89zfkgRPcctGFzTcs0?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 2,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 55.054575,
+    "lng": -1.582161,
+    "found_in_location": "Cramlington",
+    "found_with_query": "pest control midlands"
+  },
+  {
+    "name": "Comprehensive Pest Control",
+    "address": "Willingham House, 5 The Walks, Cherry Willingham, Lincoln, LN3 4FT, GB",
+    "phone": "07475 801085",
+    "international_phone": "07475 801085",
+    "website": "https://comprehensivepestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Comprehensive+Pest+Control/data=!4m7!3m6!1s0x48785d6079589aa3:0xb6d88bf4a04876cf!8m2!3d53.2383657!4d-0.467646!16s%2Fg%2F11rzgnfj6_!19sChIJo5pYeWBdeEgRz3ZIoPSL2LY?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 53.238366,
+    "lng": -0.467646,
+    "found_in_location": "Lincoln",
+    "found_with_query": "pest control midlands",
+    "email": "info@comprehensivepestcontrol.co.uk",
+    "emails": [
+      "info@comprehensivepestcontrol.co.uk",
+      "luke@comprehensivepestcontrol.co.uk",
+      "race_steve@hotmail.com"
+    ],
+    "description": "We provide a broad range of pest control services in Lincoln and Lincolnshire to the general public and commercial clients.",
+    "services": [
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control"
     ]
   },
   {
@@ -3059,6 +3063,40 @@
     ]
   },
   {
+    "name": "MAC Pest Control",
+    "address": "82 Gospel Ln, Birmingham, B27 7AD, GB",
+    "phone": "07742 622979",
+    "international_phone": "07742 622979",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/MAC+Pest+Control/data=!4m7!3m6!1s0x2da6446d1c7637e7:0x874ccb54d7040eeb!8m2!3d52.4396607!4d-1.8152937!16s%2Fg%2F11q45mwm3g!19sChIJ5zd2HG1Epi0R6w4E11TLTIc?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.439661,
+    "lng": -1.815294,
+    "found_in_location": "Birmingham",
+    "found_with_query": "pest control midlands"
+  },
+  {
+    "name": "Pest Control Centre",
+    "address": "21 Top Barn Business Centre, Holt Heath, Holt, Worcester, WR6 6NH, GB",
+    "phone": "01905 621363",
+    "international_phone": "01905 621363",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Centre/data=!4m7!3m6!1s0x4870f1588ee5f73b:0xdfbfc8d51876416e!8m2!3d52.2539841!4d-2.2504358!16s%2Fg%2F119vbyfpc!19sChIJO_fljljxcEgRbkF2GNXIv98?authuser=0&hl=en&rclk=1",
+    "rating": 5.0,
+    "total_reviews": 1,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.253984,
+    "lng": -2.250436,
+    "found_in_location": "Worcester",
+    "found_with_query": "pest control midlands"
+  },
+  {
     "name": "Pest Control Services",
     "address": "Unit 13, Oak Court, Crystall Drive, Smethwick, B66 1QG, GB",
     "phone": "0121 450 9784",
@@ -3086,69 +3124,6 @@
     ]
   },
   {
-    "name": "Comprehensive Pest Control",
-    "address": "Willingham House, 5 The Walks, Cherry Willingham, Lincoln, LN3 4FT, GB",
-    "phone": "07475 801085",
-    "international_phone": "07475 801085",
-    "website": "https://comprehensivepestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Comprehensive+Pest+Control/data=!4m7!3m6!1s0x48785d6079589aa3:0xb6d88bf4a04876cf!8m2!3d53.2383657!4d-0.467646!16s%2Fg%2F11rzgnfj6_!19sChIJo5pYeWBdeEgRz3ZIoPSL2LY?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 53.238366,
-    "lng": -0.467646,
-    "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands",
-    "email": "info@comprehensivepestcontrol.co.uk",
-    "emails": [
-      "info@comprehensivepestcontrol.co.uk",
-      "luke@comprehensivepestcontrol.co.uk",
-      "race_steve@hotmail.com"
-    ],
-    "description": "We provide a broad range of pest control services in Lincoln and Lincolnshire to the general public and commercial clients.",
-    "services": [
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Rat & Mouse Control"
-    ]
-  },
-  {
-    "name": "Stop Dead Pest Control",
-    "address": "15 Almond Ave, Heighington, Lincoln, LN4 1JW, GB",
-    "phone": "07760 293273",
-    "international_phone": "07760 293273",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Stop+Dead+Pest+Control/data=!4m7!3m6!1s0x487842d619eb5e1b:0x2436b046e9307703!8m2!3d53.210741!4d-0.4502081!16s%2Fg%2F11f1zkxssz!19sChIJG17rGdZCeEgRA3cw6UawNiQ?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 53.210741,
-    "lng": -0.450208,
-    "found_in_location": "Lincoln",
-    "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "MAC Pest Control",
-    "address": "82 Gospel Ln, Birmingham, B27 7AD, GB",
-    "phone": "07742 622979",
-    "international_phone": "07742 622979",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/MAC+Pest+Control/data=!4m7!3m6!1s0x2da6446d1c7637e7:0x874ccb54d7040eeb!8m2!3d52.4396607!4d-1.8152937!16s%2Fg%2F11q45mwm3g!19sChIJ5zd2HG1Epi0R6w4E11TLTIc?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 52.439661,
-    "lng": -1.815294,
-    "found_in_location": "Birmingham",
-    "found_with_query": "pest control midlands"
-  },
-  {
     "name": "Pestkill Environmental Services",
     "address": "Sunrise, Broadmore Grn, Worcester, WR2 5TE, GB",
     "phone": "07977 813135",
@@ -3166,43 +3141,21 @@
     "found_with_query": "pest control midlands"
   },
   {
-    "name": "Pest Control Centre",
-    "address": "21 Top Barn Business Centre, Holt Heath, Holt, Worcester, WR6 6NH, GB",
-    "phone": "01905 621363",
-    "international_phone": "01905 621363",
+    "name": "Stop Dead Pest Control",
+    "address": "15 Almond Ave, Heighington, Lincoln, LN4 1JW, GB",
+    "phone": "07760 293273",
+    "international_phone": "07760 293273",
     "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Pest+Control+Centre/data=!4m7!3m6!1s0x4870f1588ee5f73b:0xdfbfc8d51876416e!8m2!3d52.2539841!4d-2.2504358!16s%2Fg%2F119vbyfpc!19sChIJO_fljljxcEgRbkF2GNXIv98?authuser=0&hl=en&rclk=1",
+    "google_maps_url": "https://www.google.com/maps/place/Stop+Dead+Pest+Control/data=!4m7!3m6!1s0x487842d619eb5e1b:0x2436b046e9307703!8m2!3d53.210741!4d-0.4502081!16s%2Fg%2F11f1zkxssz!19sChIJG17rGdZCeEgRA3cw6UawNiQ?authuser=0&hl=en&rclk=1",
     "rating": 5.0,
     "total_reviews": 1,
     "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: Closed; Sunday: Closed",
+    "opening_hours": "",
     "types": "Pest control service",
-    "lat": 52.253984,
-    "lng": -2.250436,
-    "found_in_location": "Worcester",
+    "lat": 53.210741,
+    "lng": -0.450208,
+    "found_in_location": "Lincoln",
     "found_with_query": "pest control midlands"
-  },
-  {
-    "name": "Kettering Nature Group",
-    "address": "40 Waverley Rd, Kettering, NN15 6NT, GB",
-    "phone": "07482 605080",
-    "international_phone": "07482 605080",
-    "website": "http://www.ketteringnaturegroup.com/",
-    "google_maps_url": "https://www.google.com/maps/place/Kettering+Nature+Group/data=!4m7!3m6!1s0x6dce411490d19053:0x40fb5f318b3fcc73!8m2!3d52.3916405!4d-0.7146803!16s%2Fg%2F11kqwydrvp!19sChIJU5DRkBRBzm0Rc8w_izFf-0A?authuser=0&hl=en&rclk=1",
-    "rating": 5.0,
-    "total_reviews": 1,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 9 am-5 pm; Tuesday: 9 am-5 pm; Wednesday: 9 am-5 pm; Thursday: 9 am-5 pm; Friday: 9 am-5 pm; Saturday: 9 am-5 pm; Sunday: 9 am-5 pm",
-    "types": "Non-profit organisation",
-    "lat": 52.391641,
-    "lng": -0.71468,
-    "found_in_location": "Kettering",
-    "found_with_query": "pest control midlands",
-    "email": "abc@xyz.com",
-    "emails": [
-      "abc@xyz.com"
-    ],
-    "description": "The state of nature is alarming. Since 1970, we have caused a 70% decline in the world\u2019s biodiversity. The UK, in particular, is facing a significant loss of nature, with the abundance of species dwindling by an average of 19% during this period. A staggering 16% of species are now threatened with"
   },
   {
     "name": "Colonial Pest Control Inc.",
@@ -3248,7 +3201,7 @@
     "emails": [
       "example@domain.com"
     ],
-    "description": "Call for pest control and lawn care from licensed and certified pros. For 85+ years, we\u2019ve treated customers like family, delivering reliable, personalized services.",
+    "description": "Call for pest control and lawn care from licensed and certified pros. For 85+ years, we’ve treated customers like family, delivering reliable, personalized services.",
     "services": [
       "Ant Control",
       "Cockroach Control",
@@ -3351,31 +3304,6 @@
     ]
   },
   {
-    "name": "Solutions Pest Control",
-    "address": "Brook Furlong Farm, Costock Rd, East Leake, Loughborough, LE12 6LY, GB",
-    "phone": "01509 852919",
-    "international_phone": "01509 852919",
-    "website": "http://www.solutionspestcontrol.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Solutions+Pest+Control/data=!4m7!3m6!1s0x4879dd735cd66995:0x3bf725102e08be79!8m2!3d52.8319274!4d-1.1640964!16s%2Fg%2F11b5pkr3m6!19sChIJlWnWXHPdeUgReb4ILhAl9zs?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 154,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: 8 am-8 pm; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.831927,
-    "lng": -1.164096,
-    "found_in_location": "Loughborough",
-    "found_with_query": "pest control midlands",
-    "email": "info@solutionspestcontrol.co.uk",
-    "emails": [
-      "info@solutionspestcontrol.co.uk"
-    ],
-    "description": "Fast and effective solutions to pest control problems in Leicestershire. If you need wasp nests, moles or vermin removed quickly, please give us a call.",
-    "services": [
-      "Wasp Nest Removal"
-    ]
-  },
-  {
     "name": "MJ Pest Control",
     "address": "66 Foxhunter Dr, Oadby, Leicester, LE2 5FF, GB",
     "phone": "07806 895592",
@@ -3433,6 +3361,31 @@
       "Bed Bug Treatment",
       "Flea Treatment",
       "Rat & Mouse Control"
+    ]
+  },
+  {
+    "name": "Solutions Pest Control",
+    "address": "Brook Furlong Farm, Costock Rd, East Leake, Loughborough, LE12 6LY, GB",
+    "phone": "01509 852919",
+    "international_phone": "01509 852919",
+    "website": "http://www.solutionspestcontrol.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Solutions+Pest+Control/data=!4m7!3m6!1s0x4879dd735cd66995:0x3bf725102e08be79!8m2!3d52.8319274!4d-1.1640964!16s%2Fg%2F11b5pkr3m6!19sChIJlWnWXHPdeUgReb4ILhAl9zs?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 154,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: 8 am-8 pm; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.831927,
+    "lng": -1.164096,
+    "found_in_location": "Loughborough",
+    "found_with_query": "pest control midlands",
+    "email": "info@solutionspestcontrol.co.uk",
+    "emails": [
+      "info@solutionspestcontrol.co.uk"
+    ],
+    "description": "Fast and effective solutions to pest control problems in Leicestershire. If you need wasp nests, moles or vermin removed quickly, please give us a call.",
+    "services": [
+      "Wasp Nest Removal"
     ]
   },
   {
@@ -3716,7 +3669,7 @@
     "emails": [
       "davethepestcontroller@hotmail.com"
     ],
-    "description": "My name is Dave McCoy, I provide tailored pest control services for domestic and businesscustomers in Shrewsbury and the surrounding area. I have been professionally trained to British PestControl Association standards.I\u2019ve always had an interest in wildlife, I\u2019m an avid birdwatcher and angler...",
+    "description": "My name is Dave McCoy, I provide tailored pest control services for domestic and businesscustomers in Shrewsbury and the surrounding area. I have been professionally trained to British PestControl Association standards.I’ve always had an interest in wildlife, I’m an avid birdwatcher and angler...",
     "services": [
       "Commercial Pest Control",
       "Mole Control",
@@ -3872,6 +3825,36 @@
     "found_with_query": "pest control midlands"
   },
   {
+    "name": "JD's Pest & Vermin Control",
+    "address": "41 Clayton Ln, Newcastle-under-Lyme, Newcastle, ST5 3DT, GB",
+    "phone": "07830 479809",
+    "international_phone": "07830 479809",
+    "website": "http://www.pestcontrolstaffs.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/JD%27s+Pest+%26+Vermin+Control/data=!4m7!3m6!1s0x487a6879770d9fe5:0x75dad6194e0288aa!8m2!3d52.9902559!4d-2.2192199!16s%2Fg%2F1tdqn5q0!19sChIJ5Z8Nd3loekgRqogCThnW2nU?authuser=0&hl=en&rclk=1",
+    "rating": 4.9,
+    "total_reviews": 49,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-5:30 pm; Tuesday: 8 am-5:30 pm; Wednesday: 8 am-5:30 pm; Thursday: 8 am-5:30 pm; Friday: 8 am-5:30 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.990256,
+    "lng": -2.21922,
+    "found_in_location": "Newcastle",
+    "found_with_query": "pest control midlands",
+    "email": "moletrapper@ntlworld.com",
+    "emails": [
+      "moletrapper@ntlworld.com"
+    ],
+    "description": "JD's Pest & Vermin Control is a family Husband & Wife team who will offer you a service second to none, we will help you with any Pest problem you may have",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Cockroach Control",
+      "Rat & Mouse Control",
+      "Squirrel Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
     "name": "PGM & Son Pest Control Services",
     "address": "Misty Peak, Kingsthorne, Hereford, HR2 8AL, GB",
     "phone": "01981 540088",
@@ -3901,36 +3884,6 @@
       "Fumigation",
       "Moth Treatment",
       "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "JD's Pest & Vermin Control",
-    "address": "41 Clayton Ln, Newcastle-under-Lyme, Newcastle, ST5 3DT, GB",
-    "phone": "07830 479809",
-    "international_phone": "07830 479809",
-    "website": "http://www.pestcontrolstaffs.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/JD%27s+Pest+%26+Vermin+Control/data=!4m7!3m6!1s0x487a6879770d9fe5:0x75dad6194e0288aa!8m2!3d52.9902559!4d-2.2192199!16s%2Fg%2F1tdqn5q0!19sChIJ5Z8Nd3loekgRqogCThnW2nU?authuser=0&hl=en&rclk=1",
-    "rating": 4.9,
-    "total_reviews": 49,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-5:30 pm; Tuesday: 8 am-5:30 pm; Wednesday: 8 am-5:30 pm; Thursday: 8 am-5:30 pm; Friday: 8 am-5:30 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.990256,
-    "lng": -2.21922,
-    "found_in_location": "Newcastle",
-    "found_with_query": "pest control midlands",
-    "email": "moletrapper@ntlworld.com",
-    "emails": [
-      "moletrapper@ntlworld.com"
-    ],
-    "description": "JD's Pest & Vermin Control is a family Husband & Wife team who will offer you a service second to none, we will help you with any Pest problem you may have",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Cockroach Control",
-      "Rat & Mouse Control",
-      "Squirrel Control",
       "Wasp Nest Removal"
     ]
   },
@@ -4839,6 +4792,33 @@
     ]
   },
   {
+    "name": "Bed Bug Heat Treatment London",
+    "address": "39 Lilestone St, London, NW8 8SS, GB",
+    "phone": "020 3600 1045",
+    "international_phone": "020 3600 1045",
+    "website": "https://bedbug-heattreatment.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Bed+Bug+Heat+Treatment+London/data=!4m7!3m6!1s0x48761bc096984ba1:0x179cd9dc5254ac42!8m2!3d51.5253032!4d-0.1675431!16s%2Fg%2F11ngtj8drw!19sChIJoUuYlsAbdkgRQqxUUtzZnBc?authuser=0&hl=en&rclk=1",
+    "rating": 4.7,
+    "total_reviews": 34,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+    "types": "Pest control service",
+    "lat": 51.525303,
+    "lng": -0.167543,
+    "found_in_location": "London",
+    "found_with_query": "pest control midlands",
+    "email": "hello@bedbug-heattreatment.co.uk",
+    "emails": [
+      "hello@bedbug-heattreatment.co.uk"
+    ],
+    "description": "Bed Bug Heat Treatment - London, UK. We are the bed bug treatment specialist covering London and surrounding areas. Contact us for a FREE QUOTATION for treatment.",
+    "services": [
+      "Bed Bug Treatment",
+      "Emergency Pest Control",
+      "Fumigation"
+    ]
+  },
+  {
     "name": "Keye Pest Control",
     "address": "45 New Rd, Water Orton, Birmingham, B46 1QP, GB",
     "phone": "07704 361351",
@@ -4867,33 +4847,6 @@
       "Fumigation",
       "Moth Treatment"
     ]
-  },
-  {
-    "name": "Bed Bug Heat Treatment London",
-    "address": "39 Lilestone St, London, NW8 8SS, GB",
-    "phone": "020 3600 1045",
-    "international_phone": "020 3600 1045",
-    "website": "https://bedbug-heattreatment.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Bed+Bug+Heat+Treatment+London/data=!4m7!3m6!1s0x48761bc096984ba1:0x179cd9dc5254ac42!8m2!3d51.5253032!4d-0.1675431!16s%2Fg%2F11ngtj8drw!19sChIJoUuYlsAbdkgRQqxUUtzZnBc?authuser=0&hl=en&rclk=1",
-    "rating": 4.7,
-    "total_reviews": 34,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
-    "types": "Pest control service",
-    "lat": 51.525303,
-    "lng": -0.167543,
-    "found_in_location": "London",
-    "found_with_query": "pest control midlands",
-    "services": [
-      "Bed Bug Treatment",
-      "Emergency Pest Control",
-      "Fumigation"
-    ],
-    "email": "hello@bedbug-heattreatment.co.uk",
-    "emails": [
-      "hello@bedbug-heattreatment.co.uk"
-    ],
-    "description": "Bed Bug Heat Treatment - London, UK. We are the bed bug treatment specialist covering London and surrounding areas. Contact us for a FREE QUOTATION for treatment."
   },
   {
     "name": "Hawk Pest Control",
@@ -5122,23 +5075,6 @@
     "description": "Healthguard Ltd - A premier Pest Control & Washroom Hygiene Services provider. With a focus on Pest Control Services, Washroom Hygiene and Commercial Hygiene solutions, we specialise in comprehensive Pest Management & Sanitary Maintenance. Our expert team offers rodent control, insect exterm"
   },
   {
-    "name": "Ray Styles Pest Control",
-    "address": "East Lodge Hall Court Bishopsfrome, Bishop's Frome, Hereford, WR6 5BY, GB",
-    "phone": "01885 490353",
-    "international_phone": "01885 490353",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Ray+Styles+Pest+Control/data=!4m7!3m6!1s0x4870505800ade9dd:0xc91021e8ea8e659a!8m2!3d52.1330959!4d-2.5084274!16s%2Fg%2F11bwf7d16b!19sChIJ3emtAFhQcEgRmmWO6ughEMk?authuser=0&hl=en&rclk=1",
-    "rating": 4.6,
-    "total_reviews": 9,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 7 am-10 pm; Tuesday: 7 am-10 pm; Wednesday: 7 am-10 pm; Thursday: 7 am-10 pm; Friday: 7 am-10 pm; Saturday: 7 am-10 pm; Sunday: 7 am-10 pm",
-    "types": "Pest control service",
-    "lat": 52.133096,
-    "lng": -2.508427,
-    "found_in_location": "Hereford",
-    "found_with_query": "pest control midlands"
-  },
-  {
     "name": "RB Pest Control Nottingham",
     "address": "35 Park Rd, Barnstone, Nottingham, NG13 9JF, GB",
     "phone": "01949 860465",
@@ -5161,6 +5097,23 @@
       "Rat & Mouse Control",
       "Wasp Nest Removal"
     ]
+  },
+  {
+    "name": "Ray Styles Pest Control",
+    "address": "East Lodge Hall Court Bishopsfrome, Bishop's Frome, Hereford, WR6 5BY, GB",
+    "phone": "01885 490353",
+    "international_phone": "01885 490353",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ray+Styles+Pest+Control/data=!4m7!3m6!1s0x4870505800ade9dd:0xc91021e8ea8e659a!8m2!3d52.1330959!4d-2.5084274!16s%2Fg%2F11bwf7d16b!19sChIJ3emtAFhQcEgRmmWO6ughEMk?authuser=0&hl=en&rclk=1",
+    "rating": 4.6,
+    "total_reviews": 9,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 7 am-10 pm; Tuesday: 7 am-10 pm; Wednesday: 7 am-10 pm; Thursday: 7 am-10 pm; Friday: 7 am-10 pm; Saturday: 7 am-10 pm; Sunday: 7 am-10 pm",
+    "types": "Pest control service",
+    "lat": 52.133096,
+    "lng": -2.508427,
+    "found_in_location": "Hereford",
+    "found_with_query": "pest control midlands"
   },
   {
     "name": "Town & Country Pest Control",
@@ -5307,7 +5260,7 @@
     "emails": [
       "info@opkill.com"
     ],
-    "description": "Opkill Pest Control, trusted experts in West Midlands, UK. Collective 50 years\u2019 experience, we provide safe, certified pest solutions for homes and businesses. Call us for effective pest control!",
+    "description": "Opkill Pest Control, trusted experts in West Midlands, UK. Collective 50 years’ experience, we provide safe, certified pest solutions for homes and businesses. Call us for effective pest control!",
     "services": [
       "Fumigation",
       "Rat & Mouse Control",
@@ -5387,7 +5340,7 @@
     "emails": [
       "office@hullternativepestcontrol.co.uk"
     ],
-    "description": "Hullternative Pest Control \u2013 based in Sutton Coldfield, serving Birmingham homes. Fast, safe treatment for rats, rodents, insects & more. 40+ years\u2019 experience.",
+    "description": "Hullternative Pest Control – based in Sutton Coldfield, serving Birmingham homes. Fast, safe treatment for rats, rodents, insects & more. 40+ years’ experience.",
     "services": [
       "Wasp Nest Removal"
     ]
@@ -5536,10 +5489,10 @@
     "lng": -1.987737,
     "found_in_location": "Smethwick",
     "found_with_query": "pest control midlands",
+    "description": "Fixed price £45.00 no hidden extras, West Midlands Area. We aim to reach you within an hour of your call, 24/7 service.",
     "services": [
       "Wasp Nest Removal"
-    ],
-    "description": "Fixed price \u00a345.00 no hidden extras, West Midlands Area. We aim to reach you within an hour of your call, 24/7 service."
+    ]
   },
   {
     "name": "Pest Professionals Northampton",
@@ -5593,7 +5546,7 @@
     "emails": [
       "info@pestelite.co.za"
     ],
-    "description": "PEST ELITEspecializes in commercial, industrial and domestic pest control, using only the safest and most advanced products to target the relevant pest. We pride ourselves in understanding and satisfying our clients\u2019 individual needs by using high quality products and providing excellent service."
+    "description": "PEST ELITEspecializes in commercial, industrial and domestic pest control, using only the safest and most advanced products to target the relevant pest. We pride ourselves in understanding and satisfying our clients’ individual needs by using high quality products and providing excellent service."
   },
   {
     "name": "Front Row Pest Control",
@@ -5624,49 +5577,6 @@
     ]
   },
   {
-    "name": "Xpress Pest Control Services",
-    "address": "Warwickshire, St Davids Way, Nuneaton, CV10 7SD, GB",
-    "phone": "0800 051 8640",
-    "international_phone": "0800 051 8640",
-    "website": "http://pestcontrolnuneaton247.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Xpress+Pest+Control+Services/data=!4m7!3m6!1s0x48774e75ed56cd07:0xc6b1cb28bb02b89!8m2!3d52.4972745!4d-1.4789611!16s%2Fg%2F11y3sjtpyh!19sChIJB81W7XVOd0gRiSuwi7Icaww?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 52.497274,
-    "lng": -1.478961,
-    "found_in_location": "Nuneaton",
-    "found_with_query": "pest control midlands",
-    "description": "For Local Pest Control Near Me in Nuneaton Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Nuneaton, Fast for Home & Commercial Pest Problems!",
-    "services": [
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Hygiene Pest Control Ltd",
-    "address": "Satra House, Rockingham Rd, Kettering, NN16 9JH, GB",
-    "phone": "01536 523430",
-    "international_phone": "01536 523430",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Hygiene+Pest+Control+Ltd/data=!4m7!3m6!1s0x48779ef79243967f:0xb7fb907447bf9c29!8m2!3d52.4130962!4d-0.7304577!16s%2Fg%2F11b6hqy00g!19sChIJf5ZDkveed0gRKZy_R3SQ-7c?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 52.413096,
-    "lng": -0.730458,
-    "found_in_location": "Kettering",
-    "found_with_query": "pest control midlands"
-  },
-  {
     "name": "Express Derby Pest Control",
     "address": "Derbyshire, Babington Ln, Derby, DE1 1TA, GB",
     "phone": "0800 051 8640",
@@ -5685,32 +5595,6 @@
     "description": "For Local Pest Control Near Me in Derby Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Derby, Fast for Home & Commercial Pest Problems!",
     "services": [
       "Ant Control",
-      "Bed Bug Treatment",
-      "Bird & Pigeon Control",
-      "Emergency Pest Control",
-      "Flea Treatment",
-      "Rat & Mouse Control",
-      "Wasp Nest Removal"
-    ]
-  },
-  {
-    "name": "Xpress",
-    "address": "Lincolnshire, Canwick Rd, LocationLincoln, LN5 8EX, GB",
-    "phone": "0344 947 0952",
-    "international_phone": "0344 947 0952",
-    "website": "http://pestcontrollincoln247.co.uk/",
-    "google_maps_url": "https://www.google.com/maps/place/Xpress/data=!4m7!3m6!1s0x48785b33902d59a7:0xaf7513ccd46351b9!8m2!3d53.2204088!4d-0.5336598!16s%2Fg%2F11y5g_p2st!19sChIJp1ktkDNbeEgRuVFj1MwTda8?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "",
-    "types": "Pest control service",
-    "lat": 53.220409,
-    "lng": -0.53366,
-    "found_in_location": "LocationLincoln",
-    "found_with_query": "pest control midlands",
-    "description": "For Local Pest Control Near Me in Lincoln Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Lincoln, Fast for Home & Commercial Pest Problems!",
-    "services": [
       "Bed Bug Treatment",
       "Bird & Pigeon Control",
       "Emergency Pest Control",
@@ -5747,6 +5631,60 @@
     ]
   },
   {
+    "name": "Hygiene Pest Control Ltd",
+    "address": "Satra House, Rockingham Rd, Kettering, NN16 9JH, GB",
+    "phone": "01536 523430",
+    "international_phone": "01536 523430",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Hygiene+Pest+Control+Ltd/data=!4m7!3m6!1s0x48779ef79243967f:0xb7fb907447bf9c29!8m2!3d52.4130962!4d-0.7304577!16s%2Fg%2F11b6hqy00g!19sChIJf5ZDkveed0gRKZy_R3SQ-7c?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.413096,
+    "lng": -0.730458,
+    "found_in_location": "Kettering",
+    "found_with_query": "pest control midlands"
+  },
+  {
+    "name": "Pestology",
+    "address": "Clifton Villa, 10 Bannut Hill, Kempsey, Worcester, WR5 3NG, GB",
+    "phone": "01905 820155",
+    "international_phone": "01905 820155",
+    "website": "http://www.pestology.co.uk/7627.html",
+    "google_maps_url": "https://www.google.com/maps/place/Pestology/data=!4m7!3m6!1s0x4870fa514c3507fd:0x5a14c7114ea0386b!8m2!3d52.1345901!4d-2.2141154!16s%2Fg%2F1tdw2xzq!19sChIJ_Qc1TFH6cEgRazigThHHFFo?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.13459,
+    "lng": -2.214115,
+    "found_in_location": "Worcester",
+    "found_with_query": "pest control midlands"
+  },
+  {
+    "name": "Ratverm Pest Contol - Rat, Rodent and Wasp specialists",
+    "address": "6 Gower Rd, Stone, ST15 8NZ, GB",
+    "phone": "07870 144141",
+    "international_phone": "07870 144141",
+    "website": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ratverm+Pest+Contol+-+Rat,+Rodent+and+Wasp+specialists/data=!4m7!3m6!1s0x420d120426d2adc3:0xb3375ab098e42f07!8m2!3d52.895908!4d-2.1378279!16s%2Fg%2F11tr_2wdrk!19sChIJw63SJgQSDUIRBy_kmLBaN7M?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: Closed; Sunday: Closed",
+    "types": "Pest control service",
+    "lat": 52.895908,
+    "lng": -2.137828,
+    "found_in_location": "Stone",
+    "found_with_query": "pest control midlands",
+    "services": [
+      "Rat & Mouse Control"
+    ]
+  },
+  {
     "name": "Staffordshire Pest Control",
     "address": "Stafford, GB",
     "phone": "07737 051222",
@@ -5779,40 +5717,55 @@
     ]
   },
   {
-    "name": "Ratverm Pest Contol - Rat, Rodent and Wasp specialists",
-    "address": "6 Gower Rd, Stone, ST15 8NZ, GB",
-    "phone": "07870 144141",
-    "international_phone": "07870 144141",
-    "website": "",
-    "google_maps_url": "https://www.google.com/maps/place/Ratverm+Pest+Contol+-+Rat,+Rodent+and+Wasp+specialists/data=!4m7!3m6!1s0x420d120426d2adc3:0xb3375ab098e42f07!8m2!3d52.895908!4d-2.1378279!16s%2Fg%2F11tr_2wdrk!19sChIJw63SJgQSDUIRBy_kmLBaN7M?authuser=0&hl=en&rclk=1",
-    "rating": 0.0,
-    "total_reviews": 0,
-    "business_status": "OPERATIONAL",
-    "opening_hours": "Monday: 8 am-8 pm; Tuesday: 8 am-8 pm; Wednesday: 8 am-8 pm; Thursday: 8 am-8 pm; Friday: 8 am-8 pm; Saturday: Closed; Sunday: Closed",
-    "types": "Pest control service",
-    "lat": 52.895908,
-    "lng": -2.137828,
-    "found_in_location": "Stone",
-    "found_with_query": "pest control midlands",
-    "services": [
-      "Rat & Mouse Control"
-    ]
-  },
-  {
-    "name": "Pestology",
-    "address": "Clifton Villa, 10 Bannut Hill, Kempsey, Worcester, WR5 3NG, GB",
-    "phone": "01905 820155",
-    "international_phone": "01905 820155",
-    "website": "http://www.pestology.co.uk/7627.html",
-    "google_maps_url": "https://www.google.com/maps/place/Pestology/data=!4m7!3m6!1s0x4870fa514c3507fd:0x5a14c7114ea0386b!8m2!3d52.1345901!4d-2.2141154!16s%2Fg%2F1tdw2xzq!19sChIJ_Qc1TFH6cEgRazigThHHFFo?authuser=0&hl=en&rclk=1",
+    "name": "Xpress",
+    "address": "Lincolnshire, Canwick Rd, LocationLincoln, LN5 8EX, GB",
+    "phone": "0344 947 0952",
+    "international_phone": "0344 947 0952",
+    "website": "http://pestcontrollincoln247.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Xpress/data=!4m7!3m6!1s0x48785b33902d59a7:0xaf7513ccd46351b9!8m2!3d53.2204088!4d-0.5336598!16s%2Fg%2F11y5g_p2st!19sChIJp1ktkDNbeEgRuVFj1MwTda8?authuser=0&hl=en&rclk=1",
     "rating": 0.0,
     "total_reviews": 0,
     "business_status": "OPERATIONAL",
     "opening_hours": "",
     "types": "Pest control service",
-    "lat": 52.13459,
-    "lng": -2.214115,
-    "found_in_location": "Worcester",
-    "found_with_query": "pest control midlands"
+    "lat": 53.220409,
+    "lng": -0.53366,
+    "found_in_location": "LocationLincoln",
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Lincoln Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Lincoln, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
+  },
+  {
+    "name": "Xpress Pest Control Services",
+    "address": "Warwickshire, St Davids Way, Nuneaton, CV10 7SD, GB",
+    "phone": "0800 051 8640",
+    "international_phone": "0800 051 8640",
+    "website": "http://pestcontrolnuneaton247.co.uk/",
+    "google_maps_url": "https://www.google.com/maps/place/Xpress+Pest+Control+Services/data=!4m7!3m6!1s0x48774e75ed56cd07:0xc6b1cb28bb02b89!8m2!3d52.4972745!4d-1.4789611!16s%2Fg%2F11y3sjtpyh!19sChIJB81W7XVOd0gRiSuwi7Icaww?authuser=0&hl=en&rclk=1",
+    "rating": 0.0,
+    "total_reviews": 0,
+    "business_status": "OPERATIONAL",
+    "opening_hours": "",
+    "types": "Pest control service",
+    "lat": 52.497274,
+    "lng": -1.478961,
+    "found_in_location": "Nuneaton",
+    "found_with_query": "pest control midlands",
+    "description": "For Local Pest Control Near Me in Nuneaton Call Xpress Pest. Find Emergency Pest Exterminator Today. Pest Infestation Removal Nuneaton, Fast for Home & Commercial Pest Problems!",
+    "services": [
+      "Bed Bug Treatment",
+      "Bird & Pigeon Control",
+      "Emergency Pest Control",
+      "Flea Treatment",
+      "Rat & Mouse Control",
+      "Wasp Nest Removal"
+    ]
   }
 ]

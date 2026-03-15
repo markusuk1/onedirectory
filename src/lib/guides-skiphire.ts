@@ -11,6 +11,10 @@ function generate(r: GuideRegion): Guide[] {
       h1: `Skip Sizes Guide: Which Skip Do You Need in ${r.theName}?`,
       intro: `Choosing the right skip size saves you money and hassle. Too small and you will need a second skip. Too large and you are paying for space you do not use. This guide breaks down every skip size available in ${r.theName} with dimensions, capacity and typical costs to help you choose.`,
       sections: [
+        ...(r.insights?.skipHire ? [{
+          heading: `Skip Hire in ${r.theName}: Local Market Insights`,
+          content: r.insights.skipHire,
+        }] : []),
         {
           heading: "Mini Skip (2-3 Cubic Yards)",
           content: `Mini skips are the smallest option, ideal for small garden clearances, bathroom refits and minor DIY projects. They hold roughly 25-35 bin bags of waste. Dimensions are approximately 1.2m long x 0.9m wide x 0.6m high. Mini skip hire in ${r.theName} typically costs £80-£150 for up to a week. They are easy to position on a driveway and do not require a council permit if placed on private land.`,
