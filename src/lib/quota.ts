@@ -6,11 +6,15 @@ const CLAIM_BONUS = 5;
 const BACKLINK_BONUS = 5;
 
 export interface QuotaStatus {
-  /** Total free quotes earned */
+  /** Total available quotes (free + purchased) */
   total: number;
+  /** Free allowance only (5/10/15) */
+  freeTotal: number;
+  /** Purchased credits (verified only) */
+  purchasedCredits: number;
   /** Quotes already used */
   used: number;
-  /** Remaining free quotes (0 = fee applies) */
+  /** Remaining quotes (0 = blocked when enforcement enabled) */
   remaining: number;
   /** Whether the business profile has been claimed */
   claimed: boolean;
@@ -54,16 +58,40 @@ export async function getQuotaStatus(
   );
   const used = usedResult.rows[0]?.count || 0;
 
-  // Calculate total allowance
-  let total = BASE_FREE_QUOTES;
-  if (claimed) total += CLAIM_BONUS;
-  if (hasBacklink) total += BACKLINK_BONUS;
+  // Count purchased credits (verified only)
+  const creditsResult = await pool.query(
+    `SELECT COALESCE(SUM(credits), 0)::int AS total FROM quote_credit_purchases
+     WHERE business_slug = $1 AND product = $2 AND site = $3 AND status = 'paid'`,
+    [businessSlug, product, site]
+  );
+  const purchasedCredits = creditsResult.rows[0]?.total || 0;
+
+  // Calculate free allowance
+  let freeTotal = BASE_FREE_QUOTES;
+  if (claimed) freeTotal += CLAIM_BONUS;
+  if (hasBacklink) freeTotal += BACKLINK_BONUS;
+
+  const total = freeTotal + purchasedCredits;
 
   return {
     total,
+    freeTotal,
+    purchasedCredits,
     used,
     remaining: Math.max(0, total - used),
     claimed,
     hasBacklink,
   };
+}
+
+/**
+ * Quick check: does this business have any quota remaining?
+ */
+export async function hasQuotaRemaining(
+  businessSlug: string,
+  product: string,
+  site: string
+): Promise<boolean> {
+  const status = await getQuotaStatus(businessSlug, product, site);
+  return status.remaining > 0;
 }

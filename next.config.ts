@@ -41,6 +41,12 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Consolidate per-location service pages to per-product
+      {
+        source: "/:product/:location/services/:service",
+        destination: "/:product/services/:service",
+        permanent: true,
+      },
       {
         source: "/skip-hire/newcastle/annfield-plain-hwrc-tip",
         destination: "/skip-hire/newcastle",
