@@ -303,7 +303,8 @@ export async function POST(request: NextRequest) {
     });
 
     // Process auto-quotes (non-blocking)
-    if (body.product && body.email) {
+    // Only for direct business quotes — instant quotes replace general auto-quotes
+    if (body.product && body.email && body.businessSlug) {
       processAutoQuotes({
         id: leadId,
         product: body.product,
@@ -324,7 +325,8 @@ export async function POST(request: NextRequest) {
     }
 
     // Contact matching operators via WhatsApp + email (non-blocking)
-    if (body.product) {
+    // Only for direct business quotes — instant quotes handle their own outreach
+    if (body.product && body.businessSlug) {
       processOperatorOutreach({
         id: leadId,
         product: body.product,
