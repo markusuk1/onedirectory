@@ -50,4 +50,6 @@ export interface FormFieldConfig {
   conditionalOn?: ConditionalRule;
   /** Help text displayed below field */
   helpText?: string;
+  /** Require value to contain a full UK postcode (e.g. NE1 4ST) */
+  requiresPostcode?: boolean;
 }

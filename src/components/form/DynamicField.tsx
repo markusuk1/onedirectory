@@ -148,8 +148,8 @@ export default function DynamicField({ field, value, onChange, error }: DynamicF
         {field.label}{requiredMark}
       </label>
       {renderInput()}
-      {field.helpText && (
-        <p className="text-xs text-text-light mt-1">{field.helpText}</p>
+      {(field.helpText || field.requiresPostcode) && (
+        <p className="text-xs text-text-light mt-1">{field.helpText || "Must include a full UK postcode"}</p>
       )}
       {error && (
         <p className="text-xs text-red-600 mt-1">{error}</p>

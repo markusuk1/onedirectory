@@ -36,6 +36,14 @@ export function generateZodSchema(fields: FormFieldConfig[]): z.ZodObject<Record
         validator = z.string();
     }
 
+    if (field.requiresPostcode && (field.type === "text" || field.type === "textarea")) {
+      const postcodePattern = /[A-Z]{1,2}\d{1,2}[A-Z]?\s*\d[A-Z]{2}/i;
+      validator = (validator as z.ZodString).refine(
+        (val) => postcodePattern.test(val),
+        { message: "Please include a full UK postcode (e.g. NE1 4ST)" }
+      );
+    }
+
     if (!field.required) {
       validator = validator.optional().or(z.literal(""));
     }
