@@ -6,6 +6,7 @@ import { PRODUCT_CONFIGS, type ProductId } from "@/lib/productConfig";
 import type { FormFieldConfig } from "@/lib/formFieldTypes";
 import DynamicFormFields from "@/components/form/DynamicFormFields";
 import ContactConsent from "@/components/form/ContactConsent";
+import InstantQuotes from "@/components/quote/InstantQuotes";
 
 interface ManagedQuoteFormProps {
   productId?: ProductId;
@@ -35,12 +36,22 @@ const MINIBUS_EXTRA_FIELDS: FormFieldConfig[] = [
   },
 ];
 
+interface QuoteData {
+  id: string;
+  pricePence: number;
+  summary: string;
+  tier: string;
+}
+
 export default function ManagedQuoteForm({ productId = "minibus-hire" }: ManagedQuoteFormProps) {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [fieldValues, setFieldValues] = useState<Record<string, string | number>>({});
   const [allowDirectContact, setAllowDirectContact] = useState(false);
   const [contactMethods, setContactMethods] = useState<string[]>([]);
+  // Instant quotes state
+  const [instantQuotes, setInstantQuotes] = useState<QuoteData[] | null>(null);
+  const [sessionId, setSessionId] = useState<string | null>(null);
 
   const config = PRODUCT_CONFIGS[productId];
   const baseQuoteFields = config.quoteFields ?? [];
@@ -128,21 +139,40 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
     }
 
     try {
-      await fetch("/api/leads", {
+      // Try instant quotes first
+      const quoteRes = await fetch("/api/quotes/generate", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "X-POSTHOG-DISTINCT-ID": posthog.get_distinct_id() ?? "",
-          "X-POSTHOG-SESSION-ID": posthog.get_session_id() ?? "",
-        },
-        body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ product: productId, details, tier: "premium" }),
       });
-      posthog.capture("managed_quote_requested", {
-        product: productId,
-        type: "managed_quote",
-        budget: base.budget || null,
-      });
-      setSubmitted(true);
+      const quoteData = await quoteRes.json();
+
+      if (quoteRes.ok && quoteData.quotes?.length > 0) {
+        setInstantQuotes(quoteData.quotes);
+        setSessionId(quoteData.sessionId);
+        posthog.capture("instant_quotes_shown", {
+          product: productId,
+          count: quoteData.quotes.length,
+        });
+        setSubmitted(true);
+      } else {
+        // Fallback to legacy lead flow
+        await fetch("/api/leads", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "X-POSTHOG-DISTINCT-ID": posthog.get_distinct_id() ?? "",
+            "X-POSTHOG-SESSION-ID": posthog.get_session_id() ?? "",
+          },
+          body: JSON.stringify(data),
+        });
+        posthog.capture("managed_quote_requested", {
+          product: productId,
+          type: "managed_quote",
+          budget: base.budget || null,
+        });
+        setSubmitted(true);
+      }
     } catch (err) {
       posthog.captureException(err);
       alert("Something went wrong. Please try again.");
@@ -152,6 +182,18 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
   }
 
   if (submitted) {
+    // Show instant quotes if available
+    if (instantQuotes && sessionId) {
+      return (
+        <InstantQuotes
+          quotes={instantQuotes}
+          sessionId={sessionId}
+          product={productId}
+        />
+      );
+    }
+
+    // Legacy fallback success state
     return (
       <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
         <svg
@@ -264,7 +306,7 @@ export default function ManagedQuoteForm({ productId = "minibus-hire" }: Managed
       </button>
 
       <p className="text-xs text-text-light text-center">
-        We&apos;ll contact operators on your behalf and email you quotes as they come in. Free, no obligation.
+        See instant price estimates from local operators. Free, no obligation.
       </p>
     </form>
   );

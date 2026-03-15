@@ -237,3 +237,90 @@ export async function initLeadReportTables() {
     CREATE INDEX IF NOT EXISTS idx_lead_reports_status ON lead_reports(status);
   `);
 }
+
+let instantQuoteTablesReady = false;
+
+export async function initInstantQuoteTables() {
+  if (instantQuoteTablesReady) return;
+  await pool.query(`
+    CREATE TABLE IF NOT EXISTS instant_quote_sessions (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      product VARCHAR(50) NOT NULL,
+      site VARCHAR(50) NOT NULL,
+      details JSONB NOT NULL,
+      tier VARCHAR(20) NOT NULL DEFAULT 'premium',
+      created_at TIMESTAMPTZ DEFAULT NOW(),
+      expires_at TIMESTAMPTZ NOT NULL
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_iqs_product_site ON instant_quote_sessions(product, site);
+    CREATE INDEX IF NOT EXISTS idx_iqs_created ON instant_quote_sessions(created_at);
+
+    CREATE TABLE IF NOT EXISTS instant_quotes (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      session_id UUID REFERENCES instant_quote_sessions(id) NOT NULL,
+      price_pence INTEGER NOT NULL,
+      operator_price_pence INTEGER NOT NULL,
+      platform_fee_pence INTEGER NOT NULL,
+      tier VARCHAR(20) NOT NULL,
+      summary VARCHAR(255) NOT NULL,
+      sort_order INTEGER NOT NULL DEFAULT 0,
+      created_at TIMESTAMPTZ DEFAULT NOW()
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_iq_session ON instant_quotes(session_id);
+
+    CREATE TABLE IF NOT EXISTS quote_acceptances (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      quote_id UUID REFERENCES instant_quotes(id) NOT NULL,
+      session_id UUID REFERENCES instant_quote_sessions(id) NOT NULL,
+      lead_id UUID,
+      name VARCHAR(255) NOT NULL,
+      email VARCHAR(255) NOT NULL,
+      phone VARCHAR(50),
+      status VARCHAR(30) DEFAULT 'pending',
+      created_at TIMESTAMPTZ DEFAULT NOW(),
+      claimed_at TIMESTAMPTZ
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_qa_quote ON quote_acceptances(quote_id);
+    CREATE INDEX IF NOT EXISTS idx_qa_status ON quote_acceptances(status);
+
+    CREATE TABLE IF NOT EXISTS job_claims (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      acceptance_id UUID REFERENCES quote_acceptances(id) NOT NULL,
+      operator_hash VARCHAR(20) NOT NULL,
+      operator_email VARCHAR(255),
+      operator_name VARCHAR(255),
+      claim_token VARCHAR(64) NOT NULL UNIQUE,
+      customer_price_pence INTEGER NOT NULL,
+      operator_price_pence INTEGER NOT NULL,
+      platform_fee_pence INTEGER NOT NULL,
+      status VARCHAR(30) DEFAULT 'pending',
+      sumup_checkout_id VARCHAR(100),
+      created_at TIMESTAMPTZ DEFAULT NOW(),
+      paid_at TIMESTAMPTZ
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_jc_acceptance ON job_claims(acceptance_id);
+    CREATE INDEX IF NOT EXISTS idx_jc_token ON job_claims(claim_token);
+    CREATE INDEX IF NOT EXISTS idx_jc_operator ON job_claims(operator_hash);
+
+    CREATE TABLE IF NOT EXISTS quote_analytics (
+      id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+      session_id UUID,
+      quote_id UUID,
+      event_type VARCHAR(50) NOT NULL,
+      product VARCHAR(50),
+      site VARCHAR(50),
+      tier VARCHAR(20),
+      price_pence INTEGER,
+      metadata JSONB,
+      created_at TIMESTAMPTZ DEFAULT NOW()
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_qan_event ON quote_analytics(event_type);
+    CREATE INDEX IF NOT EXISTS idx_qan_product_site ON quote_analytics(product, site);
+  `);
+  instantQuoteTablesReady = true;
+}

@@ -7,6 +7,8 @@ const STATIC_ROUTES = new Set([
   "blog",
   "faq",
   "guides",
+  "jobs",
+  "quotes",
   "get-quotes",
   "quote",
   "privacy",

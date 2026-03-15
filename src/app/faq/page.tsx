@@ -44,8 +44,12 @@ function getRegionalFaqs(region: string, totalBusinesses: number, totalProducts:
           answer: "Yes, completely free for customers. You can browse listings, compare companies and request quotes at no cost. There is no obligation to hire any company you contact through our directory.",
         },
         {
-          question: "How do I request a quote?",
-          answer: "Click the \"Get Quotes\" button on any page. Fill in your requirements — the form adapts based on the service you need. Your details are sent to relevant local operators who will contact you with quotes. You can also contact companies directly using the phone numbers and email addresses on their listing pages.",
+          question: "How do I get a quote?",
+          answer: "Click \"Get Quotes\" on any page, fill in your requirements (no personal details needed at this stage), and you will see up to 10 instant price estimates in seconds. If you like a price, accept it and provide your contact details — we will then match you with a local operator who can do the job at that price. You can also contact companies directly using the details on their listing pages.",
+        },
+        {
+          question: "How are the instant prices calculated?",
+          answer: "Our pricing engine uses real market data from thousands of jobs across the UK, adjusted for your region, the type of service, job size, and time of year. The prices shown are estimates — your matched operator will confirm the final price based on the exact details of your job.",
         },
       ],
     },
@@ -57,8 +61,8 @@ function getRegionalFaqs(region: string, totalBusinesses: number, totalProducts:
           answer: "Prices vary significantly depending on the service, your location, the job size and the time of year. Our directory helps you compare multiple companies so you can find competitive pricing. We recommend getting at least three quotes before making a decision.",
         },
         {
-          question: "Should I get multiple quotes?",
-          answer: "Yes, always. Prices can vary by 30-50% between providers for the same job. Getting three or more quotes helps you understand the market rate and spot any unusually high or suspiciously low pricing. Our quote request form makes this easy by sending your requirements to multiple relevant operators.",
+          question: "Should I compare multiple prices?",
+          answer: "Yes. Our instant quotes tool shows you up to 10 price estimates at once so you can see the full range. Prices can vary by 30-50% between providers for the same job. If none of the initial prices suit you, click \"Wait for more quotes\" and we will send you a second batch of prices — often at lower rates.",
         },
         {
           question: "How far in advance should I book?",
@@ -100,7 +104,7 @@ function getRegionalFaqs(region: string, totalBusinesses: number, totalProducts:
         },
         {
           question: "How do I receive customer enquiries?",
-          answer: "When customers request quotes through our site, their details are sent to relevant operators in the area. Make sure your listing has up-to-date contact details so customers can also reach you directly. Operators with claimed profiles receive priority placement.",
+          answer: "When customers accept an instant quote through our site, we contact matching operators in the area with the job details and customer budget. Operators can claim the job by paying a small platform fee to receive the customer's contact details. Make sure your listing has up-to-date contact details. Operators with claimed profiles receive priority placement.",
         },
       ],
     },

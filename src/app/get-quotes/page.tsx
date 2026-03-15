@@ -8,9 +8,9 @@ import GetQuotesClient from "./GetQuotesClient";
 const site = getSiteConfig();
 
 export const metadata: Metadata = {
-  title: "Get Multiple Hire Quotes | We Do the Work For You",
+  title: "Get Instant Quotes | Compare Prices in Seconds",
   description:
-    "Tell us your requirements and we'll contact operators on your behalf. Receive multiple quotes by email — free, no obligation.",
+    "Tell us what you need and get instant price estimates from local operators. Compare quotes, accept the best price, and get matched — free, no obligation.",
 };
 
 export default async function GetQuotesPage({
@@ -36,14 +36,14 @@ export default async function GetQuotesPage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <div className="text-center mb-8">
           <span className="inline-block bg-primary/10 text-primary text-sm font-medium px-3 py-1 rounded-full mb-3">
-            Save time, save money
+            Instant prices, no waiting
           </span>
           <h1 className="text-2xl md:text-4xl font-bold text-text mb-3">
-            Let Us Find You the Best Price
+            Get Instant Quotes in Seconds
           </h1>
           <p className="text-text-light text-lg max-w-2xl mx-auto">
-            Tell us what you need and we&apos;ll contact multiple operators on
-            your behalf. You&apos;ll receive quotes straight to your inbox.
+            Tell us what you need and see prices instantly. Accept a quote
+            and we&apos;ll match you with a local operator — free, no obligation.
           </p>
         </div>
 
@@ -59,13 +59,13 @@ export default async function GetQuotesPage({
             <div className="w-10 h-10 bg-primary/10 text-primary rounded-full flex items-center justify-center mx-auto mb-2 font-bold">
               2
             </div>
-            <p className="text-sm font-medium text-text">We contact operators</p>
+            <p className="text-sm font-medium text-text">See instant prices</p>
           </div>
           <div className="text-center">
             <div className="w-10 h-10 bg-primary/10 text-primary rounded-full flex items-center justify-center mx-auto mb-2 font-bold">
               3
             </div>
-            <p className="text-sm font-medium text-text">Compare & choose</p>
+            <p className="text-sm font-medium text-text">Accept & get matched</p>
           </div>
         </div>
 
@@ -76,15 +76,15 @@ export default async function GetQuotesPage({
         {/* Why use us */}
         <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-surface border border-border rounded-xl p-5">
-            <h3 className="font-semibold text-text mb-1">No ringing around</h3>
+            <h3 className="font-semibold text-text mb-1">Instant prices</h3>
             <p className="text-sm text-text-light">
-              We contact suitable operators in your area so you don&apos;t have to.
+              See up to 10 price estimates in seconds — no waiting around for callbacks.
             </p>
           </div>
           <div className="bg-surface border border-border rounded-xl p-5">
-            <h3 className="font-semibold text-text mb-1">Compare prices</h3>
+            <h3 className="font-semibold text-text mb-1">Compare & choose</h3>
             <p className="text-sm text-text-light">
-              Receive multiple quotes by email and pick the one that suits you best.
+              Compare prices side by side and accept the one that suits your budget.
             </p>
           </div>
           <div className="bg-surface border border-border rounded-xl p-5">
@@ -94,10 +94,9 @@ export default async function GetQuotesPage({
             </p>
           </div>
           <div className="bg-surface border border-border rounded-xl p-5">
-            <h3 className="font-semibold text-text mb-1">Local expertise</h3>
+            <h3 className="font-semibold text-text mb-1">Matched locally</h3>
             <p className="text-sm text-text-light">
-              We know the {site.shortName} operators and will match you with the
-              right ones.
+              We match you with vetted {site.shortName} operators who can do the job at your price.
             </p>
           </div>
         </div>
